@@ -1,7 +1,7 @@
 ---
 title: "Optimal Settings: Where to Store Your Games on Xbox"
-date: 2025-01-09T20:56:41.081Z
-updated: 2025-01-10T16:11:12.586Z
+date: 2025-01-10T04:37:25.969Z
+updated: 2025-01-16T12:33:35.591Z
 tags:
   - windows10
   - windows11
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/c9e9de36eb357f7db5b739ff1ada424f8276ace68
  To restart, press the**Alt + F4** hotkeys to open the Shut Down Windows prompt, click the drop-down icon, choose**Restart** from the context menu, and then click**OK.** After restart, launch the Xbox app and check if you can choose a different drive to install games. If not, then it's time to dive into the advanced troubleshooting methods.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Change the Installation Directory in the Xbox App Settings
@@ -59,9 +59,17 @@ thumbnail: https://thmb.techidaily.com/c9e9de36eb357f7db5b739ff1ada424f8276ace68
 ![Where new content is saved option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/where-new-content-is-saved.png)
 4. Click the drop-down icon under the**New** **apps** **will save to** section, choose the drive where you want to install the game, and then click**Apply.**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![New apps will save to section in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/new-apps-will-save-to-section.jpg)
 
  That's it! Restart your computer and check if the problem continues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Restart Important Xbox Services
 
@@ -80,7 +88,7 @@ Xbox Live Auth Manager
 Xbox Live Networking Service`
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Reinstall the Gaming Services App
@@ -98,10 +106,6 @@ Xbox Live Networking Service`
 ![Delete option in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/delete-option.jpg)
 4. Click**Yes** to confirm your selection.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Next, delete the**GamingServicesNet** folder as well in the left sidebar.
 
  Now, open the elevated PowerShell window (see how to[open Windows PowerShell as an administrator](https://www.makeuseof.com/windows-powershell-always-open-as-administrator/) ), type the following command, and press**Enter** .
@@ -112,15 +116,15 @@ Xbox Live Networking Service`
 
  After uninstalling the Gaming Services app, restart your computer. Then, open the Microsoft Store, search for and[download the Gaming Services](https://apps.microsoft.com/store/detail/gaming-services/9MWPM2CQNLHN?hl=en-us&gl=us) app again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Repair the Xbox App
 
  It's very common for the Xbox app to get corrupt and throw various issues. The best way to remove corruption from the UWP apps like the Xbox app is to use the Windows repair feature.
 
  Check out[how to repair apps and programs on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) for information on how to do this.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Update the Xbox App
 
@@ -134,10 +138,6 @@ To update the Xbox app, follow the below steps:
  The Microsoft Store will now automatically download updates for installed apps, including the Xbox app.
 
  While you're at installing updates, we'd also recommend[downloading any available Windows updates](https://www.makeuseof.com/tag/update-windows-software-guide/) . To do so, launch the Settings app, choose**Windows Update** from the left sidebar, and then click the**Check for Updates** button to install any available update on your computer. Following this, you will be able to choose a drive to install games on the Xbox app.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Change the Download Location of the Xbox App
 
@@ -160,22 +160,21 @@ To update the Xbox app, follow the below steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-mastering-gesture-control-a-comprehensive-overview-for-2024/"><u>[New] Mastering Gesture Control A Comprehensive Overview for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-ancient-artifacts-iphone-x-selfies/"><u>[Updated] 2024 Approved Ancient Artifacts – iPhone X Selfies</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-superior-top-ten-nintendo-switch-combat-games-max-156/"><u>[Updated] 2024 Approved Superior Top Ten Nintendo Switch Combat Games (Max 156)</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-audio-accomplishment-iphone-as-a-podcast-hub/"><u>[Updated] Audio Accomplishment IPhone as a Podcast Hub</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-windows-junk-uninstall-list-revealed/"><u>Essential Windows Junk: Uninstall List Revealed</u></a></li>
-<li><a href="https://windows11.techidaily.com/ftdibussys-dissected-why-it-causes-disturbances-in-windows-memory/"><u>Ftdibus.sys Dissected: Why It Causes Disturbances in Windows Memory</u></a></li>
-<li><a href="https://fox-where.techidaily.com/guide-pratique-localisation-du-dossier-programdata-dans-windows-11-resolu/"><u>Guide Pratique : Localisation Du Dossier 'ProgramData' Dans Windows 11 - Résolu!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Nokia C12 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721480680894-issues-with-your-iphones-flashlight-try-these-12-remedies-to-restore-illumination/"><u>Issues with Your iPhone's Flashlight? Try These 12 Remedies to Restore Illumination.</u></a></li>
-<li><a href="https://windows11.techidaily.com/master-cortana-archive-windows-based-steps/"><u>Master Cortana Archive: Windows-Based Steps</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-windows-11-folder-access-top-techniques-explored/"><u>Mastering Windows 11 Folder Access: Top Techniques Explored</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-wpm-in-windows-11-a-step-by-step-guide/"><u>Mastering WPM in Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/no-more-upgrades-try-these-windows-solutions/"><u>No More Upgrades? Try These Windows Solutions</u></a></li>
-<li><a href="https://windows11.techidaily.com/reimagine-windows-11-notepad-aesthetics-and-readability/"><u>Reimagine Windows 11 Notepad: Aesthetics & Readability</u></a></li>
-<li><a href="https://network-issues.techidaily.com/say-goodbye-to-gpu-shuffling-now-fixes-apply-to-win11/"><u>Say Goodbye to GPU Shuffling - Now Fixes Apply to Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/swiftly-syncing-spotify-on-windows-11-systems/"><u>Swiftly Syncing Spotify on Windows 11 Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/unsupported-devices-heres-how-to-elevate-with-win11-22h2/"><u>Unsupported Devices? Here’s How to Elevate with Win11 22H2</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-melodic-alerts-downloading-and-altering-tamil-tunes/"><u>[New] 2024 Approved Melodic Alerts Downloading and Altering Tamil Tunes</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-nifty-steps-to-generate-timely-captions-and-text-for-fb-video-uploads/"><u>[New] 2024 Approved Nifty Steps to Generate Timely Captions and Text for FB Video Uploads</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-pinnacle-10-royale-clashes/"><u>[New] In 2024, Pinnacle 10 Royale Clashes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-screen-capture-essentials-the-finest-zero-cost-apps-for-win-10-users/"><u>[Updated] Screen Capture Essentials The Finest Zero-Cost Apps for Win 10 Users</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-unlock-your-facebook-cache-securely-download-messages-and-vids/"><u>[Updated] Unlock Your Facebook Cache Securely Download Messages & Vids</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726220198396-mp4gif-movavi/"><u>網站無限制地自由改變MP4成為GIF - 利用Movavi的方式</u></a></li>
+<li><a href="https://windows11.techidaily.com/achieving-superior-desktop-images-in-windows-11/"><u>Achieving Superior Desktop Images in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/combatting-dxgierrordeviceremoved-in-modern-win-oses/"><u>Combatting DXGI_ERROR_DEVICE_REMOVED in Modern Win OSes</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722977766938-download-and-latest-updates-for-canon-mg3022-printer-drivers/"><u>Download & Latest Updates for Canon MG3022 Printer Drivers</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-your-windows-security-incorporating-firewalls-into-context-menu/"><u>Enhance Your Windows Security: Incorporating Firewalls Into Context Menu</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-proven-performers-the-best-of-8-mirrorless-cameras-for-video-creators/"><u>In 2024, Proven Performers The Best of 8 Mirrorless Cameras for Video Creators</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-internet-connection-league-of-legends-on-windows/"><u>Mastering Internet Connection: League of Legends on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-fixing-windows-11s-5ghz-connectivity/"><u>Mastering the Art of Fixing Windows 11'S 5GHz Connectivity</u></a></li>
+<li><a href="https://windows11.techidaily.com/multiply-your-efforts-mastering-multiple-directory-creation-in-win11plus11/"><u>Multiply Your Efforts: Mastering Multiple Directory Creation in Win11+11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/sign-up-strategies-for-embracing-chatgpt-plugins/"><u>Sign Up Strategies for Embracing ChatGPT Plugins</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-the-msvcr110dll-absence-a-solution-walkthrough/"><u>Tackling the Msvcr110.dll Absence: A Solution Walkthrough</u></a></li>
 </ul></div>
 

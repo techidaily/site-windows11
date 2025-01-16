@@ -1,7 +1,7 @@
 ---
 title: Correcting Windows' XC0F1103F GeForce Not Working
-date: 2024-08-15T15:11:57.738Z
-updated: 2024-08-16T15:11:57.738Z
+date: 2025-01-10T13:22:37.608Z
+updated: 2025-01-16T05:59:24.632Z
 tags:
   - windows10
   - windows11
@@ -20,26 +20,32 @@ thumbnail: https://thmb.techidaily.com/86c324ce76532279df624a7b580daa3d859103088
 
  That issue occurs on PCs that do meet the minimum streaming system requirements. Is the same error stopping you from playing GeForce Now titles? If so, this is how you can fix error 0xc0f1103f in Windows 10 and 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Double-Check That Your PC Matches GeForce Now's System Requirements
 
  If you’re a first-time GeForce Now user, double-check your PC meets the streaming service’s system requirements before troubleshooting. Open the [GeForce Now system requirement page](https://www.nvidia.com/en-gb/geforce-now/system-reqs/) for Windows PCs to check hardware requirements.
 
 ![GeForce Now system requirements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/geforce-now-system-requirements.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can check how your PC’s specs match up by [opening the System Information app](https://www.makeuseof.com/windows-open-system-information/) . The system summary shows most of the essential hardware specs for GeForce Now streaming. You can view GPU details by clicking**Components** \>**Display** in the System Information app.
 
  You’ll need to upgrade your PC if it doesn’t match a system requirement. Desktop users can add new graphics adapters or even processors to their PCs if required. If your PC does indeed match all the GeForce Now requirements, proceed with the troubleshooting below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## 1\. Double-Check if GeForce Now’s Servers Are Operational
 
  This error can occur because the GeForce Now server is down. For example, the server could be down for maintenance. You can check the service status for various regions on the [GeForce Now service status](https://status.geforcenow.com/) page. If a server for your region is down, wait until the service is operational again before opening the GeForce Now app again.
 
 ![The NVIDIA server status page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-server-status-page.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Run GeForce Now With Administrator Rights
@@ -47,20 +53,13 @@ thumbnail: https://thmb.techidaily.com/86c324ce76532279df624a7b580daa3d859103088
  Running GeForce Now with admin rights is a simple potential solution to try that’s worth a try. If you have a desktop shortcut for the software, right-click and select the**Run as administrator** option. Or you can enter**GeForce Now** in the Windows search box and right-click the app in the results to select**Run as administrator** .
 
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-as-adminstrator-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If that works, it’s best to set GeForce Now to always run with elevated rights. You can do that by opening the properties window for the GeForce Now EXE (Application) and selecting the**Run as administrator** checkbox. Check out our guide about [always running apps as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) for further details.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Select a Power Saving GPU for the GeForce Now App
 
  This resolution applies to users with PCs that have two GPUs (graphics processing units). Selecting a power-saving integrated GPU for the GeForce Now app is a widely confirmed fix for error 0xc0f1103f. This is how you can select an integrated GPU for the GeForce Now app in Windows:
@@ -81,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/86c324ce76532279df624a7b580daa3d859103088
 
  Other users have said updating graphics drivers resolved the issue for them. You can update your PC’s graphics driver with third-party driver update software or download it from the NVIDIA, AMD, or Intel manufacturer site. Check out our guide for [updating graphics drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) for further details about applying this potential error 0xc0f1103f solution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Restart All NVIDIA-Related Services
 
  This GeForceNow error can occur because certain NVIDIA certain services are not running or need restarting. You can fix that by going through and restarting (or starting) all NVIDIA services as follows:
@@ -93,20 +96,19 @@ thumbnail: https://thmb.techidaily.com/86c324ce76532279df624a7b580daa3d859103088
 ![The Restart option for a NVIDIA service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restart-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Turn Off Any Active Proxy Servers
 
  Do you have a proxy server on your PC? If so, that could be causing the 0xc0f1103f error by generating a server issue. So, try disabling your proxy server on Windows via Settings or the Control Panel. Our article about [disabling your proxy server on Windows](https://www.makeuseof.com/windows-11-disable-proxy/) includes instructions for how to do so.
 
 ![The Edit proxy server option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/edit-proxy-server-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Disable Any Active VPNs
 
  Weaker VPN (Virtual Private Network) connections can also cause this game streaming issue to arise. If you utilize a VPN connection, disable it via the Windows Settings app like this:
@@ -120,10 +122,6 @@ thumbnail: https://thmb.techidaily.com/86c324ce76532279df624a7b580daa3d859103088
 5. Then select the**Disconnect** option for the VPN.
 6. Open GeForce Now and try playing some games with the VPN disconnected.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 8\. Reinstall GeForce Now
 
  The GeForce Now app might be corrupted if none of the alternative troubleshooting methods specified here work for you. In this case, you’ll probably need to reinstall the GeForce Now software to resolve such an issue. These are the steps for reinstalling GeForce Experience:
@@ -139,13 +137,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Double-click the**GeForce-Now-release.exe** file to open the software’s setup wizard.
 7. Then go through the setup wizard steps to reinstall GeForce Now.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## Play GeForce Now Games on Windows Again
 
  Those are the most likely potential fixes for error 0xc0f1103f that have worked for users. So, there’s a pretty good chance one will resolve that issue on your PC if it meets the minimum GeForce Now system requirements. With error 0xc0f1103f fixed, you can enjoy all the best games the GeForce Now streaming service has to offer again.
@@ -156,8 +147,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,6 +154,24 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-budget-friendly-bundles-startup-channels-for-newcomers/"><u>[New] In 2024, Budget-Friendly Bundles Startup Channels for Newcomers</u></a></li>
+<li><a href="https://win-web.techidaily.com/amd-virtual-chip-emulator-optimize-gaming-and-live-capture-experience/"><u>AMD Virtual Chip Emulator: Optimize Gaming & Live Capture Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/customizing-security-a-comprehensive-guide-to-lock-patterns-in-windows-11/"><u>Customizing Security: A Comprehensive Guide to Lock Patterns in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-taskmgr-with-command-line-interface-cli-feature/"><u>Enhance TaskMgr with Command Line Interface (CLI) Feature</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-onedrive-login-hiccup-zero-based-code-error-on-win11/"><u>Fixing OneDrive Login Hiccup: Zero-Based Code Error on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-looks-like-youre-stranded-xbox-app-error-in-windows-11-and-11/"><u>How to Fix the “Looks Like You’re Stranded” Xbox App Error in Windows 11 & 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-infinix-note-30-5g-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Infinix Note 30 5G using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://windows11.techidaily.com/leveraging-windows-innovations-to-enrich-macos/"><u>Leveraging Windows Innovations to Enrich macOS</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-windows-performance-with-extended-display-setup/"><u>Master Window's Performance With Extended Display Setup</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/navigating-to-youtube-comment-sections-swiftly/"><u>Navigating to YouTube Comment Sections Swiftly</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-discover-how-you-can-use-vectorscope-to-adjust-luminance-color-grading-and-more-in-your-video-editing-projects-for-2024/"><u>New Discover How You Can Use Vectorscope to Adjust Luminance, Color Grading, and More in Your Video Editing Projects for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-a-non-responsive-fn-key-on-your-lenovo-device/"><u>Quick Fixes for a Non-Responsive Fn Key on Your Lenovo Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/revising-account-lockout-count-after-multiple-login-failures-in-windows-11/"><u>Revising Account Lockout Count After Multiple Login Failures in Windows 11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782984-9781594775963-tao-of-no-stress/"><u>Tao of No Stress | Free Book</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-complete-surface-computing-firmware-upgrade-manual/"><u>The Complete Surface Computing Firmware Upgrade Manual</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-windows-pc-select-prime-clock-saver-programs/"><u>Transform Windows PC – Select Prime Clock Saver Programs</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-unbrand-your-videos-remove-filmora-watermark-for-freepaid/"><u>Updated Unbrand Your Videos Remove Filmora Watermark for Free/Paid</u></a></li>
+</ul></div>
 

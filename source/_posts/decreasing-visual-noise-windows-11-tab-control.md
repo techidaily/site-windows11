@@ -1,7 +1,7 @@
 ---
 title: "Decreasing Visual Noise: Windows 11 Tab Control"
-date: 2024-08-08T06:01:32.782Z
-updated: 2024-08-09T06:01:32.782Z
+date: 2025-01-15T05:56:09.009Z
+updated: 2025-01-16T14:00:04.462Z
 tags:
   - windows10
   - windows11
@@ -21,15 +21,13 @@ thumbnail: https://thmb.techidaily.com/d54fa6180dfbcf214df4f9458a0e28f5138815530
  But what if you want to turn the File Explorer Tabs feature off? An immediate idea would be to uninstall the update, but that is a temporary workaround. You can use ViVeTool to enable or disable the tabs feature or any other new feature of Windows 11.
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is ViVeTool?
 
  ViVeTool is an open-source command line tool that can enable or disable Windows operating system features. Microsoft continuously works on many experimental features and does a lot of testing before rolling out a stable version of a feature. But if you are impatient, you can use ViVeTool to enable an otherwise hidden feature. It is free and the developers recently launched a GUI version of the tool as well.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Disable File Explorer Tabs In Windows 11
 
  You can disable the File Explorer Tabs by either using the ViVeTool or the ViVeTool GUI version. The latter is much simpler to use because you can search for a feature and activate or deactivate it in one click. But before doing that, download and install both of these tools on your system. Also,[create a system restore point](https://www.makeuseof.com/windows-11-create-restore-point/) for added precaution, in case the tool wrecks something on your Windows 11 computer.
@@ -39,8 +37,9 @@ thumbnail: https://thmb.techidaily.com/d54fa6180dfbcf214df4f9458a0e28f5138815530
 **Download:** [ViVeTool GUI](https://github.com/PeterStrick/ViVeTool-GUI/releases)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Disable File Explorer Tabs Using the ViVeTool
 
  Since it is a command line tool, you can access it from a terminal window. Here’s how to do it:
@@ -57,8 +56,9 @@ vivetool /disable /id:36354489
 7. Now,**restart** your system for the changes to take effect. The File Explorer Tabs feature will no longer be active on your system.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Disable File Explorer Tabs Using the ViVeTool GUI version
 
  The GUI version of ViVeTool works similarly. You can manually enter the feature ID or use the search function to find a feature in the list. Repeat the following steps to disable File Explorer Tabs using the ViVeTool GUI.
@@ -66,29 +66,29 @@ vivetool /disable /id:36354489
 1. Launch the ViVeTool GUI with admin privileges.
 2. Click on the drop-down list and select the latest Windows build number. Wait for the tool to list all the feature IDs available for the Windows build.
 3. Type**37634385** in the search bar. Select the highlighted feature and click on the**Perform Action** button.  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Disable File Explorer Tabs Using the ViVeTool GUI version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-file-explorer-tabs-using-the-vivetool-gui-version.jpg)
 4. Select the**Deactivate Feature** option. Similarly, find the feature ID**36354489** and deactivate it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Now, close the ViVeTool GUI and**restart** your system.
 6. Open the File Explorer and you won’t see the tabs feature anymore.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Disable Any Windows 11 Feature Using ViVeTool
 
  File Explorer tabs are more useful than you think. But if you use another File Explorer program or can make do without it, ViVeTool is a great utility to disable/enable it. Moreover, it is completely free, and you can even enable other experimental features of Windows 11.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -97,6 +97,26 @@ vivetool /disable /id:36354489
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-the-exclusive-list-of-elite-christian-streaming-services-for-2024/"><u>[Updated] The Exclusive List of Elite Christian Streaming Services for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-multi-screen-recording-setup/"><u>2024 Approved Multi-Screen Recording Setup</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhancing-image-quality-step-by-step-guide-to-fixing-fuzzy-visuals-in-call-of-duty-warzone-pc-version/"><u>Enhancing Image Quality: Step-by-Step Guide to Fixing Fuzzy Visuals in Call of Duty: Warzone (PC Version)</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-how-to-stop-cortana-in-windows-11/"><u>Guide: How to Stop Cortana in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-link-onedrive-to-your-microsoft-account-on-windows/"><u>How to Link OneDrive to Your Microsoft Account on Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-honor-x50i-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-poco-m6-pro-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Poco M6 Pro 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-atandt-iphone-11-pro-with-3-methods-by-drfone-ios/"><u>In 2024, How to Unlock AT&T iPhone 11 Pro with 3 Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/joining-the-ranks-of-windows-11-insiders-explained/"><u>Joining the Ranks of Windows 11 Insiders Explained</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leading-20-creative-anime-music-starts-for-2024/"><u>Leading 20 Creative Anime Music Starts for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-maze-acquire-user-sids-in-windows-11/"><u>Navigating the Maze: Acquire User SIDs in Windows 11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-from-your-iphone-13-mini-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status From Your iPhone 13 mini</u></a></li>
+<li><a href="https://windows11.techidaily.com/off-sight-panes-not-anymore-revive-them-with-these-6-secrets-for-windows-users/"><u>Off-Sight Panes? Not Anymore! Revive Them with These 6 Secrets for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/rectifying-win1011-portaudio-hiccups-within-audacity-application/"><u>Rectifying Win10/11 PortAudio Hiccups Within Audacity Application</u></a></li>
+<li><a href="https://win-dash.techidaily.com/smart-bus-controller-driver-free-download-available-for-windows-11-10-8-and-7-systems/"><u>Smart Bus Controller Driver Free Download - Available for Windows 11, 10, 8 & 7 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-rectify-valorants-lacking-in-game-communication/"><u>Steps to Rectify Valorant's Lacking In-Game Communication</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-bsod-prevention-with-vmware-on-windows-11/"><u>Strategies for BSOD Prevention with VMware on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/transcending-boundaries-how-windows-enhances-gameplay/"><u>Transcending Boundaries: How Windows Enhances Gameplay</u></a></li>
+<li><a href="https://windows11.techidaily.com/widgets-essentials-launching-into-windows-11/"><u>Widgets Essentials: Launching Into Windows 11</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Navigating Spotify Error 4 in Windows 11 Environments
-date: 2025-01-05T17:00:20.568Z
-updated: 2025-01-10T17:29:11.403Z
+date: 2025-01-14T05:50:48.672Z
+updated: 2025-01-16T08:50:49.680Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 
  Clearing the DNS cache will flush out and refresh its data. You can clear the DNS cache by running a flush DNS command in Command Prompt or Run. Check out our guide about[how to flush the DNS](https://www.makeuseof.com/flush-dns-cache-windows-11/) on Windows for further details about how to apply this solution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Select the HTTP Option in Spotify
 
  Spotify includes alternative proxy settings you can select to configure how that app connects with the Internet. Changing the proxy option to**HTTP** can reputedly resolve error code 4\. You can select the**HTTP** option in Spotify as follows:
@@ -47,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 5. Then select**Restart App** to apply.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Change DNS Server Settings
@@ -57,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
  Our guide to[changing the DNS server in Windows](https://www.makeuseof.com/windows-11-alternate-ways-change-dns-server-settings/) post includes step-by-step guidelines for how to apply this solution via the Control Panel and Settings among other methods. You’ll need to set the preferred and alternative DNS server settings to Google addresses. Input**8.8.8.8** for the preferred DNS server and**8.8.4.4** for the alternative DNS setting.
 
 ![DNS server settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dns-server-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Tweak the Registry
 
@@ -76,12 +76,12 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 ![The Modify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/modify-option.jpg)
 7. If**EnableActiveProbing** is set to**0** , clear the**Value data** box. Then input**1** inside that data box.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Edit DWORD window for the EnableActiveProbing DWORD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/edit-dword-window.jpg)
 8. Select**OK** to save the new**EnableActiveProbing** value.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Exclude Spotify From Your Antivirus Software
 
@@ -92,7 +92,7 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
  Our article about[setting Windows Security exclusions](https://www.makeuseof.com/windows-11-security-exclusions/) includes instructions for adding software to that app’s exception list. If you’re utilizing a third-party antivirus tool, look for an exclusion list within its settings tab. The antivirus software’s website will also likely include guidelines for how to use its exclusion list.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Turn Off the Windows Defender Firewall
@@ -101,15 +101,23 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 
 ![The turn off firewall settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-firewall-s-allow-app-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Should this solution work, it’s not a good idea to keep the firewall disabled. Open Windows Defender Firewall’s allowed app list and select the Spotify checkboxes there to permit that app through it. Check out our how to guide about[allowing apps through the Windows firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) for further details.
 
 ![The firewall's allowed apps settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/allowed-app-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Of course, numerous standalone third-party firewalls can block Spotify much the same. If you have installed a third-party firewall, try disabling it to see if that resolves error 4\. Then add Spotify to its allowed apps and turn the firewall back on if it does.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Reinstall Spotify
 
@@ -121,18 +129,10 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 ![Spotify's Uninstall option on the Start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-start-menu-s-uninstall-option.jpg)
 4. If you’ve installed the desktop Spotify app, Programs and Features will open from which you can select the software and click**Uninstall** . Users who’ve installed the UWP Spotify app can select**Uninstall** on a confirmation prompt.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Then open the[Spotify Windows](https://www.spotify.com/us/download/windows/) download page.
 6. Click**Download** to get the installer for the desktop Spotify app.  
 ![The Download Spotify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/download-option.jpg)
 7. Open the Explorer file manager along with the folder in which Spotify downloaded.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 8. Double-click the**SpotifySetup.exe** file to bring up the setup wizard and install Spotify.
 
@@ -157,24 +157,18 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-convenient-method-to-design-original-shorts-thumbnails/"><u>[New] 2024 Approved Convenient Method to Design Original Shorts Thumbnails</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-8-speed-boosting-tools-for-android-users/"><u>[Updated] Top 8 Speed Boosting Tools for Android Users</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-discovering-the-top-tools-for-engaging-video-beginnings/"><u>2024 Approved Discovering the Top Tools for Engaging Video Beginnings</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-how-to-save-top-cloud-providers-rates/"><u>2024 Approved How to Save Top Cloud Providers' Rates</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-economics-of-evaluating-everything-on-electronic-streams/"><u>2024 Approved The Economics of Evaluating Everything on Electronic Streams</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-how-to-activating-hyper-v-for-win11-users/"><u>Essential How-To: Activating Hyper-V for Win11 Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-blackouts-during-win-based-gameplay/"><u>How to Fix Blackouts During Win-Based Gameplay</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-take-a-screenshot-of-uac-prompts-on-windows/"><u>How to Take a Screenshot of UAC Prompts on Windows</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-honor-magic-6-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Honor Magic 6 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-cutting-edge-5-home-movie-maker/"><u>In 2024, Cutting-Edge 5 Home Movie Maker</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-c53-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Realme C53 Phone without Google Account?</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-joining-the-world-of-live-broadcasts-a-roku-primer/"><u>In 2024, Joining the World of Live Broadcasts A Roku Primer</u></a></li>
-<li><a href="https://windows11.techidaily.com/regain-access-to-hidden-5ghz-networks-on-your-windows-pc/"><u>Regain Access to Hidden 5GHz Networks on Your Windows PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-zoom-crash-code-1132-in-windows-os/"><u>Resolving Zoom Crash Code: 1132 in Windows OS</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/solved-move-from-xiaomi-redmi-12-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Xiaomi Redmi 12 5G to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-the-disk-read-failed-problem/"><u>Tackling the “Disk Read Failed” Problem</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-tools-that-makes-your-laptops-os-change-more-manageable/"><u>Top Tools that Makes Your Laptop's OS Change More Manageable</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-code-0x0001-for-nvidia-experience-in-windows/"><u>Troubleshooting Code 0X0001 for Nvidia Experience in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-the-full-potential-of-your-systems-ram-with-windows/"><u>Unlocking the Full Potential of Your System's RAM with Windows</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-commanding-attention-on-digital-platforms-via-custom-designs/"><u>[New] Commanding Attention on Digital Platforms via Custom Designs</u></a></li>
+<li><a href="https://windows11.techidaily.com/boldly-block-wi-fi-signals-in-windows/"><u>Boldly Block Wi-Fi Signals in Windows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/connectivity-at-its-peak-usb-c-and-the-hp-envy-27-monitor/"><u>Connectivity at Its Peak USB-C & the HP Envy 27 Monitor</u></a></li>
+<li><a href="https://windows11.techidaily.com/decisive-actions-for-dictating-a-successful-window-update/"><u>Decisive Actions for Dictating a Successful Window Update</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-achieve-unified-fileset-in-two-windows-pcs-via-aoemi/"><u>How to Achieve Unified Fileset in Two Windows PCs via AOEMi</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-t2x-5g-phone-without-password-by-drfone-android/"><u>How To Unlock Vivo T2x 5G Phone Without Password?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-how-to-upload-videos-to-youtube-a-step-by-step-guide/"><u>In 2024, How To Upload Videos to YouTube A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-mastering-playback-pivot-a-step-by-step-yt-guide/"><u>In 2024, Mastering Playback Pivot A Step-by-Step YT Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/investigating-the-rise-and-fall-of-cozy-gaming/"><u>Investigating the Rise and Fall of Cozy Gaming</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-tecno-spark-10c-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Tecno Spark 10C</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-remedy-unsupported-audio-device-in-windows-os/"><u>Steps to Remedy Unsupported Audio Device in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/supercharge-utorrent-downloads-elevate-your-file-speed/"><u>Supercharge uTorrent Downloads, Elevate Your File Speed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/visionary-thinking/"><u>Visionary Thinking</u></a></li>
 </ul></div>
 

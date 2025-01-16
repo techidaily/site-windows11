@@ -1,7 +1,7 @@
 ---
 title: Demystifying Microsoft's Code Companion for Enhanced Programming
-date: 2024-08-15T15:10:45.873Z
-updated: 2024-08-16T15:10:45.873Z
+date: 2025-01-10T09:33:03.216Z
+updated: 2025-01-15T17:16:49.901Z
 tags:
   - windows10
   - windows11
@@ -23,9 +23,6 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 * [What Are the Copilot Conversation Styles?](#what-are-the-copilot-conversation-styles)
 * [How to Use Microsoft Copilot](#how-to-use-microsoft-copilot)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Microsoft Copilot is an AI assistant available on Windows 11, Microsoft Office, and Microsoft Edge, offering various functionalities across these.
@@ -42,13 +39,18 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 
  You'll also find Copilot across Microsoft's Office apps. Copilot on Word lets you generate AI drafts; on PowerPoint, you can ask it to summarize your presentation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Access Microsoft Copilot
 
  Accessing Microsoft Copilot is different depending on the app. We'll show you how to access Microsoft Copilot in all its forms.
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Open Microsoft Copilot on Windows 11
 
  If you're on Windows 11, you can access Copilot with a hotkey. However, before you do, make sure you have your operating system updated to Windows 11 23H2 or later. See [how to check your build and version of Windows 11](https://www.makeuseof.com/check-build-and-version-windows-11/) if you're not sure.
@@ -56,15 +58,13 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
  Once Windows 11 23H2 is installed, you can open Copilot either by pressing **Win + C** or by clicking the Copilot icon on the taskbar.
 
 ![The Copilot taskbar icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/copilot-guide-taskbar-icon.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 
  If you don't see it, right-click the taskbar, click **Taskbar Settings**, then enable Copilot.
 
 ![Enabling the Copilot taskbar icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/copilot-guide-taskbar-enable.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Open Microsoft Copilot on Edge
@@ -72,13 +72,11 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
  If you're not on Windows 11, you can still use Copilot through Microsoft Edge. Open Edge, then look for the sidebar on the right. Click the Copilot icon; it's the one right at the top. If you can't find it, you can also use its **Ctrl + Shift + Period** keyboard shortcut.
 
 ![The Copilot icon in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/copilot-guide-edge-icon.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Open Microsoft Copilot on the Web
 
  If you don't have access to Windows 11 or Edge, you can still use Copilot on the web. Just head over to [copilot.microsoft.com](https://copilot.microsoft.com/) and you'll be ready to go.
@@ -90,6 +88,10 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
  Opening Copilot in Microsoft 365 depends on which app you open. However, you do need an active Microsoft 365 subscription for Copilot to work.
 
  Some apps will have Copilot open the instant you boot it up. For example, if you open a new document on Word, Copilot will pop up and ask you if you want to generate a draft. In other apps, you need to poke it out of hiding from the ribbon.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Are the Copilot Conversation Styles?
 
@@ -108,8 +110,9 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 ### Perform Research With Copilot
 
 ![An example of Copilot citing sources](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/copilot-guide-source-example.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Something I love about Copilot over other AI models is how it cites its sources. It's always good to see an AI chatbot demonstrate where it's getting its knowledge from, but it also allows you to follow those citations when performing research.
@@ -119,13 +122,14 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 ### Generate Images With DALL-E 3
 
 ![An image of a corgi generated by Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/copilot-guide-dalle-example.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you want to generate images for free, Copilot is a great choice. Copilot supports the powerful DALL-E 3 image generator; just ask it to draw something for you. If you're not pleased with the result, you can guide Copilot through further prompts to get the best possible picture.
 
  Check out [how to use DALL-E 3 on Copilot (formerly Bing)](https://www.makeuseof.com/how-use-dalle-3-free-microsoft-bing/) for more information.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Ask Copilot to Write Code for You
 
@@ -133,15 +137,9 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 
  If you're stuck on your next coding project, why not let Copilot give it a shot? You can ask it how it would program something, or you can give it some of your code and ask it why it's not working. It supports all the major coding languages, so give Copilot a try if you're struggling to code something.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Use Copilot's Integration With Microsoft Office
 
 ![Close Up Microsoft Office Icons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/close-up-cell-microsoft-icons.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 
  [Unsplash](https://unsplash.com/photos/N3TVYJ6Wr1I)
 
@@ -156,12 +154,31 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 
  If you use any of these apps in your work, give Copilot a try and see what it can do for you.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-party-pulse-perfect-dj-content-for-events/"><u>[New] Party Pulse Perfect DJ Content for Events</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-secrets-of-the-trade-boosting-popularity-with-tiktok-unboxings-for-2024/"><u>[Updated] Secrets of the Trade Boosting Popularity with TikTok Unboxings for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-windows-11s-audio-management-via-action-center-mixer/"><u>Decoding Windows 11'S Audio Management via Action Center Mixer</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-tips-for-efficient-ms-work-setup-in-w11/"><u>Essential Tips for Efficient MS Work Setup in W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/fine-tune-your-pointers-response-time-and-visibility-on-windows-11/"><u>Fine-Tune Your Pointer's Response Time and Visibility on Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-repair-the-missing-msvcrtdll-error-on-your-pc/"><u>How To Repair The Missing 'msvcrt.dll' Error On Your PC</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/imagerefixer-pro-the-ultimate-guide-to-reviving-corrupt-jpeg-pictures-flawlessly/"><u>Imagerefixer Pro: The Ultimate Guide to Reviving Corrupt JPEG Pictures Flawlessly</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-infinix-smart-8-plus-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Infinix Smart 8 Plus</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-tailoring-humor-personalize-with-kinemaster/"><u>In 2024, Tailoring Humor Personalize with KineMaster</u></a></li>
+<li><a href="https://windows11.techidaily.com/invisible-exit-command-secreting-windows-11-power-off/"><u>Invisible Exit Command: Secreting Windows 11 Power Off</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/mastering-photo-cleanup-discover-the-best-4-techniques-for-seamless-stamp-removal/"><u>Mastering Photo Cleanup: Discover the Best 4 Techniques for Seamless Stamp Removal</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-defenders-barrier-on-third-party-av-software/"><u>Overcoming Defender's Barrier on Third-Party AV Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-malfunction-win1011s-ccleaner-complications/"><u>Overcoming Malfunction: Win10/11's CCleaner Complications</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-for-bypassing-check-pin-error-in-windows-1110-bluetooth/"><u>Techniques for Bypassing Check Pin Error in Windows 11/10 Bluetooth</u></a></li>
+<li><a href="https://windows11.techidaily.com/transition-to-new-background-in-winterminal/"><u>Transition to New Background in WinTerminal</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-vector-databases-enhancing-artificial-intelligence/"><u>Understanding Vector Databases: Enhancing Artificial Intelligence</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-windows-wonders-creating-and-interpreting-reports/"><u>Unveiling Windows Wonders: Creating & Interpreting Reports</u></a></li>
+</ul></div>
 

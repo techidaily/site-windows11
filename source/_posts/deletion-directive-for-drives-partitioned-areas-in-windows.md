@@ -1,7 +1,7 @@
 ---
 title: Deletion Directive for Drives' Partitioned Areas in Windows
-date: 2024-08-08T05:59:59.753Z
-updated: 2024-08-09T05:59:59.753Z
+date: 2025-01-15T07:26:28.962Z
+updated: 2025-01-16T12:35:14.014Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 
  This guide will show you how to delete a drive partition using the Settings app, Disk Management tool, Command Prompt, and PowerShell.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. How to Delete a Drive Partition on Windows Using the Settings App
 
  The Windows Settings app makes it easy to manage drive partitions and perform advanced storage-related tasks. It also provides the most straightforward way to delete a drive partition on Windows.To delete a drive partition via the Settings app:
@@ -33,16 +30,14 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 4. Click the **Properties** button next to the drive you wish to delete.
 5. Under the **Format** section, click the **Delete** button.
 6. Select **Delete volume** to confirm.  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Delete a Drive Partition Using the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-a-drive-partition-using-the-settings-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you complete the steps, the partition and everything on it will be gone.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## 2\. How to Delete a Drive Partition on Windows Using the Disk Management Utility
 
  Another way to delete a drive partition on Windows is via the Disk Management tool. If you want to use that, follow these steps:
@@ -51,12 +46,13 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 2. Type **diskmgmt.msc** in the text field and press **Enter**.
 3. In the Disk Management window, right-click the unwanted partition and click the **Delete Volume** option.
 4. Select **Yes** to confirm.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Delete a Drive Partition Using the Disk Management Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-a-drive-partition-using-the-disk-management-tool.jpg)
 
  Don't want to get rid of a drive altogether? You can also choose to [hide the drive on Windows](https://www.makeuseof.com/how-to-hide-a-drive-in-windows/) using the Disk Management tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. How to Delete a Drive Partition on Windows With the Command Prompt
 
@@ -74,11 +70,16 @@ list volume`
 `delete volume`  
 ![Delete a Drive Partition Using the Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-a-drive-partition-using-the-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Enjoy working with the Command Prompt? If so, you will surely love our guide on [customizing the Command Prompt on Windows](https://www.makeuseof.com/windows-customize-command-prompt/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. How to Delete a Drive Partition on Windows via PowerShell
 
  Windows PowerShell is another command-line tool that you can use to delete a disk partition. Here are the steps you need to follow.
@@ -94,18 +95,17 @@ list volume`
 7. Type **Y** and press **Enter** to confirm.  
 ![Delete a Drive Partition Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-a-drive-partition-using-powershell.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you run the above commands, PowerShell will delete the specified partition.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## There Are Many Ways to Delete Drive Partitions on Windows
 
  As we just saw, deleting a drive partition on Windows is a simple process, regardless of the method you use. Once you delete a partition, the space on that drive will be unallocated. You can then create a new partition on the empty space or use the space to expand an existing partition.
 
  This guide will show you how to delete a drive partition using the Settings app, Disk Management tool, Command Prompt, and PowerShell.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -113,4 +113,22 @@ list volume`
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/echniques-for-emptying-youtubes-keep-queue-for-2024/"><u>[New] Techniques for Emptying YouTube's Keep Queue for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-breaking-into-the-market-a-guide-to-facebook-video-content-for-2024/"><u>[Updated] Breaking Into the Market A Guide to Facebook Video Content for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/boosting-workspace-vibe-and-health-5-ideal-indoor-plants-every-home-office-needs-insights-by-zdnet/"><u>Boosting Workspace Vibe & Health: 5 Ideal Indoor Plants Every Home Office Needs (Insights by ZDNET)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-oppo-a56s-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Oppo A56s 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/exploring-gradual-echo-deactivation-in-audacity/"><u>Exploring Gradual Echo Deactivation in Audacity</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-window-11-stealthy-hiding-of-linguistic-signal/"><u>Mastering Window 11: Stealthy Hiding of Linguistic Signal</u></a></li>
+<li><a href="https://windows11.techidaily.com/rapid-dns-flush-techniques-for-win11-devices/"><u>Rapid DNS Flush Techniques for Win11 Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/reigniting-disappearing-windows-on-your-screen-top-6-fixes-for-win11/"><u>Reigniting Disappearing Windows on Your Screen: Top 6 Fixes for Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-counteract-error-x80300024-in-winxp/"><u>Steps to Counteract Error X80300024 in WinXP</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-tackle-corrupted-files-and-directories-win10-11-edition/"><u>Strategies to Tackle 'Corrupted' Files & Directories: Win10-11 Edition</u></a></li>
+<li><a href="https://article-tips.techidaily.com/streamlined-qanda-list-to-attract-podcast-audience-for-2024/"><u>Streamlined Q&A List to Attract Podcast Audience for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-setting-preferred-explorer-views-on-folders-and-subfolders/"><u>Ultimate Guide: Setting Preferred Explorer Views on Folders & Subfolders</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11s-design-faux-pas-a-list-of-7/"><u>Windows 11'S Design Faux Pas: A List of 7</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Cracking the Code: Unlocking MAC Locations in Windows 11"
-date: 2024-08-08T05:58:47.334Z
-updated: 2024-08-09T05:58:47.334Z
+date: 2025-01-11T01:29:26.066Z
+updated: 2025-01-16T09:49:40.405Z
 tags:
   - windows10
   - windows11
@@ -29,20 +29,13 @@ thumbnail: https://thmb.techidaily.com/934c09a684ad314c00e00ed21a2e7539ae4858551
 1. Launch the**Start** menu, search for the**Settings** app, and select the Best match.
 2. From the sidebar, choose**Network & internet** , and then select**Wi-Fi** or**Ethernet** from the network page.
 3. Finally, select**Hardware properties** , and you will see the details of your network configuration.  
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wifi mac address win11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/wifi-mac-address.jpg)
 4. At the bottom of the page, look for the**Physical address (MAC)** to find your alphanumeric MAC address string.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Find Your Windows 11 MAC Address via the Command Prompt
 
  If you’re an old-school techie, you might prefer using [the Windows Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) as much as possible. Fortunately, you can quickly determine the MAC address of your Windows 11 device with just a single command as follows:
@@ -51,13 +44,14 @@ thumbnail: https://thmb.techidaily.com/934c09a684ad314c00e00ed21a2e7539ae4858551
 2. Type the below command and press**Enter**  
 `ipconfig /all  
 `  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![mac address from cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/mac-address-cmd.jpg)
 3. In the Windows IP Configuration, under the**Ethernet adapter** section, you can see your MAC address next to the**Physical Address** field.
 
  The Windows IP Configuration will show the network configuration details of Wifi, Ethernet, and any virtual machines you’ve set up. You can use the**Description** field to ensure you’re using the MAC address of the correct connection type.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Find the MAC Address of All Windows 11 Network Adapters
 
@@ -71,38 +65,38 @@ thumbnail: https://thmb.techidaily.com/934c09a684ad314c00e00ed21a2e7539ae4858551
 ![ipconfig of network adapters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/all-ipconfig.jpg)
 4. You can find the required network adapter from the list of displayed IP configurations through the**Description** field. The MAC address will be the alphanumeric string next to the**Physical address (MAC)** field.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Determine the Network Adapter MAC Address Using Windows 11 Control Panel
 
  As mentioned previously, it’s possible to have multiple network adapters configured on your Windows PC. If you’d like to view all of the configured network adapters and find their specific MAC address, you can do so using the old-school Windows Control Panel:
 
 1. Navigate to **Start > Control Panel > Network and Internet > Network and Sharing Center** .  
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change adapter settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/change-adapter-settings.jpg)
 2. From the left menu, select**Change adapter settings** to view the list of configured network adapters.
 3. Double-click on a network adapter and click on**Details** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![all network adapters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/all-network-adapters.jpg)
 4. You will now find the IP configuration details for the selected network adapter. You can find the MAC address next to the**Physical Address** field.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can I Change the MAC Address on Windows 11?
 
  While it is possible to change the default MAC address of your Windows PC, device manufacturers strongly recommend against it as it can cause unexpected issues. Nevertheless, if you still want to change the MAC address of your device, make sure you’re aware of the possible implications before you get started.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -111,6 +105,18 @@ thumbnail: https://thmb.techidaily.com/934c09a684ad314c00e00ed21a2e7539ae4858551
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-social-media-savant-writes-on-mastering-brand-promotion/"><u>[Updated] The Social Media Savant' Writes on Mastering Brand Promotion</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-8-srt-conversion-websites-without-a-cost/"><u>[Updated] Top 8 SRT Conversion Websites Without a Cost</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-honor-play-7t-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Honor Play 7T in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-picks-the-leading-wi-fi-extenders-dominating-2024/"><u>Expert Picks: The Leading Wi-Fi Extenders Dominating 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-0x0000004e-error-in-windows-10-and-11/"><u>How to Fix the 0X0000004E Error in Windows 10 and 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/is-sleep-hibernate-or-shutdown-best-for-your-windows-computer/"><u>Is Sleep, Hibernate, or Shutdown Best for Your Windows Computer?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/quick-guide-setting-up-chrome-os-flex-within-half-an-hour-insights-from-zdnet/"><u>Quick Guide: Setting Up Chrome OS Flex Within Half an Hour - Insights From ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/shelve-the-start-of-edge-windows-11s-solution/"><u>Shelve the Start of Edge: Windows 11'S Solution</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplified-gpo-analysis-via-gpresult-command/"><u>Simplified GPO Analysis via GPResult Command</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-download-and-install-epson-es-400-driver-for-windows-operating-systems/"><u>Step-by-Step Tutorial: Download & Install Epson ES-400 Driver for Windows Operating Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailored-strategies-for-enhancing-virtual-memory-on-windows-11-systems/"><u>Tailored Strategies for Enhancing Virtual Memory on Windows 11 Systems</u></a></li>
+</ul></div>
 

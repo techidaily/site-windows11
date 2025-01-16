@@ -1,7 +1,7 @@
 ---
 title: Conquering C0000005 on Windows Operating Systems
-date: 2024-08-08T05:59:51.194Z
-updated: 2024-08-09T05:59:51.194Z
+date: 2025-01-15T12:02:55.247Z
+updated: 2025-01-16T04:28:54.411Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/ea0b0402d1ea26fd039e2c69b50b2f77be9bc5a66
  We have rounded up a variety of methods you can try your luck with. Let's look at how you can fix the error Code 0xc0000005 on Windows for good.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Deactivate Data Execution Prevention (DEP)
 
 [Data Execution Prevention](https://www.makeuseof.com/data-execution-prevention-explained/) is a security feature on Windows that prevents damage to your PC from malware and other malicious attacks on your PC. It does this by blocking out specific memory regions so that code cannot be executed from those locations, which in the absence of DEP, would be used for buffer attacks.
@@ -37,19 +38,20 @@ bcdedit.exe /set {current} nx AlwaysOff
 
  Note that if you have UEFI secure boot enabled, then you might encounter an error like this:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/cmd.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In this case, you will first have to [disable the Windows secure boot](https://www.makeuseof.com/tag/disable-secure-uefi-dual-boot/) , and then repeat the above steps again.
 
  That's it—the DEP will be disabled from here on. Now, give your PC a quick reboot and see if the error 0xc0000005 persists.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Check Your App's and PC Version and Compatibility
 
  One of the more common reasons for getting hit with the 0xc0000005 error is when your computer cannot process the files or settings necessary to your PC. While the causes of this can vary, a common one is that you've been using an outdated version of the app.
@@ -69,16 +71,14 @@ Similarly, to check the app's version, follow the steps below:
 * To check the app's version, click on any specific app.
 * If it's a Microsoft app, click on the Settings option (three dots) next to it and select**Advanced options** .
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![installed apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/installed-apps.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now check if the app and your operating system are compatible with each other.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## 3\. Apply Some Generic Fixes for Fixing Errors on Windows
 
  While the methods we have discussed have targeted the error code 0xc0000005 in particular, there are some quick fixes that come recommended for pretty much all Windows errors. Note that it's not the case that these solutions are bound to fix any particular error you are facing at a point in time, but if you have tried all the different methods from above, then the below methods are definitely worth a go.
@@ -93,22 +93,20 @@ Let's go over all of them one by one.
 6. [Perform a Factory Reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) : A Factory reset is, as I sometimes like to call it, the "all pulverizer" all Windows problems. It removes your operating system and reinstalls it so you can start again with a clean slate. It's a drastic measure, but sometimes it's the only way to get a Windows error fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fixing the Error Code 0xc0000005 on a Windows PC
 
  Like most abrupt Windows errors, the 0xc0000005 error code can cause a sharp break in your workflow. Hopefully, using one of the methods from above, you managed to get rid of the Windows error for good.
 
  However, it's a fact that Windows gets plagued by many such simple errors from time to time, that more often than not, can be fixed with little to no effort. So, make sure you keep tabs on all such errors, along with their solutions.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -117,6 +115,26 @@ Let's go over all of them one by one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-brightening-up-your-videography-gopro-fog-free-techniques-for-2024/"><u>[New] Brightening Up Your Videography GoPro Fog-Free Techniques for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-perfecti-essential-apps-for-iphone-slide-show-creation/"><u>[New] Perfecti Essential Apps for iPhone Slide Show Creation</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-infinix-zero-5g-2023-turbo-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/el-mejor-visor-de-imagenes-para-windows-11-opciones-y-comparaciones/"><u>El Mejor Visor De Imágenes Para Windows 11: Opciones Y Comparaciones</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-value-cannot-be-determined-problem-on-windows-pcs/"><u>Fixing 'Value Cannot Be Determined' Problem on Windows PCs</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-leading-gallery-archive-services/"><u>In 2024, Leading Gallery Archive Services</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-revive-missing-fb-watch-icon-solutions/"><u>In 2024, Revive Missing FB Watch Icon - Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-cr2-conversion-techniques-on-your-windows-system/"><u>Mastering CR2 Conversion Techniques on Your Windows System</u></a></li>
+<li><a href="https://windows11.techidaily.com/mellowing-down-after-a-stormy-surge-in-windows-settings/"><u>Mellowing Down After a Stormy Surge in Windows Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/rebooting-the-clock-fixes-for-disabled-windows-time-service/"><u>Rebooting the Clock: Fixes for Disabled Windows Time Service</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/starting-point-decoding-display-resolution-basics-for-2024/"><u>Starting Point Decoding Display Resolution Basics for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-troubleshooting-tips-for-a-constantly-disconnecting-mouse/"><u>Step-by-Step Troubleshooting Tips for a Constantly Disconnecting Mouse</u></a></li>
+<li><a href="https://windows11.techidaily.com/telnet-access-in-windows-11-made-simple/"><u>Telnet Access in Windows 11 Made Simple</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-perfect-picture-experience-with-lgs-65-oled-c9-4k-smart-tv-a-review-for-enthusiasts/"><u>The Perfect Picture Experience with LG's 65 OLED C9 4K Smart TV - A Review for Enthusiasts</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-samsung-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Samsung without backup.</u></a></li>
+<li><a href="https://windows11.techidaily.com/transforming-windows-11-the-acoustic-journey-begins/"><u>Transforming Windows 11: The Acoustic Journey Begins</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-power-of-your-systems-fix-it-features/"><u>Unlock the Power of Your System's Fix-It Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-solution-for-0x800713f-failure-in-email-app-win11/"><u>Unveiling Solution for 0X800713F Failure in Email App (Win11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/upgrade-to-smart-speed-indicators-in-desktop-bar/"><u>Upgrade to Smart Speed Indicators in Desktop Bar</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Tactics to Mute Hidden Windows 11 Processes
-date: 2025-01-05T17:20:28.942Z
-updated: 2025-01-10T21:33:26.514Z
+date: 2025-01-13T19:46:19.138Z
+updated: 2025-01-16T02:56:21.980Z
 tags:
   - windows10
   - windows11
@@ -36,14 +36,14 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 ![advanced options windows 11 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/advanced-options-windows-11-settings.jpg)
 5. Scroll down to the **Background apps permissions** section.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![background app permission never](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/background-app-permission-never.png)
 6. Click the drop-down for **Let this app run in background** and select **Never**. This should disable the app from running in the background.
 
  By default, the background permission for the app is set to **Power optimized(recommended)**. This means Windows will decide when the app can run in the background to save more power. If you set it to **Always**, the app will continuously run in the background irrespective of your power status.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Disable Background Apps via Power & Battery Settings
 
@@ -58,14 +58,14 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 4. Click the drop-down for **Battery levels** and select **Last 7 days.** Windows will load all the apps using the battery power in the last seven days.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![manage background activity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/manage-background-activity.png)
 5. To change the background app permission, click the **three-dots menu** beside the app name, and click on **Manage background productivity**. This option is only available for Microsoft Store apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Click the **drop-down** (**Power optimized**) under the **Background apps permissions** section and select **Never**. This will disable the app from running in the background.
@@ -85,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 2. Type **notepad** and click **OK** to open the text editor app.  
 ![disable background apps windows 11 registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disable-background-apps-windows-11-registry-editor.jpg)
 3. In the Notepad file, copy and paste the following content:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 `Windows Registry Editor Version 5.00  
 
@@ -107,10 +111,6 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
  If you need to turn on background apps for the current user, then save the following script as **enable\_background\_apps.reg** and run it as administrator.
 
 ![reg file content background app disable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/reg-file-content-background-app-disable.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 `Windows Registry Editor Version 5.00  
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications]  
@@ -137,7 +137,7 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 7. Right-click on the **LetAppsRunInBackground** value and select **Modify**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![registry editor data 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/registry-editor-data-2.png)
@@ -146,10 +146,6 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 9. Close the Registry Editor and restart your PC to apply the changes.
 
  This should disable Microsoft Store apps from running in the background. To enable the background apps, modify the **LetAppsRunInBackground** value and set it to **0**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. How to Disable Background Apps Using the Group Policy Editor
 
@@ -169,6 +165,10 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 5. Next, under the **Options** section, click the drop-down for **Default for all apps** and select **Force Deny**.  
 ![disable background app group policy editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/disable-background-app-group-policy-editor.png)
 6. Click **OK** and **Apply** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Alternatively, you can set the Let Windows apps run in the background policy to **Disabled** and apply the changes. However, when set to **Disabled** or **Not Configured**, individual employees in your organization can configure the apps to run in the background.
 
@@ -192,16 +192,20 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-best-value-hd-cams-for-adventurous-pursuits/"><u>[New] Best Value HD Cams for Adventurous Pursuits</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-unpacking-the-limitations-of-video-sharing-in-facebooks-community/"><u>[New] Unpacking the Limitations of Video Sharing in Facebook's Community</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-maximizing-engagement-with-proper-yt-thumbnail-size/"><u>[Updated] 2024 Approved Maximizing Engagement with Proper YT Thumbnail Size</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-from-free-to-fortune-unlocking-youtubes-earnings-at-the-500-subscriber-level/"><u>[Updated] From Free to Fortune Unlocking YouTube's Earnings at the 500 Subscriber Level</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-inside-out-a-review-of-individual-3d-printing-journey/"><u>[Updated] Inside Out A Review of Individual 3D Printing Journey</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/magical-on-device-image-creation-with-apples-latest-ai-tool-surpasses-dall-e-discover-the-next-generation-of-visual-tech/"><u>Magical On-Device Image Creation with Apple's Latest AI Tool Surpasses DALL-E: Discover the Next Generation of Visual Tech</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-operational-obligations-avoiding-sudden-freezes-on-your-pc/"><u>Overcoming Operational Obligations: Avoiding Sudden Freezes on Your PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/transform-steam-deck-with-official-windows-instruments/"><u>Transform Steam Deck with Official Windows Instruments</u></a></li>
-<li><a href="https://windows11.techidaily.com/unleashing-creativity-through-windows-photos-app-deletion/"><u>Unleashing Creativity Through Window's Photos App Deletion</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-pc-power-intake-measuring-electricity-use/"><u>Windows PC Power Intake: Measuring Electricity Use</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-revival-unlocking-the-power-of-3-resets/"><u>Windows Revival: Unlocking the Power of 3 Resets</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-affinity-photos-power-crafting-focus-by-clearing-exteriors/"><u>[Updated] Affinity Photo's Power Crafting Focus by Clearing Exteriors</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-best-storing-solution-for-sony-a7s-ii/"><u>2024 Approved Best Storing Solution for Sony A7S II</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-understanding-auto-hdr-and-smart-exposure-techniques-in-photos/"><u>2024 Approved Understanding Auto HDR and Smart Exposure Techniques in Photos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-devotees-rejoice-discover-the-new-complimentary-lg-tv-audio-upgrade/"><u>Apple Devotees Rejoice: Discover the New Complimentary LG TV Audio Upgrade</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-windows-updates-0x80242016-hurdles/"><u>Avoiding Windows Update's 0X80242016 Hurdles</u></a></li>
+<li><a href="https://windows11.techidaily.com/customizing-fn-keys-to-maximize-pc-efficiency-in-wins/"><u>Customizing FN Keys to Maximize PC Efficiency in Wins</u></a></li>
+<li><a href="https://windows11.techidaily.com/cutting-down-energy-waste-without-slowing-down-games/"><u>Cutting Down Energy Waste Without Slowing Down Games</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-windows-11s-functionality-top-strategies-for-widget-upgrades/"><u>Enhancing Windows 11'S Functionality: Top Strategies for Widget Upgrades</u></a></li>
+<li><a href="https://extra-information.techidaily.com/final-cut-pros-essential-toolkit-the-top-10-plugin-list/"><u>Final Cut Pro's Essential Toolkit The Top 10 Plugin List</u></a></li>
+<li><a href="https://windows11.techidaily.com/hidden-harmony-seamlessly-blending-image-and-zip-archives-win1011/"><u>Hidden Harmony: Seamlessly Blending Image and ZIP Archives WIN10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-removing-windows-11s-taskbar-chatter-affects-you-the-user/"><u>How Removing Windows 11'S Taskbar Chatter Affects You, The User?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-14-plus-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone 14 Plus After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-vivo-y28-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Vivo Y28 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/solutions-for-missing-shorts-thumbnails-on-youtube/"><u>Solutions for Missing Shorts Thumbnails on YouTube</u></a></li>
+<li><a href="https://windows11.techidaily.com/tech-enthusiasts-treasure-hunt-unlock-free-lifetime-windows-11-from-black-fridays-best-price/"><u>Tech Enthusiasts’ Treasure Hunt: Unlock Free Lifetime Windows 11 From Black Friday's Best Price</u></a></li>
 </ul></div>
 

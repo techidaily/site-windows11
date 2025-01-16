@@ -1,7 +1,7 @@
 ---
 title: Decreasing CPU Load in Setup Hosts
-date: 2024-08-08T05:59:58.801Z
-updated: 2024-08-09T05:59:58.801Z
+date: 2025-01-10T20:47:48.028Z
+updated: 2025-01-16T14:41:18.001Z
 tags:
   - windows10
   - windows11
@@ -18,14 +18,15 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
 
  Many things can negatively impact your computer's performance, and this warrants an investigation to get to the bottom of it. Many Windows users usually open Task Manager to see if there's something consuming system resources and causing performance dips. And, if through your investigation, you find that the problem is Modern Setup Host causing high CPU usage, we're going to show you how to fix this.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## What Is Modern Setup Host on Windows?
 
  Modern Setup Host is a Windows component that runs in the background during a Windows update to ensure that the installation process goes smoothly. After Windows installs the update, Modern Setup Host also aids in making sure that everything is configured correctly to work well with the system, especially if it is a Feature Update. Another thing it does is ensure that Windows is running smoothly in terms of stability and that there aren't any security vulnerabilities.
 
  As you can see, it is an extremely important process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Is Modern Setup Host Causing High CPU Usage?
 
@@ -39,19 +40,21 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
  Let's look at how to fix all of these things that can affect Modern Setup Host.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Fix it Modern Setup Host Causing High CPU Usage
 
  There are several things you can do to stop Modern Setup Host from causing high CPU usage, and we're going to cover several of them in this section. And if none of them work and the situation gets so bad that you can't operate your PC efficiently, you can consider [resetting your Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/)[Computer](http://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Run an SFC or DISM Scan
 
  When your computer has corrupted, damaged, or missing system files, it can affect system components, including Modern Setup Host. This can cause these components to not function properly, leading to high CPU usage. To fix this, you can [repair or replace the affected Windows system files](https://www.makeuseof.com/windows-built-in-repair-tools/) using built-in tools like the SFC and DISM scan.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sfc-scannow-command.jpg)
 
  Once you run the scans, restart your computer and check if Modern Setup Host is still causing high CPU usage.
@@ -61,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
  The Update Troubleshooter is a tool on Windows that can help diagnose and fix common issues related to Windows Updates. And since Modern Setup Host is integral to the Windows Update process, running the troubleshooter can also help fix issues that affect it, including what's making it cause high CPU usage.
 
  To do that, you can learn [how to run any troubleshooter on Windows](https://www.makeuseof.com/run-troubleshooter-windows-10-11/), including the Update Troubleshooter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Delete the Contents of the SoftwareDistribution Folder
 
@@ -74,38 +81,25 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
 
 ![Stop Windows Update Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/stop-windows-update-service.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once the service stops, go to the SoftwareDistribution folder by [opening the Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) and heading to **C: > Windows > SoftwareDistribution**.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Clear SoftwareDistribution Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/clear-softwaredistribution-folder.jpg)
 
  Now, press **Ctrl + A** to select everything inside the folder and press **Shift + Delete**. In the prompt, confirm that you want to clear the folder by clicking on **Yes**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 4\. Try a Clean Boot
 
  A clean boot can help you rule out third-party programs and services that could conflict with Modern Setup Host. In this mode, Windows will launch with only the essential programs and services it needs to run, allowing you to rule out the culprit. Luckily, [launching Windows in a clean boot state](https://www.makeuseof.com/clean-boot-windows-11/) is easy, and the instructions are the same for both Windows 10 and 11\.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## Stop the Modern Setup Host From Negatively Impacting Your Computer
 
  Many things can cause high CPU usage on a Windows computer, and one of them is the Modern Setup Host. This process should be able to do its thing rather quickly when everything is in order during a Windows Update. But if there's something affecting the update process, it can stall and cause high CPU usage.
 
  So, try fixing corrupted or damaged system files, using the Update Troubleshooter, clearing the SoftwareDistrubiton folder, or performing a clean boot. Hopefully, the problem will go away before you have to reset your computer.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -113,4 +107,21 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-quickcastpro-a-step-by-step-guide-for-flawless-podcast-streaming/"><u>[New] In 2024, QuickCastPro A Step-by-Step Guide for Flawless Podcast Streaming</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-ad-free-pro-android-screenshot-suite/"><u>2024 Approved Ad-Free Pro Android Screenshot Suite</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-eternal-gallery-of-commons-artworks-online/"><u>2024 Approved The Eternal Gallery of Commons Artworks Online</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-oodle-your-go-to-source-for-complimentary-neighborhood-listings/"><u>Discover Oodle: Your Go-To Source for Complimentary Neighborhood Listings</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-drivers-for-your-thrustmaster-t150-seamless-setup-and-rapid-install/"><u>Download Drivers for Your Thrustmaster T150 - Seamless Setup & Rapid Install</u></a></li>
+<li><a href="https://windows11.techidaily.com/get-up-to-speed-on-windows-11s-user-friendly-taskbar-search-feature/"><u>Get up to Speed on Windows 11’S User-Friendly Taskbar Search Feature</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/harnessing-hashtags-for-hitting-video-hotspots-on-fb/"><u>Harnessing Hashtags for Hitting Video Hotspots on FB</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/no-more-wi-fi-struggles-easy-tips-for-restoring-ipad-internet-connection/"><u>No More Wi-Fi Struggles: Easy Tips for Restoring iPad Internet Connection</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-to-turn-off-windows-11-notifies/"><u>Quick Guide to Turn Off Windows 11 Notifies</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/s-best-free-video-rotators-for-3gp-files-expert-recommendations/"><u>S Best Free Video Rotators for 3GP Files Expert Recommendations</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-to-unlocking-windows-11-desktop-toolbar/"><u>Step-by-Step to Unlocking Windows 11 Desktop Toolbar</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-resolving-winrars-sum-verification-failures/"><u>Troubleshooting: Resolving WinRAR's Sum Verification Failures</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlock-extra-memory-in-ps3-with-a-new-hard-drive/"><u>Unlock Extra Memory in PS3 with a New Hard Drive</u></a></li>
+</ul></div>
 

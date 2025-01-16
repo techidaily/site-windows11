@@ -1,7 +1,7 @@
 ---
 title: Dissecting the Purpose of Pagefile.sys Within OS Structure
-date: 2024-08-15T15:11:34.049Z
-updated: 2024-08-16T15:11:34.049Z
+date: 2025-01-08T16:39:45.422Z
+updated: 2025-01-16T15:20:00.425Z
 tags:
   - windows10
   - windows11
@@ -37,8 +37,9 @@ Here's what you need to know.
  Reading an app’s program files from Pagefile.sys is slower than reading them from RAM. The process is even slower when you're using a hard disk drive (HDD)[instead of a solid-state drive (SDD)](https://www.makeuseof.com/choose-ssd-or-hdd-storage/) . However, It’s faster than closing the app and then relaunching it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Check the Size of Pagefile.sys
 
  To prevent tampering with Pagefile.sys, Windows will hide it by default. If you want to see it, here’s what you should do.
@@ -47,14 +48,8 @@ Here's what you need to know.
 2. Click on**This PC** in the navigation pane on the left and double-click your**local drive (C:)** on the right to open it.
 3. Now you need to open Folder Options. On Windows 11, click the**three vertical dots** in the top menu and select**Options** . On Windows 10, click**View** in the top menu and then on**Options** .  
 ![selecting options in the top menu of file explorer in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/file-explorer-options.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Select the**View** tab in Folder Options and uncheck**Hide protected operating system files (Recommended)** .  
 ![The unhide protected os files option in folder options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/folder-options-unhide-protected-os-files.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 5. In the warning that pops up, click**Yes** .
 6. A bit further up, you see**Hidden files and folders** . Inside it, check the**Show hidden files, folders, and drives** radio button.
 7. Click**OK** to close Folder Options and apply the changes.
@@ -63,9 +58,6 @@ Here's what you need to know.
 
  As you can see, the Pagefile.sys file is quite large, which makes many people think deleting it is a good idea when they're running out of storage space.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## Should You Delete Pagefile.sys?
 
  One scenario where it would be reasonable to delete Pagefile.sys to save disk space is if you have a lot of RAM. That way, it can store all the data it needs to keep apps running without needing to offload them. For the average Windows user, the minimum RAM size for this would be 16GB.
@@ -81,8 +73,9 @@ Here's what you need to know.
  Since Windows is constantly using Pagefile.sys, it will not allow you to delete it in File Explorer directly. In fact, if you selected the file and hit the**Delete** key, you will see the following message: "The action can't be completed because the file is open in another program."
 
 ![deleting-pagefile-error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/deleting-pagefile-error.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  However, there’s another method you can use to delete the file and save some disk space. To do that, follow the steps below.
@@ -93,10 +86,12 @@ Here's what you need to know.
 3. Select the**Advanced** tab, and in the**Performance** section, click the**Settings** button.  
 ![the system properties dialog box in windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/system-properties-advanced.jpg)
 4. In the Performance Options window, select the**Advanced** tab and click**Change** .  
-![the Perfomance Options window on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/performance-options-advanced.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![the Perfomance Options window on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/performance-options-advanced.jpg)
 5. In the Virtual Memory window, uncheck the**Automatically manage paging file size for all drives** checkbox at the top.
 6. Click on the radio button for**No paging file** , and click the**Set** button on the right.  
 ![the Virtual Memory window on Windows with the No paging radio button ticked](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-no-paging-windows.jpg)
@@ -106,10 +101,6 @@ Here's what you need to know.
 
  When Windows boots back up, the OS will have no use for Pagefile.sys, and it will delete it from your local drive. It will also delete the Swapfile.sys along with it. If you don't know what that file is and its importance, please read our guide on [what Swapfile.sys is and if you can delete it](https://www.makeuseof.com/windows-swapfile-sys-guide/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## How to Restore Pagefile.sys
 
  If you deleted Pagefile.sys and discovered that you're experiencing problems because of it, you can easily restore it. However, if the problems are so severe that Windows is constantly freezing or can't even boot up properly, you should try entering Safe Mode first. To do that, please check out guides on [ways to boot into Safe Mode on Windows 11](https://www.makeuseof.com/windows-11-boot-safe-mode/) and [what is Safe Mode on Windows 10](https://www.makeuseof.com/windows-11-boot-safe-mode/) .
@@ -127,6 +118,10 @@ Now, to bring back Pagefile.sys, follow the steps below:
 
  Once your computer boots up, and you go to the folder where Pagefile.sys is located, you will see that the file has returned, along with Swapfile.sys.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Resize Pagefile.sys
 
  If deleting Pagefile.sys isn’t an option for you, consider resizing it instead. Here’s how to do that:
@@ -135,16 +130,23 @@ Now, to bring back Pagefile.sys, follow the steps below:
 2. In the Navigation Pane, right-click**This PC** and select**Properties** . On Windows 11, you will have to select**Show more options** first before you can see the**Properties** option.
 3. Click on the**Advanced system settings** link to open the System Properties window. On Windows 11, you will find the link on the right panel, while, on Windows 10, it will be on the left side menu.  
 ![the About page of the System window in the Settings app on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-about-windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 4. Select the**Advanced** tab, and in the**Performance** section, click the**Settings** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. In the Performance Options window, select the**Advanced** tab and click**Change** .
 6. In the Virtual Memory window, uncheck the**Automatically manage paging file size for all drives** checkbox at the top.
 7. Click on the radio button for**Custom size** . Immediately, you’ll see that the two text boxes below it (**Initial size** and**Maximum size**) are no longer grayed out.
 8. Enter the appropriate page file sizes in megabytes (MB) in both text boxes and then click**Set** .  
 ![the virtual memory dialog box on windows with the custom page file size set to 4096](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/virtual-memory-custom-size.jpg)
 9. Click**OK** to close the Virtual Memory window and apply the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 10. Restart your Windows computer for the changes to take effect.
 
 ## Pagefile.sys, Demystified
@@ -159,8 +161,6 @@ Now, to bring back Pagefile.sys, follow the steps below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,6 +168,23 @@ Now, to bring back Pagefile.sys, follow the steps below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-navigating-youtubes-subtitle-system-download-with-ease-using-3-methods-for-2024/"><u>[Updated] Navigating YouTube's Subtitle System Download with Ease Using 3 Methods for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-rhythmic-reels-how-to-pick-beats-for-ig-content-for-2024/"><u>[Updated] Rhythmic Reels How to Pick Beats for IG Content for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/prehensive-walkthrough-setting-up-your-first-wirecast-livestream-to-youtube/"><u>A Comprehensive Walkthrough Setting Up Your First WireCast Livestream to Youtube</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/exclusive-list-of-cost-free-video-downloaders-from-pinterest/"><u>Exclusive List of Cost-Free Video Downloaders From Pinterest</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/find-the-perfect-personalized-boxed-gift-at-these-online-retailers/"><u>Find the Perfect Personalized Boxed Gift at These Online Retailers</u></a></li>
+<li><a href="https://windows11.techidaily.com/guided-techniques-for-tackling-stale-group-policies-on-desktops/"><u>Guided Techniques for Tackling Stale Group Policies on Desktops</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-excellent-free-webcam-video-snapper-app/"><u>In 2024, Excellent Free Webcam Video Snapper App</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/masterclass-en-winxdvd-tus-pasos-definitivos-para-dominar-la-solucion-de-dvd-con-windows-manual-exhaustivo/"><u>Masterclass en WinXDVD: Tus Pasos Definitivos Para Dominar La Solución De DVD Con Windows - Manual Exhaustivo</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/navigating-the-future-of-vision-elite-smart-glasses-to-watch/"><u>Navigating the Future of Vision: Elite Smart Glasses to Watch</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-terrain-of-your-onedrive-savings-in-windows/"><u>Navigating the Terrain of Your OneDrive Savings in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-with-assistance-essential-keybindings-in-windows-11/"><u>Navigating with Assistance: Essential Keybindings in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/predictive-prowess-leading-windows-11-weather-app-selection/"><u>Predictive Prowess: Leading Windows 11 Weather App Selection</u></a></li>
+<li><a href="https://windows11.techidaily.com/rectifying-the-silent-non-responsive-tab-on-your-desktop/"><u>Rectifying the Silent, Non-Responsive Tab on Your Desktop</u></a></li>
+<li><a href="https://windows11.techidaily.com/three-tech-savvy-tactics-to-remove-microsoft-store/"><u>Three Tech-Savvy Tactics to Remove Microsoft Store</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-oppo-f23-5g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Oppo F23 5G Location | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-how-ai-hardware-contrasts-from-traditional-pcs/"><u>Understanding How AI Hardware Contrasts From Traditional PCs</u></a></li>
+</ul></div>
 

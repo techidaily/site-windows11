@@ -1,7 +1,7 @@
 ---
 title: Decoding and Correcting Unspecified OBS Recording Glitches
-date: 2024-08-08T06:00:44.182Z
-updated: 2024-08-09T06:00:44.182Z
+date: 2025-01-09T07:28:30.210Z
+updated: 2025-01-16T04:50:52.856Z
 tags:
   - windows10
   - windows11
@@ -20,19 +20,17 @@ thumbnail: https://thmb.techidaily.com/1d662e9b1599361d80a888fd1a81a529179f95c0f
 
  The error usually appears when an important DLL file is missing, or there's corruption in the OBS Studio installation directory. As such, if you also see the same error, then try the below solutions to eliminate the problem for good.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## 1\. Restart OBS Studio
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Closing the OBS Studio Process in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/end-task.jpg)
 
  Whether you're [seeing a black screen](https://www.makeuseof.com/windows-11-obs-black-screen-fix/) or getting the "An unspecified error occurred while recording" error, the best way to fix any OBS Studio issue is to restart it. Restarting OBS Studio will clear the system resources and kill any temporary bugs or glitches that might be causing the error.
 
  To restart OBS Studio, open the**Task Manager** (see how to [open the Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) ), right-click on OBS Studio, and choose**End Task.** Then, search for OBS Studio in the**Start Menu** and choose**Open** from the right pane.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Temporarily Disable Your Graphics Driver
 
@@ -46,29 +44,26 @@ Here's what you need to do:
 ![Disable Device option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-device-option-1.jpg)
 4. Click**Yes** to the prompt that appears.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Your screen might flicker after disabling the dedicated graphics driver. But worry not; it'll become normal after the generic driver is started.
 
  Now, launch the OBS Studio and open your project. Then, open the Device Manager again > access the Display adapters node > right-click on the dedicated graphics driver and choose**Enable device.**
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Enable Device option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-device.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  That's it! Return to OBS Studio and check if you are able to record.
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Allow OBS Studio Through Your Firewall
 
  OBS Studio might fail to record and throw the error at hand if it's blocked under Windows Firewall. To fix this, you'll have to whitelist OBS Studio from the Windows Firewall blocked app list. Here's how to do that:
@@ -76,10 +71,6 @@ Here's what you need to do:
 1. Press the**Win** key to open the**Start Menu.**
 2. Type**Windows Firewall** in the search bar and press Enter.
 3. Choose **Allow an app or feature through Windows Defender Firewall** option from the left sidebar.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![Allow an app or feature through Windows Defender Firewall option in Windows Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/allow-an-app-or-feature-through-windows-defender-firewall-option.jpg)
 4. Click the**Change settings** button.
 5. Click on**Allow another app** and then choose**Browse** from the**Add an app** prompt.  
@@ -88,14 +79,16 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 7. Select the**obs-ffmpeg-mux** executable file and click**Open.**  
 ![obs-ffmpeg-mux file in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/obs-ffmpeg-mux-file.jpg)
 8. Click**Add.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 9. Check both the**Private** and**Public** boxes for**obs-ffmpeg-mux** and click**OK** to save the settings.  
 ![Private and Public boxes for OBS File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/private-and-public-boxes.jpg)
 
 Restart your computer and check if the problem continues.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Fix the Missing DLL Files
 
 [Dynamic Link Libraries](https://www.makeuseof.com/what-are-dll-files-on-windows/) , aka DLL files, are special implementations of system libraries that contain various functions and variables that programs use when needed. If an important DLL file required by OBS Studio goes missing, you will see the "An unspecified error occurred while recording" error.
@@ -112,6 +105,10 @@ swresample-2.dll`
 
 Restart your computer and check for the issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Edit the OBS-Ffmpeg-Mux Installation Folder
 
  If you're still facing the issue even after downloading the missing DLL file, then it indicates that OBS Studio is unable to find the required DLL. The solution, in this case, is to edit the Path environment so that OBS Studio finds the required DLL files.
@@ -123,23 +120,14 @@ You can do that by following the below instructions:
 3. Click the**Advanced system settings** option.  
 ![Advanced system settings option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/advanced-system-settings.jpg)
 4. Click the**Environment Variables** button.  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Environment Variables option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enviroment-variables.jpg)
 5. Select**Path** under the**System Variables** section, and click the**Edit** button.
 6. Paste the following path in the**Variable value** text box and click**OK.**  
 `C:\Program Files (x86)\obs-studio\bin\32bit;`  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![Edit Variable in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/edit-variable.jpg)
 
  That's it! Now, start recording in OBS Studio and check if the problem persists.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Check for Corrupted or Missing Files
 
  Sometimes, OBS Studio might fail to record due to corruption in its installation folder. The problem can also occur if an important file is missing.
@@ -154,6 +142,10 @@ You can do that by following the below instructions:
 
  While you're at the OBS Studio home screen, check for and download any available updates. To do that, click**Help** and choose**Check for Updates** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Reinstall OBS Studio
 
  If you're still getting the error message, you're left with no option other than reinstalling OBS Studio. To do that, first [uninstall OBS Studio from Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
@@ -164,14 +156,11 @@ You can do that by following the below instructions:
 
  OBS Studio makes it a cakewalk to record anything and upload it online. However, due to corruption in its installation folder or missing DLL files, it might throw the "An unspecified error occurred while recording" error. Fortunately, you can quickly get rid of this error by applying the above fixes.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -180,6 +169,23 @@ You can do that by following the below instructions:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-craft-the-perfect-gif-message-in-snapchat-easy-steps/"><u>[Updated] Craft the Perfect Gif Message in Snapchat [Easy Steps]</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-digital-footprints-keeping-your-twitter-vids-safe-and-sound/"><u>[Updated] Digital Footprints Keeping Your Twitter Vids Safe and Sound</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-examining-performance-of-dji-raptor-eyewear/"><u>[Updated] Examining Performance of DJI Raptor Eyewear</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-video-frame-rates-explained-why-choose-30-or-60/"><u>[Updated] In 2024, Video Frame Rates Explained Why Choose 30 or 60?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-profit-strategies-in-youtube-marketing/"><u>[Updated] Profit Strategies in YouTube Marketing</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/dex-3-and-hercules-inpulse-300-unite-enhanced-control-experience-for-pcdj-users-master-your-beats/"><u>DEX 3 & Hercules Inpulse 300 Unite: Enhanced Control Experience for PCDJ Users - Master Your Beats</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/early-language-ladders-from-nursery-school-to-elementary/"><u>Early Language Ladders: From Nursery School To Elementary</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/high-definition-emilia-clarke-wallpaper-collection-premium-desktop-and-mobile-visuals-yl-computing/"><u>High-Definition Emilia Clarke Wallpaper Collection | Premium Desktop & Mobile Visuals - YL Computing</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-retrieve-classic-file-management/"><u>How to Retrieve Classic File Management</u></a></li>
+<li><a href="https://windows11.techidaily.com/masterclass-combating-the-winscomrssvc-error-in-windows/"><u>Masterclass: Combating the WinscomrsSvc Error in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-portable-internet-access-via-windows-11/"><u>Mastering the Art of Portable Internet Access via Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-usb-data-loss-on-windows-platforms/"><u>Overcoming USB Data Loss on Windows Platforms</u></a></li>
+<li><a href="https://win-special.techidaily.com/schritt-fur-schritt-anleitung-zum-fehlerlosen-datenspeicherung-von-sql-datenbanken-an-fernortsgeraten/"><u>Schritt-Für-Schritt Anleitung Zum Fehlerlosen Datenspeicherung Von SQL Datenbanken an Fernortsgeräten</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlined-system-repairing-in-windows-easy-hotkeys-for-troubleshooting/"><u>Streamlined System Repairing in Windows: Easy Hotkeys for Troubleshooting</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-fixers-handbook-for-recurring-rainmeter-glitches/"><u>The Ultimate Fixer's Handbook for Recurring Rainmeter Glitches</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-core-of-computer-configurations/"><u>Unlocking the Core of Computer Configurations</u></a></li>
+</ul></div>
 

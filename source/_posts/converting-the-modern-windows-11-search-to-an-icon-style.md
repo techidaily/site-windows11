@@ -1,7 +1,7 @@
 ---
 title: Converting the Modern Windows 11 Search to an Icon Style
-date: 2024-08-08T05:58:53.005Z
-updated: 2024-08-09T05:58:53.005Z
+date: 2025-01-14T06:40:05.391Z
+updated: 2025-01-16T11:34:57.685Z
 tags:
   - windows10
   - windows11
@@ -21,15 +21,16 @@ thumbnail: https://thmb.techidaily.com/9be41d62e85e6d9d35faed892e42e95be3740ff67
  If so, read on. Here's how to revert the Windows 11 search bar to a search icon.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Happened to the Windows 11 Taskbar Search Icon?
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![screenshot of the new taskbar search icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/screenshot_of_new_search_taskbar_icon.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you're keeping Windows 11 updated, you would have had your taskbar search icon change over to a larger bar-shaped icon.
 
@@ -37,15 +38,13 @@ thumbnail: https://thmb.techidaily.com/9be41d62e85e6d9d35faed892e42e95be3740ff67
 
  Thankfully, there's a catch-all solution to many of these design changes.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Restoring Features with ViVeTool
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![screenshot of ViVeTool in system 32](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/screenshot_of_vivetool_in_system_32.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  ViVeTool is what we'll be using to change this feature back, and it can be found on the [GitHub page for ViVeTool](https://github.com/thebookisclosed/ViVe/releases/tag/v0.3.2) . In order to properly use this program, it needs to be extracted into the right location: System32.
 
@@ -53,15 +52,13 @@ thumbnail: https://thmb.techidaily.com/9be41d62e85e6d9d35faed892e42e95be3740ff67
 
  When you're ready, extract the downloaded ZIP for ViVeTool into your System32 folder.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Restore the Windows 11 Search Bar Icon
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![screenshot of the quick command menu opening windows terminal in admin mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/screenshot_of_quick_command_windows_terminal_admin.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Begin by launching an admin-level terminal window. To do this, right-click on the start menu icon, and hit**Windows Terminal - Admin** . Make sure you click**Yes** to the User Account Control window.
 
@@ -73,20 +70,21 @@ Next, input the following code into the terminal window:
 
  Then, all you have to do is restart. Your search icon should return to its original style.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Features Change, Even if You Don’t Want Them To
 
  At the end of the day, this might very well be a temporary fix. Microsoft could include a toggle in the future, or add in further changes that break the functionality of this tool.
 
  While that might be annoying, as long as there are people using Windows, there will be people making modifications such as ViVeTool to give control back to the user.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -95,6 +93,21 @@ Next, input the following code into the terminal window:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-clear-acoustic-advantages-review-of-the-top-6-stream-ready-mic-models/"><u>[New] Clear Acoustic Advantages Review of the Top 6 Stream-Ready Mic Models</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-conversion-manual-from-srt-to-various-formats/"><u>[New] Ultimate Conversion Manual From SRT to Various Formats</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pubg-journey-to-stability-dxgidll-restored/"><u>[PUBG] Journey to Stability - Dxgi.dll Restored</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-inaccessible-fingerprint-device-in-windows/"><u>Fixing Inaccessible Fingerprint Device in Windows</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/guide-to-advanced-sleep-technologies-unlocking-the-secret-to-restful-nights/"><u>Guide to Advanced Sleep Technologies: Unlocking the Secret to Restful Nights</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-xiaomi-redmi-13c-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Xiaomi Redmi 13C by Name | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-samsung-galaxy-f34-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Samsung Galaxy F34 5G Phones with/without a PC</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-the-ultimate-list-best-7-camcorders-for-waterproof-use/"><u>In 2024, The Ultimate List Best 7 Camcorders for Waterproof Use</u></a></li>
+<li><a href="https://windows11.techidaily.com/keeping-taskmanager-visible-on-top/"><u>Keeping TaskManager Visible on Top</u></a></li>
+<li><a href="https://windows11.techidaily.com/making-store-downloads-functional-again-a-step-by-step-approach/"><u>Making Store Downloads Functional Again: A Step-by-Step Approach</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlined-guide-executing-windows-11-setup-on-vmware-player-17/"><u>Streamlined Guide: Executing Windows 11 Setup on VMware Player 17</u></a></li>
+<li><a href="https://windows11.techidaily.com/unpacking-windows-maintenance-tools/"><u>Unpacking Window's Maintenance Tools</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Sony Xperia 5 V? | Dr.fone</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/wie-sie-eine-versehentig-irgendwie-geloschte-datei-mit-datei-explorer-wiederherstellen/"><u>Wie Sie Eine Versehentig Irgendwie Gelöschte Datei Mit Datei-Explorer Wiederherstellen</u></a></li>
+</ul></div>
 

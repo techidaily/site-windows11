@@ -1,7 +1,7 @@
 ---
 title: Correcting Discord Setup Woes on Windows 11
-date: 2024-08-15T15:11:54.600Z
-updated: 2024-08-16T15:11:54.600Z
+date: 2025-01-14T09:21:27.186Z
+updated: 2025-01-16T07:51:55.798Z
 tags:
   - windows10
   - windows11
@@ -37,9 +37,6 @@ thumbnail: https://thmb.techidaily.com/bb7b22db4f29df84af9ef917f29e85118ed689c60
 3. Select File Explorer’s taskbar shortcut (the folder library icon), and bring up whatever directory contains the downloaded Program Install and Uninstall troubleshooter file.
 4. Double-click**MicrosoftProgram\_Install\_and\_Uninstall.meta.diagcab** to launch the troubleshooter.  
 ![The Program Install and Uninstall troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-program-install-and-uninstall-troubleshooter.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Select**Next** to go to the first step.
 6. Click**Installing** to view a program list.
 7. Select**Discord** if you can see that software on the list. If Discord isn’t there, click the**Not listed** option.  
@@ -47,9 +44,9 @@ thumbnail: https://thmb.techidaily.com/bb7b22db4f29df84af9ef917f29e85118ed689c60
 8. Then press**Next** again to start troubleshooting.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Disable Any Background Discord Processes
 
  Some users have said disabling Discord background processes can resolve the issue. If you’ve previously installed and used the software, there could be some related background Discord processes or services that need disabling. This is how you can check for and disable Discord background processes in Windows 10 and 11:
@@ -69,27 +66,36 @@ thumbnail: https://thmb.techidaily.com/bb7b22db4f29df84af9ef917f29e85118ed689c60
 1. Open the Power User menu (right-click the**Start** icon), and select**Run** .  
 ![The Run shortcut on the Power User menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-run-option.jpg)
 2. Type**%appdata%** into Run and click**OK** to bring up a Roaming directory.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Right-click a Discord data folder in the Roaming directory to select**Delete** .  
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-delete-option.jpg)
 4. Launch**Run** again, and input**%localappdata%** inside its**Open** box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select**OK** to view a Local folder.
 6. Right-click a Discord data folder there if you can find one and select**Delete** .
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Run the Discord Setup File as an Administrator
 
  Running the Discord setup file as an administrator will ensure the installer has fuller system access, which might make a difference. To do so, open whatever folder includes the**DiscordSetup.exe** file. Then right-click**DiscordSetup.exe** to select its**Run as administrator** option.
 
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-as-adminstrator-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Install the .NET Framework on Windows
 
  Discord’s “Installation has failed” error can occur because the .NET Framework is missing. If something has happened to .NET Framework on your PC, you may need to install it again. This is how to install .NET Framework 4.5 on Windows:
@@ -101,16 +107,21 @@ thumbnail: https://thmb.techidaily.com/bb7b22db4f29df84af9ef917f29e85118ed689c60
 ![The Microsoft .NET Framework 4.5 installer window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-microsoft-net-framework-installer-window.jpg)
 5. Click**Continue** if that option isn’t grayed out.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If .NET Framework isn’t missing, there could still be an issue with that framework. You can instead try to repair it by running the .NET Framework Repair Tool. Check out our guide about [repairing .NET Framework](https://www.makeuseof.com/windows-repair-net-framework/) for more details.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Turn Off Antivirus Utilities Before Installing Discord
 
  It’s not entirely unusual for antivirus utilities to cause third-party software installation issues. Antivirus apps are designed to block malware from installing, but can sometimes confuse legitimate third-party software packages to be something they aren’t. So, it’s recommended users turn off antivirus shields before attempting to install Discord.
 
 ![The Real-time protection setting in the Windows Security app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-security-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can turn off the Windows Security real-time protection by following the instructions in our [how to disable Microsoft Defender](https://www.makeuseof.com/how-to-turn-off-microsoft-defender-windows-11/) article. If you’ve got third-party antivirus software installed, right-click its icon within the system tray to select an option for temporarily disabling the shield. You can also probably find a disable shield option within its settings tab.
 
@@ -119,15 +130,9 @@ thumbnail: https://thmb.techidaily.com/bb7b22db4f29df84af9ef917f29e85118ed689c60
  Some background third-party apps and drivers can also feasibly generate Discord installation issues. So, it’s also possible something in the background other than antivirus software could be causing the “Installation has failed” installation error on your PC. You can eliminate such a potential cause by installing Discord in the Windows safe mode, which disables superfluous background apps and drivers.
 
 ![windows 11 startup settings safe mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-11-startup-settings-safe-mode.jpg)
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 
  There are numerous ways to enter safe mode in Windows. You can do so with any of the methods in our guide for [how to enter safe mode on Windows](https://www.makeuseof.com/windows-11-boot-safe-mode/) . Select the**Enable Safe Mode with Networking** option on the Startup Settings menu. Then download Discord again and try installing it in safe mode.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Get Chatting Again in Discord for Windows
 
  The potential “Installation has failed” error solutions in this guide are among the most widely confirmed ways to fix that issue in Windows 10 and 11\. The third and fourth resolutions particularly often resolve the “Installation has failed” error for users trying to reinstall Discord. However, you can also contact Discord’s support service if nothing seems to work.
@@ -138,8 +143,6 @@ thumbnail: https://thmb.techidaily.com/bb7b22db4f29df84af9ef917f29e85118ed689c60
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,6 +150,22 @@ thumbnail: https://thmb.techidaily.com/bb7b22db4f29df84af9ef917f29e85118ed689c60
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-10-facts-about-instagram-reels-the-truth-you-may-ignore/"><u>[Updated] 2024 Approved 10 Facts About Instagram Reels-The Truth You May Ignore</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-photoshop-picmaster-guide-and-assessment/"><u>[Updated] Photoshop PicMaster Guide & Assessment</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtube-editing-tutorial-mastering-video-cuts/"><u>2024 Approved YouTube Editing Tutorial Mastering Video Cuts</u></a></li>
+<li><a href="https://windows11.techidaily.com/break-the-silence-of-a-disconnected-usb-wi-fi-adapter-on-pcs/"><u>Break the Silence of a Disconnected USB Wi-Fi Adapter on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-tips-on-coexisting-wi-fi-and-ethernet-in-a-single-windows-pc/"><u>Expert Tips on Coexisting Wi-Fi & Ethernet in a Single Windows PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-self-shutdowns-steps-for-windows-11-users/"><u>Fix Self-Shutdowns: Steps for Windows 11 Users</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-honor-magic-6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-samsung-galaxy-a14-5g-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Samsung Galaxy A14 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-oppo-reno-11-pro-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Oppo Reno 11 Pro 5G Phone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ring-your-setup-essential-shooting-accessories/"><u>Mastering Your Setup Essential Shooting Accessories</u></a></li>
+<li><a href="https://windows11.techidaily.com/outdated-pcs-upgraded-to-modern-windows-11-standards/"><u>Outdated PCs Upgraded to Modern Windows 11 Standards</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-disconnected-windows-printer-linkup/"><u>Restoring Disconnected Windows Printer Linkup</u></a></li>
+<li><a href="https://windows11.techidaily.com/show-your-connection-status-update-windows-icon-bar/"><u>Show Your Connection Status: Update Windows Icon Bar</u></a></li>
+<li><a href="https://windows11.techidaily.com/solve-icloud-download-issues-with-these-helpful-steps/"><u>Solve iCloud Download Issues with These Helpful Steps</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/remier-7-apps-transforming-mobile-video-streaming-on-youtube/"><u>The Premier 7 Apps Transforming Mobile Video Streaming on YouTube</u></a></li>
+</ul></div>
 

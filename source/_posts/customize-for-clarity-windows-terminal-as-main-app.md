@@ -1,7 +1,7 @@
 ---
 title: "Customize for Clarity: Windows Terminal As Main App"
-date: 2024-08-08T06:00:05.435Z
-updated: 2024-08-09T06:00:05.435Z
+date: 2025-01-08T22:18:21.372Z
+updated: 2025-01-16T03:27:30.243Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
  If you wish to set Windows Terminal as your default terminal application, you've come to the right place. Below, we'll share some quick methods to make Windows Terminal your default terminal app.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why Should You Use Windows Terminal Instead of Command Prompt or Windows PowerShell?
 
  There are multiple reasons why you should prefer Windows Terminal over Command Prompt or Windows PowerShell. Let’s check out all of them one by one:
@@ -36,8 +37,9 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
  Now that we know all its advantages, let’s check out how to make Windows Terminal your default terminal app.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Set the Windows Terminal as Your Default Terminal App Using Windows Settings
 
  The quickest way to make Windows Terminal your default app to make command-line operations is through the Windows Settings app. Here are the steps to do that:
@@ -46,6 +48,11 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
 2. Choose **System** from the left sidebar and choose the **For developers** option in the right pane.  
 ![For developers option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/for-developers-option.jpg)
 3. Click the **drop-down icon** next to the **Terminal** option and choose **Windows Terminal** from the menu that appears.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Windows Terminal option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-terminal.jpg)
 
  And that’s about it. Now, whenever you try to open a command-line program, it will be launched through the Windows Terminal app.
@@ -56,20 +63,8 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
 
 1. Press the **Win** key to open the **Start Menu**, type **Terminal** in the search bar, and press Enter.
 2. Click the **drop-down icon** next to the **plus icon** and choose **Settings** from the context menu.  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Settings option in Terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/settings-option-1.jpg)
 3. Choose **Startup** from the left sidebar, click the **drop-down icon** next to the **Default** **terminal** **application**, and choose **Windows** **Terminal** from the menu.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ![Startup option in the Terminal window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/startup-option.jpg)
 4. Click the **Save** button.
 
@@ -81,34 +76,26 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
 
 1. Open the **Start Menu**, type **Command** **Prompt** in the search bar, and choose **Run as administrator** from the right pane.
 2. Right-click on the **Command** **Prompt** title bar and choose **Properties**.  
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Properties option in Comman Prompt window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/properties-option-1.jpg)
 3. Switch to the **Terminal tab**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Choose **Windows** **Terminal** from the **Default Terminal Application** drop-down menu.  
 ![Default Terminal Application drop-down menu in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/default-terminal-application-drop-down-menu.jpg)
 5. Click **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Start Using the Windows Terminal as Your Default
 
  While Command Prompt and Windows PowerShell are useful, there are various reasons to opt for Windows Terminal. Whether you're a developer working with multiple operating systems and environments or simply seeking a more user-friendly command line tool, Windows Terminal should be your default terminal application. You can easily set it as your default terminal app using the above-mentioned methods.
 
  If you wish to set Windows Terminal as your default terminal application, you've come to the right place. Below, we'll share some quick methods to make Windows Terminal your default terminal app.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -116,4 +103,18 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-simple-steps-modify-windows-speech-of-sea-creatures/"><u>[New] In 2024, Simple Steps Modify Windows Speech of Sea Creatures</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-inside-ppros-full-screen-vista-your-handbook/"><u>[Updated] In 2024, Inside PPro's Full-Screen Vista Your Handbook</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-quick-fix-to-spot-instagram-disconnects/"><u>2024 Approved Quick Fix to Spot Instagram Disconnects</u></a></li>
+<li><a href="https://win11.techidaily.com/command-mastery-positioning-custom-shortcuts-by-power-button-in-windows-11/"><u>Command Mastery: Positioning Custom Shortcuts by Power Button in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-insights-into-the-world-of-hdr-technology-for-windows-11/"><u>Expert Insights Into the World of HDR Technology for Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-empty-directory-problem-microsofts-0x80070091-error-explained/"><u>Fixing 'Empty Directory' Problem - Microsoft's 0X80070091 Error Explained</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-make-sure-your-temp-folder-is-valid-error-in-windows-11/"><u>How to Fix the Make Sure Your Temp Folder Is Valid Error in Windows 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-inspire-humorous-graphics-for-online-platform/"><u>In 2024, Inspire Humorous Graphics for Online Platform</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-motorola-moto-g84-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Motorola Moto G84 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-system-calls-failure-on-win1011/"><u>Troubleshooting System Calls Failure on Win10/11</u></a></li>
+</ul></div>
 

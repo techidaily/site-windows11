@@ -1,7 +1,7 @@
 ---
 title: "Tick the Box: Quick Windows Fixes to Modify File Dates"
-date: 2024-12-28T19:20:54.755Z
-updated: 2025-01-04T04:22:52.312Z
+date: 2025-01-13T22:15:16.479Z
+updated: 2025-01-16T05:07:04.259Z
 tags:
   - windows10
   - windows11
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/799a97879dd8a90baa6e969f4bb05fcde15523a27
  There are times when you might want to change the created/modified date for your files. For example, you could do this so that you can group your files by a certain common date. In some instances, you could change the created/modified date for privacy purposes—especially if you share your PC with others.
 
  So, let’s check out some of the best apps that can help you change the created/modified date on Windows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. TimeStamp Changer
 
@@ -52,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/799a97879dd8a90baa6e969f4bb05fcde15523a27
 
 **Download** : BulkFileChanger for[Windows](https://www.nirsoft.net/utils/bulk%5Ffile%5Fchanger.html) (Free)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Attribute Changer
 
 ![Attribute Changer App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/attribute-changer-app.jpg)
@@ -64,17 +64,9 @@ thumbnail: https://thmb.techidaily.com/799a97879dd8a90baa6e969f4bb05fcde15523a27
 
 **Download** : Attribute Changer for[Windows](https://www.petges.lu/download/) (Free)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. NewFileTime
 
 ![NewFileTime App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/newfiletime-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  NewFile Time is an easy-to-use tool that comes with incredible features, like the "drag-and-drop" functionality and more.
 
@@ -99,16 +91,12 @@ thumbnail: https://thmb.techidaily.com/799a97879dd8a90baa6e969f4bb05fcde15523a27
 **Download** : AttributeMagic for[Windows](https://www.elwinsoft.com/attributemagic-free.html) (Free)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. File & Folder Tools
 
 ![File & Folder Tools App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/file-folder-tools-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  File & Folder Tools is an app comprising a set of tools that can help you change file attributes, tweak your files' timestamps,[locate duplicate files on Windows](https://www.makeuseof.com/tag/save-hard-drive-space-by-finding-and-removing-duplicate-files/) , and more.
 
@@ -118,9 +106,17 @@ thumbnail: https://thmb.techidaily.com/799a97879dd8a90baa6e969f4bb05fcde15523a27
 
 **Download** : File & Folder Tools for[Windows](https://www.softpedia.com/get/File-managers/File-and-Folder-Tools.shtml) (Free)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Bulk Rename Utility
 
 ![The Change File Timestamps Window from the Bulk Rename Utility Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-change-file-timestamps-window-from-the-bulk-rename-utility-tool.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Bulk Rename Utility, as the name suggests, is a batch file renaming tool. But this app also offers a feature that allows you to change the created/modified dates for your files. Although its main interface is quite cluttered, we’ll show you how to use the tool in a few quick steps.
 
@@ -132,9 +128,17 @@ thumbnail: https://thmb.techidaily.com/799a97879dd8a90baa6e969f4bb05fcde15523a27
 
 **Download** : Bulk Rename Utility for[Windows](https://www.bulkrenameutility.co.uk/Download.php) (Free)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Advanced Renamer
 
 ![Advanced Renamer App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/advanced-renamer-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Advanced Renamer is another tool whose main purpose is to help you easily[rename your files on Windows](https://www.makeuseof.com/windows-11-rename-files/) . But in addition to that, the tool helps you change your files’ timestamps.
 
@@ -143,10 +147,6 @@ thumbnail: https://thmb.techidaily.com/799a97879dd8a90baa6e969f4bb05fcde15523a27
  From there, tick the**Created date and time** ,**Accessed date and time** , or the**Modified date and time** box. Finally, enter your preferred date and time in the bottom-left corner of the screen and press**Enter** .
 
 **Download** : Advanced Renamer for[Windows](https://www.advancedrenamer.com/download) (Free)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Changing Your Files' Created/Modified Dates Is Easy
 
@@ -169,22 +169,14 @@ thumbnail: https://thmb.techidaily.com/799a97879dd8a90baa6e969f4bb05fcde15523a27
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-silence-to-spotlight-the-solo-podcast-artists-journey/"><u>[New] From Silence to Spotlight The Solo Podcast Artist's Journey</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-10-best-webcams-to-enhance-your-podcast-experience/"><u>[New] In 2024, 10 Best Webcams to Enhance Your Podcast Experience</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoiding-insufficient-access-errors-during-software-removal/"><u>Avoiding Insufficient Access Errors During Software Removal</u></a></li>
-<li><a href="https://windows11.techidaily.com/comprehensible-guide-to-counteracting-winerror-0x80071a90/"><u>Comprehensible Guide to Counteracting WinError 0X80071a90</u></a></li>
-<li><a href="https://windows11.techidaily.com/discover-the-secret-to-smoothly-controlling-your-touchpad-in-windows-11/"><u>Discover the Secret to Smoothly Controlling Your Touchpad in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminating-blackout-phenomenon-in-windows-titles/"><u>Eliminating Blackout Phenomenon in Windows Titles</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminating-common-windows-installer-problems/"><u>Eliminating Common Windows Installer Problems</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminating-genuineness-errors-in-adobe-windows/"><u>Eliminating Genuineness Errors in Adobe Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhance-your-subnet-configuration-in-win11/"><u>Enhance Your Subnet Configuration in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/eradicating-screen-annoyances-in-sonic-frontiers-on-windows-11/"><u>Eradicating Screen Annoyances in Sonic Frontiers on Windows 11</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/gtx-gems-the-best-for-high-res-gaming-for-2024/"><u>GTX Gems The Best for High-Res Gaming for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-motorola-moto-g-stylus-2023-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Motorola Moto G Stylus (2023)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restore-your-preferred-ms-store-programs-on-windows-devices/"><u>Restore Your Preferred MS Store Programs on Windows Devices</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ultimate-list-of-ios-camera-apps-for-the-iphone-xplus-series/"><u>The Ultimate List of iOS Camera Apps for the iPhone X+ Series</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-10-solutions-for-iphone-calling-issues-get-connected/"><u>Top 10 Solutions for iPhone Calling Issues: Get Connected!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-36-unbeatable-amazon-prime-day-bargains-on-iphones-and-more-exclusive-list/"><u>Top 36 Unbeatable Amazon Prime Day Bargains on iPhones & More - Exclusive List</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-htc-u23-frp-bypass-by-drfone-android/"><u>Ultimate Guide from HTC U23 FRP Bypass</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/81188891-new-warranty-and-lifespan-higher-quality-led-systems-may-come-with-a-higher-upfront-price-but-can-offer-longer-lifespans-and-better-performance-which-should/"><u>[New] __Warranty and Lifespan Higher Quality LED Systems May Come with a Higher Upfront Price but Can Offer Longer Lifespans and Better Performance, Which Should Be Considered in the Overall Cost Evaluation.</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-capture-save-and-watch-5-best-pinterest-videos-tools/"><u>[New] Capture, Save and Watch 5 Best Pinterest Videos Tools</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-keywords-that-catapult-hashtag-hacks-in-gameplay-videos/"><u>[Updated] Keywords that Catapult Hashtag Hacks in Gameplay Videos</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-xiaomi-redmi-k70-pro-by-drfone-android/"><u>How to Bypass FRP from Xiaomi Redmi K70 Pro?</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-11-zoom-malfunction-1132/"><u>Overcoming Windows 11 Zoom Malfunction #1132</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-stopping-auto-recommended-game-suggestion/"><u>Steps for Stopping Auto-Recommended Game Suggestion</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-separate-bunched-system-icons/"><u>Strategies to Separate Bunched System Icons</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-ftdibussys-the-impact-on-windows-memory-standards-and-safety/"><u>Unraveling ftdibus.sys: The Impact on Windows' Memory Standards and Safety</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-lenovo-ideapad-320s-charming-design-and-ergonomic-lenovo-keyboard-layout-user-focused-review/"><u>Unveiling the Lenovo IdeaPad 320'S Charming Design & Ergonomic Lenovo Keyboard Layout – User-Focused Review</u></a></li>
 </ul></div>
 

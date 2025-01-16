@@ -1,7 +1,7 @@
 ---
 title: "Revel in Easy Entry: Unlocking Windows 11'S Application Archive"
-date: 2025-01-04T22:37:07.744Z
-updated: 2025-01-10T18:03:39.093Z
+date: 2025-01-12T17:31:15.674Z
+updated: 2025-01-16T12:49:55.853Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Open AppsFolder Using Run Command
@@ -37,7 +37,15 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
 2. Type **shell:AppsFolder** into the text field and hit Enter.  
 ![Open AppsFolder Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-appsfolder-using-run-command.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The AppsFolder opens up in its own window, where you can view and manage the applications installed on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Open AppsFolder Using File Explorer
 
@@ -57,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
 3. Type **shell:AppsFolder** in the dialog box and click **OK**.  
 ![Open AppsFolder Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-appsfolder-using-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The AppsFolder window shows all the programs and apps installed on your computer.
 
 ## 4\. How to Open AppsFolder Using Command Prompt
@@ -71,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
 2. Type **Command Prompt** and click on the result to open it.
 3. In the Command Prompt window, type **Explorer Shell:AppsFolder**​ and press **Enter**.  
 ![Open AppsFolder Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-appsfolder-using-command-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. How to Open AppsFolder Using Windows PowerShell
 
@@ -96,11 +96,11 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
 ![Open AppsFolder Using Desktop Shortcut-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-appsfolder-using-desktop-shortcut-1.jpg)
 3. Name your shortcut like “Apps Folder” or whatever you want to call it, and click **Finish**.  
 
-![Name the Desktop Shortcut key-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/name-the-desktop-shortcut-key-1.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Name the Desktop Shortcut key-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/name-the-desktop-shortcut-key-1.jpg)
 
  You'll see an Apps Folder shortcut icon appear on your desktop. Double-click it to open the AppsFolder window and manage your apps.
 
@@ -113,11 +113,11 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
 3. Click in the **Shortcut key** field and type a single character key like F, T, or whatever you want.  
 ![Open AppsFolder Using Shortcut Key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-appsfolder-using-shortcut-key.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The shortcut key will appear next to the **Ctrl + Alt** options. You can now quickly open the AppsFolder with this keyboard shortcut.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Getting to the AppsFolder Quickly on Windows
 
@@ -135,19 +135,22 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-most-effective-macos-sierra-video-coders-for-2024/"><u>[New] Most Effective MacOS Sierra Video Coders for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-streamlining-podcast-feed-creation-techniques-for-2024/"><u>[New] Streamlining Podcast Feed Creation Techniques for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-fine-tuning-snapchat-video-velocity/"><u>[New] The Ultimate Guide Fine-Tuning Snapchat Video Velocity</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-harnessing-the-power-of-post-production-colors/"><u>[Updated] Harnessing the Power of Post-Production Colors</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-androids-leading-video-tiles-ranked-8-freepaid-collage-creators/"><u>[Updated] In 2024, Android's Leading Video Tiles Ranked #8-Free/Paid Collage Creators</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dive-into-the-asus-zenbook-s16s-performance-an-in-depth-test-of-its-built-in-amd-ryzen-ai-nine-series-cpu/"><u>Dive Into the Asus Zenbook S16's Performance: An In-Depth Test of Its Built-In AMD RYZEN AI Nine Series CPU</u></a></li>
-<li><a href="https://windows11.techidaily.com/filter-outuseless-windows-updates/"><u>Filter Outuseless Windows Updates</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-motorola-edgeplus-2023-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Motorola Edge+ (2023) Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-windows-11-8-key-avoidances-for-smooth-sailing/"><u>Navigating Windows 11: 8 Key Avoidances for Smooth Sailing</u></a></li>
-<li><a href="https://windows11.techidaily.com/reversing-the-trend-of-failed-ea-server-connectivity/"><u>Reversing the Trend of Failed EA Server Connectivity</u></a></li>
-<li><a href="https://windows11.techidaily.com/speeding-up-sluggish-excel-troubleshooting-steps-for-windows-users/"><u>Speeding Up Sluggish Excel: Troubleshooting Steps for Windows Users</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-your-ipods-delayed-operating-system-installation-using-these-6-methods/"><u>Troubleshoot Your iPod's Delayed Operating System Installation Using These 6 Methods</u></a></li>
-<li><a href="https://windows11.techidaily.com/validating-or-rejecting-window-login-attempts-with-precision/"><u>Validating or Rejecting Window Login Attempts with Precision</u></a></li>
-<li><a href="https://windows11.techidaily.com/win-back-lost-apps-expert-methods-for-off-screen-window-restoration/"><u>Win Back Lost Apps: Expert Methods for Off-Screen Window Restoration</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-capturing-stills-in-time-a-guide-to-slow-motion-on-ig/"><u>[New] In 2024, Capturing Stills in Time A Guide to Slow Motion on IG</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-free-mobile-image-editing-tools-top-10-overlay-app-list/"><u>[Updated] Free Mobile Image Editing Tools - Top 10 Overlay App List</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-how-to-turnout-video-on-your-android-device/"><u>[Updated] How to Turnout Video on Your Android Device</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-accuracy-audit-a-vll-driven-review/"><u>2024 Approved Accuracy Audit A VLL-Driven Review</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-system-stability-post-windows-update-with-wsl-in-focus/"><u>Enhancing System Stability Post-Windows Update with WSL in Focus</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-for-fixing-the-nspr4dll-file-not-detected-mistake/"><u>Expert Tips for Fixing the Nspr4.dll File Not Detected Mistake</u></a></li>
+<li><a href="https://windows11.techidaily.com/get-rid-of-the-standout-wallpaper-icon-in-win11/"><u>Get Rid of the Standout Wallpaper Icon in Win11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-on-apple-iphone-x-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account On Apple iPhone X without Password?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719377597268-legacy-software-understanding/"><u>Legacy Software Understanding:</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-absence-of-display-in-boot-process/"><u>Remedying Absence of Display in Boot Process</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resource-limits-affecting-usage/"><u>Resource Limits Affecting Usage</u></a></li>
+<li><a href="https://windows11.techidaily.com/switch-touch-typing-onoff-with-this-windows-tutorial/"><u>Switch Touch Typing On/Off with This Windows Tutorial</u></a></li>
+<li><a href="https://windows11.techidaily.com/swivel-visual-viewpoint-in-windows-os/"><u>Swivel Visual Viewpoint in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-art-and-science-of-professional-printing-from-powerpoint-on-a-windows-computer/"><u>The Art and Science of Professional Printing From PowerPoint on a Windows Computer</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-the-full-potential-of-comic-viewing-in-win11/"><u>Unleash the Full Potential of Comic Viewing in Win11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/writing-winning-business-proposals-with-chatgpt/"><u>Writing Winning Business Proposals with ChatGPT</u></a></li>
 </ul></div>
 

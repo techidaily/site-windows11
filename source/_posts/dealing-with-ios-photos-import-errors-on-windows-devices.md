@@ -1,7 +1,7 @@
 ---
 title: Dealing with iOS Photos Import Errors on Windows Devices
-date: 2024-08-08T06:01:33.729Z
-updated: 2024-08-09T06:01:33.729Z
+date: 2025-01-08T18:23:30.378Z
+updated: 2025-01-16T06:10:20.898Z
 tags:
   - windows10
   - windows11
@@ -36,20 +36,10 @@ thumbnail: https://thmb.techidaily.com/26d450fdec75a3cb5316781ad73e34df68fc7b736
 ![The Import pictures and videos option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/import-pictures-and-videos-option.jpg)
 4. Click the**Review** radio button in the Import Pictures window that opens.
 5. Select**Next** to review images.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![The Review option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/review-option.jpg)
 6. Choose some images to transfer and click the**Import** option.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Import option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/import-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## 3\. Restart the Apple Mobile Device Service
 
  The “Something went wrong” error can arise when the Apple Mobile Device Service gets stuck. Restarting that service can resolve the issue in such a scenario. However, note that you won’t find that service if iTunes isn’t installed on your PC. This is how to restart the Apple Mobile Device service:
@@ -64,8 +54,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 6. Click**Apple Mobile Device Service** with your right mouse button and select**Start** .
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Disable Hardware Acceleration in Photos
 
  The Windows 10 Photos app’s hardware acceleration feature can generate issues with importing images from an iPhone. This is how you can disable hardware acceleration in Windows 10’s legacy Photos app:
@@ -75,6 +66,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 3. Select the**Settings** menu option.  
 ![The Settings menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/settings-option.jpg)
 4. Scroll down to and turn off the**Use hardware acceleration video encoding** when available setting.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Use hardware-accelerated video encoding option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/use-hardware-acceleration-setting.jpg)
 
 ## 5\. Select the "Keep Originals" Option on Your iPhone
@@ -88,20 +84,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  If this resolution works, images will be imported in an original HEIC format, which isn’t universally compatible with Windows software. So, it’s recommended to convert the imported pictures to PNG or JPG. You can do so with the web apps included in our [how to convert HEIC files with online tools](https://www.makeuseof.com/convert-heic-files-tools/) guide.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Repair and/or Reset the Photos App
 
  Photos is a UWP (Universal Windows Platform) app with**Repair** and**Reset** troubleshooting options you can select when it’s not working right. In this case, Photos isn’t working right because you can’t import iPhone images with it. So, selecting its**Repair** /**Reset** options could feasibly resolve that Photos issue.
 
 ![The Reset and Repair options for Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can access both those Photos troubleshooting options as outlined in our [guide to resetting apps in Windows 11](https://www.makeuseof.com/windows-reset-app/) . The**Repair** button is directly above the**Reset** option. First, select**Repair** to see if that makes a difference. Click**Reset** to eradicate the app’s data if the**Repair** option doesn’t resolve the “Something went wrong” image import error.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Close the OneDrive App
 
  The OneDrive cloud storage app is can conflict with Photos’ image importing. That’s more likely to happen when a OneDrive account’s storage space is severely limited. Try closing that background app and signing out from the Photos app as follows:
@@ -109,35 +107,36 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. Right-click the OneDrive icon in the system tray.
 2. Then click the**Help & Settings** button.
 3. Select**Quit OneDrive** to close the app.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![The Quit OneDrive option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/quit-onedrive-option.jpg)
 4. Open the Photos app and click the user account picture in it.
 5. Select the**Sign out** option.  
 ![The Sign out option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sign-out-option.jpg)
 6. Click**Sign out** again to confirm.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Try importing images with Photos again.
 
  Note that the instructions above are for the legacy Windows 10 Photos app. You can’t select to sign out of a user account in Windows 11’s default Photos app. In Windows 11’s Photos app, click**Settings** and turn off the**OneDrive – Personal** option.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Disable Microsoft Defender (or Other Antivirus Utility)
 
  Sometimes antivirus (security) tools can interfere with file importing from other devices. To ensure that doesn’t happen, temporarily disable antivirus utilities on your PC before attempting to import images. If you haven’t installed any security software,[disable Microsoft Defender Antivirus in Windows Security](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) by turning off that app’s real-time protection.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/real-time-protection-option.jpg)
 
  If you have installed third-party security software, disable its antivirus shield. Avast, Kaspersky, Bit Defender, McAfee, Norton, and Avira all have system tray icons you can right-click to select settings that disable their shields. So, look for and select an option that disables your antivirus software on its context menu.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Import Images From Your iPhone on Windows Again
 
  Many users have resolved the “Something went wrong” Photos error by applying some of the confirmed resolutions above. So, it’s most likely at least one of the above potential solutions will enable you to transfer images from your iPhone to Windows 10 or 11 PC again.
@@ -150,8 +149,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -159,6 +156,19 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-steps-to-restore-visual-clarity-to-youtube-videos-for-2024/"><u>[Updated] Steps to Restore Visual Clarity to YouTube Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unlock-your-facebook-cache-securely-download-messages-and-vids-for-2024/"><u>[Updated] Unlock Your Facebook Cache Securely Download Messages & Vids for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/becoming-a-pro-the-ultimate-guide-to-microsofts-movie-maker-in-win11/"><u>Becoming a Pro The Ultimate Guide to Microsoft's Movie Maker in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-read-only-files-windows-strategies-for-recovery/"><u>Fixing Read-Only Files: Windows Strategies for Recovery</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ideal-frequencies-in-podcast-launches-for-2024/"><u>Ideal Frequencies in Podcast Launches for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-immersive-image-editing-online-cropping-essentials/"><u>In 2024, Immersive Image Editing Online Cropping Essentials</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-your-schedule-how-chatgpt-can-improve-time-management-skills/"><u>Mastering Your Schedule: How ChatGPT Can Improve Time Management Skills</u></a></li>
+<li><a href="https://windows11.techidaily.com/play-ocm-like-pros-strategies-and-tips-for-the-uninitiated/"><u>Play OCM Like Pros: Strategies and Tips for the Uninitiated</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-your-system-the-best-windows-software-to-ditch/"><u>Streamline Your System: The Best Windows Software to Ditch</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-w11s-print-management-techniques-max-50-chars/"><u>Unraveling W11’s Print Management Techniques (Max 50 Chars)</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-win11s-password-vault-11-proven-strategies-for-easy-access/"><u>Unraveling Win11's Password Vault: 11 Proven Strategies for Easy Access</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-2024-approved-best-solarmovie-alternatives-watch-movies-free-online/"><u>Updated 2024 Approved Best SolarMovie Alternatives-Watch Movies Free Online</u></a></li>
+</ul></div>
 

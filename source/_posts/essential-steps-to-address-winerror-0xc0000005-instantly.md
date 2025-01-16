@@ -1,7 +1,7 @@
 ---
 title: Essential Steps to Address WinError 0Xc0000005 Instantly
-date: 2025-01-06T21:00:03.918Z
-updated: 2025-01-10T19:54:14.470Z
+date: 2025-01-12T22:14:06.771Z
+updated: 2025-01-15T16:48:00.339Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Deactivate Data Execution Prevention (DEP)
@@ -46,16 +46,12 @@ bcdedit.exe /set {current} nx AlwaysOff
 ![cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/cmd.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In this case, you will first have to[disable the Windows secure boot](https://www.makeuseof.com/tag/disable-secure-uefi-dual-boot/) , and then repeat the above steps again.
 
  That's it—the DEP will be disabled from here on. Now, give your PC a quick reboot and see if the error 0xc0000005 persists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Check Your App's and PC Version and Compatibility
 
@@ -79,13 +75,13 @@ Similarly, to check the app's version, follow the steps below:
 ![installed apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/installed-apps.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now check if the app and your operating system are compatible with each other.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Apply Some Generic Fixes for Fixing Errors on Windows
@@ -100,6 +96,10 @@ Let's go over all of them one by one.
 4. [Repair your app:](https://www.makeuseof.com/windows-repair-apps-programs/) It's possible that the app's files you're trying to run have become damaged and, as a result, your PC throws the 0xc0000005 error code. A quick app repair is a good possible solution in this scenario.
 5. [Run a malware scan:](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) A malware scan can break or create malfunctions for otherwise normal processes on your PC; run and see if that's the case in this error as well.
 6. [Perform a Factory Reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) : A Factory reset is, as I sometimes like to call it, the "all pulverizer" all Windows problems. It removes your operating system and reinstalls it so you can start again with a clean slate. It's a drastic measure, but sometimes it's the only way to get a Windows error fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixing the Error Code 0xc0000005 on a Windows PC
 
@@ -122,19 +122,17 @@ Let's go over all of them one by one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-bright-beginnings-on-youtube-launching-and-revenue-strategies/"><u>[New] In 2024, Bright Beginnings on YouTube Launching and Revenue Strategies</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-masterclass-in-visual-storytelling-for-youtube-live-videos/"><u>[Updated] 2024 Approved Masterclass in Visual Storytelling for YouTube Live Videos</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-maximizing-shot-stability-on-drones-a-comprehensible-guide/"><u>[Updated] 2024 Approved Maximizing Shot Stability on Drones A Comprehensible Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-logo-magic-sprucing-up-your-podcasts-visual-appeal/"><u>2024 Approved Logo Magic Sprucing Up Your Podcast's Visual Appeal</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-nvidias-geforce-now-error-code-xc0f1103f/"><u>Fixing NVIDIA's GeForce Now Error Code: Xc0f1103f</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-restore-windows-network-access/"><u>How To Restore Windows Network Access</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-lava-yuva-2-pro-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Lava Yuva 2 Pro Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-in-depth-look-at-obs-studios-full-screen-recorder-tools/"><u>In 2024, In-Depth Look at OBS Studio's Full Screen Recorder Tools</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/initialization-issue-fixed-vanguard-is-now-ready-in-valorant/"><u>Initialization Issue Fixed: Vanguard Is Now Ready in Valorant</u></a></li>
-<li><a href="https://windows11.techidaily.com/is-the-windows-aggregatehostexe-system-process-safe-an-analysis/"><u>Is the Windows AggregateHost.exe System Process Safe? An Analysis</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-blue-screen-chaos-a-systematic-approach/"><u>Navigating Blue Screen Chaos: A Systematic Approach</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/pushing-the-boundaries-of-screen-recording-with-recmeister-for-2024/"><u>Pushing the Boundaries of Screen Recording with Recmeister for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-start-enabling-and-customizing-sandbox-in-win-11/"><u>Quick Start: Enabling and Customizing Sandbox in Win 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-disk-errors-on-windows-1011-a-step-by-step-guide/"><u>Tackling Disk Errors on Windows 10/11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-the-ultimate-guide-to-refining-your-youtube-videos-after-publishing/"><u>[New] 2024 Approved The Ultimate Guide to Refining Your YouTube Videos After Publishing</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-the-essentials-of-film-production-for-youtube-originals/"><u>[New] The Essentials of Film Production for YouTube Originals</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-the-ultimate-guide-to-free-online-short-video-downloading/"><u>[Updated] 2024 Approved The Ultimate Guide to Free, Online Short Video Downloading</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/8-techniques-for-high-quality-pc-audio-documentation-for-2024/"><u>8 Techniques for High-Quality PC Audio Documentation for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ensuring-safe-practices-leveraging-chatgpt-effectively-in-mental-health-counseling/"><u>Ensuring Safe Practices: Leveraging ChatGPT Effectively in Mental Health Counseling</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-mend-screen-driver-problems-in-windows-11/"><u>How to Mend Screen Driver Problems in Windows 11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-quick-and-easy-xbox-one-image-snaps-for-gaming/"><u>In 2024, Quick & Easy Xbox One Image Snaps for Gaming</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Motorola Moto G13? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-tracking-down-your-software-install-pathways-in-windows/"><u>Quick Guide: Tracking Down Your Software' Install Pathways in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/regaining-access-to-lost-steam-contact-list-win11/"><u>Regaining Access to Lost Steam Contact List (Win11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-8-windows-11-no-nos-common-pitfalls-to-skip/"><u>Top 8 Windows 11 No-Nos: Common Pitfalls to Skip</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/unveilingnextgencameratech/"><u>UnveilingNextGenCameraTech</u></a></li>
 </ul></div>
 

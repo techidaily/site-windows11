@@ -1,7 +1,7 @@
 ---
 title: Compreranble Windows 11 Sticky Features Across Devices
-date: 2024-08-08T05:58:57.225Z
-updated: 2024-08-09T05:58:57.225Z
+date: 2025-01-09T18:41:15.674Z
+updated: 2025-01-16T04:49:48.860Z
 tags:
   - windows10
   - windows11
@@ -22,10 +22,11 @@ thumbnail: https://thmb.techidaily.com/1296bc6cf3d8ba602cee83fbaf9d9aae0f41d7505
 
 ## How to Get Started With Windows 11's Sticky Notes on Your PC
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows 11 Sticky Notes on PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-11-colored-sticky-notes.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Sticky Notes is a great app for taking notes fast and jotting down important reminders. The best thing is, there is no download required—Sticky Notes comes pre-installed on all Windows 11 machines. To open Sticky Notes on Windows 11:
 
@@ -36,16 +37,21 @@ thumbnail: https://thmb.techidaily.com/1296bc6cf3d8ba602cee83fbaf9d9aae0f41d7505
 
 ![Notes list Windows 11 sticky notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/notes-list-windows-11-sticky-notes.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Despite being a basic note-taking app, there are many features to stylize your notes. On the bottom formatting ribbon, you can format text using bold, italics, or strikethrough. There’s also an option to toggle bullets, perfect for making quick lists.
 
  If you use Windows Sticky Notes frequently, you may want to [open Sticky Notes at startup on Windows 11](https://www.makeuseof.com/open-sticky-notes-startup-windows/).
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Set Up the Sync Feature on Windows Sticky Notes
 
 ![Windows 11 Sticky Notes Sign In Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/windows-11-sticky-notes-sign-in-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To sync sticky notes across all your devices, you’ll need to first sign in using your Microsoft account. This step syncs your notes to the cloud and connects them to other Microsoft services required later. Here’s how to set up sync for your sticky notes:
 
@@ -55,15 +61,18 @@ thumbnail: https://thmb.techidaily.com/1296bc6cf3d8ba602cee83fbaf9d9aae0f41d7505
 
  If you run into any issues, there are some fixes for [Windows 11 Sticky Notes not syncing](https://www.makeuseof.com/fix-sticky-notes-not-syncing-windows-11/) you can explore.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Use Your Windows Sticky Notes on iOS Devices
 
 ![OneNote iPhone App Homescreen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/onenote-homescreen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![OneNote iPhone App Folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/onenote-folders.jpg)
 
 Close
@@ -78,16 +87,14 @@ Close
 
  To create a new note, hit the plus icon in the bottom right corner of the screen. You’ll then see a display similar to the Sticky Notes app for Windows, including its text formatting options. One helpful tool is the camera button, which allows you to upload a photo from your camera or iOS photo album.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. How to Use Your Windows Sticky Notes on Android Devices
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Sticky Notes list in OneNote for Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sticky-notes-list-in-onenote-for-android.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![Sticky Note Window on OneNote for Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sticky-note-window-on-onenote-for-android.jpg)
 
 ![Sort and filter options in OneNote](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sort-and-filter-options-in-onenote.jpg)
@@ -103,9 +110,6 @@ Close
 
  To create a new sticky note, hit the three dots in the bottom right corner of the homepage. Then, tap **Create a Sticky Note**. The app includes many options featured on iOS, including the photo upload tool. You can change the note’s color by hitting the three dots in the top right corner. From the same menu, you can also tap the Export button to share sticky notes with your friends.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. How to Use Windows Sticky Notes Using Microsoft Launcher
 
 ![Sticky notes widget in Microsoft Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sticky-notes-widget-in-microsoft-launcher.jpg)
@@ -113,6 +117,10 @@ Close
 ![Sticky note window on Microsoft Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sticky-note-window-on-microsoft-launcher.jpg)
 
 ![Feed settings in Microsoft Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/feed-settings-in-microsoft-launcher.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -122,19 +130,8 @@ Close
 
  As you're using a widget on a launcher, syncing may take a little longer than when using an app. However, you can sync your sticky notes manually at any point by hitting the three dots in the top right corner of the widget and selecting **Sync**.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## How to Use Sticky Notes Online
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows 11 Sticky Notes in Outlook Online](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/windows-11-sticky-notes-in-outlook-online.jpg)
 
 Screenshot by author - Joe Brown  
@@ -143,16 +140,11 @@ Screenshot by author - Joe Brown
 
  Ensuring you are signed in to your Microsoft Account, you can access [Windows Sticky Notes in Outlook](https://www.onenote.com/stickynotes) directly, or you can sign in to Outlook and access the dedicated **Notes** tab. This can be found inside the Folders dropdown menu from the sidebar. For faster access to your sticky notes, you can hit the star icon next to the **Notes** title to add it to your favorites.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## Use Windows Sticky Notes on Any Device and Boost Your Productivity
 
  If you’re in a rush and need to jot things down fast, Windows Sticky Notes is a great app for quick and easy note-taking. With these solutions, you don’t need to rely on keeping one device to take notes. Access sticky notes everywhere using this guide.
 
  In this guide, we’ll explore how to use Windows Sticky Notes on all your devices, whether you’re an Android or iOS user, or if you're using a web browser.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -160,4 +152,19 @@ Screenshot by author - Joe Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-how-to-find-the-good-iphone-photography-angles/"><u>[New] 2024 Approved How to Find the Good iPhone Photography Angles</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-breaking-down-recordcasts-marketing-claims-for-2024/"><u>[New] Breaking Down RecordCast’s Marketing Claims for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-screen-saving-solutions-a-critical-look-at-capturers/"><u>[New] In 2024, Screen Saving Solutions A Critical Look at Capturers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-kickstarting-with-gopro-the-top-10-list-of-perks/"><u>[New] Kickstarting with GoPro The Top 10 List of Perks</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-pushing-the-boundaries-of-screen-recording-with-recmeister/"><u>[Updated] 2024 Approved Pushing the Boundaries of Screen Recording with Recmeister</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-unbelievable-judgment-and-backup-recommendations/"><u>[Updated] In 2024, Unbelievable Judgment & Backup Recommendations</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-no-sound-device-error-in-windows-os/"><u>Fix No Sound Device Error in Windows OS</u></a></li>
+<li><a href="https://games-able.techidaily.com/moza-r5-setup-at-499-ideal-newcomers-bundle/"><u>MOZA R5 Setup at $499 - Ideal Newcomer's Bundle</u></a></li>
+<li><a href="https://windows11.techidaily.com/prime-virtual-machines-designed-for-windows-11-devices/"><u>Prime Virtual Machines Designed for Windows 11 Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/rog-ally-vs-asus-who-wins-the-steam-deck-war/"><u>ROG Ally Vs. ASUS: Who Wins the Steam Deck War?</u></a></li>
+<li><a href="https://windows11.techidaily.com/transforming-taskbar-functionality-6-essential-upgrades-for-windows-11/"><u>Transforming Taskbar Functionality: 6 Essential Upgrades for Windows 11</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Win 11'S Blanked Outspots: How to Replace Them"
-date: 2025-01-07T21:57:46.928Z
-updated: 2025-01-10T21:40:50.603Z
+date: 2025-01-09T10:16:49.491Z
+updated: 2025-01-16T06:43:29.857Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Enable Show Desktop Icons
 
  On Windows 11, you can show or hide desktop icons with a couple of clicks. So, if you’ve accidentally hidden your desktop icons, getting them back is fairly easy.
@@ -36,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895
  Right-click anywhere on an empty spot on your desktop and select**View > Show desktop icons** . Once you do that, all your hidden desktop icons should reappear.
 
 ![Show Desktop Icons on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Show-Desktop-Icons-on-Windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Check Desktop Icon Settings
 
@@ -53,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895
 6. Click**Apply** followed by**OK** to save the changes.  
 ![Desktop Icon Settings Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Desktop-Icon-Settings-Window.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you complete the above steps, your icons should appear on the desktop.
 
 ## 3\. Restart Windows Explorer
@@ -69,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895
 ![Restart Windows Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Restart-Windows-Explorer.jpg)
 
  Your taskbar will disappear for a brief moment and then reappear. Following this, your desktop icons should be visible.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Rebuild Icon Cache
 
@@ -95,6 +79,10 @@ To rebuild icon cache on Windows 11:
 `Explorer.exe`
 
  Once you complete the above steps, restart your PC and see if the desktop icons appear.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Update Your PC’s Graphics Driver
 
@@ -124,7 +112,7 @@ To rebuild icon cache on Windows 11:
 ![Enable Desktop Icons on Windows 11 via Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Enable-Deskop-Icons-on-Windows-11-via-Group-Policy-Editor-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Perform a System Restore
@@ -142,10 +130,14 @@ Follow these steps to perform a system restore on Windows:
 ![System Restore Dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/System-Restore-Dialog.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait for Windows to reboot and revert to the specified restore point. Following that, your desktop icons should appear.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Manually Restore the Desktop Shortcut Icons
 
@@ -155,9 +147,17 @@ Follow these steps to perform a system restore on Windows:
 
 ![Create Desktop Shortcut From Start Menu in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Create-Desktop-Shortcut-From-Start-Menu-in-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Alternatively, you can create a shortcut on your desktop by using the Create Shortcut wizard. To do so, right-click anywhere on the desktop and select**New > Shortcut** . Then, click the**Browse** button to locate the file, folder, or app you want to add to your desktop. Then, click**Next** followed by**Finish** .
 
  We covered this topic in more detail in our guide to[how to add icons to the desktop on Windows](https://www.makeuseof.com/how-to-add-icon-to-desktop-windows/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Restore the Missing Desktop Icons on Windows 11
 
@@ -178,21 +178,14 @@ Follow these steps to perform a system restore on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-eliminating-unsteadiness-from-high-altitude-cinematography/"><u>[New] Eliminating Unsteadiness From High-Altitude Cinematography</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-exclusive-youtube-snippet-access-high-quality-free-download/"><u>[New] Exclusive YouTube Snippet Access - High Quality, Free Download</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-no-cost-to-you-heres-a-list-of-7-free-editing-apps/"><u>[Updated] 2024 Approved No Cost to You? Here's a List of 7 Free Editing Apps</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-digital-resurrection-breathing-life-into-old-vhs-images/"><u>[Updated] In 2024, Digital Resurrection Breathing Life Into Old VHS Images</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-uncover-and-revive-inaudible-fb-video-posts-the-ultimate-list-of-12-fixes/"><u>[Updated] In 2024, Uncover & Revive Inaudible FB Video Posts – The Ultimate List of 12 Fixes</u></a></li>
-<li><a href="https://windows11.techidaily.com/1-mastering-excel-a-step-by-step-guide-on-implementing-the-less-than-or-equal-to-operator/"><u>1. Mastering Excel: A Step-by-Step Guide on Implementing the 'Less than or Equal To' Operator</u></a></li>
-<li><a href="https://windows11.techidaily.com/ditch-the-expensive-software-mastering-project-management-with-just-excel/"><u>Ditch the Expensive Software - Mastering Project Management with Just Excel</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/learn-grow-thrive-with-mondly-in-ukraine/"><u>Learn, Grow, Thrive with Mondly in Ukraine</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-cell-references-seamlessly-linking-data-across-excel-workbooks/"><u>Mastering Cell References: Seamlessly Linking Data Across Excel Workbooks</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-number-formatting-how-to-precisely-add-prefixes-like-zeroes-in-excel-cells/"><u>Mastering Number Formatting: How To Precisely Add Prefixes Like Zeroes in Excel Cells</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-hidden-feature-starting-word-excel-and-powerpoint-with-enhanced-security-settings/"><u>Mastering the Hidden Feature: Starting Word, Excel, and PowerPoint with Enhanced Security Settings</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/navigating-stardew-the-complete-guide-to-ginger-for-2024/"><u>Navigating Stardew The Complete Guide to Ginger for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-guide-dividing-data-across-several-excel-sheet-columns/"><u>Step-by-Step Guide: Dividing Data Across Several Excel Sheet Columns</u></a></li>
-<li><a href="https://win-community.techidaily.com/troubleshooting-a-non-functional-disk-drive-insights-from-yl-computings-expertise/"><u>Troubleshooting a Non-Functional Disk Drive: Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-insights-in-numbers-a-guide-to-excel-quick-analysis-for-impactful-data-graphs-and-charts/"><u>Unlocking Insights in Numbers: A Guide to Excel Quick Analysis for Impactful Data Graphs and Charts</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/your-pathway-to-profit-the-most-straightforward-top-10-business-channels-on-youtube/"><u>Your Pathway to Profit The Most Straightforward Top 10 Business Channels on YouTube</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-unlock-hidden-instagram-story-views/"><u>[New] 2024 Approved Unlock Hidden Instagram Story Views</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-essential-guide-to-iphone-voice-recording-techniques/"><u>[New] Essential Guide to iPhone Voice Recording Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-xc0000142-issue-in-windows-11-10/"><u>Correcting XC0000142 Issue in Windows 11, 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-pc-sounds-with-windows-11s-mixer-feature/"><u>Enhance PC Sounds with Windows 11'S Mixer Feature</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-evaluation-the-advantages-and-challenges-in-samsung-photo-tools/"><u>In 2024, Evaluation The Advantages & Challenges in Samsung Photo Tools</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-realme-gt-3-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Realme GT 3</u></a></li>
+<li><a href="https://windows11.techidaily.com/taskers-edge-enigma-hidden-processes/"><u>Tasker's Edge Enigma: Hidden Processes?</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-11s-printer-interface-max-48-chars/"><u>Unlocking Windows 11'S Printer Interface (Max 48 Chars)</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/wiederherstellen-von-letztem-geloschten-bildmaterial-auf-windows-mac-iphone-und-android/"><u>Wiederherstellen Von Letztem Gelöschten Bildmaterial Auf Windows, Mac, iPhone Und Android</u></a></li>
 </ul></div>
 

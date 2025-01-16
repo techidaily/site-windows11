@@ -1,7 +1,7 @@
 ---
 title: Context Menu Augmentation with Disk Space Visualization Tools
-date: 2024-08-08T05:59:06.953Z
-updated: 2024-08-09T05:59:06.953Z
+date: 2025-01-13T04:32:15.947Z
+updated: 2025-01-16T10:46:02.739Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/b7fdec82e5e2a50f89b07a18bb64e205705f93d78
 
  RidNacs are Disk Savvy are two disk space analyzer tools that integrate with File Explorer’s context menu. They enable you to analyze disk space by right-clicking folders and selecting their scanning options. This is how you can add and utilize those disk analyzers in Windows 11/10.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Add a Visual Disk Space Analyzer Tool to Explorer’s Context Menu With RidNacs
 
  RidNacs is a freeware disk analyzer app with which you can scan whole drives, folders, or removable storage devices (USB sticks). This tool displays storage usage reports with percentage bars that give users a clear picture of what’s hogging the most space. You can add the RidNacs analyzer tool to Explorer’s context menu like this:
@@ -31,15 +35,13 @@ thumbnail: https://thmb.techidaily.com/b7fdec82e5e2a50f89b07a18bb64e205705f93d78
 5. Select your preferred language for the software on the drop-down menu and click**OK** .
 6. Click**Next** to view the license terms, and select the**I accept the agreement** option.
 7. Keep clicking**Next** to reach additional task settings. There make sure the**Add RidNacs to Windows Explorer Context Menu** checkbox is selected.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![The RidNacs window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/ridnac-setup-window.jpg)
 8. Select**Next** again, and then press the**Install** button to proceed with the installation.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Install button for RidNacs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/setup-ridnac.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you start analyzing folder storage space usage on your PC with RidNacs. Open the Explorer file manager window, and right-click a folder to select**Show more options** . Click the**Analyze Disk Space Usage with RidNacs** option on the classic context menu to start the scan.
 
@@ -53,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/b7fdec82e5e2a50f89b07a18bb64e205705f93d78
 
 ![The Preferences window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/preferences-window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Add a Visual Disk Space Analyzer Tool to Explorer’s Context Menu With Disk Savvy
 
  Disk Savvy is a slightly more advanced disk analyzer tool to RidNacs that includes a variety of pie and bar charts for users to view for analyzed folders. However, the freely available unregistered version’s file analysis is restricted to a maximum of 500,000 files. You’ll need to upgrade the software to its $50 pro version to remove that limitation. These are the steps for adding the Disk Savvy tool to File Explorer’s context menu.
@@ -61,9 +67,6 @@ thumbnail: https://thmb.techidaily.com/b7fdec82e5e2a50f89b07a18bb64e205705f93d78
 2. Click the Win 64-Bit**Download** option for the Disk Savvy v14.7.26 product version.
 3. Double-click**disksavvy\_setup\_v14.7.26\_x64.exe** .
 4. Select**Next** and**I Agree** **to confirm acceptance** of the end user agreement.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![The Disk Savvy setup wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disk-savvy-window.jpg)
 5. Then press**Install** to add the Disk Savvy tool to the Windows context menu.
 6. Select**Next** when installation is complete.
@@ -77,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/b7fdec82e5e2a50f89b07a18bb64e205705f93d78
 
 ![The Disk Saavy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disk-savvy-window2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  What sets Disk Savvy apart from RidNacs are its bar and pie graph options for viewing disk space usage info. Click the**Charts** button to access those options. Then you can select an option like**Disk Space Per File Type** ,**Disk Space Per Directory** , and**Disk Space Per Extension** to view a pie chart like the one below.
 
 ![A Disk Space Usage Per File Extension graph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disk-space-usage-window.jpg)
@@ -85,21 +92,16 @@ thumbnail: https://thmb.techidaily.com/b7fdec82e5e2a50f89b07a18bb64e205705f93d78
 
  This software can analyze multiple folders at once. To select multiple folders in the Disk Savvy window, click**Default profiles** on the left and the**+** **Add** **input** button for directories. Then select the**Add Input Directory** option, click the**ellipsis** button, choose a folder to add, and press the**OK** buttons. Click**Analyze** to scan all selected folders.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Add Input Directory option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-input-directory.jpg)
 
  You can save and export disk usage reports to various file formats. To do so, click the**Save** option. Select a file extension option on the**Report format** drop-down menu; click the**Report type** drop-down menu to choose an option there, and press the**Save** button. You can view the report by opening it from the default Documents folder save location.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![Disk space analyzis report options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disk-report-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get a Visual Overview of Folder and File Disk Usage in Windows
 
  RidNics and Disk Savvy are useful tools that enable users to quickly analyze disk space usage in selected folders or entire drives. Those context menu utilities give you a comprehensive visual overview of what files and folders are taking up the most space on your hard drive. They’ll come in handy for freeing up drive space through manual user file deletion.
@@ -110,8 +112,6 @@ thumbnail: https://thmb.techidaily.com/b7fdec82e5e2a50f89b07a18bb64e205705f93d78
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,6 +119,20 @@ thumbnail: https://thmb.techidaily.com/b7fdec82e5e2a50f89b07a18bb64e205705f93d78
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-channel-marketing-making-a-trailer-that-sells-more/"><u>[New] 2024 Approved Channel Marketing Making a Trailer that Sells More</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-the-ultimate-playbook-navigating-tools-for-vimeo-content-grabs/"><u>[New] In 2024, The Ultimate Playbook Navigating Tools for Vimeo Content Grabs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-segmentviewpoint-report-for-2024/"><u>[New] SegmentViewpoint Report for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-navigating-screen-recordings-with-gotomeeting-for-2024/"><u>[Updated] Navigating Screen Recordings with GoToMeeting for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevating-your-digital-photography-with-google-photos/"><u>Elevating Your Digital Photography with Google Photos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/ethereal-escapades-vr-film-adventures-for-2024/"><u>Ethereal Escapades VR Film Adventures for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-entry-point-not-found-error-on-windows/"><u>How to Fix the Entry Point Not Found Error on Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/netflix-not-playing-master-these-1nine-techniques-to-enhance-viewing-on-lg-tvs/"><u>Netflix Not Playing? Master These 1Nine Techniques to Enhance Viewing on LG TVs</u></a></li>
+<li><a href="https://windows11.techidaily.com/prolific-tools-in-windows-11-top-7-productivity-widgets/"><u>Prolific Tools in Windows 11: Top 7 Productivity Widgets</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-on-correction-of-network-error-0x800704b3-in-windows/"><u>Quick Guide on Correction of Network Error 0X800704B3 in Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-3-llm-contenders-who-wins-between-bard-chatgpt-and-offline-alpaca-for-ultimate-efficiency/"><u>Top 3 LLM Contenders: Who Wins Between Bard, ChatGPT, and Offline Alpaca for Ultimate Efficiency?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-7-easy-ways-to-merge-videos-without-watermarks-or-logos/"><u>Updated 7 Easy Ways to Merge Videos Without Watermarks or Logos</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-xpvista7-hacks-beat-non-compatible-problems/"><u>Windows XP/Vista/7 Hacks: Beat Non-Compatible Problems</u></a></li>
+</ul></div>
 

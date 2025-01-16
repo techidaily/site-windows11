@@ -1,7 +1,7 @@
 ---
 title: Custom Menus on Windows 11/11 with PSoft Tools
-date: 2024-08-08T06:01:48.003Z
-updated: 2024-08-09T06:01:48.003Z
+date: 2025-01-11T15:10:38.854Z
+updated: 2025-01-16T11:09:54.245Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/1ed4f091728645649c840ae907d2be87aba494a53
 
  However, you can create a portable app menu for accessing programs on a USB stick (flash drive) with SyMenu and LiberKey. Those are freeware software packages designed to assist users with managing and accessing portable apps on USB drives. This is how you can set up a menu for portable software with SyMenu and LiberKey.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Add a Portable Software Menu With SyMenu
 
  SyMenu is a portable app menu to which you can add software, document file, website URL, folder, and command shortcuts. It adds a menu for portable software you can access on the desktop or by clicking its system tray icon in Windows. You can add a portable software menu to Windows 11 and 10 with SyMenu like this:
@@ -27,11 +31,13 @@ thumbnail: https://thmb.techidaily.com/1ed4f091728645649c840ae907d2be87aba494a53
 1. First, insert a USB flash drive into your PC.
 2. Open the [SyMenu](https://www.ugmfree.it/SyMenuDownload.aspx) download page.
 3. Click the**exe package** option.  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The exe package option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-exe-package-option.jpg)
 4. Once downloaded, double-click**SyMenuPackage.exe** file to open an archive extraction window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click the**ellipses** button.
 6. Select your USB drive and a folder to extract it to, and click**OK** .
 7. Add**SyMenu** to the end of the program path to create a separate folder for the software.  
@@ -48,23 +54,17 @@ Now it's time to get SyMenu up and running:
 ![The menu structure options for SyMenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-menu-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use SyMenu on Windows
 
  Now you should see a floating "Sy drive" icon on the desktop area. Click that drive icon to view the portable software menu. That menu will include**Search items** ,**My Computer** , and**Tools** submenus.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![The SyMenu desktop icon and menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-symenu-icon.jpg)
 
  To add portable software to the menu, click the**Tools** submenu >**Configuration** ; click the**Item Manager** tab and select**Add Program** from there. Click the ellipses button for the**Path** box, choose a portable app on your USB stick, and select**Open** . Press the**Save** button to apply.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![The Item Manager tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-item-manager.jpg)
 
  Then you can launch the added software from the app menu. To view more options for an app, right-click its entry on the menu. You can select**Run elevated** ,**Open folder** , and**Delete item** options from a program’s submenu.
@@ -73,14 +73,15 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  Or you can add new apps to the menu from the**SyMenu** program suite. To do so, select the**Get new apps** option on the menu. Choose portable software in the**SyMenu Suite** tab, and select the**Download** option.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The SyMenu app suite](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-symenu-suite.jpg)
 
  You can customize colors for the menu from the SyMenu options. Select**Tools** \>**Options** to bring up that window. Click**Theme** to view the options shown below. You can change the menu’s colors by clicking the palette boxes and choosing alternatives.
 
 ![The Theme tab for SyMenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-theme-tab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The SyMenu options window also includes a**Structure** tab. You can restructure the menu by dragging items up and down the**Menu structure** box. To add more separators, drag**<Separator>** from available elements onto a menu position. Select**Apply** to save all changes made in the SyMenu options window.
 
@@ -93,9 +94,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 1. Plug a flash drive into a USB slot on your PC.
 2. Bring up the [LiberKeys website](https://www.liberkey.com/) in browser software.
 3. Select the**Download LiberKey 5.8** option.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![The Download LiberKey option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/download-liberkay-option.jpg)
 4. Double-click**LiberKey\_5.8.1129.exe** to open a setup wizard for the software.
 5. Click**Next** to select the**I accept software license agreement** option.
@@ -104,35 +102,35 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 2. Click**Browse** , select a folder on your USB stick, and press the**OK** button.
 3. Select**Next** \>**Yes** when prompted to create a new LiberKey folder.
 4. Then select**Install** to add LiberKey to your USB stick.  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Install button for LiberKey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-install-option2.jpg)
 5. Click**Finish** with the Launch LiberKey checkbox selected.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you’ll see a LiberKey icon in the Windows system tray area. Click that system tray icon to view the menu. That menu has**Most used** and**Recent** which will fill up when you start using LiberKey a bit more. It also includes a pie chart icon that shows the amount of free and used drive storage when you hover the cursor over it.
 
 ![The LiberKey menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-liberkey-menu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  LiberKeys has a smaller floating menu. You can access it by pressing the**Shift** +**Windows** key hotkey. That keyboard shortcut opens a small menu that includes the apps added to LiberKey.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![The small LiberKey menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-small-liberkey-menu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  First, you’ll need to add a new menu tab for your portable software. Click the small**User menus** arrow button to select**Create new menu** . Input a title for the tab in the Menu name box and select**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Create new menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-delete-current-item-option.jpg)
 
  Then you can add software to the new menu tab. Right-click anywhere in the tab and select**New shortcut** \>**Application/file** . Choose a portable app to include on the menu and click**Open** .
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The New shortcut option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-new-shortcut-submenu.jpg)
 
  You can also add categories for grouping software to menu tabs. Right-click a menu tab to select the**New Category** option. Input a title in the name box and select**OK** . Then you can drag app shortcuts on LiberKey into category submenus.
@@ -161,8 +159,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,6 +166,24 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-easy-transition-from-local-to-global-stream-spotify-playlists-on-youtube/"><u>[New] In 2024, Easy Transition From Local to Global Stream Spotify Playlists on YouTube</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-cutting-edge-cadence-exclusive-perfected-dj-templates-online/"><u>[Updated] Cutting Edge Cadence Exclusive, Perfected DJ Templates Online</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-premium-top-8-selection-tripods-for-high-res-cameras/"><u>[Updated] In 2024, Premium Top 8 Selection Tripods for High-Res Cameras</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-unrivaled-sonic-union-for-speakers-for-2024/"><u>[Updated] Unrivaled Sonic Union for Speakers for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/flip-your-videos-horizontally-or-vertically-free-of-charge-with-microsoft-windows/"><u>Flip Your Videos Horizontally or Vertically Free of Charge with Microsoft Windows</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-comparing-dailymovements-and-youtubes-income-models/"><u>In 2024, Comparing DailyMovement's and Youtube's Income Models</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-review-of-the-acurite-pro-model-01036m-uncomplicated-installation-sturdy-construction/"><u>In-Depth Review of the AcuRite Pro Model 01036M: Uncomplicated Installation, Sturdy Construction</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-the-iomap64-blue-screen-of-death-in-windows-78/"><u>Overcoming the IOMap64 Blue Screen of Death in Windows 7/8</u></a></li>
+<li><a href="https://windows11.techidaily.com/regaining-internet-access-in-windows/"><u>Regaining Internet Access in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/retrospective-on-classic-ratchet-and-clank-reenvisioned-and-revitalized/"><u>Retrospective on Classic Ratchet & Clank Reenvisioned and Revitalized</u></a></li>
+<li><a href="https://windows11.techidaily.com/stealth-mode-for-windows-11-search-bar-on-taskbar/"><u>Stealth Mode for Windows 11 Search Bar on Taskbar</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-keyboard-commands-add-wordpad-shortcuts-to-windows-context-menus/"><u>Streamlining Keyboard Commands: Add Wordpad Shortcuts to Window's Context Menus</u></a></li>
+<li><a href="https://windows11.techidaily.com/tactical-approach-to-beat-wows-fatal-132-hurdle/"><u>Tactical Approach to Beat WOW's Fatal #132 Hurdle</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-8-best-video-cutting-apps-for-windows-10-and-11/"><u>The 8 Best Video Cutting Apps for Windows 10 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-artisans-guide-to-win-1011-wall-decorations/"><u>The Artisan's Guide to Win 10/11 Wall Decorations</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-windows-playback-system-for-2024/"><u>Ultimate Windows Playback System for 2024</u></a></li>
+</ul></div>
 

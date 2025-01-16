@@ -1,7 +1,7 @@
 ---
 title: "Optimize Storage Management: 4 Keyways Into Windows 11 Disk Settings"
-date: 2024-12-28T20:55:22.535Z
-updated: 2025-01-03T18:42:18.334Z
+date: 2025-01-09T21:08:11.922Z
+updated: 2025-01-16T06:36:05.281Z
 tags:
   - windows10
   - windows11
@@ -17,7 +17,7 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
 ## Optimize Storage Management: 4 Keyways Into Windows 11 Disk Settings
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
 * [Use the Run Dialog to Open Disk Management](#use-the-run-dialog-to-open-disk-management)
 * [Open Disk Management From the Control Panel](#open-disk-management-from-the-control-panel)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Disk Management is a Windows tool that allows you to set up your new storage drive and manage existing ones.
@@ -36,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
  Unlike external drives, you cannot just connect a new internal SSD and start using it right away on Windows. You'll need to go through an initial setup process using a utility called Disk Management. Whatever you need this tool for, we'll teach you how to open it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is Windows Disk Management?
@@ -46,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
  When you physically connect a new internal drive to your PC, Windows sees it as a blank disk with no allocated space. Therefore, it doesn't show up in the File Explorer. You can use Disk Management to create a partition and thus make your new drive usable in the operating system.
 
 ![Disk Management app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/6-ways-to-open-disk-management-windows-10-0.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Search for Disk Management in Windows
 
@@ -69,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
 ![Opening Disk Management from Quick Access menu on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/opening-disk-management-from-quick-access-menu-on-windows-11.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When the program opens, you'll be able to see your connected drives and start managing their partitions.
@@ -84,6 +84,10 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
 
  This way to open Disk Management is preferable if you're busy on the keyboard and don't want to reach for your mouse.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Open Disk Management From the Control Panel
 
  If you've been a Windows user for a while, you're probably already familiar with the Control Panel. If not, this is a destination on your Windows PC where important system utilities are located—even some that don't have a modern equivalent in the Settings app.
@@ -96,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
 4. Under **Windows Tools** (or **Administrative Tools** on Windows 10), you'll see multiple options for disk drives. Click **Create and format hard disk partitions** to open Disk Management.
 
 ![Control Panel with Windows Tools highlighted in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/control-panel-with-windows-tools-highlighted-in-windows-11.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Don't make the mistake of clicking **Administrative/Windows Tools**; that will open File Explorer instead.
 
@@ -118,24 +118,18 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-ultimate-selection-of-6-pioneering-instagram-reel-apps/"><u>[New] 2024 Approved The Ultimate Selection of 6 Pioneering Instagram Reel Apps</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-highlighting-the-finest-video-grabbers-in-windows-10/"><u>[Updated] Highlighting the Finest Video Grabbers in Windows 10</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-embark-on-an-odyssey-constructing-photo-collage-masterpieces/"><u>2024 Approved Embark on an Odyssey Constructing Photo Collage Masterpieces</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-step-by-step-for-placing-antique-games-into-photos-folder/"><u>A Step-by-Step for Placing Antique Games Into Photos Folder</u></a></li>
-<li><a href="https://windows11.techidaily.com/academic-excellence-with-these-top-8-study-tips-for-windows-users/"><u>Academic Excellence with These Top 8 Study Tips for Windows Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/accessing-the-internet-without-a-browser-post-setup/"><u>Accessing the Internet Without a Browser Post-Setup</u></a></li>
-<li><a href="https://windows11.techidaily.com/automating-windows-auditory-restart-post-boot-issue/"><u>Automating Windows Auditory Restart Post-Boot Issue</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoiding-burnout-keeping-your-game-windows-laptop-cool/"><u>Avoiding Burnout: Keeping Your Game Windows Laptop Cool</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-printer-usage-errors-efficiently/"><u>Bypassing Printer Usage Errors Efficiently</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/charting-growth-the-best-online-stock-yts/"><u>Charting Growth The Best Online Stock YTs</u></a></li>
-<li><a href="https://windows11.techidaily.com/comparing-w10-and-w11-a-detailed-look-at-key-updates/"><u>Comparing W10 & W11: A Detailed Look at Key Updates</u></a></li>
-<li><a href="https://windows11.techidaily.com/comprehensive-tutorial-onedrive-plus-microsoft-login-on-pc/"><u>Comprehensive Tutorial: OneDrive + Microsoft Login on PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/delving-into-disparities-unveiling-the-distinctive-aspects-of-each-login-type/"><u>Delving Into Disparities: Unveiling The Distinctive Aspects of Each Login Type</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-tecno-spark-10-pro-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Tecno Spark 10 Pro Devices | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-installation-of-the-wacom-intuos-pro-driver-for-users-with-windows-10/"><u>Quick and Easy Installation of the Wacom Intuos Pro Driver for Users with Windows 10</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-clearing-the-dns-resolver-cache-on-ubuntu-systems/"><u>Step-by-Step Guide: Clearing the DNS Resolver Cache on Ubuntu Systems</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ultimate-budget-breakdown-how-much-does-it-cost-to-start-a-podcast-for-2024/"><u>Ultimate Budget Breakdown How Much Does It Cost To Start a Podcast for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-chatgpts-gaming-side-a-list-of-the-coolest-6-games-you-can-enjoy/"><u>Unveiling ChatGPT's Gaming Side: A List of the Coolest 6 Games You Can Enjoy</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/utilizing-cookiebot-technology-custom-marketing-with-advanced-tracking/"><u>Utilizing Cookiebot Technology | Custom Marketing with Advanced Tracking</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-get-1000-subscribers-for-your-youtube-channel/"><u>[New] 2024 Approved Get 1000 Subscribers for Your YouTube Channel</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-top-15-best-cameras-for-vlogging-2024/"><u>[New] Top 15 Best Cameras for Vlogging 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-dynamic-decibels-the-best-background-sounds-for-yt-shorts-for-2024/"><u>[Updated] Dynamic Decibels The Best Background Sounds for YT Shorts for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-lava-blaze-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/boost-hardware-utilization-four-ways-to-open-the-disk-manager-in-windows-11/"><u>Boost Hardware Utilization: Four Ways to Open the Disk Manager in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypass-windows-11-lock-screen-swiftly/"><u>Bypass Windows 11 Lock Screen Swiftly</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabling-microsoft-store-app-on-win11-pcs/"><u>Enabling Microsoft Store App on Win11 PCs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-failed-d3d-initiation-process/"><u>Fixing Failed D3D Initiation Process</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-resolving-application-run-time-problems-on-windows/"><u>Guide to Resolving Application Run-Time Problems on Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveil-the-art-of-creating-astonishing-gopro-time-lapse-videos/"><u>In 2024, Unveil the Art of Creating Astonishing GoPro Time-Lapse Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/paramount-procedures-for-wiping-your-windows-installation/"><u>Paramount Procedures for Wiping Your Windows Installation</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-comprehensive-guide-to-getting-most-out-of-windows-11s-startup-screen/"><u>The Comprehensive Guide to Getting Most Out of Windows 11'S Startup Screen</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-mystery-of-yourphoneexe-in-w10/"><u>Unveiling the Mystery of YourPhoneExe in W10</u></a></li>
 </ul></div>
 

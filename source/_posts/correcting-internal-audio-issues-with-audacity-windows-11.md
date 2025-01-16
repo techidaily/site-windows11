@@ -1,7 +1,7 @@
 ---
 title: Correcting Internal Audio Issues with Audacity (Windows 11)
-date: 2024-08-08T05:58:46.382Z
-updated: 2024-08-09T05:58:46.382Z
+date: 2025-01-10T07:16:37.376Z
+updated: 2025-01-16T07:04:46.822Z
 tags:
   - windows10
   - windows11
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002
 
  Although the Audacity window opens, users can’t play or record anything with that software when the Internal PortAudio error occurs. Does the same thing happen when you run Audacity? If it does, this is how you can fix the Internal PortAudio error in Windows 11 and 10.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## 1\. Run the Playing Audio Troubleshooter
 
  Windows has a "Playing Audio" troubleshooter to help users resolve audio playback issues. As the Internal PortAudio error breaks sound playback in Audacity, that troubleshooter could be useful for fixing this issue. You can access the Playing Audio troubleshooter in Windows 10 and 11 via the Control Panel like this:
@@ -33,19 +29,27 @@ thumbnail: https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002
 3. Select**Control Panel** to open that app’s window.
 4. If Control Panel opens in its category view, click**Large icons** on the**View by** menu.
 5. Select**Troubleshooting** to access that applet.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![The Control Panel applets window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-control-panel-items.jpg)
 
-1. Next, select the**View all** navigation link on the left of the Control Panel window.  
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+1. Next, select the**View all** navigation link on the left of the Control Panel window.  
 ![The Troubleshooting applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-troubleshooting-applet.jpg)
 2. Click Playing Audio to launch that troubleshooter.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The troubleshooting list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-troubleshooting-list.jpg)
 3. Select the troubleshooter’s**Next** option to continue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Then select one of the sound output device options to troubleshoot and click**Next** .
 5. Apply the resolutions suggested within the Playing Audio troubleshooter.
 
@@ -64,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002
 
  If you find the above services to be enabled and running, restarting them could also feasibly fix the issue. To do that, click Stop in their properties windows and select**Yes** to confirm. Then click their**Start** options to restart them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Manually Enable all Playback and Recording Devices
 
  It could be the case that a disabled audio playback or recording device is causing the PortAudio error to arise. For that reason, it’s recommended to enable all disabled playback and recording devices you can find in the Sound window. You can do that with the following steps:
@@ -73,9 +81,6 @@ thumbnail: https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002
 3. Click**OK** to bring up the Sound window.
 4. Then click the**Playback** tab if necessary.
 5. Right-click any disabled playback device and select**Enable** . Repeat this step for all disabled devices listed.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![The Enable option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-option.jpg)
 6. Then select the**Recording** tab to view more devices.  
 ![The Recording tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/recording-tab.jpg)
@@ -84,8 +89,9 @@ thumbnail: https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002
 9. Click**OK** on the Sound window to exit, and then restart your Windows 11/10 desktop or laptop.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Select the Rescan Audio Devices
 
  If you’ve made some recent audio device changes on your PC, Audacity might not have detected them. Selecting Audacity’s**Rescan Audio Device** option can feasibly resolve the PortAudio error in such a scenario. This is how you can select that option:
@@ -93,15 +99,13 @@ thumbnail: https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002
 1. Open the Audacity window.
 2. Click**Transport** on Audacity’s menu bar.
 3. Select the**Rescan Audio Devices** option.  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Rescan Audio Devices option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rescan-audio-devices-option.jpg)
 4. Wait for the rescan to finish, and then restart**Audacity** .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Reinstall Audio Device Drivers
 
  The Internal PortAudio can also occur because of a sound device driver issue. In this case, reinstalling the drivers for all audio devices can fix this issue for some users. Trying reinstalling your PC’s audio device drivers as follows:
@@ -111,25 +115,18 @@ thumbnail: https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002
 3. Click the arrow beside the**Audio inputs and outputs** category.  
 ![The Audio inputs and outputs category](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/audio-inputs-and-outputs.jpg)
 4. Right-click your speaker’s audio device and select**Uninstall** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-device.jpg)
 5. Select**Uninstall** on the small window that opens.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Uninstall button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-button.jpg)
 6. Repeat the last two steps for all sound devices in the**Audio inputs and outputs** category.
 7. If you utilize any sound devices with USB ports, double-click the**Universal Serial Bus** category and select to uninstall all host controllers listed there. Users who don’t have sound devices connected via USB can skip this step.
 8. Restart your PC for automatic driver reinstallation. If some drivers aren’t reinstalled after the restart, select the**Action** \>**Scan for hardware** changes options in Device Manager.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## 6\. Update the Realtek Audio Codec Driver
 
  Does your PC have a Realtek audio codec driver? If so, it’s recommended to update that driver for the sake of fixing the Internal PortAudio error. Update that Realtek driver as follows:
@@ -137,10 +134,6 @@ thumbnail: https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002
 1. [Open Programs and Features](https://www.makeuseof.com/windows-open-programs-and-features-tool/) to access that uninstaller tool.
 2. Select Realtek High Definition Audio Driver or Realtek HD Manager.
 3. Click**Uninstall** to remove the driver.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![The Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/programs-and-features.jpg)
 4. Then bring up the [Realtek audio driver](https://www.realtek.com/en/component/zoo/category/pc-audio-codecs-high-definition-audio-codecs-software) page.
 5. Click the**Download** button for the latest compatible Realtek driver for your PC.
@@ -167,8 +160,6 @@ thumbnail: https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,6 +167,26 @@ thumbnail: https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-secrets-to-a-reliable-windows-11-photo-viewer/"><u>[New] Secrets to a Reliable Windows 11 Photo Viewer</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-accessible-video-ideas-the-simplest-10-concepts-everyone-can-learn-to-make/"><u>[Updated] 2024 Approved Accessible Video Ideas The Simplest 10 Concepts Everyone Can Learn to Make</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-earnings-demystified-youtube-shorts-revenue-split-explained-for-2024/"><u>[Updated] Earnings Demystified YouTube Shorts Revenue Split Explained for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-becoming-a-visionary-in-the-field-of-lut-artistry/"><u>[Updated] In 2024, Becoming a Visionary in the Field of LUT Artistry</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-real-time-caption-generator/"><u>[Updated] Real-Time Caption Generator</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/correcting-lossless-errors-in-h264-mov-files/"><u>Correcting Lossless Errors in H.264 MOV Files</u></a></li>
+<li><a href="https://windows11.techidaily.com/gateway-to-gaming-glory-using-dosbox-x-for-pc-classics/"><u>Gateway to Gaming Glory: Using DOSBox-X for PC Classics</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/how-to-download-kissasian-videos-a-comprehensive-guide/"><u>How to Download KissAsian Videos - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-mastering-voice-effects-explore-free-flexible-audio-transformations/"><u>In 2024, Mastering Voice Effects Explore Free, Flexible Audio Transformations</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-motorola-edge-2023-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Motorola Edge 2023 for Parents | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-linux-without-wsl/"><u>Master Linux without WSL</u></a></li>
+<li><a href="https://windows11.techidaily.com/reclaiming-control-from-a-wildly-wandering-mouse/"><u>Reclaiming Control From a Wildly Wandering Mouse</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-spontaneous-command-triggers-in-os/"><u>Remedying Spontaneous Command Triggers in OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/removing-windows-forbidden-permission-block/"><u>Removing Windows Forbidden Permission Block</u></a></li>
+<li><a href="https://windows11.techidaily.com/sayonara-to-sluggish-keys-top-tricks-for-win-11s-faster-typing/"><u>Sayonara to Sluggish Keys: Top Tricks for Win 11'S Faster Typing</u></a></li>
+<li><a href="https://windows11.techidaily.com/securing-your-virtual-world-steps-for-epic-save-safety/"><u>Securing Your Virtual World: Steps for Epic Save Safety</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-5-best-apps-to-skyrocket-your-productivity-on-windows-10-or-11/"><u>The 5 Best Apps to Skyrocket Your Productivity on Windows 10 or 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-meizu-21-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Meizu 21</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-non-functioning-windows-event-log/"><u>Troubleshooting Non-Functioning Windows Event Log</u></a></li>
+</ul></div>
 

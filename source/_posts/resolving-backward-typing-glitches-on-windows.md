@@ -1,7 +1,7 @@
 ---
 title: Resolving Backward Typing Glitches on Windows
-date: 2025-01-06T20:52:06.337Z
-updated: 2025-01-10T18:12:55.944Z
+date: 2025-01-13T07:42:39.402Z
+updated: 2025-01-16T01:29:21.241Z
 tags:
   - windows10
   - windows11
@@ -25,19 +25,11 @@ thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Use the CTRL + Left Shift Keyboard Shortcut to Change the Typing Direction
 
  Some Windows computers have macros that can change the typing direction from left to right. This is one of the most common reasons why your keyboard may start typing from right to left on Windows. If this is the case, simply press **Ctrl + Right Shift** on your keyboard to change the typing direction back to left to right.
 
  Several users on a [Microsoft Community post](https://answers.microsoft.com/en-us/windows/forum/all/how-to-stop-keyboard-from-typing-in-reverse/a766f453-0ef3-4aaa-8690-76ee9e86729c)reported fixing the problem with this trick. Note that if you accidentally press the **Ctrl + Left Shift** key, Windows will start typing in reverse again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Check Region Settings
 
@@ -63,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547
 4. Click the **Run** button next to **Keyboard** and follow the on-screen prompts to finish the troubleshooting process.  
 ![Run Keyboard Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-keyboard-troubleshooter-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the issue persists, you can run the Hardware and Devices troubleshooter. As this tool is unavailable in the Settings app, you must use the Run dialog box to access it. Here's how to do that:
 
 1. Press **Win + R** to open the Run dialog box.
@@ -71,10 +67,14 @@ thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547
 4. Click **Next** to run the troubleshooter.  
 ![Hardware and Devices Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hardware-and-devices-troubleshooter-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Allow the troubleshooter to find and fix any problems, and check if the issue still occurs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Update or Reinstall Your Keyboard Drivers
@@ -88,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547
 ![Arrow Keys on Keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/arrow-keys-on-keyboard.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It's possible that the left arrow key on your keyboard is stuck, which is why Windows is typing in reverse. Try using the left arrow key in another program to see if the issue persists. If it does, you may need to clean the key or remove and reinsert it.
@@ -96,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547
  Alternatively, you can also try using a different keyboard if one is available.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bring Backward Typing to a Full Stop on Windows
@@ -115,19 +115,19 @@ thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-voice-over-text-made-easy-choosing-the-best-mac-translation-software/"><u>[New] 2024 Approved Voice Over Text Made Easy Choosing the Best Mac Translation Software</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/new-dissecting-ajey-nagars-2023-youtube-economic-landscape/"><u>[New] Dissecting Ajey Nagar's 2023 YouTube Economic Landscape</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-the-complete-blueprint-for-success-adding-channels-as-features-on-youtube/"><u>[New] In 2024, The Complete Blueprint for Success Adding Channels as Features on Youtube</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-rapid-response-sharing-plays-with-pizzazz-for-2024/"><u>[Updated] Rapid Response Sharing Plays with Pizzazz for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-boost-engagement-stream-live-from-twitch-embed-on-fb/"><u>2024 Approved Boost Engagement Stream Live From Twitch, Embed on FB</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-secure-and-store-linkedin-videos-with-these-6-high-quality-apps/"><u>2024 Approved Secure and Store LinkedIn Videos with These 6 High-Quality Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/key-steps-for-admin-level-access-on-windows/"><u>Key Steps for Admin-Level Access on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/pixel-perfect-designs-for-your-pc-wallpaper/"><u>Pixel Perfect Designs for Your PC Wallpaper</u></a></li>
-<li><a href="https://windows11.techidaily.com/relaunching-print-processor-in-windows/"><u>Relaunching Print Processor in Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-unknown-issuer-error-in-mozilla-firefox-quick-solutions/"><u>Resolving the Unknown Issuer Error in Mozilla Firefox - Quick Solutions!</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-resolve-error-0x80041015-in-ms-word-and-excel/"><u>Strategies to Resolve Error 0X80041015 in MS Word & Excel</u></a></li>
-<li><a href="https://windows11.techidaily.com/tailoring-permission-levels-for-non-administrative-windows-users/"><u>Tailoring Permission Levels for Non-Administrative Windows Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-technique-professional-insights-on-leveraging-chamoinbot-for-note-taking-mastery/"><u>The Ultimate Technique: Professional Insights on Leveraging Chamoinbot for Note-Taking Mastery</u></a></li>
-<li><a href="https://windows11.techidaily.com/winning-strategy-against-corrupted-filedir-error-x70-on-pcs/"><u>Winning Strategy Against 'Corrupted' File/Dir Error X70 on PCs</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-a-beginners-primer-on-virtual-reality-concepts/"><u>[Updated] 2024 Approved A Beginner's Primer on Virtual Reality Concepts</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-chasing-the-cause-of-frozen-photobooth-videos/"><u>[Updated] Chasing the Cause of Frozen Photobooth Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-facebook-copyright-what-if-my-videos-removed-immediately-due-to-copyright/"><u>[Updated] Facebook Copyright | What If My Videos Removed Immediately Due to Copyright?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-iconic-after-effects-techniques-for-impressive-titles/"><u>[Updated] Iconic After Effects Techniques for Impressive Titles</u></a></li>
+<li><a href="https://windows11.techidaily.com/cease-windows-system-notification-for-upgrades/"><u>Cease Windows System Notification for Upgrades</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Motorola Moto G23? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lgs-latest-audio-improvement-is-a-game-changer-especially-for-apple-enthusiasts-zdnet-insider/"><u>LG's Latest Audio Improvement Is a Game-Changer, Especially for Apple Enthusiasts | ZDNET Insider</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-hello-fingerprint-setup-on-11/"><u>Mastering Windows Hello Fingerprint Setup on 11</u></a></li>
+<li><a href="https://win-top.techidaily.com/maximizing-visibility-the-role-of-search-volume-in-seo-and-expert-optimization-tips/"><u>Maximizing Visibility: The Role of Search Volume in SEO and Expert Optimization Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/no-more-fbm-hurdles-top-windows-troubleshooting-tips/"><u>No More FBM Hurdles: Top Windows Troubleshooting Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/precision-tools-for-crafting-custom-windows-filename-dates/"><u>Precision Tools for Crafting Custom Windows Filename Dates</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-to-resolving-pin-check-errors-on-windows-devices/"><u>Quick Guide to Resolving Pin Check Errors on Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-clarity-compass-directing-you-through-a-fuzzy-screen-fix-up/"><u>The Clarity Compass: Directing You Through a Fuzzy Screen Fix-Up</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ing-on-screen-time-maximize-your-youtube-impact/"><u>Thriving on Screen Time Maximize Your YouTube Impact</u></a></li>
 </ul></div>
 

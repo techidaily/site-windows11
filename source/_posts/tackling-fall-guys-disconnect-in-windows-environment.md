@@ -1,7 +1,7 @@
 ---
 title: Tackling Fall Guys Disconnect in Windows Environment
-date: 2025-01-06T16:16:31.161Z
-updated: 2025-01-10T23:36:20.338Z
+date: 2025-01-15T10:45:24.332Z
+updated: 2025-01-16T14:06:39.752Z
 tags:
   - windows10
   - windows11
@@ -55,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/010139d6077f90333f3025af8c182332c9900266f
 
  Then, right-click on all such applications, and choose**End task.** After that, restart Fall Guys and check if the problem persists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Temporarily Disable the Windows Firewall
 
  Windows Firewall can interfere with the working of Fall Guys and cause connection errors. The solution, in this case, is to temporarily disable the Windows Firewall.
@@ -66,14 +70,10 @@ Here's how you can do that:
 ![Turn Windows Defender on or off option in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/turn-windows-defender-on-or-off.jpg)
 3. Choose**Turn off Windows Defender Firewall (not recommended)** option for both**private** and**public** network settings.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Turn off firewall option in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/turn-off-firewall.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, check if the problem continues. If not, enable the Windows Defender Firewall and then add Fall Guys to the Windows Firewall exception list. Here's how:
@@ -88,10 +88,14 @@ Here's how you can do that:
 ![FallGuys file in browse option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/fallguys-file.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That's it! Fall Guys has now been added to the Windows Firewall exception list.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Disable Any Active Proxy Servers
 
@@ -100,14 +104,6 @@ Here's how you can do that:
 1. Open the Windows Search, type**Command Prompt,** and choose**Run as administrator** from the right pane.
 2. In the console, type**netsh winhttp reset proxy** and press**Enter** .  
 ![Disabling proxy command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disabling-proxy.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Connect to a Different DNS Server
 
@@ -126,6 +122,10 @@ Follow the below steps to change to Google DNS:
 7. If you're on IPv6, type**2001:4860:4860::8888** in the**Preferred DNS server** and**2001:4860:4860::8844** in the**Alternate DNS** server.  
 ![Editing IPv6 properties in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/editing-ipv6-properties.jpg)
 8. Click**OK.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Edit the Fall Guys Engine.ini File
 
@@ -148,15 +148,7 @@ RetryTime=0.5`
 
 ![Editing the Engine.ini file in Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/editing-the-engine-ini-file.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Launch Fall Guys and check if the problem persists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Reset Winsock Settings
 
@@ -168,7 +160,15 @@ Launch Fall Guys and check if the problem persists.
 2. Type**netsh winsock reset** and press**Enter** .  
 ![Reset Winsock command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/reset-winsock-command.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now, restart your computer and check if the problem is fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Your Fall Guys Connection Errors, Fixed
 
@@ -189,22 +189,21 @@ Now, restart your computer and check if the problem is fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-xiaomi-11-series-capture-life-in-high-definition/"><u>[New] In 2024, Xiaomi 11 Series Capture Life in High Definition</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-streamlinedwebcamtechniqueinstruction-for-2024/"><u>[New] StreamlinedWebCamTechniqueInstruction for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-audio-calls-tracker-iphone-voice-memo/"><u>[Updated] 2024 Approved Audio Calls Tracker IPhone Voice Memo</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1-effortless-dvd-cloning-and-iso-conversion-using-winx-dvd-copy-professional/"><u>1. Effortless DVD Cloning and ISO Conversion Using WinX DVD Copy Professional</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-realme-v30t-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Realme V30T | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/excellent-low-cost-webcam-snipper-app/"><u>Excellent Low-Cost Webcam Snipper App</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/gratuit-et-adaptable-sauvegarde-exterieure-pour-windows-11-10-8-and-7-guide-complet/"><u>Gratuit Et Adaptable: Sauvegarde Exterieure Pour Windows 11, 10, 8 & 7 - Guide Complet</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-rectify-hypervisor-bsos-a-windows-expert-guide/"><u>How to Rectify Hypervisor BSOS: A Windows Expert Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-fixes-overcoming-the-entry-not-located-challenge-in-windows/"><u>Mastering Fixes: Overcoming the Entry Not Located Challenge in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/microsoft-and-native-accounts-key-differences-unpacked-in-os-windows/"><u>Microsoft & Native Accounts: Key Differences Unpacked in OS Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-uninstall-guide-windows-11s-best-practices-102-chars/"><u>Quick Uninstall Guide: Windows 11'S Best Practices (102 Chars)</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolve-your-black-screen-woes-with-simple-tricks-for-win11/"><u>Resolve Your Black Screen Woes with Simple Tricks for Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/reversing-roblox-errors-on-microsoft-os/"><u>Reversing Roblox Errors on Microsoft OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/solving-code-0xc0000142-on-windows-xp-1011/"><u>Solving Code 0XC0000142 on Windows XP, 10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/super-fast-windows-query-with-everythingapp/"><u>Super-Fast Windows Query with EverythingApp</u></a></li>
-<li><a href="https://windows11.techidaily.com/tech-tricks-blend-taskbar-language-feature-win11-style/"><u>Tech Tricks: Blend Taskbar Language Feature, Win11 Style</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/the-digital-deluge-examining-this-years-most-shared-videos/"><u>The Digital Deluge Examining This Year's Most Shared Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nnovative-video-concepts-through-google-trends-exploration/"><u>[New] Innovative Video Concepts Through Google Trends Exploration</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-best-6-social-media-platforms-for-business/"><u>[Updated] Best 6 Social Media Platforms for Business</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/1726028510665-windows-78/"><u>最新音声記録 - Windows 7/8の利用者向けガイド</u></a></li>
+<li><a href="https://windows11.techidaily.com/cure-for-hidden-second-display-on-w11/"><u>Cure for Hidden Second Display on W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficiently-managing-applications-with-wpm-in-windows-11/"><u>Efficiently Managing Applications with WPM in Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expert-tips-for-ios-downloading-podcasts-on-iphone/"><u>Expert Tips for iOS Downloading Podcasts on iPhone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-revive-non-starting-adobe-photoshop-on-ws11-and-11/"><u>How to Revive Non-Starting Adobe Photoshop on WS11 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-troubleshooting-overcoming-error-e84-on-steam/"><u>Mastering the Art of Troubleshooting: Overcoming Error E84 on Steam</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722008048204-online-security-alert-deceptive-chatgpt-extension-compromises-facebook-sign-ins/"><u>Online Security Alert: Deceptive ChatGPT Extension Compromises Facebook Sign-Ins</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-task-execution-on-windows-adding-an-improved-run-utility/"><u>Optimizing Task Execution on Windows: Adding an Improved Run Utility</u></a></li>
+<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-infinix-note-30-vip-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Infinix Note 30 VIP Black and White | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-offline-errors-for-windows-11s-printer-port/"><u>Resolving Offline Errors for Windows 11'S Printer Port</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/stream-smart-distinguishing-the-roku-express-from-the-roku-stick/"><u>Stream Smart: Distinguishing the Roku Express From the Roku Stick</u></a></li>
+<li><a href="https://windows11.techidaily.com/swiftly-overcoming-disruptions-after-a-windows-update/"><u>Swiftly Overcoming Disruptions After a Windows Update</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-tecno-spark-go-2023-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Tecno Spark Go (2023) without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/unlock-your-apple-iphone-12-mini-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>Unlock Your Apple iPhone 12 mini in Minutes with ICCID Code Everything You Need to Know</u></a></li>
 </ul></div>
 

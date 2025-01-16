@@ -1,7 +1,7 @@
 ---
 title: "Clearing the Past: Updating Decrepit Windows Cards"
-date: 2024-08-08T06:00:25.815Z
-updated: 2024-08-09T06:00:25.815Z
+date: 2025-01-11T20:05:48.624Z
+updated: 2025-01-16T12:23:22.519Z
 tags:
   - windows10
   - windows11
@@ -22,9 +22,6 @@ thumbnail: https://thmb.techidaily.com/56db2abce12454619eb56aa29719b3ba982081a75
 
  Let's explore how to find and replace outdated Windows drivers on Windows 10 and 11\.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Check Your Installed Drivers
 
  You will have drivers on your system, even if you didn't manually install them, but you may not know what they are or what version you have. There are various ways to check this.
@@ -42,12 +39,13 @@ thumbnail: https://thmb.techidaily.com/56db2abce12454619eb56aa29719b3ba982081a75
 3. Click the **Driver** tab.
 4. If you need more information and want to view the installed driver files, click **Driver Details**.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![device manager driver details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/device-manager-driver-details.jpg)
 
  This method is great if you only need to check a handful of drivers, but it's a bit tedious if you want to see all your drivers. In that case, use an alternative method detailed below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Use DriverView
 
@@ -55,11 +53,19 @@ thumbnail: https://thmb.techidaily.com/56db2abce12454619eb56aa29719b3ba982081a75
 
 ![DriverView](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/driverview.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  DriverView is a simple program, but it has some handy features, such as:
 
 * To adjust the table, select **View** from the toolbar and use options like **Mark Non-Microsoft Drivers** and **Choose Columns** as needed.
 * Export the data via **File > Save Selected Items** or **View > HTML Report** (then save the page).
 * If you require additional information about a driver, select the row and go to **File > Google Search**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Use Command Prompt
 
@@ -71,27 +77,18 @@ thumbnail: https://thmb.techidaily.com/56db2abce12454619eb56aa29719b3ba982081a75
 
  To get the information in a handy text file that you can refer to later, type **driverquery > driver.txt**. The file saves wherever your Command Prompt path is set. See [Microsoft's driverquery page](https://learn.microsoft.com/windows-server/administration/windows-commands/driverquery) for more advanced parameters.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Update Outdated Windows Drivers
 
  There are plenty of [reasons to keep drivers updated](https://www.makeuseof.com/computer-drivers-what-are-they-why-should-you-update/). By doing so, you'll ensure software compatibility, and benefit from bug fixes and security patches.
 
  However, updating your drivers is not always necessary. Importantly, if Windows Update isn't recommending a driver update (which we'll get into shortly), it might mean the driver isn't compatible with your hardware configuration. If everything is working well on your system, you may be better off leaving your drivers alone.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Use Windows Update
 
  In most cases, Windows automatically keeps your drivers updated through Windows Update. This is safe because the drivers are verified and should only be delivered to your system if they're necessary and compatible.
 
  To manually perform a Windows Update, press **Windows key + I** to open Settings and go to **Update & Security > Windows Update > Check for updates** (Windows 10) or **Windows Update > Check for updates** (Windows 11).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![windows 11 windows update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-11-windows-update.jpg)
 
  You can [disable automatic driver updates on Windows](https://www.makeuseof.com/windows-stop-automatic-driver-updates/) if you want, perhaps if the latest version is causing trouble, but generally you should let Windows Update do its thing.
@@ -104,6 +101,10 @@ thumbnail: https://thmb.techidaily.com/56db2abce12454619eb56aa29719b3ba982081a75
 4. Click **Download and install**.
 
 ![windows 11 view optional updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-11-view-optional-updates.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Use the Manufacturer's Website
 
@@ -121,10 +122,11 @@ thumbnail: https://thmb.techidaily.com/56db2abce12454619eb56aa29719b3ba982081a75
 6. Click **OK**.
 7. Click **Next** and follow the wizard to completion.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![windows 10 browse for drivers on your computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-10-browse-for-drivers-on-your-computer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Drivers Keep Your Computer Running Smoothly
 
@@ -136,12 +138,25 @@ thumbnail: https://thmb.techidaily.com/56db2abce12454619eb56aa29719b3ba982081a75
 
  Let's explore how to find and replace outdated Windows drivers on Windows 10 and 11\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/harting-success-navigating-a-3-step-strategy-for-tracking-youtube-income/"><u>[New] Charting Success Navigating a 3-Step Strategy for Tracking YouTube Income</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diy-iphone-reboot-tactics-bypassing-itunes/"><u>DIY iPhone Reboot Tactics - Bypassing iTunes</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-silent-xbox-console-windows-techniques/"><u>Fixing Silent Xbox Console: Windows Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/guidelines-for-overcoming-installer-hurdles-in-windows-environments/"><u>Guidelines for Overcoming Installer Hurdles in Windows Environments</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-your-windows-workspace-5-folder-tips-revealed/"><u>Master Your Windows Workspace: 5 Folder Tips Revealed</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-your-video-chat-install-c270-software-on-windows-11-os/"><u>Optimize Your Video Chat: Install C270 Software on Windows 11 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/redirecting-and-reinstating-windows-1011s-ms-store/"><u>Redirecting and Reinstating Windows 10/11'S MS Store</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/screen-saviors-ranked-top-8-for-ios-filmmaking-apps-for-2024/"><u>Screen Saviors Ranked Top 8 for iOS Filmmaking Apps for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ght-from-the-studio-simple-steps-to-sizzling-mac-vids-on-youtube-for-2024/"><u>Straight From the Studio Simple Steps to Sizzling Mac Vids on YouTube for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-complete-guide-viewing-the-indiana-jones-movies-sequentially/"><u>The Complete Guide: Viewing the Indiana Jones Movies Sequentially</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/apid-reverse-how-to-flip-your-stream-sides-for-2024/"><u>The Rapid Reverse How to Flip Your Stream-Sides for 2024</u></a></li>
+</ul></div>
 

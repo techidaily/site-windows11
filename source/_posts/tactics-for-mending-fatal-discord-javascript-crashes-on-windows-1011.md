@@ -1,7 +1,7 @@
 ---
 title: Tactics for Mending Fatal Discord Javascript Crashes on Windows 10/11
-date: 2025-01-05T16:21:49.989Z
-updated: 2025-01-10T17:21:15.484Z
+date: 2025-01-13T04:20:43.321Z
+updated: 2025-01-15T21:17:39.554Z
 tags:
   - windows10
   - windows11
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 ![The Run this program in compatibility mode checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-this-program-as-administrator-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Uninstall BetterDiscord
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 8. Click**Uninstall** to finish.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Delete Discord’s Data Folders
@@ -67,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 ![A Discord-related processes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/discord-related-process.jpg)
 5. Open Windows Explorer with**Win + E** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Type**%appdata%** inside Explorer’s address bar and press**Return** .
 7. Then select the Discord data folder and click Explorer's**Delete** option on the**Home** tab or command bar.  
 ![A discord folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/discord-folder.jpg)
@@ -79,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 9. Next, click the Discord folder with the mouse’s right button and select**Delete** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Reinstall Discord
@@ -92,15 +88,15 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-option2.jpg)
 4. Delete leftover Discord app data subfolders as outlined for the third resolution.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Reboot your Windows PC before reinstalling the Discord software.
 6. Open up the[download page for Discord](https://discord.com/download) .
 7. Click**Download** **for Windows** to get the Discord setup wizard.  
 ![The Download for Windows option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/download-for-windows-button.jpg)
 8. Next, double-click**DiscordSet.exe** in whatever file your browser downloaded it in.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 9. Go through Discord’s installation wizard to reinstall the software.
 
@@ -118,6 +114,10 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 2. Select**Virus & threat protection** on Windows Security’s**Home** tab.  
 ![The Virus & threat protection tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/virus-threat-protection.jpg)
 3. Click**Manage Settings** to view the options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Toggle off the**Real-time protection** option to disable background antivirus scanning.  
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/real-time-protection-option.jpg)
@@ -141,7 +141,7 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 8. Click**Browse** for the**This account** radio button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 9. Input your user account within the**Enter** object name box.
@@ -168,20 +168,21 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-dance-the-viral-dance-mix-in-some-tiktok-flavor-for-insta-success/"><u>[New] In 2024, Dance the Viral Dance Mix in Some TikTok Flavor for Insta Success</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-from-standard-definition-to-high-dynamic-range-a-comprehensive-tutorial/"><u>[New] In 2024, From Standard Definition to High Dynamic Range - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2507285-9781626258037-awakening-to-the-dream/"><u>Awakening to the Dream | Free Book</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effective-fixes-for-issues-with-hp-beats-sound-card-in-various-versions-of-windows/"><u>Effective Fixes for Issues with HP Beats Sound Card in Various Versions of Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-speed-up-the-yuzu-emulator-on-windows/"><u>How to Speed Up the Yuzu Emulator on Windows</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-harness-the-power-of-post-production-top-11-techniques-for-vibrant-colors/"><u>In 2024, Harness the Power of Post-Production Top 11 Techniques for Vibrant Colors</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-maximize-iphone-screen-space-with-smaller-videos/"><u>In 2024, Maximize iPhone Screen Space with Smaller Videos</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-infinix-hot-40-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Infinix Hot 40 Pro to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/master-email-attachment-handling-in-microsoft-words-read-pane-mode/"><u>Master Email Attachment Handling in Microsoft Word's Read Pane Mode</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-art-of-successful-files-transfer-in-windows/"><u>Mastering the Art of Successful Files Transfer in Windows</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/mastering-wi-fi-with-the-netgear-nighthawk-c7000-an-ultimate-review-of-this-exceptional-router-model/"><u>Mastering Wi-Fi with the Netgear Nighthawk C7000: An Ultimate Review of This Exceptional Router Model</u></a></li>
-<li><a href="https://windows11.techidaily.com/methods-to-prevent-windows-pc-from-booting-into-bios/"><u>Methods to Prevent Windows PC From Booting Into BIOS</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-d3dx933dll-error-a-comprehensive-guide/"><u>Resolving d3dx9_33.dll Error: A Comprehensive Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/restoring-taskbar-button-image-rendering/"><u>Restoring Taskbar Button Image Rendering</u></a></li>
-<li><a href="https://windows11.techidaily.com/reversing-operation-failure-0x709-on-pc/"><u>Reversing Operation Failure 0X709 on PC</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-the-mix-adding-cropping-and-adjusting-audio-in-canva/"><u>[New] Mastering the Mix Adding, Cropping & Adjusting Audio in Canva</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-discover-10-amazing-world-wanderlust-channels-for-2024/"><u>[Updated] Discover 10 Amazing World Wanderlust Channels for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-pathways-select-7-tools-for-artwork-conversion-to-nfts/"><u>[Updated] Innovative Pathways Select 7 Tools for Artwork Conversion to NFTs</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-vivo-v29-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/boost-text-entry-learning-from-typingaid/"><u>Boost Text Entry: Learning From TypingAid</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-duo-app-configurations-to-resolve-errors/"><u>Correcting Duo App Configurations to Resolve Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-yuzu-emulation-speed-in-windows/"><u>Elevating Yuzu Emulation Speed in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/getting-acquainted-with-the-windows-odbc-system/"><u>Getting Acquainted with the Windows ODBC System</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-navigating-through-the-sea-of-user-interactions-on-youtube/"><u>In 2024, Navigating Through the Sea of User Interactions on YouTube</u></a></li>
+<li><a href="https://windows11.techidaily.com/leap-into-connectivity-unlocking-windows-remote-desktop/"><u>Leap Into Connectivity: Unlocking Windows Remote Desktop</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-undetectable-file-hiding-technique-on-windows-systems/"><u>The Undetectable File Hiding Technique on Windows Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-guide-how-to-fix-gmail-synchronization-issues/"><u>Troubleshooting Guide: How To Fix Gmail Synchronization Issues?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-protonmail-suites-document-editor-a-first-hand-look-at-privacy-focused-productivity/"><u>Unveiling ProtonMail Suite's Document Editor: A First-Hand Look at Privacy-Focused Productivity</u></a></li>
+<li><a href="https://windows11.techidaily.com/visual-notetaking-revolution-unlocking-with-obsidian-canvas/"><u>Visual Notetaking Revolution: Unlocking with Obsidian Canvas</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/wiederherstellen-des-gesperrten-admin-zugriffs-in-windows-define-windows10-myrecovery-expertentechniken/"><u>Wiederherstellen Des Gesperrten Admin-Zugriffs in Windows #define WINDOWS_10 | MyRecovery-Expertentechniken</u></a></li>
 </ul></div>
 

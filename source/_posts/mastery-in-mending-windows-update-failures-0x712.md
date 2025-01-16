@@ -1,7 +1,7 @@
 ---
 title: "Mastery in Mending Windows Update Failures: 0X712"
-date: 2025-01-09T23:16:24.789Z
-updated: 2025-01-10T18:50:55.297Z
+date: 2025-01-12T09:55:02.726Z
+updated: 2025-01-15T21:09:13.488Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Use the Windows Troubleshooter
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
 5. Then, click on the**Run** button to start the troubleshooter.  
 ![Windows Update Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-update-troubleshooter.jpg)
 6. Wait for the Windows Update troubleshooter to identify problems. Click on the**Next** button.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Close the troubleshooter window and reattempt the Windows update installation.
 
@@ -88,7 +84,7 @@ Repeat the following steps to start the necessary services:
 6. Lastly, click on the**Delete files** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Rename the SoftwareDistribution Folder
@@ -104,7 +100,7 @@ Repeat the following steps:
 3. Once these services stop running, type**cls** in the command prompt windows. Then enter the following commands:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ren C:\\Windows\\SoftwareDistribution SoftwareDistribution.old ren C:\\Windows\\System32\\catroot2 Catroot2.old  
@@ -116,7 +112,15 @@ net start wuauserv net start cryptSvc net start bits net start msiserver
 ![Rename the SoftwareDistribution Folder 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-the-softwaredistribution-folder-3.jpg)
 6. Lastly,**restart** your system and visit the following folder location:**C:\\Windows** . You will notice that there is a new SoftwareDistribution folder in that location.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Open the Windows update in Settings and try to download and install updates.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Delete the Pending.xml file
 
@@ -130,10 +134,6 @@ Retrace the following steps to delete the pending.xml file:
 4. Press the**Shift** key and click on the**Delete** option.
 5. Restart your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Manually Download Windows Updates
 
  If you are unable to download a specific Windows update using the Settings page, consider a direct download and install approach. Visit the Microsoft Update Catalog website and search for the KB update you want to download. However, you first have to check the corresponding update number which is failing to download and install on your system.
@@ -141,7 +141,7 @@ Retrace the following steps to delete the pending.xml file:
 ![Manually Download Windows Updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/manually-download-windows-updates.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Reset Windows
@@ -167,24 +167,18 @@ Retrace the following steps to delete the pending.xml file:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-premium-pick-of-budget-friendly-vectors-and-graphic-sites/"><u>[New] Premium Pick of Budget-Friendly Vectors & Graphic Sites</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-integrating-media-files-for-direct-transfer-to-iphone-for-2024/"><u>[Updated] Integrating Media Files for Direct Transfer to iPhone for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-your-digital-journey-to-youtube-and-facebook-video-gems/"><u>2024 Approved Your Digital Journey to YouTube and Facebook Video Gems</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/como-optimizar-la-conversion-de-video-de-webm-a-mp4-premium-en-sistemas-windows-11macos/"><u>Cómo Optimizar La Conversión De Video: De WebM a MP4 Premium en Sistemas Windows 11/macOS</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hp-printer-p1102w-compatible-with-windows-os/"><u>HP Printer P1102w Compatible with Windows OS</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-complete-guide-to-screen-capturing-in-minecraft/"><u>In 2024, Complete Guide to Screen Capturing in Minecraft</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-honor-magic-6-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Honor Magic 6 in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-vivo-y100t-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Vivo Y100t</u></a></li>
-<li><a href="https://windows11.techidaily.com/keeping-winrunhist-intact-for-future-use/"><u>Keeping WinRunHist Intact for Future Use</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-windowed-discords-search-tweaks/"><u>Mastering Windowed Discord's Search Tweaks</u></a></li>
-<li><a href="https://windows11.techidaily.com/methods-to-fix-windows-update-code-error-0x8024800c/"><u>Methods to Fix Windows Update: Code Error 0X8024800C</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-discrepancy-in-windows-11s-power-life-predictor/"><u>Overcoming Discrepancy in Windows 11'S Power Life Predictor</u></a></li>
-<li><a href="https://windows11.techidaily.com/re-estaminig-balanced-sound-from-both-sides-of-win-audio-device/"><u>Re-Estaminig Balanced Sound From Both Sides of Win Audio Device</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-8-compatible-windows-and-android-programs/"><u>Top 8 Compatible Windows and Android Programs</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-stardew-valley-not-starting-up/"><u>Troubleshooting Guide: Stardew Valley Not Starting Up?</u></a></li>
-<li><a href="https://windows11.techidaily.com/wake-up-call-reviving-sleeping-pcs-with-inputs-on-1011/"><u>Wake-Up Call: Reviving Sleeping PCs with Inputs on 10/11</u></a></li>
-<li><a href="https://win-special.techidaily.com/1728467494574-windows-server-2019/"><u>Windows Server 2019 - 裸のハードディスクによるシステムバックアップと復元</u></a></li>
-<li><a href="https://windows11.techidaily.com/winning-back-your-disconnected-wi-fi/"><u>Winning Back Your Disconnected Wi-Fi</u></a></li>
-<li><a href="https://windows11.techidaily.com/wintools-comparison-how-chkdsk-and-sfc-differ-from-dissect/"><u>WinTools Comparison: How CHKDSK and SFC Differ From Dissect</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-decoding-snapchat-emoji-language/"><u>[New] In 2024, Decoding Snapchat Emoji Language</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hand-held-balance-for-sharp-images/"><u>[Updated] In 2024, Hand-Held Balance for Sharp Images</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-mastering-youtube-the-ultimate-guide-to-earning/"><u>[Updated] Mastering YouTube The Ultimate Guide to Earning</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unlocking-top-five-transformative-facebook-traits/"><u>[Updated] Unlocking Top Five Transformative Facebook Traits</u></a></li>
+<li><a href="https://windows11.techidaily.com/5-essential-fixes-for-hypervisor-blue-screen-on-win-os/"><u>5 Essential Fixes for Hypervisor Blue Screen on WIN OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/access-hurdles-rejoin-your-shared-windows-zone/"><u>Access Hurdles: Rejoin Your Shared Windows Zone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-premier-pc-companies-dominating-tech/"><u>Discover the Premier PC Companies Dominating Tech</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/download-high-quality-sports-footage-free-movies-in-hd-720p-and-1080p-4k-resolution/"><u>Download High-Quality Sports Footage: Free Movies in HD, 720P & 1080P 4K Resolution</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-steps-for-altering-terminal-preference/"><u>Essential Steps for Altering Terminal Preference</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-optimizing-viewing-experience-video-filters-for-all-screens/"><u>In 2024, Optimizing Viewing Experience Video Filters for All Screens</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-joy-in-portable-gaming-my-commitment-to-apple-arcade/"><u>The Joy in Portable Gaming: My Commitment to Apple Arcade</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-10-uses-for-windows-powertoys-tools/"><u>Top 10 Uses for Windows PowerToys Tools</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/be-shorts-solutions-to-frequent-problems/"><u>YouTube Shorts Solutions to Frequent Problems</u></a></li>
 </ul></div>
 

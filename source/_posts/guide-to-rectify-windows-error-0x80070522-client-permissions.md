@@ -1,7 +1,7 @@
 ---
 title: "Guide to Rectify Windows' Error 0X80070522: Client Permissions"
-date: 2024-12-28T16:20:50.075Z
-updated: 2025-01-03T22:49:23.786Z
+date: 2025-01-13T00:53:04.633Z
+updated: 2025-01-15T22:07:12.195Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/1e8ed7d03244990645b268803c3dbd7e538910f87
 
  That message sometimes serves as a security warning for modifying system files and folders. However, users can’t create (save), move, or copy files to certain locations when that error occurs. This is how you can resolve error 0x80070522 in Windows 11/10.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run Software Packages as an Administrator Before Saving Files
 
  If error 0x80070522 occurs when you’re trying to save new files, try running the required software packages as administrator. Open any program with which you need to save a file by right-clicking its shortcut or EXE file and selecting**Run as administrator** . Then create or open a file and select to save it when utilizing the software with elevated user permissions.
@@ -29,11 +33,11 @@ thumbnail: https://thmb.techidaily.com/1e8ed7d03244990645b268803c3dbd7e538910f87
 ![The Run this program in compatibility mode checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-run-as-administrator-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Set an Admin Account on Windows
@@ -41,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/1e8ed7d03244990645b268803c3dbd7e538910f87
  The error 0x80070522 message highlights that this is a privilege (permissions) issue. Therefore, error 0x80070522 is more likely to occur within standard account types than administrator ones. If your current user account only has standard rights, change it to an administrator one. Our guide on[changing your account type on Windows](https://www.makeuseof.com/ways-to-change-user-account-windows-10/) includes four methods for setting up an admin account in Windows 11/10.
 
 ![The Administrator radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-administrator-radio-button.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Turn Off User Account Control (in Three Different Ways)
 
@@ -61,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/1e8ed7d03244990645b268803c3dbd7e538910f87
 ![The Properties option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-properties-option.jpg)
 3. Click the**Sharing** tab.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Press the**Advanced Sharing** button.
 5. Select the**Share this folder** checkbox.  
 ![The Share this folder checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/share-this-folder-checkbox.jpg)
@@ -71,15 +75,11 @@ thumbnail: https://thmb.techidaily.com/1e8ed7d03244990645b268803c3dbd7e538910f87
 3. Click the**Apply** and**OK** on the Permissions and Advanced Sharing windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Select**Close** to exit the properties window.
 5. Then click**Power** and select**Restart** within your Start menu.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Perform the Required File or Folder Actions on Windows
 
@@ -102,19 +102,22 @@ thumbnail: https://thmb.techidaily.com/1e8ed7d03244990645b268803c3dbd7e538910f87
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-unlocking-youtube-content-as-lively-download-free-animated-gifs-for-2024/"><u>[Updated] Unlocking YouTube Content as Lively, Download-Free Animated GIFs for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/4-ways-to-fix-the-windows-powershell-cannot-be-loaded-because-running-scripts-is-disabled-error/"><u>4 Ways to Fix the Windows PowerShell Cannot Be Loaded Because Running Scripts Is Disabled Error</u></a></li>
-<li><a href="https://windows11.techidaily.com/7-key-adjustments-for-obs-studio-connection-woes-on-pcs/"><u>7 Key Adjustments for OBS Studio Connection Woes on PCs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/9-strategies-harnessing-gpt-for-novel-drafting/"><u>9 Strategies: Harnessing GPT for Novel Drafting</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/action-herogo-black-vs-star-sj7-camera-for-2024/"><u>Action HeroGo Black Vs Star SJ7 Camera for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/applying-local-group-policies-to-individual-users-windows-11-guide/"><u>Applying Local Group Policies to Individual Users: Windows 11 Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/bypassing-edgenuity-a-guide-to-focused-self-study/"><u>Bypassing Edgenuity A Guide to Focused Self-Study</u></a></li>
-<li><a href="https://windows11.techidaily.com/comprehensive-solution-to-stop-0xf0831-in-windows-11/"><u>Comprehensive Solution to Stop 0xF0831 in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/customizing-your-command-prompt-palette/"><u>Customizing Your Command Prompt Palette</u></a></li>
-<li><a href="https://windows11.techidaily.com/discover-the-art-of-tracking-network-activity-via-netstat-in-win11/"><u>Discover the Art of Tracking Network Activity via Netstat in Win11</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-make-a-photo-video-with-pixiz/"><u>In 2024, How to Make a Photo Video with Pixiz?</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-stardew-valuable-addons-best-to-worst-ranking-list-7/"><u>In 2024, Stardew Valuable Addons - Best to Worst Ranking List (#7)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/stepping-into-tomorrow-embracing-the-power-of-verizon-5g/"><u>Stepping Into Tomorrow: Embracing the Power of Verizon 5G</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-decoding-fraps-video-capturing-techniques/"><u>[New] 2024 Approved Decoding Fraps Video Capturing Techniques</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-ios-meets-classic-play-best-ps2-game-emulators-reviewed/"><u>[New] 2024 Approved IOS Meets Classic Play Best PS2 Game Emulators Reviewed</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-essential-webcam-guide-for-exceptional-podcast-production/"><u>[Updated] Essential Webcam Guide for Exceptional Podcast Production</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-pro-tips-for-productive-dialogues-on-google-meet-for-2024/"><u>[Updated] Pro Tips for Productive Dialogues on Google Meet for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-systematic-approach-to-undoing-windows-programs-changes/"><u>A Systematic Approach to Undoing Windows Programs Changes</u></a></li>
+<li><a href="https://windows11.techidaily.com/configure-ideal-window-space-for-your-apps-in-win11/"><u>Configure Ideal Window Space for Your Apps in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-change-your-username-in-windows-11/"><u>How to Change Your Username in Windows 11</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/ignite-interest-captivate-views-elevate-likes-on-your-unboxings/"><u>Ignite Interest, Captivate Views Elevate Likes on Your Unboxings</u></a></li>
+<li><a href="https://windows11.techidaily.com/need-windows-help-find-support-tips-and-solutions/"><u>Need Windows Help? Find Support Tips & Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/reversing-error-0x800704cf-in-winstore/"><u>Reversing Error 0X800704CF in WinStore</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/schnell-und-einfach-wird-ihr-ssd-bootfahig-unter-windows-7-11-gemacht/"><u>Schnell Und Einfach Wird Ihr SSD Bootfähig Unter Windows 7-11 Gemacht!</u></a></li>
+<li><a href="https://windows11.techidaily.com/secure-and-streamline-with-win11s-hard-drive-defrag/"><u>Secure & Streamline with Win11's Hard Drive Defrag</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96304706-9781984856555-the-beginners-guide-to-crystals/"><u>The Beginner's Guide to Crystals | Free Book</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-to-quicken-windows-edge-on-w10-and-w11/"><u>Tips to Quicken Windows Edge on W10 & W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unexpected-rav-guard-find-its-source-and-quit-methods/"><u>Unexpected Rav Guard? Find Its Source & Quit Methods</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/e-to-viral-fame-crafting-high-quality-content-as-a-travel-vlogger-for-2024/"><u>Voyage to Viral Fame Crafting High-Quality Content as a Travel Vlogger for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Honor X50i+? | Dr.fone</u></a></li>
 </ul></div>
 

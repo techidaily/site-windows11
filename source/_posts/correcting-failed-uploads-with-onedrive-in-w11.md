@@ -1,7 +1,7 @@
 ---
 title: Correcting Failed Uploads with OneDrive in W11
-date: 2024-08-08T05:58:34.887Z
-updated: 2024-08-09T05:58:34.887Z
+date: 2025-01-08T18:07:22.305Z
+updated: 2025-01-16T00:38:28.542Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/633f0a6d177df3d7fb477a15a0804c21edff9926a
 
  Users can’t copy or download shared files from OneDrive once error 0x80070185 appears. If you're also experiencing this issue, here is how you can fix error 0x80070185 in Windows 10 and 11.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Log Out and Back Into OneDrive
 
  First, try logging out and back into your OneDrive account. To do so, you’ll need to unlink your PC with your OneDrive account. This is how you can log out and sign back into OneDrive:
@@ -32,8 +29,17 @@ thumbnail: https://thmb.techidaily.com/633f0a6d177df3d7fb477a15a0804c21edff9926a
 3. Select**Settings** to bring up an**Account** tab.  
 ![The Settings option in OneDrive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/settings-option.jpg)
 4. Click the**Unlink this PC** option.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Unlink this PC option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/unlink-this-pc.jpg)
 5. Select**Unlink account** to sign out.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. If a sign-in window doesn’t automatically open, input OneDrive in the Windows search box and select to open it there.
 2. Input your OneDrive email address (for your Microsoft account), and click the**Sign in** option.  
@@ -42,25 +48,16 @@ thumbnail: https://thmb.techidaily.com/633f0a6d177df3d7fb477a15a0804c21edff9926a
 4. Keep clicking**Next** to reach the last option on the OneDrive setup window.
 5. Press the**Open my OneDrive** **folder** button.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Free Up Hard Drive Space
 
  Error 0x80070185 can arise when there’s very little free space available on the local drive. As such, your PC’s hard drive may have insufficient space for the larger files in your OneDrive cloud storage.
 
  First, check your PC’s drive storage space by launching File Explorer and clicking**This PC** . The C: drive icon there shows you how much free storage is available.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Local Disk storage icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/local-disk-storage-icon.jpg)
 
  If your PC’s hard drive is full, or close to it, free up some storage space. You can make more space on your hard drive by uninstalling software, deleting unneeded user files, and erasing junk data. Our guide about [how to free up storage space in Windows 11](https://www.makeuseof.com/windows-11-free-up-storage-space/) includes numerous methods for making space on a drive.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## 3\. Reset the OneDrive App
 
  Corrupted OneDrive cache data is a potential cause for error 0x80070185 that you can address by resetting the app. Reset OneDrive with Run as follows:
@@ -69,13 +66,19 @@ thumbnail: https://thmb.techidaily.com/633f0a6d177df3d7fb477a15a0804c21edff9926a
 2. Select**Run** to view that command dialog.
 3. Type or paste the following command for resetting OneDrive into Run:  
 `%localappdata%\Microsoft\OneDrive\OneDrive.exe /reset`  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The reset OneDrive Run command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-reset-one-drive-command.jpg)
 4. Click**OK** to execute the reset command for OneDrive.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. If the OneDrive icon doesn’t reappear after the reset, input this command into Run and click**OK** :  
 `%localappdata%\Microsoft\OneDrive\onedrive.exe`
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Sync OneDrive to Another Drive Location
 
@@ -87,13 +90,15 @@ thumbnail: https://thmb.techidaily.com/633f0a6d177df3d7fb477a15a0804c21edff9926a
 4. Click the**Change location** option.  
 ![The Change location option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/change-location-option.jpg)
 5. Select an alternative drive partition on your PC to link OneDrive with.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click**Select Folder** to confirm the chosen location.
 7. Keep clicking**Next** a few times, and select the**Open my OneDrive folder** option.  
 ![The Open my OneDrive folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-my-onedrive-folder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## 5\. Enable the "Always Keep on Device" and "Free Up Space" Options
 
  Some OneDrive users have confirmed selecting to always keep affected files on the device, along with a "free up space" option, can fix error 0x80070185\. Selecting the "always keep on this device" option makes a OneDrive file available offline.
@@ -103,11 +108,13 @@ thumbnail: https://thmb.techidaily.com/633f0a6d177df3d7fb477a15a0804c21edff9926a
 1. Press**Win + E** to open File Explorer.
 2. Click the arrow for your OneDrive storage on the left of Explorer.
 3. Right-click the file affected by error 0x80070185 and select**Always keep on this** **device** .  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![The Always keep on this device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/always-keep-on-this-device-option.jpg)
 4. Then right-click the same file again to select**Free up** **space** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Repeat these steps for all files you can’t access because of error 0x80070185.
 
 ## 6\. Turn Off Any Active Firewalls
@@ -118,14 +125,8 @@ thumbnail: https://thmb.techidaily.com/633f0a6d177df3d7fb477a15a0804c21edff9926a
 2. Input**Windows Defender Firewall** to find the applet.
 3. Select the**Windows Defender Firewall** search result to view the applet in the Control Panel.
 4. Click**Turn Windows Defender Firewall on or off** to access the settings.  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Windows Defender Firewall applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-defender-firewall-applet.jpg)
 5. Select the two**Turn off Windows Defender Firewall** network settings, and click**OK** to apply.  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Turn off Windows Defender Firewall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/turn-off-windows-defender-firewall-option.jpg)
 6. Return to OneDrive to see if the 0x80070185 error persists with the firewall off.
 
@@ -149,8 +150,9 @@ thumbnail: https://thmb.techidaily.com/633f0a6d177df3d7fb477a15a0804c21edff9926a
 8. Click**Get** to reinstall OneDrive.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Access your OneDrive Files again
 
  OneDrive’s error 0x80070185 is not always easy to fix. However, users have got error 0x80070185 resolved by applying the troubleshooting methods above. Hopefully, one of them will restore access to your affected OneDrive files as well.
@@ -161,8 +163,6 @@ thumbnail: https://thmb.techidaily.com/633f0a6d177df3d7fb477a15a0804c21edff9926a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,6 +170,21 @@ thumbnail: https://thmb.techidaily.com/633f0a6d177df3d7fb477a15a0804c21edff9926a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/rasp-the-art-of-steadiness-in-photography-for-2024/"><u>[New] Grasp the Art of Steadiness in Photography for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-ultimate-non-zoom-video-calls-for-pcphone-users/"><u>[New] Ultimate Non-Zoom Video Calls for PC/Phone Users</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-complete-rankings-of-mobile-apps-altering-your-speech-for-2024/"><u>[Updated] The Complete Rankings of Mobile Apps Altering Your Speech for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-10-plugin-power-duo-for-final-cut-pro/"><u>[Updated] The Ultimate 10 Plugin Power Duo for Final Cut Pro</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/best-performing-wi-fi-signal-extenders-on-the-market-2eom4-year-edition/"><u>Best Performing Wi-Fi Signal Extenders on the Market - 2Eom4 Year Edition</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-and-easy-access-to-the-most-recent-hp-laserjet-p1006-drivers/"><u>Fast and Easy Access to the Most Recent HP LaserJet P1006 Drivers!</u></a></li>
+<li><a href="https://discover-able.techidaily.com/guide-modifying-audio-preferences-via-windows-control-panel-yl-computing-tutorials/"><u>Guide: Modifying Audio Preferences via Windows Control Panel - YL Computing Tutorials</u></a></li>
+<li><a href="https://windows11.techidaily.com/hacks-to-control-your-time-zone-in-windows-manually/"><u>Hacks to Control Your Time Zone in Windows Manually</u></a></li>
+<li><a href="https://windows11.techidaily.com/hidden-heroes-mastering-disappearing-controls/"><u>Hidden Heroes: Mastering Disappearing Controls</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-your-workflow-embracing-the-shift-in-ram-standards/"><u>Optimizing Your Workflow: Embracing the Shift in RAM Standards</u></a></li>
+<li><a href="https://windows11.techidaily.com/save-big-on-w11-pro-upgrade-top-deals-at-hand/"><u>Save Big on W11 Pro Upgrade: Top Deals at Hand</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-prevent-windows-dwarf-fortress-crashes/"><u>Strategies to Prevent Windows-Dwarf Fortress Crashes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-tecno-spark-20-proplus-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Tecno Spark 20 Pro+ Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-voice-logging-a-comprehensive-walkthrough/"><u>Windows Voice Logging: A Comprehensive Walkthrough</u></a></li>
+</ul></div>
 

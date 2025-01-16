@@ -1,7 +1,7 @@
 ---
 title: How to Fix Error Code 0Xc0000001 on Windows 10 or 11
-date: 2025-01-08T21:32:56.810Z
-updated: 2025-01-10T20:44:25.630Z
+date: 2025-01-10T12:53:06.185Z
+updated: 2025-01-16T00:59:07.538Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/288c4a8a533b0f1094aca3a28c5db0188ea8b5a3c
 
 ![advanced options windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/advanced-options-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Startup Repair tool will sift through your PC for possible issues with your Windows 10 or 11 and then start fixing them one by one. After the scan and repair are complete, give your PC a quick reboot and see if this fixes the error code 0xc0000001 on your Windows computer.
 
 ## 2\. Use the Command Prompt
@@ -54,10 +58,6 @@ Bootrec /fixmbrBootrec /fixbootBootrec /scanosBootrec /rebuildbcd
 
 ![windows command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The above commands are basically aimed at fixing or rebuilding the Boot Configuration Data (BCD) of your Windows. Since the error code 0xc0000001 is a booting error, it therefore makes sense to give this method a shot.
 
  Once you’re done with all the commands, reboot your PC and see if you still face the error code 0xc0000001 on your Windows PC.
@@ -70,6 +70,10 @@ Bootrec /fixmbrBootrec /fixbootBootrec /scanosBootrec /rebuildbcd
 
  So, unplug the devices, save your keyboard and mouse, and see if you still face the Windows error code 0xc0000001\.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Boot Into Safe Mode
 
  A popular method to fix all kinds of BSOD errors is to boot into the Safe mode. Now, the Safe mode itself won’t fix the problem. Instead, you will have to go through several more steps after you are inside it.
@@ -78,15 +82,15 @@ Bootrec /fixmbrBootrec /fixbootBootrec /scanosBootrec /rebuildbcd
 
  If you see that disabling a specific program has fixed the error code 0xc0000001 problem, it’s highly probable the said app was behind it. In this case, uninstall the software while in Safe mode and reboot your PC normally—it will boot up quickly.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Perform a Windows System Restore
 
  System Restore is yet another handy tool in your Windows computer. In brief, it works by bringing your PC back to a point in time when everything worked fine on your Windows.
 
 [Using System Restore](https://www.makeuseof.com/use-system-restore-windows/) is reasonably straightforward, and we have covered it before. Just follow the steps in the guide and see if this fixes the error code 0xc0000001 on Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Perform a Malware Scan
 
@@ -95,7 +99,7 @@ Bootrec /fixmbrBootrec /fixbootBootrec /scanosBootrec /rebuildbcd
  A [quick malware scan by Microsoft Defender](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) is a surefire way to rule out this possibility for good.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Perform a CHDSK Scan
@@ -105,7 +109,7 @@ Bootrec /fixmbrBootrec /fixbootBootrec /scanosBootrec /rebuildbcd
  Indeed, the issues, if they have been left unchecked for too long, can be the cause of Windows 10 or 11 error code 0xc0000001 as well. While it’s no guarantee that [running the CHKDSK scan](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/) fill will fix the problem, it’s very well worth a try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Factory Reset Your Windows
@@ -113,10 +117,6 @@ Bootrec /fixmbrBootrec /fixbootBootrec /scanosBootrec /rebuildbcd
  If all fails, you will always have the Factory reset of your Windows as the last resort. Of course, it goes without saying that, like all resorts, you should only turn to it if your fixes have yet to work.
 
  There are [many ways to factory reset your Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/). So pick whatever method suits you best and then start fresh from ground zero.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixing the Error Code 0xc0000001 on Windows Computer
 
@@ -134,22 +134,17 @@ Bootrec /fixmbrBootrec /fixbootBootrec /scanosBootrec /rebuildbcd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-the-ultimate-video-booster-guide-uncovering-the-top-20-tips/"><u>[New] 2024 Approved The Ultimate Video Booster Guide - Uncovering the Top 20 Tips</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-flexicam-soft-cam-covering-pad/"><u>[Updated] FlexiCam Soft Cam Covering Pad</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-showdown-revisited-gpt-plus-or-perplexity/"><u>AI Showdown Revisited: GPT Plus or Perplexity?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/boosting-your-stream-quality-with-zoom-and-fb-live/"><u>Boosting Your Stream Quality with ZOOM & FB Live</u></a></li>
-<li><a href="https://some-tips.techidaily.com/connecting-from-afar-mastering-the-art-of-messaging-loved-ones-via-your-apple-watch-insights/"><u>Connecting From Afar: Mastering the Art of Messaging Loved Ones via Your Apple Watch Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-leading-artificnificial-intelligence-apps-you-should-install-now-iphoneandroid/"><u>Discover the Leading Artificnificial Intelligence Apps You Should Install Now! (IPhone/Android)</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-remedy-missing-router-control-center/"><u>How to Remedy Missing Router Control Center</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-windows-11-sign-in-shift-move-from-pin-to-password-effortlessly/"><u>Mastering Windows 11 Sign-In Shift: Move From PIN to Password Effortlessly</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-proven-choices-selecting-the-top-6-costless-cloud-based-sound-editors-for-2024/"><u>New Proven Choices Selecting the Top 6 Costless Cloud-Based Sound Editors for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/nine-steps-to-overcome-0x8004def5-onedrive-error-in-win11/"><u>Nine Steps to Overcome 0X8004Def5 Onedrive Error in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-windows-crash-zeroing-in-on-error-0x800f0831/"><u>Overcoming Windows Crash: Zeroing In on Error 0X800F0831</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/pinnacle-of-presence-a-strategic-approach-for-live-video-graphics-for-2024/"><u>Pinnacle of Presence A Strategic Approach for Live Video Graphics for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-nvidia-control-panel-save-issue/"><u>Resolving Nvidia Control Panel Save Issue</u></a></li>
-<li><a href="https://windows11.techidaily.com/shielding-windows-key-tactics-for-uac-protection/"><u>Shielding Windows: Key Tactics for UAC Protection</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-mastering-the-art-of-wiping-your-dell-computer/"><u>Step-by-Step Guide: Mastering the Art of Wiping Your Dell Computer</u></a></li>
-<li><a href="https://windows11.techidaily.com/uncover-the-file-location-for-your-desktop-images/"><u>Uncover the File Location for Your Desktop Images</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-edges-ongoing-role-in-win11-systems/"><u>Understanding Edge's Ongoing Role in Win11 Systems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-celestial-wonders-at-your-fingertips-hd-sky-website-guide/"><u>[New] Celestial Wonders at Your Fingertips - HD Sky Website Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/op-6-ios-apps-turn-youtube-videos-into-mp3-files/"><u>[New] Top 6 iOS Apps Turn YouTube Videos Into MP3 Files</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-tackling-teal-too-much-clean-up-that-green-screen-on-mac/"><u>[Updated] 2024 Approved Tackling Teal Too Much? Clean up That Green Screen on Mac</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-strategies-for-addressing-and-correcting-missing-module-mistakes/"><u>Comprehensive Strategies for Addressing and Correcting Missing Module Mistakes</u></a></li>
+<li><a href="https://windows11.techidaily.com/deactivating-file-read-only-mode-in-windows/"><u>Deactivating File Read-Only Mode in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-steam-data-flow-stopping-frustrating-speed-drops/"><u>Enhance Steam Data Flow: Stopping Frustrating Speed Drops</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-vivo-x100-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Vivo X100 Location | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/restoring-rightful-representation-amidst-misguided-chatter/"><u>Restoring Rightful Representation Amidst Misguided Chatter</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-fix-printer-spooler-not-running-windows/"><u>Strategies to Fix Printer Spooler Not Running Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-to-reinstate-functional-utorrent-installer-after-failure-on-winos/"><u>Tips to Reinstate Functional uTorrent Installer After Failure on WinOS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unbeatable-offer-score-the-newest-2022-ipad-pro-at-a-whopping-700-off-for-labor-day-celebrations-techexaminer/"><u>Unbeatable Offer! Score the Newest 2022 iPad Pro at a Whopping $700 Off for Labor Day Celebrations | TechExaminer</u></a></li>
 </ul></div>
 

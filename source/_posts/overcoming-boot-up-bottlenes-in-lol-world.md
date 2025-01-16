@@ -1,7 +1,7 @@
 ---
 title: Overcoming Boot-Up Bottlenes in LOL World
-date: 2025-01-05T20:53:12.028Z
-updated: 2025-01-10T21:23:13.498Z
+date: 2025-01-09T03:27:44.381Z
+updated: 2025-01-15T19:21:46.365Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why Does League of Legends Refuse to Open on Windows Devices?
 
@@ -55,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 
  If the above fixes don't help, start applying the remaining fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Wait It Out
 
 ![Round silver-colored analog stopwatch on brown wooden panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/pexels-anton-makarenko-1078057.jpg)
@@ -69,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 
 ![router placed on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-router.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the device is connected, [check the stability of the internet connection](https://www.makeuseof.com/check-stability-internet-connection-windows/). If the connection appears to be unstable, [apply the appropriate fixes to stabilize it](https://www.makeuseof.com/tag/fix-slow-unstable-wi-fi-connection/).
 
 ## 4\. Disable Cheat Software
@@ -76,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
  League of Legends does not tolerate the use of cheats and hacks to gain an advantage in the game. If you modify game files or use cheat software to hack into the game, League of Legends will not let you in. Due to this, the game may not turn on or get stuck on the loading screen.
 
  If you use any third-party cheat software, turn it off. Also, revert any unauthorized changes you might have made in the game files to gain an unfair advantage.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Relaunch the Game After Closing the Riot and LoL Processes
 
@@ -87,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 ![Ending the Riot Process in Windows Task Manager App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/2-ending-the-riot-process-in-windows-task-manager-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Free Up System Resources
@@ -97,10 +105,6 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
  To see that, open Task Manager and check the CPU, GPU, and RAM usage. If the usage percentage for these resources touches 100% periodically, your hardware is under severe strain. In other words, the game doesn't have access to the required resources to function properly.
 
  If that is the case, you will need to close graphics-intensive tasks simultaneously running alongside the game. By closing them, your system will have more resources available that League of Legends can use to function smoothly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Delete the Config and Logs Folders
 
@@ -115,6 +119,10 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 4. To delete these folders, simply right-click on them and select **Delete**.  
 ![Deleting the Config Folder of League of Legends in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/3-deleting-the-config-folder-of-league-of-legends-in-windows-file-explorer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Disable Any Active In-Game Overlays
 
  Do you use any in-game overlays, especially the Discord overlay, when playing League of Legends? If so, you should disable them before starting the game to ensure the game doesn't get stuck on the loading screen because of an overlay. To turn off the Discord overlay, follow the below steps:
@@ -123,10 +131,6 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 2. Navigate to the **Game Overlay** tab on the left.
 3. Turn off the toggle next to **Enable in-game overlay**.  
 ![Disabling the Discord Overlay](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Discord-Overlay.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you don't want to turn off the overlay for all games but only League of Legends, follow the below steps:
 
@@ -138,7 +142,7 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
  If you use any other overlay, you can also turn it off in a similar manner within the settings of the app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Whitelist League of Legends From the Windows Defender Firewall
@@ -146,10 +150,6 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
  If the game opens for a few seconds and then closes down, the Windows Defender Firewall might be blocking it. To rule out this possibility, you should whitelist League of Legends from Windows Defender Firewall. If you've never done that before, check out our guide on [how to allow apps through Windows Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/).
 
  Similarly, if you're using a third-party antivirus that you think may interfere with the game process, either disable it or whitelist the game files through it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10\. Reinstall League of Legends
 
@@ -173,22 +173,16 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-visual-excellence-criteria-for-top-10-smartphones-with-high-resolution-cameras-for-2024/"><u>[New] Visual Excellence Criteria for Top 10 Smartphones with High-Resolution Cameras for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-gear-up-yourself-selecting-prime-lenses-for-successful-vlogging/"><u>[Updated] 2024 Approved Gear Up Yourself Selecting Prime Lenses for Successful Vlogging</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-making-magic-transforming-ordinary-posts-into-social-sensations/"><u>[Updated] In 2024, Making Magic Transforming Ordinary Posts Into Social Sensations</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-tailored-content-personalizing-facebook-ad-videos-effectively/"><u>[Updated] Tailored Content Personalizing Facebook Ad Videos Effectively</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/anker-powercoreplus-26800-battery-pack-bundle-review-sleek/"><u>Anker PowerCore+ 26800 Battery Pack Bundle Review: Sleek</u></a></li>
-<li><a href="https://windows11.techidaily.com/arm-powered-windows-computers-get-official-chrome-support/"><u>ARM-Powered Windows Computers Get Official Chrome Support</u></a></li>
-<li><a href="https://windows11.techidaily.com/best-budget-friendly-options-for-adobe-photoshop-and-illustrator-on-windows-systems/"><u>Best Budget-Friendly Options for Adobe Photoshop and Illustrator on Windows Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/comprehensive-analysis-and-ratings-keychron-kc3-chroma-wireless-mechanical-keyboard-premium-quality-at-excellent-value/"><u>Comprehensive Analysis & Ratings: Keychron KC3 Chroma Wireless Mechanical Keyboard – Premium Quality at Excellent Value!</u></a></li>
-<li><a href="https://windows11.techidaily.com/discover-the-ultimate-free-utilities-for-tracking-and-managing-disk-usage-on-windows-systems/"><u>Discover the Ultimate Free Utilities for Tracking and Managing Disk Usage on Windows Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/discover-the-ultimate-list-of-key-apps-your-windows-computer-needs-explained/"><u>Discover the Ultimate List of Key Apps Your Windows Computer Needs, Explained!</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevate-your-connectivity-experience-swap-out-microsoft-phone-link-with-our-exceptional-app/"><u>Elevate Your Connectivity Experience - Swap Out Microsoft Phone Link with Our Exceptional App!</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhancing-gameplay-experience-by-managing-keyboard-shortcuts-in-windows-and-preventing-altplustabsticky-key-issues/"><u>Enhancing Gameplay Experience by Managing Keyboard Shortcuts in Windows and Preventing Alt+Tab/Sticky Key Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-guide-to-updating-username-on-windows-11/"><u>Essential Guide to Updating Username on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/exploring-the-new-era-microsofts-wi-fi-7-experiments-with-windows-11-systems/"><u>Exploring the New Era: Microsoft's Wi-Fi 7 Experiments with Windows 11 Systems</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-how-to-join-and-reap-the-rewards-of-social-media-success-stories/"><u>In 2024, How to Join & Reap the Rewards of Social Media Success Stories</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/iphone-gaming-showdown-which-model-tops-the-list/"><u>IPhone Gaming Showdown: Which Model Tops the List?</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/utionizing-channel-presence-the-secret-of-higher-subscriber-numbers/"><u>Revolutionizing Channel Presence The Secret of Higher Subscriber Numbers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-practices-in-choosing-tiktok-wallpapers/"><u>2024 Approved Best Practices in Choosing TikTok Wallpapers</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/achieve-your-health-goals-the-ultimate-review-of-samsung-galaxy-watch-active-for-wellness-tracking/"><u>Achieve Your Health Goals: The Ultimate Review of Samsung Galaxy Watch Active for Wellness Tracking</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-how-windows-sustains-ongoing-optimization/"><u>Deciphering How Windows Sustains Ongoing Optimization</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-for-rockalldlldll-not-found-on-windows-devices/"><u>Fix for 'Rockalldll.dll' Not Found on Windows Devices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-funny-faces-for-iphone-users/"><u>In 2024, Funny Faces for iPhone Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-your-computers-windows-key-settings/"><u>Mastering Your Computer’s Windows Key Settings</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-combine-multiple-avi-files-into-one-top-10-free-avi-merger-tools/"><u>New Combine Multiple AVI Files Into One Top 10 Free AVI Merger Tools</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1726028296641-pcyoutube/"><u>PCで無料のYouTubeショート動画編集ツール: 使いやすさと機能満載</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-counteract-d3d11-hardware-failures-in-w11w10/"><u>Strategies to Counteract D3D11 Hardware Failures in W11/W10</u></a></li>
+<li><a href="https://windows11.techidaily.com/tech-enthusiasts-rejoice-black-friday-offer-for-lifetime-612-windows-11-savings/"><u>Tech Enthusiasts Rejoice - Black Friday Offer for Lifetime $6.12 Windows 11 Savings</u></a></li>
 </ul></div>
 

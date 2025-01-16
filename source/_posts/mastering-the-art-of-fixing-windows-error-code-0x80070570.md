@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Fixing Windows Error Code 0X80070570
-date: 2025-01-05T22:34:53.073Z
-updated: 2025-01-10T23:38:43.237Z
+date: 2025-01-13T05:49:40.810Z
+updated: 2025-01-16T12:07:33.867Z
 tags:
   - windows10
   - windows11
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
 ![The SFC command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sfc-scannow-command2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Utilize the Check Disk Tool
@@ -45,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
 
 `chkdsk /r E:`
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Try Moving Files to a Different Location
 
  If error 0x80070570 when you’re trying to transfer a file, try moving (or copying) the file into a different folder location on the target drive. You can do that by right-clicking an affected file and selecting either **Cut** or **Copy**. Then right-click inside a different folder location and select **Paste** to see if the error occurs.
@@ -55,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
 
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/real-time-protection-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you don’t have third-party security software, turn off Windows Security’s real-time antivirus shield, as covered in our article about [disabling Microsoft Defender](https://www.makeuseof.com/permanently-disable-microsoft-defender-windows-11/). .
 
  Users with third-party antivirus utilities will need to turn off their antivirus shields via the apps’ system tray context menus. Right-click the antivirus app’s icon in the system tray and select a disable or turn off shield protection setting.
@@ -62,11 +70,7 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Perform a Startup Repair
@@ -82,7 +86,7 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
 5. Select **Continue** to initiate the repair.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Format an External Drive
@@ -92,10 +96,6 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
 ![The format drive utility](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-format-tool.jpg)
 
  You can format an external drive with the Windows Disk Management utility or in File Explorer. Connect the drive to your PC, and then follow the steps in this guide on [how to format a USB drive](https://www.makeuseof.com/tag/format-usb-drive/) to do this within File Explorer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Perform the Required File Operations Again on Windows
 
@@ -113,20 +113,24 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-twitters-guide-posting-tiktok-videos/"><u>[New] 2024 Approved Twitter's Guide Posting TikTok Videos</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ioneering-youtube-visibility-through-strategic-thumbnails-for-2024/"><u>[New] Pioneering YouTube Visibility Through Strategic Thumbnails for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-unraveling-the-enigma-creating-hidden-snapstories/"><u>[New] Unraveling the Enigma Creating Hidden Snapstories</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/effective-approaches-to-downloading-hectic-tiktok-archives/"><u>Effective Approaches to Downloading Hectic TikTok Archives</u></a></li>
-<li><a href="https://windows11.techidaily.com/explore-extreme-device-integration-the-power-of-galaxys-dex-app/"><u>Explore Extreme Device Integration: The Power of Galaxy's DeX App</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-turn-off-windows-surveillance-features/"><u>How To Turn Off Windows Surveillance Features</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-tecno-pova-6-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-vivo-s17e-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Vivo S17e Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-tecno-pop-7-pro-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Tecno Pop 7 Pro to iPad | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/organizing-ideas-visual-note-taking-using-obsidian/"><u>Organizing Ideas: Visual Note-Taking Using Obsidian</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-non-responsive-windows-netflix-application/"><u>Resolving Non-Responsive Windows Netflix Application</u></a></li>
-<li><a href="https://windows11.techidaily.com/understated-applications-the-real-throttlers-of-pc-performance/"><u>Understated Applications: The Real Throttlers of PC Performance</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-the-best-top-7-no-cost-password-tools-for-win-users/"><u>Unveiling the Best: Top 7 No-Cost Password Tools for Win Users</u></a></li>
-<li><a href="https://win-trending.techidaily.com/1728465936297-windows-10/"><u>Windows 10 で簡単なクリーンアップ - 更新ファイルを効果的に管理</u></a></li>
-<li><a href="https://windows11.techidaily.com/zip-file-chameleon-techniques-for-windows-images/"><u>ZIP File Chameleon Techniques for Windows Images</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-leading-spots-for-advertising-on-youtube-videos/"><u>[New] In 2024, Leading Spots for Advertising on YouTube Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-optimizing-your-creative-process-windows-movie-maker-on-windows-8-unveiled/"><u>[New] Optimizing Your Creative Process Windows Movie Maker on Windows 8 Unveiled</u></a></li>
+<li><a href="https://windows11.techidaily.com/altering-user-folder-names-on-windows-11/"><u>Altering User Folder Names on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-performance-and-productivity-in-windows-1011/"><u>Boosting Performance & Productivity in Windows 10/11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-techniques-for-deleting-items-using-the-windows-11-command-line/"><u>Effective Techniques for Deleting Items Using the Windows 11 Command Line</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-monochrome-issues-with-windows-store/"><u>Fixing Monochrome Issues with Windows Store</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/high-quality-streaming-top-5-recorder-devices-reviewed-for-2024/"><u>High-Quality Streaming Top 5 Recorder Devices Reviewed for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-tecno-spark-go-2024-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Tecno Spark Go (2024)</u></a></li>
+<li><a href="https://windows11.techidaily.com/prevent-discord-from-checking-for-updates-on-startup/"><u>Prevent Discord From Checking for Updates on Startup</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-setup-guide-for-launching-windows-media-player/"><u>Quick Setup Guide for Launching Windows Media Player</u></a></li>
+<li><a href="https://windows11.techidaily.com/reconnecting-bluetooth-on-windows-audio-only-fix-guide/"><u>Reconnecting Bluetooth on Windows: Audio Only Fix Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-diagnostics-enhancing-windows-11-troubleshooters/"><u>Reviving Diagnostics: Enhancing Windows 11 Troubleshooters</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-making-excel-viewable-in-notepad/"><u>Strategies: Making Excel Viewable in Notepad</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-ultimate-guide-to-top-tier-360-pro-cams-for-2024/"><u>The Ultimate Guide to Top-Tier 360 Pro Cams for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-samsung-galaxy-s23-tactical-edition-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Samsung Galaxy S23 Tactical Edition Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-atandt-mobile-offers-in-may-2024-exclusive-selection-curated-by-zdnet/"><u>Top AT&T Mobile Offers in May 2024: Exclusive Selection Curated by ZDNet</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-wi-fi-signal-boosters/"><u>Top Rated Wi-Fi Signal Boosters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-apples-new-health-feature-is-encouraging-users-to-conquer-more-steps-daily-insights-revealed/"><u>Why Apple's New Health Feature Is Encouraging Users to Conquer More Steps Daily - Insights Revealed!</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-pause-auto-updates-no-more-prompts/"><u>Windows Pause Auto-Updates: No More Prompts!</u></a></li>
 </ul></div>
 

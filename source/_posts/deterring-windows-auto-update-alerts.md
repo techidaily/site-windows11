@@ -1,7 +1,7 @@
 ---
 title: Deterring Windows Auto-Update Alerts
-date: 2024-08-08T05:59:20.925Z
-updated: 2024-08-09T05:59:20.925Z
+date: 2025-01-09T08:37:54.862Z
+updated: 2025-01-16T12:04:03.858Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/54fd3e003b786647a6f1d7a89a0a9ff3e56e44f97
 
  However, you may sometimes encounter the same message prompting even after performing these actions. Read this guide to resolve this issue and stop getting such annoying notifications.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Restart the Computer From Settings
 
  If restarting your computer with the power button does not work, do it via the Settings Menu. This trick has worked for many users who encountered the same issue. Try it and see if that helps.
@@ -31,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/54fd3e003b786647a6f1d7a89a0a9ff3e56e44f97
 2. Click **Windows Update** in the left sidebar.
 3. Under Windows Update, you will find the **Restart now** option.
 4. Select this option to restart your computer and install the pending updates.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Install Pending Updates
 
@@ -44,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/54fd3e003b786647a6f1d7a89a0a9ff3e56e44f97
 
  This will search for available updates and install them if there are any. If you see no updates, continue to the next solution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Run the Windows Update Troubleshooter
 
  Windows operating system comes with troubleshooting tools specific to each problem. To solve update-related issues, use the Windows Update troubleshooter. This tool detects corrupted, or faulty files associated with updates and fixes them automatically.
@@ -55,12 +60,13 @@ thumbnail: https://thmb.techidaily.com/54fd3e003b786647a6f1d7a89a0a9ff3e56e44f97
 3. On the next page, click **Other trouble-shooters**.  
 ![Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/other-troubleshooters.jpg)
 4. Look for **Windows Update** and click **Run** next to it.  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![Run Windows Update Troubleshooter-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-windows-update-troubleshooter-1.jpg)
 
  Follow the instructions on the screen to let Windows Update Troubleshooter detect and fix problems. After running the troubleshooter, restart your computer and check if it solves the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Clear the Software Distribution Folder
 
@@ -77,11 +83,13 @@ net stop msiserver`
 5. After that, open File Explorer and navigate to this path:  
 `C:\Windows\SoftwareDistribution`
 6. In the SoftwareDistribution folder, select all the files and delete them permanently.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Clear SoftwareDistribution Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/clear-softwaredistribution-folder.jpg)
 7. When a permissions pop-up appears, select the checkbox and click **Continue**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. After you delete the Software Distribution folder, you must restart the services you stopped. To do so, go back to the Command Prompt window and run the following command:  
 `net start wuauserv  
 net start bits  
@@ -101,17 +109,16 @@ net start msiserver`
 1. Press **Win + R** on your keyboard to open the Run command window.
 2. Type **services.msc** in the dialog box and press Enter. This will open the Services console.
 3. Search for **Windows Update**, right-click on it, and select **Stop**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![Stop Windows Update Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/stop-windows-update-service.jpg)
 4. Now double-click on **Windows Update** to open the Properties window.
 5. On the **General** tab, click the **Startup type** drop-down and select **Disabled**.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Disable Windows Update Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disable-windows-update-service.jpg)
 6. Click **Apply** \> **OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Now close the window and restart your computer.
 
  Sometimes you may not see the Restart option in the Start menu. In that case, [run the command prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/). Now type **shutdown -s -t 0** in the command prompt and hit Enter. This will restart your computer immediately.
@@ -185,9 +192,6 @@ net start cryptsvc`
 3. Click **File** and select **Save as** from the menu list.
 4. In the dialog box, select **All Files** from the **Save as type** drop-down menu.
 5. Save the file as **ResetWindowsUpdate.bat** and close Notepad.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Reset Windows Update Components](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reset-windows-update-components.jpg)
 6. Now right-click on the .bat file and select **Run as administrator**.
 7. When the UAC window appears, select **Yes** to continue.
@@ -200,12 +204,33 @@ net start cryptsvc`
 
  However, you may sometimes encounter the same message prompting even after performing these actions. Read this guide to resolve this issue and stop getting such annoying notifications.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-unveiling-the-art-of-digital-broadcasting-in-real-time-for-2024/"><u>[New] Unveiling the Art of Digital Broadcasting in Real Time for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-best-6-modern-homes-for-minecraft-enthusiasts/"><u>[Updated] 2024 Approved Best 6 Modern Homes for Minecraft Enthusiasts</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-video-performance-mobile-and-desktop-strategies/"><u>[Updated] 2024 Approved Instagram Video Performance Mobile & Desktop Strategies</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-can-a-64gb-drive-manage-large-video-files/"><u>[Updated] Can a 64GB Drive Manage Large Video Files?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-restore-lost-watch-icon-on-facebook/"><u>[Updated] Restore Lost Watch Icon on Facebook</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/discover-the-elite-body-cams-dominating-2amoy-market-this-year/"><u>Discover the Elite Body Cams Dominating 2Amoy Market This Year</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/discover-top-proxmox-substitutes-strengthen-your-vms-safety-and-reliability/"><u>Discover Top Proxmox Substitutes: Strengthen Your VMs' Safety and Reliability</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-software-for-your-hp-deskjet-ink-advantage-3700/"><u>Get the Latest Software for Your HP Deskjet Ink Advantage 3700</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-install-microsoft-works-on-windows-10-or-11/"><u>How to Install Microsoft Works on Windows 10 or 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-leverage-windows-11-for-reliable-testing-sessions/"><u>How to Leverage Windows 11 for Reliable Testing Sessions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Lava Yuva 3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/prolonging-windows-space-without-deletion-risks/"><u>Prolonging Windows Space, Without Deletion Risks</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinstating-microsoft-store-apps-windows-11s-guide-to-fixes/"><u>Reinstating Microsoft Store Apps: Windows 11'S Guide to Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/reversing-load-error-in-windows-store-application/"><u>Reversing 'Load Error' In Windows Store Application</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-turning-onoff-windows-key-functionality/"><u>Tips for Turning On/Off Windows Key Functionality</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-honor-x7b-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Honor X7b Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/transforming-cr2-images-into-jpgs-on-windows-pc/"><u>Transforming CR2 Images Into JPGs on Windows PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-winget-woes-solutions-for-windows-11-users/"><u>Unraveling Winget Woes: Solutions for Windows 11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/wintoys-decoded-an-introduction-to-a-pivotal-windows-app/"><u>WinToys Decoded: An Introduction to a Pivotal Windows App</u></a></li>
+</ul></div>
 

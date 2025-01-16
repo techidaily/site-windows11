@@ -1,7 +1,7 @@
 ---
 title: Counteracting the Issue of Unsaved NVidia Settings in Windows 11
-date: 2024-08-08T05:59:36.250Z
-updated: 2024-08-09T05:59:36.250Z
+date: 2025-01-11T13:39:16.786Z
+updated: 2025-01-15T17:53:46.635Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/de2a2439a12942f0b9808810580359ed4223c732c
 
  This can be exasperating, especially if you've spent hours setting your preferences. As such, if the NVIDIA Control Panel is not saving settings in Windows 11, try the below solutions to troubleshoot the problem for good.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ## 1\. Temporarily Disable Your Security Program
 
  Security applications are designed to safeguard your system from malware and unauthorized access. However, they can sometimes interfere with trusted applications, like the NVIDIA Control Panel, and prevent them from making any changes to your system.
@@ -37,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/de2a2439a12942f0b9808810580359ed4223c732c
 
  Although Windows does automatically update all system drivers, there may be times when you feel that the graphics driver is outdated or not working correctly. In such situations, you should manually [download the NVIDIA driver on Windows](https://www.makeuseof.com/how-update-nvidia-graphics-card-drivers-windows/) .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Reinstall the NVIDIA Graphics Driver
 
  Is the NVIDIA Control Panel still not saving settings? If yes, there's probably corruption in the driver causing the issue. You'll have to reinstall the NVIDIA graphics driver to fix that.
@@ -50,26 +44,29 @@ thumbnail: https://thmb.techidaily.com/de2a2439a12942f0b9808810580359ed4223c732c
 2. Expand the**Display adapters** node by double-clicking on it.
 3. Right-click the NVIDIA graphics card and choose**Uninstall device** from the context menu.
 4. Click**Uninstall** again from the confirmation prompt that crops up.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![Uninstall option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/uninstall-option-2.jpg)
 5. Now, wait until the Device Manager uninstalls the NVIDIA graphics driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After that, restart your computer and head toward the [NVIDIA driver download website](https://www.nvidia.com/download/index.aspx) . Enter your driver details and search for and download the latest update.
 
 ![NVIDIA Driver download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/nvidia-driver-download.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once the download is complete, launch the installer and follow the on-screen instructions to complete the installation process.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![NVIDIA Installer to update NVIDIA graphics driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/nvidia-installer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Customize NVIDIA Corporation Folder Settings
 
  The NVIDIA Corporation folder contains all the important files and settings related to the NVIDIA graphics card driver. If you do not have permission to access or make changes to this folder, the NVIDIA Control Panel will fail to save settings.
@@ -81,26 +78,29 @@ thumbnail: https://thmb.techidaily.com/de2a2439a12942f0b9808810580359ed4223c732c
 3. Switch to the**Security** tab and click the**Edit** button.  
 ![Edit option in the NVIDIA Corporation Folder Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/edit-option.jpg)
 4. Select your username from the**Group or user names** section and then check the**Full Control** checkbox.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Full control checkbox in the folder properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/full-control-checkbox.jpg)
 5. Click**Apply** \>**OK** to save the changes.
 
  That's it! Restart your system, and you'll see that you can easily save settings in the NVIDIA Control Panel.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Customize Your NVIDIA Experience With the Control Panel Once More
 
  The NVIDIA Control Panel allows you to customize its settings per your preference. However, due to corrupt drivers, security applications, and lack of permissions, the NVIDIA Control Panel will not be able to save settings in Windows 11\. Fortunately, it's a very common issue and can easily be solved using the above solutions.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -109,6 +109,23 @@ thumbnail: https://thmb.techidaily.com/de2a2439a12942f0b9808810580359ed4223c732c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-digital-download-king-comprerante-video-acquisition-guide/"><u>[New] 2024 Approved Digital Download King Comprerante Video Acquisition Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-instagram-pro-tips-effortless-video-upload-from-pcmac-for-2024/"><u>[New] Instagram Pro Tips Effortless Video Upload From PC/Mac for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-seamless-transitions-elevating-your-drone-footage/"><u>[New] Seamless Transitions Elevating Your Drone Footage</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-portables-to-televisions-embracing-playnites-fullscreen/"><u>From Portables to Televisions: Embracing Playnite's Fullscreen</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-the-adonit-nest-for-only-65-top-rated-usb-hub-upgrade-for-remote-workers-spotted/"><u>Get the Adonit Nest for Only $65! Top-Rated USB Hub Upgrade for Remote Workers Spotted</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-tecno-camon-20-pro-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Tecno Camon 20 Pro 5G Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-asus-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Asus Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://win-community.techidaily.com/lost-microsoft-excel-documents-from-your-desktop-explore-5-essential-recovery-tactics/"><u>Lost Microsoft Excel Documents From Your Desktop? Explore 5 Essential Recovery Tactics!</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/profi-tipps-zur-neuinstallation-von-lenovo-pc-setze-deinen-computer-zuruck-auf-die-fabrik-einstellungen-fur-eine-optimale-leistung/"><u>Profi-Tipps Zur Neuinstallation Von Lenovo PC: Setze Deinen Computer Zurück Auf Die Fabrik-Einstellungen Für Eine Optimale Leistung</u></a></li>
+<li><a href="https://windows11.techidaily.com/recover-missing-audio-configuration-post-windows-updates/"><u>Recover Missing Audio Configuration Post-Windows Updates</u></a></li>
+<li><a href="https://windows11.techidaily.com/snipview-missteps-corrective-strategies-within-reach/"><u>SnipView Missteps? Corrective Strategies Within Reach</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-rectify-windows-activation-error-0x803f700f/"><u>Steps to Rectify Windows Activation Error 0X803f700f</u></a></li>
+<li><a href="https://windows11.techidaily.com/strengthening-net-framework-in-windows-max-156/"><u>Strengthening .NET Framework in Windows (Max 156)</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-for-severing-windows-11-connections/"><u>Techniques for Severing Windows 11 Connections</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-your-computers-control-center/"><u>Unlocking Your Computer's Control Center</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-secrets-optimizing-rdc-in-w11/"><u>Unveiling Secrets: Optimizing RDC in W11</u></a></li>
+</ul></div>
 

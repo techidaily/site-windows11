@@ -1,7 +1,7 @@
 ---
 title: "Decoding DISM: Your Ultimate Toolkit for Fixing Win11"
-date: 2024-08-15T15:11:29.714Z
-updated: 2024-08-16T15:11:29.714Z
+date: 2025-01-10T16:23:25.365Z
+updated: 2025-01-16T11:58:44.123Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/6509a41b9c53db282ea10c9960943cd0bc0006742
  Windows 11, like its predecessor, features the built-in Deployment Image Servicing and Management (DISM), a command-line utility to troubleshoot critical system errors. The DISM commands can help you fix Blue Screen of Death (BSOD) errors, a slow computer due to broken system files, and even repair the Windows Recovery Environment.
 
  In this article, we’ll show you how you can use the DISM and System File Checker utility to repair your damaged Windows 11 image and installation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Use the DISM Command in Windows 11
 
@@ -38,14 +42,21 @@ thumbnail: https://thmb.techidaily.com/6509a41b9c53db282ea10c9960943cd0bc0006742
 2. Right-click on **Command Prompt** and select **Run as administrator**.  
 ![DISM scan health powershell command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/dism-clean-health-powershell-command.jpg)
 3. In the Command Prompt window, type the following command and press **Enter**:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `DISM /Online /Cleanup-Image /CheckHealth`
 4. In the above command, the **/Online** parameter specifies the scan must be performed on the currently running operating system. The **/Cleanup-Image** parameter specifies the operation is related to Windows image repair.
 5. When executed, the command will show the report as “**The component stored has been corrupted**” or “**No component store corrupted detected.**” depending on whether a component store corruption is found.  
 ![DISM powershell CheckHealth command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/dism-powershell-checkhealth-command.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. If you use PowerShell, use the following command instead:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `Repair-WindowsImage -Online -CheckHealth`
 7. The PowerShell command will report your image status to indicate whether it is **Healthy**, **Repairable** or **Non-repairable**. A healthy image doesn’t need any further action, and you can proceed to run the SFC tool.
 
@@ -54,9 +65,6 @@ thumbnail: https://thmb.techidaily.com/6509a41b9c53db282ea10c9960943cd0bc0006742
 ## Perform an Advanced System Image Scan with the ScanHealth Command
 
 ![DISM scan health command PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/dism-scan-health-command-powershell.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 
  You can use the DISM ScanHealth command to perform an advanced scan of your Windows 11 system image. This will check your system for component store corruption and save the report to a log file.
 
@@ -69,8 +77,9 @@ thumbnail: https://thmb.techidaily.com/6509a41b9c53db282ea10c9960943cd0bc0006742
 4. If an issue is detected, run the DISM RestoreHealth command to repair your Windows image.
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Run the DISM RestoreHealth Command to Repair the Windows System Image
 
 ![DISM scan health restore health command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dism-scan-health-restore-health-command-prompt.jpg)
@@ -84,9 +93,6 @@ thumbnail: https://thmb.techidaily.com/6509a41b9c53db282ea10c9960943cd0bc0006742
 `DISM.exe /Online /Cleanup-image /RestoreHealth`
 3. The DISM utility will perform a scan and start repairing the Windows system image. This process may take some time to complete. So, wait till the progress bar reaches 100%.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Repair System Image Using an Alternate Repair Source
 
  The DISM RestoreHealth command may not work if your computer is not connected to the internet or if the Windows Update component is corrupt. In this situation, you can use a Windows installation media or a mounted Windows ISO as a local source to repair the system image.
@@ -98,14 +104,6 @@ thumbnail: https://thmb.techidaily.com/6509a41b9c53db282ea10c9960943cd0bc0006742
 1. Press **Win + E** to open **File Explorer**.
 2. Open your installation media drive, open the **Sources** folder and make sure the **install.wim** file exists. Also, note the driver letter assigned to your installation media. In this instance, our installation media is assigned the drive letter **(I:)**.  
 ![install wim file in Windows 11 installation media](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/install-wim-file-in-windows-11-installation-media.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 3. Next, type the following command to run the **DISM RestoreHealth** command with the installation media as a repair source:  
 `DISM /Online /Cleanup-Image /RestoreHealth /Source:I\Sources\install.wim /LimitAccess`
 4. In the above command, replace the placeholder **:I** with your installation media drive letter. Also, the **LimitAccess** command is an optional parameter that restricts DISM access to the specified source and prevents it from using **Windows Update** as a repair source.
@@ -114,6 +112,10 @@ thumbnail: https://thmb.techidaily.com/6509a41b9c53db282ea10c9960943cd0bc0006742
 ## Repair Your Windows Installation Using the System File Checker (SFC) Utility
 
 ![run system file checker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/run-system-file-checker.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you have successfully repaired your Windows 11 system image using the DISM RestoreHealth command, run the System File Checker (SFC) utility. It will scan your Windows installation for system file corruption and fix them automatically.
 
@@ -129,16 +131,11 @@ thumbnail: https://thmb.techidaily.com/6509a41b9c53db282ea10c9960943cd0bc0006742
 
  After the process is complete, restart your computer and check for any improvements. If the issue persists, run the **sfc /scannow** command again to see if that helps fix the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Repair and Recover Your Windows System Image Using DISM and SFC
 
  DISM makes it easy to repair a corrupt Windows image. It works both online using Windows Update and offline with a WIM file. The steps to use DISM may look complicated at first glance; however, it only takes two commands and an elevated Command Prompt to repair your Windows 11 image and installation.
 
  In this article, we’ll show you how you can use the DISM and System File Checker utility to repair your damaged Windows 11 image and installation.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -146,4 +143,25 @@ thumbnail: https://thmb.techidaily.com/6509a41b9c53db282ea10c9960943cd0bc0006742
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-live-streaming-war-confronting-the-titans-wirecast-and-obs/"><u>[New] 2024 Approved Live Streaming War Confronting the Titans, Wirecast & OBS</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/o-live-in-style-a-detailed-guide-to-youtubes-full-sphere-videos/"><u>[New] Go Live in Style A Detailed Guide to YouTube's Full-Sphere Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-navigating-through-linkedin-account-termination-procedures-for-2024/"><u>[Updated] Navigating Through LinkedIn Account Termination Procedures for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/access-display-settings-right-click-on-the-desktop-and-select-display-settings/"><u>Access Display Settings: Right-Click on the Desktop and Select Display Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-wsl-distributor-error-0x80370102-on-windows-systems/"><u>Fixing WSL Distributor Error 0X80370102 on Windows Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-hp-stream-driver-software-fast-and-simple/"><u>Get HP Stream Driver Software Fast and Simple</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-successfully-retry-failed-application-downloads-on-marketplace/"><u>How To Successfully Retry Failed Application Downloads on Marketplace</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-non-rooting-methods-to-record-android-sounds/"><u>In 2024, Non-Rooting Methods to Record Android Sounds</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-handbook-of-xbox-one-zoom-communication/"><u>In 2024, The Complete Handbook of Xbox One Zoom Communication</u></a></li>
+<li><a href="https://windows11.techidaily.com/lock-screen-after-how-long-on-windows/"><u>Lock Screen After How Long on Windows?</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-to-confirm-disk-type/"><u>Navigating Windows to Confirm Disk Type</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-stubbornness-in-windows-ui-elements/"><u>Overcoming Stubbornness in Windows UI Elements</u></a></li>
+<li><a href="https://windows11.techidaily.com/reimagined-user-support-in-new-windows-release/"><u>Reimagined User Support in New Windows Release</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-resolve-unavailable-files-notification-in-office-email-app/"><u>Steps to Resolve 'Unavailable' Files Notification in Office Email App</u></a></li>
+<li><a href="https://windows11.techidaily.com/stopping-spontaneous-hotkey-engagements-in-windows/"><u>Stopping Spontaneous Hotkey Engagements in Windows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/streamline-your-media-experience-add-subtitles-in-windows-media-player/"><u>Streamline Your Media Experience Add Subtitles in Windows Media Player</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-lava-yuva-3-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Lava Yuva 3 Pro Pattern Lock Screen Everything You Need to Know</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Discover Ways to Free Disk Space Without Deleting Windows 11 Files (Max 156 Chars)
-date: 2024-08-08T05:59:16.632Z
-updated: 2024-08-09T05:59:16.632Z
+date: 2025-01-11T00:23:28.416Z
+updated: 2025-01-16T08:55:13.143Z
 tags:
   - windows10
   - windows11
@@ -21,15 +21,13 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
  This is how you can free up C: drive space on a Windows 11 PC without erasing files.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Use NTFS Drive Compression
 
  Windows 11 includes a compression option for NTFS drives. Selecting that setting applies compression to user files on a drive by removing redundant data. You can select to apply NTFS compression for your whole C: drive or a single folder. Our guide to [enabling NTFS compression on Windows 11](https://www.makeuseof.com/enable-disable-ntfs-file-compression-windows-11/) tells you how to select the **Compress contents to save disk space** option.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Compress this drive to save disk space checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/compress-this-drive-to-save-space-option.jpg)
 
  Exactly how much drive space NTFS compression will free up can be variable. If you have many uncompressed user document files on your drive, then NTFS will likely free up at least a few gigabytes of storage space. However, this compression won’t free up so much space if there aren’t many user files on your PC’s drive. The only way to find out is to try it on at least one large folder.
@@ -42,23 +40,19 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 2. Next, enter **create a restore point** inside your search tool’s text box.
 3. Click **Create a restore point** to open a System Properties window.
 4. Press the **Configure** button.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Configure button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-configure-button.jpg)
 5. Click the **Disable system protection** option.  
+
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![The Disable system protection radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-system-protection-option.jpg)
 6. Select **Apply** to save the system protection settings.
 7. Click the System Protection window’s **OK** option.
 
  If you prefer to keep **System Restore** on, you can still at least reduce that utility’s disk usage. To do so, drag the **Max Usage** bar’s slider left on the System Protection window.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Convert Your Saved Video Files Into the MP4 Format
 
  Video files can take up lots of hard drive space, especially for longer clips. If you have lots of AVI and MOV files saved, converting them to the MP4 format will free up some storage space on your hard drive. MP4 is a compressed video format that preserves a good degree of picture quality.
@@ -77,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 
  Also, check out some of the options for converting to MP4 within the Online-Convert video conversion tool. You can select from a wide variety of video presets by clicking the **Choose a preset** drop-down menu. Further down, there’s a **Set file size** option in which you can input a target size value for the converted video.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Convert Your Saved Image Files Into the JPG Format
 
  JPG is like the image equivalent of the MP4 format with its lossy compression. Image files with the JPG format are typically smaller than the PNG of BMP alternatives. If your C: drive includes many PNG or BMP images, converting them to JPGs will probably also free up a significant amount of storage space.
@@ -84,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
  You can convert image files to JPG with the [Online image converter to JPEG app](https://image.online-convert.com/convert-to-jpg) on the Online-Convert site as instructed for the video files in the previous method. To maximize the compression, select the **Smallest File** option. Alternatively, drag the **Quality** bar’s slider there left to increase compression.
 
 ![The image format conversion web app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/image-format-conversion-tool.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Reduce the Recycle Bin’s Size
 
@@ -94,15 +96,9 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 1. Right-click Recycle Bin on the desktop and select **Properties** on the context menu that opens.
 2. Click the **Custom size** option.
 3. Input a lower megabyte figure in the **Maximum size** box (1,000 MBs equals one gigabyte).  
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Custom size radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-custom-size-option.jpg)
 4. Click **Apply** and **OK** in the Recycle Bin Properties window.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Create ZIP Archives for Storing Files
 
  ZIP is an archive format that compresses files included in it. ZIP archives are like compressed folders from which you can easily access their contents when needed. Archiving lots of user files lying around on your hard drive within ZIPs will free up drive space. Creating ZIP archives with many videos and images in them could free up lots of drive space.
@@ -112,8 +108,9 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 ![The Compress to ZIP file option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/compress-to-zip-file-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Save Files to a Cloud Storage Service
 
  Cloud storage enables you to save your user files with online storage providers. OneDrive, Dropbox, and Google Drive are the big three cloud storage providers that offer free storage ranging from two to 15 gigabytes. OneDrive is the cloud storage included with Windows 11\. However, Google Drive offers the most space with 15 gigabytes of free cloud storage.
@@ -123,13 +120,9 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 ![Google Drive cloud storage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/google-drive-storage.jpg)
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Utilize Third-Party Web Apps and Portable Programs
 
  Installing more software packages consumes the most space on your PC’s C: drive. You can save C: drive space by utilizing the many freely available web apps instead of installing desktop software.
@@ -137,6 +130,10 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
  The Google Docs, Slides, and Sheets web apps are decent productivity alternatives to Microsoft Word, PowerPoint, and Excel. Canva is a great online graphics design app. Plus, you can utilize many online image editors and file conversion web apps.
 
 ![The Google DOCs web app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/google-docs.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Utilizing portable apps is another good way to save drive space, because you don't need to install them. You can even run the portable apps from a USB stick instead of your PC’s local drive. To do so, download the files for portable app versions to your USB stick from their websites.
 
@@ -150,12 +147,33 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 
  This is how you can free up C: drive space on a Windows 11 PC without erasing files.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-secure-your-files-at-no-cost-the-best-free-1tbplus-cloud-storages-for-2024/"><u>[New] Secure Your Files at No Cost The Best Free 1TB+ Cloud Storages for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-from-sd-to-4k-superiority-a-look-inside-the-d500/"><u>[Updated] From SD to 4K Superiority A Look Inside the D500</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-warm-up-your-visuals-a-guide-to-top-cozy-winter-backgrounds-for-2024/"><u>[Updated] Warm Up Your Visuals A Guide to Top Cozy Winter Backgrounds for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-drone-enhancement-kit-10-indispnible-components/"><u>2024 Approved Drone Enhancement Kit - 10 Indispnible Components</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/decoding-the-dos-and-donts-in-posting-content-on-facebook/"><u>Decoding the Do’s and Don’ts in Posting Content on Facebook</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ng-into-youtubes-functionality-after-upload-for-2024/"><u>Delving Into YouTube's Functionality After Upload for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-windows-canary-a-guide-for-first-timers/"><u>Exploring Windows Canary: A Guide for First-Timers</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-unlisted-device-detected-error-in-win1011/"><u>Fixing Unlisted Device Detected Error in Win10/11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-x50-gt-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Honor X50 GT Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://windows11.techidaily.com/insights-into-ftdibussys-the-implications-for-windows-memory-safety/"><u>Insights Into ftdibus.sys: The Implications for Windows Memory Safety</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/music-for-imovie/"><u>Music for iMovie</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-inaudible-audio-on-wireless-devices/"><u>Resolving Inaudible Audio on Wireless Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-memory-safety-in-windows-11s-system-settings/"><u>Restoring Memory Safety in Windows 11'S System Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-silent-setbacks-ccleaner-issues-in-windows-11/"><u>Solving Silent Setbacks: CCleaner Issues in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategic-steps-launching-your-admin-privileged-powershell-console/"><u>Strategic Steps: Launching Your Admin Privileged PowerShell Console</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-fix-system-call-failures-in-windows/"><u>Strategies to Fix System Call Failures in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-easy-switch-for-classic-gaming-in-the-windows-photo-hub/"><u>The Easy Switch for Classic Gaming in the Windows Photo Hub</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-vivo-s18-pro-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Vivo S18 Pro Phone</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-samsung-galaxy-a34-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Samsung Galaxy A34 5G Hard Reset | Dr.fone</u></a></li>
+</ul></div>
 

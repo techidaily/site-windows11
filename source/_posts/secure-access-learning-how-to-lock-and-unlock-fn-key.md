@@ -1,7 +1,7 @@
 ---
 title: "Secure Access: Learning How to Lock and Unlock (Fn) Key"
-date: 2025-01-03T16:36:28.756Z
-updated: 2025-01-10T20:53:25.709Z
+date: 2025-01-09T03:21:18.561Z
+updated: 2025-01-16T03:23:25.715Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Should You Lock or Unlock the Fn Key?
@@ -35,12 +35,16 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
 
  When you want to use the default functions again, you can simply unlock the Fn key again
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Lock and Unlock the Function Key in Windows
 
  Below, we have listed different ways of locking and unlocking the Fn key in Windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Use the Keyboard
@@ -48,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
  In several keyboards, the Esc key acts as a Function padlock key. You will notice a small padlock icon on the Esc key if that is the case for your keyboard.
 
  To lock the Fn key, simply press the Fn key and the Esc key together. Once the lock icon lights up, the Fn key has been successfully locked. To unlock, you can press both keys together again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Access the BIOS Settings
 
@@ -64,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
 
 ![Windows 10 Troubleshoot Advanced Options UEFI Firmware Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/05/uefi-screenshot.jpg)
 4. Once the computer restarts, the BIOS will launch.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Head over to the System Configuration section and choose the**Action Key Mode** .
 6. Disable**Action Key Mode** .
@@ -88,10 +84,14 @@ Follow these steps to proceed:
 3. Choose the**Function key** option from the dropdown to lock the key. To unlock, choose the**Multimedia key** option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This should allow you to use the function keys without pressing the Fn key. In case you no longer want to use the Fn key and think that you will be better off disabling it, you can use the KeyTweak app to perform this action. Check out our guide on[how to disable specific keys on your keyboard in Windows](https://www.makeuseof.com/tag/disable-specific-keys-keyboard-windows-10/) for more information about KeyTweak.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Manage Your Fn Key Better on Windows
 
@@ -112,18 +112,14 @@ Follow these steps to proceed:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-royale-rulers-the-best-gaming-showdowns/"><u>[New] In 2024, Royale Rulers The Best Gaming Showdowns</u></a></li>
-<li><a href="https://win-tips.techidaily.com/free-ctv-news-video-downloads-get-your-favorites-from-ctvenewsca-on-pc-and-mac/"><u>Free CTV News Video Downloads: Get Your Favorites From ctvenews.ca on PC & MAC</u></a></li>
-<li><a href="https://win-able.techidaily.com/from-silent-dragons-to-roaring-battles-solving-skyrims-sound-malfunctions/"><u>From Silent Dragons to Roaring Battles: Solving Skyrim's Sound Malfunctions</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-windows-bsod-error-0x0000001a-step-by-step-solution/"><u>How to Fix Windows BSOD Error 0X0000001A: Step-by-Step Solution</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-prevent-and-cure-system-settings-failures-in-win11/"><u>How to Prevent and Cure System Settings Failures in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/insider-secrets-the-edge-of-windows-for-gamers/"><u>Insider Secrets: The Edge of Windows for Gamers</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/losungen-fur-das-problem-windows-update-wird-nicht-heruntergeladen-entdecken-sie-6-einfache-methoden/"><u>Lösungen Für Das Problem: Windows-Update Wird Nicht Heruntergeladen - Entdecken Sie 6 Einfache Methoden</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mcafee-introduces-revolutionary-ai-tool-against-deepfakes-assessing-its-trustworthiness/"><u>McAfee Introduces Revolutionary AI Tool Against Deepfakes – Assessing Its Trustworthiness</u></a></li>
-<li><a href="https://windows11.techidaily.com/revive-your-pc-navigating-through-windows-8-options/"><u>Revive Your PC: Navigating Through Windows' 8 Options</u></a></li>
-<li><a href="https://windows11.techidaily.com/solutions-for-overcoming-steam-permissions-in-windows-11/"><u>Solutions for Overcoming Steam Permissions in Windows 11</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/strategies-to-prevent-stalled-recordings/"><u>Strategies to Prevent Stalled Recordings</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-windows-access-control-corruption-resolution/"><u>Troubleshooting Windows: Access Control Corruption Resolution</u></a></li>
-<li><a href="https://windows11.techidaily.com/unchaining-the-microsoft-store-on-windows-11-devices/"><u>Unchaining the Microsoft Store on Windows 11 Devices</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-network-nodes-sites-that-spotlight-youtube-paid-content/"><u>[Updated] 2024 Approved Network Nodes Sites That Spotlight YouTube Paid Content</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-xiaomi-civi-3-disney-100th-anniversary-edition-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Xiaomi Civi 3 Disney 100th Anniversary Edition Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ving-video-popularity-mastering-youtube-thumbnail-selection-for-2024/"><u>Achieving Video Popularity Mastering YouTube Thumbnail Selection for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elite-editions-high-end-macpc-video-decode-tools/"><u>Elite Editions High-End Mac/PC Video Decode Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-stabilize-an-unstable-printer-on-windows/"><u>How to Stabilize an Unstable Printer on Windows</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/premier-recommendations-the-top-10-sports-apps-for-live-tennis-games-for-2024/"><u>Premier Recommendations The Top 10 Sports Apps for Live Tennis Games for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/prying-into-hidden-taskbar-analysis-tool-in-windows-11/"><u>Prying Into Hidden Taskbar Analysis Tool in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/reversal-of-extra-privileges-win11-standardization-tutorial/"><u>Reversal of Extra Privileges: Win11 Standardization Tutorial</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-addressing-undetectable-disks/"><u>Strategies for Addressing Undetectable Disks</u></a></li>
 </ul></div>
 

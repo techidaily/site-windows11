@@ -1,7 +1,7 @@
 ---
 title: Disclosing Windows 11'S Elusive Icons
-date: 2024-08-08T05:59:40.169Z
-updated: 2024-08-09T05:59:40.169Z
+date: 2025-01-13T16:04:43.282Z
+updated: 2025-01-16T13:28:31.524Z
 tags:
   - windows10
   - windows11
@@ -20,27 +20,29 @@ thumbnail: https://thmb.techidaily.com/6612d7a6b7e8b44ce845a24c9c71af5e69ea9f37b
 
  If that happens, you can remove a couple of app icons, as well as the hidden icons menu, to make it less cluttered. And if you can’t find the app icons you need or the hidden icons menu is missing, you can add those too.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Show or Hide System Tray Icons on Windows 11
 
  To show more icons in the system tray, you need to access the Taskbar's settings by pressing **Win + I**, selecting **Personalization** on the left side menu, and then clicking **Taskbar** in the right panel.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![Go to Taskbar Settings in the Personalization Tab of Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/6-go-to-taskbar-settings-in-the-personalization-tab-of-windows-settings-app.jpg)
 
  In Taskbar settings, scroll down and expand the **Other system tray icons** section. Find the icon you want to show (its toggle will be set to **Off** if it isn’t in the system tray) and click on the toggle on its right to set it to the **On** position.
 
 ![you can turn system tray icons on and off in the Taskbar settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/system-tray-icons-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to remove the system tray icon, simply set the toggle to **Off**.
 
  Another way to remove icons from the system tray is to place them in the hidden icons menu. This is the menu that appears when you click the **up caret** icon in the system tray. When the menu is opened, the icon becomes a **down caret**.
 
 ![the hidden icons menu on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/hidden-icons-menu-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To remove an icon from the system tray and place it into the hidden icons menu, click and drag it into the **up caret**. And when you expand the hidden icons menu, you will see that the icon is inside.
 
@@ -49,11 +51,16 @@ thumbnail: https://thmb.techidaily.com/6612d7a6b7e8b44ce845a24c9c71af5e69ea9f37b
  To add the icon back in the system tray, click and drag it from the hidden icons menu and then place it in the system tray.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Show or Hide the Hidden Icon Menu
 
  As mentioned earlier, the hidden icon menu is what appears when you click the **up caret** in the system tray. You can also hide and show this menu as you please.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Using the Settings App
 
@@ -62,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/6612d7a6b7e8b44ce845a24c9c71af5e69ea9f37b
 ![opening Taskbar settings by right clicking an empty part of the Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/opening-taskbar-settings.jpg)
 
  Scroll down until you reach the **Other system tray icons** section and expand it. To reveal the hidden icon menu, set the toggle next to the **Hidden menu icon** option to **On**. To hide it, set the toggle to **Off**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Using the Registry Editor
 
@@ -77,23 +88,14 @@ HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\Cur
 
  Next, double-click the **SystemTrayChevronVisibility** value in the right panel.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![the SystemTrayChevronVisibility value in the Windows Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/systemtraychevronvisibility-value-regedit-windows.jpg)
 
  To show the hidden icon menu, set the **Value data** text box to **1** and click **OK**.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![setting the SystemTrayChevronVisibility value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/systemtraychevronvisibility-value-data.jpg)
 
  And to hide the hidden icon menu set the **Value data** text box to **0** and click **OK**.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Control the Icons that Appear in the System Tray on Windows 11
 
  Whether you want to add icons or remove them from the system tray, the process is simple. Just go to the Taskbar settings and turn them on or off as needed. You can also hide or show the hidden icon menu in the process.
@@ -102,12 +104,29 @@ HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\Cur
 
  If that happens, you can remove a couple of app icons, as well as the hidden icons menu, to make it less cluttered. And if you can’t find the app icons you need or the hidden icons menu is missing, you can add those too.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/fixed-previous-software-conflict-leading-to-boot-failure/"><u>[FIXED] Previous Software Conflict Leading to Boot Failure</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-exploring-your-liked-movies-and-shows-on-facebook/"><u>[New] Exploring Your Liked Movies and Shows on Facebook</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-insights-into-the-world-of-touch-and-movement-detection/"><u>[New] Insights Into the World of Touch and Movement Detection</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-mastery-levels-of-quantum-hdr-applications/"><u>2024 Approved Mastery Levels of Quantum HDR Applications</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/enhancing-your-connection-a-thorough-evaluation-of-the-netgear-ac1200-wifi-extender-ex6345/"><u>Enhancing Your Connection: A Thorough Evaluation of the Netgear AC1200 WiFi Extender (EX6#345)</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-windows-iscsi-initiator-functionality/"><u>Exploring Windows iSCSI Initiator Functionality</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-common-photo-errors-on-windows-1011/"><u>Fixing Common Photo Errors on Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/get-rid-of-bloatware-in-a-flash-with-windows-11/"><u>Get Rid of Bloatware in a Flash with Windows 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-your-digital-signature-to-a-uot-file-document-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Add Your Digital Signature to a .uot file Document</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-address-windows-memory-write-faults/"><u>How to Address Windows Memory Write Faults</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-13-pro-max-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 13 Pro Max Data From iOS iCloud? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-capture-the-thrill-mastering-4-techniques-of-xbox-screen-recording/"><u>In 2024, Capture the Thrill Mastering 4 Techniques of Xbox Screen-Recording</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-dormant-workflow-rules-in-microsoft-outlook/"><u>Reviving Dormant Workflow Rules in Microsoft Outlook</u></a></li>
+<li><a href="https://windows11.techidaily.com/skillful-art-of-masking-the-search-on-11-taskbar/"><u>Skillful Art of Masking the Search on 11 Taskbar</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-essential-guide-to-systematic-surface-software-updates/"><u>The Essential Guide to Systematic Surface Software Updates</u></a></li>
+</ul></div>
 

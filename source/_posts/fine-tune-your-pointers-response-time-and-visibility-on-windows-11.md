@@ -1,7 +1,7 @@
 ---
 title: Fine-Tune Your Pointer's Response Time and Visibility on Windows 11
-date: 2024-12-31T00:33:45.696Z
-updated: 2025-01-03T18:57:47.602Z
+date: 2025-01-14T08:26:55.542Z
+updated: 2025-01-16T06:51:17.634Z
 tags:
   - windows10
   - windows11
@@ -36,25 +36,25 @@ So, without further ado, let’s get into them.
 
 ![Screenshot accessibility settings windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-accessibility-settings-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Next, click the**Mouse pointer and touch** category. You have the options White, Black, Inverted, and Custom under**Mouse pointer style.** As such, you can choose any of them to change your pointer style.
 
 ![Screenshot of mouse pointer settings page windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-mouse-pointer-settings-page-windows-11.jpg)
 
- Using the**Custom** item, you can choose a custom color for your pointer from the recommended ones or click**Choose another color** beneath to use a different one.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Using the**Custom** item, you can choose a custom color for your pointer from the recommended ones or click**Choose another color** beneath to use a different one.
 
 ### 2\. Adjusting Your Mouse Cursor Size
 
  If you would like your pointer to appear bigger, drag the**Size** slider to increase its size.
 
 ![Screenshot showing size slider on mouse pointer settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-mouse-pointer-settings-page-windows-11-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Increasing your Mouse Pointer Speed
 
@@ -65,7 +65,7 @@ So, without further ado, let’s get into them.
  Drag the**Mouse pointer speed** slider to adjust your pointer speed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Changing Your Primary Mouse Button
@@ -80,15 +80,15 @@ So, without further ado, let’s get into them.
 
 ![Screenshot of primary mouse button settings page windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-primary-mouse-button-settings-page-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Additional Mouse Pointer Settings
 
  To tweak your mouse further, head over to**Additional mouse settings** on the same page.
 
 ![screenshot of additional mouse settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-additional-mouse-settings-page.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  From here, you can enable**ClickLock** to let you drag and drop without holding down the mouse button.
 
@@ -98,6 +98,10 @@ So, without further ado, let’s get into them.
 
 ![Screenshot of mouse pointer options windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-mouse-pointer-options-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  From the**Pointer Options** tab, you can select a pointer speed and**Enhance pointer precision** with the checkbox. If you’d like the pointer to move to its default in a dialogue box, click**Snap To.**
 
  Under**Visibility** , you can choose if you want your pointer to display trails, hide the pointer while typing, or show the location of the pointer when the Control key is clicked.
@@ -105,7 +109,7 @@ So, without further ado, let’s get into them.
  Hit**Apply** afterward to implement your changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Customize Your Text Cursor
@@ -118,6 +122,10 @@ So, without further ado, let’s get into them.
 
  To turn it on, open **Settings > Accessibility** and select the **Text cursor** option.  Toggle on the text cursor indicator. ![screenshot of text cursor settings page windows 11](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-text-cursor-settings-page-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To change the indicator’s color, choose one of the displayed colors or select a custom one. You can also adjust its size by dragging the**Size** slider. View the top to preview your changes.
 
 ### 2\. Changing the Text Cursor’s Thickness
@@ -125,14 +133,6 @@ So, without further ado, let’s get into them.
  You might want your text cursor to appear bolder on the screen, so it's more visible. To do this, use the slider in the**Text Cursor Thickness** section.
 
 ![screenshot of text cursor thickness settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-text-cursor-thickness-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Configuring Your Mouse Pointer Makes Your PC More Accessible
 
@@ -155,15 +155,20 @@ So, without further ado, let’s get into them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-premier-hd-picks-for-impeccable-video-recorders/"><u>[Updated] 2024 Approved Premier HD Picks for Impeccable Video Recorders</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-excellent-websites-for-3d-metallic-type-imagery/"><u>[Updated] Excellent Websites for 3D Metallic Type Imagery</u></a></li>
-<li><a href="https://windows11.techidaily.com/5-great-free-podcast-editing-programs-for-windows/"><u>5 Great Free Podcast Editing Programs for Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/achieve-a-clean-desktop-with-automatic-trash-emptying-in-windows/"><u>Achieve a Clean Desktop with Automatic Trash Emptying in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/clearing-windows-11s-obstacle-overcoming-error-code-22/"><u>Clearing Windows 11'S Obstacle: Overcoming Error Code 22</u></a></li>
-<li><a href="https://windows11.techidaily.com/dive-into-windows-11-auditory-setup-and-use/"><u>Dive Into Windows 11 Auditory Setup and Use</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/enhancing-wifi-coverage-the-benefits-of-a-netgear-ex3700-ac750-wireless-signal-amplifier-thorough-product-review/"><u>Enhancing WiFi Coverage: The Benefits of a Netgear EX3700 AC750 Wireless Signal Amplifier - Thorough Product Review</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-video-editing-without-the-catch-top-14-watermark-free-options-for-2024/"><u>Free Video Editing Without the Catch Top 14 Watermark-Free Options for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Fake GPS Without Root On Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210451506-9781737967316-speaking-to-the-heart-from-flicker-to-flame-2nd-ed/"><u>Speaking to the Heart From Flicker to Flame (2nd ed.) | Free Book</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-master-meeting-magic-key-ways-to-tweak-with-zoom-converter/"><u>[New] 2024 Approved Master Meeting Magic Key Ways to Tweak with Zoom Converter</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-use-creative-commons-copyright-licenses-complete-guide-for-2024/"><u>[Updated] How to Use Creative Commons Copyright Licenses [Complete Guide] for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-effective-practices-for-device-video-capture/"><u>2024 Approved Effective Practices for Device Video Capture</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-email-management-stick-a-new-icon-in-taskbar-border/"><u>Enhance Email Management: Stick a New Icon in Taskbar Border</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-nokia-c32-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Nokia C32 Quickly | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-the-glitch-windows-steam-play-links/"><u>Fixing the Glitch: Windows Steam Play Links</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/gratis-rmvb-en-mkv-konvertentoolen-onderschrijvend-mkb2av-online/"><u>Gratis RMVB en MKV Konvertentoolen - Onderschrijvend MKB2AV Online</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-dampen-explore-tabs-in-windows-11-os/"><u>How to Dampen Explore Tabs in Windows 11 OS</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-reno-10-pro-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo Reno 10 Pro 5G in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-behind-the-scenes-of-successful-onestream-livestreams/"><u>In 2024, Behind-the-Scenes of Successful OneStream Livestreams</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-no-audio-capture-in-obs-on-windows-11-pcs/"><u>Overcoming No Audio Capture in OBS on Windows 11 PCs</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/step-by-step-guide-purchasing-crypto-using-traditional-currencies-insights-by-yl-computing/"><u>Step-by-Step Guide: Purchasing Crypto Using Traditional Currencies - Insights by YL Computing</u></a></li>
+<li><a href="https://windows11.techidaily.com/taming-the-typhoon-of-erratic-windows-mouse-wheel/"><u>Taming the Typhoon of Erratic Windows Mouse Wheel</u></a></li>
+<li><a href="https://windows11.techidaily.com/taskbar-transformation-minimizing-apps-with-ease-and-speed/"><u>Taskbar Transformation: Minimizing Apps with Ease and Speed</u></a></li>
 </ul></div>
 

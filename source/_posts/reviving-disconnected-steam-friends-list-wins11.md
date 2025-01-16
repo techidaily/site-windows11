@@ -1,7 +1,7 @@
 ---
 title: Reviving Disconnected Steam Friends List (Wins11)
-date: 2025-01-05T17:05:54.346Z
-updated: 2025-01-10T18:28:57.057Z
+date: 2025-01-10T11:36:44.173Z
+updated: 2025-01-16T05:38:24.071Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Restart Steam
@@ -37,11 +37,11 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 
 ![End Steam Client process from running](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/steam-task-manager-1.jpg)
 
- Restart Steam and check if the issue is now fixed.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Restart Steam and check if the issue is now fixed.
 
 ## 2\. Check Steam Friends & Chat Settings
 
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 ![Steam friends and chat settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/friends-chat-settings-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Opt Out of Steam’s Beta Participation
@@ -71,15 +71,15 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 
 ![Opt out of Steam beta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/steam-beta-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Edit Steam’s Executable
 
  While this isn’t an official fix, editing the executable file could fix the “Steam friends network unreachable” error. To find Steam’s executable file, search for **Steam** within the Start menu search bar and select **Open file location**. Then, right-click **Steam** and head to **Properties**. Open the **Shortcut** tab and add **\-nofriendsui** into the **Target** field.
 
  Click **Apply** and **OK** to save the new settings and restart Steam.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Delete the Steam Appdata Folder
 
@@ -90,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 ![Deleting the IconCache File by Right-clicking on the File in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/4-deleting-the-iconcache-file-by-right-clicking-on-the-file-in-windows-file-explorer.jpg)
 
  If you can’t find it, you should change File Explorer settings, so you can [view hidden files and folders on Windows](https://www.makeuseof.com/windows-11-show-hidden-files-folders/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Delete Steam's Web Data
 
@@ -104,10 +108,6 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 7. Close the game, restart Steam, and check if the issue is now solved.
 
 ![Delete Steam web cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/delete-steam-cache-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get Back to Playing With Your Friends
 
@@ -125,16 +125,22 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/hoosing-superior-tools-for-vocal-change-in-content-making-for-2024/"><u>[New] Choosing Superior Tools for Vocal Change in Content Making for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-extensive-review-gopro-hero4-slr4-black-edition/"><u>[New] Extensive Review GoPro Hero4 SLR4 Black Edition</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-capturing-your-laptop-simple-lenovo-steps/"><u>[Updated] 2024 Approved Capturing Your Laptop Simple Lenovo Steps</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-unlock-the-potential-of-pc-games-recording-in-win10/"><u>2024 Approved Unlock the Potential of PC Games Recording in Win10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/guiding-through-windows-7-screenshake-solutions/"><u>Guiding Through Windows 7 Screenshake Solutions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gaming-melodies-legal-downloadable-links/"><u>In 2024, Gaming Melodies Legal, Downloadable Links</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-honor-x9b-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Honor X9b Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimal-pc-protection-activating-tpm-and-secure-boot-in-win-11/"><u>Optimal PC Protection: Activating TPM & Secure Boot in Win 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/simplified-steps-to-alter-your-cursors-look/"><u>Simplified Steps to Alter Your Cursor's Look</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-upgraded-widget-choice-interface-in-win11/"><u>Unlocking Upgraded Widget Choice Interface in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/your-guide-to-next-gen-computing-at-ifa-2023/"><u>Your Guide to Next-Gen Computing at IFA 2023</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-elevating-roi-in-facebooks-animated-advertising-arena/"><u>[New] 2024 Approved Elevating ROI in Facebook's Animated Advertising Arena</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/inyvid-masterpiece-for-2024/"><u>[New] TinyVid Masterpiece for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-memory-overuse-in-user-services-and-connected-devices/"><u>Addressing Memory Overuse in User Services and Connected Devices</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/an-in-depth-look-at-the-huawei-p3-without-losing-its-essence/"><u>An In-Depth Look at the Huawei P3 without Losing Its Essence</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-windows-11-faux-pas-an-experts-guide-to-safe-practices/"><u>Avoiding Windows 11 Faux Pas: An Expert's Guide to Safe Practices</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/beyond-boundaries-vrs-educational-potential/"><u>Beyond Boundaries VR's Educational Potential</u></a></li>
+<li><a href="https://windows11.techidaily.com/command-prompt-curiosities-5-fun-filled-functions/"><u>Command Prompt Curiosities: 5 Fun-Filled Functions</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-navigation-disabling-accelerated-motion-windows-style/"><u>Efficient Navigation: Disabling Accelerated Motion Windows Style</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fostering-fun-with-metaverse-satirical-artifacts/"><u>In 2024, Fostering Fun with Metaverse Satirical Artifacts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-the-essential-steps-for-forming-a-facebook-profile/"><u>In 2024, The Essential Steps for Forming a Facebook Profile</u></a></li>
+<li><a href="https://windows11.techidaily.com/solution-for-fixing-the-invalid-file-history-options-in-windows/"><u>Solution for Fixing the Invalid File History Options in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-to-revive-slow-running-asana-on-windows/"><u>Solutions to Revive Slow-Running Asana on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-unlock-windows-credentials-management/"><u>Steps to Unlock Windows Credentials Management</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/streaming-titans-clash-streamlabs-versus-obs-in-the-arena/"><u>Streaming Titans Clash Streamlabs versus OBS in the Arena</u></a></li>
+<li><a href="https://windows11.techidaily.com/time-travel-for-files-mastering-windows-11s-history/"><u>Time Travel for Files: Mastering Windows 11'S History</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-geforce-setup-issues-fixing-closure-errors-effectively/"><u>Troubleshooting GeForce Setup Issues - Fixing Closure Errors Effectively</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722959218429-unlocking-the-free-qualcomm-atheros-ar938x-driver-download-painless-process/"><u>Unlocking the Free Qualcomm Atheros AR938X Driver Download - Painless Process</u></a></li>
 </ul></div>
 

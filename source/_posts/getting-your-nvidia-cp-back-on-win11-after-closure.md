@@ -1,7 +1,7 @@
 ---
 title: Getting Your Nvidia CP Back on Win11 After Closure
-date: 2025-01-03T19:10:49.110Z
-updated: 2025-01-10T19:45:08.968Z
+date: 2025-01-15T10:20:01.323Z
+updated: 2025-01-15T18:43:12.748Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/e35b3a5c1a462189bf0e7eb85d4007a41df15f6c2
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run the NVIDIA Control Panel With Admin Rights
 
  Most users usually select to open the NVIDIA Control Panel from Windows 11’s desktop context menu. However, you can select to run that app as an administrator in the following steps:
@@ -33,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/e35b3a5c1a462189bf0e7eb85d4007a41df15f6c2
 2. Type**NVIDIA Control Panel** in the search box.
 3. Right-click the**NVIDIA Control Panel** result to select a**Run as administrator** on that app’s context menu.  
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-as-administrator-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Setting NVIDIA Control Panel to always run as administrator is tricky because that UWP app is installed within a restricted access folder. You’ll need to[take ownership of the WindowsApps folder](https://www.makeuseof.com/windows-10-11-own-folder/) to open that directory. Then select the "Run as administrator" option for the nvcplui.exe file. The default path for the file is:
 
@@ -56,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/e35b3a5c1a462189bf0e7eb85d4007a41df15f6c2
 ![The Restart option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-restart-option.jpg)
 6. Try opening the NVIDIA Control Panel again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Start (or Restart) the NVIDIA Display Container Service
 
  A common reason for the NVIDIA Control Panel not opening is a disabled NVIDIA Display Container service. Other NVIDIA services also need to be enabled for the app to work right. So, you should check that service and others are enabled and running like this:
@@ -69,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/e35b3a5c1a462189bf0e7eb85d4007a41df15f6c2
 3. Scroll to and double-click**NVIDIA Display Container LS** .  
 ![The Service window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-service-window.jpg)
 4. Next, select the**Automatic** option if the**Startup** menu setting is set to anything else.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![The Automatic option the Startup type menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/startup-type-drop-down-menu.jpg)
 5. Select**Start** (in the properties window) to run the service if it’s stopped.
@@ -83,17 +83,13 @@ thumbnail: https://thmb.techidaily.com/e35b3a5c1a462189bf0e7eb85d4007a41df15f6c2
 
 ![The Automatic option the Startup type menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/startup-type-drop-down-menu.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Update Your PC’s NVIDIA Graphics Driver
 
  Updating the NVIDIA graphics driver on your PC will also update the control panel app for it. So, that’s a potential solution worth trying if your graphics card’s driver is outdated. You can apply this potential fix by following the instructions within our[guide to updating NVIDIA GPUs](https://www.makeuseof.com/how-update-nvidia-graphics-card-drivers-windows/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Install Missing Visual C++ Redistribute Packages
 
@@ -105,7 +101,7 @@ thumbnail: https://thmb.techidaily.com/e35b3a5c1a462189bf0e7eb85d4007a41df15f6c2
 3. Double-click the**VC\_redist.arm64.exe** (Visual C++ installer) file once it's downloaded.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Go through the install process.
@@ -135,17 +131,21 @@ To apply this fix, edit the Registry as follows:
 8. Select**OK** to save the string value.
 9. Now select to reboot your Windows 11/10 PC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Reinstall the NVIDIA Control Panel
 
  The NVIDIA Control Panel is a UWP app you can uninstall, download, and reinstall. If none of the other fixes in this guide work for you, that app might have corrupted or missing files. To do so, remove the NVIDIA Control Panel in Settings, as outlined in our guide for[how to uninstall apps on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
 
 ![The Uninstall app option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-uninstall-option-in-apps-features.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you’ve uninstalled NVIDIA Control Panel, restart your PC. Then click**Get in Store** app on the[NVIDIA Control Panel](https://apps.microsoft.com/store/detail/nvidia-control-panel/9NF8H0H7WMLT) [Microsoft Store page](https://apps.microsoft.com/store/detail/nvidia-control-panel/9NF8H0H7WMLT) . Select**Open Microsoft Store** , and click**Get** to reinstall the app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Tweak Graphics Settings in the NVIDIA Control Panel Again
 
@@ -166,16 +166,18 @@ To apply this fix, edit the Registry as follows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-searching-for-monetary-rewards-of-review-vlogs-for-2024/"><u>[New] Searching for Monetary Rewards of Review Vlogs for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-achieving-professional-skype-recordings-in-obs-for-2024/"><u>[Updated] Achieving Professional Skype Recordings in OBS for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-enhancing-engagement-with-dynamic-text-on-instagram/"><u>[Updated] Enhancing Engagement with Dynamic Text on Instagram</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>How to Simulate GPS Movement in AR games On Apple iPhone 13 mini? | Dr.fone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/media-player-classic-stops-working-on-windows-10-with-mkv-dvd-playback-issues/"><u>Media Player Classic Stops Working on Windows 10 with MKV, DVD Playback Issues</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimizing-windows-11-phone-to-pc-linkage/"><u>Optimizing Windows 11 Phone-to-PC Linkage</u></a></li>
-<li><a href="https://windows11.techidaily.com/reviving-the-obscured-off-screen-window-techniques-in-win10win11/"><u>Reviving the Obscured: Off-Screen Window Techniques in Win10/Win11</u></a></li>
-<li><a href="https://extra-information.techidaily.com/screen-spectaculor-the-premier-6-hdmi-21-models-reviewed/"><u>Screen Spectaculor The Premier 6 HDMI 2.1 Models Reviewed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/strategies-for-effective-communication-with-chatgpt-clients/"><u>Strategies for Effective Communication with ChatGPT Clients</u></a></li>
-<li><a href="https://windows11.techidaily.com/unleashing-the-potential-choose-best-6-android-apps-for-windows-11/"><u>Unleashing the Potential: Choose Best 6 Android Apps for Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-full-potential-the-ultimate-wsl-2-and-docker-guide/"><u>Unlocking Full Potential: The Ultimate WSL 2 & Docker Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-adopting-nature-positive-policies-in-urban-governance/"><u>[New] In 2024, Adopting Nature-Positive Policies in Urban Governance</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-launching-laughter-hilarious-initiation-hints-for-2024/"><u>[Updated] Launching Laughter Hilarious Initiation Hints for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-bridging-the-gap-converting-snapchats-flash-into-files/"><u>2024 Approved Bridging the Gap Converting Snapchat's Flash Into Files</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-samsung-galaxy-s23-fe-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Samsung Galaxy S23 FE Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-asus-rog-phone-8-pro-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Asus ROG Phone 8 Pro Fingerprint Lock</u></a></li>
+<li><a href="https://windows11.techidaily.com/clandestine-control-center-hidepower-command-of-windows-11/"><u>Clandestine Control Center: Hidepower Command of Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-webp-images-top-4-viewer-tools-on-windows-os/"><u>Elevate WebP Images: Top 4 Viewer Tools on Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-tips-for-correcting-windows-update-problems-0x30017/"><u>Expert Tips for Correcting Windows Update Problems (0X30017)</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/leading-wd-data-duplication-applications-a-comprehensive-tutorial-for-successful-wd-ssd-imaging/"><u>Leading WD Data Duplication Applications: A Comprehensive Tutorial for Successful WD SSD Imaging</u></a></li>
+<li><a href="https://windows11.techidaily.com/re-establish-steam-offline-status-via-win-tricks/"><u>Re-Establish Steam Offline Status via Win Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/reducing-wasteful-usage-by-core-system-processes/"><u>Reducing Wasteful Usage by Core System Processes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-gaming-ais-role-in-game-development/"><u>The Future of Gaming: AI's Role in Game Development</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-power-saving-paradox-modern-standbys-dilemni/"><u>Windows' Power-Saving Paradox: Modern Standby's Dilemni</u></a></li>
 </ul></div>
 

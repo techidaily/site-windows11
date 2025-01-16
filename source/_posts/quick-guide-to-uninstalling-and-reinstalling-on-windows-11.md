@@ -1,7 +1,7 @@
 ---
 title: Quick Guide to Uninstalling and Reinstalling on Windows 11
-date: 2025-01-09T22:40:08.192Z
-updated: 2025-01-10T21:15:48.617Z
+date: 2025-01-09T22:17:08.431Z
+updated: 2025-01-15T16:23:55.979Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Reset an App on Windows 11
@@ -36,16 +36,12 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 ![the installed apps screen in the windows 11 settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/installed-apps-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Scroll through the list of apps on your computer until you get to the one you want. Once you’ve found it, click on the**three horizontal dots** on its right and select**Advanced options** from the menu.
 
 ![selecting advanced options for spotify in the installed apps page in the settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/spotify-advanced-options.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Scroll down to the**Reset** section. Here, you can also repair the Windows app to try and fix it without losing any data. If you haven’t tried that already, see[how to repair apps on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) to give it a shot.
 
@@ -53,11 +49,11 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 
 ![reseting an app in the Windows settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/reseting-spotify.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Confirm you want to reset the app by clicking**Reset** again in the pop-up.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Reset an App on Windows 10
 
@@ -65,15 +61,19 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 
 ![the apps and features screen in the windows 10 settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/apps-features-windows-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Find the app you want to reset from the list of installed apps and click on it. Then, click the**Advanced options** link that appears below the name of the app.
 
 ![the alarm clock advanced options in the windows 10 settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/alarm-clock-windows-10-advanced-options.jpg)
 
- You will find the button to reset the app in the**Reset** section of its advanced settings, and you should click it. Finally, confirm that this is what you want to do by clicking**Reset** in the pop-up as well.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ You will find the button to reset the app in the**Reset** section of its advanced settings, and you should click it. Finally, confirm that this is what you want to do by clicking**Reset** in the pop-up as well.
 
 ## Windows Apps Just Need a Reset Sometimes
 
@@ -96,20 +96,18 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-free-money-tips-for-reddit-novices-13-best-ways-for-2024/"><u>[New] Free Money Tips for Reddit Novices (13 Best Ways!) For 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-efficiently-transmit-via-obs-on-fb-live/"><u>[Updated] 2024 Approved Efficiently Transmit via OBS on FB Live</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/einen-link-zu-ihren-onedrive-dateien-entfernen-schnelle-und-einfache-schritte/"><u>Einen Link Zu Ihren OneDrive-Dateien Entfernen – Schnelle Und Einfache Schritte</u></a></li>
-<li><a href="https://windows11.techidaily.com/expedite-foreign-speech-hotkey-mastery-for-windows-language-switching/"><u>Expedite Foreign Speech: Hotkey Mastery for Windows Language Switching</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-cast-to-fire-stick-from-an-android-phone/"><u>How to Cast to Fire Stick From an Android Phone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-tecno-spark-20-pro-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Tecno Spark 20 Pro Activity | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-infinix-smart-8-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Infinix Smart 8 to iPod | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/mitigating-error-code-0x80300024-on-a-pc/"><u>Mitigating Error Code: 0X80300024 on a PC</u></a></li>
-<li><a href="https://extra-support.techidaily.com/navigate-through-windows-10s-media-importation-elegantly-for-2024/"><u>Navigate Through Windows 10'S Media Importation Elegantly for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-top-rated-free-video-cutting-software-for-divx-files-for-2024/"><u>New Top-Rated Free Video Cutting Software for Divx Files for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/restoring-default-settings-for-system-backups-in-windows/"><u>Restoring Default Settings for System Backups in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-package-could-not-be-registered-errors-in-windows-photos/"><u>Tackling 'Package Could Not Be Registered' Errors in Windows Photos</u></a></li>
-<li><a href="https://windows11.techidaily.com/taming-technology-troubles-fixing-absentee-tab-functionality/"><u>Taming Technology Troubles: Fixing Absentee Tab Functionality</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/troubleshooting-tips-solving-windows-tenths-inaccessible-boot-device-error-for-smooth-operation/"><u>Troubleshooting Tips: Solving Windows Tenth's 'Inaccessible Boot Device' Error for Smooth Operation</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-woes-unsticking-opera-installation/"><u>Windows Woes: Unsticking Opera Installation</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-mastering-close-up-filmmaking-tips-for-a-standout-videography-career/"><u>[Updated] Mastering Close-Up Filmmaking Tips for a Standout Videography Career</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-unlocking-yesteryears-visions-with-reverse-scans-in-social-media-world-facebook/"><u>2024 Approved Unlocking Yesteryear's Visions with Reverse Scans in Social Media World (Facebook)</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-package-registration-errors-a-guide-to-photography-on-windows-11/"><u>Correcting Package Registration Errors: A Guide to Photography on Windows 11</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/how-to-automatically-display-flipbook-images-on-site-using-flipbuilder-technology/"><u>How to Automatically Display FlipBook Images on Site Using FlipBuilder Technology</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-correct-non-empty-directory-error-code-0x80070091-in-win11/"><u>How to Correct Non-Empty Directory Error (Code: 0X80070091) in Win11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-13-pro-max-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 13 Pro Max Properly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-nba-2k24-expert-advice-on-overcoming-the-notorious-727e66ac-error-code/"><u>Mastering NBA 2K24: Expert Advice on Overcoming the Notorious 727E66AC Error Code</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/mastering-the-art-of-video-repetition-a-guide-for-instagram-users-for-2024/"><u>Mastering the Art of Video Repetition A Guide for Instagram Users for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/new-dawn-for-old-gameshells-atlasos/"><u>New Dawn For Old Gameshells - AtlasOS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-idt-hd-audio-codec-driver-issues-on-windows-10/"><u>Resolving IDT HD Audio Codec Driver Issues on Windows 10</u></a></li>
+<li><a href="https://discover-great.techidaily.com/revitalize-your-scanner-operations-a-comprehensive-tutorial-on-updating-and-reinstalling-drivers-by-yl-software/"><u>Revitalize Your Scanner Operations: A Comprehensive Tutorial on Updating & Reinstalling Drivers by YL Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/revitalizing-vintage-directx-apps-using-modernized-dxvk-features/"><u>Revitalizing Vintage DirectX Apps Using Modernized DXVK Features</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Lava Yuva 2 Pro? | Dr.fone</u></a></li>
 </ul></div>
 

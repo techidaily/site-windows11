@@ -1,7 +1,7 @@
 ---
 title: Customize Your Clock Region on Windows, Avoiding Automatic Changes
-date: 2024-08-08T06:01:30.892Z
-updated: 2024-08-09T06:01:30.892Z
+date: 2025-01-14T08:11:34.758Z
+updated: 2025-01-16T04:54:05.647Z
 tags:
   - windows10
   - windows11
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
 
  Did you ever experience being in a different time zone while working on your Windows computer? You've checked Windows time settings and noticed that it's not set to your current location. Suddenly, you realize that the time zone is greyed out, and you can’t configure it automatically. What do you do next? There are several scenarios where Windows cannot automatically set the time zone, and here's how to fix them.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ## 1\. Restart Your PC
 
  The first step when troubleshooting any Windows-related issue is to restart the computer. It seems obvious, but it often solves the problem. Rebooting flushes out cached data that could cause time zone problems. It also resets various temporary services that may prevent Windows from automatically setting the time zone.
@@ -54,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
 3. Scroll down in the Services window and locate the **Windows Time** service.
 4. Right-click the service and select **Properties**.
 5. In the Properties window, set the **Startup type** to **Automatic**.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![Windows Time Service Status](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-time-service-status.jpg)
 6. Now check the **Service status**. If it reads **Stopped**, click the **Start** button to start the service.
 7. Click **Apply** and **OK** to save the changes.
@@ -65,8 +58,9 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
  Once you've done this, restart your PC and check the time zone settings.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Tweak the Registry Editor
 
  If Windows still fails to detect the time zone or the "Set time zone automatically" option is still grayed out, you may need to tweak your registry. This is a more technical solution and requires registry knowledge. If you're not good at registry editing, skip this step or ask a professional for help.
@@ -87,13 +81,14 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
 `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\location`  
  You can also copy and paste the path into the Registry Editor address bar. Now press Enter and this directs you to the Location key.
 8. Move to the right pane and double-click the **Value** (REG\_SZ) value.  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Edit Registry to change the location setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/edit-registry-to-change-the-location-setting.jpg)
 9. In the Edit String window, type **Allow** in the **Value data** field and click OK.
 
  After that, close the Registry Editor and restart your PC. Windows should detect the time zone automatically and set it correctly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Use the Group Policy Editor
 
@@ -104,14 +99,15 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
 3. On the left navigation panel, browse to the following path:  
 `Computer Configuration > Administrative Templates > Windows Components > Location and Sensors > Windows Location Provider`
 4. Go to the right pane and double-click on **Turn off Windows Location Provider**.  
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Turn off Windows Location Provider](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/turn-off-windows-location-provider.jpg)
 5. In the pop-up window, check the **Not Configured** option.
 6. Click **Apply** and **OK** to save the changes.
 
  Now close the Group Policy Editor and restart your PC. After restarts check if your Windows detects the time zone automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reset the Windows Time Service
 
@@ -128,13 +124,9 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
  Once done, close the Command Prompt and restart your computer to check if it solves the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Try Some Generic Windows Fixes
 
  There are also generic fixes you can try:
@@ -143,11 +135,13 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
 2. **Perform a Clean Boot:** If that didn't work, [try a Windows clean boot](https://www.makeuseof.com/clean-boot-windows-11/). This determines if third-party applications interfere with Windows Time Service.
 3. **Update Windows:** Finally, [update Windows to the latest version](https://www.makeuseof.com/update-windows-manually/) to ensure you have all the latest fixes and security patches.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Windows Can Now Automatically Set the Time Zone
 
  We hope the article helped you resolve timing issues on your Windows computer. It may occur due to missing or corrupted system files or incorrect time zone settings. Make sure to try these solutions and perform a System Restore if the problem persists.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -155,4 +149,21 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-the-significance-of-proper-slug-line-usage/"><u>[New] The Significance of Proper Slug Line Usage</u></a></li>
+<li><a href="https://windows11.techidaily.com/five-keys-to-starting-system-repair-tools/"><u>Five Keys to Starting System Repair Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/ftdibussys-explained-the-culprit-behind-windows-memory-defects/"><u>Ftdibus.sys Explained: The Culprit Behind Windows Memory Defects</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/gratis-converter-van-mp4-naar-ogg-professioneel-online-tool-voor-professionele-resultaat-movavi/"><u>Gratis Converter Van MP4 Naar OGG: Professioneel Online-Tool Voor Professionele Resultaat - Movavi</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-oppo-reno-8t-5g-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Oppo Reno 8T 5G?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-poco-m6-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Poco M6 5G Phone that is Locked?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gaming-hub-clashes-with-content-creation-empire-a-detailed-twitchyoutube-comparison/"><u>In 2024, Gaming Hub Clashes with Content Creation Empire A Detailed Twitch/YouTube Comparison</u></a></li>
+<li><a href="https://windows11.techidaily.com/reversing-keyboard-deletion-problems-on-windows-pcs/"><u>Reversing Keyboard Deletion Problems on Windows PCs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/streamlined-approach-for-customizing-snapchat-video-rate/"><u>Streamlined Approach for Customizing Snapchat Video Rate</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-windows-update-malfunction-code-0x80246007-on-w10w11/"><u>Tackling Windows Update Malfunction: Code 0X80246007 on W10/W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-power-of-windows-11s-system-restore-features/"><u>Unlocking the Power of Windows 11'S System Restore Features</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/user-guide-installing-and-maximizing-your-ring-video-doorbell-experience/"><u>User Guide: Installing and Maximizing Your Ring Video Doorbell Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-icon-evolution-a-look-at-the-taskbar/"><u>Windows' Icon Evolution - A Look at the Taskbar</u></a></li>
+</ul></div>
 

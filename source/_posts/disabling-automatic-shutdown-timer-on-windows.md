@@ -1,7 +1,7 @@
 ---
 title: Disabling Automatic Shutdown Timer on Windows
-date: 2024-08-08T05:59:52.121Z
-updated: 2024-08-09T05:59:52.121Z
+date: 2025-01-11T05:45:28.862Z
+updated: 2025-01-15T18:05:25.674Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/3be6004f814f322eb7c81e59f5f3e6dc5377a1a28
  Fortunately, you can keep Windows from automatically locking itself. Here’s how.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why Is Windows 10 Automatically Locking Itself?
 
  Windows automatically locks itself for one simple reason: to protect your privacy.
@@ -32,8 +33,9 @@ thumbnail: https://thmb.techidaily.com/3be6004f814f322eb7c81e59f5f3e6dc5377a1a28
  By locking itself automatically once your PC goes into sleep mode, Windows ensures that your data stays private and nobody except you has access to your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Stop Windows From Automatically Locking Itself
 
 You can stop Windows from automatically locking itself by:
@@ -52,25 +54,16 @@ Now that we know how to do it, let's dive into the steps.
 * In the**Require sign-in** section, select**Never** from the dropdown menu.
 * While you are in Sign-in options, make sure to disable Dynamic lock by unchecking the option in the**Dynamic lock** section.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Disable Windows sign-in](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-sign-in-2.JPG)
 
  Dynamic lock automatically locks your PC if a Bluetooth-connected device, for instance, your smartphone, goes out of range. So, disabling this option will ensure that your PC doesn’t lock up when you walk away from it.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Disabling Sleep Mode and Screen Saver
 
  Next, because Windows automatically locks itself when in sleep mode, you can effectively disable auto-locking by keeping your computer from entering sleep mode. To do this:
 
 * Hit the Windows key, type “power and sleep”, and choose**Power & sleep settings** .
 * In the Power & sleep section, set disable mode by choosing**Never** from both dropdowns under**Sleep** .  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Disable sleep mode on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-sleep-mode.JPG)
 
  If you’ve set a screen saver active on your PC, we also recommend turning it off, as it can, sometimes, cause Windows to automatically lock itself. To disable the screen saver:
@@ -79,6 +72,10 @@ Now that we know how to do it, let's dive into the steps.
 * In the Screen Saver Settings, set**Screen saver** to**None** and uncheck**On resume, display the logon screen** .
 
 ![Disable screen saver on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-screen-saver.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Editing Windows Registry to Disable Auto-Locking
 
@@ -92,12 +89,17 @@ So, edit Windows Registry only when nothing else works.
 * Now, right-click on the folder you just created, place the mouse cursor over**New** , and select**DWORD (32-bit) Value** . Change the name of this new element to “NoLockScreen”.
 * Open**NoLockScreen** and set the Value data to 1\. Press ok to finish the process.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![Disable auto-lock from Windows Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-auto-lock-registry.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Finally, restart your computer to see if a lock screen appears.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use Windows Hello to Make Windows’ Auto-Locking Bearable
 
@@ -105,14 +107,11 @@ Finally, restart your computer to see if a lock screen appears.
 
  On supported computers, Windows Hello can instantly recognize your face/fingerprint to log you in, taking the hassle out of typing a password in case of Windows auto-locking itself.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -121,6 +120,17 @@ Finally, restart your computer to see if a lock screen appears.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/approved-youtube-studio-review-profits-and-payments/"><u>2024 Approved YouTube Studio Review Profits and Payments</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-lista-dos-10-aplicativos-mais-populares-para-copia-e-ripagem-de-dvds-sem-custo-algum/"><u>A Lista Dos 10 Aplicativos Mais Populares Para Cópia E Ripagem De DVDs Sem Custo Algum</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-quick-breakdown-of-popular-emojis-on-snapchat-and-their-meanings/"><u>A Quick Breakdown of Popular Emojis on Snapchat and Their Meanings</u></a></li>
+<li><a href="https://facebook.techidaily.com/enhancing-the-social-media-soundtrack-with-spotify-integration/"><u>Enhancing the Social Media Soundtrack with Spotify Integration</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-fixes-for-correcting-error-0x800700e1-on-windows-11-devices/"><u>Expert Fixes for Correcting Error 0X800700E1 on Windows 11 Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hiding-unwanted-elements-with-smart-filters-ps/"><u>In 2024, Hiding Unwanted Elements with Smart Filters PS</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Oppo Reno 9A? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-to-photoshopping-out-image-borders/"><u>Quick Guide to Photoshopping Out Image Borders</u></a></li>
+<li><a href="https://windows11.techidaily.com/revive-your-system-5-strategies-for-wins-secure-boot-errors/"><u>Revive Your System: 5 Strategies for Win's Secure Boot Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-secret-to-flawless-image-editing-in-windows-photo/"><u>The Secret to Flawless Image Editing in Windows Photo</u></a></li>
+</ul></div>
 

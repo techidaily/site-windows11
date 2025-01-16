@@ -1,7 +1,7 @@
 ---
 title: Comprehending CAB Files Within the Windows Ecosystem
-date: 2024-08-15T15:10:41.557Z
-updated: 2024-08-16T15:10:41.557Z
+date: 2025-01-15T11:31:30.303Z
+updated: 2025-01-16T09:53:59.059Z
 tags:
   - windows10
   - windows11
@@ -31,8 +31,9 @@ thumbnail: https://thmb.techidaily.com/314203aa70ce1cd280de1b8caed9dd68a2d3fe23b
  Now that you have a brief understanding of CAB files, let's check out how you can install it on Windows 11\.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Install a CAB File on Windows 11
 
  You can easily install a CAB file on Windows 11 using Command Prompt and Windows PowerShell. In the Command Prompt method, you'll have to use the [DISM command](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/). Whereas, in the PowerShell method, you'll use the Add-WindowsPackage command.
@@ -46,9 +47,6 @@ thumbnail: https://thmb.techidaily.com/314203aa70ce1cd280de1b8caed9dd68a2d3fe23b
 4. In the elevated Command Prompt window, type the following command and press Enter. Make sure to replace "**CAB location**" with the copied path.  
 `dism /Online /Add-Package /PackagePath:"CAB location"`  
 ![CMD window with command to install a CAB file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/cmd-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once the installation is complete, [restart your computer](https://www.makeuseof.com/windows-restart-methods/) to see the changes.
 
@@ -59,11 +57,16 @@ thumbnail: https://thmb.techidaily.com/314203aa70ce1cd280de1b8caed9dd68a2d3fe23b
 `Add-WindowsPackage -Online -PackagePath "CAB location"  
 `  
 ![Powershell window with command to install a CAB file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/powershell-window.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That's it. PowerShell will install the content of the CAB file on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Install Driver Updates From a CAB File
 
@@ -76,24 +79,24 @@ thumbnail: https://thmb.techidaily.com/314203aa70ce1cd280de1b8caed9dd68a2d3fe23b
 4. Press **Win + X** hotkey to open the Power User menu and choose **Device Manager**.
 5. Right-click the device for which you have downloaded the driver update and choose **Update driver**.  
 ![Update driver option in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/update-driver.jpg)
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Click **Browse my computer for drivers**.  
-![Browse my computer for drivers in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/browse-my-computer-for-drivers.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Browse my computer for drivers in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/browse-my-computer-for-drivers.jpg)
 7. Click **Browse** and navigate to the location where you have extracted the CAB file.
 8. Select the folder that contains the extracted file and click **OK**.  
 ![OK option in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ok-option.jpg)
 9. Click **Next**.  
 ![Next option in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/next-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  The Device Manager will now install the driver update on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## CAB Files: Everything You Need to Know
 
@@ -101,12 +104,26 @@ thumbnail: https://thmb.techidaily.com/314203aa70ce1cd280de1b8caed9dd68a2d3fe23b
 
  But what exactly is a Windows CAB file, and how do you install it on your computer? Here's everything you need to know.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-the-ultimate-hash-playbook-for-video-gamers-on-youtube/"><u>[New] 2024 Approved The Ultimate Hash Playbook for Video Gamers on YouTube</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-discover-8-trusted-online-content-marketing-tools/"><u>[Updated] Discover 8 Trusted Online Content Marketing Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-8-mobile-tools-transforming-slow-mo-to-fast-forward/"><u>[Updated] Top 8 Mobile Tools Transforming Slow Mo to Fast-Forward</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-essentials-of-earning-on-youtube-latest-changes/"><u>2024 Approved The Essentials of Earning on YouTube Latest Changes</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-error-3-nvidia-opengl-on-windows-oses/"><u>Fixing Error 3: NVIDIA OpenGL on Windows OSes</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-c33-2023frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme C33 2023FRP Lock</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-pin-related-bluetooth-link-problems-in-win11win10/"><u>Mastering PIN-Related Bluetooth Link Problems in Win11/Win10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavis-free-video-file-converter-compartilhando-a-facil-migracao-para-formatos-m1v-on-line/"><u>Movavi's Free Video File Converter: Compartilhando a Fácil Migração Para Formatos M1V On-Line</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/quickest-sharp-window-photo-enhancer/"><u>Quickest Sharp Window Photo Enhancer</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-controller-recognition-in-steam-on-windows/"><u>Unlock Controller Recognition in Steam on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-makes-dxvk-a-key-player-for-games-on-windows-pcs/"><u>What Makes DXVK a Key Player for Games on Windows PCs?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/what-open-source-experts-look-for-in-a-career-move-more-than-just-finances/"><u>What Open-Source Experts Look For in a Career Move - More Than Just Finances!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Using iCloud Keychain for iOS/Android Network Access
-date: 2025-01-04T20:55:02.953Z
-updated: 2025-01-10T16:42:41.962Z
+date: 2025-01-11T05:27:19.679Z
+updated: 2025-01-16T09:33:56.035Z
 tags:
   - windows10
   - windows11
@@ -43,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 ![sharing tab open in properties menu of a drive-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sharing-tab-open-in-properties-menu-of-a-drive-1.jpg)
 4. Click on **Advanced Settings** in the new pop-up menu, check the **Share this folder** box, and wait, it's not over yet. Now to prevent unsolicited access to your locally shared drives, click on **Permissions**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. In the new menu that pops up, click on **Add**. Yet another box should pop up. Here, type in the username of your user account. Use a dedicated user account only for network access or use your primary account's username and press **Enter**. You should find your name is present on the list of users with permission to the shared drive.  
 ![Adding a new user in the access group of the shared drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/adding-a-new-user-in-the-access-group-of-the-shared-drive.jpg)
 6. Finally, click on your account name, and in the **Permissions for <account name>** section, check the **Full Control** box and hit **Apply**.  
@@ -54,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 ![Adding permissions to the user account and confimring changes by pressing on Apply](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/adding-permissions-to-the-user-account-and-confimring-changes-by-pressing-on-apply.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That's all the steps to share your drive on the local network. However, if you run into any trouble, it's recommended you check out the [dedicated guide on enabling Windows Network Share](https://www.makeuseof.com/how-network-file-share-windows-10/).
@@ -73,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 ![Selecting Network Share on Files app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/selecting-network-share-on-files-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Selecting SMB Protocol](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/selecting-smb-protocol.jpg)
@@ -83,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 ![Access established to the drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/access-established-to-the-drive.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -104,14 +100,22 @@ Close
 
 ![Connecting to the shared drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/connecting-to-the-shared-drive.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Typing in the IP of the Windows PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/typing-in-the-ip-of-the-windows-pc.jpeg)
 
 ![Typing in user account credentials](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/typing-in-user-account-credentials.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Access established to the drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/access-established-to-the-drive.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The shared drive being listed on the Browse Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-shared-drive-being-listed-on-the-browse-menu.jpeg)
@@ -119,10 +123,6 @@ Close
 Close
 
  Now you should be able to view the files on the shared drive. You can now download, upload or modify the local files on your Windows PC with ease and without having to download any third-party application.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Access Your PC Files on iOS/Android Without Third-Party Apps
 
@@ -140,22 +140,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-channel-identity-made-simple-with-these-top-11-zero-cost-tools/"><u>[New] In 2024, Channel Identity Made Simple with These Top 11 Zero-Cost Tools</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-expert-guide-to-instagram-data-decoding-and-actionable-strategies/"><u>[New] In 2024, Expert Guide to Instagram Data Decoding and Actionable Strategies</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-ultimate-12-selection-of-smart-flip-screen-vlog-cameras/"><u>[Updated] 2024 Approved The Ultimate 12 Selection of Smart Flip-Screen Vlog Cameras</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/5-chatgpt-prompts-for-expediting-mundane-hr-tasks/"><u>5 ChatGPT Prompts for Expediting Mundane HR Tasks</u></a></li>
-<li><a href="https://win-top.techidaily.com/facil-y-gratuita-sincronizacion-entre-ordenadores-pasos-simples-para-compartir-archivos/"><u>Fácil Y Gratuita Sincronización Entre Ordenadores: Pasos Simples Para Compartir Archivos</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-nokia-xr21-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Nokia XR21 Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/luminaries-in-augmented-sight-technology-for-2024/"><u>Luminaries in Augmented Sight Technology for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/maximizing-monitors-choosing-personalized-themes-in-win-1011/"><u>Maximizing Monitors: Choosing Personalized Themes in Win 10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/mending-disconnected-spotify-sessions-in-w10w11/"><u>Mending Disconnected Spotify Sessions in W10/W11</u></a></li>
-<li><a href="https://windows11.techidaily.com/peering-into-major-complaints-about-windows-11-launch/"><u>Peering Into Major Complaints About Windows 11 Launch</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-file-naming-powertoys-batch-renamer-tool/"><u>Quick File Naming: PowerToys Batch Renamer Tool</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-recovery-reviving-a-vanished-windows-update/"><u>Quick Recovery: Reviving a Vanished Windows Update</u></a></li>
-<li><a href="https://windows11.techidaily.com/solving-the-mystery-of-error-0x0000004e-on-windows/"><u>Solving the Mystery of Error 0X0000004E on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/stealthy-shutdown-auto-restart-guide-for-windows-pcs/"><u>Stealthy Shutdown: Auto-Restart Guide for Windows PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-your-workspace-integrating-directories-into-taskbar-menu/"><u>Streamlining Your Workspace: Integrating Directories Into Taskbar Menu</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-gear-and-components-insights/"><u>Tom's Tech Review: Gear & Components Insights</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-steps-for-non-responsive-nvidia-cp/"><u>Troubleshooting Steps for Non-Responsive NVidia CP</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-enhancing-videos-with-camtasias-ken-burns-trick/"><u>[New] 2024 Approved Enhancing Videos with Camtasia's Ken Burns Trick</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-master-7-tiktok-tools-for-maximum-viral-growth/"><u>[Updated] Master 7 TikTok Tools for Maximum Viral Growth</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-removing-unseen-frames-from-video-recordings/"><u>[Updated] Removing Unseen Frames From Video Recordings</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitter-sharing-guide-for-tiktok-content-for-2024/"><u>[Updated] Twitter Sharing Guide for TikTok Content for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/10-swift-routes-to-the-control-panel-interface/"><u>10 Swift Routes to the Control Panel Interface</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211142896-9798887638409-anayas-journey-to-the-fifth-dimension/"><u>Anaya's Journey to the Fifth Dimension | Free Book</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-review-caixuns-value-packed-75-4k-android-tv-experience/"><u>Comprehensive Review: Caixun's Value Packed 75 4K Android TV Experience</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/crafting-the-perfect-aesthetic-with-controlled-lighting-for-2024/"><u>Crafting the Perfect Aesthetic with Controlled Lighting for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-lava-yuva-3-pro-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Lava Yuva 3 Pro to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-preventing-google-chromes-autopilot-tabs/"><u>Guide to Preventing Google Chrome's Autopilot Tabs</u></a></li>
+<li><a href="https://windows11.techidaily.com/identify-and-solve-hidden-disk-space-problems-in-windows/"><u>Identify & Solve Hidden Disk Space Problems in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-spotify-link-reset-strategies/"><u>Mastering Windows Spotify Link Reset Strategies</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-glances-to-your-favorites-windows-shortcuts-uwp-apps/"><u>Quick Glances to Your Favorites: Windows Shortcuts (UWP Apps)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-no-more-files-warning-on-windows-11/"><u>Removing 'No More Files' Warning on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/revival-rituals-for-lost-windows-unlocking-off-screen-restoration-in-win-1011-6-essentials/"><u>Revival Rituals for Lost Windows: Unlocking Off-Screen Restoration in Win 10/11 (6 Essentials)</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-easy-way-opening-sticky-notes-on-win11/"><u>The Easy Way: Opening Sticky Notes on Win11</u></a></li>
 </ul></div>
 

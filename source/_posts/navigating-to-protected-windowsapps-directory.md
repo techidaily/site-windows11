@@ -1,7 +1,7 @@
 ---
 title: Navigating to Protected WindowsApps Directory
-date: 2025-01-08T23:35:31.259Z
-updated: 2025-01-10T18:03:43.597Z
+date: 2025-01-14T11:26:12.462Z
+updated: 2025-01-15T22:19:20.719Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the WindowsApps Folder?
 
  You can find the WindowsApps folder under the **C:\\Program Files** directory in Windows 10 and 11\. This folder has all the files related to UWP packages or Windows apps that you get from the Microsoft Store or that come preinstalled on Windows OS.
@@ -32,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
  The problem is that a basic Windows user or even a system administrator user account can't access or change the files in the folder. This is because it is owned by a Microsoft account named "TrustedInstaller." We've already covered [everything about TrustedInstaller](https://www.makeuseof.com/tag/what-is-trustedinstaller-and-why-does-it-keep-me-from-renaming-files/) and how to disable it in detail.
 
 ![WindowsApps Hidden Folder In Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/WindowsApps-Hidden-Folder.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Even if you uninstall or debloat some of the apps on Windows, the core application files are not removed from the WindowsApps folder. So, there are chances that such apps will reappear after a new Windows update.
 
@@ -62,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
 
  If you try to open it, you'll see an information popup saying, "You have been denied permission." So, to actually access that folder and gain exclusive read and write rights—you've got to do a bit more.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Change Ownership Properties to Get Access
 
  For the next steps, you need a user account with administrative rights. If you're a beginner, you must know [everything about the Administrator account](https://www.makeuseof.com/tag/windows-administrator-account-everything-need-know/) to understand the steps better.
@@ -84,19 +80,19 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
 ![Advanced Security Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/advanced-security-properties.jpg)
 6. Finally, click **OK** to select the Administrator as the owner and again **OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![User Group Selection Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/User-Group-Selection-Window.jpg)
 7. Then, tick the checkbox before the **Replace owner on sub containers and objects** text.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 8. Now, click the **Apply** button, followed by the **OK** button, to initiate the process of transferring ownership.  
 ![WindowsApps Advanced Security Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/WindowsApps-Advanced-Security-Settings.jpg)
 9. Once done, click the **OK** button on the next pop-up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you followed the steps above to take ownership of the WindowsApps folder, you can now move or delete files from that folder.
@@ -123,10 +119,6 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
 
 ![Change Ownership Command In Shell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Change-Ownership-Command-In-Shell.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The above command will restore all the files or folder ownership to the system administrator. It will take some time for your administrator user account to become the owner of the WindowsApps folder and everything in it.
 
  The access you gain by executing the above process is similar to that of the Windows File Explorer-based method. You have just automated the process and eliminated the unhiding of system files. Now, you can back up, clear some space, or make changes to the Windows apps' back-end files.
@@ -134,7 +126,7 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
  If you're facing crashes while executing the file, make sure to check out some [effective ways to fix PowerShell crash errors](http://www.makeuseof.com/windows-powershell-has-stopped-working-error-fix/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. How to Access WindowsApps via a Registry Hack
@@ -154,7 +146,15 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
 ![Take Ownership Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Take-Ownership-Context-Menu.jpg)
 7. In the Command Prompt, you must [give User Account Control Administrator rights](https://www.makeuseof.com/tag/user-account-control-windows-10/) for the registry hack to work. After that, please wait a few minutes for the window to close. Soon, it will display success messages constantly in the Command Prompt.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once finished, you'll no longer face the "You've been denied permission" error on clicking the WindowsApps folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Enjoy Unrestricted Access to the WindowsApps Folder
 
@@ -176,18 +176,18 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-prime-online-communities-eclipsing-twitterenasity-for-2024/"><u>[New] Prime Online Communities Eclipsing Twitter'enasity for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-crafting-comedy-the-art-of-parody-videos/"><u>[Updated] Crafting Comedy The Art of Parody Videos</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-exploring-social-boundaries-sign-up-for-a-facebook-profile/"><u>[Updated] In 2024, Exploring Social Boundaries Sign Up for a Facebook Profile</u></a></li>
-<li><a href="https://windows11.techidaily.com/1-crafting-personalized-borders-in-excel-a-step-by-step-guide/"><u>1. Crafting Personalized Borders in Excel: A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-real-time-videography-scaler/"><u>2024 Approved Real-Time Videography Scaler</u></a></li>
-<li><a href="https://windows11.techidaily.com/discover-microsoft-excels-innovative-integration-of-chatgpt-technology-for-enhanced-productivity/"><u>Discover Microsoft Excel's Innovative Integration of ChatGPT Technology for Enhanced Productivity</u></a></li>
-<li><a href="https://windows11.techidaily.com/easy-steps-for-changing-sheet-names-in-microsoft-excel/"><u>Easy Steps for Changing Sheet Names in Microsoft Excel</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/explore-the-extent-using-gpt-my-bots-for-game-strategy-and-imagery/"><u>Explore the Extent: Using GPT-My Bots for Game Strategy and Imagery</u></a></li>
-<li><a href="https://win-able.techidaily.com/get-your-game-on-with-these-11-tips-to-fix-borderlands-3-startup-troubles/"><u>Get Your Game On with These 11 Tips to Fix Borderlands 3 Startup Troubles</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-disk-repair-a-comprehensive-guide-to-using-windows-chkdsk-utility/"><u>Mastering Disk Repair: A Comprehensive Guide to Using Windows' Chkdsk Utility</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-guide-generating-word-mailing-labels-using-your-excel-spreadsheet/"><u>Step-by-Step Guide: Generating Word Mailing Labels Using Your Excel Spreadsheet</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-tutorial-on-leveraging-sumif-in-excel-techniques-and-strategies-for-effective-data-analysis/"><u>The Ultimate Tutorial on Leveraging SUMIF in Excel: Techniques and Strategies for Effective Data Analysis</u></a></li>
-<li><a href="https://windows11.techidaily.com/transform-your-productivity-microsoft-office-suite-available-in-immersive-quest-vr-experience/"><u>Transform Your Productivity: Microsoft Office Suite Available in Immersive Quest VR Experience!</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-aspect-ratios-decoded-youtube-edition-a-quick-reference-guide/"><u>[New] 2024 Approved Aspect Ratios Decoded YouTube Edition – A Quick Reference Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-crafting-success-leading-business-channels-for-professionals/"><u>[New] In 2024, Crafting Success Leading Business Channels for Professionals</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-audience-friendly-audio-fades-practices-in-audacity/"><u>[Updated] Audience-Friendly Audio Fades Practices in Audacity</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-professional-video-tweaks-with-these-top-8-free-editing-apps/"><u>[Updated] In 2024, Professional Video Tweaks with These Top 8 Free Editing Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-razer-device-absence-in-win-1011-via-synapse/"><u>Addressing Razer Device Absence in Win 10/11 via Synapse</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/boosting-views-a-guide-to-effective-facebook-video-advertising-techniques/"><u>Boosting Views A Guide to Effective Facebook Video Advertising Techniques</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cost-effective-aerospace-for-huge-datasets-at-low-rates-for-2024/"><u>Cost-Effective AeroSpace for Huge Datasets at Low Rates for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/discovering-the-path-into-windows-11-insider-group/"><u>Discovering the Path Into Windows 11 Insider Group</u></a></li>
+<li><a href="https://windows11.techidaily.com/ftdibussys-and-windows-exploring-the-memory-integrity-dilemshift/"><u>Ftdibus.sys and Windows: Exploring the Memory Integrity Dilemshift</u></a></li>
+<li><a href="https://windows11.techidaily.com/nullify-specification-shortfalls-alerts-in-win11/"><u>Nullify Specification Shortfalls Alerts in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-failed-capture-issue-in-win11-photoapp/"><u>Overcoming 'Failed Capture' Issue in Win11 PhotoApp</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-essentials-of-dts-play-fi-for-home-audio-enthusiasts/"><u>The Essentials of DTS Play-Fi for Home Audio Enthusiasts</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-your-screen-without-pin-in-windows-11/"><u>Unlock Your Screen Without PIN in Window's 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Crucial Cross-Platform Tools For Windows/Android Users
-date: 2024-08-08T05:58:45.444Z
-updated: 2024-08-09T05:58:45.444Z
+date: 2025-01-11T22:19:16.617Z
+updated: 2025-01-16T12:52:25.642Z
 tags:
   - windows10
   - windows11
@@ -20,15 +20,13 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 
  These are the Microsoft apps you need to install on your Android phone to help make it an extension of your Windows computer and then some.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Microsoft Authenticator
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![Sign-in request for Microsoft Authenticator on an Android device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Screenshot_20220922-035253_Authenticator-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![first screen of the Microsoft Authenticator app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Screenshot_20220922-035349_Authenticator-1.jpg)
 
@@ -45,21 +43,19 @@ Close
 **Download:**[Microsoft Authenticator](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2028826/https://play.google.com/store/apps/details?id=com.azure.authenticator) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Microsoft Edge
 
 ![Bing Homepage on Android phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_20230810_232521.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![Bing AI Chat on Microsoft Edge for Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_20230810_232625.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Send to devices option for Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_20230810_232555.jpg)
 
 Close
@@ -74,24 +70,23 @@ Close
 
 **Download:**[Microsoft Edge](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2028826/https://play.google.com/store/apps/details?id=com.microsoft.emmx) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ## 3\. Microsoft OneDrive
 
 ![Microsoft OneDrive app homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/microsoft-onedrive-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Microsoft OneDrive app add page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/microsoft-onedrive-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Microsoft OneDrive app file page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/microsoft-onedrive-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Microsoft OneDrive app account page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/microsoft-onedrive-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -103,14 +98,14 @@ Close
 
 **Download:**[Microsoft OneDrive](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2028826/https://play.google.com/store/apps/details?id=com.microsoft.skydrive) (Free, in-app purchases available)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Microsoft 365 (Office)
 
 ![Microsoft 365 home screen on Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_20230810_232905.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![Word files on Microsoft 365 for Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_20230810_232915.jpg)
 
 ![Microsoft 365 app options on Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_20230810_232923.jpg)
@@ -123,9 +118,6 @@ Close
 
 **Download:**[Microsoft 365 (Office)](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2028826/https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow) (Free, in-app purchases available)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## 5\. Link to Windows
 
 ![Phone Link Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Phone-Link-Photos.jpg)
@@ -138,9 +130,6 @@ Close
 
 ## 6\. Microsoft Launcher
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![microsoft launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/microsoft-launcher.jpg)
 
  If you're tired of the default skin on your phone, you should try Microsoft Launcher. This Android overlay is logged into your Microsoft account, giving you access to your calendar, Microsoft To Do list, OneNote Sticky Notes, and more.
@@ -149,12 +138,13 @@ Close
 
 **Download:**[Microsoft Launcher](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2028826/https://play.google.com/store/apps/details?id=com.microsoft.launcher) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Microsoft SwiftKey AI Keyboard
 
 ![bing chat in swiftkey on android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-in-swiftkey-on-android.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  While the stock Gboard and Samsung Keyboard are more than enough for most Android users' needs, Microsoft SwitftKey delivers a couple of extra features. It gets a cross-platform clipboard via Windows Phone Link, making it a breeze to copy-pastie everything, from links to OTP codes.
 
@@ -162,16 +152,21 @@ Close
 
 **Download:**[Microsoft SwiftKey AI Keyboard](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2028826/https://play.google.com/store/apps/details?id=com.touchtype.swiftkey) (Free)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Microsoft Math Solver
 
 ![Microsoft Math Solver answer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_20230810_223548.jpg)
 
 ![Similar problems on Microsoft Math Solver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_20230810_223553.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Share to desktop on Microsoft Math Solver for Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_20230810_223601.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -191,12 +186,29 @@ Close
 
  These are the Microsoft apps you need to install on your Android phone to help make it an extension of your Windows computer and then some.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-master-of-mayhem-top-10-roguelites/"><u>[New] 2024 Approved Master of Mayhem Top 10 Roguelites</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-achieve-the-perfect-selfie-with-top-8-gear/"><u>[Updated] Achieve the Perfect Selfie with Top 8 Gear</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reactivate-sound-capture-in-obs-studio-on-windows-11-pcs/"><u>How to Reactivate Sound Capture in OBS Studio on Windows 11 PCs</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-audiovisual-archive-system-and-voice-recordings/"><u>In 2024, Audiovisual Archive System & Voice Recordings</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-15-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for iPhone 15 With 7 Methods</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Vivo X Flip? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-top-screenplay-scribblers-hub/"><u>In 2024, Top Screenplay Scribblers Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341676801-is-the-asus-rog-keris-ii-ace-a-worthy-successor-to-the-legendary-ragedeathadder-v3-pro-full-review-inside/"><u>Is the Asus ROG Keris II Ace a Worthy Successor to the Legendary RageDeathAdder V3 Pro? Full Review Inside!</u></a></li>
+<li><a href="https://windows11.techidaily.com/mobile-device-interaction-with-server-storage/"><u>Mobile Device Interaction with Server Storage</u></a></li>
+<li><a href="https://windows11.techidaily.com/never-delay-in-decision-making-terminal-as-admin-instantly/"><u>Never Delay in Decision Making: Terminal as Admin, Instantly</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-errors-for-smooth-navigation/"><u>Overcoming Windows Errors for Smooth Navigation</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-resurrecting-non-responsive-windows-batch-jobs/"><u>Strategies for Resurrecting Non-Responsive Windows Batch Jobs</u></a></li>
+<li><a href="https://windows11.techidaily.com/triumphant-tech-reboot-triple-effect-windows-fixes/"><u>Triumphant Tech Reboot: Triple-Effect Windows Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-full-potential-of-text-with-snipping-tool-on-win-11/"><u>Unlock Full Potential of Text with Snipping Tool on Win 11</u></a></li>
+</ul></div>
 

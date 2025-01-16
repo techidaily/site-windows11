@@ -1,7 +1,7 @@
 ---
 title: Decoding the Ten-Step Window Repair Journey
-date: 2024-08-08T06:01:21.882Z
-updated: 2024-08-09T06:01:21.882Z
+date: 2025-01-14T02:34:24.032Z
+updated: 2025-01-16T04:47:37.863Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,14 @@ thumbnail: https://thmb.techidaily.com/cb7e01d77e11396989975642eff6b3a0f56218967
 
 ![Typing RecoveryDrive in the Run command dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Typing-RecoveryDrive-in-the-Run-command-dialog-box.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Use the Start Menu Search Bar
 
  The Start menu search bar also makes it easy for you to open almost any program on your PC, including third-party apps.
@@ -40,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/cb7e01d77e11396989975642eff6b3a0f56218967
 1. Press the **Start menu search bar icon** on the taskbar or press **Win + S**.
 2. Type **Recovery Drive** and then select the **Best match**.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## 3\. Use the Start Menu
 
 ![Person using a Windows PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Person-using-a-Windows-PC.jpg)
@@ -57,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/cb7e01d77e11396989975642eff6b3a0f56218967
 
 ![Selecting the Recovery Drive option from the Start menu items](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Selecting-the-Recovery-Drive-option-from-the-Start-menu-items.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Use the File Explorer Address Bar
 
  There’s no denying that File Explorer is one of [the best file management tools](https://www.makeuseof.com/tag/automatically-organize-files-windows/). But did you know that you can use File Explorer’s address bar to open various apps?
@@ -66,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/cb7e01d77e11396989975642eff6b3a0f56218967
 1. Press **Win + E** to open File Explorer.
 2. Type **RecoveryDrive** in File Explorer's address bar and press **Enter**.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Typing RecoveryDrive in the File Explorer Address Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Typing-RecoveryDrive-in-the-File-Explorer-Address-Bar.jpg)
 
 ## 5\. Use the System Settings
@@ -80,10 +86,11 @@ thumbnail: https://thmb.techidaily.com/cb7e01d77e11396989975642eff6b3a0f56218967
 1. Press **Win + I** to open the system settings.
 2. Type **Recovery Drive** in the search box and then click the relevant option.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![Typing Recovery Drive in the settings search box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Typing-Recovery-Drive-in-the-settings-search-box.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Use the Control Panel
 
@@ -100,8 +107,9 @@ thumbnail: https://thmb.techidaily.com/cb7e01d77e11396989975642eff6b3a0f56218967
 ![Clicking the Create a recovery drive option on the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Clicking-the-Create-a-recovery-drive-option-on-the-Control-Panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Search for the Recovery Drive App in the System32 Directory
 
  Did you know that the System32 directory contains executable (EXE) files that help you easily access various apps?
@@ -120,6 +128,10 @@ thumbnail: https://thmb.techidaily.com/cb7e01d77e11396989975642eff6b3a0f56218967
 
  To pin the Recovery Drive app to the taskbar, right-click on the **RecoveryDrive** file in the System32 folder and then select **Pin to taskbar**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Use the Task Manager
 
  The Task Manager can help you force close Windows programs (although you can [force close a Windows program without the Task Manager](https://www.makeuseof.com/tag/how-to-kill-unresponsive-programs-without-the-task-manager/)) or analyze your PC’s performance. Now, the good news is that this tool can also help you open various apps.
@@ -131,21 +143,15 @@ thumbnail: https://thmb.techidaily.com/cb7e01d77e11396989975642eff6b3a0f56218967
 3. Select **Run new task**.
 4. Type **RecoveryDrive** in the search box and press **OK** to access the Recovery Drive app.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![Opening the Recovery Drive app using the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Opening-the-Recovery-Drive-app-using-the-Task-Manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 9\. Use the Command Prompt or PowerShell
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can always use the Command Prompt or PowerShell to configure some settings or troubleshoot system issues. Now, we’ll check out how you can use these tools to open the Recovery Drive app.
 
@@ -169,10 +175,11 @@ RecoveryDrive
 
 ## 10\. Use a Recovery Drive Desktop Shortcut
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![A person using a Windows computer on a brown desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-person-using-a-Windows-computer-on-a-brown-desk.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  One of the easiest ways to access the Recovery Drive app is by using a desktop shortcut. But if you don't have the Recovery Drive shortcut, then you can create it through these steps:
 
@@ -181,32 +188,23 @@ RecoveryDrive
 3. Type **%windir%\\system32\\RecoveryDrive** in the location box.
 4. Press **Next** to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Creating the RecoveryDrive desktop shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Creating-the-RecoveryDrive-desktop-shortcut.jpg)
 
  Type **Recovery Drive App** or something similar in the **Name** box. From there, press the **Finish** button.
 
  You can now easily access the Recovery Drive app by using your desktop shortcut. To make the desktop shortcut easily accessible, simply pin it to the taskbar.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What’s Your Favorite Method for Opening the Recovery Drive App?
 
  The Windows Recovery Drive app is the perfect tool if you want to create a recovery drive on Windows. To quickly access this app, apply any of the methods we’ve covered.
 
  And if you want more ways to diagnose and fix your PC problems, check out the Windows Recovery Environment tool.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -215,6 +213,22 @@ RecoveryDrive
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-kaji-ryan-at-11-amassing-wealth-via-online-videos/"><u>[New] 2024 Approved Kaji Ryan At 11, Amassing Wealth via Online Videos</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-unraveling-youtubes-ranks-the-deciding-elements/"><u>[New] 2024 Approved Unraveling YouTube's Ranks The Deciding Elements</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-perfecting-obs-broadcasts-for-facebook-audience/"><u>[New] In 2024, Perfecting OBS Broadcasts for Facebook Audience</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-unleash-your-vision-establishing-an-entrepreneurial-video-haven-on-phone/"><u>[Updated] 2024 Approved Unleash Your Vision Establishing an Entrepreneurial Video Haven on Phone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-launching-educator-channels-10-key-tips-for-youtube-success/"><u>[Updated] Launching Educator Channels 10 Key Tips for YouTube Success</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-simple-systems-a-step-by-step-guide-to-documenting-google-hangoutsmeet/"><u>[Updated] Simple Systems A Step-by-Step Guide to Documenting Google Hangouts/Meet</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-updater-failures-eliminate-xerror-0x80246007-in-win1011/"><u>Fixing Updater Failures: Eliminate XError 0X80246007 in Win10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-phone-link-app-notifications-not-working-on-windows/"><u>How to Fix Phone Link App Notifications Not Working on Windows</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-the-professionals-guide-to-4k-monitors-spotlight-on-bl2711u-by-benq/"><u>In 2024, The Professional's Guide to 4K Monitors - Spotlight on BL2711U by BenQ</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-the-art-of-finding-administrative-rules-on-pcs/"><u>Master the Art of Finding Administrative Rules on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-gameplay-and-frames-per-second-in-roblox-windows/"><u>Optimizing Gameplay & Frames per Second in Roblox Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-essential-expedition-for-pinpointing-pc-program-locations/"><u>The Essential Expedition for Pinpointing PC Program Locations</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-oppo-a78-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Oppo A78? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-frozen-epic-launcher-steps-for-win-users/"><u>Troubleshooting Frozen Epic Launcher: Steps for Win Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-full-potential-of-windows-startup-options/"><u>Unlocking the Full Potential of Windows Startup Options</u></a></li>
+</ul></div>
 

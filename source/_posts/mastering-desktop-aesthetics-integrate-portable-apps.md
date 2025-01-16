@@ -1,7 +1,7 @@
 ---
 title: "Mastering Desktop Aesthetics: Integrate Portable Apps"
-date: 2025-01-03T16:58:15.775Z
-updated: 2025-01-10T23:40:15.472Z
+date: 2025-01-08T16:51:51.588Z
+updated: 2025-01-15T16:07:19.308Z
 tags:
   - windows10
   - windows11
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/8581bfa31a5d038a1f8f5ee676586f0437981f1b9
 4. Once downloaded, double-click**SyMenuPackage.exe** file to open an archive extraction window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click the**ellipses** button.
@@ -44,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/8581bfa31a5d038a1f8f5ee676586f0437981f1b9
 7. Add**SyMenu** to the end of the program path to create a separate folder for the software.  
 ![The self-extracting archive for SyMenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/self-extracthing-archive.jpg)
 8. Then click the**Extract** option for the archive.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now it's time to get SyMenu up and running:
 
@@ -55,7 +59,7 @@ Now it's time to get SyMenu up and running:
 ![The menu structure options for SyMenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-menu-options.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use SyMenu on Windows
@@ -68,17 +72,9 @@ Now it's time to get SyMenu up and running:
 
 ![The Item Manager tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-item-manager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then you can launch the added software from the app menu. To view more options for an app, right-click its entry on the menu. You can select**Run elevated** ,**Open folder** , and**Delete item** options from a program’s submenu.
 
 ![An app submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/program-options.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Or you can add new apps to the menu from the**SyMenu** program suite. To do so, select the**Get new apps** option on the menu. Choose portable software in the**SyMenu Suite** tab, and select the**Download** option.
 
@@ -88,17 +84,9 @@ Now it's time to get SyMenu up and running:
 
 ![The Theme tab for SyMenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-theme-tab.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The SyMenu options window also includes a**Structure** tab. You can restructure the menu by dragging items up and down the**Menu structure** box. To add more separators, drag**<Separator>** from available elements onto a menu position. Select**Apply** to save all changes made in the SyMenu options window.
 
  If you're looking for apps to add to your repertoire, why not check out[the best portable apps that require no installation](https://www.makeuseof.com/tag/best-portable-apps/) ?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Add a Portable Software Menu With LiberKey
 
@@ -127,6 +115,10 @@ Now it's time to get SyMenu up and running:
 
 ![The small LiberKey menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-small-liberkey-menu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  First, you’ll need to add a new menu tab for your portable software. Click the small**User menus** arrow button to select**Create new menu** . Input a title for the tab in the Menu name box and select**OK** .
 
 ![The Create new menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-delete-current-item-option.jpg)
@@ -134,6 +126,10 @@ Now it's time to get SyMenu up and running:
  Then you can add software to the new menu tab. Right-click anywhere in the tab and select**New shortcut** \>**Application/file** . Choose a portable app to include on the menu and click**Open** .
 
 ![The New shortcut option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-new-shortcut-submenu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also add categories for grouping software to menu tabs. Right-click a menu tab to select the**New Category** option. Input a title in the name box and select**OK** . Then you can drag app shortcuts on LiberKey into category submenus.
 
@@ -145,15 +141,19 @@ Now it's time to get SyMenu up and running:
 
 ![The Color tab for LiberKey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-liberkey-color-tab.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can reconfigure LiberKey’s effects from the**User Interface** tab on the Configuration window. Select the disable options there to turn off the menu’s animation effects. To add an analog clock to the menu’s LiberKey logo, select the**Displayclock** checkbox. You can also adjust the menu open delay by selecting**Custom** and entering an alternative millisecond value.
 
 ![The User interface settings for LiberKey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-user-interface-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you're a student on the go, be sure to check out the[best free portable apps for students you can take anywhere](https://www.makeuseof.com/free-portable-apps-for-students/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Make Your Portable Apps More Accessible on Windows
 
@@ -174,21 +174,21 @@ Now it's time to get SyMenu up and running:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-sierras-cloud-essentials-drives-full-access-guide/"><u>[New] 2024 Approved Sierra's Cloud Essentials Drives Full Access Guide</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-comparative-study-vidma-vs-standard-screen-recording/"><u>[Updated] 2024 Approved Comparative Study Vidma vs Standard Screen Recording</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-amplify-viewership-with-these-top-10-youtube-reaction-strategies/"><u>[Updated] In 2024, Amplify Viewership with These Top 10 YouTube Reaction Strategies</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-from-silence-to-symphony-enhancing-stories-with-ig-music/"><u>[Updated] In 2024, From Silence to Symphony Enhancing Stories with IG Music</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/dealing-with-limited-system-resources-solutions-to-the-inadequate-memory-bug-in-god-of-war/"><u>Dealing with Limited System Resources: Solutions to the 'Inadequate Memory' Bug in God of War</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-guide-to-using-microsoft-copilot-in-development/"><u>Essential Guide to Using Microsoft Copilot in Development</u></a></li>
-<li><a href="https://windows11.techidaily.com/fix-your-slow-internet-matching-mobile-and-desktop-speeds/"><u>Fix Your Slow Internet: Matching Mobile and Desktop Speeds</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-on-iphone-se-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on iPhone SE? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-meaning-of-windows-mbr-error-messages/"><u>Mastering the Meaning of Windows MBR Error Messages</u></a></li>
-<li><a href="https://windows11.techidaily.com/resetting-forgotten-power-schemes-on-ws-11/"><u>Resetting Forgotten Power Schemes on WS 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-windows-lockout-due-to-failed-sign-in-attempts/"><u>Resolving Windows Lockout Due to Failed Sign-In Attempts</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamline-your-tasks-top-9-reasons-to-adopt-modernized-outlook/"><u>Streamline Your Tasks: Top 9 Reasons to Adopt Modernized Outlook</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/tailored-interaction-on-a-single-display-introducing-jdis-2vd-screen-that-provides-two-personalized-touch-experiences/"><u>Tailored Interaction on a Single Display - Introducing JDI's 2VD Screen that Provides Two Personalized Touch Experiences</u></a></li>
-<li><a href="https://fox-access.techidaily.com/turn-template-ideas-into-real-logo-artwork-for-2024/"><u>Turn Template Ideas Into Real Logo Artwork for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/unlock-the-power-of-coding-with-stellar-toolkit-essential-tricks-and-insider-knowledge-for-developers/"><u>Unlock the Power of Coding with Stellar Toolkit - Essential Tricks and Insider Knowledge for Developers</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-how-to-fix-older-user-credential-message/"><u>Unlocking: How to Fix Older User Credential Message</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-natural-beauty-video-suggestions/"><u>[New] Natural Beauty Video Suggestions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-interviews-fans-magnetism-in-audio/"><u>2024 Approved Innovative Interviews Fans' Magnetism in Audio</u></a></li>
+<li><a href="https://windows11.techidaily.com/customize-pointer-design-in-microsoft-systems/"><u>Customize Pointer Design in Microsoft Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/dissecting-the-dichotomy-microsoft-vs-native-user-account-on-windows-os/"><u>Dissecting the Dichotomy: Microsoft vs Native User Account on Windows OS</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/educational-advancement-powered-by-mondlys-apple-initiative/"><u>Educational Advancement Powered by Mondly’s Apple Initiative</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-poco-x6-by-drfone-android/"><u>How to Bypass FRP from Poco X6?</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-enhance-copy-paste-efficiency-across-browsers/"><u>How to Enhance Copy-Paste Efficiency Across Browsers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-pantheon-of-youtubes-all-time-highest-views/"><u>In 2024, Pantheon of YouTube's All-Time Highest Views</u></a></li>
+<li><a href="https://win-net.techidaily.com/losung-fur-den-nicht-aufklappbaren-windows-11-defender-startet-sofort/"><u>Lösung Für Den Nicht Aufklappbaren Windows 11 Defender - Startet Sofort!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-offworlds-cutthroat-market-tips-for-constructing-a-thriving-economic-powerhouse/"><u>Navigating Offworld's Cutthroat Market: Tips for Constructing a Thriving Economic Powerhouse</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-error-printer-spooler-not-active-on-windows/"><u>Overcoming Error: “Printer Spooler Not Active” On Windows</u></a></li>
+<li><a href="https://facebook.techidaily.com/potential-threats-in-the-land-of-facebook-quiz-games/"><u>Potential Threats in the Land of Facebook Quiz Games?</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-sniping-techniques-alternatives-to-windows-snipping-capability/"><u>Quick Sniping Techniques: Alternatives to Windows' Snipping Capability</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-dism-error-code-0x800f082f-on-windows-systems/"><u>Resolving DISM Error Code: 0X800F082F on Windows Systems</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/review-of-amazons-latest-smart-display-the-new-and-improved-echo-show-10/"><u>Review of Amazon's Latest Smart Display - The New and Improved Echo Show 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-office-activation-woes/"><u>Unlocking Windows Office Activation Woes</u></a></li>
 </ul></div>
 

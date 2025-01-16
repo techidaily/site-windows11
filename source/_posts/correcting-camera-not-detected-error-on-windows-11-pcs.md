@@ -1,7 +1,7 @@
 ---
 title: Correcting “Camera Not Detected” Error on Windows 11 PCs
-date: 2024-08-08T06:00:50.860Z
-updated: 2024-08-09T06:00:50.860Z
+date: 2025-01-12T03:19:34.192Z
+updated: 2025-01-15T16:24:03.762Z
 tags:
   - windows10
   - windows11
@@ -23,8 +23,9 @@ thumbnail: https://thmb.techidaily.com/f6caddae96019a4142339a6d719f3ef49075dd557
  If you would like your camera to be detected again, here are a few checks and fixes that might help.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Apply Some Preliminary Checks
 
  Start diagnosing the problem by applying the following preliminary checks first, as they may resolve the issue immediately:
@@ -57,40 +58,32 @@ thumbnail: https://thmb.techidaily.com/f6caddae96019a4142339a6d719f3ef49075dd557
 3. Open the **Camera** settings from the right pane.  
 ![Go to Camera Settings in the Bluetooth and Devices Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/1-go-to-camera-settings-in-the-bluetooth-and-devices-tab-of-the-windows-settings-app.jpg)
 4. If the primary camera is disabled here, click the **Enable** button to enable it again.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![Enable the Camera in the Bluetooth and Devices Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/2-enable-the-camera-in-the-bluetooth-and-devices-tab-of-the-windows-settings-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In case the camera is already enabled, continue to the next step.
 
  If no camera is listed under **Connected cameras**, the system has failed to detect any camera on your device. If that is the case, recheck the camera connection.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 4\. Run the Camera and Microsoft Store Apps Troubleshooters
 
  Windows has a built-in camera troubleshooter that automatically helps users fix camera problems. Running the troubleshooter holds a good chance of resolving the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![The Camera troubleshooting window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/camera-troubleshooter-window.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Windows also offers another troubleshooter called Windows Store Apps, which helps scan and fix problems with Microsoft Store apps (formerly known as Windows Store). Since the Camera app is a Microsoft Store app, running this troubleshooter might also help resolve issues with it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-windows-store-apps-troubleshooter.jpg)
 
  Therefore, follow our guide on [how to run any troubleshooter in Windows 10 and 11](https://www.makeuseof.com/run-troubleshooter-windows-10-11/) to run the Camera and Windows Store Apps troubleshooter.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Check Your Camera Permissions
 
  If you receive the error under discussion when accessing the camera from a third-party app, the app might not have access to the device's camera. Therefore, ensure that the app has permission to access the camera and grant it if it does not.
@@ -99,15 +92,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Enable the Camera Access in the Privacy and Security Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/3-enable-the-camera-access-in-the-privacy-and-security-tab-of-the-windows-settings-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Update, Reinstall, or Rollback the Camera Drivers
 
  It is essential to update the camera drivers so that the operating system and apps can communicate with the camera hardware. If they become corrupt or outdated, this communication can be hampered, resulting in errors.
 
  To check for new driver updates, go to Device Manager, expand the **Cameras** category, right-click on the relevant camera driver, and select **Update driver**.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![Update the Relevant Camera Driver From Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/4-update-the-relevant-camera-driver-from-windows-device-manager.jpg)
 
  If updating the driver doesn't help, right-click on the driver again and choose **Uninstall device**. Then, restart your device, and Windows will install the most recent driver for you.
@@ -125,8 +123,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  If that's the case, you should repair the app, which will resolve minor issues. If that doesn't work, reset the app, which may fix underlying issues but will also remove all customizations you've made. If you are unfamiliar with the process, refer to our guides on [how to reset an app](https://www.makeuseof.com/windows-reset-app/) (or [repair the app](https://www.makeuseof.com/windows-repair-apps-programs/)).
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get Your Camera Back to Work
 
  Seeing the Camera app or any other video conferencing app not detecting the camera at crucial moments can be unsettling. Hopefully, you better understand what causes the "we can't find your camera" error. Also, if you correctly apply the fixes covered above, you should be able to resolve the issue and get your camera working again.
@@ -137,12 +136,31 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  If you would like your camera to be detected again, here are a few checks and fixes that might help.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-evaluating-artistic-quality-luminances-hdr-capability/"><u>[New] Evaluating Artistic Quality Luminance's HDR Capability</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-huntings-top-5-high-quality-video-recorders/"><u>[New] Hunting's Top 5 High-Quality Video Recorders</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-enabling-instant-access-to-youtube-videos-in-your-facebook-browsing/"><u>[Updated] 2024 Approved Enabling Instant Access to YouTube Videos in Your Facebook Browsing</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-direct-video-tweeting-on-phones-avoid-retweets/"><u>In 2024, Direct Video Tweeting on Phones - Avoid Retweets</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-turning-voice-into-text-mastering-microsoft-words-speech-toolkit/"><u>In 2024, Turning Voice Into Text Mastering Microsoft Word's Speech Toolkit</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ase-clicks-and-watch-time-with-best-in-class-thumbnails-for-youtube-for-2024/"><u>Increase Clicks and Watch Time with Best-in-Class Thumbnails for YouTube for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/maximizing-income-mastering-short-video-markets/"><u>Maximizing Income Mastering Short Video Markets</u></a></li>
+<li><a href="https://windows11.techidaily.com/modify-account-lockout-frequency-post-failed-attempts-with-ease-win-11-edition/"><u>Modify Account Lockout Frequency Post Failed Attempts with Ease, Win 11 Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-steam-disconnection-challenges-on-windows/"><u>Navigating Steam Disconnection Challenges on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-in-use-errors-a-guide-for-windows-users-153-chars/"><u>Preventing In Use Errors: A Guide for Windows Users (153 Chars)</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinstating-file-explorer-classics/"><u>Reinstating File Explorer Classics</u></a></li>
+<li><a href="https://techidaily.com/remove-x-fold-2-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove X Fold 2 unlock screen</u></a></li>
+<li><a href="https://windows11.techidaily.com/revitalizing-your-ctrl-command-on-a-new-windows-11-machine/"><u>Revitalizing Your Ctrl Command on a New Windows 11 Machine</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/step-by-step-guide-retrieving-information-from-your-aged-playstation-4-storage-device/"><u>Step-by-Step Guide: Retrieving Information From Your Aged PlayStation 4 Storage Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-your-digital-experience-using-window-11s-search-box/"><u>Streamline Your Digital Experience: Using Window 11'S Search Box</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-selection-of-8-best-rated-windows-pomodoro-timer-tools/"><u>The Ultimate Selection of 8 Best-Rated Windows Pomodoro Timer Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/upgrading-antique-directx-programming-with-dxvk-tools/"><u>Upgrading Antique DirectX Programming with DXVK Tools</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Time Traveling Your Data: Modifying Windows File Dates"
-date: 2025-01-08T22:24:06.746Z
-updated: 2025-01-10T20:01:09.451Z
+date: 2025-01-14T15:35:59.896Z
+updated: 2025-01-15T23:48:45.276Z
 tags:
   - windows10
   - windows11
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/ecc3916e90aab64f99ff84f9c45d036bcf1e08682
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Change the Date Created, Date Accessed, and Date Modified Attributes Using PowerShell
 
  File Explorer doesn't allow changing critical attributes, such as the date a document was created, accessed, or modified. With [PowerShell, a command-line interface utility built into Windows](http://www.makeuseof.com/what-is-windows-powershell/), you can modify them.
@@ -39,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/ecc3916e90aab64f99ff84f9c45d036bcf1e08682
 
 ![Run windows powershell as administrator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/run-windows-powershell-as-administrator.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then, navigate to the directory where the file or folder you want to change the attributes of is located. Type **cd..** to move back one folder in the given path, and **cd folder\_name** to move to the next folder.
 
  For example, our desired folder is located at the following location:
@@ -54,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/ecc3916e90aab64f99ff84f9c45d036bcf1e08682
 ![changing the directories in PowerShell on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/changing-directories.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Therefore, use both commands to reach the folder you want to modify attributes for. After landing in your desired directory, type the following command after inserting the file name and your preferred date of creation:
@@ -76,15 +76,15 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
 
 ![Showing dates of a file we are about to change in the properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/dates-of-a-file-we-are-about-to-change.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After changing them with PowerShell, here are the updated dates:
 
 ![Date created and date modified of a file successfully changed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/date-created-and-date-modified-of-a-file-successfully-changed.jpg)
 
  Windows makes real-time changes to attributes. Therefore, don't modify or access the file after making changes since it will change the modified and accessed dates again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Modify the Date Created, Date Accessed, and Date Modified Using Attribute Changer
 
@@ -100,13 +100,13 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
 ![opening the attribute changer app from context menu of a file in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/opening-the-attribute-changer-app-from-context-menu-of-a-file-in-windows.jpg)
 2. Once the application opens, check the box beside **Modify date and time stamps** to make the date field editable.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Change the date and time when a file was first created and the last time you accessed or modified it according to your preference.  
 ![changing the attributes of a file from the atribute changer app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/changing-the-attributes-of-a-file-from-the-atribute-changer-app.jpg)
 4. Once you've made your changes, click **Apply** to make them permanent.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Click **Yes** in the confirmation pop-up, and the file attributes will be changed successfully.
 
@@ -129,7 +129,7 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
 6. To remove selected properties, check the circle beside **Remove the following properties from this file**, select the attributes you want to remove, and click **OK**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Modify Your File's Attributes With Ease
@@ -152,14 +152,18 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-top-rated-free-tools-to-extract-youtube-text-tracks/"><u>[Updated] 2024 Approved Top-Rated Free Tools to Extract YouTube Text Tracks</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-wirecast-vs-obs-which-is-better/"><u>[Updated] Wirecast Vs OBS Which Is Better?</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ing-attention-with-eye-catching-intros-in-imovie/"><u>Focusing Attention with Eye-Catching Intros in iMovie</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-reactivate-the-printer-spooler-in-windows/"><u>How to Reactivate the Printer Spooler in Windows</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-numbers-in-focus-yearly-yt-trends-and-trivia-2017/"><u>In 2024, Numbers in Focus! Yearly YT Trends & Trivia (2017)</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-window-11-functionality-through-enhanced-run-capabilities/"><u>Mastering Window 11 Functionality Through Enhanced Run Capabilities</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/movavi-trial-limit-terms-and-conditions-comprehensive-guide/"><u>Movavi Trial Limit Terms & Conditions - Comprehensive Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/transformative-techniques-for-mastering-windows-11-taskbar/"><u>Transformative Techniques for Mastering Windows 11 Taskbar</u></a></li>
-<li><a href="https://windows11.techidaily.com/unseen-wi-fi-networks-how-to-make-them-visible-win11/"><u>Unseen Wi-Fi Networks: How to Make Them Visible Win11</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-rejuvenate-your-pictures-the-most-powerful-10-online-edits/"><u>[New] 2024 Approved Rejuvenate Your Pictures The Most Powerful 10 Online Edits</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-easy-steps-to-rotate-video-in-vlc/"><u>[Updated] 2024 Approved Easy Steps to Rotate Video in VLC</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-grandest-clash-of-titans-a-compilation-of-the-top-7-total-war-skirmishes/"><u>[Updated] 2024 Approved Grandest Clash of Titans A Compilation of the Top 7 Total War Skirmishes</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-mastering-medias-closing-chapters/"><u>2024 Approved Mastering Media's Closing Chapters</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquering-computer-recovery-top-10-tactics/"><u>Conquering Computer Recovery: Top 10 Tactics</u></a></li>
+<li><a href="https://windows11.techidaily.com/guidelines-to-erase-steam-dns-information-on-pc/"><u>Guidelines to Erase Steam DNS Information on PC</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-13-waze-drfone-by-drfone-virtual-ios/"><u>In 2024, 7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 13 Waze | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-z50s-pro-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Nubia Z50S Pro Bootloader Easily</u></a></li>
+<li><a href="https://windows11.techidaily.com/never-disable-wins-11-notifications-why/"><u>Never Disable Wins 11 Notifications: Why?</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-disabled-remove-option-for-pin-access-control/"><u>Reviving Disabled 'Remove' Option for PIN Access Control</u></a></li>
+<li><a href="https://solve-help.techidaily.com/top-5-beliebteste-youtube-mp3-herunterleerer-fur-mac-os-2018-getestet/"><u>Top 5 Beliebteste Youtube-MP3-Herunterleerer Für Mac OS 2018 Getestet</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win11-driver-improvement-radeon-5450-version/"><u>Win11 Driver Improvement: Radeon 5450 Version</u></a></li>
 </ul></div>
 

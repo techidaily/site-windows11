@@ -1,7 +1,7 @@
 ---
 title: Solutions for Unwanted Chrome Tab Autopilot in Windows
-date: 2025-01-04T18:18:28.018Z
-updated: 2025-01-10T21:09:32.914Z
+date: 2025-01-15T11:47:56.434Z
+updated: 2025-01-16T05:43:01.609Z
 tags:
   - windows10
   - windows11
@@ -45,11 +45,11 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 
 ![Check if the Shortcut Keys to Open New Tabs in Chrome Aren’t Pressed on the On-Screen Keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/2-check-if-the-shortcut-keys-to-open-new-tabs-in-chrome-aren-t-pressed-on-the-on-screen-keyboard.jpg)
 
- If this is the case, unplug or [temporarily turn off your keyboard](https://www.makeuseof.com/windows-disable-laptop-keyboard/) and have it inspected. However, if no keys appear to be pressed, move on to the next step.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If this is the case, unplug or [temporarily turn off your keyboard](https://www.makeuseof.com/windows-disable-laptop-keyboard/) and have it inspected. However, if no keys appear to be pressed, move on to the next step.
 
 ## 3\. Stop Chrome From Opening Links in New Tabs
 
@@ -62,17 +62,21 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 ![Open See All Search Settings in the Chrome Quick Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3-open-see-all-search-settings-in-the-chrome-quick-settings.jpg)
 3. Navigate to the **Where results open** section and uncheck the box beside **Open each selected result in a new browser window**.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Uncheck the Box Beside Open Each Selected Result in a New Browser Window Option in See All Search Settings in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/4-uncheck-the-box-beside-open-each-selected-result-in-a-new-browser-window-option-in-see-all-search-settings-in-chrome.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Stop Chrome From Opening New Tabs on PC Startup or Browser Launch
 
  If Chrome automatically launches and opens new tabs when your Windows device boots up, you probably granted it permission to do so. To turn off this permission, open Task Manager, navigate to the **Startup apps** tab, locate **Chrome** in the list of applications, right-click on it, and choose **Disable**.
 
 ![Disable Chrome From Startup Apps in the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-chrome-from-startup-apps-in-the-task-manager-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If new tabs open up at browser startup, you've probably configured the browser to open a set of new tabs at its launch or to open the tabs you left open when you last used the browser. Follow these steps to remove these permissions:
 
@@ -81,25 +85,25 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 3. Navigate to the **On startup** tab and check the circle besides **Open the New Tab page**.  
 ![Select Open the New Tab Option in the On Startup Tab of Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/6-select-open-the-new-tab-option-in-the-on-startup-tab-of-chrome-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Ensure That the Website You Are on Isn’t Malicious
 
  If Chrome opens new tabs with unwanted websites whenever you click on a text, link, or area on a particular website, that site or its content is likely malicious. That might explain why it redirects you to malicious offers and landing pages run by threat actors.
 
  There are many ways to determine whether a website is untrustworthy, so learn [how to check if a site is safe](https://www.makeuseof.com/how-to-check-if-a-website-is-safe-to-use/) for more information.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Ensure Your Browser and Device are Malware-Free
 
  The Chrome browser can also misbehave or act strangely if infected with malware or viruses. If none of the fixes above resolve the problem, your browser could be infected with a [browser hijacker](https://www.makeuseof.com/what-is-browser-hijacking/).
 
  If the problem persists despite removing the hijacker, you may have a malware infection on your device, forcing Chrome to open unwanted websites on its own. To rule out this possibility, [run a full malware scan using a Microsoft Security scanner](https://www.makeuseof.com/microsoft-safety-scanner-guide/) to get rid of any possible infections.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Reset and Reinstall Chrome
 
@@ -110,10 +114,6 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 ![Click Restore Settings to their Original Defaults Option to Reset Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/7-click-restore-settings-to-their-original-defaults-option-to-reset-chrome-settings.jpg)
 
  If resetting the browser also doesn't work, you can reinstall the browser from scratch, which is the least desirable solution. Before you begin the new installation, ensure you properly remove the old installation using our guide on [uninstalling apps on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Stop Chrome From Opening New Tabs on Windows
 
@@ -137,17 +137,21 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-professional-handbook-integrating-countdown-mechanisms-into-streaming-tools/"><u>[New] 2024 Approved Professional Handbook Integrating Countdown Mechanisms Into Streaming Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatbots-rising-the-transformation-of-digital-storytelling/"><u>Chatbots Rising: The Transformation of Digital Storytelling</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/end-of-an-era-for-apple-pay-later-unveiling-apples-latest-financial-solutions-strategy/"><u>End of an Era for Apple Pay Later: Unveiling Apple’s Latest Financial Solutions Strategy</u></a></li>
-<li><a href="https://windows11.techidaily.com/fortifying-win-connections-for-uninterrupted-surfing/"><u>Fortifying Win Connections for Uninterrupted Surfing</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Realme Narzo N53? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Infinix Smart 7 HD? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-coexistence-of-ethernet-and-wi-fi-for-enhanced-productivity/"><u>Mastering the Coexistence of Ethernet & Wi-Fi for Enhanced Productivity</u></a></li>
-<li><a href="https://windows11.techidaily.com/old-habits-die-hard-reasons-for-sticking-with-windows-10/"><u>Old Habits Die Hard – Reasons for Sticking with Windows 10</u></a></li>
-<li><a href="https://windows11.techidaily.com/techniques-for-deactivating-hyper-v-win11/"><u>Techniques for Deactivating Hyper-V Win11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/unraveling-the-mystery-of-a-missing-graphics-driver/"><u>Unraveling the Mystery of a Missing Graphics Driver</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-the-hidden-truth-behind-windows-activation-error-0x8007251d/"><u>Unveiling the Hidden Truth Behind Windows Activation Error 0X8007251D</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-flight-in-the-smallest-form-a-compreenasive-look-at-dji-sparks-miniature-wonders/"><u>[New] Flight in the Smallest Form A Compreenasive Look at DJI Spark's Miniature Wonders</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-quick-fixes-eliminate-ssgnatures-in-a-blink/"><u>[Updated] 2024 Approved Quick Fixes Eliminate Ssgnatures in a Blink</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-ultimate-guide-premier-live-streaming-plus-local-channels-2024/"><u>[Updated] Ultimate Guide Premier Live Streaming + Local Channels 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-unlocking-the-potential-of-virtual-backgrounds-in-webcasters-arsenal/"><u>2024 Approved Unlocking the Potential of Virtual Backgrounds in Webcasters' Arsenal</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-beginners-guide-to-managing-windows-11-wins/"><u>A Beginner's Guide to Managing Windows 11 Wins</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-guide-to-understanding-windows-program-files-format/"><u>A Guide to Understanding Windows' Program Files Format</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/bett-2022-connecting-educators-everywhere/"><u>BETT 2022 - Connecting Educators Everywhere</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabling-secure-transfer-of-textual-data-via-edges-guardspace-win11-version/"><u>Enabling Secure Transfer of Textual Data via Edges Guardspace, Win11 Version</u></a></li>
+<li><a href="https://windows11.techidaily.com/fine-tuning-win11-startup-processes/"><u>Fine-Tuning Win11 Startup Processes</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-bypass-windows-defenders-exclusive-software-lockdown/"><u>How to Bypass Windows Defender's Exclusive Software Lockdown</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/how-to-locate-your-printers-drivers-a-comprehensive-guide-by-yl-computing/"><u>How to Locate Your Printer's Drivers: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-navigate-easily-through-youtube-channel-disabling-on-devices/"><u>In 2024, Navigate Easily Through YouTube Channel Disabling on Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/revive-vanished-steam-game-icons-immediately/"><u>Revive Vanished Steam Game Icons Immediately</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-expert-reviews-and-buying-guides/"><u>Tom's Tech Insights: Expert Reviews & Buying Guides</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-invalid-temp-paths-on-w11-systems/"><u>Troubleshooting Invalid Temp Paths on W11 Systems</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/uploading-made-in-house-flipbooks-to-your-site-with-easy-steps-learn-from-flipbuilder-experts/"><u>Uploading Made-in-House Flipbooks to Your Site with Easy Steps - Learn From FlipBuilder Experts</u></a></li>
 </ul></div>
 

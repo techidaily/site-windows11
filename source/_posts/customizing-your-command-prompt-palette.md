@@ -1,7 +1,7 @@
 ---
 title: Customizing Your Command Prompt Palette
-date: 2024-08-15T15:10:37.960Z
-updated: 2024-08-16T15:10:37.960Z
+date: 2025-01-15T04:06:41.074Z
+updated: 2025-01-16T03:06:04.989Z
 tags:
   - windows10
   - windows11
@@ -37,8 +37,13 @@ thumbnail: https://thmb.techidaily.com/c616a530c3b86047af7fee8d712f3caf3cb46a3e4
 7. When you’re done, click**Save** in the bottom right corner to save your changes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Do I Create a Color Scheme in Windows Terminal?
 
  If you don’t want to mess with the default color schemes, why not create your own? Follow the steps below to do just that:
@@ -48,22 +53,22 @@ thumbnail: https://thmb.techidaily.com/c616a530c3b86047af7fee8d712f3caf3cb46a3e4
 3. On the left side menu, select**Color Schemes** .
 4. In the right panel, click on the**Add new** button, and you’ll see the new scheme appear next to the**dropdown** . It will have a generic name like**Color Scheme 10** or something else.  
 ![a custom color scheme in windows terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/custom-10-color-scheme-windows-terminal.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 5. Click on the**Rename** button next to the**dropdown** , give the custom scheme a name, and then click the**blue checkmark** to save it.  
-![a custom color scheme in windows terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/custom-10-color-scheme-windows-terminal.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![a custom color scheme in windows terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/custom-10-color-scheme-windows-terminal.jpg)
 6. Change the colors in the**Terminal colors** and**System colors** sections to something you like by clicking on them to bring up the editor.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. In the color editor, you can adjust the**slider** to make the color lighter or darker or enter a new hexadecimal color value. You can also click the**dropdown** , select either**RGB** or**HSV** in the menu that appears, and enter new values to change the colors completely.
 8. When you’re done, click**Save** in the bottom right corner to save your changes.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Apply a Color Scheme in Windows Terminal
 
  After editing or creating the color scheme, you can apply it with a few clicks. Follow the steps below:
@@ -73,29 +78,25 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 3. In the**Profiles** section of the left side menu, select**Defaults** if you want to apply the scheme to all profiles or select a specific profile, such as [Windows PowerShell](https://www.makeuseof.com/what-is-windows-powershell/) or Command Prompt, to apply it to that particular one.  
 ![the profiles section of windows terminal settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/profiles-section-windows-terminal.jpg)
 4. In the**Additional settings** section at the bottom of the right panel, click**Appearance** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![the additional settings of a profile in windows terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/git-bash-additional-settings.jpg)
 5. In the**Text** section, click on the**dropdown** next to**Color scheme** and select the edited or custom color scheme that you want to apply.  
 ![changing the color scheme in windows terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/change-color-scheme-windows-terminal.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 6. When you’re done, click**Save** in the bottom right corner to save your changes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## Customizing Color Schemes in Windows Terminal Is Easy
 
  Color schemes are highly customizable in Windows Terminal. That’s a good thing because you can make the profiles appear just how you like them. And the beauty about it is that Terminal offers a graphical way to do it.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -104,6 +105,16 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-blades-visual-journey-from-standard-to-stunning-4k-for-2024/"><u>[Updated] Blade's Visual Journey From Standard to Stunning 4K for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-props-to-the-best-android-tools-for-playstation-2-experience/"><u>[Updated] In 2024, Props to the Best Android Tools for PlayStation 2 Experience</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-electoral-enthusiasm-top-5-political-game-experiences/"><u>2024 Approved Electoral Enthusiasm Top 5 Political Game Experiences</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-samsung-galaxy-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-getting-your-surface-pro-back-online-with-wi-fi-troubleshooting-techniques/"><u>Guide: Getting Your Surface Pro Back Online with Wi-Fi Troubleshooting Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/key-aspects-unraveling-windows-screen-savers/"><u>Key Aspects: Unraveling Windows Screen Savers</u></a></li>
+<li><a href="https://windows11.techidaily.com/personalize-your-keyboard-use-with-winos-commands/"><u>Personalize Your Keyboard Use with WinOS Commands</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-fixing-roblox-application-fails/"><u>Solutions for Fixing Roblox Application Fails</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-to-break-windows-stealthy-cam-policy/"><u>Techniques to Break Window's Stealthy Cam Policy</u></a></li>
+</ul></div>
 

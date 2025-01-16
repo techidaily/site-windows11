@@ -1,7 +1,7 @@
 ---
 title: "How to Maximize Security: Longer PIN Length for Win11/11 Users"
-date: 2025-01-09T16:11:45.119Z
-updated: 2025-01-10T22:37:33.912Z
+date: 2025-01-09T19:15:13.899Z
+updated: 2025-01-16T00:35:24.900Z
 tags:
   - windows10
   - windows11
@@ -44,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/4599f50b602c6cf6fd2e770298cbc820ac519a960
 ![The MinimumPINLength DWORD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/minimum-pin-length-dword.jpg)
 5. Double-click the new **MinimumPINLength** DWORD you’ve created.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Select the **Decimal** option.
 2. Then input a number higher than four in the **Value data** box and click **OK**. The value you enter there will be the new minimum character length for the Windows Hello PIN.  
 ![The Edit DWORD window for the MinimumPINLength DWORD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/edit-dword-window4.jpg)
@@ -53,32 +57,20 @@ thumbnail: https://thmb.techidaily.com/4599f50b602c6cf6fd2e770298cbc820ac519a960
 ![A MaximumPINLength DWORD text box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/maximum-pin-length-text-box.jpg)
 5. Double-click **MaximumPINLength** to view the **Value box** for that DWORD.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Click on the **Decimal** radio button.
 7. Enter a number higher than the one set for the **MinimumPINLength** DWORD and select **OK**.  
 ![The Edit DWORD window for the MaximumPINLength DWORD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/edit-dword-window-for-maximum-pin-length.jpg)
 8. Finally, exit the Registry Editor window and restart your PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now you’ll see an “organization requires that you change your PIN message” when you try to sign in with the PIN usually entered. Click **OK** to view some options for setting a new PIN. Then input a longer identification number with the minimum number of characters required inside the **New** and **Confirm** PIN boxes.
 
 ![The change your PIN message](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sign-in-message.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’ve not set a Windows Hello PIN before, you can do so via Settings. Our guide to [setting a PIN in Windows](https://www.makeuseof.com/setup-remove-pin-windows-11/) includes instructions for how to do so. Your PIN must have the minimum number of characters set with the **PINComplexity** registry key.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Extend the PIN Length With Group Policy Editor
 
@@ -91,20 +83,28 @@ thumbnail: https://thmb.techidaily.com/4599f50b602c6cf6fd2e770298cbc820ac519a960
 ![Administrative Templates in Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/administrative-templates.jpg)
 5. Then click the arrow by **System** and select **PIN Complexity**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Double-click on the **Minimum PIN Length** policy.  
 ![The PIN Complexity policy settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pin-complexity.jpg)
 2. Click the **Enabled** radio button to activate a **Minimum PIN Length** box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Then input a higher value in the **Minimum PIN Length** box.  
 ![The Minimum PIN Length policy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/minimum-pin-length-policy.jpg)
 4. Select **Apply** and **OK** to set the new PIN length policy.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. You can also set a max PIN length much the same by clicking the **Maximum PIN Length** policy, selecting **Enabled**, and inputting a new value. Then click on **Apply** and **OK** within the Maximum PIN length window.  
 ![The Maximum PIN Length policy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/maximum-pin-length-policy.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Extend Your Windows PIN to Make It More Secure
 
@@ -124,22 +124,18 @@ thumbnail: https://thmb.techidaily.com/4599f50b602c6cf6fd2e770298cbc820ac519a960
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-perpetual-media-capture-utility/"><u>[New] 2024 Approved Perpetual Media Capture Utility</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-home-sweet-habitat-6-basic-mc-dwellings-demystified/"><u>[New] Home Sweet Habitat 6 Basic MC Dwellings Demystified</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-reviewcast-analysis-for-2024/"><u>[New] ReviewCast Analysis for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-pexels-101-finding-the-picture-of-your-dreams/"><u>[Updated] 2024 Approved Pexels 101 Finding the Picture of Your Dreams</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-get-savvy-with-chromebook-snaps-explore-these-4-methods-for-2024/"><u>[Updated] Get Savvy with Chromebook Snaps - Explore These 4 Methods for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-vivid-imagery-with-nikon-j5s-4k-capability-revealed/"><u>2024 Approved Vivid Imagery with Nikon J5's 4K Capability Revealed</u></a></li>
-<li><a href="https://fox-links.techidaily.com/deciphering-crossfade-techniques-in-music-for-2024/"><u>Deciphering Crossfade Techniques in Music for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/lost-features-a-step-by-step-guide-to-find-windows-11s-enhancement/"><u>Lost Features? A Step-by-Step Guide to Find Windows 11'S Enhancement</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-failed-task-runner-in-windows/"><u>Overcoming Failed Task Runner in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-microsofts-dism-hurdle-code-0x800f082f/"><u>Overcoming Microsoft's DISM Hurdle: Code 0X800F082F</u></a></li>
-<li><a href="https://windows11.techidaily.com/python-server-setup-for-effective-windows-based-data-sharing/"><u>Python Server Setup for Effective Windows-Based Data Sharing</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-solution-fixing-try-connecting-your-device-on-win-11/"><u>Quick Solution: Fixing 'Try Connecting Your Device' On Win 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/reversing-the-access-entry-corrupted-windows-malfunction/"><u>Reversing the 'Access Entry Corrupted' Windows Malfunction</u></a></li>
-<li><a href="https://windows11.techidaily.com/shut-down-internal-keyboard-for-pcs-running-windows/"><u>Shut Down Internal Keyboard for PCs Running Windows</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ing-youtube-vanished-videos-your-2-path-guide-for-2024/"><u>Snagging YouTube Vanished Videos Your 2-Path Guide for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/the-finest-11-streaming-sound-recorders/"><u>The Finest 11 Streaming Sound Recorders</u></a></li>
-<li><a href="https://windows11.techidaily.com/why-your-windows-workstation-needs-specific-encoding-tech/"><u>Why Your Windows Workstation Needs Specific Encoding Tech</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-escaping-a-stroke-on-your-youtube-channel/"><u>[Updated] 2024 Approved Escaping a Stroke on Your YouTube Channel</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-from-gameplay-to-video-full-guide-on-ps4-with-obs-for-2024/"><u>[Updated] From Gameplay to Video Full Guide on PS4 with OBS for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-enhancing-social-media-with-vimeo-content-on-instagram/"><u>[Updated] In 2024, Enhancing Social Media with Vimeo Content on Instagram</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-traveling-lens-quieter-assistant-360/"><u>2024 Approved Traveling Lens Quieter Assistant 360°</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-unlock-hd-potential-for-your-social-media-platform-fb/"><u>2024 Approved Unlock HD Potential for Your Social Media Platform (FB)</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-blocked-windows-guard-functions/"><u>Bypassing Blocked Windows Guard Functions</u></a></li>
+<li><a href="https://windows11.techidaily.com/dive-into-ms-store-app-selection-2023-edition/"><u>Dive Into MS Store App Selection: 2023 Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-the-disconnection-problem-for-malwarebytes-in-windows-11/"><u>Fixing the Disconnection Problem for Malwarebytes in Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-can-you-completely-eliminate-your-yahoo-email-account-a-comprehensive-guide/"><u>How Can You Completely Eliminate Your Yahoo Email Account? A Comprehensive Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/identifying-programs-by-their-launch-shorthand-labels/"><u>Identifying Programs by Their Launch Shorthand Labels</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-nokia-g42-5g-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Nokia G42 5G</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-lost-wi-fi-links-top-strategies-to-regain-internet-connection-on-windows-10/"><u>Reviving Lost Wi-Fi Links: Top Strategies to Regain Internet Connection on Windows 10</u></a></li>
+<li><a href="https://video-capture.techidaily.com/switch-strike-force-your-top-10-game-lineup/"><u>Switch Strike Force Your Top 10 Game Lineup</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Command the Past: Mastering File History Navigation"
-date: 2024-08-08T06:01:53.123Z
-updated: 2024-08-09T06:01:53.123Z
+date: 2025-01-11T11:22:55.502Z
+updated: 2025-01-16T06:17:21.142Z
 tags:
   - windows10
   - windows11
@@ -20,16 +20,21 @@ thumbnail: https://thmb.techidaily.com/4a7e35e05dbbab3383219ac491b7159c730c023be
 
  But Control Panel isn’t the only way to access File History on Windows. This guide will list eight quick methods to open the File History page in Windows 11\.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Using Start Menu
 
  The most obvious place to search for an app or file on Windows PC is the Start menu. You can even see web results because Microsoft integrated Bing into the Start menu. Repeat the following steps:
 
 1. Press the **Win** key to open the Start menu.
 2. Type **File History** in the search box. Click on the first relevant search result to open File History in a new window.  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open File History Using Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-file-history-using-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Using Control Panel
 
@@ -38,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/4a7e35e05dbbab3383219ac491b7159c730c023be
 1. Press the Windows key, type **Control Panel** and press the Enter key.
 2. In the Control Panel window, click on the **System and Security** option.
 3. Scroll down and locate the **File History** option. Double-click on it to view and manage the connected devices and backups.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![Open File History Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-file-history-using-control-panel.jpg)
 
 ## 3\. Using the Settings App
@@ -54,8 +56,9 @@ thumbnail: https://thmb.techidaily.com/4a7e35e05dbbab3383219ac491b7159c730c023be
 4. The Control Panel window will open with the File History page.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Using the Run Dialog Box
 
  Launching programs and system apps from the Run dialog box is possible if you know the exact file name or the file path. Repeat the following steps:
@@ -74,10 +77,11 @@ thumbnail: https://thmb.techidaily.com/4a7e35e05dbbab3383219ac491b7159c730c023be
 3. Paste the following path in it and press the Enter key: **C:\\Windows\\System32**
 4. Now, go to the search box present in the top right corner and type File History. Press the **Enter** key to initiate a search.
 5. Double-click on the **FileHistory.exe** file to open the tool.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open File History Using File explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-file-history-using-file-explorer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Using Task Manager
 
@@ -89,8 +93,9 @@ thumbnail: https://thmb.techidaily.com/4a7e35e05dbbab3383219ac491b7159c730c023be
 3. File History will launch on your system. Close the Task Manager
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Using Terminal App
 
  If you love the terminal and don’t like the idea of opening menus or searching for an app or tool, you can open File History using the Terminal app. Here’s how to do it:
@@ -102,8 +107,9 @@ thumbnail: https://thmb.techidaily.com/4a7e35e05dbbab3383219ac491b7159c730c023be
 4. Close the Terminal app.
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Using a Desktop Shortcut
 
  The fastest method to access any app is by [creating a desktop shortcut](https://www.makeuseof.com/tag/how-to-create-desktop-shortcuts-from-anywhere-in-windows/). You can switch to the desktop and launch programs with or without administrator privileges. Repeat the following steps:
@@ -111,23 +117,15 @@ thumbnail: https://thmb.techidaily.com/4a7e35e05dbbab3383219ac491b7159c730c023be
 1. Press **Win + D** to switch to the desktop.
 2. Right-click on the Desktop. Select the **New > Shortcut** option from the context menu.
 3. In the Create Shortcut window, go to the textbox. Type **"C:\\Windows\\System32\\FileHistory.exe"** in the text box and click on the **Next** button.  
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open File History Using Desktop shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-file-history-using-desktop-shortcut.jpg)
 4. Name the shortcut **File History** and click on the **Finish** button.
 5. Switch to the desktop. Double-click on the newly created File History shortcut to launch the tool.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Access File History Settings In a Jiffy
 
  Microsoft came with this excellent physical backup option for Windows OS. Now, you know eight easy methods to access File History, run a manual backup session, and tweak its settings. You can even add and remove folders in File History, but that requires a bit more effort.
 
  But Control Panel isn’t the only way to access File History on Windows. This guide will list eight quick methods to open the File History page in Windows 11\.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -135,4 +133,21 @@ thumbnail: https://thmb.techidaily.com/4a7e35e05dbbab3383219ac491b7159c730c023be
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/updated-master-your-media-best-ios-players-for-phones-and-tablets/"><u>[Updated] Master Your Media Best iOS Players for Phones & Tablets</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-top-picks-for-affordable-cloud-data-management-for-2024/"><u>[Updated] Top Picks for Affordable Cloud Data Management for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-windows-10-storage-guide-how-to-save-and-organize-mov/"><u>2024 Approved Windows 10 Storage Guide How to Save and Organize .mov</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210082084-9781401929473-awakening-the-sacred-body/"><u>Awakening the Sacred Body | Free Book</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/corsair-mp600-mini-1tb-e27t-ssd-comprehensive-review-top-choice-for-pcie-40-m2-2230-portable-drives/"><u>Corsair MP600 Mini 1TB E27T SSD Comprehensive Review - Top Choice for PCIe 4.0 M.2 2230 Portable Drives</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/exploring-significance-and-usage-of-a-blue-emoji-on-messenger/"><u>Exploring Significance and Usage of a Blue Emoji on Messenger</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-oppo-a38-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Oppo A38</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-10-excellent-facial-editors-for-smartphones/"><u>In 2024, 10 Excellent Facial Editors for Smartphones</u></a></li>
+<li><a href="https://windows11.techidaily.com/interpreting-storage-identities-c-drive-and-d-drive-tale/"><u>Interpreting Storage Identities: C Drive & D Drive Tale</u></a></li>
+<li><a href="https://windows11.techidaily.com/keeping-task-management-programs-in-order/"><u>Keeping Task Management Programs In Order</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/master-bengali-daily-quick-lessons-in-10-minutes/"><u>Master Bengali Daily: Quick Lessons in 10 Minutes</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-win1011s-corrupted-recycle-bin-woes/"><u>Resolving WIN10/11's Corrupted Recycle Bin Woes</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-to-disable-game-proposals-on-w11-home-system/"><u>Tips to Disable Game Proposals on W11 Home System</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fast-Forwarding Copy & Paste: Custom Hotkeys for Text Snaps in Win11"
-date: 2025-01-09T21:08:42.576Z
-updated: 2025-01-10T19:43:58.281Z
+date: 2025-01-09T08:38:38.505Z
+updated: 2025-01-15T19:22:04.383Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/270945824bfc208da598210ea9d10172c37fe105e
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Set Up Hotkeys for Pasting Pre-Defined Text With QuickTextPaste
 
@@ -52,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/270945824bfc208da598210ea9d10172c37fe105e
 
 ![A run Edge hotkey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-edge-hotkey.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  QuickTextPaste has a 4,000-character limit for text snippets. However, that’s not an especially big restriction. You can probably fit up to 600 words within a 4,000-character limit.
 
  QuickTextPaste needs to be running in the background for its hotkeys to work. You can set the program to run automatically by clicking**Action** \>**Start** **with Windows** . Select the**Always start minimized (ToTray)** option to set the program to appear only in the system tray area when started.
@@ -71,6 +63,10 @@ thumbnail: https://thmb.techidaily.com/270945824bfc208da598210ea9d10172c37fe105e
 5. Unzip the**hotkeyp\_64bit.zip** archive by right-clicking it and selecting**Extract All** . Click**Show extracted files** **when complete** \>**Extract** within the extraction tool.  
 ![The Extract All context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/extract-all-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Double-click**HotkeyP.exe** within the hotkeyp\_64bit folder.
 2. Click**Add** to bring up a Hot Key window.  
 ![The HotkeyP window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hotkeyp.jpg)
@@ -81,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/270945824bfc208da598210ea9d10172c37fe105e
 5. Then input the text to paste within the**Parameters** box. That parameters box doesn’t seem to have any character number restriction for how long your pre-defined text can be.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Select one or more**Ctrl** ,**Alt** ,**Win** , and**Shift** checkboxes.
@@ -89,10 +85,6 @@ thumbnail: https://thmb.techidaily.com/270945824bfc208da598210ea9d10172c37fe105e
 8. Enter a title for the hotkey in the**Description** box.  
 ![The Hot Key window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hot-key-window.jpg)
 9. Select**OK** to add the new custom paste hotkey.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now you’ll see the hotkey you’ve just set listed within the HotkeyP window. Press**Esc** to hide the HotkeyP in the system tray. Then open WordPad, Notepad, or another text editor to try out the hotkey. Press the custom hotkey you’ve set up to paste in its pre-defined text.
 
@@ -102,18 +94,26 @@ thumbnail: https://thmb.techidaily.com/270945824bfc208da598210ea9d10172c37fe105e
 
 ![The General tab in HotkeyP's Options window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-general-tab.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Creating Other Hotkeys With HotkeyP
 
  It’s also worth exploring the other options for creating hotkeys HotkeyP offers beyond pasting pre-defined text. For example, you can set up custom hotkeys for various system functions like shutting down, logging off, emptying the Recycle Bin, and opening the Programs and Features applet among others. To do so, click the**arrow (<)** button and**System** on the Hot Key window to choose one of those hotkey functions.
 
 ![The System hotkey options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/system-hotkey-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or you can set up some custom window control hotkeys. Select**Window** on the command menu to view the various window keyboard shortcut options. There you can select**Always on Top** ,**Maximize window** ,**Minimize others** ,**Window snapshot,** **Close window** , and**Opacity** hotkey options, to name a few.
 
  You can set up a program keyboard shortcut by selecting an app’s path within the Hot Key window. Click the**ellipses (…)** button for the**Command** box to select a program for a keyboard shortcut to open. Then you can also select additional**Process priority** and**Run as administrator** settings for the software the hotkey launches.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create Handy Hotkeys for Pasting Pre-Defined Text in Windows
@@ -135,18 +135,24 @@ thumbnail: https://thmb.techidaily.com/270945824bfc208da598210ea9d10172c37fe105e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-novice-nests-in-mc-the-essential-guide-to-housing/"><u>[Updated] 2024 Approved Novice Nests in MC The Essential Guide to Housing</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1-mastering-video-trimming-a-step-by-step-guide-using-vlc-media-player/"><u>1. Mastering Video Trimming: A Step-by-Step Guide Using VLC Media Player</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/a-readers-perspective-on-the-barnes-and-noble-nook-glowlight-4-full-review/"><u>A Reader's Perspective on the Barnes & Noble Nook GlowLight 4: Full Review</u></a></li>
-<li><a href="https://techidaily.com/entendiendo-la-politica-de-recetas-en-el-software-abbyy-una-guia-completa/"><u>Entendiendo La Política De Recetas en El Software Abbyy: Una Guía Completa</u></a></li>
-<li><a href="https://windows11.techidaily.com/from-fault-to-functionality-fast-fixed-of-winscript-errors/"><u>From Fault to Functionality: Fast Fixed of WinScript Errors</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-realme-c51-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Realme C51 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-find-excellence-in-hd-on-android-our-top-10-player-guide/"><u>In 2024, Find Excellence in HD on Android Our Top 10 Player Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-text-in-after-effects-top-10/"><u>In 2024, The Ultimate Guide to Text in After Effects (Top 10)</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-xiaomi-mix-fold-3-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Xiaomi Mix Fold 3 Device</u></a></li>
-<li><a href="https://windows11.techidaily.com/precision-fixes-for-installer-package-problems-on-windows-11/"><u>Precision Fixes for Installer Package Problems on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-fixes-for-already-used-error-on-windows-pcs-153-chars/"><u>Quick Fixes for 'Already Used' Error on Windows PCs (153 Chars)</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-elevate-virtual-memory-usage-on-windows-11/"><u>Strategies to Elevate Virtual Memory Usage on Windows 11</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-sdr-to-hdr-conversion-companion-book-for-2024/"><u>The SDR to HDR Conversion Companion Book for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-visionary-studios-pioneering-next-gen-virtual-realms/"><u>[New] 2024 Approved Visionary Studios Pioneering Next-Gen Virtual Realms</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-shared-printer-issues-on-windows-11/"><u>Addressing Shared Printer Issues on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-task-monitor-in-win-11-accelerating-real-time-updates/"><u>Boosting Task Monitor in Win 11: Accelerating Real-Time Updates</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-code-0x800700e1-problems-in-windows-11/"><u>Fixing Code 0X800700E1 Problems in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/guiding-through-a-windows-systems-exception-breaking-point-issue/"><u>Guiding Through a Windows System's Exception Breaking Point Issue</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-lava-blaze-pro-5g-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Lava Blaze Pro 5G Phone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-enjoy-desktop-wallpapers-in-their-best-quality-on-windows-11/"><u>How to Enjoy Desktop Wallpapers in Their Best Quality on Windows 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Xiaomi Redmi Note 12 4G? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-hangout-history-capture-and-keep/"><u>In 2024, Hangout History Capture & Keep</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-the-art-of-focused-cinematography-on-kinemaster/"><u>Mastering the Art of Focused Cinematography on Kinemaster</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/online-beat-finder-no-cash-fb/"><u>Online Beat Finder No Cash (FB)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-the-issue-steps-to-correct-missing-advapi32dll-file/"><u>Resolving the Issue: Steps to Correct Missing Advapi32.dll File</u></a></li>
+<li><a href="https://windows11.techidaily.com/six-secrets-to-spinning-pictures-in-w11-os/"><u>Six Secrets to Spinning Pictures in W11 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/solve-non-responsive-function-keys-in-windows-11/"><u>Solve: Non-Responsive Function Keys in Windows 11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-realme-narzo-60-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-prevent-microsoft-teams-freeze-in-ws11ws10/"><u>Strategies to Prevent Microsoft Teams Freeze in WS11/WS10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-steps-to-reset-file-explorer-in-win1011/"><u>Swift Steps to Reset File Explorer in WIN10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-financial-engine-behind-windows-11/"><u>The Financial Engine Behind Windows 11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/516362-9781101404577-the-science-of-premonitions/"><u>The Science of Premonitions | Free Book</u></a></li>
 </ul></div>
 

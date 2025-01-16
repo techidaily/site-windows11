@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Techniques to Fix Win11 System Call Errors
-date: 2024-12-31T22:47:40.152Z
-updated: 2025-01-03T22:54:08.761Z
+date: 2025-01-13T21:10:45.545Z
+updated: 2025-01-15T17:47:28.704Z
 tags:
   - windows10
   - windows11
@@ -20,20 +20,20 @@ thumbnail: https://thmb.techidaily.com/8d4f635de6f8288e79a21d2dcf9027cad8747323c
 
  The “system call failed” error stems from File Explorer’s explorer.exe process. This is how you can fix the “System call failed” Windows 11/10 error.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Restart Windows File Explorer
 
 ![The Processes tab in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-restart-option2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restarting the explorer.exe process can fix the “System call failed” error. It's a really easy and quick fix, so it's a good starting point for troubleshooting the “system call failed” error.
 
  You can restart the explorer.exe process with Task Manager, as covered in this guide on [how to restart File Explorer](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Run the SFC and DISM Tools in Command Prompt
@@ -46,15 +46,15 @@ thumbnail: https://thmb.techidaily.com/8d4f635de6f8288e79a21d2dcf9027cad8747323c
 
  You can learn how to run both the SFC and DISM commands in our guide to [repairing system files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Check For Disk Errors With CHKDSK
 
  A failing hard drive is another potential cause of the “system call failed” error. You can check for and repair disk errors with the Check Disk (CHKDSK) tool on Windows.
 
  Our [how to run CHKDSK](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/#:~:text=In%20Command%20Prompt%2C%20type%20chkdsk,let%20it%20do%20its%20work.) guide explains how you can utilize the Check Disk tool.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Initiate a Malwarebytes Scan
 
@@ -71,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/8d4f635de6f8288e79a21d2dcf9027cad8747323c
 6. Select **Quarantine** and **Yes** if Malwarebytes detects malware.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Disable Startup Items and Services With a Clean Boot
@@ -85,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/8d4f635de6f8288e79a21d2dcf9027cad8747323c
  If the error is fixed after clean booting, it will probably reoccur if you re-enable all startup apps and services again. You can try to identify what’s causing the error by gradually re-enabling items, and then disabling the startup app or service that triggers the issue again.
 
 ![Services tab on Windows Configuration menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-services-tab5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Restore Windows 11/10 to an Earlier Time
 
@@ -101,10 +105,6 @@ thumbnail: https://thmb.techidaily.com/8d4f635de6f8288e79a21d2dcf9027cad8747323c
  The standard method for applying a factory reset is to utilize the Reset this PC tool. That includes a few options you can select for the reset and one of those is to keep user files. This [how-to reset Windows guide](http://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) has instructions for applying a factory reset.
 
 ![The Keep my files option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/reset-this-pc-tool4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get the “System Call Failed” Error Fixed
 
@@ -123,19 +123,24 @@ thumbnail: https://thmb.techidaily.com/8d4f635de6f8288e79a21d2dcf9027cad8747323c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-chronicle-conversations-on-google/"><u>[New] Chronicle Conversations on Google</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-high-end-video-resizer-unparalleled-definition/"><u>[Updated] 2024 Approved High-End Video Resizer Unparalleled Definition</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-top-7-stardew-valley-enhancements-for-ultimate-farming-bliss/"><u>[Updated] 2024 Approved Top 7 Stardew Valley Enhancements for Ultimate Farming Bliss</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-15-youtube-starter-templates-a-guide-to-popularity/"><u>[Updated] In 2024, 15 YouTube Starter Templates A Guide to Popularity</u></a></li>
-<li><a href="https://windows11.techidaily.com/efficient-ways-to-handle-lunar-client-not-starting-on-pc/"><u>Efficient Ways To Handle Lunar Client Not Starting on PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/efficiently-tailor-dns-settings-for-your-win11-system/"><u>Efficiently Tailor DNS Settings for Your Win11 System</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminate-overscan-maximizing-screen-real-estate-in-windows/"><u>Eliminate Overscan: Maximizing Screen Real Estate in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/empower-your-pc-with-the-most-innovative-powertoys-use-cases/"><u>Empower Your PC with the Most Innovative PowerToys Use Cases</u></a></li>
-<li><a href="https://windows11.techidaily.com/eradicate-the-windows-1011-requires-privilege-issue-error-0x80070522/"><u>Eradicate the Windows 10/11 Requires Privilege Issue (Error 0X80070522)</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-essential-guide-video-recording-with-vlc/"><u>In 2024, Essential Guide Video Recording with VLC</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Samsung Galaxy M34 | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-soundsreview-summary/"><u>In 2024, SoundsReview Summary</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/optimizing-time-management-navigating-the-schedule-options-pane/"><u>Optimizing Time Management: Navigating the Schedule Options Pane</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-new-ipad-air-unveiled-4-fantastic-reasons-to-upgrade-your-tablet-today-explored-by-tech-experts-at-zdnet/"><u>The New iPad Air Unveiled: 4 Fantastic Reasons to Upgrade Your Tablet Today, Explored by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-uncovering-8-superior-online-srt-translation-tools/"><u>[New] 2024 Approved Uncovering 8 Superior Online SRT Translation Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-superior-viewing-experience-essentials-of-4k-downloading/"><u>[Updated] Superior Viewing Experience Essentials of 4K Downloading</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apples-next-big-thing-cutting-edge-ar-glasses-and-budget-friendly-headsets-on-the-horizon-according-to-zdnet/"><u>Apple's Next Big Thing: Cutting-Edge AR Glasses and Budget-Friendly Headsets on the Horizon, According to ZDNET</u></a></li>
+<li><a href="https://windows11.techidaily.com/beginners-manual-discovering-windows-aids-and-assists/"><u>Beginner's Manual: Discovering Windows Aids and Assists</u></a></li>
+<li><a href="https://windows11.techidaily.com/brushstrokes-begin-accessing-microsoft-paint-in-windows-11/"><u>Brushstrokes Begin: Accessing Microsoft Paint in Windows 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-lava-agni-2-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Lava Agni 2 5G</u></a></li>
+<li><a href="https://windows11.techidaily.com/ensure-smooth-os-operation-autoupdate-and-change-amd-drivers/"><u>Ensure Smooth OS Operation: Autoupdate & Change AMD Drivers</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-strategies-for-overcoming-windows-error-code-0x80040610/"><u>Essential Strategies for Overcoming Windows Error Code 0X80040610</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-iphone-6s-plus-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked iPhone 6s Plus Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://fox-http.techidaily.com/mastering-video-capture-on-periscope-a-comprehensive-manual/"><u>Mastering Video Capture on Periscope A Comprehensive Manual</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/overcoming-chatgpt-authentication-hiccups-fixing-logon-errors-effectively/"><u>Overcoming ChatGPT Authentication Hiccups: Fixing Logon Errors Effectively</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-default-usb-suspension-on-windows-11/"><u>Overcoming Default USB Suspension on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-failed-jvm-launch-windows-guide/"><u>Remedying Failed JVM Launch: Windows Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-technical-difficulties-during-helldivers-2-playthroughs-on-pc/"><u>Resolving Technical Difficulties During Helldivers 2 Playthroughs on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/supporting-the-unsupported-life-after-windows-781/"><u>Supporting the Unsupported: Life After Windows 7/8.1</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-ultimate-list-of-free-malware-detectors-ranked-1-5/"><u>Unveiling the Ultimate List of Free Malware Detectors Ranked #1 - 5</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-step-by-step-process-disabling-video-sound-in-latest-mkv-format-mkv-2023/"><u>Updated In 2024, Step-by-Step Process Disabling Video Sound in Latest MKV Format (MKV-2023)</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-how-to-stop-game-proposals/"><u>Win11: How To Stop Game Proposals</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-the-battle-against-windows-software-problems-7-ways/"><u>Winning the Battle Against Windows Software Problems (7 Ways)</u></a></li>
 </ul></div>
 

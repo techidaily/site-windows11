@@ -1,7 +1,7 @@
 ---
 title: Dissecting Windows 11'S User Identity Framework
-date: 2024-08-08T06:01:04.847Z
-updated: 2024-08-09T06:01:04.847Z
+date: 2025-01-13T14:46:08.271Z
+updated: 2025-01-16T13:06:10.737Z
 tags:
   - windows10
   - windows11
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/354d3de8b2ab7d7a38cbcbf902765f2fb1bfbf3c8
 2. The User Account Control window will pop up. Click on the **Yes** button to open the app with admin rights if prompted.
 3. Now, type the following command to view the SID of the currently logged-in user account:  
 whoami /user  
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Check SID Using the Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-command-prompt-1.jpg)
 4. You will see the currently logged-in user’s name and the corresponding SID. You can directly select and copy the text from the Command Prompt window. But if you want to export the details to a text file for future use, you can do so by entering the following command:  
 whoami /user > C:\SID.txt
@@ -40,9 +37,9 @@ whoami /user > C:\SID.txt
 6. Close the Command Prompt window.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Using WMIC
 
  You can easily view the SID of all the users or a single user on your PC using the WMIC command-line tool. You don’t need to [open an elevated Command Prompt window](https://www.makeuseof.com/windows-run-command-prompt-admin/) for using WMIC to view the SIDs.
@@ -63,6 +60,14 @@ wmic useraccount where name="a" get sid
 ![Check SID Using the WMIC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-wmic-2-1.jpg)
 7. Close the Command Prompt window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Using a PowerShell Cmdlet
 
  PowerShell offers the Get-WmiObject cmdlet using which you can view the SID of all the user accounts on a Windows PC. Like the WMIC method, you can view the SIDs of all users with a single command.
@@ -73,18 +78,12 @@ wmic useraccount where name="a" get sid
 2. The User Account Control window will pop up. Click on the **Yes** button to open the app with admin rights if prompted.
 3. Type the following command and press the Enter key:  
 Get-WmiObject win32_useraccount | Select name,sid  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Check SID Using the Powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-powershell-1.jpg)
 4. The above command will display all the user accounts and their respective SIDs. To export the results in a text file, execute the following command:  
 Get-WmiObject win32_useraccount | Select name,sid > C:\SID.txt
 5. The command will save the file in the **C** drive. Visit the location using File Explorer and open the file in a text editor app.
 6. Close the PowerShell window.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## 4\. Using the Registry Editor
 
  If the Command Prompt or [PowerShell isn’t working on your PC](https://www.makeuseof.com/windows-powershell-has-stopped-working-error-fix/), you can use the Registry Editor to view all the SIDs on your PC. This method isn’t as convenient as viewing the complete SID list in the terminal or in a text file. You will have to do some manual digging to find the SIDs and their user name.
@@ -97,12 +96,13 @@ Get-WmiObject win32_useraccount | Select name,sid > C:\SID.txt
 HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList
 4. Click on any **SID** subkey to select it and go to the right pane.
 5. Now, find the **ProfileImagePath** value and double-click on it to open the **Edit** window. You will see the user name of the SID in the **Value Data** field.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![Check SID Using Regedit](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-regedit-1.jpg)
 6. Similarly, you can check the other SID keys and open their **ProfileImagePath** value to find their corresponding user name.
 7. Close the Registry Editor app afterward.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Using a Batch File
 
@@ -116,13 +116,14 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList
  cmd.exe /k wmic useraccount get name,sid  
  pause`
 5. Press **Ctrl + Shift + S** to open the **Save as** window. Keep the file name as **SID.bat** and the **Save as Type** field as **All Files**.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Check SID Using the Batch FIle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-batch-file-1.jpg)
 6. Navigate to the folder location where you saved the batch file. Double-click on it to run it.
 7. A Terminal window will launch and display all the users on your PC and their respective SIDs.  
 ![Check SID Using the Batch FIle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-batch-file-2-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Check SIDs in a Jiffy
 
@@ -132,12 +133,25 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList
 
  The most common means to find a SID on Windows is using the "whoami"command. But there are several other ways to view the SID of one or all users on your Windows PC. Let’s discuss them in detail.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-gratitude-freepaid-video-outro-template-gallery/"><u>[New] In 2024, Gratitude Free/Paid Video Outro Template Gallery</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-top-tier-strategies-mastering-screens-with-adobe-captivate-for-2024/"><u>[New] Top-Tier Strategies Mastering Screens with Adobe Captivate for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-learn-to-edit-the-avalanche-reducing-clutter-in-your-tiktok-drafters/"><u>[Updated] Learn to Edit the Avalanche Reducing Clutter in Your TikTok Drafters</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-dragon-age-origins-from-crashing-on-your-windows-11-pc-troubleshooting-guide/"><u>How to Stop Dragon Age: Origins From Crashing on Your Windows 11 PC – Troubleshooting Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-unleash-your-livestream-potential-no-millions-of-followers-needed/"><u>In 2024, Unleash Your Livestream Potential No Millions of Followers Needed</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-and-conceal-pc-folders-with-ease-windows-11/"><u>Navigate and Conceal PC Folders with Ease (Windows 11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-11-system-call-errors/"><u>Overcoming Windows 11 System Call Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/prime-tools-for-your-gameplay-selecting-best-fps-counter-apps-in-windows-11/"><u>Prime Tools for Your Gameplay: Selecting Best FPS Counter Apps in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-recovering-lost-router-configuration/"><u>Solutions for Recovering Lost Router Configuration</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-revive-a-non-responsive-gamepad/"><u>Strategies to Revive a Non-Responsive Gamepad</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-fixes-for-non-displaying-storepages-on-win-10/"><u>Unveiling Fixes for Non-Displaying Storepages on Win 10</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Dealing with Windows Update: Error Code 0X8024800C"
-date: 2024-08-15T15:10:42.498Z
-updated: 2024-08-16T15:10:42.498Z
+date: 2025-01-11T08:34:16.158Z
+updated: 2025-01-15T16:12:53.238Z
 tags:
   - windows10
   - windows11
@@ -32,23 +32,18 @@ thumbnail: https://thmb.techidaily.com/fd4e779227951f738339902ec6bf865ee57c2e0e8
 
  Having explored the causes, let's now see how to fix this problem.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## 1\. Check Your Internet Connection
 
  If you aren't able to download Windows updates, check your internet connection first. Chances are that a slow or unstable internet connection is causing this error. To test your connection, try accessing other websites in your browser. If you have a fine internet connection, but it's very slow, you just need to [troubleshoot your network](https://www.makeuseof.com/things-slowing-down-home-wifi-network/).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Restart Your Computer and Try Again
 
  Sometimes, a simple restart can fix minor computer issues. It may also help if you experience system instability or frequently encounter this error. Restarting your computer will refresh the system, clearing out any corrupted data that may have caused this issue. So before proceeding, [restart your computer](https://www.makeuseof.com/windows-restart-methods/) and try updating again.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Run the Windows Update Troubleshooter
 
  Windows has a built-in troubleshooter tool that identifies and resolves common Windows Update problems. Here’s how to use it:
@@ -62,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/fd4e779227951f738339902ec6bf865ee57c2e0e8
 ![Run Windows Update Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-windows-update-troubleshooter.jpg)
 
  After following the above steps, the troubleshooter will scan your system for errors. When it’s done, the troubleshooter will present you with any solutions it finds. Follow the on-screen instructions and apply any recommendations to fix the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Clear the SoftwareDistribution Folder
 
@@ -89,9 +88,6 @@ net start bits`
 
  If you're experiencing problems updating Windows, your antivirus might be the culprit. These programs can sometimes interfere with Windows Update components, causing errors like 0x8024800C. To be sure, we recommend [disabling your antivirus temporarily](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) and checking if this solves the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Reset Windows Update Components
 
  It seems that Windows Update components are corrupted or damaged, leading to this issue. To resolve it, you will have to reset them and fix any broken files.
@@ -161,13 +157,19 @@ net start cryptsvc`
 7. Name your file **WUReset.bat** and save it on your desktop.  
 ![Reset Windows Update Components](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-windows-update-components.jpg)
 8. Once you have created the file, right-click on it and choose **Run as administrator**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 9. If you see a UAC prompt, click **Yes** to confirm.
 
  This will reset the Windows Update components and fix the 0x8024800C error. After that, you can try updating Windows again.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Perform Some Generic Fixes
 
  After trying all of the above solutions, you should also try some generic fixes. This includes [running System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/) to repair corrupted system files and running Disk Cleanup to [remove unnecessary junk files](https://www.makeuseof.com/windows-10-remove-junk-files/). You may also want to use the Deployment Image Servicing and Management tool to repair corrupt system images.
@@ -175,13 +177,12 @@ net start cryptsvc`
  If the problem isn't fixed, you can [try either system restore](https://www.makeuseof.com/windows-11-create-restore-point/) or reinstalling Windows. These options will reset your computer to its original settings, which will most likely resolve any software-related problems. And remember to [back up your Windows data](https://www.makeuseof.com/tag/backup-windows-computer-cloud/) before trying these solutions so you have something to fall back on if something goes wrong.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fixing Windows Update Error 0x8024800C
 
  Having trouble downloading and installing Windows updates? You might be facing Windows Update Error 0x8024800C, which prevents your PC from accessing the latest updates and security patches. Thankfully we have some easy solutions that may help you fix this error code on your Windows PC.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -189,4 +190,20 @@ net start cryptsvc`
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-preparing-your-pc-and-room-for-the-ultimate-vr-for-2024/"><u>[Updated] Preparing Your PC and Room for the Ultimate VR for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/1-seamless-guide-transferring-dvd-content-onto-your-tablet-device/"><u>1. Seamless Guide: Transferring DVD Content Onto Your Tablet Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-elite-gamers-choice-2024s-finest-mouses/"><u>Discover the Elite Gamers' Choice: 2024'S Finest Mouses</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-achieve-a-crystal-clear-taskbar-in-windows-11/"><u>How to Achieve a Crystal Clear Taskbar in Windows 11</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-digital-dollars-kings-and-queens-youtube-edition/"><u>In 2024, Digital Dollars Kings & Queens YouTube Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/initiate-system-check-with-these-5-methods/"><u>Initiate System Check with These 5 Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-non-responsive-power-controls-in-win11/"><u>Navigating Non-Responsive Power Controls in Win11</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ddpai-mini3-dashcam-revealed-more-fun-than-youd-expect/"><u>The Ddpai Mini3 Dashcam Revealed: More Fun than You'd Expect</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-15-apps-to-hack-wifi-password-on-samsung-galaxy-a25-5g-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Samsung Galaxy A25 5G</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-techniques-to-fix-win11-system-call-errors/"><u>Troubleshooting Techniques to Fix Win11 System Call Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/unwrapping-the-mystery-of-failed-discord-installation/"><u>Unwrapping the Mystery of Failed Discord Installation</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-top-mac-video-editors-similar-to-vsdc/"><u>Updated In 2024, Top Mac Video Editors Similar to VSDC</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Clearing Up Windows 11'S Directive Non-Empty Problem #0X80070091
-date: 2024-08-08T05:58:50.180Z
-updated: 2024-08-09T05:58:50.180Z
+date: 2025-01-15T08:03:15.474Z
+updated: 2025-01-16T02:48:09.334Z
 tags:
   - windows10
   - windows11
@@ -35,23 +35,18 @@ thumbnail: https://thmb.techidaily.com/503d593f9428317b9217e37989fa613e5c3305adb
 ![The delete folder command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/delete-folder-command.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Restart Windows File Explorer
 
  Restarting File Explorer can resolve issues that occur with that file manager. However, closing and reopening the Explorer window doesn’t restart the file manager. You’ll need to restart the Explorer process via Task Manager like this:
 
 1. To view Task Manager, press**Ctrl** +**Shift** +**Esc** simultaneously.
 2. Select File Explorer on the**Processes** tab.  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Restart option for File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/restart-options-for-file-explorer.jpg)
 3. Press the**Restart** button for the selected Explorer process.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Scan System Files With an SFC Scan
 
  Error 0x80070091 can be caused by some corrupted system files that need repairing. Running an SFC scan might both detect and repair corrupted system files and fix error 0x80070091 in the process. You can scan with SFC as instructed in our post for [running the System File Checker tool](https://www.makeuseof.com/system-file-checker-sfc-windows/) .
@@ -59,8 +54,9 @@ thumbnail: https://thmb.techidaily.com/503d593f9428317b9217e37989fa613e5c3305adb
 ![The SFC command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/sfc-scannow-command.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Check for Errors With a Disk Scan
 
  The 0x80070091 error is often due to corrupted or bad hard drive sectors. A lot of users have said they’ve resolved that issue by using the Check Disk (CHKDSK) utility for repairing bad drive sectors. This is how you can check for and repair bad sectors with Check Disk:
@@ -69,9 +65,6 @@ thumbnail: https://thmb.techidaily.com/503d593f9428317b9217e37989fa613e5c3305adb
 2. Type in this Check Disk command and press**Enter:**  
 `chkdsk /f /r C:`
 3. Press**Y** to schedule the scan for a restart.  
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The chkdsk scan command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chkdsk-scan-command.jpg)
 4. Click**Start** and select**Power** \>**Restart** to reboot.
 
@@ -84,33 +77,43 @@ thumbnail: https://thmb.techidaily.com/503d593f9428317b9217e37989fa613e5c3305adb
 1. Open Explorer and right-click the affected folder to select**Properties** .  
 ![The Properties option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/properties-option.jpg)
 2. Click the window’s**Security** tab.
-3. Next, press the**Advanced** button.  
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+3. Next, press the**Advanced** button.  
 ![The Security tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/security-tab.jpg)
 4. Click**Change** beside the owner’s name.  
 ![The Advanced Security Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/advanced-security-settings-window.jpg)
 5. Enter your Windows user account name inside the object name text box.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Select a User or Group window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/select-a-user-or-group.jpg)
 6. Then select the**Check Names** option and**OK** .
 7. Click**Replace owner on subcontainers and objects** to select that setting.
 8. Press the Advanced Security Settings window’s**Apply** and**OK** buttons.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Run an Antivirus Scan
 
  Malware could also feasibly be causing error 0x80070091 on your PC. If you’re still trying to fix that issue after going through all the potential fixes above, run an antivirus scan with Windows Security or alternative third-party software. This is how to run a scan with the Windows Security app.
 
 1. Double-click a**Windows Security** (shield) icon in the system tray part of the taskbar.
 2. Click**Virus & threat protection** \>**Scan options** to view all options for scanning.  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Scan options navigation link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-scan-options-link.jpg)
 3. Select the most thorough**Full Scan** option, which could take more than an hour to finish.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Full scan option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/full-scan-option.jpg)
 4. Press**Scan now** to start the antivirus scanning.
 5. Then wait to see if the scan detects anything, and select**Remove** if it does.
@@ -126,8 +129,6 @@ thumbnail: https://thmb.techidaily.com/503d593f9428317b9217e37989fa613e5c3305adb
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,6 +136,23 @@ thumbnail: https://thmb.techidaily.com/503d593f9428317b9217e37989fa613e5c3305adb
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-ultimate-warrior-challenge-t5-vs-sjcam-s6/"><u>[New] 2024 Approved The Ultimate Warrior Challenge T5 vs SJCAM S6</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-best-digital-solutions-for-converting-images-to-film/"><u>[New] Best Digital Solutions for Converting Images to Film</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-building-your-signature-solo-podcast-series-for-2024/"><u>[New] Building Your Signature Solo Podcast Series for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-premium-zero-cost-live-capture-program/"><u>2024 Approved Premium Zero-Cost Live Capture Program</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhancing-zoom-experience-on-chromebooks/"><u>Enhancing Zoom Experience on Chromebooks</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-halt-default-search-menu-opens-in-win11/"><u>Guide to Halt Default Search Menu Opens in Win11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/managing-overuse-of-system-resources-by-unrealcefsubprocess-on-windows/"><u>Managing Overuse of System Resources by UnrealCEFSubprocess on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/restore-control-over-highlighted-text-in-windows-pdf-files/"><u>Restore Control Over Highlighted Text in Windows PDF Files</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-functionality-to-a-malfunctioning-win11-media-player/"><u>Restoring Functionality to a Malfunctioning Win11 Media Player</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionize-your-fitness-routine-with-airpods-pro-3-the-latest-feature-to-track-heart-rates-directly-in-your-ears-according-to-zdnet/"><u>Revolutionize Your Fitness Routine with AirPods Pro 3 – The Latest Feature to Track Heart Rates Directly in Your Ears, According to ZDNET</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723009819322-stop-sword-and-fairy-vii-from-crashing-on-your-computer-essential-solutions-revealed/"><u>Stop Sword and Fairy VII From Crashing on Your Computer - Essential Solutions Revealed.</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-techniques-converting-heic-images-to-jpeg-using-windows-11-capabilities/"><u>Top Techniques: Converting Heic Images to JPEG Using Windows 11 Capabilities</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-your-browser-skills-with-gesture-controls-in-microsoft-edge-windows-11/"><u>Transform Your Browser Skills with Gesture Controls in Microsoft Edge (Windows 11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/turn-back-time-transforming-windows-11s-search-icon-style/"><u>Turn Back Time: Transforming Windows 11'S Search Icon Style</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-download-virtualdub-mpeg2-and-use-to-compress-mpeg2-videos/"><u>Updated In 2024, Download VirtualDub MPEG2 & Use to Compress MPEG2 Videos</u></a></li>
+</ul></div>
 

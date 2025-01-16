@@ -1,7 +1,7 @@
 ---
 title: Break the Cycle of a Non-Opening Notepad on Your Windows Device
-date: 2024-08-15T15:12:36.247Z
-updated: 2024-08-16T15:12:36.247Z
+date: 2025-01-11T20:48:29.581Z
+updated: 2025-01-16T14:49:47.006Z
 tags:
   - windows10
   - windows11
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/8bc720ee0adbf09ae88a648a38e027832e102c5d3
  If that doesn’t work, try opening Notepad through a command-line tool. Open the search menu to launch**Command Prompt** or**PowerShell** . In the console, type**notepad** and then press**Enter** .
 
 ![Open Notepad via Command-Line Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-notepad-via-command-line-tool.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You could also ask Cortana to open Notepad. However, if none of these methods work, proceed to the next solution.
 
@@ -57,9 +61,6 @@ To repair the Notepad app on Windows:
 4. Click the**three-dot menu icon** next to Notepad and select**Advanced options** .
 5. Scroll down to the Reset section and click the**Repair** button.  
 ![Repair or Reset the Notepad App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/repair-or-reset-the-notepad-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 
  You should see a checkmark next to the Repair button once the process is complete. Then, try to [open the Notepad app](https://www.makeuseof.com/windows-11-open-notepad/) again.
 
@@ -86,8 +87,9 @@ To repair the Notepad app on Windows:
 8. Tick the**Notepad (system)** checkbox and click**Next** .
 9. Click**Install** .  
 ![Install Notepad App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/install-notepad-app-on-windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait for Windows to install Notepad on your computer and then try to open it using the search menu.
@@ -109,24 +111,17 @@ To run the SFC scan on Windows:
 `DISM.exe /Online /Cleanup-image /Restorehealth`
 
 ![DISM Scan in Windows Terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/dism-scan-in-windows-terminal.jpg)
+
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After the scan is complete, restart your PC and see if you can access Notepad.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Perform a Clean Boot
 
  At times, third-party apps and background services can conflict with Windows processes and cause problems like the one discussed here. One way to verify this possibility is to boot your computer in a clean boot state, where it only runs with essential apps and services.
@@ -134,8 +129,9 @@ To run the SFC scan on Windows:
  If you perform a clean boot and Notepad opens normally, it means that the culprit causing the issue got disabled. If you'd like to learn more about the topic, check out our guide on [how to perform a clean boot on Windows](https://www.makeuseof.com/how-perform-clean-boot-windows-10/) and follow the steps listed there.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Create Another User Account
 
  If some of the files in your user account have become corrupt, you may have difficulty performing simple tasks like opening an app. If that seems to be the case, your best option is to create and switch to a new user account.
@@ -147,9 +143,6 @@ To create a new user account on Windows:
 3. Click the**Add account** button.
 4. In the Microsoft account window, click **I don't have this person's sign-in information** .  
 ![Microsoft Account Sign-In Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/microsoft-account-sign-in-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 
  Follow the on-screen prompts to create a new user account. Make sure you give the new account administrative privileges so that you can [move your personal files and data to the new account](https://www.makeuseof.com/windows-10-copy-files-between-user-accounts/) with ease.
 
@@ -159,14 +152,11 @@ To create a new user account on Windows:
 
  Hopefully, the solutions provided above have helped, and you’re able to use Notepad again. However, if none of the above solutions work, you can perform a system restore to undo any recent changes that may have caused the problem.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -175,8 +165,24 @@ To create a new user account on Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-expert-voice-memo-solutions-for-ipads-3-picks/"><u>[New] Expert Voice Memo Solutions for iPads, #3 Picks</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-live-streaming-tools-head-to-head-obs-vs-fraps-for-2024/"><u>[New] Live Streaming Tools Head to Head OBS vs Fraps for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-beginners-guide-to-accessibility-tools-on-windows/"><u>A Beginner's Guide to Accessibility Tools on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-glimpse-at-future-ready-windows-with-update-22h2s-features/"><u>A Glimpse at Future-Ready Windows with Update #22H2's Features</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/chasingpeakperformance-after-mycam-for-2024/"><u>ChasingPeakPerformance After MyCam for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-laptops-screen-with-yellowish-discoloration/"><u>Correcting Laptop's Screen with Yellowish Discoloration</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/d-link-device-security-guide-default-password-catalog-july-2024-update/"><u>D-Link Device Security Guide: Default Password Catalog – July 2024 Update</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-repairing-mic-problems-in-steelseries-arctis-prime-audio-devices/"><u>Expert Tips for Repairing Mic Problems in SteelSeries Arctis Prime Audio Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/fine-tuning-windows-11s-online-threat-detection/"><u>Fine-Tuning Windows 11'S Online Threat Detection</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-prevent-your-devices-from-dozing-off-in-windows-11/"><u>How to Prevent Your Devices From Dozing Off in Windows 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-11-pro-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone 11 Pro? Complete Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/introducing-the-widget-toolbar-features-for-win11-users/"><u>Introducing the Widget Toolbar Features for Win11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/monitor-positioning-tactics-in-windows/"><u>Monitor Positioning Tactics in Windows</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-mastering-lip-sync-explore-top-apps-for-dynamic-videos/"><u>New In 2024, Mastering Lip Sync Explore Top Apps for Dynamic Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplify-system-upkeep-automatic-driver-replacement-for-amd/"><u>Simplify System Upkeep: Automatic Driver Replacement for AMD</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/troubleshooting-steps-for-scanners-that-fail-to-turn-on-tech-advice-by-yl/"><u>Troubleshooting Steps for Scanners That Fail to Turn On - Tech Advice by YL</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-fix-unblocking-inaccessible-networks/"><u>Win Fix: Unblocking Inaccessible Networks</u></a></li>
+</ul></div>
 

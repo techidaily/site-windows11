@@ -1,7 +1,7 @@
 ---
 title: "Decoding the Discrepancy: C: Drive Vs. D: Drive"
-date: 2024-08-08T05:59:49.306Z
-updated: 2024-08-09T05:59:49.306Z
+date: 2025-01-14T02:12:00.101Z
+updated: 2025-01-16T05:12:22.030Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
  You’ll most likely find a C: and D: drive when you visit File Explorer on a Windows computer. Ever wondered about the difference between a D: drive and a C: drive and which one you should use? You’re in the right place!
 
  Let's compare both drives to see if their differences change your storage preferences.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is the Local Drive C?
 
@@ -38,27 +42,12 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 
  The C drive is typically denoted as **(C:)**, **Windows (C:)**, or **Local Disk (C:)**. You can access your local disk C: by clicking **My Computer** (on older Windows versions) or **This PC** (on newer Windows versions) in File Explorer. To open File Explorer on your computer, press the **Windows key + E.**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Characteristics of the C: Drive
 
  This is your Windows computer's primary drive or partition. Here are the features of the C: drive:
 
 * The C: drive provides storage space for your operating system and system files. This local drive is integral, enabling your computer to boot and function.
 * Typically, the C: drive houses all the applications (with their file data) you or the manufacturer installs, including other related system files. All your computer's software and files are on the C: drive. Therefore, most programs and software are installed into the local disk C: by default.  
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Local Drive C Components](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/local-drive-c-components.jpg)
 * While it is possible to use the D: drive or C: drive for games and other non-essential apps, some app components must be installed on your primary drive to function properly, as it houses your OS.
 * If the drive C: is an SSD, it'll likely be faster than an external HDD assigned the letter D. However, a heavily fragmented drive C: with numerous read and write operations may be slower than a D: drive with fewer operations. But this will vary greatly based on each computer's specifications.
@@ -68,10 +57,11 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 
 ## What Is the Local Drive D?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![USB stick, disc, and SD card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/recover-sd-card-data.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image Credit: DAMRONG RATTANAPONG/[Shutterstock](https://www.shutterstock.com/image-photo/sd-card-flash-drive-usb30-cd-1337495969)
 
@@ -83,10 +73,11 @@ Image Credit: DAMRONG RATTANAPONG/[Shutterstock](https://www.shutterstock.com/im
 
  Otherwise, your D: drive can be a removable flash drive or memory card—any additional local drive you connect to your computer after the drive (C:). Once the letter D is taken, your Windows computer will assign the letter E (up to Z) to any other local disk you attach to your device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![A screenshot showing Windows (C:) and a USB Drive (D:) in the File Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/drive-d-and-c.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Characteristics of the D: Drive
 
@@ -98,20 +89,22 @@ Image Credit: DAMRONG RATTANAPONG/[Shutterstock](https://www.shutterstock.com/im
 ![USB drives placed in hand with MacBook and iMac in backgrounds](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/usb-drives-placed-in-hand-with-macbook-and-imac-in-backgrounds.jpg)
 * Unlike Drive C: you can easily change the alphabet assigned to this secondary drive—with fewer consequences. But, there’s hardly any need to.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Similar to the C: drive, the "D" here isn't indicative of anything on its own. However, the letter D is usually assigned to any storage device that's installed after the drive containing your Windows OS.
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What About macOS and Linux Computers?
 
  You'll only find the C: and D: drive on a Windows computer. While Windows assigns letters from C to storage devices to access them easily, Linux and macOS don't use letters. Instead, they use a unified system hierarchy, placing all files under a root directory.
 
  Drives containing a Linux or macOS operating system are mounted at **/** (the system root) instead of C: as in Windows computers. Other drives and storage devices can be mounted in arbitrary folders. For instance, external storage devices on Linux computers are typically accessed at **/mount** instead of a D: drive or E: drive.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## C: Drive vs. D: Drive: Which Should You Use?
 
  The C drive is the local disk from which your operating system runs. It houses all your computer's default programs, applications, and system files. Meanwhile, the D drive is a secondary hard drive on which you can store data that isn’t vital for your computer’s operations.
@@ -120,12 +113,29 @@ Image Credit: DAMRONG RATTANAPONG/[Shutterstock](https://www.shutterstock.com/im
 
  Let's compare both drives to see if their differences change your storage preferences.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-unveiling-linuxs-leading-screen-capture-apps/"><u>[New] 2024 Approved Unveiling Linux’s Leading Screen Capture Apps</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-blur-the-outside-sharpen-inside-bokeh-balance-guide/"><u>[New] Blur the Outside, Sharpen Inside Bokeh Balance Guide</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-from-idea-to-screenshot-a-mac-guide-to-ootd-tiktoks/"><u>[Updated] In 2024, From Idea to Screenshot A Mac Guide to OOTD TikToks</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-xiaomi-civi-3-disney-100th-anniversary-edition-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Xiaomi Civi 3 Disney 100th Anniversary Edition? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/exploring-youtubes-earnings-mechanism-through-cpm-analysis/"><u>Exploring YouTube's Earnings Mechanism Through CPM Analysis</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-xiaomi-redmi-note-12r-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Xiaomi Redmi Note 12R to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-13t-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi 13T to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-downloads-weighing-choco-against-wm/"><u>Mastering Windows Downloads: Weighing Choco Against WM</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-delete-temp-files-easily/"><u>Mastering Windows: Delete Temp Files Easily</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/optimal-mobile-tech-for-discord-recording-for-2024/"><u>Optimal Mobile Tech for Discord Recording for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-services-woes-a-guide-to-fixing-the-non-operational-tool/"><u>Overcoming Windows Services Woes: A Guide to Fixing the Non-Operational Tool</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfecting-battery-status-alerts-windows-edition/"><u>Perfecting Battery Status Alerts: Windows Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/unclutter-your-windows-desktop-space/"><u>Unclutter Your Windows Desktop Space</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-jaycut-essentials-learn-how-to-edit-videos-online-for-free/"><u>Updated In 2024, Jaycut Essentials Learn How to Edit Videos Online for Free</u></a></li>
+<li><a href="https://windows11.techidaily.com/why-your-wi-fi-mouse-isnt-working-quick-fixes-for-windows/"><u>Why Your Wi-Fi Mouse Isn't Working? Quick Fixes for Windows</u></a></li>
+</ul></div>
 

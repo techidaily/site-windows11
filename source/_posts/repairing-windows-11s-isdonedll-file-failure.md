@@ -1,7 +1,7 @@
 ---
 title: Repairing Windows 11'S ISDone.dll File Failure
-date: 2025-01-09T16:31:29.289Z
-updated: 2025-01-10T17:26:32.277Z
+date: 2025-01-08T20:06:50.625Z
+updated: 2025-01-16T13:20:29.344Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run the Game’s Installer With Admin Rights
 
  First, run the game’s setup file with elevated rights to ensure admin restrictions can’t cause the issue. As you’ll only need to install the game once, it’s not necessary to set the installer to[always run as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) . Open the folder that includes the game’s setup.exe. Right-click the game’s installer (setup) file and select its**Run as administrator** context menu option.
@@ -44,11 +48,11 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 ![The Run this program in compatibility mode for option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-run-this-program-in-compatibility-mode-setting.jpg)
 7. Click**Apply** to save the compatibility settings.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Select**OK** to close the setup properties window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Set the Game’s Setup Wizard at High Priority
 
@@ -57,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 ![The Set priority option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-set-priority-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Run System File and Image Scans
@@ -66,13 +70,13 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 
 ![The System File Checker command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-sfc-command.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In addition, you can also run a Deployment Image Servicing Management scan on top. That scan can resolve issues with the system image. You can run that utility in the Command Prompt by executing this command:
 
 `DISM /Online /Cleanup-Image /RestoreHealth`
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Increase Virtual Memory Allocation
 
@@ -83,10 +87,6 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 ![The Virtual Memory window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/custom-radio-button.jpg)
 
  For example, a PC with four GB RAM would have 4096 megabytes of memory. Then you would need to multiply 1.5 by 4096 to input a value of 6144 in the**Initial** box. Three times 4096 amounts to 12288, which would be the value to enter the**Maximum size** box.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Install Any Missing Visual C++ Redistributables
 
@@ -104,7 +104,7 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
  If the ISDone.dll installation issue arises for an old game, you might need to install missing Visual C++ runtimes that predate 2015\. In this case, you’ll need to repeat the above steps for older Visual C++ packs. Try downloading the 64-bit Visual Studio 2013 and 2012 packs from the same Microsoft page to install older missing runtime libraries.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Re-Register the Referenced ISDone DLL File
@@ -125,16 +125,12 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 ![The Real-time protection option in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-real-time-protection-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Users who’ve installed alternative security software packages on PCs will need to disable the third-party antivirus shields. To do that, click a system tray icon for an antivirus app to bring up its context menu. Then, select an option for turning off (or disabling) the antivirus shield.
 
  However, don’t leave your antivirus software disabled. Instead, turn it off and then try to install whatever game the ISDone.dll error occurs for. Then make sure you re-enable the antivirus shield afterward.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Clean Boot the Windows PC
 
@@ -143,6 +139,10 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 ![The Services tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-services-tab.jpg)
 
  Our guide to[configuring a clean boot](https://www.makeuseof.com/clean-boot-windows-11/) tells you how to disable third-party startup apps and services with Task Manager and MSConfig. When you’ve set the clean boot and restarted Windows, try installing the game the ISDone.dll error occurs for. Then you can restore the original boot configuration afterward.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Enjoy Your Windows Games Again
 
@@ -163,18 +163,19 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-10-best-free-image-hosting-sites-never-lost-your-photos/"><u>[New] 10 Best Free Image Hosting Sites [Never Lost Your Photos]</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-scouting-the-finest-cameras-for-twitch-broadcast-success/"><u>[New] In 2024, Scouting the Finest Cameras for Twitch Broadcast Success</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-instant-charm-iphones-extended-shutter-showcase/"><u>[Updated] Instant Charm IPhone’s Extended Shutter Showcase</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-itel-a70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Itel A70 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-oppo-reno-8t-5g-phone-by-drfone-android/"><u>How to Reset a Locked Oppo Reno 8T 5G Phone</u></a></li>
-<li><a href="https://windows11.techidaily.com/illuminating-your-way-with-a-clearer-cursor-in-win-11/"><u>Illuminating Your Way with a Clearer Cursor in Win 11</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-a14-4g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy A14 4G | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-integrating-tracks-into-video-production-in-premiere-pro/"><u>In 2024, Integrating Tracks Into Video Production in Premiere Pro</u></a></li>
-<li><a href="https://windows11.techidaily.com/personalize-your-workspace-adding-an-indicator-of-the-current-weather-on-windows-11-taskbar/"><u>Personalize Your Workspace: Adding an Indicator of the Current Weather on Windows 11 Taskbar</u></a></li>
-<li><a href="https://windows11.techidaily.com/reconnect-the-unreachable-your-guide-to-fixing-usb-wi-fi-in-windows/"><u>Reconnect the Unreachable: Your Guide to Fixing USB Wi-Fi in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedying-microsofts-0x800713f-mail-glitch-in-win11/"><u>Remedying Microsoft's 0X800713F Mail Glitch in Win11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-strategies-for-persistent-connections-errors-in-apex-legends/"><u>Solution Strategies for Persistent Connections Errors in Apex Legends</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-humor-algorithm-exploring-the-ability-of-artificial-intelligence-to-craft-jokes/"><u>The Humor Algorithm: Exploring the Ability of Artificial Intelligence to Craft Jokes</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-audio-animation-for-dynamic-snapchat-films/"><u>[New] Audio Animation for Dynamic Snapchat Films</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-connect-your-tiktok-creativity-to-twitter-for-2024/"><u>[New] Connect Your TikTok Creativity to Twitter for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-melody-matrix-tips-and-tricks-for-social-media-sounds/"><u>[New] In 2024, Melody Matrix Tips and Tricks for Social Media Sounds</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-top-voice-altering-tool-for-free-enhance-your-valorant-experience/"><u>[Updated] 2024 Approved Top Voice Altering Tool for Free - Enhance Your Valorant Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-parents-roadmap-to-understanding-chatgpt-and-the-world-of-generative-ai/"><u>A Parent's Roadmap to Understanding ChatGPT & the World of Generative AI</u></a></li>
+<li><a href="https://windows11.techidaily.com/command-prompt-oddities-learn-5-amusing-anomalies/"><u>Command Prompt Oddities: Learn 5 Amusing Anomalies</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-real-time-performance-for-smooth-vlc-viewing/"><u>Enhancing Real-Time Performance for Smooth VLC Viewing</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-review-and-comparison-how-does-anthropics-smart-photo-editor-stack-up/"><u>Expert Review & Comparison: How Does Anthropics' Smart Photo Editor Stack Up?</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-6-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 6 without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/introducing-real-space-sound-on-windows-11/"><u>Introducing Real-Space Sound on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-corruption-unlock-write-permissions-in-win10win11/"><u>Overcoming Corruption: Unlock Write Permissions in Win10/Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-roadblocks-activating-non-functional-scripts-in-windows/"><u>Overcoming Roadblocks: Activating Non-Functional Scripts in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/personalize-browser-security-incorporating-trusted-websites-in-windows-11/"><u>Personalize Browser Security: Incorporating Trusted Websites in Windows 11</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-ultimate-list-of-independent-mobile-games-play-without-a-network-android/"><u>The Ultimate List of Independent Mobile Games - Play Without a Network (Android)</u></a></li>
 </ul></div>
 

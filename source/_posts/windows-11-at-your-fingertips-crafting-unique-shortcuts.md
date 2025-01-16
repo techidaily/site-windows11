@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 at Your Fingertips: Crafting Unique Shortcuts"
-date: 2025-01-09T22:00:17.647Z
-updated: 2025-01-10T16:16:43.668Z
+date: 2025-01-08T22:48:24.493Z
+updated: 2025-01-15T20:20:33.294Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Download and Install WinHotKey
 
  WinHotKey is a freely available app for setting up new keyboard shortcuts. That software is compatible with most Windows desktop platforms as well. It has a quick and easy setup and takes up very little drive storage space. You can download and install WinHotKey as follows.
@@ -36,20 +40,16 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 ![The WinHotKey setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/WinHotKey-setup-wizard.png)
 5. Select the **Next** option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Click the **I accept the agreement** radio button, and press the **Next** button again.
 7. Press the **Browse** button to choose an installation folder.  
 ![The Browse button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/The-Browse-button.png)
 8. Select the **Next** option to install the software.
 
-9. After installing, select the option to set up a WinHotKey desktop shortcut. Then you can click that shortcut to launch the software.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+9. After installing, select the option to set up a WinHotKey desktop shortcut. Then you can click that shortcut to launch the software.
 
 ## How to Set Up Software Hotkeys
 
@@ -59,27 +59,27 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 ![The WinHotKey Configuration window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/winhotkey-configuration-window.png)
 2. Type an optional description for the hotkey in the text box on the **General** tab if you wish.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Select the **Launch an application** option on the drop-down menu.
 4. Press the **Browse** button to bring up a new application window.  
 ![The Browse for application window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/browse-for-application-window.png)
 5. Select an app for the hotkey to launch.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Click the **OK** button.
 2. Now select a keyboard key for the shortcut on the **Along with the key** drop-down menu.  
 ![Along with the key drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/along-with-the-key-drop-down-menu.png)
 3. You can also select additional keys for the hotkey by clicking the **Alt**, **Shift**, and **Ctrl** checkboxes. The Windows checkbox is selected by default, but you can deselect that option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. To further configure the keyboard shortcut, click the **Advanced** button. You can enter additional parameters and change how the software window opens on the Launch: Advanced window.  
 ![The Launch: Advanced window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/launch-advanced-window.png)
 5. Click the **OK** button to exit the Launch: Advanced window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Then press the **OK** button on the New Hotkey window to add the keyboard shortcut.
 
@@ -100,6 +100,10 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 * Services Windows: services.msc
 * Optimize Drives: dfrgui
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Set Up Folder, Document, and Window Control Hotkeys
 
  Aside from software shortcuts, you can establish hotkeys for opening folders and document files much the same. Instead of selecting **Launch an Application** on the New Hotkey window, select either the **Open a Folder** or **Open a Document** option. Then click **Browse** to select a document’s or folder’s path, configure a key combination, and press the **OK** button.
@@ -107,14 +111,6 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
  WinHotKey also enables you to set up hotkeys for six different window control actions. To set up such a keyboard shortcut, select the **Control the Current Window** option on the New Hotkey window. Then you can select minimize, maximize, restore, toggle, resize, and move window control options for the keyboard shortcut.
 
 ![Make the Current Windows drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/make-the-current-window-drop-down-menu.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Create Custom Keyboard Shortcuts With HotkeyP
 
@@ -148,6 +144,10 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 
 ![The Shutdown option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-shutdown-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can change general software settings for HotkeyP by clicking the **Options** button. That will bring up an Options window that includes numerous miscellaneous software. Make sure the **Start automatically at Windows startup** checkbox is selected on the **General** tab. Then HotKeyP will automatically start in the background.
 
 ![The Start automatically checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-start-automatically-checkbox.jpg)
@@ -168,22 +168,21 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-enlarged-pictures-maintaining-high-quality-standards/"><u>[Updated] In 2024, Enlarged Pictures Maintaining High-Quality Standards</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-advanced-photo-manipulation-focus-on-content-not-backdrop/"><u>2024 Approved Advanced Photo Manipulation Focus on Content, Not Backdrop</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-enriching-your-social-media-footprint-live-streaming-via-wirecast/"><u>2024 Approved Enriching Your Social Media Footprint Live Streaming via Wirecast</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-update-rtx-2070-super-graphics-card-drivers-for-windows-11-step-by-step-guide/"><u>Download and Update RTX 2070 Super Graphics Card Drivers for Windows 11: Step-by-Step Guide</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/exploring-the-origins-of-the-chinese-civil-conflict-with-yl-softwares-comprehensive-guide/"><u>Exploring the Origins of the Chinese Civil Conflict with YL Software's Comprehensive Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-media-player-server-crash/"><u>Fixing Media Player Server Crash</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-update-your-acer-aspire-5100-with-new-drivers/"><u>How to Update Your Acer Aspire 5100 with New Drivers</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-samsung-galaxy-s24plus-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Samsung Galaxy S24+ to New Phone | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/install-a-new-internet-browser-on-your-samsung-tv-easy-instructions-inside/"><u>Install a New Internet Browser on Your Samsung TV – Easy Instructions Inside</u></a></li>
-<li><a href="https://windows11.techidaily.com/leverage-latest-proven-wsl-2-methods-on-windows-systems/"><u>Leverage Latest: Proven WSL 2 Methods on Windows Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimizing-keyboard-interface-with-personalized-fn-keys-in-windows-11/"><u>Optimizing Keyboard Interface with Personalized FN Keys in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/regain-your-control-restoring-synapse-on-w10-and-w11/"><u>Regain Your Control: Restoring Synapse on W10 & W11</u></a></li>
-<li><a href="https://windows11.techidaily.com/reigniting-frozen-discord-overlay-a-stepwise-guide-for-windows-users/"><u>Reigniting Frozen Discord Overlay: A Stepwise Guide for Windows Users</u></a></li>
-<li><a href="https://howto.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-nubia-red-magic-9-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/tailoring-picture-previews-in-windows-11-ui/"><u>Tailoring Picture Previews in Windows 11 UI</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-access-denial-in-windows-11-a-quick-guide-to-5-solutions/"><u>Troubleshooting Access Denial in Windows 11: A Quick Guide to 5 Solutions</u></a></li>
-<li><a href="https://windows11.techidaily.com/ultimate-list-wins-premier-video-trimming-tools/"><u>Ultimate List: Win's Premier Video Trimming Tools</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/aptivate-viewers-create-success-a-strategy-for-gamers-channels/"><u>[New] Captivate Viewers, Create Success A Strategy for Gamers' Channels</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-time-saving-tips-regaining-archived-reddit-posts/"><u>[New] In 2024, Time-Saving Tips Regaining Archived Reddit Posts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-techniques-for-reversing-chronological-order/"><u>[New] Techniques for Reversing Chronological Order</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-vivo-v29e-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Vivo V29e? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/cleanse-your-search-box-of-windows-graphics/"><u>Cleanse Your Search Box of Windows Graphics</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723006108350-login-limbo-no-more-the-unavailable-online-login-glitch-corrected/"><u>Login Limbo No More: The 'Unavailable Online Login' Glitch Corrected!</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-access-steps-for-unlocking-windows-hidden-char-personality-tracker/"><u>Mastering Access: Steps for Unlocking Windows' Hidden Char Personality Tracker</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-over-windows-crash-0x800f0831-solution/"><u>Mastery Over Windows Crash: 0X800f0831 Solution</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-directdraw-woes-a-users-survival-manual-for-win11/"><u>Navigating DirectDraw Woes: A User's Survival Manual for Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/rapidly-access-apps-on-windows-11/"><u>Rapidly Access Apps on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-google-chrome-to-full-color-in-windows/"><u>Restoring Google Chrome to Full Color in Windows</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/step-by-step-tutorial-for-transferring-youtube-content-into-itunes-on-a-mac-compatible-with-mojave/"><u>Step-by-Step Tutorial for Transferring YouTube Content Into iTunes on a Mac, Compatible with Mojave</u></a></li>
+<li><a href="https://win-web.techidaily.com/tailoring-screen-settings-for-optimal-viewing-insights-from-yl-software-experts/"><u>Tailoring Screen Settings for Optimal Viewing: Insights From YL Software Experts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-picks-in-gaming-the-ideal-console-and-peripheral-presents-for-young-players/"><u>Top Picks in Gaming: The Ideal Console and Peripheral Presents for Young Players</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/transferer-un-image-ppm-vers-bmp-sans-fronde-convertissez-facilement-et-gratuitement-sur-lignes/"><u>Transférer Un Image PPM Vers BMP Sans Fronde - Convertissez Facilement Et Gratuitement Sur Lignes</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-steams-online-potential-on-pc/"><u>Unlocking Steam's Online Potential on PC</u></a></li>
 </ul></div>
 

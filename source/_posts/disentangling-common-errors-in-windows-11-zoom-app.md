@@ -1,7 +1,7 @@
 ---
 title: Disentangling Common Errors in Windows 11 Zoom App
-date: 2024-08-08T05:59:01.160Z
-updated: 2024-08-09T05:59:01.160Z
+date: 2025-01-14T05:01:03.667Z
+updated: 2025-01-16T13:44:48.512Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/0444eec17d8a448239a97f10d9e4452f293a188f5
 
  This issue is one that mostly affects the Windows 10 and 11 Zoom app. Are you one of those Zoom users who can’t join meetings in that app because of error 1132? If so, try fixing the issue with the potential Zoom error 1132 resolutions below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Reboot Your Router
 
  First, try refreshing your internet connection by rebooting (or power cycling) your PC’s router. Applying that troubleshooting method will reset the router’s cache, which can resolve many connection-related issues. Follow these steps to reboot your router:
@@ -35,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/0444eec17d8a448239a97f10d9e4452f293a188f5
 
  Those instructions are for 2-in-1 modem routers. If you have a separate modem, you’ll also need to unplug that modem and reconnect it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Update the Zoom App
 
  Error 1132 can arise because of bugs in older Zoom versions. So, make sure you’re using the latest version of Zoom. You can manually select to update Zoom in the following steps:
@@ -44,9 +45,11 @@ thumbnail: https://thmb.techidaily.com/0444eec17d8a448239a97f10d9e4452f293a188f5
 3. Select the**Check for updates** option.  
 ![The Check for Updates option in Zoom](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/check-for-updates-option.jpg)
 4. If the window says there’s an update available, click the**Update** (or**Install**) option.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![The Update button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/zoom-update-window.jpg)
 5. Wait for the Zoom updater to finish.
 6. Sign back into Zoom after the update, and try joining a meeting.
@@ -63,11 +66,13 @@ thumbnail: https://thmb.techidaily.com/0444eec17d8a448239a97f10d9e4452f293a188f5
 5. Double-click any Zoom rule you find listed there.
 6. Select the**Protocols** **and** **Ports** tab shown below.
 7. Click the**Protocol Type** drop-down menu to select**Any** .  
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Protocols and Ports tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/protocols-and-ports-tab.jpg)
 8. Select**Apply** to set the rule’s new protocol option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 9. Click**OK** to exit the rule’s properties window.
 10. Repeat steps five to nine for all Zoom rules within Windows Defender Firewall with Advanced Security.
 
@@ -83,18 +88,6 @@ thumbnail: https://thmb.techidaily.com/0444eec17d8a448239a97f10d9e4452f293a188f5
 
  Some users have also said resetting their antivirus apps’ firewalls fixed error 1132 for them. So, that’s another option worth considering. Look for and select an option that restores the default firewall settings in your security software.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Reinstall the Zoom App
 
  Reinstalling Zoom will completely refresh that app’s files and ensure you’re utilizing its latest version. This is how you can reinstall Zoom in Windows 10 and 11:
@@ -102,9 +95,6 @@ thumbnail: https://thmb.techidaily.com/0444eec17d8a448239a97f10d9e4452f293a188f5
 1. Press the**Win** +**R** key shortcut to access the Run command dialog.
 2. Type**explorer.exe ms-settings:appsfeatures** inside Run and select**OK** .
 3. Click the menu button for the Zoom app to select**Uninstall** . You can select the app and click**Uninstall** in Windows 10.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-option.jpg)
 4. Open [the Zoom](https://zoom.us/download#client%5F4meeting) download center.
 5. Click the**Download** for the Zoom Desktop Client.  
@@ -114,19 +104,22 @@ thumbnail: https://thmb.techidaily.com/0444eec17d8a448239a97f10d9e4452f293a188f5
 8. Go through Zoom’s setup wizard to reinstall the software.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Set Up a New Windows Account
 
  Many Zoom users who’ve needed to fix error 1132 have said setting up a new Windows account works. So, it seems this error can arise because of some kind of user account issue. Try utilizing Zoom in a new Windows account as follows:
 
 1. First, uninstall Zoom in your current Windows user profile, as covered in steps one to three of resolution five.
 2. Then set up the new local Windows user account. You can do that by following the instructions in our guide for [creating a new Windows user account](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) to resolve issues.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/add-account-button.jpg)
 3. When you’ve set up a new local Windows user account, log out of your current one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Sign in to the newly created user profile.
 5. Install the Zoom app in the new account.
 6. Then open and sign in to the Zoom app.
@@ -144,8 +137,6 @@ thumbnail: https://thmb.techidaily.com/0444eec17d8a448239a97f10d9e4452f293a188f5
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,6 +144,26 @@ thumbnail: https://thmb.techidaily.com/0444eec17d8a448239a97f10d9e4452f293a188f5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-master-the-mix-incorporating-and-refining-music-into-canva-projects/"><u>[New] Master the Mix Incorporating & Refining Music Into Canva Projects</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-what-does-virtual-mean-in-a-world-of-reality-for-2024/"><u>[New] What Does 'Virtual' Mean in a World of Reality for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-quirky-quirks-your-simple-steps-for-memelore-mastery/"><u>[Updated] 2024 Approved Quirky Quirks Your Simple Steps for Memelore Mastery</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-transformative-file-conversion-your-quick-srt-to-text-txt-guide/"><u>[Updated] 2024 Approved Transformative File Conversion Your Quick SRT to Text (TXT) Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-quick-tips-for-iphone-7-video-saving/"><u>[Updated] In 2024, Quick Tips for iPhone 7 Video Saving</u></a></li>
+<li><a href="https://windows11.techidaily.com/festive-glamour-inspiring-window-decorations/"><u>Festive Glamour: Inspiring Window Decorations</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-frontier-crash-issue-in-pc-gaming-a-step-by-step-guide/"><u>Fixing the Frontier Crash Issue in PC Gaming - A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-xiaomi-redmi-k70-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Xiaomi Redmi K70 Without Password | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-re-position-your-qbittorrent-on-different-windows-devices/"><u>How to Re-Position Your qBittorrent on Different Windows Devices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-comprehensively-tackling-the-sony-fdr-x1000-action-gear/"><u>In 2024, Comprehensively Tackling the Sony FDR-X1000 Action Gear</u></a></li>
+<li><a href="https://windows11.techidaily.com/making-your-life-easier-deploying-multiple-apps-on-windows-11-via-winstall/"><u>Making Your Life Easier: Deploying Multiple Apps on Windows 11 via Winstall</u></a></li>
+<li><a href="https://windows11.techidaily.com/reignite-your-wi-fi-mouse-simple-steps-for-windows-users/"><u>Reignite Your Wi-Fi Mouse - Simple Steps for Windows Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/remote-diagnostics-feature-in-apples-latest-self-service-repair-kit-now-includes-iphone-15-and-m2-mac-support-tech-news/"><u>Remote Diagnostics Feature in Apple's Latest Self-Service Repair Kit: Now Includes iPhone 15 & M2 Mac Support | Tech News</u></a></li>
+<li><a href="https://windows11.techidaily.com/reveal-and-restore-absent-cameras-to-system-list/"><u>Reveal and Restore Absent Cameras to System List</u></a></li>
+<li><a href="https://windows11.techidaily.com/saving-the-day-unraveling-steam-storage-errors/"><u>Saving the Day: Unraveling Steam Storage Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-scaling-problems-in-windows-high-dpi-environments/"><u>Solutions for Scaling Problems in Windows High DPI Environments</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-to-windows-admin-managed-security-issues/"><u>Solutions to Windows Admin-Managed Security Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-your-workflow-with-enabled-wsl-support/"><u>Streamline Your Workflow with Enabled WSL Support</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-iphone-12-mini-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On iPhone 12 mini Making It Possible</u></a></li>
+</ul></div>
 

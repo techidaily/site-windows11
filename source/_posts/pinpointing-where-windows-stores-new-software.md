@@ -1,7 +1,7 @@
 ---
 title: Pinpointing Where Windows Stores New Software
-date: 2025-01-08T18:47:20.765Z
-updated: 2025-01-10T20:13:37.844Z
+date: 2025-01-12T23:33:27.756Z
+updated: 2025-01-15T23:37:57.568Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/2dc71f07a766ca604beda3fe20bd5fd81321c87e0
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. How to Find the Location of a Program Using the Start Menu
 
@@ -51,14 +55,6 @@ thumbnail: https://thmb.techidaily.com/2dc71f07a766ca604beda3fe20bd5fd81321c87e0
 ![shortcut properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/shortcut-target.jpg)
 3. Click on the**Shortcut** tab, and you will find the installation path in the**Target** field.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Locate the Folder Where a Program Is Installed Using Task Manager
 
  The Windows Task Manager is a powerful system monitor utility tool that allows you to manage running processes on your system. Apart from other[conventional uses of the Task Manager](https://www.makeuseof.com/how-to-use-windows-task-manager/) , you can also use it to find the installation folder of a program (you might need to launch the program beforehand).
@@ -70,11 +66,15 @@ thumbnail: https://thmb.techidaily.com/2dc71f07a766ca604beda3fe20bd5fd81321c87e0
 2. Once the Task Manager is up and running, click on the**Details** tab to get a list of all[currently running background processes](https://www.makeuseof.com/windows-pc-too-many-background-processes/) and applications.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. After locating the program you need, right-click and then click on**Open file location** .
 4. A new File Explorer window will open up, and you will have found the program's installation directory.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Access the Installation Folder of a Program Using File Explorer
 
@@ -90,7 +90,7 @@ To find where a program is located using the File Explorer:
 3. Navigate to**Program Files > Program Files (x86)** and then scroll the list of folders until you find one with the program name you’re looking for.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Finding a Program's Install Location Is Easy
@@ -114,16 +114,24 @@ To find where a program is located using the File Explorer:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/esign-guide-youtube-banners-and-thumbnail-creation/"><u>[New] Design Guide YouTube Banners & Thumbnail Creation</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-capture-perfection-iphone-camera-skills-guide/"><u>[Updated] In 2024, Capture Perfection IPhone Camera Skills Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-masterful-zoom-techniques-simple-iphone-solutions/"><u>2024 Approved Masterful Zoom Techniques Simple iPhone Solutions</u></a></li>
-<li><a href="https://windows11.techidaily.com/five-keys-to-unlock-frozen-windows-hibernate/"><u>Five Keys to Unlock Frozen Windows Hibernate</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-discovering-av1-a-novices-pathway/"><u>In 2024, Discovering AV1 A Novice's Pathway</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-to-turn-off-or-not-navigating-through-your-off-facebook-activities/"><u>In 2024, To Turn Off or Not Navigating Through Your Off-Facebook Activities</u></a></li>
-<li><a href="https://windows11.techidaily.com/revising-chromes-erroneous-security-warnings-tips-and-tricks/"><u>Revising Chrome's Erroneous Security Warnings: Tips & Tricks</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/samsung-galaxy-tab-s5e-review/"><u>Samsung Galaxy Tab S5e Review</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-fileshare-on-windows-11/"><u>Streamlining Fileshare on Windows 11</u></a></li>
-<li><a href="https://fox-search.techidaily.com/understanding-cybersecurity-roles-a-guide-to-identifying-white-black-gray-and-other-categories-of-hackers/"><u>Understanding Cybersecurity Roles: A Guide to Identifying White, Black, Gray, and Other Categories of Hackers</u></a></li>
-<li><a href="https://windows11.techidaily.com/unwrapping-the-mystery-of-windows-store-error-code-0x80072efd/"><u>Unwrapping the Mystery of Windows Store Error Code 0X80072EFD</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-free-fb-music-journey-begins-here/"><u>[New] 2024 Approved Free FB Music Journey Begins Here</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hitting-the-sweet-spot-top-5-tips-for-channel-growth/"><u>[New] In 2024, Hitting the Sweet Spot Top 5 Tips for Channel Growth</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-80plus-creative-cooking-channel-names-to-attract-more-audience/"><u>[Updated] 2024 Approved 80+ Creative Cooking Channel Names to Attract More Audience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-complete-pacera-free-audio-liberation-handbook/"><u>[Updated] The Complete Pacera Free Audio Liberation Handbook</u></a></li>
+<li><a href="https://windows11.techidaily.com/6-cutting-edge-windows-programs-for-media-editing/"><u>6 Cutting-Edge Windows Programs for Media Editing</u></a></li>
+<li><a href="https://windows11.techidaily.com/customizing-task-managers-initial-screen-on-win11/"><u>Customizing Task Manager's Initial Screen on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabling-external-monitors-without-graphics-card/"><u>Enabling External Monitors without Graphics Card</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/get-started-with-gpt4all-a-cost-free-localized-chatgpt-cloning-for-your-pc/"><u>Get Started with GPT4All - A Cost-Free, Localized ChatGPT Cloning for Your PC</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-itel-s23plus-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Itel S23+? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-photographs-dancing-to-musical-rhythms/"><u>In 2024, Photographs Dancing to Musical Rhythms</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-transform-your-channels-image-a-pathway-to-more-subscribers-and-followers/"><u>In 2024, Transform Your Channels' Image A Pathway to More Subscribers and Followers</u></a></li>
+<li><a href="https://windows11.techidaily.com/reestablishing-clear-audio-conversations-on-valorant-pc/"><u>Reestablishing Clear Audio Conversations on Valorant PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/scrutinizing-underused-windows-features-for-system-checks/"><u>Scrutinizing Underused Windows Features for System Checks</u></a></li>
+<li><a href="https://windows11.techidaily.com/silencing-the-audio-stutter-taming-winirq-errors/"><u>Silencing the Audio Stutter: Taming WinIRQ Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-steam-service-problems-for-a-smooth-windows-11-experience/"><u>Solving Steam Service Problems for a Smooth Windows 11 Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/speedy-task-execution-windows-keyboard-tips-and-tricks/"><u>Speedy Task Execution: Windows Keyboard Tips & Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-stabilizing-your-dragons-dogma-2-pc-gameplay-experience/"><u>Troubleshooting Tips for Stabilizing Your Dragon's Dogma 2 PC Gameplay Experience</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ate-filmmaking-journey-via-youtube-channels-for-2024/"><u>Ultimate Filmmaking Journey via YouTube Channels for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/why-is-nvidia-control-panel-inaccessible-on-win11/"><u>Why Is Nvidia Control Panel Inaccessible on Win11?</u></a></li>
 </ul></div>
 

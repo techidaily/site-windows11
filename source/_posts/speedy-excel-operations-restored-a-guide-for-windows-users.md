@@ -1,7 +1,7 @@
 ---
 title: "Speedy Excel Operations Restored: A Guide for Windows Users"
-date: 2025-01-07T17:34:24.043Z
-updated: 2025-01-10T19:50:00.641Z
+date: 2025-01-14T15:42:03.964Z
+updated: 2025-01-16T09:22:02.671Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Run Excel in Safe Mode
 
  One of the most common reasons why Excel may run slowly on your Windows computer is if one of the add-ins is disrupting app processes. To investigate this possibility, you can run Excel in safe mode.
@@ -47,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 
  Restart Excel on your PC and enable your add-ins one at a time. Try using Excel after enabling each add-in and observe its performance. Once you identify the faulty add-in, consider removing it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Optimize Excel for Compatibility
 
  Another thing you can do to improve Excel’s performance on Windows is to optimize its interface for compatibility instead of the best appearance. This can lead to better overall performance and smoother operation.
@@ -62,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 ![Optimize Excel for Compatiblity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/optimize-excel-for-compatiblity.jpg)
 
  Restart Excel after this and check if it still runs slowly or lags on your Windows computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Disable Hardware Graphics Acceleration
 
@@ -82,6 +78,14 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 
 ![Enable Manual Calculation in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-manual-calculation-in-excel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Reduce the Size of Your Excel File
 
  The larger your spreadsheet, the more calculations and operations Excel has to perform. This can have a negative impact on Excel's performance and lead to various problems. To avoid this, you can try reducing the size of your Excel workbook by decreasing the number of sheets, removing unnecessary formatting, and compressing any pictures within your workbook.
@@ -92,14 +96,6 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 
 ![Save As Dialog in Excel](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/save-as-dialog-in-excel.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Update Microsoft Excel
 
  Are you using an outdated version of Excel? If so, you may be missing out on new features and performance enhancements. Try updating Excel on your PC and see if that improves its performance on your Windows computer.
@@ -109,11 +105,11 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 3. Click **Update Options > Update Now**.  
 ![Update Microsoft Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-microsoft-excel.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Wait for Microsoft Office to update Excel along with other Office apps and check if that fixes the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Run the Office Repair Tool
 
@@ -127,7 +123,15 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 6. Select the **Quick Repair** option and then click **Repair**.  
 ![Repair Microsoft Office](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/repair-microsoft-office.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Allow the repair tool to fix any issues with Excel. If the issue remains even after that, you can perform an **Online Repair** instead. This will allow the tool to perform a more comprehensive repair to resolve any issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Try Some Generic Windows Fixes
 
@@ -136,10 +140,6 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 * **Close Background Apps:** Running an excessive number of apps and programs simultaneously can strain system resources, leading to slow performance in Excel. Try [closing apps and programs](https://www.makeuseof.com/windows-close-apps-programs/) you don’t need to free up system resources and see if that helps.
 * **Repair Your Excel File:** If Excel experiences lag only when you work on a specific workbook, there might be an issue with that file itself. In that case, you can try [repairing the Excel workbook](https://www.makeuseof.com/repair-courrpted-excel-workbook/) to solve the problem.
 * **Speed Up Your Windows PC:** Issues with your Windows computer can make it seem like there's a problem with Excel. If your [Windows computer is running slowly or lagging](https://www.makeuseof.com/ways-to-fix-slow-lagging-windows-11/), try changing the power plan or freeing up storage space to fix the problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Experience a Lag-Free Excel Again on Windows
 
@@ -157,19 +157,16 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-chapter-insertion-in-youtube-videos-an-all-inclusive-handbook/"><u>[Updated] Mastering Chapter Insertion in YouTube Videos An All-Inclusive Handbook</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-palette-perfection-the-colorists-manual/"><u>[Updated] Palette Perfection The Colorist's Manual</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/discover-the-most-effective-iphone/"><u>Discover the Most Effective iPhone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-play-7t-by-fonelab-android-recover-video/"><u>How to recover old videos from your Play 7T</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-deciding-the-best-for-screens-is-obs-more-effective-than-fraps/"><u>In 2024, Deciding the Best for Screens Is OBS More Effective than Fraps?</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/solving-the-issue-unsuccessful-attempts-at-launching-the-witcher-3-wild-hunt/"><u>Solving the Issue: Unsuccessful Attempts at Launching The Witcher 3: Wild Hunt</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-guide-to-intensifying-excel-grid-lines/"><u>Step-by-Step Guide to Intensifying Excel Grid Lines</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-guide-combining-multiple-charts-with-excels-overlay-feature/"><u>Step-by-Step Guide: Combining Multiple Charts with Excel's Overlay Feature</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-guide-renaming-series-within-an-ms-excel-dataset/"><u>Step-by-Step Guide: Renaming Series Within an MS Excel Dataset</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-tutorial-on-arranging-data-values-within-microsoft-excel/"><u>Step-by-Step Tutorial on Arranging Data Values Within Microsoft Excel</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211247369-9781507209677-the-little-book-of-self-care-for-taurus/"><u>The Little Book of Self-Care for Taurus | Free Book</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-13-essential-microsoft-excel-datetime-formulas-every-user-must-master/"><u>Top 13 Essential Microsoft Excel Date/Time Formulas Every User Must Master</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-6-tips-for-creating-simple-and-legible-excel-sheets/"><u>Top 6 Tips for Creating Simple and Legible Excel Sheets</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-elevating-your-video-projects-with-audio-synchronization-in-magix-pro/"><u>Updated 2024 Approved Elevating Your Video Projects with Audio Synchronization in Magix Pro</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-seamless-methodology-for-going-live-with-podcasts/"><u>2024 Approved Seamless Methodology for Going Live with Podcasts</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-infinix-gt-10-pro-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Infinix GT 10 Pro Phone</u></a></li>
+<li><a href="https://windows11.techidaily.com/dodging-unsupported-issue-in-windows-5-fixes/"><u>Dodging 'Unsupported' Issue in Windows: 5 Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/expedite-photo-corrections-ps-and-windows-strategy/"><u>Expedite Photo Corrections: PS & Windows Strategy</u></a></li>
+<li><a href="https://windows11.techidaily.com/flawless-system-transition-mastering-windows-11s-in-place-update-process/"><u>Flawless System Transition: Mastering Windows 11'S In-Place Update Process</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/free-screen-recorder-apowersoft-evaluation/"><u>Free Screen Recorder Apowersoft Evaluation</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-inspire-business-identity-utilize-free-logo-templates-and-modify-endlessly/"><u>In 2024, Inspire Business Identity Utilize Free Logo Templates & Modify Endlessly</u></a></li>
+<li><a href="https://windows11.techidaily.com/reactivating-inputs-post-sleep-on-latest-windows/"><u>Reactivating Inputs Post-Sleep on Latest Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/rotazione-video-in-alta-qualita-senza-perdite-per-mp4-opzioni-di-rotazione-a-90-180-e-270-gradi/"><u>Rotazione Video in Alta Qualità Senza Perdite per MP4: Opzioni Di Rotazione a 90, 180 E 270 Gradi</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782367-9781591432609-wars-of-the-anunnaki/"><u>Wars of the Anunnaki | Free Book</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-cleanup-stripping-out-microsoft-store/"><u>Win11 Cleanup: Stripping Out Microsoft Store</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Innovative Windows 11 Disk Space Strategies Without Deleting Files (Max 156 Chars)
-date: 2025-01-08T22:47:51.379Z
-updated: 2025-01-10T18:22:46.749Z
+date: 2025-01-10T04:11:43.025Z
+updated: 2025-01-16T14:04:57.261Z
 tags:
   - windows10
   - windows11
@@ -25,17 +25,21 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use NTFS Drive Compression
 
  Windows 11 includes a compression option for NTFS drives. Selecting that setting applies compression to user files on a drive by removing redundant data. You can select to apply NTFS compression for your whole C: drive or a single folder. Our guide to [enabling NTFS compression on Windows 11](https://www.makeuseof.com/enable-disable-ntfs-file-compression-windows-11/) tells you how to select the **Compress contents to save disk space** option.
 
 ![The Compress this drive to save disk space checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/compress-this-drive-to-save-space-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Exactly how much drive space NTFS compression will free up can be variable. If you have many uncompressed user document files on your drive, then NTFS will likely free up at least a few gigabytes of storage space. However, this compression won’t free up so much space if there aren’t many user files on your PC’s drive. The only way to find out is to try it on at least one large folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Disable System Restore
 
@@ -51,13 +55,13 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 ![The Disable system protection radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-system-protection-option.jpg)
 6. Select **Apply** to save the system protection settings.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Click the System Protection window’s **OK** option.
 
  If you prefer to keep **System Restore** on, you can still at least reduce that utility’s disk usage. To do so, drag the **Max Usage** bar’s slider left on the System Protection window.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Convert Your Saved Video Files Into the MP4 Format
 
@@ -70,13 +74,13 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 ![The video format selection options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-video-selection-option.jpg)
 3. Select the format of your current video files.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click **Choose File** \> **From Device** to select one or more videos to convert.  
 ![The Choose File button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/from-a-device-option.jpg)
 5. Press **Open** to add the selected videos.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Click **Start** to convert the video to MP4\.
 7. Select **Download** to save the converted MP4 videos.
@@ -91,10 +95,6 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 
 ![The image format conversion web app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/image-format-conversion-tool.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Reduce the Recycle Bin’s Size
 
  Windows 11’s Recycle Bin stores deleted files until emptied. You can reduce the maximum amount of space allocated to the Recycle Bin for storing files. This will mean your Recycle Bin will reach max size sooner rather than later, and you’ll need to empty it more often.
@@ -107,14 +107,6 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 ![The Custom size radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-custom-size-option.jpg)
 4. Click **Apply** and **OK** in the Recycle Bin Properties window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Create ZIP Archives for Storing Files
 
  ZIP is an archive format that compresses files included in it. ZIP archives are like compressed folders from which you can easily access their contents when needed. Archiving lots of user files lying around on your hard drive within ZIPs will free up drive space. Creating ZIP archives with many videos and images in them could free up lots of drive space.
@@ -122,6 +114,14 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
  Windows 11 includes options for creating ZIP archives. You can set up a ZIP with one of the six methods in our article about [creating ZIP files on Windows](https://www.makeuseof.com/easy-ways-create-zip-file-windows-10/). If you ever need to access an archive’s contents, check out this guide to [unzipping ZIP files](https://www.makeuseof.com/unzip-files-windows-10/).
 
 ![The Compress to ZIP file option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/compress-to-zip-file-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Save Files to a Cloud Storage Service
 
@@ -131,10 +131,6 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 
 ![Google Drive cloud storage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/google-drive-storage.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Utilize Third-Party Web Apps and Portable Programs
 
  Installing more software packages consumes the most space on your PC’s C: drive. You can save C: drive space by utilizing the many freely available web apps instead of installing desktop software.
@@ -142,6 +138,10 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
  The Google Docs, Slides, and Sheets web apps are decent productivity alternatives to Microsoft Word, PowerPoint, and Excel. Canva is a great online graphics design app. Plus, you can utilize many online image editors and file conversion web apps.
 
 ![The Google DOCs web app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/google-docs.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Utilizing portable apps is another good way to save drive space, because you don't need to install them. You can even run the portable apps from a USB stick instead of your PC’s local drive. To do so, download the files for portable app versions to your USB stick from their websites.
 
@@ -165,20 +165,17 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-elite-action-cameras-for-thrill-seekers/"><u>[New] 2024 Approved Elite Action Cameras for Thrill Seekers</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-blue-bands-promise-tips-for-longevity/"><u>[Updated] 2024 Approved The Blue Bands Promise Tips for Longevity</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-elevate-your-video-visibility-ethically-one-million-in-views-for-2024/"><u>[Updated] Elevate Your Video Visibility Ethically One Million in Views for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-samsung-galaxy-m54-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Samsung Galaxy M54 5G Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-navigating-through-channels-aesthetics-with-these-tools/"><u>In 2024, Navigating Through Channels' Aesthetics with These Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-excel-tips-how-to-create-bullet-point-items-in-your-spreadsheets-easily/"><u>Mastering Excel Tips: How To Create Bullet Point Items In Your Spreadsheets Easily</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-excel-a-step-by-step-guide-to-using-exponents/"><u>Mastering Excel: A Step-by-Step Guide to Using Exponents</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-microsoft-excel-a-comprehensive-guide-to-utilizing-round-functions/"><u>Mastering Microsoft Excel: A Comprehensive Guide to Utilizing Round Functions</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-pictorial-data-representation-embedding-pictures-into-ms-excel-worksheets/"><u>Mastering Pictorial Data Representation: Embedding Pictures Into MS Excel Worksheets</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-quick-freezing-of-selected-row-groups-in-ms-excel-a-step-by-step-guide/"><u>Mastering the Quick Freezing of Selected Row Groups in MS Excel: A Step-by-Step Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-guide-fixed-and-the-specific-features-of-excel-like-cell-dimensions-setting-fixed-columns-and-rows/"><u>Mastering, Guide, Fixed, and the Specific Features of Excel Like Cell Dimensions, Setting Fixed Columns, and Rows.</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-fcpx-on-a-budget-10-essential-free-plugins/"><u>New 2024 Approved FCPX on a Budget 10 Essential Free Plugins</u></a></li>
-<li><a href="https://windows11.techidaily.com/one-click-syncing-of-ms-excel-workbooks-with-onedrive-explained/"><u>One-Click Syncing of MS Excel Workbooks with OneDrive Explained</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/say-goodbye-to-crashes-fnaf-pc-version-corrects-the-infamous-security-breach-issue/"><u>Say Goodbye to Crashes: FNAF PC Version Corrects the Infamous 'Security Breach' Issue</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-fix-for-pc-users-experiencing-game-crashes-with-madden-20-edition/"><u>Step-by-Step Fix for PC Users Experiencing Game Crashes with Madden '20 Edition</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-hurry-hoarding-images-and-intonations/"><u>[New] Hurry Hoarding Images & Intonations</u></a></li>
+<li><a href="https://windows11.techidaily.com/digital-drawings-redefined-top-7-windows-10-art-tools-for-you/"><u>Digital Drawings Redefined: Top 7 Windows 10 Art Tools for You</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-iphone-15-pro-max-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your iPhone 15 Pro Max When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-change-the-windows-subsystem-for-androids-resource-usage/"><u>How to Change the Windows Subsystem for Android's Resource Usage</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-jailbreak-icloud-locked-apple-iphone-12-mini-by-drfone-ios/"><u>How to jailbreak iCloud locked Apple iPhone 12 mini</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Vivo Y56 5G? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-over-window-icon-positions/"><u>Mastery Over Window Icon Positions</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/step-into-style-with-snapchats-gif-features-a-users-guide-for-2024/"><u>Step-Into Style with Snapchat's GIF Features – A User’s Guide for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlock-vivid-visuals-windows-hdplus-guide-to-hdr-mastery-for-2024/"><u>Unlock Vivid Visuals Windows HD+ Guide to HDR Mastery for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-memory-integrity-on-windows-11-methods-77/"><u>Unlocking Memory Integrity on Windows 11: Methods 7/7</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unveiling-the-mysteries-of-spanish-verb-formations/"><u>Unveiling the Mysteries of Spanish Verb Formations</u></a></li>
+<li><a href="https://windows11.techidaily.com/why-sudo-is-revolutionizing-windows-systems/"><u>Why Sudo Is Revolutionizing Windows Systems</u></a></li>
 </ul></div>
 

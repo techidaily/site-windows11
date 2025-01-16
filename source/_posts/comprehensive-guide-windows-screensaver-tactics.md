@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Windows Screensaver Tactics"
-date: 2024-08-08T06:01:18.974Z
-updated: 2024-08-09T06:01:18.974Z
+date: 2025-01-11T12:32:02.697Z
+updated: 2025-01-16T10:14:10.637Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/4cec3aa1742a3433211bae608e6076ab0be167115
 
  Are Windows screen savers still here for your entertainment? And if yes, how do you set up and customize one on Windows?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Are Windows Screen Savers?
 
  Fundamentally, a screen saver is a display program that gets triggered when a system is left idle for a specific duration. It gets rid of the static screen by displaying either a blank screen or dynamic, animated patterns. Some of the most popular Windows screen savers are the Maze, flying Windows Logo, 3D Pipes, 3D Text Bubbles, Mystify, Ribbons, etc.
@@ -30,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/4cec3aa1742a3433211bae608e6076ab0be167115
 
  Compared to today's LCD and LED displays, CRT monitors are more prone to burn-in. If you keep a static image on display for long, the phosphor compounds lose their luminance and produce a sort of ghost-like display of the static image, due to the overuse of certain pixels.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![crt monitor screen burn in](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/crt-monitor-screen-burn-in.jpg)
 
 Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5Famber.JPG)
@@ -47,10 +48,6 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
 
  To begin, open **Settings** by searching for it in the Start menu. Once it opens, switch to the **Personalization** tab from the left sidebar and select **Lock screen**.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![lock screen settings in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/lock-screen-settings-in-windows-11.jpg)
 
  Under the **Related settings** header, choose **Screen saver**. Alternatively, just search for "**Change screen saver settings**" in the Start menu and select the first result.
@@ -64,8 +61,9 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
  When you've decided on the screen saver, select a duration (in minutes) the system will wait for before triggering the screen saver. Also, check off the box next to **On resume, display logon screen** if you want. Finally, click **Apply > Ok**.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Customize Screen Savers on Windows 11
 
  If you don't fancy Windows screen savers, it's easy to [customize the default screen savers](https://www.makeuseof.com/how-to-customize-windows-11-default-screensavers/) or go for something more technically and aesthetically relevant.
@@ -76,18 +74,20 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
 
  Inside the folder, you'll find an SCR file, which you can install by right-clicking and selecting **Install**. If you aren't already redirected to the screen saver settings, launch it manually by heading over to **Settings > Personalization > Lock screen** and clicking **Screen saver** under the **Related settings** header.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![customize windows screen saver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/customize-windows-screen-saver.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Select Fliqlo from the dropdown menu and hit **Apply > Ok** to save the changes. Also, preview the screen saver to ensure it's working correctly.
 
  You can also [make your own screen saver for Windows](https://www.makeuseof.com/tag/5-ways-to-make-your-own-screensavers-windows/) if you like.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Have Screen Savers Changed?
 
  The first ever screen saver was developed by a programmer named John Socha-Leialoha and it was a simple program that displayed a blank screen whenever a computer was left idle for three minutes.
@@ -99,8 +99,9 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
  Fast forward to today, screen savers have "almost" vanished, with Microsoft hiding them deep inside Windows settings. But still, people use them as they prefer watching visually appealing animations fill up their screen rather than glaring at a static, dead desktop.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Bringing Back the Old Days With Windows Screen Savers
 
  Although they are now obsolete, you can still choose to set up a screen saver on your Windows machine. LED and LCDs are more prevalent nowadays and outperform the old CRT monitors, but this doesn't mean screen savers won't help them.
@@ -113,12 +114,27 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
 
  Are Windows screen savers still here for your entertainment? And if yes, how do you set up and customize one on Windows?
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-overcoming-handheld-vibration-secure-your-gopro-movies/"><u>[New] 2024 Approved Overcoming Handheld Vibration Secure Your GoPro Movies</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-ultimate-list-of-kung-fu-video-games/"><u>[New] The Ultimate List of Kung Fu Video Games</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-webm-to-mp3-file-converter-easy-download-with-movavi/"><u>Free Online WebM to MP3 File Converter - Easy Download with Movavi</u></a></li>
+<li><a href="https://windows11.techidaily.com/inside-tools-for-windows-11-management/"><u>Inside Tools for Windows 11 Management</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-utorrent-download-halt-on-windows-os/"><u>Overcoming uTorrent Download Halt on Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/recognize-unlisted-hardware-in-device-manager/"><u>Recognize Unlisted Hardware in Device Manager</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/secure-steps-for-skyrocketing-video-engagement-a-million-wins-strategy-for-2024/"><u>Secure Steps for Skyrocketing Video Engagement A Million Wins Strategy for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solutions-for-correcting-the-d3dx925dll-file-cannot-be-located-issue/"><u>Solutions for Correcting the 'D3DX9_25.dll File Cannot Be Located' Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/stopping-chromes-self-launching-tabs-a-guide/"><u>Stopping Chrome's Self-Launching Tabs: A Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-circumvent-file-cap-on-windows/"><u>Strategies to Circumvent File Cap on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-to-locate-and-eliminate-unused-windows-folder-space/"><u>Techniques to Locate & Eliminate Unused Windows Folder Space</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-motorola-moto-g84-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Motorola Moto G84 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-device-health-essential-steps-to-confirm-availability/"><u>Windows 11 Device Health: Essential Steps to Confirm Availability</u></a></li>
+</ul></div>
 

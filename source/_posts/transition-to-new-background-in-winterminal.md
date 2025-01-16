@@ -1,7 +1,7 @@
 ---
 title: Transition to New Background in WinTerminal
-date: 2025-01-01T18:29:49.126Z
-updated: 2025-01-04T02:54:43.262Z
+date: 2025-01-13T02:42:43.783Z
+updated: 2025-01-16T08:41:45.393Z
 tags:
   - windows10
   - windows11
@@ -20,15 +20,15 @@ thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc
 
  This tutorial will explain three methods to change the Terminal background image in Windows 11.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Change Windows Terminal Background Image
 
  You can change the background image of Windows Terminal in three ways: using the**Default** option within the Terminal app or manually editing the settings.json file using**File Explorer** and**Run** dialog box. All three methods achieve the same result and are easy to use.
 
  Using the default option is the simplest way to change your background image while editing the settings.json file provides more control and customization options. Below, we will guide you through each option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Change Windows Terminal Background Image via Its Options
 
@@ -41,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc
  In the settings window's left column, go to**Defaults** . Now move to the right side of the page and tap**Appearance** to expand it.
 
 ![Change Windows Terminal Background Image via Default Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/change-windows-terminal-background-image-via-default-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Scroll down to the**Background image** section, then click the**Background image path** option. Next, click the**Browse** option and select an image you want to use as a background.
 
@@ -59,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc
  If you want to switch to the default image,[reset the Windows Terminal to its default settings](https://www.makeuseof.com/windows-11-reset-terminal-settings/) . This will automatically restore your background to the default image.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Change the Windows Terminal Background Image via Windows File Explorer
@@ -80,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc
 ![How to Change Windows Terminal Background Image From Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/how-to-change-windows-terminal-background-image-from-windows-file-explorer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then paste this path into the**backgroundImage** section of settings.json. Remember to include a comma (**,**) after the path, as shown in the image above.
@@ -105,13 +101,17 @@ thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc
 4. Scroll down to the**backgroundImage** section and replace the image path with your own.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Then press**Ctrl + S** on your keyboard to save the changes.
 6. Close Notepad, then open Windows Terminal to see your new background image.
 
  You’re done! Now you know how to customize your Windows Terminal background image using the Run Command tool. You can further explore the settings.json file or use other tools to[customize and personalize your Windows Terminal](https://www.makeuseof.com/windows-terminal-customization/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Set a New Background Image for Windows Terminal
 
@@ -132,21 +132,19 @@ thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-frame-by-frame-findings-insightful-recorder-analysis/"><u>[New] 2024 Approved Frame by Frame Findings Insightful Recorder Analysis</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-ios-insiders-list-top-rated-downloading-apps-for-video-buffs/"><u>[New] In 2024, IOS Insider's List Top-Rated Downloading Apps for Video Buffs</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-intellectual-innovations-curated-selection-of-2024s-top-trivia-channels/"><u>[New] Intellectual Innovations Curated Selection of 2024'S Top Trivia Channels</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-expert-tips-on-seamless-multisnapping-videos-in-snapchat/"><u>[Updated] 2024 Approved Expert Tips on Seamless Multisnapping Videos in Snapchat</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-unearthing-unique-content-for-youtubes-spotlight/"><u>[Updated] 2024 Approved Unearthing Unique Content for Youtube's Spotlight</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-code-0x887a0006-for-gpu-stalls-windows/"><u>Addressing Code 0X887A0006 for GPU Stalls Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/becoming-an-expert-learner-with-these-7-windowing-strategies/"><u>Becoming an Expert Learner with These 7 Windowing Strategies</u></a></li>
-<li><a href="https://windows11.techidaily.com/boost-efficiency-with-top-practices-for-wsl-2-usage-on-pcs/"><u>Boost Efficiency with Top Practices for WSL 2 Usage on PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/calculating-wattage-your-windows-pcs-electricity-needs/"><u>Calculating Wattage: Your Windows PC’s Electricity Needs</u></a></li>
-<li><a href="https://windows11.techidaily.com/clarifying-the-concept-of-windows-ram-caching/"><u>Clarifying the Concept of Window's RAM Caching</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/comparative-analysis-inexpensive-cloud-storage-providers-for-2024/"><u>Comparative Analysis Inexpensive Cloud Storage Providers for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/comprehensible-guide-to-revoking-custom-search-on-windows-11/"><u>Comprehensible Guide to Revoking Custom Search on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-ftdibussys-a-windows-memory-security-paradox/"><u>Decoding ftdibus.sys: A Windows Memory Security Paradox</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ghostrunner-not-working-troubleshoot-and-resolve-windows-11-issues-with-ease/"><u>Ghostrunner Not Working? Troubleshoot and Resolve Windows 11 Issues with Ease</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-converting-photographic-moments-into-cinematic-vignettes/"><u>In 2024, Converting Photographic Moments Into Cinematic Vignettes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/leveraging-local-computing-power-for-ai-model-deployment-managing-dozens-of-models-on-mac-or-pc-without-third-party-clouds-zdnet-insights/"><u>Leveraging Local Computing Power for AI Model Deployment: Managing Dozens of Models on Mac or PC Without Third-Party Clouds | ZDNet Insights</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-elevate-engagement-with-these-10-premier-youtube-seo-instruments/"><u>[Updated] Elevate Engagement with These 10 Premier YouTube SEO Instruments</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-beginning-with-adobe-audition-the-fading-start/"><u>2024 Approved Beginning with Adobe Audition The Fading Start</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-mastering-inshot-adding-your-favorite-tunes/"><u>2024 Approved Mastering InShot Adding Your Favorite Tunes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-srt-and-mp4-synergy-a-comprehensive-guide-edition/"><u>2024 Approved SRT & MP4 Synergy A Comprehensive Guide Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/biometric-betrayal-how-secure-is-your-windows-hello-lock/"><u>Biometric Betrayal: How Secure Is Your Windows Hello Lock?</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-your-tasks-initiating-administrative-powershell-on-win11/"><u>Elevate Your Tasks: Initiating Administrative PowerShell on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-address-not-starting-speech-recognition-in-windows/"><u>How To Address Not Starting Speech Recognition in Windows</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/hp-monitors-troubleshooting-guide-resolving-the-input-signal-not-detected-issue-on-windows-systems/"><u>HP Monitors: Troubleshooting Guide - Resolving the 'Input Signal Not Detected' Issue on Windows Systems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Nokia Phone with Broken Screen</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-vivo-t2x-5g-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Vivo T2x 5G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsofts-stealthy-update-ignites-consumer-backlash-an-in-depth-analysis/"><u>Microsoft's Stealthy Update Ignites Consumer Backlash - An In-Depth Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/pioneering-nintendo-games-on-your-mac/"><u>Pioneering Nintendo Games on Your Mac</u></a></li>
+<li><a href="https://windows11.techidaily.com/shining-spotlight-on-cursors-with-windows-1011/"><u>Shining Spotlight on Cursors with Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshoot-asking-too-many-hands-at-once-errors/"><u>Troubleshoot Asking Too Many Hands at Once Errors</u></a></li>
 </ul></div>
 

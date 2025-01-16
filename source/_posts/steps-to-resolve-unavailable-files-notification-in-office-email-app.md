@@ -1,7 +1,7 @@
 ---
 title: Steps to Resolve 'Unavailable' Files Notification in Office Email App
-date: 2025-01-08T17:32:34.283Z
-updated: 2025-01-10T16:26:56.292Z
+date: 2025-01-10T14:10:32.997Z
+updated: 2025-01-16T08:02:12.842Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/662c307b916403e88dc997e74395824da6bd2c653
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Install Relevant Apps to Preview Files
 
  Outlook may fail to preview attachments if the appropriate app for the file format is not installed on your PC. For instance, if you don’t have a[PDF reader app on your PC](https://www.makeuseof.com/tag/6-pdf-readers-windows/) , Outlook may display the “this file cannot be previewed because there is no previewer installed for it” error.
@@ -46,14 +42,6 @@ thumbnail: https://thmb.techidaily.com/662c307b916403e88dc997e74395824da6bd2c653
 3. Under the**Preview Pane** section, disable the toggle next to**Portable Document Format** .  
 ![Disable Preview Handlers in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disable-preview-handlers-in-powertoys.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Enable Attachment Preview in Outlook
 
  It's possible that Outlook is failing to preview attachments because the file previewer feature is disabled in the app. To overrule this possibility, you need to check the attachment handling settings in Outlook.
@@ -67,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/662c307b916403e88dc997e74395824da6bd2c653
 7. Restart the Outlook app after this and see if you can preview attachments.  
 ![Attachment Handling in Outlook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/attachment-handling-in-outlook.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Change Outlook User Interface Settings
 
  Another thing you can do is tweak the User Interface Settings in Outlook and see if that gets the app to load attachment previews on Windows. Here are the steps for the same:
@@ -81,11 +65,11 @@ thumbnail: https://thmb.techidaily.com/662c307b916403e88dc997e74395824da6bd2c653
 4. Under the**User Interface Settings** section, select**Optimize for compatibility** option.  
 ![Optimize Outlook for Compatibility](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/optimize-outlook-for-compatibility.jpg)
 
- Restart the Outlook app after this and check if the issue is still there.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Restart the Outlook app after this and check if the issue is still there.
 
 ## 5\. Clear Outlook Cache
 
@@ -112,6 +96,14 @@ To delete Outlook cache data on Windows, use these steps:
 5. Enable the toggle for**Windows Defender Firewall** .  
 ![Enable Microsoft Defender Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-microsoft-defender-firewall.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Modify Registry Files
 
  Incorrect[Windows Registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) settings could also cause such anomalies. If that's the case, you'll need to correct the Registry settings manually on your PC.
@@ -131,11 +123,19 @@ To delete Outlook cache data on Windows, use these steps:
 ![Preview Handlers in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/preview-handlers-in-registry.jpg)
 6. If any of the above-mentioned values are missing, right-click on an empty spot and select**New > String Value** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Double-click on the newly created string value.
 8. Enter the name of the application handler in the**Value data** field and click**OK** .
 9. Right-click on the string value, select**Rename** and type the value associated with the application handler.
 10. Exit the Registry Editor window and restart your PC.  
 ![Edit String in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/edit-string-in-registry.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Run the Microsoft Office Repair Tool
 
@@ -147,11 +147,11 @@ To delete Outlook cache data on Windows, use these steps:
 4. Select**Quick Repair** and then click**Repair** .  
 ![Repair Microsoft Office](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/repair-microsoft-office.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Wait for the process to finish and check if you can preview files. If you can't, repeat the above steps to perform an**Online Repair** . As suggestive of its name, this process does necessitate an active internet connection on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Preview Your Outlook Attachments Again on Windows
 
@@ -174,24 +174,17 @@ To delete Outlook cache data on Windows, use these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-filmmaking-foundations-understanding-screenplays-for-2024/"><u>[New] Filmmaking Foundations Understanding Screenplays for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-how-do-beginners-make-a-cool-video-for-youtube-on-mac/"><u>[New] In 2024, How Do Beginners Make a Cool Video for YouTube on Mac</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-complete-guide-to-final-cut-pro-for-film-professionals/"><u>[Updated] Complete Guide to Final Cut Pro for Film Professionals</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-how-to-get-watermark-free-stock-photos/"><u>[Updated] In 2024, How to Get Watermark-Free Stock Photos</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/creating-a-calm-sequence-the-art-of-reducing-sound-in-pp/"><u>Creating a Calm Sequence The Art of Reducing Sound in PP</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/download-twitters-livestreams-and-save-as-mp3-for-2024/"><u>Download Twitter's Livestreams and Save as MP3 for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-semaphore-timeout-period-has-expired-error-0x80070079-in-windows-1110/"><u>How to Fix the “Semaphore Timeout Period Has Expired” Error 0X80070079 in Windows 11/10</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-remove-the-onedrive-icon-from-file-explorer-in-windows-11/"><u>How to Remove the OneDrive Icon From File Explorer in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/integrating-ios-calendar-with-windows-a-practical-guide/"><u>Integrating iOS Calendar with Windows: A Practical Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/pranksters-paradise-iphone-memes-for-2024/"><u>Pranksters' Paradise - iPhone Memes for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-access-to-command-prompt-easily-set-up-shortcuts/"><u>Quick Access to Command Prompt: Easily Set Up Shortcuts</u></a></li>
-<li><a href="https://windows11.techidaily.com/removing-curved-edges-from-windows-11/"><u>Removing Curved Edges From Windows 11</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/smart-investments-what-to-look-for-in-tvs/"><u>Smart Investments: What to Look For in TVs</u></a></li>
-<li><a href="https://change-location.techidaily.com/1720600289632-stellar-data-recovery-windows/"><u>Stellar Data Recovery - ダウンロード復旧機能付きWindows用フリー製品</u></a></li>
-<li><a href="https://windows11.techidaily.com/techniques-for-reversing-loadlibrary-misload-on-windows/"><u>Techniques for Reversing LoadLibrary Misload on Windows</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-definitive-guide-to-identifying-top-tier-features-in-ai-chatbot-services-top-7/"><u>The Definitive Guide to Identifying Top-Tier Features in AI Chatbot Services (Top 7)</u></a></li>
-<li><a href="https://windows11.techidaily.com/turbocharge-your-windows-printer-with-quick-fixes/"><u>Turbocharge Your WIndows Printer with Quick Fixes</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-the-mechanics-of-windows-11s-efficient-file-safety-measures/"><u>Unveiling the Mechanics of Windows 11'S Efficient File Safety Measures</u></a></li>
-<li><a href="https://windows11.techidaily.com/what-to-do-when-your-recent-discord-updates-breakdown-on-windows/"><u>What to Do When Your Recent Discord Updates Breakdown on Windows</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-accelerated-approach-eliminating-signatures-quickly/"><u>[New] 2024 Approved Accelerated Approach Eliminating Signatures Quickly</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-elite-mac-graphic-preserver-for-2024/"><u>[New] Elite Mac Graphic Preserver for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-an-in-depth-examination-of-samsungs-picture-editing-tech-for-2024/"><u>[Updated] An In-Depth Examination of Samsung’s Picture Editing Tech for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-video-snippet-limits-a-comprehensive-overview/"><u>[Updated] Instagram Video Snippet Limits A Comprehensive Overview</u></a></li>
+<li><a href="https://windows11.techidaily.com/accelerating-file-transfers-on-microsoft-store/"><u>Accelerating File Transfers on Microsoft Store</u></a></li>
+<li><a href="https://article-helps.techidaily.com/best-mobile-and-desktop-apps-adjusting-audio-playback-speed-for-2024/"><u>Best Mobile & Desktop Apps Adjusting Audio Playback Speed for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-advice-fixing-common-apex-freezes-on-w11/"><u>Expert Advice: Fixing Common Apex Freezes on W11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-chromatic-enhancements-a-comprehensive-study-11-parts/"><u>In 2024, Chromatic Enhancements A Comprehensive Study (11 Parts)</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-usb-c-revolution-with-lgs-ultra-hd-tv-the-27ud88/"><u>In 2024, USB-C Revolution with LG's Ultra HD TV, the 27UD88</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-your-gear-use-efficiently-using-windows-interfaces/"><u>Navigate Your Gear Use Efficiently Using Windows Interfaces</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Xiaomi Civi 3 Disney 100th Anniversary Edition? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-photography-fix-overcoming-package-not-registered-issues/"><u>Win11 Photography Fix: Overcoming Package Not Registered Issues</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unlocking Clear Audio Recording in OBS Studio - Win 11
-date: 2025-01-07T17:52:43.010Z
-updated: 2025-01-10T21:38:59.238Z
+date: 2025-01-13T01:14:29.168Z
+updated: 2025-01-16T03:47:14.376Z
 tags:
   - windows10
   - windows11
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/4729098ff75053594bc9af7963d84132dd5d779fe
  Next, relaunch the OBS Studio and check if it is able to record audio. If not, it's time for some more complicated fixes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Launch OBS Studio With Administrative Rights
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/4729098ff75053594bc9af7963d84132dd5d779fe
 4. Click**Apply** \>**OK** to save the settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Unmute OBS Studio in the Settings App
@@ -64,11 +64,11 @@ thumbnail: https://thmb.techidaily.com/4729098ff75053594bc9af7963d84132dd5d779fe
 
 ![Choosing default audio device for OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/choosing-default-audio-device.jpg)
 
-Restart OBS Studio and check if the problem persists.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Restart OBS Studio and check if the problem persists.
 
 ## 4\. Use the Correct Recording Device
 
@@ -80,10 +80,6 @@ Restart OBS Studio and check if the problem persists.
 4. Right-click on the correct recording device and choose the**Set as Default Device** option from the context menu.  
 ![Set as default option in Sound properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/set-as-default-option.jpg)
 5. Click**Apply** and then**OK.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Allow OBS Studio to Access Microphone
 
@@ -98,7 +94,7 @@ Restart OBS Studio and check if the problem persists.
 4. Next, enable the toggle next to**Let desktop apps to access your microphone** option.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Allow desktop apps to access microphone option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-desktop-apps-to-access-microphone.jpg)
@@ -117,6 +113,10 @@ Restart OBS Studio and check if the problem persists.
 ![Audio settings of OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/audio-settings.jpg)
 6. Choose**Apply** \>**OK** to save the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7 . Adjust the Audio Mixer Settings
 
  The next solution on the list is to adjust the audio mixer settings of the OBS Studio. Here's how:
@@ -130,18 +130,14 @@ Restart OBS Studio and check if the problem persists.
 ![Choosing correct Mic in OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/choosing-correct-mic.jpg)
 5. Next, click the three dots next to Mic/Aux again and choose**Advanced Audio Properties.**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Choosing Advanced properties in OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/advanced-properties.jpg)
 6. Under the**Audio Monitoring** tab, choose**Monitor** **and Output** for**Desktop Audio** and**Monitor Only** **(mute output)** for**Mic/Aux.**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Adjusting Advanced Properties in OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/adjusting-advanced-properties.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Download the Latest Audio Driver Updates
 
@@ -155,10 +151,14 @@ You can do that by following the below steps:
 ![Update driver option in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/update-driver-2.jpg)
 4. Choose**Search automatically for drivers** option in the window that crops up.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, allow Windows to search for and download any available driver updates for your recording device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Reinstall OBS Studio
@@ -186,19 +186,24 @@ You can do that by following the below steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-identifying-your-individual-song-collection-on-youtube/"><u>[New] In 2024, Identifying Your Individual Song Collection on YouTube</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-legendary-lens-showdown-sj6-vs-the-four-k-visionaries-of-xiaomi/"><u>[Updated] 2024 Approved Legendary Lens Showdown SJ6 Vs. The Four-K Visionaries of Xiaomi</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-echoes-of-chuckles-parody-playlists/"><u>[Updated] Echoes of Chuckles Parody Playlists</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-focusflexpro-x7-smart-resizing-superior-quality/"><u>[Updated] FocusFlexPro X7 Smart Resizing, Superior Quality</u></a></li>
-<li><a href="https://windows11.techidaily.com/fix-lacking-steam-icon-issues-on-windows-pc/"><u>Fix Lacking Steam Icon Issues on Windows PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/halting-windows-edge-tab-loads-properly/"><u>Halting Windows Edge Tab Loads Properly</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-rectify-the-incorrect-token-call-error-on-win11/"><u>How to Rectify the “Incorrect Token Call” Error on Win11</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-attracting-eyes-with-these-6-video-genres/"><u>In 2024, Attracting Eyes with These 6 Video Genres</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-direct-access-to-streams-how-to-download-youtube-videos-to-your-ios-device/"><u>In 2024, Direct Access to Streams How to Download YouTube Videos to Your iOS Device</u></a></li>
-<li><a href="https://windows11.techidaily.com/reverse-lost-rendering-device-error-in-overwatch-2/"><u>Reverse Lost Rendering Device Error in Overwatch 2</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-tackle-errortoomanyretries-in-wsl-subsystem/"><u>Strategies to Tackle ERROR_TOO_MANY_RETRIES in WSL Subsystem</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/1722849511208-the-cut-and-cover-method-is-most-suitable-for-shallow-tunnels-but-can-be-very-disruptive-due-to-the-surface-excavation-required/"><u>The Cut-and-Cover Method Is Most Suitable for Shallow Tunnels but Can Be Very Disruptive Due to the Surface Excavation Required</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-and-tricks-for-restoring-win11s-5g-link/"><u>Tips and Tricks for Restoring Win11’s 5G Link</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-lava-blaze-pro-5g-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Lava Blaze Pro 5G Phones</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-steps-for-confirming-youtube-identity/"><u>[New] In 2024, Steps for Confirming YouTube Identity</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-navigating-picture-in-picture-settings-for-iphone-and-ipad-for-2024/"><u>[New] Navigating Picture-in-Picture Settings for iPhone & iPad for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-six-simplest-strategies-to-craft-your-mc-dwelling-for-2024/"><u>[New] Six Simplest Strategies to Craft Your MC Dwelling for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-5-ultimate-map-quests-for-precious-in-game-finds-for-2024/"><u>[Updated] 5 Ultimate Map Quests for Precious In-Game Finds for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-perfecting-igtv-video-production-on-smartphonesdslrs-for-2024/"><u>[Updated] Perfecting IGTV Video Production on Smartphones/DSLRs for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-uncomplicated-blueprint-for-crafting-successful-ads-online-for-2024/"><u>[Updated] Uncomplicated Blueprint for Crafting Successful Ads Online for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/1726029468128-2024/"><u>2024年度流行!: 見事な色調整で魅力的なビデオを作成するための最高のソフトウェアとアプリ</u></a></li>
+<li><a href="https://windows11.techidaily.com/5-essential-fixes-for-hybrid-os-hypervisor-faults/"><u>5 Essential Fixes for Hybrid OS Hypervisor Faults</u></a></li>
+<li><a href="https://windows11.techidaily.com/determining-effective-network-sharing-tools-tech-giants-face-off/"><u>Determining Effective Network Sharing Tools: Tech Giants Face-Off</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-your-workflow-in-windows-11-run-command-innovation-guide/"><u>Elevate Your Workflow in Windows 11: Run Command Innovation Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-add-new-submenus-to-windows-11s-desktop-context-menu/"><u>How to Add New Submenus to Windows 11’S Desktop Context Menu</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-apple-iphone-14-pro-max-find-my-friends-no-location-found-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Apple iPhone 14 Pro Max Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-no-supported-devices-found-in-windows-11/"><u>Overcoming No Supported Devices Found in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/personalizing-windows-space-adding-this-pc-iconography/"><u>Personalizing Windows Space: Adding 'This PC' Iconography</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-access-to-any-language-hotkeys-for-efficient-translation-in-windows-os/"><u>Quick Access to Any Language: Hotkeys for Efficient Translation in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackle-interruptexception-in-win11-blue-screen/"><u>Tackle INTERRUPT_EXCEPTION in Win11 Blue Screen</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-savvy-buyers-guide-to-finding-windows-11-deals/"><u>The Savvy Buyer's Guide to Finding Windows 11 Deals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-leading-cloud-certification-programs-according-to-zdnet/"><u>The Ultimate Guide to Leading Cloud Certification Programs According to ZDNet</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/youtube-url-your-way-easy-personalization-steps-for-2024/"><u>Your YouTube URL, Your Way Easy Personalization Steps for 2024</u></a></li>
 </ul></div>
 

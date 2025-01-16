@@ -1,7 +1,7 @@
 ---
 title: "Direct Paths: Opening System Information at Your Fingertips"
-date: 2024-08-15T15:12:16.669Z
-updated: 2024-08-16T15:12:16.669Z
+date: 2025-01-11T19:24:34.646Z
+updated: 2025-01-15T20:55:26.188Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,14 @@ thumbnail: https://thmb.techidaily.com/86e7c4ea92c80232a2f22ec398fe1175bda0bfa79
 
 ![Opening the System Information tool using the Start menu search bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Opening-the-System-Information-tool-using-the-Start-menu-search-bar.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Use File Explorer's Address Bar
 
  You can also use File Explorer's address bar to open various apps. In most cases, this tool comes in handy if the Start menu search bar isn't working.
@@ -42,9 +50,6 @@ thumbnail: https://thmb.techidaily.com/86e7c4ea92c80232a2f22ec398fe1175bda0bfa79
 
 ![Typing msinfo32 in the File Explorer address bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Typing-msinfo32-in-the-File-Explorer-address-bar.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Use the Run Command Dialog Box
 
  Alternatively, you can access the System Information tool using the Run command dialog box.
@@ -57,13 +62,11 @@ thumbnail: https://thmb.techidaily.com/86e7c4ea92c80232a2f22ec398fe1175bda0bfa79
 2. Type**msinfo32** and press**Enter** to open the System Information tool.
 
 ![Opening the System Information tool using the Run command dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Opening-the-System-Information-tool-using-the-Run-command-dialog-box.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Use the Start Menu
 
  The Start Menu is a great place to access most of the apps on your device.
@@ -76,22 +79,7 @@ thumbnail: https://thmb.techidaily.com/86e7c4ea92c80232a2f22ec398fe1175bda0bfa79
 4. Locate and click on the**System Information** tool.
 
 ![Selecting the System Information tool on the Start menu items](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Selecting-the-System-Information-tool-on-the-Start-menu-items.jpg)
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Use the System Settings
 
  You can always use the system settings to customize or repair the apps on your PC (see [how to repair apps on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) ). But did you know that you can open various tools and apps with the system settings?
@@ -102,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/86e7c4ea92c80232a2f22ec398fe1175bda0bfa79
 2. Type**System Information** in the search box and select the relevant option.
 
 ![Opening the System Information tool using the system settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Opening-the-System-Information-tool-using-the-system-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Use the Control Panel
 
@@ -114,13 +106,7 @@ thumbnail: https://thmb.techidaily.com/86e7c4ea92c80232a2f22ec398fe1175bda0bfa79
 3. Select**System** from the list.
 
 ![Selecting System from the Control Panel menu items](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Selecting-System-from-the-Control-Panel-menu-items.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Use the Task Manager
 
  You’ve likely used Task Manager before to close PC programs or analyze system performance. But did you know that this tool makes it easy for you to access various apps?
@@ -133,6 +119,14 @@ thumbnail: https://thmb.techidaily.com/86e7c4ea92c80232a2f22ec398fe1175bda0bfa79
 4. Type**msinfo32** in the search box and press**OK** to open the System Information tool.
 
 ![Opening the System Information tool using the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Opening-the-System-Information-tool-using-the-Task-Manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Search for the System Information Tool in the System32 Folder
 
@@ -147,17 +141,15 @@ thumbnail: https://thmb.techidaily.com/86e7c4ea92c80232a2f22ec398fe1175bda0bfa79
 5. Locate and double-click on the**msinfo32** option to open the System information tool.
 
 ![Clicking the msinfo32 option in the System32 folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Clicking-the-msinfo32-option-in-the-System32-folder.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 Want to make the System Information tool easily accessible?
 
  If so, then pin the msinfo32 EXE file to your taskbar. To do that, right-click on the**msinfo32** option in the System32 folder and then select**Pin to taskbar** .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9\. Use the Command Prompt or PowerShell
 
 ![A person using a Windows device on a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-person-using-a-Windows-device-on-a-desk.jpg)
@@ -172,12 +164,13 @@ Want to make the System Information tool easily accessible?
 4. Type the following command and press**Enter** to open the System Information app:  
 `msinfo32`
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 10\. Use a System Information Desktop Shortcut
 
 ![Using a Windows laptop on a brown desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Using-a-Windows-laptop-on-a-brown-desk.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also open the System Information app by using its desktop shortcut. If you don’t have a desktop shortcut for this app, here’s how you can create it:
 
@@ -196,14 +189,11 @@ Want to make the System Information tool easily accessible?
 
  If you want to quickly find some information about your PC, then you should check out the System Information tool. And if this app gives you issues, you can check your Windows PC specs using other tools instead.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -212,6 +202,26 @@ Want to make the System Information tool easily accessible?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-cultivate-community-interest-with-collaborative-lists/"><u>[New] In 2024, Cultivate Community Interest With Collaborative Lists</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-perfecting-your-xbox-one-gaming-archive-for-2024/"><u>[New] Perfecting Your Xbox One Gaming Archive for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-action-screen-recorder-review-for-2024/"><u>[Updated] Action Screen Recorder Review for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-intrepid-insights-top-10-undiscovered-vlc-commands-for-2024/"><u>[Updated] Intrepid Insights Top 10 Undiscovered VLC Commands for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/3-simple-methods-for-identifying-windows-ram/"><u>3 Simple Methods for Identifying Windows RAM</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/funimate-login-and-sign-up-guide-for-2024/"><u>Funimate Login and Sign Up Guide for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/identifying-and-fixing-non-responsive-usb-on-pc/"><u>Identifying and Fixing Non-Responsive USB on PC</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-flickvista-app-performance-index/"><u>In 2024, FlickVista App Performance Index</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-desktop-spaces-preset-program-dimensions-on-win11/"><u>Optimizing Desktop Spaces: Preset Program Dimensions on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/snap-opera-download-into-action-windows-style/"><u>Snap Opera Download Into Action, Windows Style</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-9-best-features-in-the-windows-11-february-2023-update/"><u>The 9 Best Features in the Windows 11 February 2023 Update</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-science-behind-understanding-emotions-through-artificial-intelligence-is-it-effective/"><u>The Science Behind Understanding Emotions Through Artificial Intelligence: Is It Effective?</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-student-laptop-asus-s15-oled-in-focus/"><u>The Ultimate Student Laptop: ASUS S15 OLED in Focus</u></a></li>
+<li><a href="https://windows11.techidaily.com/three-steps-for-ditching-microsofts-store/"><u>Three Steps for Ditching Microsoft's Store</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-resolving-problems-with-acer-drivers-on-pcs/"><u>Troubleshooting and Resolving Problems with Acer Drivers on PCs</u></a></li>
+<li><a href="https://techidaily.com/ultimate-guide-connecting-and-using-an-external-hdd-with-your-playstation-4/"><u>Ultimate Guide: Connecting and Using an External HDD with Your PlayStation 4</u></a></li>
+<li><a href="https://windows11.techidaily.com/unfreezing-windows-updates-top-6-strategies-to-resolve-sticking-issues/"><u>Unfreezing Windows Updates: Top 6 Strategies to Resolve Sticking Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-mystery-of-windows-law-filter-mechanics-and-output/"><u>Unraveling the Mystery of Window's LAW Filter Mechanics and Output</u></a></li>
+<li><a href="https://article-posts.techidaily.com/unrestricted-media-playback-free-on-windows-and-macos/"><u>Unrestricted Media Playback FREE on Windows & MacOS</u></a></li>
+</ul></div>
 

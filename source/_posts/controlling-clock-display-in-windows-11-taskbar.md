@@ -1,7 +1,7 @@
 ---
 title: Controlling Clock Display in Windows 11 Taskbar
-date: 2024-08-15T15:11:36.168Z
-updated: 2024-08-16T15:11:36.168Z
+date: 2025-01-12T06:47:15.182Z
+updated: 2025-01-16T12:19:42.115Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/1b2195440e349b5f0884d1401c71f047053f6f528
 
  As such, if you want to hide the clock and date from the taskbar, then this is the place where you need to be. We'll share three different ways by which you can configure the taskbar to hide or show the clock and date.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Hide or Show the Clock and Date from the Taskbar by Using Windows System Settings
 
  The System Settings is the central hub of a Windows PC. You can use it to update Windows, manage privacy settings,[customize the taskbar](https://www.makeuseof.com/windows-11-customize-taskbar/) , and more.
@@ -34,6 +38,11 @@ thumbnail: https://thmb.techidaily.com/1b2195440e349b5f0884d1401c71f047053f6f528
 4. Scroll down and click the**Turn system icon on or off** option under the**Notification** area.  
 ![Turn system icons on or off option in Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-system-icons-on-or-off.png)
 5. In the new window that crops up, disable the toggle next to**Clock.**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Disable the Clock in System Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-the-clock.png)
 
  That's it. You've disabled the clock and date from the taskbar.
@@ -41,8 +50,9 @@ thumbnail: https://thmb.techidaily.com/1b2195440e349b5f0884d1401c71f047053f6f528
  To enable them again, head towards the above settings again and enable the toggle.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Hide or Show the Clock and Date from the Taskbar by Using the Local Group Policy Editor
 
  The next utility that will help you hide or show the clock and date from the taskbar is the Local Group Policy Editor. You can use this utility to manage Windows features, sign-in and shutdown processes, and more.
@@ -58,19 +68,16 @@ thumbnail: https://thmb.techidaily.com/1b2195440e349b5f0884d1401c71f047053f6f528
 5. Search for and right-click on the**Remove Clock from the system notification area** policy. Then, choose**Edit** from the context menu.
 6. In the policy edit window, choose the**Enabled** option.  
 ![Disabling Clock and Date using the local group policy editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disabling-clock-and-date.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 7. Click**Apply** \>**OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Next,[restart your computer](https://www.makeuseof.com/windows-restart-methods/) for changes to take effect.
 
  If you want to add the clock and date again to the taskbar, open the edit window of the Remove Clock from the system notification area policy, choose the Disabled option and save the settings.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## 3\. Hide or Show the Clock and Date from the Taskbar Using the Registry Editor
 
  The [Registry Editor](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) is an extensive database of your Windows operating system configuration settings. You can use it to navigate the registry and edit its keys.
@@ -83,36 +90,28 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 3. Right-click on the**Policies** key in the left panel, choose**New,** and then select**Key.**
 4. Name the key**Explorer** and press Enter.  
 ![Creating new key in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/creating-new-key.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. In the Explorer key, right-click on the blank space, and choose**New** \>**DWORD (32-bit Value)** .
 6. Name the value**HideClock** and press Enter.
 7. Right-click on the HideClock value, type**1** in the**Value data** section, and click**OK.**  
 ![Modifying HideClock Value in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/modifying-hideclock-value.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Close the Registry Editor window, and you'll see that the clock and date have disappeared from the taskbar.
 
  To reverse the changes, type**0** in the Value data section of HideClock value and click OK.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Remove Any Distraction from the Taskbar
 
  The system tray clock helps you to keep track of the date and time. But if it has become a distraction or you want to keep the taskbar clean, you can use either of the above methods to configure the taskbar to hide the clock and date.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -121,6 +120,17 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-engaging-audiences-youtube-shorts-vs-tiktok-trends-for-2024/"><u>[Updated] Engaging Audiences Youtube Shorts Vs. TikTok Trends for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/camera-review-the-ultimate-guide-to-best-videographics/"><u>Camera Review - The Ultimate Guide to Best Videographics</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhance-user-journey-with-cookiebot-technology/"><u>Enhance User Journey with Cookiebot Technology</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-realme-11-proplus-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Realme 11 Pro+ Phone</u></a></li>
+<li><a href="https://windows11.techidaily.com/learn-to-disperse-windows-11-taskbar-clusters/"><u>Learn to Disperse Windows 11 Taskbar Clusters</u></a></li>
+<li><a href="https://windows11.techidaily.com/pushing-boundaries-windows-beyond-the-status-quo/"><u>Pushing Boundaries: Windows Beyond the Status Quo</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-duplicate-audio-app-issue-in-windows/"><u>Troubleshooting Duplicate Audio App Issue in Windows</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/unleash-the-ultimate-karaoke-experience-with-new-karaoke-cloud-pro-tracks-master-your-dj-skills/"><u>Unleash the Ultimate Karaoke Experience with New Karaoke Cloud Pro Tracks - Master Your DJ Skills</u></a></li>
+<li><a href="https://windows11.techidaily.com/using-icloud-keychain-for-iosandroid-network-access/"><u>Using iCloud Keychain for iOS/Android Network Access</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/why-real-peoples-testimonial-videos-matter/"><u>Why Real People's Testimonial Videos Matter</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Wi-Fi Setup: Addressing Inadequate Actions on PCs"
-date: 2025-01-03T18:44:08.276Z
-updated: 2025-01-10T22:56:20.820Z
+date: 2025-01-15T13:16:48.489Z
+updated: 2025-01-16T03:45:23.770Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/0244557d86d8e1a27dc054dedba4a1385b1696e50
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Disable the NCSI Probe From Windows Registry
 
@@ -51,19 +55,19 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 ![NoActiveProbe key in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/no-active-probe.jpg)
 5. Double-click on this newly created value and change its value data to 1\.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Now, create another value the same way and name it as DisablePassivePolling.
 7. Double-click on **DisablePassivePolling** and change its value data to 1 as well.  
 ![DisablePassivePolling key in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-passive-polling.jpg)
 8. Click **OK** to save the changes and exit the Registry Editor.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 9. Finally, restart your computer and upon reboot, check if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Disable the NCSI Probe From GPE
@@ -88,12 +92,16 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 9. Choose **Enabled** and click **Apply** \> **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 10. Close the Group Policy Editor and restart your computer.
 
  Hopefully, upon reboot, the issue will no longer appear.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Run the Internet Connection Troubleshooter
 
@@ -107,10 +115,6 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 4. You should now be able to see a list of troubleshooters offered by Windows. Locate the Internet connection troubleshooter and click on the **Run** button for it.  
 ![Internet Connection Troubleshooter in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/internet-connection-troubleshooter.jpg)
 5. Wait for the troubleshooter to complete its scan and once done, check if a problem is identified. If it is, click on the **Apply this fix** option. You can also apply a solution manually.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. In case the troubleshooter fails to identify the culprit, click on **Close the troubleshooter** option and move to the next method below.
 
@@ -130,10 +134,6 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 6. Uncheck the box associated with **Turn on fast startup (recommended)**.  
 ![Disable Fast Startup on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disable-fast-startup-on-windows.jpg)
 7. Click on the **Save changes** button and exit Control Panel. Check if the issue is now resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Try These Additional Generic Fixes
 
@@ -159,16 +159,18 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-lightning-fast-windows-data-analysis-guide-for-2024/"><u>[Updated] Lightning-Fast Windows Data Analysis Guide for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-break-the-ice-with-these-beginner-video-gadgets/"><u>2024 Approved Break the Ice with These Beginner Video Gadgets</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/flashswfmpgmovavi/"><u>FlashSWFから無料にワンクリックMPGへMOVAVIコンバート</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/fujitsu-scansnap-ix1600-your-complete-guide-to-the-most-reliable-desktop-document-scanner-reviewed/"><u>Fujitsu ScanSnap iX1600: Your Complete Guide to the Most Reliable Desktop Document Scanner Reviewed</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/guide-how-to-reference-personalized-gpt-models-during-chatgpt-interactions/"><u>Guide: How to Reference Personalized GPT Models During ChatGPT Interactions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-honor-90-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Honor 90</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-the-pink-screen-crisis-on-your-system/"><u>Navigating the Pink Screen Crisis on Your System</u></a></li>
-<li><a href="https://windows11.techidaily.com/reinstating-default-organization-of-windows-files/"><u>Reinstating Default Organization of Windows Files</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-guide-opening-windows-stubborn-folders-on-double-click/"><u>The Ultimate Guide: Opening Windows' Stubborn Folders on Double-Click</u></a></li>
-<li><a href="https://windows11.techidaily.com/turning-offlight-on-notepadwindows/"><u>Turning Offlight On NotepadWindows</u></a></li>
-<li><a href="https://windows11.techidaily.com/unraveling-the-puzzle-of-windows-subsystem-for-linux-error-4294967295/"><u>Unraveling the Puzzle of Windows Subsystem for Linux Error 4294967295</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-driving-audience-growth-with-smart-fb-video-tactics/"><u>[New] 2024 Approved Driving Audience Growth with Smart FB Video Tactics</u></a></li>
+<li><a href="https://win-dash.techidaily.com/best-free-online-flv-to-mp4-converter-tools-top-picks/"><u>Best Free Online FLV to MP4 Converter Tools - Top Picks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723005843271-easy-fixes-for-fall-guys-crashing-upon-startup-get-back-in-the-game/"><u>Easy Fixes for Fall Guys Crashing Upon Startup – Get Back in the Game</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-oppo-a2-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Oppo A2 Phone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-redo-on-windows-with-a-hotkey/"><u>How to Redo on Windows With a Hotkey</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-numbers-game-estimating-income-from-viral-content/"><u>In 2024, The Numbers Game Estimating Income From Viral Content</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-htc-u23-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your HTC U23 Phone? Unlock It Now</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-generic-sound-not-recognized-issue-in-windows-system/"><u>Overcoming Generic Sound Not Recognized Issue in Windows System</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-windows-searches-using-everythingapp/"><u>Streamline Windows Searches Using EverythingApp</u></a></li>
+<li><a href="https://windows11.techidaily.com/transforming-ideas-into-art-the-best-drawing-apps-ranked-in-win10/"><u>Transforming Ideas Into Art: The Best Drawing Apps Ranked in Win10</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-integration-mastery-overcoming-add-on-installation-roadblocks/"><u>Windows Integration Mastery: Overcoming Add-On Installation Roadblocks</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-the-battle-against-installer-error-messages-on-pcs/"><u>Winning the Battle Against Installer Error Messages on PCs</u></a></li>
 </ul></div>
 

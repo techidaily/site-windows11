@@ -1,7 +1,7 @@
 ---
 title: Deciphering Windows' RAM Allocation Strategies
-date: 2024-08-08T06:01:55.933Z
-updated: 2024-08-09T06:01:55.933Z
+date: 2025-01-13T23:04:38.988Z
+updated: 2025-01-16T04:34:26.469Z
 tags:
   - windows10
   - windows11
@@ -20,30 +20,22 @@ thumbnail: https://thmb.techidaily.com/4546ddfed47c887fd8822a083e53e55a360fbac19
 
  But what is Hardware Reserved Memory? Can you check how much memory is reserved on your computer and can you adjust the value?
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## What Is Hardware Reserved Memory?
 
  Windows saves a part of the available RAM, so your hardware components have enough resources to work properly. This is known as Hardware Reserved Memory, and Windows allocates it to hardware devices such as the network adapter, Bluetooth devices, sound card, and GPU, among other hardware devices.
 
  This way, Windows makes sure these components function as expected when you need them.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## How to Check Your Hardware Reserved Memory
 
  Windows makes it quite easy to check the amount of hardware reserved memory. Press**Ctrl + Shift + Esc** to bring up Task Manager. There, open the**Performance** tab and select**Memory** . Check the value next to**Hardware reserved** .
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Check hardware reserved memory on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-reserved-memory-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Your PC's Hardware Reserved Memory Impacts Performance
 
  If your system allocates too much of the RAM to the Hardware Reserved Memory, it will negatively impact your computer performance. Especially if you don’t have a lot of RAM to start with.
@@ -51,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/4546ddfed47c887fd8822a083e53e55a360fbac19
  Also, certain hardware components, such as high-end Graphics Processing Units or sound cards, need more memory to manage their assigned tasks. Moreover, Windows uses reserved memory to store drivers for peripheral devices, even if you don’t use them that often.
 
  If Windows reserves too much of your RAM, you might deal with longer boot-up times or even Windows crashing and freezing as it doesn’t have enough resources to keep all processes running.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Adjust the Hardware Reserved Memory on Windows
 
@@ -72,18 +68,20 @@ thumbnail: https://thmb.techidaily.com/4546ddfed47c887fd8822a083e53e55a360fbac19
 
  If you’re not sure which version you’re currently running, press**Windows key + I** to bring up the Settings menu. There, head to**System** , scroll to the bottom of the page, and click**About** . Check the value next to**System type** to check if your system is 32 or 64-bit.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Check Windows version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-64bit-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Set a Preferred GPU
 
  There’s a chance your computer has two GPUs, and one of them is better when managing high-intensive graphics tasks. Instead of using the integrated graphics card to process complex tasks, you should [choose a preferred GPU for games or editing software](https://www.makeuseof.com/windows-10-choose-preferred-gpu/) to reduce the memory reserved by Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4\. Run the Hardware and Devices Troubleshooter
 
  If one of your connected devices isn’t working properly, Windows might reserve more of your system memory. To fix it, you should run Windows’ Hardware and Devices troubleshooter. Here’s how you can do it:
@@ -94,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/4546ddfed47c887fd8822a083e53e55a360fbac19
 4. Click**Next** to start the process.
 
 ![Running the hardware and devices troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hardware-devices-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Edit Your System Configuration
 
@@ -106,16 +108,14 @@ thumbnail: https://thmb.techidaily.com/4546ddfed47c887fd8822a083e53e55a360fbac19
 5. Check**Maximum memory** and edit the value.
 6. Click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Change boot settings in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/boot-settings-1.jpg)
 
  Keep in mind this will have a direct impact on how much memory Windows reserves to keep your system running properly. Don’t set a value too low to make sure Windows has enough resources.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 5\. Restore the BIOS to Its Default Settings
 
  You can use your computer for years without thinking of BIOS. But it plays an important role in your computer’s stability. If you notice your system assigns too many resources to the Hardware Reserved Memory, the problem might be caused by improper BIOS settings. In this case, reverting it to its default settings should fix the issue.
@@ -130,14 +130,11 @@ thumbnail: https://thmb.techidaily.com/4546ddfed47c887fd8822a083e53e55a360fbac19
 
  But there are so many system tricks that you could use to avoid having Windows take too much of your resources. If you’re looking for a permanent fix, you might have to upgrade your computer’s hardware.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -146,6 +143,22 @@ thumbnail: https://thmb.techidaily.com/4546ddfed47c887fd8822a083e53e55a360fbac19
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-inside-look-at-youtubes-creator-studio-interface/"><u>[Updated] 2024 Approved Inside Look at YouTube's Creator Studio Interface</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-from-hd-to-breathtaking-eizos-newest-4k-display-for-2024/"><u>[Updated] From HD to Breathtaking EIZO's Newest 4K Display for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-chroma-gaming-keyboard-essentials/"><u>Affordable Chroma Gaming Keyboard Essentials</u></a></li>
+<li><a href="https://blog-min.techidaily.com/comment-effacer-les-restrictions-sur-les-films-et-series-de-disney-pour-telecharger-des-dvd/"><u>Comment Effacer Les Restrictions Sur Les Films Et Séries De Disney Pour Télécharger Des DVD</u></a></li>
+<li><a href="https://windows11.techidaily.com/hide-fix-for-missing-window-display/"><u>Hide Fix for Missing Window Display</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-instantaneously-combine-photos-into-facebook-stories/"><u>In 2024, Instantaneously Combine Photos Into Facebook Stories</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-epic-game-launcher-resistance-on-windows-11-pcs/"><u>Overcoming Epic Game Launcher Resistance on Windows 11 PCs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/quantum-hdr-101-a-complete-breakdown/"><u>Quantum HDR 101 A Complete Breakdown</u></a></li>
+<li><a href="https://windows11.techidaily.com/reset-display-settings-if-all-else-fails-revert-back-to-default-settings-via-settings-)-system-)-reset-pc/"><u>Reset Display Settings: If All Else Fails, Revert Back to Default Settings via 'Settings' > 'System' > 'Reset PC.'</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revamping-privacy-learn-how-to-alter-your-fb-access-code/"><u>Revamping Privacy: Learn How to Alter Your FB Access Code</u></a></li>
+<li><a href="https://windows11.techidaily.com/stop-hyper-v-using-windows-11-control-panel/"><u>Stop Hyper-V Using Windows 11 Control Panel</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-the-ultimate-guide-by-toms-hardware/"><u>Tom's Tech Insights: The Ultimate Guide by Tom's Hardware</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-tips-to-revitalize-stalled-windows-terminal-apps/"><u>Top Tips to Revitalize Stalled Windows Terminal Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-maximum-efficiency-6-proven-ways-to-boost-vms-on-windows/"><u>Unleash Maximum Efficiency: 6 Proven Ways to Boost VMs on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-error-code-0xf0831-on-windows-11-systems/"><u>Unraveling Error Code: 0XF0831 on Windows 11 Systems</u></a></li>
+</ul></div>
 

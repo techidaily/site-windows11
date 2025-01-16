@@ -1,7 +1,7 @@
 ---
 title: Overcoming Defender's Barrier on Third-Party AV Software
-date: 2025-01-01T22:37:51.504Z
-updated: 2025-01-04T04:16:24.584Z
+date: 2025-01-11T13:41:06.988Z
+updated: 2025-01-15T23:55:40.507Z
 tags:
   - windows10
   - windows11
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/477a0b3e8eaad5a77258f27b87d4827ff92a53251
  This may result in conflicts and compromise the overall protection of your system. If you encounter such an issue, here is what to do.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Disable Tamper Protection
@@ -42,19 +42,15 @@ thumbnail: https://thmb.techidaily.com/477a0b3e8eaad5a77258f27b87d4827ff92a53251
 
 ![Disable Tamper Protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/disable-tamper-protection.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After disabling Tamper Protection, see if your third-party antivirus works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Turn Off Microsoft Defender
 
  As mentioned earlier, two active security solutions on your system may conflict. In this case, you can [turn off Microsoft Defender](http://www.makeuseof.com/permanently-disable-microsoft-defender-windows-11/) temporarily and use your third-party antivirus software. Doing this will turn off all Microsoft Defender features, including real-time protection, cloud-delivered protection, and automatic sample submission. However, you can turn it back on when needed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Add an Exclusion for the File to Windows Defender
 
@@ -68,12 +64,12 @@ thumbnail: https://thmb.techidaily.com/477a0b3e8eaad5a77258f27b87d4827ff92a53251
 ![Open Virus & threat protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/open-virus-threat-protection.jpg)
 4. Under **Virus & threat protection settings**, click on **Manage settings**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Manage settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/manage-settings.jpg)
 5. Scroll down and you'll find the **Exclusions** option. Click on **Add or remove exclusions**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Add or remove exclusions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/add-or-remove-exclusions.jpg)
 6. If the UAC prompts you for permission, click **Yes**.
@@ -83,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/477a0b3e8eaad5a77258f27b87d4827ff92a53251
 8. Select the file and click on **Select Folder**. You'll see the folder added under the Exclusions section.
 
  After adding the exclusion, close the settings window and restart your computer. Once the computer restarts, Microsoft Defender should stop blocking third-party antivirus programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Reinstall Your Third-Party Antivirus Software
 
@@ -95,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/477a0b3e8eaad5a77258f27b87d4827ff92a53251
  Next, navigate to the official website and download the latest version. Once installed, restart your computer again. This should resolve any conflicts between Microsoft Defender and the third-party antivirus software.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix Microsoft Defender Blocking Your Third-Party Antivirus
@@ -113,16 +113,21 @@ thumbnail: https://thmb.techidaily.com/477a0b3e8eaad5a77258f27b87d4827ff92a53251
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-guide-to-seamlessly-share-your-igtv-story/"><u>[New] In 2024, Guide to Seamlessly Share Your IGTV Story</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-notable-sites-elevating-youtube-videography/"><u>[New] Notable Sites Elevating YouTube Videography</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-yuneec-typhoon-h-deep-dive-aerial-expert-review/"><u>[New] Yuneec Typhoon H Deep Dive Aerial Expert Review</u></a></li>
-<li><a href="https://windows11.techidaily.com/automation-made-simple-windows-task-scheduler-batch/"><u>Automation Made Simple: Windows Task Scheduler Batch</u></a></li>
-<li><a href="https://windows11.techidaily.com/bless-your-pc-god-mode-enhancements/"><u>Bless Your PC: God Mode Enhancements</u></a></li>
-<li><a href="https://windows11.techidaily.com/boost-clarity-with-these-budget-friendly-tools/"><u>Boost Clarity with These Budget-Friendly Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/delve-into-multi-display-setup-in-windows-11/"><u>Delve Into Multi-Display Setup in Windows 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/enhance-your-online-presence-with-manycam-ultimate-guide-to-virtual-webcams-and-live-broadcasts/"><u>Enhance Your Online Presence with ManyCam: Ultimate Guide to Virtual Webcams and Live Broadcasts</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhanced-hd-sound-support-through-software-fix/"><u>Enhanced HD Sound Support Through Software Fix</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/navigating-aloneness-in-depth-review-of-3dr-tech-for-2024/"><u>Navigating Aloneness In-Depth Review of '3DR' Tech for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unparalleled-display-quality-meets-exceptional-deal-discover-this-thin-and-light-laptop-at-a-steal-zdnet/"><u>Unparalleled Display Quality Meets Exceptional Deal - Discover This Thin & Light Laptop at a Steal! | ZDNet</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-best-low-cost-android-calls-compared-ranking/"><u>[New] In 2024, Best Low-Cost Android Calls Compared Ranking</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-break-free-the-chuckles-ranking-20-hilarious-fb-detention-scenes/"><u>[New] In 2024, Break Free the Chuckles Ranking 20 Hilarious FB Detention Scenes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-the-ultimate-stardew-ginger-island-playbook/"><u>[Updated] 2024 Approved The Ultimate Stardew Ginger Island Playbook</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastery-guide-to-flawless-srt-file-construction/"><u>2024 Approved Mastery Guide to Flawless SRT File Construction</u></a></li>
+<li><a href="https://windows11.techidaily.com/brighten-up-a-step-by-step-guide-to-an-eye-catching-cursor/"><u>Brighten Up: A Step-by-Step Guide to an Eye-Catching Cursor</u></a></li>
+<li><a href="https://windows11.techidaily.com/choosing-wisely-windows-terminal-as-your-primary-cli/"><u>Choosing Wisely: Windows Terminal as Your Primary CLI</u></a></li>
+<li><a href="https://windows11.techidaily.com/decrypt-the-mystery-of-win11-blue-screen-with-11-hacks/"><u>Decrypt the Mystery of Win11 Blue Screen with 11 Hacks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721413720208-exiting-the-gpt-world-now/"><u>Exiting the GPT World – Now</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-grayed-out-memory-protection-in-win11-update/"><u>Fixing Grayed-Out Memory Protection in Win11 Update</u></a></li>
+<li><a href="https://windows11.techidaily.com/global-mouse-mastery-using-powertoys-innovative-features/"><u>Global Mouse Mastery Using PowerToys' Innovative Features</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-5-ways-to-track-apple-iphone-15-pro-max-without-app-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways to Track Apple iPhone 15 Pro Max without App | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-inactive-wsreset-troubleshooting-steps/"><u>Navigating Through Inactive WSReset Troubleshooting Steps</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96316884-9781401921255-past-lives-present-miracles/"><u>Past Lives, Present Miracles | Free Book</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-windows-11-experience-for-mac-using-parallels/"><u>Seamless Windows 11 Experience for Mac, Using Parallels</u></a></li>
+<li><a href="https://windows11.techidaily.com/stop-wired-keyboard-interaction-for-windows-system/"><u>Stop Wired Keyboard Interaction for Windows System</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unbelievable-shopping-insights-vr-gear-eclipses-airpods-in-record-breaking-black-friday-battle-zdnet/"><u>Unbelievable Shopping Insights: VR Gear Eclipses AirPods in Record-Breaking Black Friday Battle | ZDNET</u></a></li>
 </ul></div>
 

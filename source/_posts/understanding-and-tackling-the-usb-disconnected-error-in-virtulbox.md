@@ -1,7 +1,7 @@
 ---
 title: Understanding and Tackling the 'USB Disconnected' Error in VirtulBox
-date: 2024-12-29T23:03:08.868Z
-updated: 2025-01-03T17:37:31.862Z
+date: 2025-01-12T22:12:11.338Z
+updated: 2025-01-15T22:10:33.553Z
 tags:
   - windows10
   - windows11
@@ -37,23 +37,19 @@ Here are some possible reasons for the VirtualBox USB devices error.
  Now, you know the possible reasons why VirtualBox throws an error code when you connect a USB device. Here are the following methods you can try to fix the error code and successfully connect the USB device to the virtual machine.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Fix the "Failed to Attach the USB Device" Error in Windows
 
  Now that we know what's potentially causing the issue, let's explore the fixes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Restart VirtualBox
 
  Before you move on to other advanced fixes, restart the VirtualBox application. If restarting the app doesn’t work, restart Windows. It will restart all the processes and services including the ones VirtualBox needs to function properly. Now, connect a USB device and try to attach it to a virtual machine in VirtualBox. If it still doesn’t show up, move to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Check the USB Device on the Host System
@@ -67,6 +63,10 @@ Here are some possible reasons for the VirtualBox USB devices error.
 3. Find the USB drive you connected to the host system. If it is not present in the list, pull it out and reconnect it to another USB port on your system.
 
  If the USB port on your system malfunctions, the USB drive won’t show up in Device Manager or File Explorer. But if the USB drive doesn’t appear in the device manager even after changing the port, it could have a hardware malfunction. In that case, try connecting another USB drive to VirtualBox virtual machine.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Install the VirtualBox Extension Pack
 
@@ -84,7 +84,7 @@ Here are some possible reasons for the VirtualBox USB devices error.
 8. Run the virtual machine and try to connect the USB device to it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Update VirtualBox
@@ -109,11 +109,11 @@ Here are some possible reasons for the VirtualBox USB devices error.
 ![Configure the USB Controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Configure-the-USB-Controller.jpg)
 5. Now, click on the**Add new USB filter** and pick the USB device you want to connect to the virtual machine.
 
-6. Click on the**OK** button and close the settings window. Start the virtual machine and check if the error pops up now.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+6. Click on the**OK** button and close the settings window. Start the virtual machine and check if the error pops up now.
 
 ### 6\. Reinstall the VBox USB drivers
 
@@ -159,24 +159,19 @@ Here are some possible reasons for the VirtualBox USB devices error.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-boost-your-channels-with-these-10-artisan-banner-creators/"><u>[New] 2024 Approved Boost Your Channels with These 10 Artisan Banner Creators</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-essential-strategies-for-memorable-youtube-closings/"><u>[New] 2024 Approved Essential Strategies for Memorable YouTube Closings</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-capture-the-moment-iphone-time-lapse-tutorial-for-2024/"><u>[New] Capture the Moment IPhone Time-Lapse Tutorial for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-imovies-crop-technique-a-guide/"><u>2024 Approved IMovie's Crop Technique A Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/4-ways-microsoft-is-replacing-cortana-in-windows/"><u>4 Ways Microsoft Is Replacing Cortana in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-peek-into-the-soulful-machine-activating-windows-private-character-analysis-platform/"><u>A Peek Into the Soulful Machine: Activating Windows’ Private Character Analysis Platform</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-simple-way-to-inspect-and-erase-window-logs/"><u>A Simple Way to Inspect & Erase Window Logs</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/all-in-one-youtube-video-downloader-effortless-reliable-capture-of-youtube-content/"><u>All-in-One YouTube Video Downloader – Effortless, Reliable Capture of YouTube Content</u></a></li>
-<li><a href="https://windows11.techidaily.com/apexs-windows-woes-strategies-to-clear-no-server-error-(156-chars/"><u>Apex's Windows Woes: Strategies to Clear No-Server Error (<156 Chars)</u></a></li>
-<li><a href="https://windows11.techidaily.com/cant-insert-new-cells-in-microsoft-excel-for-windows-try-these-fixes/"><u>Can’t Insert New Cells in Microsoft Excel for Windows? Try These Fixes</u></a></li>
-<li><a href="https://windows11.techidaily.com/curbing-resource-conflicts-on-pcs-running-windows-1011-153-chars/"><u>Curbing Resource Conflicts on PCs Running Windows 10/11 (153 Chars)</u></a></li>
-<li><a href="https://windows11.techidaily.com/cutting-edge-tweaks-for-your-pc-explore-alomwares-capabilities/"><u>Cutting-Edge Tweaks for Your PC: Explore AlomWare's Capabilities</u></a></li>
-<li><a href="https://windows11.techidaily.com/diagnosing-and-fixing-microsoft-windows-nearby-share-malfunction/"><u>Diagnosing and Fixing Microsoft Windows Nearby Share Malfunction</u></a></li>
-<li><a href="https://windows11.techidaily.com/discovering-new-horizons-for-galaxy-users-on-pc/"><u>Discovering New Horizons for Galaxy Users on PC</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Oppo Reno 10 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-within.techidaily.com/pro-version-horizon-ai-boilerplate-with-nextjs-and-figma-integration-advanced-payment-setups-with-stripe-and-supabase-complete-oauth-support-by-creative-tim13/"><u>PRO Version Horizon AI Boilerplate with NextJS & Figma Integration – Advanced Payment Setups with Stripe and Supabase, Complete OAuth Support by Creative Tim</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolved-troubleshooting-critical-system-failures-in-windows-11/"><u>Resolved: Troubleshooting Critical System Failures in Windows 11</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ited-editing-discover-these-9-free-cloud-tools-for-2024/"><u>Unlimited Editing Discover These 9 Free Cloud Tools for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/unlocking-the-art-of-captions-a-short-guide-to-facebook-videos-for-2024/"><u>Unlocking the Art of Captions A Short Guide to Facebook Videos for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-kazam-screen-recorder-review/"><u>[New] Kazam Screen Recorder Review</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ideal-pc-emulators-for-retro-ps1-gaming-for-2024/"><u>[Updated] Ideal PC Emulators for Retro PS1 Gaming for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-essence-of-style-in-ae-title-design-for-2024/"><u>[Updated] The Essence of Style in AE Title Design for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/biometric-betrayal-windows-hellos-security-under-fire/"><u>Biometric Betrayal: Windows Hello's Security Under Fire?</u></a></li>
+<li><a href="https://windows11.techidaily.com/evaluating-your-systems-electrical-utilization-on-windows-os/"><u>Evaluating Your System’s Electrical Utilization on Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-guidance-manual-time-zone-setup-for-windows-users/"><u>Expert Guidance: Manual Time Zone Setup for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/google-play-store-experience-on-amazon-fire-devices-a-comprehensive-overview/"><u>Google Play Store Experience on Amazon Fire Devices: A Comprehensive Overview</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/guide-complet-solutions-miracle-pour-arreter-les-demarrages-en-boucle-dans-windows-7-methodes-n1-a-4/"><u>Guide Complet : Solutions Miracle Pour Arrêter Les Démarrages en Boucle Dans Windows 7 - Méthodes N°1 À 4</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-iphone-x-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone X Lock Screen</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-enrollment-in-windows-11s-beta-testers-club/"><u>Mastering Enrollment in Windows 11'S Beta Testers Club</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-remedy-for-rearranged-character-inputs/"><u>Quick Remedy for Rearranged Character Inputs</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/secrets-of-the-social-elite-6-actionable-tips-for-growing-instagram-followers-for-2024/"><u>Secrets of the Social Elite 6 Actionable Tips for Growing Instagram Followers for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-overcome-endless-startup-in-bios-for-windows-systems/"><u>Steps to Overcome Endless Startup in BIOS for Windows Systems</u></a></li>
 </ul></div>
 

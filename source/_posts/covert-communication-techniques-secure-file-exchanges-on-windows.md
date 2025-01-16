@@ -1,7 +1,7 @@
 ---
 title: "Covert Communication Techniques: Secure File Exchanges on Windows"
-date: 2024-08-08T06:01:35.638Z
-updated: 2024-08-09T06:01:35.638Z
+date: 2025-01-09T15:15:25.732Z
+updated: 2025-01-16T03:34:13.136Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/069b298bfedee9c280f30a09eb725e41e8884f90f
 
  By hiding a drive on Windows, you can prevent others from accessing sensitive files within that drive and keep them safe. If you're interested in doing that, this guide will walk you through four different methods to hide drives on Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Hide a Drive Using the Disk Management App
 
  The Disk Management tool on Windows makes it easy to perform various storage-related tasks such as formatting hard disk partitions, assigning drive letters, managing disk space, and more. You can also use it to hide a drive partition on Windows. Here's how:
@@ -34,8 +38,9 @@ thumbnail: https://thmb.techidaily.com/069b298bfedee9c280f30a09eb725e41e8884f90f
  Once you complete the above steps, your drive will no longer appear in File Explorer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Hide a Drive in Windows With Diskpart Command
 
  If you're a power user who prefers to make changes via the command-line interface, you can use the diskpart command to hide a drive on Windows. Fortunately, this isn't as intimidating as it might sound.
@@ -53,18 +58,20 @@ To hide a drive in Windows with Command Prompt, follow these steps:
 `select volume X`
 7. Lastly, run the following command to remove the drive letter and hide the volume.  
 `remove letter X`  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![Hide a Drive Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-a-drive-using-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You should see a message that reads **Diskpart successfully removed the drive letter or mount point** . Following that, the drive will no longer appear on your PC.
 
  If you like using Command Prompt, why not check our guide on [how to master the Command Prompt in Windows](https://www.makeuseof.com/tag/windows-10-command-prompt-tips/) ?
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Hide a Drive Using the Group Policy Editor
 
  The Local Group Policy Editor is a tool that allows you to configure a wide range of settings on your computer. You can use it to hide a drive from your Windows computer.
@@ -85,9 +92,6 @@ Here's what you need to do:
 
  Once you complete the above steps, Windows will hide the specified drive from File Explorer. If you want to unhide the drive later, use the same steps and set the**Hide these specified drives in My Computer policy** to**Not configured** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Hide a Drive in Windows via the Registry Editor
 
  Another brilliant tool that allows you to configure system settings in Windows easily is the Registry Editor. You can use Registry Editor to hide a drive if none of the above methods work. However, you must be careful [not to accidentally mess up the Windows Registry](https://www.makeuseof.com/tag/not-accidentally-mess-windows-registry/) in the process.
@@ -104,14 +108,13 @@ Here's what you need to do:
 6. Rename the DWORD to**NoDrives** .
 7. Double-click the**NoDrives** DWORD.
 8. In the**Edit DWORD (32-bit) Value** dialog box, select**Decimal** as the Base.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![Hide a Drive via Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-a-drive-via-registry-editor.jpg)
 9. Enter a number corresponding to the drive you want to hide in the**Value data** field and click**OK** . Refer to the table below to determine which number to use.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Drive Letter Refrence for Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/drive-letter-refrence-for-registry-editor.jpg)
 
  For instance, if you were to hide the**E:** drive from your computer, you'd enter**16** in the Value data field.
@@ -126,14 +129,11 @@ Here's what you need to do:
 
  Alternatively, if you don't want to hide an entire drive, Windows also lets you hide specific files and folders in a few easy steps.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,6 +142,20 @@ Here's what you need to do:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-elite-tiktok-editors-for-windows-users-for-2024/"><u>[New] Elite TikTok Editors For Windows Users for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/detailed-guide-windows-obs-not-starting-issue-resolution/"><u>Detailed Guide: Windows OBS Not Starting Issue Resolution</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/extend-your-apple-watchs-lifespan-with-these-essential-configuration-adjustments-insights/"><u>Extend Your Apple Watch's Lifespan with These Essential Configuration Adjustments, Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/get-your-system-ready-for-windows-11-with-our-top-3-usb-tips/"><u>Get Your System Ready for Windows 11 with Our Top 3 USB Tips</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Realme Narzo N55? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-unblock-and-install-unverified-windows-software/"><u>How to Unblock and Install Unverified Windows Software</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-infinix-note-30-vip-racing-edition-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Infinix Note 30 VIP Racing Edition Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-tips-for-seamless-switching-with-the-fn-key/"><u>Quick Tips for Seamless Switching with the Fn Key</u></a></li>
+<li><a href="https://windows11.techidaily.com/re-establishing-erased-battery-mode-on-ws-11/"><u>Re-Establishing Erased Battery Mode on WS 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-pairing-airpods-to-windows-devices/"><u>Step-by-Step: Pairing AirPods to Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-fix-for-msvcr120dll-non-existence-on-computers/"><u>The Ultimate Fix for MSVCR120.DLL Non-Existence on Computers</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-funniest-face-swap-apps-a-comprehensive-review-for-2024/"><u>Updated The Funniest Face Swap Apps A Comprehensive Review for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-is-the-arp-cache-and-how-do-you-clear-it-on-windows/"><u>What Is the ARP Cache, and How Do You Clear It on Windows?</u></a></li>
+</ul></div>
 

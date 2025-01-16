@@ -1,7 +1,7 @@
 ---
 title: Discover Where Windows Keeps Snaps
-date: 2024-08-08T06:00:42.259Z
-updated: 2024-08-09T06:00:42.259Z
+date: 2025-01-14T18:33:40.723Z
+updated: 2025-01-16T14:26:28.762Z
 tags:
   - windows10
   - windows11
@@ -16,16 +16,16 @@ thumbnail: https://thmb.techidaily.com/481d06bf1b3256f57ab62815340fcc460dfe18ec5
 
 ## Discover Where Windows Keeps Snaps
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [Where Do Screenshots Go on Windows 10 and 11?](#where-do-screenshots-go-on-windows-10-and-11)
 * [Where Do Windows Screenshots Go When Using Third-Party Tools?](#where-do-windows-screenshots-go-when-using-third-party-tools)
 * [Can You Change Where Screenshots Are Saved on Windows?](#can-you-change-where-screenshots-are-saved-on-windows)
 * [What to Do if You Can't Find Your Screenshots](#what-to-do-if-you-can-39-t-find-your-screenshots)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -35,12 +35,13 @@ thumbnail: https://thmb.techidaily.com/481d06bf1b3256f57ab62815340fcc460dfe18ec5
 
  You've taken a screenshot, and now you're wondering, "where do my screenshots go on Windows?" It can be hard to know where to find screenshots since it depends on the method used to take them, but there are a few common places to check.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Where Do Screenshots Go on Windows 10 and 11?
 
  There are several built-in tools for [taking screenshots on Windows](https://www.makeuseof.com/take-screenshot-windows-11/), including the Print Screen key (typically abbreviated **Prt Sc** on your keyboard) and Snipping Tool. Depending on which one you use, you might have to save it yourself after taking it, or navigate to a specific folder to grab it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Prt Sc Key
 
@@ -50,10 +51,11 @@ thumbnail: https://thmb.techidaily.com/481d06bf1b3256f57ab62815340fcc460dfe18ec5
 
  When you use the **Win + Prt Sc** shortcut, the screenshot goes to the clipboard. Windows also saves it on your computer; you can access it by heading to **Pictures > Screenshots** in File Explorer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Screenshots folder on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/screenshots-folder-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The screenshot will be saved in PNG format with a generic name like "Screenshot (2)."
 
@@ -71,9 +73,6 @@ thumbnail: https://thmb.techidaily.com/481d06bf1b3256f57ab62815340fcc460dfe18ec5
 
  You can find where the Xbox Game Bar saves your screenshots by heading to **This PC > Local Disk (C:) > Users > \[your username\] > Videos > Captures**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Captures folder highlighted in the Videos folder on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/captures-folder-windows.jpg)
 
  In the file path, replace **\[your username\]** with the name of the user account you've logged into. That means if the account username is Jack, then the file path will be **This PC > Local Disk (C:) > Users > Jack > Videos > Captures**.
@@ -84,35 +83,35 @@ thumbnail: https://thmb.techidaily.com/481d06bf1b3256f57ab62815340fcc460dfe18ec5
 
  In the Game Bar's gallery, click on the folder icon in the top-right corner of the left panel.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Game Bar gallery](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gallery-game-bar-windows.jpg)
 
  In the pop-up, click **Continue**, and it will open the folder with the screenshots.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Where Do Windows Screenshots Go When Using Third-Party Tools?
 
  When using third-party screenshot tools like Snagit, Lightshot, or ShareX, the app will usually decide where to save the screenshots. When you take a screenshot, a preview might pop up in the bottom-right corner of your screen. Click this may take you to the folder where you'll find the screenshot (or in some cases, clicking will open it for editing).
 
  Apps like Snagit open a preview window instead, allowing you to choose where to save the screenshot. You can also try checking the app's menus and settings to see if you can find the location of screenshots there. For example, you can find out where Steam saves screenshots by opening the app and clicking **File > Screenshots**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![Navigating to the Screenshots folder in Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/steam-view-screenshots.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you can't figure out where the app saved the screenshots, open File Explorer and check the **Pictures** and **Documents** folders. For instance, Lightshot saves the screenshots in **Documents > Lightshot**.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Can You Change Where Screenshots Are Saved on Windows?
 
  Yes, you can easily [change the location where Windows saves screenshots](https://www.makeuseof.com/windows-11-screenshot-location-change/) for the built-in tools. For third-party tools, you can look in their settings to see if they allow you to change the default save location.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What to Do if You Can't Find Your Screenshots
 
@@ -126,12 +125,31 @@ thumbnail: https://thmb.techidaily.com/481d06bf1b3256f57ab62815340fcc460dfe18ec5
 
  Once you find the folder where the screenshots are, you may wish to note the file path in the Sticky Notes app. Alternatively, you can right-click the folder and select **Pin to Quick Access**. This will make it easier to remember where your Windows screenshots go.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-exploring-imovies-default-crop-settings/"><u>[New] 2024 Approved Exploring iMovie's Default Crop Settings</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-quick-access-to-fb-vids-as-mp4-files/"><u>[New] Quick Access to FB Vids as MP4 Files</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-complete-screen-recorder-in-depth-az-reviewing/"><u>[Updated] In 2024, Complete Screen Recorder - In-Depth AZ Reviewing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-smirk-stash-ultimate-guide-to-free-meme-templates/"><u>[Updated] Smirk Stash Ultimate Guide to FREE Meme Templates</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-tag-your-way-to-the-top-youtubes-viral-power-players/"><u>[Updated] Tag Your Way to the Top YouTube's Viral Power Players</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-multitask-media-consumption-harnessing-pip-feature-in-netflix/"><u>2024 Approved Mastering Multitask Media Consumption Harnessing PIP Feature in Netflix</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-xiaomi-redmi-k70e-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Xiaomi Redmi K70E Face Lock?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-everyday-life-benefits-from-ais-progression/"><u>How Everyday Life Benefits From AI's Progression</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-open-the-control-panel-as-an-administrator-in-windows/"><u>How to Open the Control Panel as an Administrator in Windows</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-ending-invisible-gaming-captures-in-software/"><u>In 2024, Ending Invisible Gaming Captures in Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/increase-speed-of-task-manager-view-on-windows-11/"><u>Increase Speed of Task Manager View on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/instructions-to-create-safe-dialogue-for-hardware-disconnect/"><u>Instructions to Create Safe Dialogue for Hardware Disconnect</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-smooth-video-transitions-taming-vlc-lags/"><u>Mastering Smooth Video Transitions: Taming VLC Lags</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-pitfalls-a-windows-11-overview/"><u>Navigating the Pitfalls: A Windows 11 Overview</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-constant-display-of-edge-buttons/"><u>Preventing Constant Display of Edge Buttons</u></a></li>
+<li><a href="https://windows11.techidaily.com/transitioning-to-kali-your-windows-pathway/"><u>Transitioning to Kali: Your Windows Pathway</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-over-wi-fi-errors-addressing-missing-actions-in-prompts/"><u>Winning Over Wi-Fi Errors: Addressing Missing Actions in Prompts</u></a></li>
+</ul></div>
 

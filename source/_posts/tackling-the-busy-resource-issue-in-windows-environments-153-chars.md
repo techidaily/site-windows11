@@ -1,7 +1,7 @@
 ---
 title: Tackling the Busy Resource Issue in Windows Environments (153 Chars)
-date: 2025-01-07T17:24:10.326Z
-updated: 2025-01-10T17:10:54.338Z
+date: 2025-01-14T09:18:17.756Z
+updated: 2025-01-16T04:38:44.674Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check if the File Is Already in Use
 
 ![The End task option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-end-task-option.jpg)
@@ -46,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 ![The Preview pane option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/preview-pane-option.jpg)
 5. Then try moving or copying your files again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The layout in Windows 10 File Explorer is a little different. To disable preview panes in that file manager, you’ll need to click the **View** tab. Then click **Preview pane** to deselect that option.
 
 ![The View tab in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-view-tab.jpg)
@@ -57,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
  Note that just disabling the preview pane might not always be enough. If that doesn’t work, try turning off the icon file view. To do so in Windows 11 File Explorer, click **View** and select the **List** or **Details view** option. You can select the same options on the **View** tab in Windows 10 File Explorer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Run a Malware Scan
@@ -69,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 ![The Scan options navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-scan-options.jpg)
 3. Select the **Full scan** setting.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click **Scan now** to initiate the malware scanning.  
 ![The Scan now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-full-scan-radio-button.jpg)
 5. Wait for the scanning to finish and select **Start actions** to remove detected malware.
@@ -82,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
  To circumvent such a block, try running a Windows Security or third-party app antivirus scan in safe mode instead. Our guide to [booting into safe mode on Windows](https://www.makeuseof.com/windows-11-boot-safe-mode/) includes a few different methods for entering that troubleshooting mode. Select to enable safe mode with networking.
 
 ![windows 11 startup settings safe mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-startup-settings-safe-mode.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Disable Any Unknown Programs in Task Manager
 
@@ -99,7 +91,11 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 5. Then restart your PC to see if the issue persists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Uninstall Any Suspicious-Looking Programs
@@ -117,6 +113,10 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 
  Also, clear temporary data after uninstalling SmartService to ensure the malware can’t re-emerge. To do so, you’ll need to clear out the Temp folder. This article about [deleting temporary files](https://www.makeuseof.com/windows-11-delete-temporary-files/) includes alternative methods for clearing data in the Temp folder.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Perform a Factory Reset
 
  If the “requested resource is in use” error remains unresolved after trying all the potential resolutions above, performing a factory reset is the last resort. A factory reset will remove all programs not pre-installed with Windows and restore your PC to its default configuration. Applying this potential fix will likely eradicate malware causing the “requested resource is in use” error.
@@ -126,7 +126,7 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 ![The Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-keep-my-files-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get the “Requested Resource Is in Use” Error Sorted on Windows
@@ -145,21 +145,24 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-extended-appraisal-hero4-black-performance/"><u>[New] Extended Appraisal Hero4 Black Performance</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-the-ebb-and-flow-of-trending-tweets-for-2024/"><u>[New] The Ebb and Flow of Trending Tweets for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-mi-11-the-ultimate-mobile-camera-to-record-your-lifes-moments-for-2024/"><u>[Updated] Mi 11 The Ultimate Mobile Camera to Record Your Life's Moments for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-top-vlog-concepts-for-daily-engagement/"><u>2024 Approved Top Vlog Concepts for Daily Engagement</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-revolution-how-red-hat-enhances-system-admin-tasks-with-cutting-edge-intelligence-zdnet/"><u>AI Revolution: How Red Hat Enhances System Admin Tasks with Cutting-Edge Intelligence | ZDNet</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/breaking-ground-in-vr-content-development-for-2024/"><u>Breaking Ground in VR Content Development for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-elon-musks-latest-venture-inside-insights-on-truthgpt/"><u>Exploring Elon Musk's Latest Venture: Inside Insights on TruthGPT</u></a></li>
-<li><a href="https://windows11.techidaily.com/expose-the-invisible-uncover-windows-11s-concealed-settings/"><u>Expose the Invisible: Uncover Windows 11'S Concealed Settings</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-the-most-serious-javascript-problems-in-discord-on-w10w11-pcs/"><u>Fixing the Most Serious Javascript Problems in Discord on W10/W11 PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-hide-the-language-bar-from-the-windows-11-taskbar/"><u>How to Hide the Language Bar From the Windows 11 Taskbar</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-reactivate-a-frozen-qbittorrent-tracker/"><u>How to Reactivate a Frozen qBittorrent Tracker</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-picture-warping-techniques-with-various-apps-for-2024/"><u>Mastering Picture Warping Techniques with Various Apps for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/running-the-troubleshooter-in-windows-settings/"><u>Running the Troubleshooter in Windows Settings</u></a></li>
-<li><a href="https://windows11.techidaily.com/setting-up-safe-browsing-for-kids-on-windows-11/"><u>Setting Up Safe Browsing for Kids on Windows 11</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/the-role-of-look-up-tables-in-cinematic-coloring-for-2024/"><u>The Role of Look-Up Tables in Cinematic Coloring for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-seamless-interweaving-of-folders-and-files/"><u>The Seamless Interweaving of Folders & Files</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/hronicles-of-time-student-approved-historical-yt-content-for-2024/"><u>[New] Chronicles of Time Student-Approved Historical YT Content for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-iphone-13-mini-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 13 mini Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://facebook.techidaily.com/acquiring-personal-media-from-friends-social-networks-safely/"><u>Acquiring Personal Media From Friends' Social Networks Safely</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/como-desbloquear-region-locks-de-dvd-con-windows-1187/"><u>Cómo Desbloquear Region Locks De DVD Con Windows 11/8/7</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-change-from-mkv-to-mp4-format-with-windows-tools/"><u>Easy Change From MKV to MP4 Format with Windows Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-pc-safety-introducing-your-unique-window-pin-design/"><u>Elevate PC Safety: Introducing Your Unique Window Pin Design</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/explore-the-powerful-functions-of-garmin-venu-the-essential-companion-for-round-the-clock-health-monitoring/"><u>Explore the Powerful Functions of Garmin Venu: The Essential Companion for Round-the-Clock Health Monitoring</u></a></li>
+<li><a href="https://windows11.techidaily.com/hide-your-contacts-delete-email-post-login-in-windows/"><u>Hide Your Contacts: Delete Email Post Login in Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-read-and-learn-how-to-convert-a-slow-motion-video-to-normal-in-this-guide-besides-find-the-best-desktop-solution-to-adjust-video-speed-quickly-a/"><u>New In 2024, Read and Learn How to Convert a Slow-Motion Video to Normal in This Guide. Besides, Find the Best Desktop Solution to Adjust Video Speed Quickly and Easily</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/privacy-prowess-how-to-disconnect-on-insta-for-2024/"><u>Privacy Prowess How to Disconnect on Insta for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixes-reactivating-windows-1011-explorer/"><u>Quick Fixes: Reactivating Windows 10/11 Explorer</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/revamping-reality-the-premier-11-instagram-edits-for-2024/"><u>Revamping Reality The Premier 11 Instagram Edits for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/switching-file-permissions-disabling-read-only-on-win-os/"><u>Switching File Permissions: Disabling Read-Only on Win OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-xp709-on-windows/"><u>Troubleshooting XP709 on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/unblocking-a-non-responsive-search-bar-on-windows-11s-ui/"><u>Unblocking a Non-Responsive Search Bar on Windows 11’S UI</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-health-check-up-top-13-restoration-techniques/"><u>Windows Health Check-Up: Top 13 Restoration Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-set-10-key-ms-store-games-and-tools/"><u>Winning Set: 10 Key MS Store Games & Tools</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/winx-dvd-ripper-platinum-accelerate-your-dvd-ripping-to-lightning-speed-on-windows-10/"><u>WinX DVD Ripper Platinum - Accelerate Your DVD Ripping to Lightning Speed on Windows 10!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Cleanse Your Screen History - 3 Strategies
-date: 2024-08-08T06:00:18.151Z
-updated: 2024-08-09T06:00:18.151Z
+date: 2025-01-12T01:27:41.274Z
+updated: 2025-01-15T22:07:07.673Z
 tags:
   - windows10
   - windows11
@@ -28,25 +28,18 @@ thumbnail: https://thmb.techidaily.com/ced9cab3bb4f4b670e0a461fa0277071d0fe6cc51
 2. Click the **Personalization** option.
 3. Click the **Background** drop-down menu and select **Picture**. This should display the five pictures you’ve previously used as wallpapers.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Viewing wallpaper history on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/viewing-wallpaper-history-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If there's anything here you don't want people to see, it's time to clean out the wallpaper history.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. How to Clear the Wallpaper History via the Registry Editor
 
 ![A person using a Windows device on a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-person-using-a-Windows-device-on-a-desk.jpg)
@@ -69,9 +62,6 @@ Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Wa
 * BackgroundHistoryPath3
 * BackgroundHistoryPath4
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![Clicking the BackgroundHistoryPath4 value in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/clicking-the-backgroundhistorypath4-value-in-the-registry-editor.jpg)
 
  In this case, **Path0** represents the first image, while **Path4** represents the fifth image in the "wallpaper history" section.
@@ -82,12 +72,17 @@ Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Wa
 
  Finally, close the Registry Editor and restart your PC to save these changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Clear Wallpaper History By Using a Registry File
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Editing Registry keys can often be a quite tedious task. If you're looking for an easy way out, then [create a Registry file](https://www.makeuseof.com/windows-registry-file-guide/).
 
@@ -100,18 +95,12 @@ Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Wa
 
 Windows Registry Editor Version 5.00 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Wallpapers]"BackgroundHistoryPath0"=-"BackgroundHistoryPath1"=-"BackgroundHistoryPath2"=-"BackgroundHistoryPath3"=-"BackgroundHistoryPath4"=-
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A Registry file for clearing wallpaper history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-registry-file-for-clearing-wallpaper-history.jpg)
 
  Now, navigate to the **File** tab and select the **Save As** option. Next, select the folder in which you'd like to save the file. From there, type **ClearMyWallpaperHistory.reg** in the **File name** section
 
  To use the Registry file, simply double-click on it. This should automatically clear your wallpaper history.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Overwrite the Previous Wallpaper History
 
  Struggling to clear your wallpaper history? Overwriting the Windows wallpaper history could help. To do that, you'd have to use five new different pictures—one at a time—as your background.
@@ -127,20 +116,21 @@ Windows Registry Editor Version 5.00 [HKEY_CURRENT_USER\Software\Microsoft\Windo
 
 ![Clicking the Browse button in the Background settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/clicking-the-browse-button-in-the-background-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Repeat this process five times. From there, you should start seeing different images in the "wallpaper history" section.
 
 ## Your Previous Wallpapers Are Nowhere to Be Found
 
  Windows allows you to personalize your device to your liking. But then the system often keeps track of the changes you make on your PC. Fortunately, you can easily prevent others from seeing the changes you make on your device. For example, you can remove your wallpaper history using any of the methods we’ve covered.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -149,6 +139,24 @@ Windows Registry Editor Version 5.00 [HKEY_CURRENT_USER\Software\Microsoft\Windo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-constructing-attention-grabbing-trailers-for-youtube/"><u>[New] 2024 Approved Constructing Attention-Grabbing Trailers for YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-conference-call-to-online-showcase-google-meet-on-youtube-for-2024/"><u>[New] From Conference Call to Online Showcase Google Meet on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-cutting-edge-method-quick-erasure-of-youtube-comments/"><u>[New] In 2024, Cutting-Edge Method Quick Erasure of Youtube Comments</u></a></li>
+<li><a href="https://win-data.techidaily.com/1728464122597-hdd/"><u>無形式で故障した外付けHDDの修理手順</u></a></li>
+<li><a href="https://windows11.techidaily.com/examining-windows-memory-management-insights-into-pagefilesys/"><u>Examining Windows' Memory Management: Insights Into Pagefile.sys</u></a></li>
+<li><a href="https://win11.techidaily.com/expertly-navigate-and-enhance-text-via-the-snipping-tool/"><u>Expertly Navigate and Enhance Text via the Snipping Tool</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-converter-transform-mp3-files-into-aac-audio-format/"><u>Free Online Converter - Transform MP3 Files Into AAC Audio Format</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-internal-error-has-occurred-remote-desktop-connection-error-in-windows-11-and-11/"><u>How to Fix the “Internal Error Has Occurred” Remote Desktop Connection Error in Windows 11 & 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Oppo Reno 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-code-with-microsoft-copilot-on-windows/"><u>Mastering Code with Microsoft Copilot on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-microsoft-store-crash-fixes-for-error-0x0-on-pcs/"><u>Mastering Microsoft Store Crash Fixes for Error 0X0 on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-mcuicntexe-missing-problems-on-pcs/"><u>Overcoming McUICnt.exe Missing Problems on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-resolving-non-functional-windows-alt-keys/"><u>Steps for Resolving Non-Functional Windows Alt Keys</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-excessive-gpu-load-in-games-on-pc/"><u>Tackling Excessive GPU Load in Games on PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-the-livekernelevent-error-code-117/"><u>Ultimate Guide: Resolving the LiveKernelEvent Error Code 117</u></a></li>
+<li><a href="https://windows11.techidaily.com/upgrade-pcs-for-efficient-scalable-transcoding-using-tdarr/"><u>Upgrade PCs for Efficient, Scalable Transcoding Using Tdarr</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-y78plus-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y78+ Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+</ul></div>
 

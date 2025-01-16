@@ -1,7 +1,7 @@
 ---
 title: "Disabling Camera Glitch: Solve Error A00F4289 on PCs"
-date: 2024-08-15T15:10:58.522Z
-updated: 2024-08-16T15:10:58.522Z
+date: 2025-01-11T16:53:27.950Z
+updated: 2025-01-16T00:47:21.670Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/6bdcba73a44ac207e8fdf00ab1c5febff71a5d180
 ![Camera access settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/privacy-and-security-settings.jpg)
 5. Go through the list of apps just below that option and make sure you have camera access turned on for all the ones you need the webcam for.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Run the Windows Devices Troubleshooter
 
  Windows has a Hardware and Devices troubleshooter that could be useful for fixing the 0xA00F4289 camera error. However, that troubleshooter isn’t listed within the Settings app. This is how you can access the Hardware and Devices troubleshooter from the Command Prompt:
@@ -42,15 +46,13 @@ thumbnail: https://thmb.techidaily.com/6bdcba73a44ac207e8fdf00ab1c5febff71a5d180
 3. Execute this command for opening the Hardware and Devices troubleshooter:  
 `msdt.exe -id DeviceDiagnostic`  
 ![Hardware & Devices troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hardware-devices-troubleshooter.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 4. Select the**Next** option to start the troubleshooter’s scanning.  
 ![The Hardware and Devices troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hardware-and-devices-troubleshooter.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Click**Apply this fix** for any suggestions the troubleshooter offers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Enable and Run the Windows Camera Frame Server Service
 
@@ -62,18 +64,21 @@ thumbnail: https://thmb.techidaily.com/6bdcba73a44ac207e8fdf00ab1c5febff71a5d180
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/services-window.jpg)
 4. Set that service’s startup type to the**Automatic** option.  
 ![The Windows Camera Frame Server Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/camera-frame-service-properties-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Click the**Start** option for that service if it’s not running.
-6. Select**Apply** before clicking**OK** to exit the window.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+6. Select**Apply** before clicking**OK** to exit the window.
+
 ## 4\. Apply Gentle Pressure Around the Webcam (Laptop Fix)
 
  This is a slightly strange fix that’s worked for many users with laptops. Try gently applying pressure just around the built-in camera at the top of your laptop’s monitor. Apply gentle pressure just around the edge of the webcam’s lens, but don’t press over the lens in any way. Be careful not to press too hard, as that could do more harm than good. This fix often works because error 0xA00F4289 arises when a PC’s camera is loose.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Update Your Webcam’s Driver
 
@@ -90,14 +95,15 @@ thumbnail: https://thmb.techidaily.com/6bdcba73a44ac207e8fdf00ab1c5febff71a5d180
 3. Type**ms-settings:windowsupdate** in Run and select**OK** .
 4. Select**Advanced Options** \>**Optional updates** in Windows 11’s Settings app. You can click**View optional updates** in Windows 10 Settings.  
 ![The Optional updates navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/optional-updates-navigation-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 5. Click**Driver updates** to view what’s available.
 6. Then select the checkboxes for all driver updates available there. Or select the checkbox for a camera driver if there’s one available.  
 ![Optional driver updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/optional-updates.jpg)
 7. Click the**Download and Install** option.
 8. Finally, restart your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reinstall Specific Apps for Which Error 0xA00F4289 Occurs
 
@@ -107,9 +113,6 @@ thumbnail: https://thmb.techidaily.com/6bdcba73a44ac207e8fdf00ab1c5febff71a5d180
 2. Select the**Apps & features navigation** option to bring up an uninstaller tool.
 3. Click the three-dot button for whatever app error 0xA00F4289 occurs and select**Uninstall** . In Windows 10’s Settings app, select an app to press its**Uninstall** button.  
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/an-uninstall-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Then open the Microsoft Store page of the app you’ve uninstalled.
 5. Select the**Get** or**Install** option for the app there.
 
@@ -119,14 +122,15 @@ thumbnail: https://thmb.techidaily.com/6bdcba73a44ac207e8fdf00ab1c5febff71a5d180
 
  After removing that app, open the Windows Camera page on the MS Store. Click**Get in Store** app and select the**Open in Microsoft Store** option; select**Install** to reinstall Windows Camera.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Disable Webcam Protection in Third-Party Antivirus Software
 
  Some third-party antivirus tools incorporate webcam protection features that can block camera access. For example, Kaspersky, Bitdefender, and Norton Antivirus software packages are three that incorporate such a feature. Disabling an antivirus shield via its software’s context menu might not be sufficient to turn off its webcam protection.
 
  If you have third-party antivirus software that could incorporate such camera protection, have a look through its settings tabs instead. Look for and turn off a setting in your antivirus utility that disables camera access for all apps. If your antivirus suite has a firewall, select to temporarily disable that network protection as well. Then try using the camera again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get Back to Video Calling Again in Windows
 
@@ -138,8 +142,6 @@ thumbnail: https://thmb.techidaily.com/6bdcba73a44ac207e8fdf00ab1c5febff71a5d180
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,6 +149,21 @@ thumbnail: https://thmb.techidaily.com/6bdcba73a44ac207e8fdf00ab1c5febff71a5d180
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-dive-into-creating-alluring-youtube-video-intros/"><u>[Updated] In 2024, Dive Into Creating Alluring YouTube Video Intros</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-monetary-mastery-for-your-social-media-channel-fb-video-wisdom/"><u>[Updated] In 2024, Monetary Mastery for Your Social Media Channel FB Video Wisdom</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ehensive-list-of-8-prime-youtube-to-avi-tools/"><u>Comprehensive List of 8 Prime YouTube-to-AVI Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-add-live-wallpapers-to-windows-11s-desktop-with-lively-wallpaper/"><u>How to Add Live Wallpapers to Windows 11’S Desktop With Lively Wallpaper</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/how-to-restore-the-lost-art-of-channel-surfing-on-streaming-services-bring-back-your-own-shuffle-button/"><u>How to Restore the Lost Art of Channel Surfing on Streaming Services - Bring Back Your Own 'Shuffle Button'</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-uninstall-graphics-driver-in-windows-quickly-and-easily/"><u>How To Uninstall Graphics Driver in Windows. Quickly & Easily</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Lava Storm 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-where-to-find/"><u>In 2024, Where to Find</u></a></li>
+<li><a href="https://windows11.techidaily.com/lowering-memory-usage-enhancing-platform-user-service-efficiency/"><u>Lowering Memory Usage: Enhancing Platform User Service Efficiency</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-mend-windows-11-assistive-tool/"><u>Strategies to Mend Windows 11 Assistive Tool</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-to-correct-failed-ui-module-load-in-steam/"><u>Tips to Correct Failed UI Module Load in Steam</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-best-stylus-compatible-tablets-of-2nndrty-comprehensive-testing-results-and-insights-zdnet/"><u>Ultimate Guide to the Best Stylus Compatible Tablets of 2Nndrty: Comprehensive Testing Results and Insights | ZDNET</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-premier-data-syncing-apps-expertly-curated-selections/"><u>Windows' Premier Data Syncing Apps: Expertly Curated Selections</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-earnings-per-watch-average-income-breakdown-for-2024/"><u>YouTube Earnings per Watch Average Income Breakdown for 2024</u></a></li>
+</ul></div>
 

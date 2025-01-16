@@ -1,7 +1,7 @@
 ---
 title: Master the Windows Photo Interface with Keys
-date: 2025-01-08T18:43:18.613Z
-updated: 2025-01-10T20:52:10.180Z
+date: 2025-01-11T01:33:44.476Z
+updated: 2025-01-15T17:37:03.294Z
 tags:
   - windows10
   - windows11
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
  The shortcut to show or hide commands in the Photos app is the**Spacebar** while viewing a photo. Keep in mind that it only works while viewing a photo.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Scroll Up, Down, Left, or Right
@@ -57,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 
  In the Photos app, the shortcut to reset zoom is the**Ctrl + 0** (zero) key. This will reset the zoom level to its default settings.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Return to the Previous Screen
 
  The shortcut to return to the previous screen in the Photos app is the**Esc** key. This will take you back a step in your current workflow
@@ -68,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 ### 9\. Print
 
  In the Photos app, the shortcut to print is the**Ctrl + P** key. This will open up a print dialogue box, allowing you to select the printer, paper size, quality, and other options before printing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 10\. Copy
 
@@ -85,10 +93,6 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 
  The shortcut to redo changes in the Photos app is the**Ctrl + Y** key. This will redo any changes that were undone with the Ctrl + Z key.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 14\. View Original
 
  The shortcut to view the original version of a photo or video in the Photos app is the**Ctrl + /** key. This will show the image or video as it was before any edits were made.
@@ -98,48 +102,48 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
  The shortcut to start a slide show in the Photos app is the**F5** key. This will open up a full-screen slideshow of all the images and videos in the current folder.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 16\. Stop a Slide Show
 
  In the Photos app, the shortcut to stop a slide show is the**Esc** key. This will close the full-screen slideshow and return you to the main Photos app window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 17\. View File Info
 
  The shortcut to view file info in the Photos app is the**Alt + Enter** key. This will open up a window with detailed information about the selected photo or video, such as its size, and more.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 18\. Set As Lock Screen
 
  The shortcut to set a photo or video as the lock screen in the Photos app is the**Ctrl + L** key. This will open up a window where you can select the image or video to be used as your lock screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 19\. Create a New Album
 
  In the Photos app, the shortcut for creating a new album is the**Ctrl + N** key. This will open up a window where you can enter the name and description of the new album.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 20\. Remove the Album
 
  The shortcut to remove an album in the Photos app is the**Ctrl + R** key. This will delete the selected album and all of its contents.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 21\. Move Within the Photo
 
  The shortcut to move within a photo in the Photos app is the**Arrow** key. Using the left and right arrow keys will allow you to quickly scroll through the photo, while the up and down arrows will zoom in and out.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 22\. Select an Item and Enter the Selection Mode
 
@@ -148,10 +152,6 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 ### 23\. Show the Next or Previous Item
 
  In the Photos app, the shortcut to show the next or previous item is the Left or right arrow keys. It is only possible to do this with a single item or slide show.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 24\. Resize Crop or Selective Focus Area
 
@@ -162,7 +162,7 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
  The shortcut to move the crop or selective focus area in the Photos app is the**Ctrl + Arrow** keys. Holding down the Ctrl key while using the arrow keys will allow you to move the crop or selective focus area.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Photos App Has More to Offer
@@ -184,15 +184,19 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-updates.techidaily.com/compatible-with-hp-g2-thunderbolt-chargers-driver-software-downloads-120w-230w/"><u>Compatible with HP G2 Thunderbolt Chargers: Driver Software Downloads (120W, 230W)</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-apple-homepod-mini-evaluation-sound-quality-and-intelligent-assistant-features/"><u>Comprehensive Apple HomePod Mini Evaluation: Sound Quality & Intelligent Assistant Features</u></a></li>
-<li><a href="https://windows11.techidaily.com/effortless-unit-transformation-techniques-with-microsoft-excel-tutorials/"><u>Effortless Unit Transformation Techniques with Microsoft Excel Tutorials</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-vivo-v30-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Vivo V30 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-navigating-and-interpreting-twitter-archives/"><u>In 2024, Navigating and Interpreting Twitter Archives</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-depth-guide-to-3d-color-grading-using-ps-luts-for-2024/"><u>In-Depth Guide to 3D Color Grading Using PS Luts for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-excels-essential-logical-operators-if-and-or-xor-and-not/"><u>Mastering Excel's Essential Logical Operators: IF, AND, OR, XOR, and NOT</u></a></li>
-<li><a href="https://windows11.techidaily.com/microsoft-excels-latest-update-introduces-advanced-data-consolidation-features/"><u>Microsoft Excel's Latest Update Introduces Advanced Data Consolidation Features</u></a></li>
-<li><a href="https://windows11.techidaily.com/restoring-old-data-in-excel-a-step-by-step-guide/"><u>Restoring Old Data in Excel: A Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/xbox-one-control-to-windows-compatibility/"><u>Xbox One Control to Windows Compatibility</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-from-idea-to-income-a-comprehensive-instagram-guide/"><u>[New] 2024 Approved From Idea to Income A Comprehensive Instagram Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-step-by-step-instruction-for-wm6-install/"><u>[Updated] 2024 Approved Step-by-Step Instruction for WM6 Install</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-view-count-victory-strategies-to-captivate-a-million-users/"><u>[Updated] In 2024, View Count Victory Strategies to Captivate a Million Users</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-motorola-edge-40-pro-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Motorola Edge 40 Pro Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ing-the-blank-thumbnail-scenario-in-shorts-for-2024/"><u>Avoiding the Blank Thumbnail Scenario in Shorts for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/cutting-edge-windows-gadgets-2024s-must-haves-list/"><u>Cutting-Edge Windows Gadgets - 2024'S Must-Haves List</u></a></li>
+<li><a href="https://windows11.techidaily.com/demystifying-your-global-ip-on-win-os-via-cli/"><u>Demystifying Your Global IP on WIN OS via CLI</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-how-to-deactivate-amdnvidia-vr-boosting/"><u>Guide: How to Deactivate AMD/Nvidia VR Boosting</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y100i-power-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y100i Power 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-of-device-id-extraction-techniques-for-windows-users/"><u>Mastery of Device ID Extraction Techniques for Windows Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/medical-mistakes-reasons-to-doubt-chatgpt-advice/"><u>Medical Mistakes: Reasons to Doubt ChatGPT Advice</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-freeze-flaws-in-adobes-pc-artist-suite/"><u>Mending Freeze Flaws in Adobe's PC Artist Suite</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/privacy-alert-how-to-disengage-from-chatgpt/"><u>Privacy Alert! How to Disengage From ChatGPT</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/troubleshooting-and-repairing-the-invalid-request-authentication-message-in-youtube-videos/"><u>Troubleshooting and Repairing the 'Invalid Request Authentication' Message in YouTube Videos</u></a></li>
 </ul></div>
 

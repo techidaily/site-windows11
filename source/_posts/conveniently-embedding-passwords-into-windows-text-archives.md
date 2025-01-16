@@ -1,7 +1,7 @@
 ---
 title: Conveniently Embedding Passwords Into Windows Text Archives
-date: 2024-08-08T05:58:41.585Z
-updated: 2024-08-09T05:58:41.585Z
+date: 2025-01-09T21:06:45.809Z
+updated: 2025-01-16T13:57:44.086Z
 tags:
   - windows10
   - windows11
@@ -23,9 +23,9 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
  This is how you can use these three apps to protect the information you save on text files in Windows 11/10\.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Add Passwords to Text Files With LockNote
 
  Steganos LockNote is a portable app that lets you create password-protected basic text files. You can also use it to apply passwords to existing text files, making it easier to protect your information.
@@ -36,9 +36,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 2. Click **Download** and select the **Softpedia Mirror (US)**.
 3. Next, [open the Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) and navigate to the folder where you downloaded the file.
 4. Unzip the locknote-1.0.5-src+binary-win32.zip archive. You can check out [how to unzip files on Windows](https://www.makeuseof.com/unzip-files-windows-10/) if you're unsure how to do this.  
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Extract Compressed tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/extract-compressed-folder.jpg)
 5. Open the extracted LockNote folder.
 
@@ -47,9 +44,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ![The LockNote window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/locknote-window.jpg)
 3. Go to **File > Save As.**
 4. In the Save As window, navigate to the folder where you want to save your file.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![LockNote's Save as window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/locknote-save-as-window.jpg)
 5. Input a title in the **File name** box, then click **Save**.
 6. A password box will pop up. Enter matching passwords for the file in the two text boxes.  
@@ -58,18 +52,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  To open your password-protected text file, browse to the folder where you saved it and double-click the file. When you launch your file, a password box will appear; input the password you set and click **OK** to open it.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The LockNote password box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/locknote-password-box.jpg)
 
  If you want to set passwords for an existing Notepad text file, open the folder that includes it, then drag and drop the Notepad file onto LockNote's window. Select **Yes** on the dialog box that asks about converting files. Input a password for the file and click **OK**. That will save a duplicate LockNote file in the same folder as the original text file.
@@ -80,6 +62,14 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![The View menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/locknote-formatting-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Add Passwords to Text Files With Secure Edit
 
  Like LockNote, Secure Edit incorporates password and encryption features into your text file. However, it also lets you add images in PNG and BMP format. So, this is how you can add passwords to Windows text files with Secure Edit.
@@ -89,27 +79,18 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 3. Open the File Explorer and navigate to the folder where you downloaded Secure Edit.
 4. Double-click the **SecureEdit64.exe** file to open the text editor (no installation required).
 5. First, input a password you want to add to the text file.  
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![The Secure Edit window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/secure-edit-window.jpg)
 
 1. Input some content within the text editor.
 2. Click Secure Edit's **File** menu.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![The Save as option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/save-as-option.jpg)
 3. Select the **Save as** option.
-4. Choose the **Encrypted Files** format on the **Save as** type menu.  
+
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Choose the **Encrypted Files** format on the **Save as** type menu.  
 ![The Save as type option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/save-as-type-drop-down-menu.jpg)
 5. Fill out the **File name** box.
 6. Select somewhere to save your file.
@@ -127,14 +108,8 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  To change the text style in Secure Edit, click the **Select Editor Font** option. Then you can choose a different font, style, and size in the open window. The Font window also includes **Strikeout**, **Underline**, and **Color** options.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Secure Edit's Font window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/font-options-in-secure-edit.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Apply Passwords to Notepad Text Files With PeaZip
 
  PeaZip is a freeware archive utility with which you can [set up password-protected archives](https://www.makeuseof.com/windows-password-protect-zip-file/). You can apply a password to multiple Notepad text files by adding them to a password-protected archive with PeaZip.
@@ -162,11 +137,13 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ![Archive settings in PeaZip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/archive-settings-in-peazip.jpg)
 5. Enter your desired password in the **Password** box.
 6. Re-enter the same password in the **Confirm** box.  
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The set password for PeaZip window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-password-box-in-peazip.jpg)
 7. Select **OK** in the **Password** window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Click the three-dot button for the **Output** box. Choose a directory to include the archive in and select **Save**.
 9. Select **OK** to create the password-protected archive.
 
@@ -175,6 +152,14 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
  Double-click a text file within the archive. Then you'll be prompted to input a password for it. Enter the password you set for the ZIP to open the text file in Notepad.
 
 ![The password box for a PeaZip ZIP archive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/password-box-for-archive.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Secure Your Text Files in Windows 11/10
 
@@ -186,12 +171,33 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  This is how you can use these three apps to protect the information you save on text files in Windows 11/10\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-direct-to-twitter-video-conversion-a-comprehensible-list/"><u>[New] 2024 Approved Direct-to-Twitter Video Conversion A Comprehensible List</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-step-by-step-adding-movie-maker-videos-to-vimeo-stream/"><u>[New] 2024 Approved Step-by-Step Adding Movie Maker Videos to Vimeo Stream</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-seamlessly-capture-and-store-your-favorite-episodes-on-iphone/"><u>[New] In 2024, Seamlessly Capture and Store Your Favorite Episodes on iPhone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-perfecting-the-science-of-converting-speech-to-text-with-google-for-2024/"><u>[New] Perfecting the Science of Converting Speech to Text with Google for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-journey-through-creative-commons-a-users-guide/"><u>[New] The Journey Through Creative Commons A User's Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-delicate-decrease-techniques-for-fl-studio-audio-levels-for-2024/"><u>[Updated] Delicate Decrease Techniques for FL Studio Audio Levels for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-master-list-of-premier-game-broadcasting-apps/"><u>[Updated] Master List of Premier Game Broadcasting Apps</u></a></li>
+<li><a href="https://win-lab.techidaily.com/discover-the-greatest-anime-platforms-online-plus-step-by-step-tutorial-on-securing-your-watchlist-for-offline-enjoyment/"><u>Discover the Greatest Anime Platforms Online + Step-by-Step Tutorial on Securing Your Watchlist for Offline Enjoyment</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-grayed-out-extend-button-revive-it-for-discmgmt/"><u>Fix Grayed-Out Extend Button, Revive It for DiscMgmt</u></a></li>
+<li><a href="https://windows11.techidaily.com/identifying-perfect-shutdown-procedures-for-windows/"><u>Identifying Perfect Shutdown Procedures for Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/integrating-custom-widgets-into-the-windows-11-interface/"><u>Integrating Custom Widgets Into the Windows 11 Interface</u></a></li>
+<li><a href="https://windows11.techidaily.com/migrating-your-qbittorrent-setup-seamlessly-across-pcs/"><u>Migrating Your qBittorrent Setup Seamlessly Across PCs</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-edit-like-a-pro-best-android-video-editor-apps-for-chromebook-users/"><u>New In 2024, Edit Like a Pro Best Android Video Editor Apps for Chromebook Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-sign-in-obstacles-to-microsofts-cloud-storage/"><u>Overcome Sign-In Obstacles to Microsoft's Cloud Storage</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-overcoming-windows-error-code-xffffff/"><u>Quick Guide: Overcoming Windows Error Code XFFFFFF</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinvigorating-your-pc-delving-into-windows-8-revival-techniques/"><u>Reinvigorating Your PC: Delving Into Windows' 8 Revival Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-list-of-safe-toy-drones-for-2024/"><u>The Ultimate List of Safe Toy Drones for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/unclog-your-windows-11-mailcalendar-access/"><u>Unclog Your Windows 11 Mail/Calendar Access</u></a></li>
+<li><a href="https://windows11.techidaily.com/unseen-users-missed-links-how-to-open-elusive-sites-on-windows/"><u>Unseen Users, Missed Links: How to Open Elusive Sites on Windows</u></a></li>
+</ul></div>
 

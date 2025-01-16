@@ -1,7 +1,7 @@
 ---
 title: Curing White Screen Problems on Store Platform
-date: 2024-08-15T15:11:02.698Z
-updated: 2024-08-16T15:11:02.698Z
+date: 2025-01-10T11:47:49.080Z
+updated: 2025-01-15T22:16:49.777Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/65d11e70a3e2b524202510534160699ecec295d81
 
 ![Clost Microsoft Store tasks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/end-microsoft-store-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Open Microsoft Store again and check if it’s now working.
 
  If you're encountering a lot of glitches that go away after a restart, you might be leaving your PC on for too long. Check out these [reasons why you should turn off your PC every night](https://www.makeuseof.com/reasons-why-should-shut-down-computer/) for some inspiration.
@@ -40,9 +44,6 @@ Open Microsoft Store again and check if it’s now working.
 
  If possible, access the store from a different device. If everything works as usual, the problem is limited to your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Run the Microsoft Store Troubleshooter
 
  Every time you run into an issue on your Windows computer, try running the corresponding troubleshooter. These tools are designed to fix any generic issues that you may encounter.
@@ -56,11 +57,16 @@ Open Microsoft Store again and check if it’s now working.
 
 ![Run Windows app troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/store-troubleshooter-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Windows will search for any issues and fix them automatically. Once the process is complete, try to launch Microsoft Store again.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Delete the Microsoft Store Cache
 
  Like most apps, Microsoft Store uses cache to improve performance. But if the app’s cache somehow gets corrupted, you’ll run into all sorts of issues, including Microsoft Store displaying a black or white background every time you open the app. In this case, deleting the cache should fix the problem.
@@ -69,9 +75,6 @@ Open Microsoft Store again and check if it’s now working.
 
  This should open a blank Command Prompt window for several seconds. Once it deletes the cache, Windows will close Command Prompt and launch the Microsoft Store app.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## 5\. Run the SFC Tool
 
  There’s a chance that Microsoft Store isn’t working as usual due to corrupt or damaged system files. To fix the issue, you should run the Windows System File Checker tool.
@@ -81,13 +84,11 @@ Open Microsoft Store again and check if it’s now working.
  Make sure you don’t close the Command Prompt window until the scan is complete. Windows will search and automatically replace any corrupt or damaged system files.
 
 ![Run SFC scan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/sfc-scan-1-3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Check Your System's Set Time and Region
 
  Microsoft Store servers must be synced with your system, so everything works properly. If your computer’s time and region, Microsoft Store will show a black, white, or even blue screen.
@@ -117,22 +118,20 @@ Go through the below steps to change the Windows region:
  If Microsoft Store showing a black or white screen isn’t the only problem you noticed, there might be some deep corruption within your system files. In this case, you could try to [factory reset your Windows PC](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) . This will revert it back to its factory settings, so make sure you back up all essential data.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get the Microsoft Store Working Again
 
  It can be frustrating when you need to install a new app, but Microsoft Store isn’t working. Instead of looking for the same app on not-so-trustworthy websites, you can use the above solutions to fix Microsoft Store.
 
  But if you can’t find a specific app, there are several websites where you can download apps without compromising your system security.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -141,6 +140,18 @@ Go through the below steps to change the Windows region:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/el-expansion-through-smart-youtube-link-building-methods/"><u>Channel Expansion Through Smart YouTube Link-Building Methods</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722958701429-experience-gaming-like-never-before-by-updating-nvidias-gtx-1660-ti-drivers/"><u>Experience Gaming Like Never Before by Updating NVIDIA's GTX 1660 Ti Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-updated-epson-artisan-1430-drivers-optimized-for-windows-11108-secure-your-print-jobs/"><u>Get Updated Epson Artisan 1430 Drivers: Optimized for Windows 11/10/8 - Secure Your Print Jobs!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-deleting-items-from-your-youtubeumbers-list/"><u>Guide Deleting Items From Your YouTube'umbers List</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-on-iphone-15-plus-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide on iPhone 15 Plus iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://techtrends.techidaily.com/meet-brian-unruh-the-responsible-executive-for-abbyys-chief-financial-officer-position-steering-fiscal-excellence/"><u>Meet Brian Unruh, the Responsible Executive for ABBYY's Chief Financial Officer Position: Steering Fiscal Excellence</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimal-settings-where-to-store-your-games-on-xbox/"><u>Optimal Settings: Where to Store Your Games on Xbox</u></a></li>
+<li><a href="https://windows11.techidaily.com/reducing-memory-waste-with-microsoft-edges-webview2/"><u>Reducing Memory Waste with Microsoft Edge's WebView2</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-need-old-password-warning-on-win11win11-os/"><u>Resolving “Need Old Password” Warning on Win11/Win11 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/revolutionize-desktop-top-5-clock-saver-software/"><u>Revolutionize Desktop - Top 5 Clock Saver Software</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/sending-past-moments-via-snapchat-camera-roll-guide/"><u>Sending Past Moments via Snapchat Camera Roll Guide</u></a></li>
+</ul></div>
 

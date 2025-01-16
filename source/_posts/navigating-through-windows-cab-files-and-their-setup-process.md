@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Windows' CAB Files and Their Setup Process
-date: 2025-01-04T17:27:53.765Z
-updated: 2025-01-10T20:30:41.827Z
+date: 2025-01-10T23:21:53.958Z
+updated: 2025-01-16T00:15:41.682Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f6602
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is a Windows CAB File?
 
  A CAB file or Cabinet file is a common archive file format used by Microsoft. It contains the compressed version of different files, folders, and even other cabinet files. Microsoft uses these files to distribute Windows, drivers, and UWP app updates. However, you can also use it to store other forms of data, such as images, videos, and documents.
@@ -34,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f6602
  CAB files are recognized by their first four bytes, which are the [ASCII characters](https://www.makeuseof.com/what-is-ascii-text/) MSCF. You can store up to 65,535 folders in a CAB file, with each folder having a storage capacity of 65,535 files.
 
  Now that you have a brief understanding of CAB files, let's check out how you can install it on Windows 11\.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Install a CAB File on Windows 11
 
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f6602
 ![CMD window with command to install a CAB file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/cmd-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once the installation is complete, [restart your computer](https://www.makeuseof.com/windows-restart-methods/) to see the changes.
@@ -69,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f6602
 ![Powershell window with command to install a CAB file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/powershell-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That's it. PowerShell will install the content of the CAB file on your computer.
@@ -83,6 +83,10 @@ thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f6602
 ![Extract option in context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/extract-option.jpg)
 3. Choose the location where you want to extract the contents of the CAB file and click **Extract**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Press **Win + X** hotkey to open the Power User menu and choose **Device Manager**.
 5. Right-click the device for which you have downloaded the driver update and choose **Update driver**.  
 ![Update driver option in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/update-driver.jpg)
@@ -91,16 +95,12 @@ thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f6602
 ![Browse my computer for drivers in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/browse-my-computer-for-drivers.jpg)
 7. Click **Browse** and navigate to the location where you have extracted the CAB file.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Select the folder that contains the extracted file and click **OK**.  
 ![OK option in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ok-option.jpg)
 9. Click **Next**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Next option in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/next-option.jpg)
@@ -123,17 +123,17 @@ thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f6602
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-capturing-whatsapp-call-data-a-compreayers-guide/"><u>[New] 2024 Approved Capturing WhatsApp Call Data A Compreayer's Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-navigating-the-invisible-trail-fbs-preview-functionality-explained/"><u>[New] Navigating the Invisible Trail FB's Preview Functionality Explained</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-screen-savvy-taking-screenshots-on-windows/"><u>[Updated] 2024 Approved Screen Savvy Taking Screenshots on Windows</u></a></li>
-<li><a href="https://fox-links.techidaily.com/consumer-reactions-vllo-edition-for-2024/"><u>Consumer Reactions VLLO Edition for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/dazzling-display-guide-for-android-videos/"><u>Dazzling Display Guide for Android Videos</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/regain-control-over-windows-11s-dropped-items/"><u>Regain Control Over Windows 11'S Dropped Items</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/rethinking-personnel-oversight-tactics-in-the-movement-industry-a-deep-dive-by-zdnet/"><u>Rethinking Personnel Oversight Tactics in the Movement Industry: A Deep Dive by ZDNET</u></a></li>
-<li><a href="https://windows11.techidaily.com/secrets-resolving-uncontrolled-mouse-jitter-in-win11/"><u>Secrets: Resolving Uncontrolled Mouse Jitter in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/solving-zerodxgierordevicelatencyerror-for-win11-users/"><u>Solving ZeroDXGIErorDeviceLatencyError for Win11 Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-reactivating-explore-in-11os/"><u>The Ultimate Guide to Reactivating Explore in 11OS</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-the-best-ipad-ever-why-the-2018-apple-pro-model-outshines-others-on-amazon/"><u>The Ultimate Guide to the Best iPad Ever – Why the 2018 Apple Pro Model Outshines Others on Amazon</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-ultimate-guide-to-iphoneipad-screenshot-tools/"><u>[New] The Ultimate Guide to iPhone/iPad Screenshot Tools</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-preparing-to-engage-in-googles-video-meetings/"><u>2024 Approved Preparing to Engage in Google's Video Meetings</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-lava-blaze-2-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Lava Blaze 2 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-specified-user-does-not-have-a-valid-profile-app-error-in-windows-10-and-11/"><u>How to Fix the Specified User Does Not Have a Valid Profile App Error in Windows 10 & 11</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-flash-dead-honor-play-40c-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Honor Play 40C Safely | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-honor-magic-vs-2-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Honor Magic Vs 2 to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro to other iPhone 13 devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-secure-your-watchlist-free-playlist-extractors-roundup/"><u>In 2024, Secure Your Watchlist Free Playlist Extractors Roundup</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-tecno-spark-10c-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Tecno Spark 10C FRP Without Computer</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-app-crashes-in-windows-dealing-with-unhandled-exceptions/"><u>Overcoming App Crashes in Windows: Dealing with Unhandled Exceptions</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-secure-logins-with-5-tips-against-key-conflicts-in-win11/"><u>Streamlining Secure Logins with 5 Tips Against Key Conflicts in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/winerror-correction-bypassing-the-perplexing-0x80072746-mail-issue/"><u>WinError Correction: Bypassing the Perplexing 0X80072746 Mail Issue</u></a></li>
 </ul></div>
 

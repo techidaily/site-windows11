@@ -1,7 +1,7 @@
 ---
 title: "Tackling Non-Opening: Fixes for Double-Click Failures in W10/W11"
-date: 2024-12-29T00:34:24.612Z
-updated: 2025-01-03T21:41:31.660Z
+date: 2025-01-09T09:48:58.487Z
+updated: 2025-01-15T17:53:15.737Z
 tags:
   - windows10
   - windows11
@@ -31,12 +31,16 @@ thumbnail: https://thmb.techidaily.com/dc54f112c78b3afb0110331eb25c5f493a4d3b214
 ![The Double-click to open an item option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/double-click-to-open-an-item-option.jpg)
 5. Click the **Apply** button for saving settings.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Select **OK** to close the File Explorer Options window.
 
  If you find the **Double-click to open item** option is already selected, you could try selecting the single-click setting instead. That way, you might at least be able to access your folders by single-clicking them. Or, proceed with applying the other resolutions below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Adjust the Double-Click Mouse Speed
@@ -50,14 +54,14 @@ thumbnail: https://thmb.techidaily.com/dc54f112c78b3afb0110331eb25c5f493a4d3b214
 ![The Additional mouse settings option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/additional-mouse-settings.jpg)
 5. Drag the **Double-click speed** bar’s slider left to slow it down.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Double-click speed setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/double-click-speed-setting.jpg)
 6. Select **Apply** and click **OK** to set the new double-click speed.
 
  The required double-click speed for opening folders will now be slower than before. So, you won’t need to double-click so quickly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Scan and Repair Windows System Files
 
@@ -68,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/dc54f112c78b3afb0110331eb25c5f493a4d3b214
 ![The System File Checker command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-sfc-scannow3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Edit the Shell Registry Key
@@ -82,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/dc54f112c78b3afb0110331eb25c5f493a4d3b214
 4. Double-click **(Default)** inside the **shell** key.  
 ![The shell registry key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-shell-key.jpg)
 5. If the **Value data** box is empty, or set differently, input **none** there as in the snapshot directly below.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![The (Default) string value for the shell registry key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-default-string-value.jpg)
 6. Click **OK** to save the new **(Default)** string value.
@@ -121,20 +121,20 @@ thumbnail: https://thmb.techidaily.com/dc54f112c78b3afb0110331eb25c5f493a4d3b214
 ![The tab sidebar in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-security-s-tab-sidebar.jpg)
 3. Scroll down a little and click on **Manage ransomware protection**.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Manage ransomware protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/manage-ransomware-protection.jpg)
 4. Click the **Controlled folder access** toggle switch to turn off that setting.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Controlled folder access setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/controlled-folder-access-setting.jpg)
 
  Then, go into File Explorer and try opening some folders again to see if disabling that security feature makes a difference. If it does, then it’s probably best to leave controlled folder access off.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Revert Windows to a Restore Point
 
@@ -144,11 +144,11 @@ thumbnail: https://thmb.techidaily.com/dc54f112c78b3afb0110331eb25c5f493a4d3b214
 
 ![The System Restore tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-system-restore-tool.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To apply this potential fix, check out our guide on [utilizing System Restore](https://www.makeuseof.com/use-system-restore-windows/). The System Restore tool will need to be enabled for you to select a restoration point. Be prepared to reinstall software packages a selected restore point deletes, which you can check by clicking **Scan for affected programs** in System Restore.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Make Double-Clicking Open Folders on Windows Again
 
@@ -167,22 +167,16 @@ thumbnail: https://thmb.techidaily.com/dc54f112c78b3afb0110331eb25c5f493a4d3b214
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-prime-8-the-elite-select-for-facebook-movies-in-23/"><u>[New] In 2024, Prime 8 The Elite Select for Facebook Movies in '23</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-slimsky-saver-big-files-low-costs/"><u>[Updated] In 2024, SlimSky Saver - Big Files, Low Costs</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-master-the-art-of-picture-perfection-on-snapchat-apps/"><u>2024 Approved Master the Art of Picture Perfection on Snapchat Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/9-ways-to-fix-blurry-screen-issues-on-windows-11/"><u>9 Ways to Fix Blurry Screen Issues on Windows 11</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/becoming-an-seo-success-story-the-ultimate-guide-to-facebook-optimization-for-2024/"><u>Becoming an SEO Success Story The Ultimate Guide to Facebook Optimization for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-limited-it-admin-power-in-security-warning/"><u>Bypassing 'Limited IT Admin Power' In Security Warning</u></a></li>
-<li><a href="https://windows11.techidaily.com/calculate-and-track-power-consumption-for-your-pc-windows-edition/"><u>Calculate and Track Power Consumption for Your PC: Windows Edition</u></a></li>
-<li><a href="https://windows11.techidaily.com/clean-windows-search-interface-no-icons/"><u>Clean Windows Search Interface: No Icons</u></a></li>
-<li><a href="https://windows11.techidaily.com/command-line-interface-cli-addition-to-task-manager-in-windows-11/"><u>Command Line Interface (CLI) Addition to Task Manager in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-resource-unavailable-situations-on-windows-149-chars/"><u>Correcting 'Resource Unavailable' Situations on Windows (149 Chars)</u></a></li>
-<li><a href="https://windows11.techidaily.com/customizing-windows-file-explorer-path-settings/"><u>Customizing Windows File Explorer Path Settings</u></a></li>
-<li><a href="https://windows11.techidaily.com/direct-console-connection-joining-win-to-ps3-controller/"><u>Direct Console Connection: Joining Win to PS3 Controller</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-leading-free-defrag-programs-for-optimal-pc-performance-in-july-2024/"><u>Discover the Leading Free Defrag Programs for Optimal PC Performance in July 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/diy-tech-tips-how-to-design-and-implement-a-personalized-shutdown-symbol-for-windows-er-10/"><u>DIY Tech Tips: How To Design and Implement a Personalized Shutdown Symbol for Windows Er 10</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-motorola-moto-g04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Motorola Moto G04 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/k-growth-potential-with-savvy-analysis-of-youtube-data/"><u>Unlock Growth Potential with Savvy Analysis of YouTube Data</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-universal-guide-to-capturing-cinema-pc-mac-and-mobile-edition/"><u>[New] 2024 Approved Universal Guide to Capturing Cinema PC, Mac & Mobile Edition</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-expert-schematic-designing-stopwatches-for-streaming-software/"><u>[New] Expert Schematic Designing Stopwatches for Streaming Software</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-perfect-your-instagram-video-upload/"><u>[New] In 2024, Perfect Your Instagram Video Upload</u></a></li>
+<li><a href="https://windows11.techidaily.com/curb-high-gpu-demand-with-proven-fixes-for-wm-on-windows/"><u>Curb High GPU Demand with Proven Fixes for WM on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/easing-through-policy-restrictions-in-admin-blocked-installations/"><u>Easing Through Policy Restrictions in Admin-Blocked Installations</u></a></li>
+<li><a href="https://windows11.techidaily.com/get-immediate-access-to-assistive-features-in-windows/"><u>Get Immediate Access to Assistive Features in Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-performance-with-these-8-cpu-cooler-factors/"><u>Maximizing Performance with These 8 CPU Cooler Factors</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-your-experience-best-practices-for-reading-qr-codes-in-windows/"><u>Optimizing Your Experience: Best Practices for Reading QR Codes in Windows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-virtual-camcorder-tools-unleash-your-potential-with-manycams-live-broadcast-technology/"><u>Top Virtual Camcorder Tools: Unleash Your Potential with ManyCam's Live Broadcast Technology</u></a></li>
+<li><a href="https://win-special.techidaily.com/unstick-your-printer-a-guide-to-checking-the-print-job-queue-with-yl-computings-solutions/"><u>Unstick Your Printer: A Guide to Checking the Print Job Queue with YL Computing's Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/watch-dogs-legion-stuck-on-loading-screen-solved/"><u>Watch Dogs: Legion Stuck On Loading Screen [Solved]</u></a></li>
 </ul></div>
 

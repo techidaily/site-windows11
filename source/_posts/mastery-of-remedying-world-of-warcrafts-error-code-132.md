@@ -1,7 +1,7 @@
 ---
 title: Mastery of Remedying World of Warcraft’s Error Code 132
-date: 2025-01-03T22:59:44.313Z
-updated: 2025-01-10T18:21:06.043Z
+date: 2025-01-13T17:31:39.366Z
+updated: 2025-01-15T18:12:32.641Z
 tags:
   - windows10
   - windows11
@@ -35,13 +35,13 @@ thumbnail: https://thmb.techidaily.com/f44a3055113623243d984e90c974cbd9f7a475110
 ![A screenshot of the Captures setting screen for Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/record-in-the-background-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Windows 11 Settings app doesn’t include that option. However, you can access the same option within the Game Bar app. Press the **Windows** key + **G** and select **Settings** \> **Capturing** in the Game Bar. Then deselect the **Record in the background while I’m playing a game** checkbox.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Rename World of Warcraft’s Cache, WTF, and Interface Folders
@@ -54,12 +54,12 @@ thumbnail: https://thmb.techidaily.com/f44a3055113623243d984e90c974cbd9f7a475110
 ![A screenshot of the Show In Explorer option for World of Warcraft in Battle Net](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/show-in-file-explorer.jpg)
 4. Next, open either the **\_retail\_** or **\_classic\_** subfolder. For example, open the **\_classic\_** folder if you play World of Warcraft Classic or **\_retail\_** for the current version.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![A screenshot of the Retail folder in the system files for World of Warcraft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/retail-folder.jpg)
 5. Then right-click on the **Interface** subfolder, select **Rename**, and input **InterfaceOld** for the new name.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Repeat the previous step for the **Classic** and **WTF** folders. Rename those folders to **ClassicOld** and **WTFOld**.  
 ![A screenshot of the system file options for the Cache folder for World of Warcraft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/rename-option.jpg)
@@ -85,20 +85,20 @@ thumbnail: https://thmb.techidaily.com/f44a3055113623243d984e90c974cbd9f7a475110
 6. Press **Done** to set World of Warcraft’s command line argument.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart the Blizzard software after setting this new command line argument for World of Warcraft. Then start WoW to see if this possible resolution makes a difference.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Add World of Warcraft to Your Security Software Exclusions List
 
  Security software packages (antivirus tools and firewalls) could be causing error 132 on your PC by blocking World of Warcraft or other Blizzard processes from running. You can check this by disabling Microsoft Defender or an alternative third-party antivirus tool on your PC. However, it’s not ideal to have to turn off security features every time you want to play World of Warcraft.
 
 ![A screenshot of the option to Add An Exclusion to the Windows Security Exclusions List](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/add-an-exclusion.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To ensure your security software never blocks World of Warcraft, add the game’s .exe (application) file to your antivirus and firewall exception lists. You can [whitelist files for Microsoft Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/#:~:text=Under%20Protection%20areas%2C%20select%20Virus,type%2C%20or%20process%20to%20exclude.) by clicking the **Add an exclusion** button in the Windows Security app. If you’ve installed a third-party antivirus tool, set a WoW exception in that app’s exclusion list instead.
 
@@ -120,22 +120,20 @@ thumbnail: https://thmb.techidaily.com/f44a3055113623243d984e90c974cbd9f7a475110
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-efficient-image-capture-try-these-top-5-pc-tools/"><u>[New] 2024 Approved Efficient Image Capture? Try These Top 5 PC Tools</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-perfecting-your-podcast-top-5-mac-friendly-recorder-recommendations/"><u>[New] 2024 Approved Perfecting Your Podcast Top 5 Mac-Friendly Recorder Recommendations</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-on-demand-content-examination-summary/"><u>[New] In 2024, On-Demand Content Examination Summary</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-unleashing-top-8-budget-friendly-windows-and-mac-3d-players/"><u>[New] In 2024, Unleashing Top 8 Budget-Friendly Windows & Mac 3D Players</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-unlocking-the-potential-of-aiseesoft-for-video-documentation/"><u>[New] In 2024, Unlocking the Potential of Aiseesoft for Video Documentation</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-solutions-for-correcting-the-missing-msvbvm50dll-issue/"><u>Effective Solutions for Correcting the 'Missing msvbvm50.dll' Issue</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/enhanced-marketing-automation-through-advanced-cookiebot-solutions/"><u>Enhanced Marketing Automation Through Advanced Cookiebot Solutions</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-troubleshoot-common-anydesk-errors-on-windows/"><u>How to Troubleshoot Common AnyDesk Errors on Windows</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-how-to-transform-your-shopping-adventures-into-haul-masterpieces/"><u>In 2024, How to Transform Your Shopping Adventures Into Haul Masterpieces</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-windows-11-cc-settings-and-fixes/"><u>Mastering Windows 11 CC Settings & Fixes</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-the-realm-of-windows-tech-mastery/"><u>Navigating the Realm of Windows Tech Mastery</u></a></li>
-<li><a href="https://windows11.techidaily.com/steady-the-shaky-xbox-experience-in-windows/"><u>Steady the Shaky Xbox Experience in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamline-your-computer-experience-enabledisable-windows-key/"><u>Streamline Your Computer Experience: Enable/Disable Windows Key</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-necessity-of-vcplusplus-redistribution-packages/"><u>The Necessity of VC++ Redistribution Packages</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-sony-xperia-1-v-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Sony Xperia 1 V.</u></a></li>
-<li><a href="https://windows11.techidaily.com/why-are-ai-computers-distinct-an-exploration/"><u>Why Are AI Computers Distinct? An Exploration</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-arp-cache-insights-and-clearing-methods/"><u>Windows ARP Cache Insights & Clearing Methods</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-androidmac-method-for-saving-snaps-for-2024/"><u>[New] Android/Mac Method for Saving Snaps for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-effortless-methods-to-document-console-gaming-for-2024/"><u>[New] Effortless Methods to Document Console Gaming for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-revealing-hidden-group-media-on-messenger-app-for-2024/"><u>[New] Revealing Hidden Group Media on Messenger App for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-tecno-spark-10-pro-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Tecno Spark 10 Pro Activity | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/bringing-business-efficiency-installing-ms-works-on-windows/"><u>Bringing Business Efficiency: Installing MS Works on Windows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/comprehensive-visual-instructions-for-adding-libdvdcss-to-handbrake-in-macos-ventura-and-windows-11/"><u>Comprehensive Visual Instructions for Adding Libdvdcss to HandBrake in macOS Ventura & Windows 11</u></a></li>
+<li><a href="https://win-docs.techidaily.com/effortless-contact-transfer-techniques-between-cell-phones/"><u>Effortless Contact Transfer Techniques Between Cell Phones</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-disable-update-notifications-on-windows/"><u>How to Disable Update Notifications on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/making-your-notes-pop-in-win-1011-os/"><u>Making Your Notes Pop in Win 10/11 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-apex-servers-on-pc-7-ways-to-fix-no-server-errors-(156-chars/"><u>Mastering Apex Servers on PC: 7 Ways to Fix 'No Server' Errors (<156 Chars)</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windowsapps-access-a-step-by-step-guide/"><u>Mastering WindowsApps Access: A Step-by-Step Guide</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-harmony-and-code-the-elite-circle-s-digital-compositional-geniuses/"><u>New 2024 Approved Harmony and Code The Elite Circle S Digital Compositional Geniuses</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-disabled-windows-shadow-copies/"><u>Resolving Disabled Windows Shadow Copies</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-converting-your-spotify-playlists-into-pdfs/"><u>Step-by-Step Guide: Converting Your Spotify Playlists Into PDFs</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-hd-strategy-for-classics-gaming-on-windows-via-scummvm/"><u>The Ultimate HD Strategy for Classics Gaming on Windows via ScummVM</u></a></li>
 </ul></div>
 

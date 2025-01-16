@@ -1,7 +1,7 @@
 ---
 title: "From 4 to 16GB: The Evolution in Windows Computing Power"
-date: 2025-01-07T21:11:28.063Z
-updated: 2025-01-10T21:08:22.057Z
+date: 2025-01-08T17:53:40.312Z
+updated: 2025-01-16T04:08:16.887Z
 tags:
   - windows10
   - windows11
@@ -21,16 +21,16 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [What Is RAM?](#what-is-ram)
 * [What Is Happening With RAM in Windows Computers?](#what-is-happening-with-ram-in-windows-computers)
 * [Why Is Microsoft Setting a Baseline of 16GB of RAM?](#why-is-microsoft-setting-a-baseline-of-16gb-of-ram)
 * [Is Setting 16GB RAM as the New Standard Good News for You?](#is-setting-16gb-ram-as-the-new-standard-good-news-for-you)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -41,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
  As operating systems become more complex, the minimum specifications for new PCs rise to meet them. Recent reports claim that Microsoft is pushing to have 16GB of RAM become the minimum amount of memory for new devices. But why would it make that change, and is this good for you?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is RAM?
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
  Be sure to check out our [explainer on RAM](https://www.makeuseof.com/tag/quick-dirty-guide-ram-need-know/) that everyone can understand.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is Happening With RAM in Windows Computers?
@@ -66,12 +66,16 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 
  Right now, you can purchase a new PC with 8GB of RAM minimum. If this report is accurate, these models will eventually be phased out, and 16GB computers will take their place as the baseline.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Is Microsoft Setting a Baseline of 16GB of RAM?
 
 ![The Microsoft Copilot logo](https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f48662a5ae5f051ec41bdae27.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Unsplash](https://unsplash.com/photos/blue-and-pink-light-illustration-LeG68PrXA6Y)
@@ -94,10 +98,6 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 
  Windows 12 is currently believed to have a 2025 release date, which gives Microsoft a lot of time to work on implementing artificial intelligence into its operating system. And for people to make the most of Windows 12, Microsoft needs new PCs to have enough RAM to support it; hence the 16GB suggestion.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is Setting 16GB RAM as the New Standard Good News for You?
 
  While Microsoft has reasons for upping the minimum amount of RAM, it's easy to be skeptical about its claims. Who's to say this isn't just a move to raise the demand for RAM and force hardware prices up? Is 16GB of RAM really necessary?
@@ -118,21 +118,22 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-best-3d-software-for-dynamic-youtube-intros/"><u>[Updated] In 2024, Best 3D Software for Dynamic YouTube Intros</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-the-4-fastest-lenovo-record-methods/"><u>[Updated] The 4 Fastest Lenovo Record Methods</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/chromebook-soundscaping-guide-selecting-the-best-text-to-speech-apps-online/"><u>Chromebook Soundscaping Guide Selecting the Best Text-to-Speech Apps Online</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-rectify-shaky-cursor-on-modern-windows/"><u>How to Rectify Shaky Cursor on Modern Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-resurrect-a-freeze-fixing-error-code-x-in-windows-11/"><u>How to Resurrect a Freeze: Fixing Error Code X in Windows 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Honor 100 Pro? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-vivo-y100-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Vivo Y100 to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/insights-on-windows-portable-application-formats/"><u>Insights on Windows Portable Application Formats</u></a></li>
-<li><a href="https://windows11.techidaily.com/keeping-taskmanager-above-all-windows/"><u>Keeping TaskManager Above All Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-the-windows-arp-cache-world-and-purge-processes-129-chars-exceeds-limit-adjusted-to-fit-better-clearing-windows-arp/"><u>Navigating the Windows ARP Cache World and Purge Processes (129 Chars, Exceeds Limit, Adjusted to Fit Better: Clearing Windows ARP</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/secure-ways-to-delete-all-previous-chats-from-the-chatgpt-platform/"><u>Secure Ways to Delete All Previous Chats From the ChatGPT Platform</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-guide-for-removing-isdonedll-from-w11-pc/"><u>Step-By-Step Guide for Removing ISDone.dll From W11 PC</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-expert-guide-to-navigating-win11-easily/"><u>The Expert Guide to Navigating Win11 Easily</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-undercover-upscalers-guide-to-clear-visuals/"><u>The Undercover Upscaler's Guide to Clear Visuals</u></a></li>
-<li><a href="https://driver-install.techidaily.com/triumph-over-wan-port-errors-a-winxp-success-story/"><u>Triumph Over WAN Port Errors: A WinXP Success Story</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-the-cause-of-winmedia-error/"><u>Unveiling the Cause of WinMedia Error</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hardware-hurdles-whats-necessary-for-big-sur/"><u>[New] Hardware Hurdles What's Necessary for Big Sur?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-the-beginners-pathway-to-personalizing-your-game-voice-free-in-free-fire/"><u>[New] The Beginner's Pathway to Personalizing Your Game Voice, FREE in Free Fire</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-boost-channels-to-partner-status-in-under-90-days-start-now/"><u>2024 Approved Boost Channels to Partner Status in Under 90 Days, Start Now!</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-how-to-view-old-stories-on-facebook/"><u>2024 Approved How to View Old Stories on Facebook?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-infinix-note-30-pro-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-camera-app-malfunction-in-windows-11/"><u>Addressing Camera App Malfunction in Windows 11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/compact-and-convenient-the-universal-folding-moko-bluetooth-typewriter/"><u>Compact and Convenient: The Universal Folding MoKo Bluetooth Typewriter</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-your-window-experience-mastering-the-start-menu/"><u>Enhance Your Window Experience: Mastering the Start Menu</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expected-specs-cost-and-release-timeline-for-rumored-new-apple-personal-robot-in-the-homes-of-tomorrow/"><u>Expected Specs, Cost, and Release Timeline for Rumored New Apple Personal Robot in the Homes of Tomorrow</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-dark-screen-issue-windows-fixed-release/"><u>Fix Dark Screen Issue: Windows Fixed Release</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-xbox-game-pass-0x800700e9-error-in-windows-11-and-11/"><u>How to Fix the Xbox Game Pass 0X800700e9 Error in Windows 11 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-halt-microsoft-edge-icons-regularity/"><u>How to Halt Microsoft Edge Icons' Regularity</u></a></li>
+<li><a href="https://windows11.techidaily.com/playnite-extension-virtual-games-collection/"><u>Playnite Extension: Virtual Games Collection</u></a></li>
+<li><a href="https://windows11.techidaily.com/reestablish-wi-fi-masterful-solutions-for-windows-usb-adapters/"><u>Reestablish Wi-Fi: Masterful Solutions for Windows USB Adapters</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unlocking-the-power-of-self-created-software-insider-hacks-from-stellars-expert-toolkit-collection/"><u>Unlocking the Power of Self-Created Software: Insider Hacks From Stellar's Expert Toolkit Collection</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-desktop-from-chaotic-to-customized-in-minutes/"><u>Win11 Desktop: From Chaotic to Customized, in Minutes</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-update-halted-quick-solutions-for-a-perfect-installation/"><u>Windows Update Halted: Quick Solutions for a Perfect Installation</u></a></li>
 </ul></div>
 

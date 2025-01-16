@@ -1,7 +1,7 @@
 ---
 title: Overcoming Greyed-Out Remove PIN Feature on Windows 11
-date: 2025-01-09T17:58:36.525Z
-updated: 2025-01-10T22:02:21.133Z
+date: 2025-01-15T02:17:58.072Z
+updated: 2025-01-16T07:05:12.089Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/8467c9e20d909c3a99e5604c440b3f79e42d4e9a9
 
 ![Fingerprint key on a laptop keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Ways-to-Fix-Windows-Hello-Fingerprint-Not-Working-In-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In Windows 11, you can enable Windows Hello sign-in for Microsoft account to force users to use their PIN to log in. While a handy feature, for security reasons, it also disables the Remove PIN option for the device. To restore the Remove PIN option, you must disable the Windows Hello sign-in requirement. Here's how to do it.
 
 1. Press**Win + I** to open**Settings** .
@@ -54,6 +58,10 @@ To remove PIN using forgot my PIN:
 ![confirmation dialog windows hello PIN remove](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/confirmation-dialog-windows-hellow-pin-remove.jpg)
 6. Next, enter your Microsoft account details to sign in.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![set up a pin cancel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/set-up-a-pin-cancel.jpg)
 7. When the**Set up a PIN** dialog appears, click on**Cancel** .  
 
@@ -61,7 +69,7 @@ To remove PIN using forgot my PIN:
 8. Next, click the**Close** button to exit the**Your account requires a Windows Hello PIN** dialog.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 That's it! You have successfully removed the Windows Hello PIN.
@@ -76,7 +84,7 @@ That's it! You have successfully removed the Windows Hello PIN.
 3. Scroll down to the**Related setting** s section and click on**Accounts** (Manage my account). This will open the Microsoft account security page online.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Sign in to your Microsoft account.
@@ -86,10 +94,6 @@ That's it! You have successfully removed the Windows Hello PIN.
 ![microsoft account advanced security options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/microsoft-account-advanced-security-options.jpg)
 2. Now scroll down to the**Additional security** section.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![additional security turn off passwordless account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/additional-security-turn-off-passwordless-account.jpg)
 3. Click on**Turn Off** for**Passwordless account.**
 
@@ -97,16 +101,12 @@ That's it! You have successfully removed the Windows Hello PIN.
 5. Once done, you should be able to use the Remove PIN option in Settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Remove the PIN on Your Windows 11 PC
 
 ![windows 11 remove pin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-remove-pin.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once the option is restored, follow these steps to remove Windows Hello PIN from the Settings app:
 
@@ -136,16 +136,19 @@ That's it! You have successfully removed the Windows Hello PIN.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/updated-essential-8-mirrorless-cams-for-professional-videographers/"><u>[Updated] Essential 8 Mirrorless Cams for Professional Videographers</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-seamless-video-production-leveraging-windows-movie-maker-on-windows-8-for-2024/"><u>[Updated] Seamless Video Production Leveraging Windows Movie Maker on Windows 8 for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/3mpgmp3/"><u>「3つの優れた無料音楽コンバーター：MPGファイルからMP3へ」</u></a></li>
-<li><a href="https://driver-install.techidaily.com/flawlessly-executed-acer-driver-update-with-win11/"><u>Flawlessly Executed: Acer Driver Update with Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-to-turn-off-windows-from-starting-spotify/"><u>Guide to Turn Off Windows From Starting Spotify</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-copy-and-paste-not-working-in-windows-11/"><u>How to Fix Copy and Paste Not Working in Windows 11</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/jpegpnggif/"><u>JPEGまたはPNGをGIF形式に変更する簡単なステップバイステップ</u></a></li>
-<li><a href="https://windows11.techidaily.com/pioneering-retro-upgrades-atlasos-transformation/"><u>Pioneering Retro Upgrades: AtlasOS Transformation</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/professionelle-bildaufbereitung-konvertierung-und-export-auf-eine-formatierte-microsd-karte-gratis/"><u>Professionelle Bildaufbereitung: Konvertierung Und Export Auf Eine Formatierte MicroSD-Karte Gratis</u></a></li>
-<li><a href="https://windows11.techidaily.com/reversing-game-launch-hurdles-with-epic-logins/"><u>Reversing Game Launch Hurdles with Epic Logins</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackle-non-working-shift-with-simple-tweaks/"><u>Tackle Non-Working Shift with Simple Tweaks</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-discovering-video-producers-digital-command-center/"><u>[Updated] Discovering Video Producers' Digital Command Center</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210355669-9780578969688-astrological-mavericks/"><u>Astrological Mavericks | Free Book</u></a></li>
+<li><a href="https://windows11.techidaily.com/customizing-windows-tray-for-numeric-lock-signifiers/"><u>Customizing Windows Tray for Numeric Lock Signifiers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/descargar-archivos-de-video-en-hd-4k-y-8k-aprende-como-reducir-su-tamano-en-un-90/"><u>Descargar Archivos De Video en HD, 4K Y 8K: Aprende Cómo Reducir Su Tamaño en Un 90%</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-oppo-reno-8t-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Oppo Reno 8T FRP Locks</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-driver-verifier-management-in-windows-11/"><u>Guide: Driver Verifier Management in Windows 11</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-nokia-g22-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Nokia G22 FRP Locks</u></a></li>
+<li><a href="https://windows11.techidaily.com/install-and-enhance-edge-security-with-the-defender-application-guard-from-ms/"><u>Install and Enhance Edge Security with the Defender Application Guard From MS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-the-apple-watch-se-second-generation-a-bargain-at-80-discounted-exploring-options-after-prime-day-zdnet-analysis/"><u>Is the Apple Watch SE Second Generation a Bargain at $80 Discounted? Exploring Options After Prime Day | ZDNet Analysis</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/revolutionize-post-production-the-best-11-tutorials-on-color-workflow/"><u>Revolutionize Post-Production The Best 11 Tutorials on Color Workflow</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-recover-windows-audio-glitches/"><u>Steps to Recover Windows Audio Glitches</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-your-win11-upgrades-eradicate-error-0xc1900101/"><u>Streamline Your Win11 Upgrades, Eradicate Error 0xC1900101</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-how-to-make-a-slideshow-with-music/"><u>Updated How to Make a Slideshow with Music</u></a></li>
+<li><a href="https://windows11.techidaily.com/using-ports-without-built-in-pc-graphics-hardware/"><u>Using Ports Without Built-In PC Graphics Hardware</u></a></li>
 </ul></div>
 

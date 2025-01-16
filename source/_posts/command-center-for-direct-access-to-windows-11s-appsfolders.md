@@ -1,7 +1,7 @@
 ---
 title: Command Center for Direct Access to Windows 11'S AppsFolders
-date: 2024-08-15T15:10:24.583Z
-updated: 2024-08-16T15:10:24.583Z
+date: 2025-01-14T06:51:22.197Z
+updated: 2025-01-16T15:24:40.879Z
 tags:
   - windows10
   - windows11
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/36933db6d941c003b496fa9d41f25952922b64b71
 
  The AppsFolder opens up in its own window, where you can view and manage the applications installed on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ## 2\. How to Open AppsFolder Using File Explorer
 
  If you're using File Explorer, you don't even need the Run command. You can access AppsFolder directly from File Explorer. Here's how:
@@ -43,8 +40,9 @@ thumbnail: https://thmb.techidaily.com/36933db6d941c003b496fa9d41f25952922b64b71
  The AppsFolder window appears on your screen. You can even drag and drop files and folders from other locations into the AppsFolder.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. How to Open AppsFolder Using Task Manager
 
  Task Manager monitors and manages running processes and resource utilization on your Windows computer. To open the AppsFolder using Task Manager, follow these steps:
@@ -56,9 +54,6 @@ thumbnail: https://thmb.techidaily.com/36933db6d941c003b496fa9d41f25952922b64b71
 
  The AppsFolder window shows all the programs and apps installed on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. How to Open AppsFolder Using Command Prompt
 
  If you're comfortable with Command Prompt, you can use it to open the AppsFolder. Here's how:
@@ -68,6 +63,10 @@ thumbnail: https://thmb.techidaily.com/36933db6d941c003b496fa9d41f25952922b64b71
 3. In the Command Prompt window, type **Explorer Shell:AppsFolder**​ and press **Enter**.  
 ![Open AppsFolder Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-appsfolder-using-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. How to Open AppsFolder Using Windows PowerShell
 
  Windows PowerShell is also a command-line tool, and you can use it to open the AppsFolder. Follow these steps:
@@ -76,13 +75,9 @@ thumbnail: https://thmb.techidaily.com/36933db6d941c003b496fa9d41f25952922b64b71
 2. Select **Windows PowerShell** from the results list.
 3. Once the Windows PowerShell window appears, type **Explorer Shell:AppsFolder** and press Enter.  
 ![Open AppsFolder Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-appsfolder-using-powershell.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That's it! The AppsFolder window opens with all your installed applications listed inside.
@@ -94,11 +89,12 @@ thumbnail: https://thmb.techidaily.com/36933db6d941c003b496fa9d41f25952922b64b71
 1. Right-click on your Desktop and select **New > Shortcut**. This opens the Create Shortcut window.
 2. Type **Explorer Shell:AppsFolder** in the Location box and click **Next**.  
 ![Open AppsFolder Using Desktop Shortcut-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-appsfolder-using-desktop-shortcut-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Name your shortcut like “Apps Folder” or whatever you want to call it, and click **Finish**.  
 ![Name the Desktop Shortcut key-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/name-the-desktop-shortcut-key-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You'll see an Apps Folder shortcut icon appear on your desktop. Double-click it to open the AppsFolder window and manage your apps.
 
@@ -110,8 +106,9 @@ thumbnail: https://thmb.techidaily.com/36933db6d941c003b496fa9d41f25952922b64b71
 2. Right-click on the Shortcut icon and select **Properties**.
 3. Click in the **Shortcut key** field and type a single character key like F, T, or whatever you want.  
 ![Open AppsFolder Using Shortcut Key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-appsfolder-using-shortcut-key.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The shortcut key will appear next to the **Ctrl + Alt** options. You can now quickly open the AppsFolder with this keyboard shortcut.
@@ -122,12 +119,31 @@ thumbnail: https://thmb.techidaily.com/36933db6d941c003b496fa9d41f25952922b64b71
 
  But how do you access and manage the AppsFolder on Windows? Read this guide to find out.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-easy-to-follow-guide-recording-non-root-android-sounds/"><u>[New] Easy-to-Follow Guide Recording Non-Root Android Sounds</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-visual-voyage-from-realistic-images-to-animated-marvels-on-pcmac/"><u>[New] Visual Voyage From Realistic Images to Animated Marvels on PC/Mac</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-depth-look-at-djis-drone-model-3/"><u>[Updated] In-Depth Look at DJI's Drone Model 3</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-radiant-cinematography-the-ultimate-guide-for-videographers/"><u>[Updated] Radiant Cinematography The Ultimate Guide for Videographers</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/analyzing-user-interface-and-features-in-youtube-mobile-app-for-2024/"><u>Analyzing User Interface and Features in YouTube Mobile App for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-errors-in-windows-discord-query-system/"><u>Fixing Errors in Windows' Discord Query System</u></a></li>
+<li><a href="https://windows11.techidaily.com/handling-unresponsive-clicks-in-the-latest-windows/"><u>Handling Unresponsive Clicks in the Latest Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-automatically-shut-down-a-windows-11-and-11-pc-when-its-idle/"><u>How to Automatically Shut Down a Windows 11 and 11 PC When It's Idle</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-resolve-faulty-narration-function-on-word-windows/"><u>How To Resolve Faulty Narration Function on Word (Windows)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-reasons-for-unexpected-cut-off-in-imovie/"><u>In 2024, Reasons for Unexpected Cut-Off in iMovie</u></a></li>
+<li><a href="https://windows11.techidaily.com/innovative-ways-to-generate-numerous-folders-on-modern-windows-pcs/"><u>Innovative Ways to Generate Numerous Folders on Modern Windows PCs</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-6-plus-properly-drfone-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 6 Plus Properly | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-unresolved-roblox-issues-on-windows/"><u>Overcoming Unresolved Roblox Issues on Windows</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-future-unveiled-experience-unmatched-audio-with-klipschs-flexus-200/"><u>The Future Unveiled: Experience Unmatched Audio with Klipsch's Flexus 200</u></a></li>
+<li><a href="https://fox-links.techidaily.com/the-new-era-of-advertising-embracing-the-metaverse-for-2024/"><u>The New Era of Advertising Embracing the Metaverse for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-inability-to-add-columns-in-ms-excel-windows/"><u>Troubleshooting: Inability to Add Columns in MS Excel (Windows)</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-fix-for-error-afc-windows-11-camera-app-crash/"><u>Unveiling Fix for Error AFC: Windows 11 Camera App Crash</u></a></li>
+</ul></div>
 

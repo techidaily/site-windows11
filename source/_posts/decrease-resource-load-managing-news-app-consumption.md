@@ -1,7 +1,7 @@
 ---
 title: "Decrease Resource Load: Managing News App Consumption"
-date: 2024-08-08T06:00:17.209Z
-updated: 2024-08-09T06:00:17.209Z
+date: 2025-01-11T17:00:32.443Z
+updated: 2025-01-16T10:20:23.331Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/831f2f90478586ac086abfd43f6d32639656f49a2
 
  This News and Interests issue occurs due to a potential memory leak and can make your computer run slow. So, if you want to make your computer run fast again, follow these steps to fix the News and Interests high memory usage problem.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Install Windows Update Hotfix
 
 ![windows 11 update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-update.jpg)
@@ -37,12 +34,13 @@ To install a Windows 11 update:
 
  You can also learn how to [manage Windows 10 updates](https://www.makeuseof.com/tag/manage-windows-update-windows-10/) to ensure your computer is constantly updated. However, if you can find this specific update on your computer, go to [Microsoft Update Catalog](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) and search for the update. If available, download the update and run the installer to install it manually.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ## 2\. Turn Off News and Interests
 
  If you don't really use the News and Interests feature, you're better off turning it off. That way, you can save on hardware resources and help your computer run faster.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Turn Off News and Interests on Windows 10
 
@@ -52,7 +50,15 @@ To install a Windows 11 update:
 ![turn off news and interests](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-news-and-interestsjpg.jpg)
 2. Next, go to**News and Interests** and select**Turn Off** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That's it. With the**News and Interests** feature disabled, your memory usage should return to its normal range.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Disable News and Interests on Windows 11
 
@@ -75,19 +81,18 @@ To install a Windows 11 update:
 3. In Group Policy Editor, navigate to the following location:  
 `Computer Configuration > Administrative Templates > Windows Components > News and Interests`
 4. In the right pane, right-click on**Enable News and Interests** **on the taskbar** policy and select**Edit** .  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turn off news and interest disabled 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-news-and-interest-disabled-1.jpg)
 5. Select**Disabled** and click**Apply** and**OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![turn off news and interest disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-news-and-interest-disabled.jpg)
 6. Close Group Policy Editor and restart your computer.
 
  After restarting your computer, the News and Interests feature should no longer appear. Launch the task manager and check for improvements in your PC's CPU and memory usage.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Disable News and Interests Using the Registry Editor on Windows 10
 
  You can disable the feed feature using the Windows Registry if you don't have Group Policy Editor. For this, you'll need to create an EnableFeeds value and set it to 0 to disable it.
@@ -98,23 +103,21 @@ To disable the news feed feature using Windows Registry:
 
 1. Press**Win + R** to open**Run** .
 2. Type**regedit** and click**OK** to open**Registry Editor** .  
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![registry editor new key Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/registry-editor-new-key-windows.jpg)
 3. In Registry Editor, navigate to the following location. You can copy and paste the registry path for quicker navigation:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows`
 4. Right-click on the**Windows** key in the left pane.
 5. Select**New > Key** . Rename the key as**Windows Feeds** .  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![registry editor new key Windows new DWORd value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/registry-editor-new-key-windows-new-dword-value.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Next, right-click the**Windows Feeds** key and select**New > DWORD (32-bit) Value** .
 2. Rename the new value as**EnableFeeds** .
@@ -123,14 +126,8 @@ To disable the news feed feature using Windows Registry:
 4. Type**0** in the**Value data** field and click**OK** to save the changes.
 5. Close the Registry Editor and restart your computer to apply the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Add and Disable EnableFeeds Using PowerShell
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![powershell add registry key value Windows feeds Enable feeds](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/powershell-add-registry-key-value-windows-feeds-enable-feeds.jpg)
 
  You can also add and modify the EnableFeeds value in the Windows Registry using PowerShell. To do this:
@@ -146,14 +143,11 @@ To disable the news feed feature using Windows Registry:
 
  Memory leakage is a common cause for the News and Interests high memory usage issue. While a hotfix is available, you'll need to disable the News and Interests widget item to resolve the problem if the issue persists.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -162,6 +156,26 @@ To disable the news feed feature using Windows Registry:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-questing-quests-the-best-terrafirma-maps/"><u>[New] Questing Quests The Best Terrafirma Maps</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-peak-content-performance-the-ultimate-list-of-powerful-tiktok-captions/"><u>[Updated] In 2024, Peak Content Performance The Ultimate List of Powerful TikTok Captions</u></a></li>
+<li><a href="https://win-web.techidaily.com/complete-guide-retrieve-lost-data-post-windows-11-fresh-install-two-effective-methods/"><u>Complete Guide: Retrieve Lost Data Post-Windows 11 Fresh Install | Two Effective Methods</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/descargar-e-imprime-tga-archivos-como-formatos-de-fotos-libres-y-de-alta-calidad-tiff/"><u>Descargar E Imprime TGA Archivos Como Formatos De Fotos Libres Y De Alta Calidad (TIFF)</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-fixes-for-windows-remote-desktop-problems/"><u>Essential Fixes for Windows Remote Desktop Problems</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-pathways-for-opening-hardware-spaces-on-w10w11/"><u>Essential Pathways for Opening Hardware Spaces on W10/W11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-tips-for-initiating-macs-recovery-system-and-repair-tools/"><u>Essential Tips for Initiating Mac's Recovery System and Repair Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/f1-2021-optimization-guide-for-increased-performance-and-stability-on-pcs/"><u>F1 2021 Optimization Guide for Increased Performance and Stability on PCs</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-how-to-link-audio-to-facebook-profiles-iphoneandroid/"><u>In 2024, How to Link Audio to Facebook Profiles (iPhone/Android)</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/in-2024-what-is-ai-generated-text/"><u>In 2024, What Is AI Generated Text?</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-to-prevent-data-loss-in-unresponsive-usb-cases-windows/"><u>Methods to Prevent Data Loss in Unresponsive USB Cases (Windows)</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-to-rectify-frozen-and-unresponsive-windows-discord-elements/"><u>Methods to Rectify Frozen and Unresponsive Windows Discord Elements</u></a></li>
+<li><a href="https://windows11.techidaily.com/personalize-your-pcs-clock-view-ideal-screensaver-creation-apps-in-windows-platform/"><u>Personalize Your PC's Clock View: Ideal Screensaver Creation Apps in Windows Platform</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/take-your-game-on-the-go-with-dells-latest-ultraportable-gaming-laptop-featured/"><u>Take Your Game On-The-Go with Dell’s Latest Ultraportable Gaming Laptop – Featured</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-network-navigator-guiding-you-through-obs-connectivity-troubles-7-ways/"><u>The Network Navigator: Guiding You Through OBS Connectivity Troubles (7 Ways)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-free-virtual-reality-movie-downloads-ultimate-guide-and-solutions/"><u>Top Free Virtual Reality Movie Downloads: Ultimate Guide and Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-your-windows-start-windows-media-player-now/"><u>Unleash Your Windows: Start Windows Media Player Now</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-torrent-speed-resetting-stalled-status-on-windows/"><u>Unlocking Torrent Speed: Resetting Stalled Status on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-non-essential-windows-applications-for-elimination/"><u>Unveiling Non-Essential Windows Applications for Elimination</u></a></li>
+</ul></div>
 

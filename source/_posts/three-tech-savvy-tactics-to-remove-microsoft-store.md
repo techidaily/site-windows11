@@ -1,7 +1,7 @@
 ---
 title: Three Tech-Savvy Tactics to Remove Microsoft Store
-date: 2025-01-06T16:35:57.639Z
-updated: 2025-01-10T20:29:00.088Z
+date: 2025-01-11T21:54:15.010Z
+updated: 2025-01-15T23:52:37.775Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/87eef5cf587ac33a0581d68baadab4d33ca4c311a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Should You Uninstall the Microsoft Store App?
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/87eef5cf587ac33a0581d68baadab4d33ca4c311a
  Microsoft Store houses all the useful and popular applications for Windows devices. Moreover, it guarantees safe and malware-free application downloads. But if the app fails to start or doesn’t work properly, removing it makes sense.
 
  But don’t worry. You can remove the app and then reinstall it if you want. Reinstallation can fix persistent issues with the current version of the Microsoft Store app. It will remove the current app installation and all its related files and corrupt data. After that, you can reinstall the Microsoft app with a single command.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Uninstall Microsoft Store App From Windows 11
 
@@ -57,7 +53,11 @@ winget uninstall Microsoft.WindowsStore_8wekyb3d8bb
 6. Type**exit** in the command prompt window and press enter to close it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Using PowerShell
@@ -65,7 +65,7 @@ winget uninstall Microsoft.WindowsStore_8wekyb3d8bb
  Before winget was officially integrated into Windows 10 and 11, there was a method to[remove the Microsoft Store app using PowerShell](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/) . The method still works and all you need to do is list the package name and then use the**Remove-AppxPackage** cmdlet to uninstall the Microsoft Store app from your system. Make sure to run PowerShell with elevated permissions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Using a Batch File
@@ -84,7 +84,7 @@ winget uninstall Microsoft.WindowsStore_8wekyb3d8bb
 7. Open the Start menu and search for Microsoft Store. You won’t find any matching app on your system.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Easily Remove the Microsoft Store From Windows
@@ -106,22 +106,18 @@ winget uninstall Microsoft.WindowsStore_8wekyb3d8bb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-how-to-record-console-gameplay-on-computer/"><u>[New] 2024 Approved How to Record Console Gameplay on Computer</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-ultimate-compilation-budget-friendly-editing-tools/"><u>[Updated] The Ultimate Compilation Budget-Friendly Editing Tools</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-bite-sized-video-specialist/"><u>2024 Approved Bite-Sized Video Specialist</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723200038887-easy-fix-to-your-pc-cant-project-to-another-screen-error/"><u>Easy Fix to Your PC Can’t Project to Another Screen Error</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ient-tactics-for-viewing-subscribers-on-yt-for-2024/"><u>Efficient Tactics for Viewing Subscribers on YT for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-break-free-from-frozen-dark-ui-settings/"><u>How to Break Free From Frozen Dark UI Settings</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-enable-mouse-clicklock-to-work-easier-on-windows/"><u>How to Enable Mouse ClickLock to Work Easier on Windows</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-hubs-for-finding-googles-ad-sponsors-on-video/"><u>In 2024, Hubs for Finding Google's Ad Sponsors on Video</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-git-workflows-using-github-desktop-in-windows-11/"><u>Navigating Git Workflows Using GitHub Desktop in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-windows-patches-in-an-offline-world/"><u>Navigating Windows Patches in an Offline World</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-new-frontier-ai-and-its-role-in-windows-11-development/"><u>The New Frontier: AI and Its Role in Windows 11 Development</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-xiaomi-redmi-note-12t-pro-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Xiaomi Redmi Note 12T Pro Device</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-0x80072af9-error-on-windows-pcs/"><u>Troubleshooting 0X80072AF9 Error on Windows PCs</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-rainbow-six-extractions-no-compatible-driver-error/"><u>Troubleshooting Steps for Rainbow Six Extraction's 'No Compatible Driver Error'</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-stop-fifa-21-from-crashing-on-your-computer/"><u>Ultimate Troubleshooting: Stop FIFA 21 From Crashing on Your Computer</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-sync-issues-with-7-innovative-windows-techniques/"><u>Unlocking Sync Issues with 7 Innovative Windows Techniques</u></a></li>
-<li><a href="https://windows11.techidaily.com/workaround-for-automatic-network-proxy-failure-in-windows/"><u>Workaround for Automatic Network Proxy Failure in Windows</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-first-timers-manual-for-cool-mac-crafted-youtube-clips/"><u>[New] 2024 Approved First-Timer's Manual for Cool, Mac-Crafted YouTube Clips</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/fficiently-removing-youtube-channels-a-device-centric-approach-for-2024/"><u>[New] Efficiently Removing Youtube Channels A Device-Centric Approach for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-subscribe-bonanza-thousands-acquired-for-just-5-for-2024/"><u>[Updated] Subscribe Bonanza Thousands Acquired for Just $5 for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-chromes-non-downloading-problems-on-windows/"><u>Addressing Chrome's Non-Downloading Problems on Windows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/choreographing-gripping-podcast-openings-for-2024/"><u>Choreographing Gripping Podcast Openings for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-add-a-full-battery-charge-notification-to-windows-11-and-11/"><u>How to Add a Full Battery Charge Notification to Windows 11 & 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-away-from-the-marooned-glitch-with-xbox-and-win11/"><u>Navigating Away From the Marooned Glitch with Xbox & Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/significance-and-uses-for-vcplusplus-releases/"><u>Significance and Uses for VC++ Releases</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-avoiding-frequent-sign-ins-on-ms-teams-platform/"><u>Solutions for Avoiding Frequent Sign-Ins on MS Teams Platform</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-tweaking-mouse-speeds-in-win-1011/"><u>The Ultimate Guide to Tweaking Mouse Speeds in Win 10/11</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ltimate-microphone-list-for-best-asmr-sound/"><u>The Ultimate Microphone List for Best ASMR Sound</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-looking-into-how-slow-mo-guys-have-changed-the-dynamics-of-slow-motion-for-2024/"><u>Updated Looking Into How Slow Mo Guys Have Changed the Dynamics of Slow-Motion for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-vigilance-understanding-and-monitoring-device-uptime/"><u>Windows 11 Vigilance: Understanding and Monitoring Device Uptime</u></a></li>
 </ul></div>
 

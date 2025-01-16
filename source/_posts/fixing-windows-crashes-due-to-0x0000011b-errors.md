@@ -1,7 +1,7 @@
 ---
 title: Fixing Windows Crashes Due to 0X0000011B Errors
-date: 2025-01-05T23:16:23.188Z
-updated: 2025-01-10T19:40:21.467Z
+date: 2025-01-12T21:35:34.364Z
+updated: 2025-01-16T02:54:50.138Z
 tags:
   - windows10
   - windows11
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Restart the Print Spooler Service
 
  A common troubleshooting step to fix issues with your printer is to restart the print spooler service. It is an essential service that handles the print job between your computer and printer. If the[print spooler service is not running](https://www.makeuseof.com/print-spooler-service-not-running-windows/) , you can manually start it from the Services snap-in. Here’s how to do it.
@@ -40,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
 3. In the**Service** snap-in, locate the**Print Spooler** service.  
 ![print spooler service properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/print-spooler-service-properties.jpg)
 4. Next, right-click on the service and select**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![print spooler service startup type automatic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/print-spooler-service-startup-type-automatic.jpg)
 5. In the**Properties** dialog, open the**General** tab.  
@@ -51,13 +51,13 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
 8. Right-click on**Print** **Spooler** again and click**Restart** .
 9. Once the Print Spooler service is up and running, create a new print job and check for any improvements.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Install All the Pending Windows Updates
 
 ![check windows 10 updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/check-windows-10-updates.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If it’s a widespread issue, you’ll likely receive a bug fix via Windows update. So, begin with checking if a new Windows update is available. These are often small hotfixes released to fix widespread issues.
 
@@ -68,10 +68,6 @@ To check and install Windows updates:
 3. Click on**Check for updates** . Windows will look for pending updates and list them here.
 4. Click on**Download & install** to install the updates.
 5. Once installed, restart your PC and check for any improvements.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Install the Printer Manually via the Local Port
 
@@ -85,10 +81,6 @@ To check and install Windows updates:
 
 5. In the**Add Printer** dialog, select **Add a local printer or network printer with manual settings.**  
 ![add local printer network printer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/add-local-printer-network-printer.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Under**Choose a printer por** t, select**Create a new port.**  
 ![create new port local port add printer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-port-local-port-add-printer.jpg)
@@ -126,18 +118,26 @@ Next, follow these steps to disable CVE-2021-1678 mitigation:
 ![create new dword 32 bit value registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-dword-32-bit-value-registry-editor.jpg)
 5. Rename the**DWORD value** as**RpcAuthnLevelPrivacyEnabled.**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![registry editor modify rpcauthlevelprivacyenabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor-modify-rpcauthlevelprivacyenabled.jpg)
 6. Right-click on the**RpcAuthnLevelPrivacyEnabled** value and select**Modify** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. Type**0** in the**Value data** field and click**OK** to save the changes.  
 ![registry editor modify rpcauthlevelprivacyenabled 0 disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor-modify-rpcauthlevelprivacyenabled-0-disabled.jpg)
 8. Close**Registry Editor** and restart your PC to apply the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 9. After the restart, try to use your shared printer and check if the error is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Uninstall Recently Installed Updates
 
@@ -152,20 +152,20 @@ To uninstall Windows updates:
 ![control panel uninstall programs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/control-panel-uninstall-programs.jpg)
 3. Next, click on**Programs** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![control panel uninstall programs view installed updatges](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/control-panel-uninstall-programs-view-installed-updatges.jpg)
 4. Click on**View installed updates** under**Programs and Features** . This will open the**Uninstall updates** section in the**Settings** app. Alternatively, go to **Settings > Windows Update > Update history > Uninstall updates** to access the same.  
 
 ![uninstall windows updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/uninstall-windows-updates.jpg)
 5. Locate the problematic update (**KB5005565**) and click on**Uninstall** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Click**Uninstall** again to confirm the action. Wait for the update to uninstall and restart your PC to apply the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixing the 0x0000011b Printing Error on Windows
@@ -187,17 +187,18 @@ To uninstall Windows updates:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-efficient-media-transformation-with-actionable-steps-from-xml/"><u>[New] Efficient Media Transformation with Actionable Steps From XML</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-cutting-edge-tools-for-optimal-yt-titles/"><u>[New] In 2024, Cutting-Edge Tools for Optimal YT Titles</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instagram-video-dimension-guide-for-best-video-format-2023/"><u>[New] In 2024, Instagram Video Dimension [Guide for Best Video Format 2023]</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/beyond-the-iconic-macbook-discovering-a-phenomenal-performance-leader-in-todays-laptops-review/"><u>Beyond the Iconic MacBook: Discovering a Phenomenal Performance Leader in Today’s Laptops Review</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-guide-to-customizing-windows-11-default-apps/"><u>Essential Guide to Customizing Windows 11 Default Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/fix-filenames-5-windows-utilities-for-date-manipulation/"><u>Fix Filenames: 5 Windows Utilities for Date Manipulation</u></a></li>
-<li><a href="https://windows11.techidaily.com/has-windows-subsystem-shifted-linux-desktops/"><u>Has Windows Subsystem Shifted Linux Desktops?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hp-touchbook-with-companion-wireless-mouse-and-office-365-suite-complete-tech-bundle-at-400-special-offer/"><u>HP Touchbook with Companion Wireless Mouse & Office 365 Suite - Complete Tech Bundle at $400 Special Offer</u></a></li>
-<li><a href="https://windows11.techidaily.com/secrets-for-locating-vanished-registry-management-utility/"><u>Secrets for Locating Vanished Registry Management Utility</u></a></li>
-<li><a href="https://extra-information.techidaily.com/streamlining-conversions-mp4-files-with-vlc-media-player/"><u>Streamlining Conversions MP4 Files with VLC Media Player</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-pubg-save-settings-breakdown-on-win-oses/"><u>Tackling PUBG Save Settings Breakdown on Win OSes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-resolving-display-driver-stopped-responding-issues-on-your-computer/"><u>Understanding and Resolving ‘Display Driver Stopped Responding’ Issues on Your Computer</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-quiet-curator-of-online-chronicles-for-2024/"><u>[New] Quiet Curator of Online Chronicles for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagrams-hottest-25-minds-in-the-digital-age/"><u>[Updated] 2024 Approved Instagram's Hottest 25 Minds in the Digital Age</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-to-network-or-not-a-detailed-guide-for-youtubers-considering-mncs/"><u>[Updated] 2024 Approved To Network, Or Not A Detailed Guide for YouTubers Considering MNCs</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-behind-the-camera-glory-spotlight-on-top-10-female-youtubers/"><u>[Updated] In 2024, Behind-the-Camera Glory Spotlight on Top 10 Female YouTubers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-intuitive-video-collaboration-through-mstream/"><u>[Updated] Intuitive Video Collaboration Through MStream</u></a></li>
+<li><a href="https://windows11.techidaily.com/control-and-discretion-over-network-safety-in-windows/"><u>Control and Discretion Over Network Safety in Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/convenient-bavarder-implementation-in-linux/"><u>Convenient Bavarder Implementation in Linux</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/erfolgreiches-wechseln-vom-dell-datasafe-beste-backup-alternativen-fur-windows-1087-nutzerinnen-and-nutzer/"><u>Erfolgreiches Wechseln Vom Dell DataSafe: Beste Backup-Alternativen Für Windows 10/8/7 Nutzerinnen & Nutzer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/error-free-computing-steps-to-rectify-the-absence-of-dbghelpdll-in-your-windows-environment/"><u>Error-Free Computing: Steps to Rectify the Absence of dbghelp.dll in Your Windows Environment</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-desktop-trash-for-permanent-deletion-on-windows-oses/"><u>Mastering Desktop Trash for Permanent Deletion on Windows OSes</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategic-application-of-ping-for-optimal-pc-performance/"><u>Strategic Application of Ping for Optimal PC Performance</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-windows-unexpected-security-alerts/"><u>Troubleshooting Windows' Unexpected Security Alerts</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>Ultimate guide to get the meltan box pokemon go For Apple iPhone 12 Pro | Dr.fone</u></a></li>
 </ul></div>
 

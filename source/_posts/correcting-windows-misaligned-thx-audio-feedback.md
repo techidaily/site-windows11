@@ -1,7 +1,7 @@
 ---
 title: Correcting Windows' Misaligned THX Audio Feedback
-date: 2024-08-08T05:59:31.533Z
-updated: 2024-08-09T05:59:31.533Z
+date: 2025-01-15T06:06:02.567Z
+updated: 2025-01-16T05:27:11.937Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
  If you experience no sound from THX Spatial Audio, it can be due to an incorrectly configured default playback device or incompatibility issues. Here are a few troubleshooting steps to help you fix this problem and get THX Spatial Audio working again.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Run the Windows Audio Troubleshooter
 
  The Windows Audio troubleshooter can find and fix common audio issues with the system's sound and audio devices. For instance, it should be one of your first ports of call if you want to [fix no audio on Windows 11](https://www.makeuseof.com/fix-no-audio-windows-11/) .
@@ -33,16 +34,15 @@ To run the Windows Audio troubleshooter:
 
 1. Press**Win + I** to open**Windows Settings.**
 2. In the**System** tab, scroll down and click on**Troubleshoot** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![Windows 11 settings troubleshoot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-11-settings-troubleshoot.jpg)
 3. Next, click on**Other troubleshooters.**  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![windows 11 settings apps installed apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-11-settings-apps-installed-apps.jpg)
 4. Click on the**Run** button for**Playing Audio** under the**Most frequent** section**.**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Windows 11 settings troubleshoot other troubleshooters playing audio run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-11-settings-troubleshoot-other-troubleshooters-playing-audio-run.jpg)
 5. The troubleshooter will first check for issues with the audio services. Next, you'll be prompted to select a malfunctioning device. Select the**THX Spatial** **Audio** device and click**Next** .
 6. Follow on-screen instructions and apply the recommended fixes.
@@ -57,23 +57,19 @@ To run the Windows Audio troubleshooter:
 2. Click the**Speaker/Sound** icon beside the**Volume slider** .  
 ![taskbar audio windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/taskbar-audio-windows-11.jpg)
 3. Select**Speaker (THX Special)** as the**Sound Output device.**  
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![taskbar audio windows 11 set thx spatial audio default](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/taskbar-audio-windows-11-set-thx-spatial-audio-default.jpg)
 4. Next, launch the**THX Spatial Audio** app.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![thx spatial audio output device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/thx-spatial-audio-output-device.jpg)
 5. In the**Audio** Tab, toggle the switch for**THX Spatial Audio** to turn it on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click the**Output Device** drop-down, and select your sound output device (**Speaker/Headphone)** .
 
  That's it. Next, click the**Test THX Spatial Audio** option to see if the sound is working. That said, if the issue is limited to a specific game title, check if your game is supported by [THX Spatial Audio](https://razer.a9yw.net/c/119570/642901/10229?subId1=UUmuoUeUpU2019052&subId2=emuo&u=https%3A%2F%2Fwww.razer.com%2Fthx-spatial-audio%2Fgame-list) . You can search through the games list for compatible titles.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Set Your Default Audio Device in Sound
 
  You can also set THX Spatial Audio as your default sound output device from the Sound dialog. Useful if you are unable to change the default output device from Taskbar / Action Center.
@@ -84,10 +80,20 @@ To change your default playback device:
 2. Type**mmsys.cpl** and click**OK** to open**Windows Sound properties.**  
 ![run mmsys cpl sound properties windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/run-mmsys-cpl-sound-properties-windows-11.jpg)
 3. In the**Sound** dialog, open the**Playback** tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Scroll down and right-click on**Speaker (THX Spatial).**
 5. Select**Set as Default Device.**  
 ![set thx spatial audio default audio device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/set-thx-spatial-audio-default-audio-device.jpg)
 6. Click**Apply** and**OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Relaunch the THX Spatial Audio and check for any improvements.
 
 ## 4\. Repair Your Razer THX Spatial Audio App
@@ -100,24 +106,14 @@ To run the THX Spatial Audio repair:
 2. Type**control** and click**OK** .
 3. In the Control Panel, click on**Uninstall a program** to view all the installed apps on your PC.
 4. Locate and select the**THX Spatial Audio** app from the list.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![thx spatial audio repair control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/thx-spatial-audio-repair-control-panel.jpg)
 5. Next, click on the**Uninstall/Change** option. Click**Yes** if prompted by User Account Control.
-6. Click on the**Repair** option**under What Would You Like To Do?** section.  
+
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+6. Click on the**Repair** option**under What Would You Like To Do?** section.  
 ![thx spatial audio control panel repair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/thx-spatial-audio-control-panel-repair.jpg)
 7. The repair tool will try to repair the app by reinstalling the necessary drivers. Wait for the process to complete and close the repair tool.
 8. Relaunch the THX Spatial Audio app and test your headphone for sound output.
@@ -126,9 +122,6 @@ To run the THX Spatial Audio repair:
 
  To fix the issue, right-click on the**Muted Speaker** icon in**Taskbar** and select**Troubleshoot Sound Problems** . This will launch the**Windows Audio troubleshooter** . Follow on-screen instructions and apply any recommended fixes to restore audio on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Reinstall THX Spatial Audio
 
  You can uninstall and reinstall the THX Spatial Audio app to fix issues due to glitches and other driver issues. Once removed, you can download the latest version from the Razor website and install the app.
@@ -138,15 +131,9 @@ To uninstall THX Spatial Audio:
 1. Press**Win + I** to open**Settings** .
 2. Open the**Apps** tab in the left pane.
 3. Next, click on**Installed** apps.  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![windows 11 settings apps installed apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-11-settings-apps-installed-apps.jpg)
 4. Locate the**THX Spatial Audio** app using the**Search app** bar.
 5. Click the**three-dots menu** next to the app name and select**Uninstall** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![thx spatial audio uninstall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/thx-spatial-audio-uninstall.jpg)
 
 1. Click on**Uninstall** once more to confirm the action.
@@ -160,6 +147,10 @@ To uninstall THX Spatial Audio:
 7. Next, go to the [THX Spatial Audio page](https://razer.a9yw.net/c/119570/642901/10229?subId1=UUmuoUeUpU2019052&subId2=emuo&u=https%3A%2F%2Fwww.razer.com%2Fp%2FRZ11-13000-0001) and download the installer. It's an online installer, so wait for the setup to download and install the app.
 
  Additionally, if you have Razer Synapse installed, check if an update is available. To do this, launch the app and click on the**Settings** (**Gear**) icon on top of the toolbar. Next, open the**About** tab and click on**Check for updates.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Install Pending Windows Updates
 
@@ -183,11 +174,13 @@ To update your audio device driver:
 1. Press**Win + R** to open**Run** .
 2. Type**devmgmt.msc** and click**OK** to open Device Manager.
 3. In Device Manager, expand the**Audio inputs and outputs** section.  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![device manager update audio driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/device-manager-update-audio-driver.jpg)
 4. Next, right-click on your audio output device and select**Update driver** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![device manager update audio driver search automatically for drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/device-manager-update-audio-driver-search-automatically-for-drivers.jpg)
 5. Click on**Search automatically for drivers.** If no new driver is found, click**Close** .
 
@@ -197,14 +190,15 @@ To reinstall the audio device driver:
 2. Select and right-click on your audio device and select**Update driver.**  
 ![device manager update audio driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/device-manager-update-audio-driver.jpg)
 3. Next, click on**Browse my computer for drivers.**  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![device manager update audio driver browse my computer for drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/device-manager-update-audio-driver-browse-my-computer-for-drivers.jpg)
 4. Click on **Let me pick from a list of available drivers on my computer.**  
 ![device manager update audio driver let me pick from list available drivers on computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/device-manager-update-audio-driver-let-me-pick-from-list-available-drivers-on-computer.jpg)
 5. Select your driver model and click**Next** .
 6. Once installed, close Device Manager and check for any improvements.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Restore THX Spatial Audio on Windows 11
 
@@ -218,8 +212,6 @@ To reinstall the audio device driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -227,6 +219,22 @@ To reinstall the audio device driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-camera-elite-the-premier-selection-of-4k-dslr-mounts/"><u>[New] Camera Elite The Premier Selection of 4K DSLR Mounts</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/esign-principles-for-eye-catching-yt-previews/"><u>[New] Design Principles for Eye-Catching YT Previews</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-effortless-youtube-live-with-step-by-step-obs-guide-for-beginners/"><u>[New] In 2024, Effortless YouTube Live with Step-by-Step OBS Guide for Beginners</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-get-fb-videos-down-as-mp4-swiftly-and-simply/"><u>[Updated] Get FB Videos Down as MP4 – Swiftly & Simply</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-from-raw-to-refined-your-guide-to-youtube-video-edits/"><u>[Updated] In 2024, From Raw to Refined Your Guide to YouTube Video Edits</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-peering-into-mr-beasts-economic-landscape-for-2024/"><u>[Updated] Peering Into Mr. Beast's Economic Landscape for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-complete-beginners-manual-to-using-final-cut-pro/"><u>[Updated] The Complete Beginner's Manual to Using Final Cut Pro</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/discovering-8-ultimate-mirrorless-vlogging-cameras-for-2024/"><u>Discovering 8 Ultimate Mirrorless Vlogging Cameras for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/extending-windows-11-shutdown-for-active-tasks-tips-and-tricks/"><u>Extending Windows 11 Shutdown for Active Tasks: Tips & Tricks</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixes-for-application-flood-conquering-0x80860010/"><u>Fixes for Application Flood: Conquering 0X80860010</u></a></li>
+<li><a href="https://windows11.techidaily.com/google-chrome-unresponsiveness-solved-expert-troubleshooting-tips/"><u>Google Chrome Unresponsiveness Solved: Expert Troubleshooting Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-audio-communication-via-xbox-mic-and-windows-11/"><u>Restoring Audio Communication via Xbox Mic & Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-for-disabling-discordutation-at-windows-boot-up/"><u>Techniques for Disabling Discord'utation at Windows Boot-Up</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-fixing-non-responsive-pc-gamepad-issues/"><u>Tips for Fixing Non-Responsive PC Gamepad Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/tutorial-reverting-the-search-bar-design-of-windows-11/"><u>Tutorial: Reverting the Search Bar Design of Windows 11</u></a></li>
+</ul></div>
 

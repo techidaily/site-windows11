@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Windows Wonders: Creating & Interpreting Reports"
-date: 2024-12-28T19:45:12.249Z
-updated: 2025-01-03T18:11:36.653Z
+date: 2025-01-15T05:08:51.657Z
+updated: 2025-01-16T04:24:39.346Z
 tags:
   - windows10
   - windows11
@@ -32,17 +32,17 @@ thumbnail: https://thmb.techidaily.com/55968897eeae10de1d5f523b1b9a82af3b28230cb
 ![Opening the System Information tool using the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Opening-the-System-Information-tool-using-the-Task-Manager.jpg)
 2. To generate the report, click **File** in the top left corner and select **Save**. Alternatively, you can press **Ctrl + S** on your keyboard.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![saving systemr eport on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/saving-system-report-windows.jpg)
 3. Choose a location where you want to save the file and click **Save**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you can open the system report or send it to a technician to analyze and find out what is wrong with your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Analyze the System Report on Windows
@@ -52,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/55968897eeae10de1d5f523b1b9a82af3b28230cb
  Once it loads, you will land on **System Summary** in the navigation panel on the left, and it will show you an overview of your PC in the right panel. On top of information about your OS (name and version) and system (motherboard manufacturer, computer's model number, and processor type), you'll also find other obscure information, such as your BIOS mode (whether it's UEFI or not) and the [size and location of pagefile.sys](https://www.makeuseof.com/windows-pagefile-sys-guide/).
 
 ![Ensuring Our PC Supports Secure Boot in the System Information Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Within **System Summary** in the navigation pane, you'll find subsections that contain even more detailed information, with the first one being **Hardware Resources**. Here, you'll find information about the hardware currently installed on your system and how it's functioning.
 
@@ -68,12 +64,16 @@ thumbnail: https://thmb.techidaily.com/55968897eeae10de1d5f523b1b9a82af3b28230cb
 ![the Display section of the system report on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/display-section-system-report-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In **Software Environment**, you can get information on things like system drivers, running tasks, startup programs, and print jobs on your computer.
 
 ![the System Drivers section of system report on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/system-drivers-section-system-report-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  So that's all you need to know to get started with the system report.
 
@@ -83,11 +83,11 @@ thumbnail: https://thmb.techidaily.com/55968897eeae10de1d5f523b1b9a82af3b28230cb
 
 ![the Drives section of the system report on Windows after performing a search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/drives-section-system-report-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now you don't have to open many sections just to find what you need, making the search function a huge time saver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get the Full Gist of Your System on Windows
 
@@ -106,18 +106,18 @@ thumbnail: https://thmb.techidaily.com/55968897eeae10de1d5f523b1b9a82af3b28230cb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://windows11.techidaily.com/bypassing-the-gpsvc-wait-issue-on-pcs/"><u>Bypassing the GPSVC Wait Issue on PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/classic-game-storage-integrating-into-the-windows-photos-space/"><u>Classic Game Storage: Integrating Into the Windows Photos Space</u></a></li>
-<li><a href="https://windows11.techidaily.com/clearing-chrome-display-glitches-on-pc/"><u>Clearing Chrome Display Glitches on PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/convenient-telnet-setup-for-modern-windows-systems-wins/"><u>Convenient Telnet Setup for Modern Windows Systems (Wins)</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-non-deletable-keys-a-windows-guide/"><u>Correcting Non-Deletable Keys: A Windows Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/crafting-a-user-friendly-guide-for-shortcut-placement-on-desktop/"><u>Crafting a User-Friendly Guide for Shortcut Placement on Desktop</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/elite-head-mounted-display-creators/"><u>Elite Head-Mounted Display Creators</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-motorola-moto-g24-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Motorola Moto G24 on Mac?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-glacial-gala-winter-olympics-excellence/"><u>In 2024, Glacial Gala Winter Olympics Excellence</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-realme-c53-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Realme C53 Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/israel-is-widely-believed-to-possess-nuclear-weapons-but-has-not-declared-them-publicly-nor-joined-the-npt-as-a-nuclear-weapon-state/"><u>Israel Is Widely Believed to Possess Nuclear Weapons but Has Not Declared Them Publicly nor Joined the NPT as a Nuclear-Weapon State</u></a></li>
-<li><a href="https://howto.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-tecno-pop-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Tecno Pop 8 | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unveiling-optimal-sites-for-pixel-sounds/"><u>Unveiling Optimal Sites for Pixel Sounds</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-cutting-edge-strategies-for-choosing-best-fpv-drone-blades/"><u>[Updated] In 2024, Cutting-Edge Strategies for Choosing Best FPV Drone Blades</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquering-access-denial-during-system-installation/"><u>Conquering Access Denial During System Installation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhancing-collaboration-the-synergy-between-zoom-and-skype/"><u>Enhancing Collaboration The Synergy Between ZOOM and SKYPE</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-still-life-to-motion-picture-a-complete-guide-on-pixiz-videos-for-2024/"><u>From Still Life to Motion Picture A Complete Guide on Pixiz Videos for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/graphics-driver-restart-procedure-in-windows-11/"><u>Graphics Driver Restart Procedure in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-stop-the-mouse-from-freezing-in-excel/"><u>How to Stop the Mouse From Freezing in Excel</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-streamlining-video-production-with-clear-sound-effects/"><u>In 2024, Streamlining Video Production with Clear Sound Effects</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-by-tom-uncovering-new-hardware-secrets/"><u>In-Depth Analysis by Tom: Uncovering New Hardware Secrets</u></a></li>
+<li><a href="https://windows11.techidaily.com/saving-screen-time-by-hushing-file-explorer-tabs/"><u>Saving Screen Time by Hushing File Explorer Tabs</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-big-four-in-social-sphere-connecting-with-facebook-twitter-instagram-and-youtube/"><u>The Big Four in Social Sphere: Connecting with Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooters-guide-unlocking-photoshop-on-windows-1011/"><u>Troubleshooters' Guide: Unlocking Photoshop on Windows 10/11</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/windows-11-audio-malfunction-expert-tips-for-getting-speakers-to-work-again/"><u>Windows 11 Audio Malfunction? Expert Tips for Getting Speakers to Work Again</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows Hotkeys: Rapid Text Copy and Paste"
-date: 2025-01-09T16:17:51.499Z
-updated: 2025-01-10T19:31:57.834Z
+date: 2025-01-12T02:32:14.936Z
+updated: 2025-01-15T18:29:25.370Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 ![The Extract Compressed (Zipped) Folders tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/extract-compressed-window.jpg)
 5. Double-click**QuickTextPaste\_x64.exe** to run QuickTextPaste.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Now input some text you want to set up a custom paste hotkey for within the**Add** **text** box.  
 ![The QuickTextPaste window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-quicktextpaste-window.jpg)
 7. Select the keys to include within your hotkey on the two drop-down menus at the bottom of the QuickTextPaste window.
@@ -48,9 +52,17 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
 ![A run Edge hotkey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-edge-hotkey.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  QuickTextPaste has a 4,000-character limit for text snippets. However, that’s not an especially big restriction. You can probably fit up to 600 words within a 4,000-character limit.
 
  QuickTextPaste needs to be running in the background for its hotkeys to work. You can set the program to run automatically by clicking**Action** \>**Start** **with Windows** . Select the**Always start minimized (ToTray)** option to set the program to appear only in the system tray area when started.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Set up Hotkeys for Pasting Pre-Defined Text With HotkeyP
 
@@ -63,22 +75,18 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 5. Unzip the**hotkeyp\_64bit.zip** archive by right-clicking it and selecting**Extract All** . Click**Show extracted files** **when complete** \>**Extract** within the extraction tool.  
 ![The Extract All context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/extract-all-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Double-click**HotkeyP.exe** within the hotkeyp\_64bit folder.
 2. Click**Add** to bring up a Hot Key window.  
 ![The HotkeyP window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hotkeyp.jpg)
 3. Next, press the arrow (**<**) button for the**Command** box.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Select**Macro** and the**Paste text** option.  
 ![The Paste text option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/paste-text-option.jpg)
 5. Then input the text to paste within the**Parameters** box. That parameters box doesn’t seem to have any character number restriction for how long your pre-defined text can be.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Select one or more**Ctrl** ,**Alt** ,**Win** , and**Shift** checkboxes.
 7. Input a letter key within the text box to set the hotkey.
@@ -95,11 +103,7 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 ![The General tab in HotkeyP's Options window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-general-tab.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Creating Other Hotkeys With HotkeyP
@@ -111,10 +115,6 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
  Or you can set up some custom window control hotkeys. Select**Window** on the command menu to view the various window keyboard shortcut options. There you can select**Always on Top** ,**Maximize window** ,**Minimize others** ,**Window snapshot,** **Close window** , and**Opacity** hotkey options, to name a few.
 
  You can set up a program keyboard shortcut by selecting an app’s path within the Hot Key window. Click the**ellipses (…)** button for the**Command** box to select a program for a keyboard shortcut to open. Then you can also select additional**Process priority** and**Run as administrator** settings for the software the hotkey launches.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Create Handy Hotkeys for Pasting Pre-Defined Text in Windows
 
@@ -135,19 +135,22 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-advanced-directors-toolkit-powerdirector-24-for-2024/"><u>[Updated] Advanced Directors' Toolkit PowerDirector '24 for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-legal-tips-and-tricks-for-custom-watermarking-in-instagram/"><u>[Updated] Legal Tips and Tricks for Custom Watermarking in Instagram</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-ultimate-camcorder-features-front-view-display/"><u>2024 Approved Ultimate Camcorder Features - Front View Display</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-realme-c67-4g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Realme C67 4G?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/elite-comic-image-crafting-suite/"><u>Elite Comic Image Crafting Suite</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-realign-read-aloud-settings-on-word-app/"><u>How To Realign Read Aloud Settings on Word App</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-honor-100-pro-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Honor 100 Pro Location | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-unveiling-how-t-series-earnings-growth-on-youtube-works/"><u>In 2024, Unveiling How T-Series Earnings Growth on YouTube Works</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-battle-against-the-mighty-lynel-in-the-legend-of-zelda-breath-of-the-wild/"><u>Mastering the Battle Against the Mighty Lynel in The Legend of Zelda: Breath of the Wild</u></a></li>
-<li><a href="https://windows11.techidaily.com/solving-frozen-grammarly-on-your-computer-system/"><u>Solving Frozen Grammarly on Your Computer System</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-recover-from-a-blank-login-display-window/"><u>Steps to Recover From a Blank Login Display Window</u></a></li>
-<li><a href="https://windows11.techidaily.com/transformative-tools-in-the-studio-4-microsoft-paint-redesigns/"><u>Transformative Tools in the Studio: 4 Microsoft Paint Redesigns</u></a></li>
-<li><a href="https://windows11.techidaily.com/unblocking-the-store-error-a-fix-for-windows-x800704cf/"><u>Unblocking the Store Error: A Fix for Windows' X800704CF</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-the-power-of-cross-platform-note-taking-in-win11/"><u>Unveiling the Power of Cross-Platform Note Taking in Win11</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-proven-strategies-for-masterful-fisheye-photography/"><u>[New] Proven Strategies for Masterful Fisheye Photography</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-igniting-laughter-a-path-to-meme-fame/"><u>[Updated] Igniting Laughter A Path to Meme Fame</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/easy-tutorial-on-transforming-m4v-files-into-compatible-mp4-video-formats/"><u>Easy Tutorial on Transforming M4V Files Into Compatible MP4 Video Formats</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-windows-pc-hardware-requirement-errors/"><u>Fixing Windows PC Hardware Requirement Errors</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-on-your-iphone-13-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock on your iPhone 13 and iPad</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-camera-for-video-enthusiasts-nikons-j5-review/"><u>In 2024, The Ultimate Camera for Video Enthusiasts - Nikon's J5 Review</u></a></li>
+<li><a href="https://win11.techidaily.com/master-the-art-of-windows-11-app-opening/"><u>Master the Art of Windows 11 App Opening</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/masterclass-zooids-introduction-guide/"><u>Masterclass Zooids Introduction Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/mastering-color-changes-11-essential-tips/"><u>Mastering Color Changes 11 Essential Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximize-output-win-based-time-management-apps-reviewed/"><u>Maximize Output: Win-Based Time Management Apps Reviewed</u></a></li>
+<li><a href="https://windows11.techidaily.com/skyrocketing-speed-for-battlenet-downloads-on-your-pc/"><u>Skyrocketing Speed for Battle.net Downloads on Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-to-manipulating-fax-cover-pages-on-win11/"><u>Step-by-Step Guide to Manipulating Fax Cover Pages on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-address-failed-downloads-in-windows-1011/"><u>Strategies to Address Failed Downloads in Windows 10/11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/subaquatic-spectacites-tips-to-enrich-underwater-videos-using-gopro/"><u>Subaquatic Spectacites Tips to Enrich Underwater Videos Using GoPro</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-faster-typing-the-powertoys-way/"><u>Unlock Faster Typing: The PowerToys Way</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-full-potential-of-taskbar-in-win11/"><u>Unlock the Full Potential of Taskbar in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-workspace-potential-discover-the-best-window-folder-methods/"><u>Unlock Workspace Potential: Discover the Best Window Folder Methods</u></a></li>
 </ul></div>
 

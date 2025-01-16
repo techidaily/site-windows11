@@ -1,7 +1,7 @@
 ---
 title: Disabling Secondary App's Camera Usage (Error 0xA00F4243)
-date: 2024-08-15T15:10:48.022Z
-updated: 2024-08-16T15:10:48.022Z
+date: 2025-01-10T03:53:43.243Z
+updated: 2025-01-16T05:33:23.232Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 
  This issue is inconvenient, especially if you're not actively running another app that's using your webcam and you have an important meeting or stream coming up soon. So, how do you fix this? Check out the steps below and see how to get your webcam working again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check Your Camera Access History
 
  Windows 11 keeps track of apps that have tried to access your camera recently. In the**Recent activity** section of the**Settings** app, you can view which apps have accessed your camera in the last seven days.
@@ -32,6 +36,11 @@ To view your camera's recent activity:
 2. In the left pane, open the**Privacy & security** tab.  
 ![windows 11 camera](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-camera.jpg)
 3. Next, scroll down to the**App permissions** section.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click on the**Camera** option to view more options.  
 ![windows 11 camera recent access](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-camera-recent-access.jpg)
 5. Click on**Recent activity** to view a full list of apps that have accessed your camera in the past seven days. It shows the app's name with the date and time.
@@ -59,9 +68,6 @@ To view your camera's recent activity:
 ![windows 11 camera limit apps access](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-camera-limit-apps-access.jpg)
 4. Next, locate the app and toggle the switch to restrict the app from accessing your webcam.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Restart the Camera Service (CamSvc)
 
  The Capability Access Manager Service (CamSvc) is an essential Windows service required to access your camera and microphone. If it isn't running, it can cause the "It looks like another app is using the camera already" error.
@@ -75,15 +81,15 @@ To restart the Capability Access Manager Service (CamSvc):
 3. In the Service snap-in, locate the**Capabilities Access Manager Service.**
 4. Next, right-click on the**Capabilities Access Manager Service** and select**Restart** .  
 ![restart capabilities access manager service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/restart-capabilities-access-manager-service.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 5. As the service restarts, relaunch your**Camera** and check for any improvements.
 6. If the error returns after a system restart, right-click on**Capabilities Access Manager Service** and select**Properties** .  
 ![startup type automatic capabilities access manager service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/startup-type-automatic-capabilities-access-manager-service.jpg)
 7. Click the**Startup type** drop-down and select**Automatic** .
 8. Click**Apply** and**OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Install Windows and System Updates
 
@@ -99,10 +105,12 @@ To install Windows updates:
 5. If not, click on**Advanced Options.**  
 ![windows 11 update advanced options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-update-advanced-options.jpg)
 6. Next, open**Optional updates.**  
-![windows 11 update advanced options optional update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-update-advanced-options-optional-update.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![windows 11 update advanced options optional update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-update-advanced-options-optional-update.jpg)
 7. Check for any driver updates for the camera to install. Install all the updates and restart your PC.
 
  You can also find new updates on the computer manufacturer's website. For example, if you use an HP computer, go to the [HP Support Driver page](https://support.hp.com/in-en/drivers) . Next, select your product type, select your product model, and provide other necessary information.
@@ -112,8 +120,9 @@ To install Windows updates:
  Next, expand the**All drivers** section and look if new drivers are available for your BIOS-System Firmware and the camera. Download and install the drivers and check for any improvements.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Switch the USB Port Where Your Camera Is Connected
 
  If you're using an external camera connected to a USB hub, try connecting it directly to a different USB port on your computer. External devices connected to a USB hub can sometimes stop working due to insufficient power and compatibility issues.
@@ -139,19 +148,19 @@ To roll back the camera driver:
 
 1. In Device**Manager** , right-click on your camera device and select**Properties** .  
 ![properties camera device device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/properties-camera-device-device-manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 2. Open the**Driver** tab in the**Properties** dialog.  
-![properties camera device device manager roll back driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/properties-camera-device-device-manager-roll-back-driver.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![properties camera device device manager roll back driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/properties-camera-device-device-manager-roll-back-driver.jpg)
 3. Next, click on**Roll Back Driver** and confirm the action. If the option is grayed out, you don't have any older drivers to restore.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get Your Webcam Working Again
 
  Getting the "It looks like another app is using the camera already." error can be pretty inconvenient, especially if you find out about it just as you need it. If you still have time, you can follow some of the above steps to fix the issue. Most of these troubleshooting options will only take a few minutes to execute, assuming you don't encounter other problems.
@@ -164,8 +173,6 @@ To roll back the camera driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,6 +180,20 @@ To roll back the camera driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-essential-tips-for-minecraft-recording-with-macos/"><u>[New] In 2024, Essential Tips for Minecraft Recording with MacOS</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-top-15-essential-gopro-accessories-for-newbies/"><u>[New] In 2024, Top 15 Essential GoPro Accessories for Newbies</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-unlocking-idevice-screen-playback-perfection/"><u>[New] In 2024, Unlocking iDevice Screen Playback Perfection</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-essentials-of-capturing-free-visual-display-vids/"><u>[Updated] Essentials of Capturing Free Visual Display Vids</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-can-televising-streaming-services-include-facebook-content/"><u>[Updated] In 2024, Can Televising Streaming Services Include Facebook Content?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-pro-tools-review-rising-above-sharex/"><u>[Updated] Pro Tools Review - Rising Above ShareX</u></a></li>
+<li><a href="https://windows11.techidaily.com/is-the-windows-start-button-not-working-heres-how-to-fix-it/"><u>Is the Windows Start Button Not Working? Here's How to Fix It</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-the-art-of-device-naming-without-conflicts-in-windows-pcs/"><u>Master the Art of Device Naming without Conflicts in Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-cure-to-steams-online-connectivity-problems/"><u>Quick Cure to Steam's Online Connectivity Problems</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-your-linux-experience-in-new-windows-landscape/"><u>Streamlining Your Linux Experience in New Windows Landscape</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-the-windows-11-interface-an-insiders-guide-to-tablet-bar-setup/"><u>Tailoring the Windows 11 Interface: An Insider's Guide to Tablet Bar Setup</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-itel-p55t-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Itel P55T to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://win-web.techidaily.com/win-an-apowersoft-elite-membership-with-our-background-eraser-giveaway-share-and-compete-today/"><u>Win an Apowersoft Elite Membership with Our Background Eraser Giveaway – Share & Compete Today!</u></a></li>
+</ul></div>
 

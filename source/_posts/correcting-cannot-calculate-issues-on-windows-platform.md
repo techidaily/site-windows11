@@ -1,7 +1,7 @@
 ---
 title: Correcting 'Cannot Calculate' Issues on Windows Platform
-date: 2024-08-08T05:58:52.067Z
-updated: 2024-08-09T05:58:52.067Z
+date: 2025-01-13T19:42:12.647Z
+updated: 2025-01-16T10:35:35.897Z
 tags:
   - windows10
   - windows11
@@ -20,14 +20,15 @@ thumbnail: https://thmb.techidaily.com/a23ef58f3369824904efee9f97817b15b093c9dc4
 
  The error isn’t limited to Android or iOS systems, so you might run into this problem sooner or later regardless of which phone you use. Here are a few quick fixes to help you out.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ## 1\. Restart Your Phone and Reconnect It
 
  Similarly to a computer, your phone might run into the occasional glitch if you don’t give it a chance to clear its memory. So, before going through more complex solutions, disconnect your phone from your computer and restart it.
 
  Once its system boots up, reconnect it and try to transfer the files again. Additionally, you could use a different USB port in case a malfunctioning USB port is preventing you from copying the files. If one of your ports isn't behaving, check out [how to diagnose and fix a faulty USB port on Windows](https://www.makeuseof.com/tag/dead-usb-port-heres-how-to-diagnose-and-fix-it/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Copy Fewer Files at Once
 
@@ -35,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/a23ef58f3369824904efee9f97817b15b093c9dc4
 
  For example, you can only transfer files smaller than 4GB to a FAT32 partition. To test it, try to copy a single file at once.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Change the File Destination
 
  Windows might display the "the requested value cannot be determined" error if your account doesn’t have the necessary permissions. If you’re not authorized to modify the directory where you want to paste the files, Windows will stop the transfer. In this case, try to change the file destination.
@@ -45,8 +43,9 @@ thumbnail: https://thmb.techidaily.com/a23ef58f3369824904efee9f97817b15b093c9dc4
  But if you want to transfer the files to a specific directory to keep them well-organized, you should use an account with administrative rights or change the folder permission.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Change Folder Permissions
 
  If you’ve [switched your Windows Microsoft account to a Local one](https://www.makeuseof.com/how-to-switch-windows-from-microsoft-account-to-local-account/) , you might not have permission to modify the folder. Here’s how you can check it:
@@ -60,14 +59,16 @@ thumbnail: https://thmb.techidaily.com/a23ef58f3369824904efee9f97817b15b093c9dc4
 7. In the pop-up window, select**Full control** , so you can write on the destination directory.
 8. Click**Apply > OK** to save the new settings.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Check folder permissions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/folder-permissions.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Choose the Right Transfer Protocol
 
  When you connect your phone, Windows asks you to choose the USB configuration. To keep your file transfer running smoothly, you should select**MTP (Media Transfer Protocol)** . Depending on the device, this option might be called**File Transfer** .
@@ -75,8 +76,9 @@ thumbnail: https://thmb.techidaily.com/a23ef58f3369824904efee9f97817b15b093c9dc4
  If setting the transfer protocol to MTP or File Transfer is still giving you headaches, try using**PTP (Picture Transfer Protocol)** . If none of these options worked, your problem isn’t protocol related.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Use Different Transfer Methods
 
  If you’ve tried every solution but nothing worked, you might have to wait for a Windows, Android, or iOS update to fix the issue. Alternatively, you could update the files to your cloud storage, send them through Bluetooth, or use one of many [methods to transfer files from Android to PC](https://www.makeuseof.com/tag/transfer-files-android-pc/) .
@@ -87,14 +89,11 @@ thumbnail: https://thmb.techidaily.com/a23ef58f3369824904efee9f97817b15b093c9dc4
 
  Hopefully, the above tips helped you clear some space on your computer and safely store your holiday photos. If you constantly have to transfer files from your phone because you’re running out of space, it might be time for an upgrade. But how much storage do you actually need?
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -103,6 +102,17 @@ thumbnail: https://thmb.techidaily.com/a23ef58f3369824904efee9f97817b15b093c9dc4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-time-taming-learn-youtube-video-length-cuts/"><u>[New] Time Taming Learn YouTube Video Length Cuts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-evaluating-photoshop-sway-effective-or-not/"><u>2024 Approved Evaluating Photoshop Sway Effective or Not?</u></a></li>
+<li><a href="https://windows11.techidaily.com/mind-body-harmony-meditations-impact-on-brain-and-mood/"><u>Mind-Body Harmony: Meditation's Impact on Brain & Mood</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-top-online-video-teaser-creators/"><u>New 2024 Approved Top Online Video Teaser Creators</u></a></li>
+<li><a href="https://windows11.techidaily.com/precision-in-file-ordering-with-these-tools/"><u>Precision in File Ordering with These Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/shop-smoothly-and-swiftly-resolve-windows-store-error-x80072f30/"><u>Shop Smoothly & Swiftly: Resolve Windows Store Error X80072F30</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-your-workspace-unveiling-5-advanced-window-folder-methods/"><u>Transform Your Workspace: Unveiling 5 Advanced Window Folder Methods</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/unraveling-windows-10-complexities-simplified/"><u>Unraveling Windows 10 Complexities Simplified</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-get-ready-set-go-adding-a-countdown-timer-in-fcpx-in-just-3-steps/"><u>Updated In 2024, Get Ready, Set, Go! Adding a Countdown Timer in FCPX in Just 3 Steps</u></a></li>
+<li><a href="https://driver-install.techidaily.com/victory-over-startech-drivers-on-windows-7-and-11-platforms/"><u>Victory Over StarTech Drivers on Windows 7 & 11 Platforms</u></a></li>
+</ul></div>
 

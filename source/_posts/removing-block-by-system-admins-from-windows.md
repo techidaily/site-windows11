@@ -1,7 +1,7 @@
 ---
 title: Removing Block by System Admins From Windows
-date: 2025-01-04T22:30:38.934Z
-updated: 2025-01-10T19:31:44.303Z
+date: 2025-01-10T23:13:26.254Z
+updated: 2025-01-16T12:42:31.207Z
 tags:
   - windows10
   - windows11
@@ -27,9 +27,17 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Unblock the App Executable
 
 ![unblocking a file in Properties on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/unblock-file-properties-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Windows can automatically block apps downloaded from the internet from running your computer. This is a safety measure intended to protect your system against apps from unknown publishers.
 
@@ -42,10 +50,6 @@ To unblock an app on Windows:
 3. In the**Secure** section, check the**Unblock** option.
 4. Click**Apply** and**OK** to save the changes.
 5. Launch the app again to see if the error is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Run the App Using the Command Prompt
 
@@ -64,7 +68,7 @@ To open Windows apps using Command Prompt:
 6. Next, press the**Win** key and type**cmd** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Right-click on**Command Prompt** , and select**Run as administrator.**
@@ -93,7 +97,7 @@ To repair a Microsoft Store app:
 ![repair photos app windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/repair-photos-app-windows-11.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Press**Win + I** to open**Settings** .
@@ -108,10 +112,6 @@ Reset the Microsoft Store app:
 
 ![reset-microsoft-teams-windows-11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-microsoft-teams-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Resetting an app will delete its data, including sign-in details and preferences.
 
 1. Press**Win + I** to open**Settings** .
@@ -125,10 +125,6 @@ Reset the Microsoft Store app:
 
  You can[disable Microsoft SmartScreen Filter on Windows](https://www.makeuseof.com/windows-smartscreen-filter-enable-disable/) using the Windows Security app. Once disabled, relaunch the app and check if the error is resolved.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Turn Off Your Antivirus Program
 
  False positives from Antivirus programs are not uncommon. Whether you are using Microsoft Windows Defender or another antivirus program, turn off the security program temporarily to determine if your antivirus blocking the app.
@@ -136,6 +132,10 @@ Reset the Microsoft Store app:
  You can[temporarily disable Microsoft Defender](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) using the Windows Security app. To turn off third-party antivirus, right-click the app icon in the system tray and select the appropriate options.
 
  If the error is resolved, add the app to your security program's allowed list. You can also[allowlist files and apps on Windows Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/) if you use it as the primary security application.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Modify the Windows Registry to Remove Admin Block
 
@@ -154,13 +154,13 @@ To remove the admin block using Registry Editor:
 ![enable lua modify registry editor windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-lua-modify-registry-editor-windows.jpg)
 6. Right-click on the**EnableLUA** value and select**Modify** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Type**0** in the**Value data** field and click**OK** to save the changes.  
 ![enable lua modify registry editor value 0 windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-lua-modify-registry-editor-value-0-windows.jpg)
 8. Close Registry Editor and restart your computer to apply the changes. After the restart, launch the app to see if the error is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 9. If you are using a school or work computer, your organization may put some restrictions on its use. If you can't find the UAC settings, contact your IT administrator to resolve the issue.
 
@@ -185,19 +185,17 @@ To remove the admin block using Registry Editor:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/xploring-genres-a-collection-of-15-innovative-musician-focused-videos/"><u>[New] Exploring Genres A Collection of 15 Innovative Musician-Focused Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-masterful-traffic-puller-genius/"><u>[New] Masterful Traffic Puller Genius</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-the-art-of-professionalising-a-roadmap-in-graphic-design/"><u>[New] The Art of Professionalising A Roadmap in Graphic Design</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-guide-overcoming-outlook-crashing-issues/"><u>Essential Guide: Overcoming Outlook Crashing Issues</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/gimbal-insights-7-best-in-market/"><u>Gimbal Insights 7 Best in Market</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-get-past-a-non-starting-battlenet-interface/"><u>How to Get Past a Non-Starting Battle.net Interface</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-infinix-smart-8-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Infinix Smart 8 HD | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-10-instagram-video-editing-app-marketers-must-know/"><u>In 2024, 10 Instagram Video Editing App Marketers Must Know</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-refine-video-creation-process-via-windows-10-photos-and-story-remix/"><u>In 2024, Refine Video Creation Process via Windows 10 Photos & Story Remix</u></a></li>
-<li><a href="https://windows11.techidaily.com/master-the-art-of-regaining-win-folder-entry/"><u>Master the Art of Regaining Win Folder Entry</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-windows-11s-uptime-failure-error-code-0x80246007/"><u>Overcoming Windows 11’S Uptime Failure: Error Code 0X80246007</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-essential-guide-to-windows-11-widget-bar-activation/"><u>The Essential Guide to Windows 11 Widget Bar Activation</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-for-windows-11-help-app-restoration/"><u>Tips for Windows 11 Help App Restoration</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/vlc-mastery-essential-tips-and-secret-features/"><u>VLC Mastery Essential Tips and Secret Features</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-unmatched-gaming-laptops-top-4k-picks-reviewed/"><u>[New] Unmatched Gaming Laptops - Top 4K Picks Reviewed</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-snapchat-intro-video-breakdown-size-format-duration/"><u>[Updated] In 2024, SnapChat Intro Video Breakdown Size, Format, Duration</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-guide-to-brightening-up-your-youtube-content/"><u>2024 Approved The Ultimate Guide to Brightening Up Your YouTube Content</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-apple-images-not-importing-correctly-on-windows/"><u>Addressing Apple Images Not Importing Correctly on Windows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/building-your-signature-solo-podcast-series-for-2024/"><u>Building Your Signature Solo Podcast Series for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/ease-into-accessibility-windows-fundamentals-for-novices/"><u>Ease Into Accessibility: Windows Fundamentals for Novices</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-basics-top-settings-to-optimize-on-new-windows-11/"><u>Mastering the Basics: Top Settings to Optimize on New Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-route-engaging-windows-11s-capture-utility/"><u>Quick Route: Engaging Windows 11'S Capture Utility</u></a></li>
+<li><a href="https://media-tips.techidaily.com/spotifys-hidden-gem-the-underutilized-potential-of-its-jam-feature/"><u>Spotify's Hidden Gem: The Underutilized Potential of Its Jam Feature</u></a></li>
+<li><a href="https://windows11.techidaily.com/steering-onedrive-destination-on-windows-pc/"><u>Steering OneDrive Destination on Windows PC</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-essential-tutorial-for-fb-video-production-for-2024/"><u>The Essential Tutorial for FB Video Production for 2024</u></a></li>
 </ul></div>
 

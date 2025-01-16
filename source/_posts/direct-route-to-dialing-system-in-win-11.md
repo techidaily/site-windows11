@@ -1,7 +1,7 @@
 ---
 title: Direct Route to Dialing System in Win 11
-date: 2024-08-08T05:59:26.785Z
-updated: 2024-08-09T05:59:26.785Z
+date: 2025-01-12T04:29:35.883Z
+updated: 2025-01-16T05:15:58.478Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
 
  This guide will show you how to open Phone Dialer in Windows 11 so that you can take advantage of this great new feature.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Open Phone Dialer From File Explorer
 
  If you need a quick and easy way to open the Phone Dialer on your Windows computer, look no further than File Explorer. This simple task can be accomplished in just a few steps.
@@ -37,18 +41,6 @@ To open the Phone Dialer using this tool, follow these steps:
  Here's how to use the Windows Search Tool to open the Phone Dialer:
 
 1. Press**Win + S** on your keyboard then type "dialer".  
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open Phone Dialer Using Windows Search Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-phone-dialer-using-windows-search-tool.jpg)
 2. Choose the Best Match from the list of options available.
 
@@ -57,9 +49,9 @@ To open the Phone Dialer using this tool, follow these steps:
  If you like Windows Search, check out our [Windows 10 Search cheat sheet](https://www.makeuseof.com/tag/windows-search-cheat-sheet/) for some handy tricks.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. How to Open Phone Dialer Using Run Command Dialog Box
 
  Windows users have access to a powerful tool called the Run Command Dialog Box. It lets you quickly access a variety of applications, services, and settings with just a few clicks.
@@ -71,6 +63,10 @@ To open the Phone Dialer using this tool, follow these steps:
 ![Open Phone Dialer Using Run Dialog Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-phone-dialer-using-run-dialog-box.jpg)  
  Screenshot by Digvijay Kumar - No attribution
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This will launch your computer's default Phone Dialer application.
 
 ## 4\. How to Open Phone Dialer Using Task Manager
@@ -81,11 +77,12 @@ To open Phone Dialer using Task Manager, do the following:
 
 1. Right-click on the Taskbar or the Start button and select "Task Manager" from the menu that appears.
 2. Click**Run new task** at the top of Task Manager.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Open Phone Dialer Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-phone-dialer-using-task-manager.jpg)
 3. Next to the Open field, type "dialer" and press Enter or click**OK** . This will open the Phone Dialer application in a second.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  From here, you can make calls by entering numbers into the dialer box or using one of your contacts' numbers from your address book.
 
@@ -101,9 +98,6 @@ To open the Phone Dialer in Windows, follow these steps:
 
  This will launch your Phone Dialer application on your computer screen.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## 6\. How to Open Phone Dialer Using Via Windows PowerShell
 
  The command line can be a very useful tool for getting your computer to do things quickly. However, it can be difficult to know how to access the command line if you don’t have much experience with computers.
@@ -113,9 +107,6 @@ To open the Phone Dialer in Windows, follow these steps:
 1. Press the**Windows** key or click**Start** .
 2. Search for "Windows PowerShell" and select the first result.
 3. When PowerShell is open, type "dialer" and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![Open Phone Dialer Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-phone-dialer-using-powershell.jpg)
 
  This will quickly start the Phone Dialer application on your computer.
@@ -129,11 +120,13 @@ To open the Phone Dialer in Windows, follow these steps:
 1. On your desktop, right-click and select**New** .
 2. Select**Shortcut** from the menu.
 3. When the "Create Shortcut" window appears, type "dialer" and click**Next** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![Open Phone Dialer With Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-phone-dialer-with-desktop-shortcut.jpg)
 4. Give your shortcut a name like a Phone Dialer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Once you have made your changes, click**Finish** .
 
  A shortcut to Phone Dialer will appear on your desktop; double-click it to run it. As an alternative, you can create a shortcut using File Explorer on your desktop. The steps are as follows:
@@ -144,9 +137,6 @@ To open the Phone Dialer in Windows, follow these steps:
 * Right-click on the**dialer** (executable file) and select**Show more options > Create shortcut** .
 * Click**Yes** when prompted to confirm a shortcut. You will see the desktop shortcut on your computer screen.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. How to Open Phone Dialer Using a Shortcut Key
 
  This method of opening the Phone Dialer is much faster than searching for it in the Start menu or using other options. It requires only a few keystrokes to get the job done. Here's how to do this:
@@ -157,23 +147,21 @@ To open the Phone Dialer in Windows, follow these steps:
 ![Open Phone Dialer Using Shortcut Key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-phone-dialer-using-shortcut-key.jpg)
 4. Click**Apply > OK** to save your changes
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you've finished, press Ctrl + Alt and then type the letter or number you chose. It will only take a moment to open the Phone Dialer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## It's Easy to Access the Phone Dialer
 
  It is simple to open the Phone Dialer in Windows. You can connect to contacts and numbers easily without digging through your address book. Try one of the many methods here if you need assistance opening this tool.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -182,6 +170,24 @@ To open the Phone Dialer in Windows, follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-adjusting-youtube-video-scale-effectively/"><u>[New] Adjusting YouTube Video Scale Effectively</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-top-7-best-action-cameras-for-snowboardingskiing/"><u>[New] In 2024, Top 7 Best Action Cameras for Snowboarding/Skiing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-crafting-youtube-masterpieces-with-powerful-hashtag-strategies/"><u>[Updated] 2024 Approved Crafting YouTube Masterpieces with Powerful Hashtag Strategies</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-engaging-audiences-full-rotational-cinematography-for-2024/"><u>[Updated] Engaging Audiences Full Rotational Cinematography for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-multiple-monitor-troubles-in-windows/"><u>Fixing Multiple-Monitor Troubles in Windows</u></a></li>
+<li><a href="https://fox-http.techidaily.com/from-raw-renders-to-rich-realities-grading-in-post-production/"><u>From Raw Renders to Rich Realities Grading in Post-Production</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-halt-chromiums-automatic-creation-of-new-windows-tabs/"><u>How to Halt Chromium's Automatic Creation of New Windows Tabs</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-easy-methods-to-unlock-icloud-locked-iphone-11-proipadipod-by-drfone-ios/"><u>In 2024, 3 Easy Methods to Unlock iCloud Locked iPhone 11 Pro/iPad/iPod</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-edit-mov-files-for-free-top-10-quicktime-video-editors/"><u>In 2024, Edit MOV Files for Free Top 10 QuickTime Video Editors</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On OnePlus Ace 2V? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-the-art-of-creating-secure-window-11-lock-patterns/"><u>Master the Art of Creating Secure Window 11 Lock Patterns</u></a></li>
+<li><a href="https://windows11.techidaily.com/saving-your-windows-11-fix-system-call-failed/"><u>Saving Your Windows 11: Fix System Call Failed</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-activation-of-windows-11s-dialer/"><u>Seamless Activation of Windows 11'S Dialer</u></a></li>
+<li><a href="https://windows11.techidaily.com/secrets-to-overcoming-non-installed-hard-drive-dilemranacies-win-11-edition/"><u>Secrets to Overcoming Non-Installed Hard Drive Dilemranacies, Win 11 Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-engage-windows-terminal-in-quake/"><u>Steps to Engage Windows Terminal in Quake</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-stuck-windows-handbrake-usage/"><u>Transform Stuck Windows HandBrake Usage</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-mp3-to-mp4-converter-guide-mastering-audio-file-conversions/"><u>Updated In 2024, MP3 to MP4 Converter Guide - Mastering Audio File Conversions</u></a></li>
+</ul></div>
 

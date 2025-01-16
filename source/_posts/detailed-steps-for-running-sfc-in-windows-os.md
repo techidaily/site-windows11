@@ -1,7 +1,7 @@
 ---
 title: Detailed Steps for Running SFC in Windows OS
-date: 2024-08-08T06:01:44.125Z
-updated: 2024-08-09T06:01:44.125Z
+date: 2025-01-13T06:36:34.708Z
+updated: 2025-01-15T18:27:34.250Z
 tags:
   - windows10
   - windows11
@@ -23,8 +23,9 @@ thumbnail: https://thmb.techidaily.com/d77d95aa486b91c6469c5ee9cc4e937e8d3af5aa5
  Here’s what you need to know about running the SFC tool on Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Run a System File Checker Scan on Windows
 
  To use the SFC, you need to run a single command in Command Prompt. Here’s how:
@@ -38,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/d77d95aa486b91c6469c5ee9cc4e937e8d3af5aa5
 
  If you’re unfamiliar with operating system files, please read our guide on [what system files are on Windows](https://www.makeuseof.com/windows-system-files-guide/) . And to learn everything you need to know about Command Prompt, you can check out our [beginner's guide to Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Happens After I Run the System File Checker?
 
  After the System File Checker completes its scan, it will display a message in the Command Prompt window with the results.
@@ -48,9 +53,6 @@ thumbnail: https://thmb.techidaily.com/d77d95aa486b91c6469c5ee9cc4e937e8d3af5aa5
 
  On the other hand, if it found corrupted files but couldn’t repair any or all of them, the message will read "Windows Resource Protection found corrupt files but was unable to fix some of them." And if SFC encounters a problem, the message will say "Windows Resource Protection could not perform the requested operation."
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Other SFC Commands You Can Run on Windows
 
  The**SFC /scannow** isn’t the only System File Checker Command you can run. Here are a couple more and what they do:
@@ -76,8 +78,9 @@ thumbnail: https://thmb.techidaily.com/d77d95aa486b91c6469c5ee9cc4e937e8d3af5aa5
  That above command will tell SFC to look for Windows in the**Windows** folder on the**D:** drive. But keep in mind that the Windows version on the bootable media needs to be the same as the one installed on your PC for the scan and repair to be successful.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Find the SFC Log File On Windows
 
  After the SFC does its thing, it will log the results of the scan and any repairs it made into a text file called**CBS.log** . To open it, press**Win + R** to open Windows Run, enter the below text, and click**OK** :
@@ -94,18 +97,15 @@ thumbnail: https://thmb.techidaily.com/d77d95aa486b91c6469c5ee9cc4e937e8d3af5aa5
 
  You can find**sfcdetails.txt** by heading to**This PC > Local Disk (C:) > Windows > System32** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![the sfc details text file in File Explorer on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-details-file.jpg)
 
  You’ll see that the log file contains entries from the System File Checker only.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![the sfc details text file on Windows opened in Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-detail-txt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’re doing an offline scan, you can enable logging by simply specifying the file path with the following command structure:
 
@@ -114,22 +114,20 @@ thumbnail: https://thmb.techidaily.com/d77d95aa486b91c6469c5ee9cc4e937e8d3af5aa5
  Just replace**offline log file path** in the square brackets with the actual path you want to store the offline log file in the offline directory. Then, insert this entire command after the**/windir** command when running an offline SFC scan.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Running the System File Checker, Demystified
 
  We have only just begun to scratch the surface of what you can do with the System File Checker on Windows 10 and 11\. However, now that you know**how to run SFC** (both in and out of Windows), you can use the tool effectively to troubleshoot problems with operating system files.
 
  Using the SFC effectively is a necessary skill for every Windows user, and it’s just one of the many tools you can use to fix problems on your Windows computer.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -138,6 +136,24 @@ thumbnail: https://thmb.techidaily.com/d77d95aa486b91c6469c5ee9cc4e937e8d3af5aa5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-commercial-ventures-enhanced-by-virtual-engineering-for-2024/"><u>[Updated] Commercial Ventures Enhanced by Virtual Engineering for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-mastering-sierras-icloud-drive-accessibility/"><u>[Updated] Mastering Sierra’s iCloud Drive Accessibility</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/banish-the-shadows-how-to-fix-fortnite-display-errors-on-windows-platforms/"><u>Banish the Shadows: How to Fix Fortnite Display Errors on Windows Platforms</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-realme-c67-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-poco-c50-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Poco C50? Try These Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/guaranteeing-your-printers-access-in-win11/"><u>Guaranteeing Your Printer's Access in Win11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone 14 Pro Max</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-stealth-concealing-drives-on-windows-11-and-10/"><u>Mastering Stealth: Concealing Drives on Windows 11 & 10</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/self-filmed-flair-tips-for-captivating-solo-videos-for-2024/"><u>Self-Filmed Flair Tips for Captivating Solo Videos for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-your-code-with-jdk-on-windows-11/"><u>Streamlining Your Code with JDK on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/surmounting-ram-barriers-in-the-windows-environment/"><u>Surmounting RAM Barriers in the Windows Environment</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-automatic-downtime-on-windows-11-pcs/"><u>The Ultimate Guide to Automatic Downtime on Windows 11 PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-winning-formula-for-stunning-images-and-engaging-slide-shows-on-windows-11s-photo-app/"><u>The Winning Formula for Stunning Images and Engaging Slide Shows on Windows 11'S Photo App</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-snipviewer-non-responsive-shortcuts/"><u>Troubleshooting SnipViewer Non-Responsive Shortcuts</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-honor-90-gt-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Honor 90 GT</u></a></li>
+<li><a href="https://windows11.techidaily.com/unzipping-and-zipping-made-easy-windows-command-line-guidebook/"><u>Unzipping & Zipping Made Easy: Windows Command Line Guidebook</u></a></li>
+</ul></div>
 

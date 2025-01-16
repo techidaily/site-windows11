@@ -1,7 +1,7 @@
 ---
 title: "Dive Into Customization: Windows 11'S Potential Unlocked"
-date: 2024-08-08T06:01:41.287Z
-updated: 2024-08-09T06:01:41.287Z
+date: 2025-01-13T21:34:02.925Z
+updated: 2025-01-15T19:18:53.919Z
 tags:
   - windows10
   - windows11
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/46162ff1d50cb6f1b35f044048a0b2464ebecd738
 ## Dive Into Customization: Windows 11'S Potential Unlocked
 
  The default customization options within Windows 11 and 10 are relatively limited. However, some third-party software packages give you lots more options for customizing Microsoft’s desktop operating system. WinBubble is freeware customization software that enables you to tweak the Windows platform in many different ways. Here are eight ways you can tweak Windows 11/10 with WinBubble.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## First, Download and Extract WinBubble
 
@@ -36,13 +40,14 @@ thumbnail: https://thmb.techidaily.com/46162ff1d50cb6f1b35f044048a0b2464ebecd738
 
 1. Select WinBubble’s**Specific** tab.
 2. Then click the**Customize Shortcut Icon** drop-down menu to select a**No Arrow** ,**Heart** ,**Star** , or**Win** (Windows logo) option.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![The Customize Shortcut Icon drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/customize-shortcut-icon-drop-down-menu.jpg)
 3. Press the**Set** button.
 4. Click**OK** on the dialog box that prompts a restart.
 5. Then you’ll need to restart Windows for this customization to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Customize Windows’ Screensavers With WinBubble
 
@@ -52,14 +57,19 @@ thumbnail: https://thmb.techidaily.com/46162ff1d50cb6f1b35f044048a0b2464ebecd738
 
  For example, you can select**Glassy Bubbles** or**Metallic Bubbles** options with different sizes for the Bubbles screensaver. Selecting the**Metallic Bubbles** option will give you multicolored bubbles shown in the snapshot below.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![Metallic bubbles screensaver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/metallic-bubbles.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also adjust the number of ribbons or lines for the different**Ribbon** and**Mystify** screensaver presets. Select a preset and then input values in the number boxes to change how many lines or ribbons are included in the screensavers. You can also input a width value in the**Ribbon** **width** box.
 
 ![A Preset drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/a-preset-drop-down-menu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you’ve customized a screensaver, click the**View** button to preview it. Select**Set** to save the settings. You might also need to select and set the customized screensaver in the Change screensaver Control Panel applet.
 
@@ -71,27 +81,18 @@ thumbnail: https://thmb.techidaily.com/46162ff1d50cb6f1b35f044048a0b2464ebecd738
 
  While you’re at it, you can also speed up the Window shutdown process a little. To do this, select WinBubble’s**Decrease Shutdown Time for services** and**Do not Clear Pagefile at Shutdown** checkboxes on the same**Optimize** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. How to Add New Submenus to the Context Menu
 
  WinBubble includes lots of customization settings for the desktop context menu in Windows. It enables you to add three alternative shortcut submenus to the desktop context menu. You can select to add context menu submenus for opening Control Panel applets, Microsoft apps, and system tools.
 
  Click the**General** tab to view those customization settings for the context menu. Select a**Control Panel Menu** ,**MS Software Menu** , or**System Tools Menu** option on that tab to add one of those submenus. Click**Run** on any Open File warning dialog box to apply.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The submenu context menu settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/context-menu-settings.jpg)
 
  Then right-click a desktop area to view your new**Control Panel** ,**System Tool** , or**Software** submenus. In Windows 11, you’ll also need to click**Show more options** since this tweak is applied to the classic context menu. Each submenu includes a variety of handy shortcuts.
 
 ![The System Tools submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/a-system-tools-menu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. How to Add New Take Ownership Explorer Options for Files and Folders
 
  You can’t open folders with restricted access unless you take ownership of them in Windows 11/10\. To manually take ownership of a folder, you’ll need to change its security settings via its properties window.
@@ -105,12 +106,9 @@ thumbnail: https://thmb.techidaily.com/46162ff1d50cb6f1b35f044048a0b2464ebecd738
 ![The Take the Ownership of this folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/take-ownership-off-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. How to Add New Software Shortcuts to the Context Menu
 
  If you prefer not to stuff your desktop area with too many software shortcuts, the context menu is an ideal alternative space for them. You can add lots of shortcuts to different context menus with WinBubble without manually editing the [Windows registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) . This is how to add shortcuts for opening programs to the desktop’s right-click menu in Windows:
@@ -120,25 +118,20 @@ No advertising on the website.
 3. Click the**ellipses** button for the**Command** box.
 4. Select software to add to the menu, and click the**Open** option.
 5. Input the software’s title in the**Name** box.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The context menu customization tool in WinBubble](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-context-menu-customization-tool.jpg)
 6. Press the**Add** button.
 7. Select**OK** on the prompt that appears.
 
  Now, look at the context menu by right-clicking the desktop (selec**t Show more options** in Windows 11). You’ll see a shortcut for opening the software you added there. Click that shortcut to launch the program.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A WinBubble context menu shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/winbubble-context-menu-shortcut.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can remove shortcuts added by selecting them in the Explorer/Desktop box within WinBubble’s**Tools** tab. Click the**Remove** option there. Then choose**Yes** when asked to confirm the deletion.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. How to Add New Items to the Control Panel
 
  WinBubble’s**Tools** tab also includes a section that enables you to add new items to the Control Panel. You can add third-party software shortcuts to the Control Panel from there in the following steps:
@@ -150,6 +143,11 @@ No advertising on the website.
 5. Enter a title for the selected software in the**Name** box.  
 ![Control Panel item options in WinBubble](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/control-panel-item-shortcuts.jpg)
 6. Press the**Set** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Then click**OK** to close the message dialog that pops up.
 
  Now you’ll be able to open the software added from the Control Panel. Bring up the Control Panel window, and select**Large icons** from the**View by** drop-down menu there. Click the new software shortcut there.
@@ -157,9 +155,9 @@ No advertising on the website.
 ![A WinBubble shortcut in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/winbubble-control-panel-shortcut.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. How to Disable the Registry Editor in WinBubble
 
  The**More Policies** tab in WinBubble enables you to disable many things in Windows. It incorporates four subtabs from which you can disable desktop, Start menu, taskbar, machine, system, and Control Panel features. Plus, there are also some additional miscellaneous quick tweak settings available.
@@ -178,8 +176,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,6 +183,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-complete-guide-to-iphone-voice-memos-setup/"><u>[New] 2024 Approved The Complete Guide to iPhone Voice Memos Setup</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-device-capture-to-viral-content-youtubes-upload-guide/"><u>[Updated] In 2024, From Device Capture to Viral Content YouTube's Upload Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-mac-os-unveiled-comprehensive-review-of-screenflow-v4-for-2024/"><u>[Updated] Mac OS Unveiled Comprehensive Review of ScreenFlow V4 for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-superior-smartphones-that-dominate-in-video-recording-for-2024/"><u>[Updated] Superior Smartphones That Dominate in Video Recording for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-real-time-narrative-builder/"><u>2024 Approved Real-Time Narrative Builder</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/apple-iphone-xs-max-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>Apple iPhone XS Max Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/framefusion-pro-8-crafting-digital-masterpieces/"><u>FrameFusion Pro 8 Crafting Digital Masterpieces</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-disable-auto-open-of-search-menu-on-windows-11/"><u>How To Disable Auto-Open of Search Menu on Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-a1-5g-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of A1 5G using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-comic-files-on-win11-a-step-by-step-guide/"><u>Navigating Comic Files on Win11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-eliminating-common-anydesk-hurdles-on-windows/"><u>Quick Guide: Eliminating Common AnyDesk Hurdles on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/transformative-ui-update-command-line-in-windows-11s-taskbar/"><u>Transformative UI Update: Command Line in Windows 11'S TaskBar</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-tutorial-enable-tablet-taskbar/"><u>Windows 11 Tutorial: Enable Tablet Taskbar</u></a></li>
+</ul></div>
 

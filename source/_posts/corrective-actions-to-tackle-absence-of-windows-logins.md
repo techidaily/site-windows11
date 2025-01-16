@@ -1,7 +1,7 @@
 ---
 title: Corrective Actions to Tackle Absence of Windows Logins
-date: 2024-08-15T15:10:32.910Z
-updated: 2024-08-16T15:10:32.910Z
+date: 2025-01-12T20:19:38.422Z
+updated: 2025-01-16T04:19:39.606Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/46562a4985b29bb04ac045f40f195ad5a81e8c6a7
 
  Here are a few troubleshooting steps you can try to restore the missing or stuck sign-in screen on Windows 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Causes the Stuck or Missing Login Screen on Windows 11?
 
  If you are running Windows 11 build 22000.4 or newer, the stuck login screen could be due to a known bug. In this case, the issue is triggered when the PC wakes up from Sleep or Hibernation. Installing a pending Windows update may resolve this issue.
@@ -35,23 +39,18 @@ thumbnail: https://thmb.techidaily.com/46562a4985b29bb04ac045f40f195ad5a81e8c6a7
 **Ctrl + Alt + Delete** is a Windows keyboard shortcut initially used to terminate unresponsive applications. However, the combo is now used differently on Windows 11\. By default, it now shows a hidden menu with multiple critical options such as Password Change, Restart, Task Manager and more. You can also easily [add or remove options from the Ctrl + Alt + Delete](https://www.makeuseof.com/windows-ctrl-alt-del-add-remove/) combo on Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Boot Into Safe Mode
 
  In safe mode, the Windows OS starts with only essential services. All the third-party services are disabled, so the admin can determine if a third-party app conflicts with the system functionality.
 
  This may also allow you to access your lock screen and sign in to perform additional troubleshooting. First, refer to our guide to [boot into safe mode in Windows 11](https://www.makeuseof.com/windows-11-boot-safe-mode/) and then apply the troubleshooting steps below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Install Pending Windows Updates
 
 ![check for windows update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/check-for-windows-update-1-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 
  Check and install all the Windows updates available on your computer. Widespread issues likely get a hotfix on a priority basis. So, check if you have any pending updates and install them to see if that fixes the issue.
 
@@ -62,11 +61,19 @@ To check and update Windows 11:
 3. Click on**Check for updates** in the top right corner. Windows will scan for available updates and list them accordingly.
 4. Click on**Download and install.** Wait for the updates to install and restart your PC to apply the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Check and Disable Ctrl + Alt + Delete Secure Sign-In
 
  Windows lets you add an extra layer of security to your computer with its interactive Secure sign-in option. When enabled, the user must press the default**Ctrl + Alt + Delete** key on the lock screen to view the sign-in screen. This helps prevent malicious tools from mimicking the sign-in screen to steal user credentials.
 
  While a handy feature, it may prevent you from accessing the sign-in screen without the keyboard combo. Check if you or other users on the computer have enabled the feature. If you find it annoying, you can easily [disable Secure sign-in with Ctrl + Alt + Delete in Windows 11](https://www.makeuseof.com/windows-11-disable-secure-sign-in/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Perform a System Restore
 
@@ -81,10 +88,12 @@ To check and update Windows 11:
 3. Next, under**Choose an option** , click on**Troubleshoot** .  
 ![Windows Recovery environment troubleshoot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-recovery-environment-troubleshoot.jpg)
 4. Next, click on**Advanced options** .  
-![WinRE-Advanced-Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/winre-advanced-options.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![WinRE-Advanced-Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/winre-advanced-options.jpg)
 5. Click on**System Restore** .  
 ![advanced option system restore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/advanced-option-system-restore.jpg)
 6. Select the most recent restore point in the**System Restore** wizard and click**Next** .
@@ -101,25 +110,16 @@ To check and update Windows 11:
 ![WinRE-Advanced-Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/winre-advanced-options.jpg)
 3. Next, click on**Advanced options.**  
 ![advanced option startup repair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/advanced-option-startup-repair.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Click on**Startup Repair.** Now it will start to diagnose your PC to find issues with the start-up.
 5. Next, select a user account and enter the password.
 6. Click**Continue** to begin Startup repair. This process may take some time, so wait till it is complete.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Disable the Lock Screen
 
  If the issue occurs after waking your computer from sleep or hibernation, it is likely a Windows glitch that needs fixing. As a temporary measure, you can disable your lock screen completely to prevent the glitch from occurring.
 
  Leaving your computer without a lock screen will make it vulnerable to spoofing and data theft. However, if you are a single user, you can disable the lock screen temporarily until a permanent fix is found. You can [disable the lock screen on Windows 11](https://www.makeuseof.com/disable-lock-screen-windows-11/) using Registry Editor, Group Policy Editor, and a third-party system tweaker.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fixing the No Login Screen Issue on Windows 11
 
  Most often, the missing lock screen problem on Windows 11 is due to a temporary glitch. First, use the Ctrl + Alt + Delete combo to see if that shows the lock screen. If not, press and hold the power button to perform a forced shutdown and then restart your PC to see if the issue is resolved.
@@ -132,8 +132,6 @@ To check and update Windows 11:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,6 +139,18 @@ To check and update Windows 11:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-key-tools-selecting-best-6-fb-lite-videos/"><u>[New] Key Tools Selecting Best 6 FB Lite Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/cutting-edge-vector-design-the-most-popular-apps-reviewed-for-2024/"><u>Cutting-Edge Vector Design The Most Popular Apps Reviewed for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/elden-ring-black-display-during-boot-up-heres-how-to-resolve-it/"><u>Elden Ring Black Display During Boot-Up? Here's How to Resolve It</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/enrich-visuals-by-adding-music-tracks/"><u>Enrich Visuals by Adding Music Tracks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expedited-removal-strategies-for-ssgnature-bg/"><u>In 2024, Expedited Removal Strategies for Ssgnature BG</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-quick-swivel-techniques-vlcs-video-flipping-mastery/"><u>In 2024, Quick-Swivel Techniques VLC's Video Flipping Mastery</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-10-and-11-fixing-isdonedll-errors/"><u>Mastering Windows 10 & 11: Fixing ISDone.dll Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-the-office-activation-barrier/"><u>Overcoming the Office Activation Barrier</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-missing-d3dx939-dll-in-win11-os/"><u>Tackling Missing D3DX9_39 DLL in Win11 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleashing-the-potential-of-dism-on-windows-11-systems/"><u>Unleashing the Potential of Dism on Windows 11 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-potential-ms-store-apps-that-elevate-experience/"><u>Unlock Potential: MS Store Apps That Elevate Experience</u></a></li>
+</ul></div>
 

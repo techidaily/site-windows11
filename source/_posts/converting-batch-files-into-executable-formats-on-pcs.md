@@ -1,7 +1,7 @@
 ---
 title: Converting Batch Files Into Executable Formats on PCs
-date: 2024-08-15T15:10:44.844Z
-updated: 2024-08-16T15:10:44.844Z
+date: 2025-01-15T08:07:05.764Z
+updated: 2025-01-16T08:30:56.095Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/f5404a87cd8723307a9d0e6c73b4b785c1ac7bfa8
 
  In what follows, that's precisely what we're going to cover. We’ll look at the top two ways to convert your Batch files into an EXE format, and lay out the process for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Convert Your Batch Files Into an EXE File
 
  Now, there are two broad ways to go about it. First, you can rely on a handy converter and let it convert your BAT files to EXE file. But, if you’re more of a do-it-yourself person, you can also go the manual way. Let’s dive into using the in-built Windows tool first.
@@ -34,25 +38,20 @@ To launch the IExpress app, follow the steps below:
 2. As soon as you do this, the IExpress Wizard will be launched. Choose the**Create new Self Extraction Directive (SED)** radio box from there, and click on**Next** .
 3. Pick the**Extract files** **and run an installation command** radio box from the**Package purpose** window, and click on**Next** .  
 ![iexpress wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/iexpress-wizard.JPG)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 4. Enter a name for the**Package** **title** and hit**Next** again.  
 ![package title](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/package-title.JPG)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Select**No prompt** and hit**Next** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Select**Do not display** **a license** and click on**Next** .
 7. Click on**Add** to select the batch script you want to convert, and click on the**Next** button.
 8. From the**Install Program** field, type in the following command and hit**Next** :  
 cmd /c Calculator.bat
 
 ![install program to launch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/install-program-to-launch.JPG)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 
  In our example, we're converting a Batch file that contains a simple calculator. Therefore, in the command_cmd /c Calculator.bat_ , the name of our batch file is '_Calculator.bat_ '. Since your Batch file will be likely different, make sure you change the command accordingly.
 
@@ -63,8 +62,13 @@ cmd /c Calculator.bat
  Finally, on the**Create package** page, click on**Next** again. That’s it, folks. Your EXE package will be created in a few minutes. All you’ve to do from there is to head to the destination folder and launch the file for verifying.
 
 ![create package](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/create-package.JPG)
+
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Convert Batch Files to EXE With a Converter
@@ -79,27 +83,22 @@ cmd /c Calculator.bat
 4. Finally, click on**Save** .
 
 ![bat to exe converter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/bat-to-exe-converter.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 
  Again, your Batch files should be converted into an EXE in a few minutes. Launch the .exe file, and your program should execute effortlessly.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Converting Batch Files to EXEs on Windows
 
  Converting your BAT files to .exe files doesn’t have to be complicated. While the manual method above is excellent and will do the job for you, not everyone likes (or has the time) to get their hands dirty. And this is where the automated tools come to your rescue. The tool we've suggested above, BAT to EXE Converter, is only one of many; there are many out there to pick from. So make sure you do your research and choose the one most suited to your computer.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -108,6 +107,20 @@ cmd /c Calculator.bat
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-tips-for-entering-a-friends-tiktok-live-stream/"><u>[New] In 2024, Tips for Entering a Friend's TikTok Live Stream</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-best-4k-hdtv-monitors-for-gameplay-excellence/"><u>[Updated] Best 4K HDTV Monitors for Gameplay Excellence</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/5-best-360-degree-action-cameras-for-2024/"><u>5 Best 360-Degree Action Cameras for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-the-voice-chat-not-functioning-problem-in-apex-legends/"><u>How to Resolve the 'Voice Chat Not Functioning' Problem in Apex Legends</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-asus-rog-phone-8-pro-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Asus ROG Phone 8 Pro</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-aural-artistry-the-magic-of-sound-fading/"><u>In 2024, Aural Artistry The Magic of Sound Fading</u></a></li>
+<li><a href="https://win-dash.techidaily.com/microsoft-bluetooth-support-software-free-download-and-updates-for-windows-10-11-8-and-7/"><u>Microsoft Bluetooth Support Software: Free Download and Updates for Windows 10, 11, 8 & 7</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-storage-management-4-keyways-into-windows-11-disk-settings/"><u>Optimize Storage Management: 4 Keyways Into Windows 11 Disk Settings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/real-time-streaming-with-manycam-top-tools-for-virtual-webcams-and-live-broadcasting/"><u>Real-Time Streaming with ManyCam: Top Tools for Virtual Webcams and Live Broadcasting</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-reinstall-non-loading-drivers-in-windows-11/"><u>Steps to Reinstall Non-Loading Drivers in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-device-duplication-resolve-already-used-errors-in-windows/"><u>Tackling Device Duplication: Resolve Already Used Errors in Windows</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-roadmap-to-seamless-mass-tiktok-downloads-for-2024/"><u>The Roadmap to Seamless Mass TikTok Downloads for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/transformative-strategies-to-supercharge-windows-11/"><u>Transformative Strategies to Supercharge Windows 11</u></a></li>
+</ul></div>
 

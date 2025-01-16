@@ -1,7 +1,7 @@
 ---
 title: Cool-Off Cycles in the World of Computers
-date: 2024-08-08T06:00:15.342Z
-updated: 2024-08-09T06:00:15.342Z
+date: 2025-01-11T07:01:06.370Z
+updated: 2025-01-16T01:36:41.261Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/6dd8f57eda55f51f780fa0fbffb1950bf2ad08124
 
  If you'd rather put your computer to sleep than shut it down, there are several ways to do that. Let's explore all the different ways to make your Windows computer fall asleep.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## 1\. Putting a Windows PC to Sleep via the Start Menu
 
  The most well-known method to put a Windows computer to sleep is through the Start menu. Here are the steps for the same.
@@ -30,18 +27,6 @@ thumbnail: https://thmb.techidaily.com/6dd8f57eda55f51f780fa0fbffb1950bf2ad08124
 1. Click the**Start icon** on the taskbar or press the**Win key** to open the Start menu.
 2. Click the**Power icon** in the bottom right corner.
 3. Select**Sleep** from the menu that appears.  
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Put Windows Computer to Sleep From Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/put-windows-computer-to-sleep-from-start-menu.jpg)
 
  Can’t find the sleep option in the Start menu? Check our guide on [how to restore a missing Sleep option on Windows](https://www.makeuseof.com/windows-10-fix-mising-sleep-option/) .
@@ -52,10 +37,11 @@ thumbnail: https://thmb.techidaily.com/6dd8f57eda55f51f780fa0fbffb1950bf2ad08124
 
 1. Right-click the**Start icon** on the taskbar or use the**Win + X** keyboard shortcut to open the Power User menu.
 2. Select**Shut down or sign out > Sleep** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Put Windows Computer to Sleep From Power User Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/put-windows-computer-to-sleep-from-power-user-menu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Using the Sleep Key on Your Keyboard
 
@@ -75,7 +61,15 @@ thumbnail: https://thmb.techidaily.com/6dd8f57eda55f51f780fa0fbffb1950bf2ad08124
 6. Click the**Save changes** button at the bottom.  
 ![Put Windows Computer to Sleep Using Power Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/put-windows-computer-to-sleep-using-power-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, when you press the physical Power button on your machine, your PC will fall asleep instantly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Use the Ctrl + Alt + Delete Menu
 
@@ -84,9 +78,6 @@ thumbnail: https://thmb.techidaily.com/6dd8f57eda55f51f780fa0fbffb1950bf2ad08124
 1. Press**Ctrl + Alt + Delete** on your keyboard to open the options screen.
 2. Click the**Power icon** in the bottom right corner and select**Sleep** from the list.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ## 6\. Use the Alt + F4 Keyboard Shortcut
 
  The Shut Down Windows dialog makes it simple to shut down or restart your Windows computer. But did you know you could also use it to put your computer to sleep? We’ll show you how.
@@ -96,9 +87,6 @@ thumbnail: https://thmb.techidaily.com/6dd8f57eda55f51f780fa0fbffb1950bf2ad08124
 3. Use the drop-down menu to select**Sleep** and hit**OK** .  
 ![Put Windows Computer to Sleep Using Shut Down Windows Dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/put-windows-computer-to-sleep-using-shut-down-windows-dialog.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Use the Command Prompt or PowerShell
 
  Another way to put your Windows computer to sleep is via a command-line utility. For this to work, you’ll need to disable hibernation mode on your computer. Here’s how to do that.
@@ -112,16 +100,10 @@ thumbnail: https://thmb.techidaily.com/6dd8f57eda55f51f780fa0fbffb1950bf2ad08124
 
 `rundll32.exe powrprof.dll, SetSuspendState Sleep`
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Put Windows Computer to Sleep Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/put-windows-computer-to-sleep-using-command-prompt.jpg)
 
 As soon as you run the above command, your PC will enter sleep mode.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Set Up Automatic Sleep Mode on Windows
 
  You can also configure your Windows computer to enter sleep mode automatically after a certain period of inactivity. Here are the steps for the same.
@@ -131,6 +113,14 @@ As soon as you run the above command, your PC will enter sleep mode.
 3. Click the downward arrow next to**Screen and sleep** .
 4. Click the drop-down menu beside**On battery power, put my device to sleep after** , and**When plugged in, put my device to sleep after** to select a time period after which Windows should fall asleep.  
 ![Power and Battery Settings in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/power-and-battery-settings-in-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Create a Desktop Shortcut to Put Windows to Sleep
 
@@ -142,14 +132,15 @@ As soon as you run the above command, your PC will enter sleep mode.
 2. In the Create Shortcut window, type the following command in the text field and hit**Next** .  
 `rundll32.exe powrprof.dll,SetSuspendState 0,1,0`
 3. Enter a suitable name for your shortcut and click on**Finish** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![Create Sleep Shortcut in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-sleep-shortcut-in-windows.jpg)
 
  Now when you double-click on that shortcut, your computer will enter sleep mode.
 
  Conveniently, you can also put your computer to sleep with a keyboard shortcut. If you're interested in doing that, check our guide on [how to shut down or sleep Windows with a keyboard shortcut](https://www.makeuseof.com/tag/how-to-shutdown-or-sleep-windows-10-with-a-keyboard-shortcut/) and follow the steps outlined there.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Many Ways to Put a Windows Computer to Sleep
 
@@ -157,14 +148,11 @@ As soon as you run the above command, your PC will enter sleep mode.
 
  That said, putting your Windows computer to sleep may not always be the best option. Sometimes it's better to completely shut down your computer, especially if you're not going to use it for an extended period of time.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -173,6 +161,21 @@ As soon as you run the above command, your PC will enter sleep mode.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-transformative-video-editing-master-the-art-of-ken-burns-in-camtasa-9/"><u>[Updated] 2024 Approved Transformative Video Editing Master the Art of Ken Burns in Camtasa 9</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-understanding-how-youtube-processes-videos-after-they-are-uploaded/"><u>[Updated] 2024 Approved Understanding How YouTube Processes Videos After They Are Uploaded</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/enhanced-reading-experience-with-the-2018-amazon-kindle-paperwhite-a-comprehensive-guide/"><u>Enhanced Reading Experience with the 2018 Amazon Kindle Paperwhite - A Comprehensive Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-merge-folders-and-files-in-windows-11-and-11/"><u>How to Merge Folders and Files in Windows 11 and 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-take-apart-an-xbox-360-slim-for-repairs-and-modifications/"><u>How to Take Apart an Xbox 360 Slim for Repairs and Modifications</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-itel-s23-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Itel S23 FRP Bypass</u></a></li>
+<li><a href="https://facebook.techidaily.com/mastering-social-media-account-exploration/"><u>Mastering Social Media Account Exploration</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfect-light-settings-on-windows-screens-with-best-brightools/"><u>Perfect Light Settings on Windows Screens with Best BrighTools</u></a></li>
+<li><a href="https://windows11.techidaily.com/resetting-error-with-windows-shadow-copy-service/"><u>Resetting Error with Windows' Shadow Copy Service</u></a></li>
+<li><a href="https://windows11.techidaily.com/setting-up-a-safe-workspace-windows-sandbox-11/"><u>Setting Up a Safe Workspace: Windows Sandbox 11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-youtube-yield-comparing-channels-for-peak-performance-for-2024/"><u>The YouTube Yield Comparing Channels for Peak Performance for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/turbo-valorant-setup-escape-the-01kbs-download-drought/"><u>Turbo Valorant Setup: Escape the 0.1KB/S Download Drought</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-mystery-of-error-code-80080300-with-microsoft-teams/"><u>Unraveling the Mystery of Error Code 80080300 with Microsoft Teams</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/xtube-content-saver-effortless-downloading-and-conversion-to-popular-file-types-mp4-avi-wmv-mov/"><u>XTube Content Saver: Effortless Downloading & Conversion to Popular File Types (MP4, AVI, WMV, MOV)</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Decades of Taskbars: Windows' Journey (1985–2023)"
-date: 2024-08-08T06:00:03.536Z
-updated: 2024-08-09T06:00:03.536Z
+date: 2025-01-10T01:20:59.070Z
+updated: 2025-01-16T04:55:23.302Z
 tags:
   - windows10
   - windows11
@@ -20,22 +20,20 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
 
  The taskbar has been a part and parcel of Windows for more than 25 years, and over that time period, Microsoft has added and removed features to and from the taskbar. This is the history of the Windows taskbar from its inception up to 2023\.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Early Days of Windows: Before the Taskbar
 
  The taskbar did not exist in the early Windows 1.0, 2.0, and 3.0 platforms released from 1985-1992\.
 
  However, Windows 1.0 and 2.0 did include a bar on which users could minimize multiple running programs by double-clicking their title bars. Each program on that bar had an icon to click on, a bit more like the taskbar from Windows 7 onward. That bar can be considered the forerunner to the Windows taskbar.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The program bar in Windows 1.0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-1.jpg)
 
  However, it didn’t include a Start menu or system tray area and wasn’t even present in Windows 3.0\. Program windows minimized to the desktop background area in Windows 3.0\.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Windows 95: The Introduction of the Taskbar
 
  Daniel Oran, a former Microsoft interface designer, is credited with inventing the taskbar and Start menu in 1993\. He suggested Microsoft add a Start menu button to Windows 95 that users could access from a new taskbar. This would make it easier to access everything from a central system menu.
@@ -45,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
  The first true taskbar in Windows 95 laid the foundations for the future with a **Start** button, system tray area, and permanent clock. However, it was still somewhat different from the Windows 10 and 11 taskbars most users are familiar with today. Windows 95’s taskbar was grey and had rectangular minimized windows with program title labels.
 
 ![The Windows 95 taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-95-taskbar.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The original Windows 95 version didn’t have a Quick Launch area. However, a Quick Launch area was on later versions of that OS. This was an area of the taskbar on which users could add program shortcuts. It also included a **Show Desktop** button and Internet Explorer icon.
 
@@ -56,20 +58,22 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
 
 ![The Windows XP taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-xp-taskbar.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Windows XP’s taskbar was the first to have grouped windows. This feature enabled the grouping of multiple open windows from the same application on the taskbar. Users could click to view different windows from the same taskbar app windows.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Windows Vista: The Introduction of Window Previews
 
  Vista didn’t go down a storm with new users during its 2007 release year. However, its taskbar did have one welcome new feature that’s remained a part of Windows ever since. Vista’s new taskbar thumbnails enabled users to view small previews of a window’s contents by hovering their cursors over its taskbar icon.
 
  Windows Vista’s taskbar was also the first to include a **Start** button with no label text. Instead, it was just a circulator button with a Windows logo. The removal of the “Start” label reduced the button’s width and freed up a bit more taskbar space.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Windows Vista taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-vista-taskbar.jpg)
 
 ## Windows 7: Another Taskbar Overhaul From Microsoft
@@ -80,9 +84,6 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
 
  The Windows 7 taskbar also introduced a new Jump List feature. This feature enabled users to access recently opened files or webpages for an app minimized to the taskbar from its window’s Jump List menu. Users could also pin files or webpages to Jump Lists for regular access.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![A Jump List in Windows 7](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/jump-list-in-windows-7.jpg)
 
  Microsoft also swapped the **Show Desktop** button from the Quick Launch area with an Aero Peek alternative at the far right of the taskbar. Clicking the **Aero Peek** button minimizes all windows to the taskbar. Hovering the cursor over that button enables users to view the desktop area without minimizing anything.
@@ -94,18 +95,15 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
  However, the removal of the taskbar’s **Start** button generally didn’t go down well with users. Microsoft later released a Windows 8.1 upgrade that restored a new-style taskbar **Start** button for accessing the Start screen. That wasn’t enough to save Windows 8 though, and the OS never recovered.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Windows 10: The Introduction of New Taskbar Icons
 
  Microsoft added buttons for new features to Windows 10’s taskbar. The Windows Cortana virtual assistant was originally tied to the Windows Search tool. However, Microsoft separated the search tool from Cortana in later Windows 10 versions.
 
  Consequently, Windows 10’s taskbar became the first to include a **Type here to search** (magnifying glass) button on it for accessing the search box, which isn’t available through the Start menu.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![The Type here to search button in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/type-here-to-search-button.jpg)
 
  Task View was another notable new Windows 10 taskbar feature. Clicking the **Task View** taskbar button brings up virtual desktop options. You can also access file and Edge webpage shortcuts from Task View’s timeline.
@@ -127,15 +125,14 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
  The taskbar’s right-click menu has been considerably trimmed down in Microsoft's latest desktop OS, leaving it without many options previously available.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Where Would Windows Be Without Its Taskbar?
 
  It’s hard to imagine what Windows would be like without the taskbar, which in some respects is even more important than the Start menu. The introduction of the taskbar and its connected Start menu in 1995 transformed the Windows OS. It has been the always-visible user interface feature of Windows ever since for software multitasking, accessing important OS features and apps, and checking the date and time.
 
  The taskbar has been a part and parcel of Windows for more than 25 years, and over that time period, Microsoft has added and removed features to and from the taskbar. This is the history of the Windows taskbar from its inception up to 2023\.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -143,4 +140,24 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-pcs-gateway-to-the-past-selecting-top-5-ps1-game-emulators/"><u>[Updated] PC's Gateway to the Past - Selecting Top 5 PS1 Game Emulators</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-zte-nubia-flip-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-transformative-techniques-to-enhance-your-powerpoint-recordings/"><u>2024 Approved Transformative Techniques to Enhance Your PowerPoint Recordings</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/decoding-fbs-interface-how-to-find-just-watched-content/"><u>Decoding FB's Interface How To Find Just-Watched Content</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/pted-beats-best-mobile-music-distortors/"><u>Disrupted Beats Best Mobile Music Distortors</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-disconnections-in-external-display-setup-on-windows/"><u>Fixing Disconnections in External Display Setup on Windows</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-infinix-hot-40-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Infinix Hot 40 Pro Lock Screen Password</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-vivo-y100i-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Vivo Y100i to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/open-windows-11s-memory-lane-file-history-guide/"><u>Open Windows 11'S Memory Lane - File History Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/reactive-steps-for-faulty-windows-performance-tracking-tool/"><u>Reactive Steps for Faulty Windows Performance Tracking Tool</u></a></li>
+<li><a href="https://windows11.techidaily.com/securing-smooth-os-operation-via-pct-steps/"><u>Securing Smooth OS Operation via PCT Steps</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-speedy-windows-11-boot-turn-on-quick-startup/"><u>Tips for Speedy Windows 11 Boot: Turn on Quick Startup</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-10-no-cost-pc-and-web-ogv-file-transformation-tools/"><u>Top 10 No-Cost PC and Web OGV File Transformation Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/unplugging-and-plugging-in-your-wireless-mouse-quick-fixes/"><u>Unplugging and Plugging In Your Wireless Mouse - Quick Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-windows-11-writability-creating-self-extractables/"><u>Unraveling Windows 11' Writability: Creating Self-Extractables</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/video-platform-economics-a-tale-of-two-titles-income-potentials-for-2024/"><u>Video Platform Economics A Tale of Two Titles' Income Potentials for 2024</u></a></li>
+</ul></div>
 

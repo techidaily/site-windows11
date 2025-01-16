@@ -1,7 +1,7 @@
 ---
 title: Strategies to Mend Windows 11 Assistive Tool
-date: 2025-01-05T22:48:10.638Z
-updated: 2025-01-10T16:33:18.593Z
+date: 2025-01-11T23:50:02.650Z
+updated: 2025-01-16T08:36:49.539Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Begin With Some General Fixes
 
  Here are some quick tips on how to fix the Get Help app not working issues quickly:
@@ -32,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 * **Restart the Get Help app:**[Open the Task Manager](https://www.makeuseof.com/how-to-access-task-manager-on-windows-11/) and right-click on the Get Help app. Then click on **End task** and start the app again. This simple trick effectively addresses temporary glitches within the application.  
 ![Get Help End Task Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-end-task-option.jpg)
 * **Reboot your computer:** Rebooting a computer often resolves many problems by clearing your system's memory and terminating problematic processes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * **Update your Windows version:** Older versions of Windows may contain bugs that may prevent the Get Help app from functioning correctly. So, always [ensure your Windows version is up-to-date](https://www.makeuseof.com/update-windows-manually/).
 
@@ -55,15 +55,7 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 ![Get Help In Installed Apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-in-installed-apps.jpg)
 4. Now, scroll to the bottom and click **Repair**. If the repair fails, you can use the **Reset** option.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Get Help Repair Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-repair-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Here's the best part: This process isn't exclusive to the Get Help app. So, you can also apply the above steps to other malfunctioning Windows apps
 
@@ -78,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 * Contacting your Internet Service Provider (ISP) to inquire about potential network maintenance.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Disable VPN or Proxy Temporarily
@@ -90,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 1. Type **VPN settings** in Windows Search and select **Open** next to the search result.  
 ![VPN Settings Search Results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/vpn-settings-search-results.jpg)
 2. Choose the **Disconnect** button to turn off the VPN.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Similarly, you must [temporarily disable your proxy](https://www.makeuseof.com/windows-11-disable-proxy/) to troubleshoot the cause of your Get Help failing to work.
 
@@ -125,13 +121,13 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 ![Microsoft Edge Developer Site Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/microsoft-edge-developer-site-screenshot.jpg)
 3. Once you download the setup file, run it and follow the instructions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. After installing the Microsoft Edge WebView2 Runtime, check if the Get Help app functions correctly.
 
  If you see an error saying "**Setup failed**," "please re-download the correct version again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Uninstall and Reinstall the Get Help App
 
@@ -141,10 +137,14 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 
 ![Get Help In Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-in-store.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  A fresh installation should resolve all the issues with the app. And now, you can go back to troubleshooting without any hassle.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## No More Blank Screen in the Get Help App
@@ -165,18 +165,24 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-ringtone-archive-iphone-2024-edition/"><u>[New] Ringtone Archive IPhone 2024 Edition</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-from-twitter-to-facebook-sending-your-tweets/"><u>[Updated] From Twitter to Facebook Sending Your Tweets</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-maximize-impact-strategies-for-uploading-4k-content-on-youtube/"><u>[Updated] Maximize Impact Strategies for Uploading 4K Content on Youtube</u></a></li>
-<li><a href="https://windows11.techidaily.com/affordable-and-durable-storage-solutions-below-100/"><u>Affordable and Durable Storage Solutions Below $100</u></a></li>
-<li><a href="https://windows11.techidaily.com/ai-enhanced-microsoft-teams-transforming-your-virtual-background-easily/"><u>AI-Enhanced Microsoft Teams: Transforming Your Virtual Background Easily</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/e-a-short-form-video-star-with-these-10-proven-methods-for-2024/"><u>Become a Short-Form Video Star with These 10 Proven Methods for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/create-an-eye-catching-custom-windows-desktop-with-rainmeter-tips/"><u>Create an Eye-Catching Custom Windows Desktop with Rainmeter Tips</u></a></li>
-<li><a href="https://windows11.techidaily.com/discover-improved-voice-modulation-in-the-latest-version-of-microsoft-clipchamp/"><u>Discover Improved Voice Modulation in the Latest Version of Microsoft Clipchamp</u></a></li>
-<li><a href="https://windows11.techidaily.com/ease-system-overload-in-your-linux-vmware-by-regaining-lost-storage-capacity-quickly/"><u>Ease System Overload in Your Linux Vmware by Regaining Lost Storage Capacity Quickly</u></a></li>
-<li><a href="https://windows11.techidaily.com/effective-strategies-to-address-and-correct-dpc-watchdog-errors-in-windows-10-systems/"><u>Effective Strategies to Address and Correct DPC Watchdog Errors in Windows 10 Systems</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/insta-tiktik-mastery-uniting-two-social-giants-for-2024/"><u>Insta-TikTik Mastery Uniting Two Social Giants for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-to-integrating-videoclips-with-windows-movie-maker-on-pc/"><u>Step-by-Step Guide to Integrating Videoclips with Windows Movie Maker on PC</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-step-by-step-approach-to-personalizing-your-phones-alerts/"><u>The Step-By-Step Approach to Personalizing Your Phone's Alerts</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-pricing-guide-to-film-a-bands-music-visual/"><u>[New] 2024 Approved Pricing Guide to Film a Band's Music Visual</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-choosing-your-game-capture-tool-obsshadowplay-for-2024/"><u>[New] Choosing Your Game Capture Tool OBS/ShadowPlay for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-filming-flexibility-talent-distribution-license/"><u>[New] Filming Flexibility Talent Distribution License</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-from-concept-to-delivery-using-luts-with-adobe-ae-for-2024/"><u>[New] From Concept to Delivery Using LUTs with Adobe AE for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-enhance-photos-with-our-best-grid-app-list/"><u>2024 Approved Enhance Photos with Our Best Grid App List</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-streamline-your-internet-use-with-these-5-chromium-addons-for-vids/"><u>2024 Approved Streamline Your Internet Use With These 5 Chromium Addons for Vids</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-superior-online-emporiums-where-boxes-reflect-your-style/"><u>2024 Approved Superior Online Emporiums Where Boxes Reflect Your Style</u></a></li>
+<li><a href="https://windows11.techidaily.com/beat-the-blank-screen-blues-faster-input-in-windows-11/"><u>Beat the Blank Screen Blues: Faster Input in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/breaking-down-barriers-to-maximize-windows-ram/"><u>Breaking Down Barriers to Maximize Windows' RAM</u></a></li>
+<li><a href="https://windows11.techidaily.com/brighten-control-navigating-windows-11-display-settings/"><u>Brighten Control: Navigating Windows 11 Display Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabling-chromiums-firewall-connection-within-windows-safeguards/"><u>Enabling Chromium's Firewall Connection Within Windows Safeguards</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-unleash-creativity-a-comprehensive-guide-to-instagrams-gif-features/"><u>In 2024, Unleash Creativity A Comprehensive Guide to Instagram's GIF Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-powershell-script-execution-policy-landscape/"><u>Navigating the PowerShell Script Execution Policy Landscape</u></a></li>
+<li><a href="https://windows11.techidaily.com/no-more-frustration-quick-fixes-for-windows-11-woes/"><u>No More Frustration! Quick Fixes for Windows 11 Woes</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-reclaiming-standard-windows-11-search-preferences/"><u>Step-by-Step: Reclaiming Standard Windows 11 Search Preferences</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-restore-fn-key-brighness-in-windows-11/"><u>Steps to Restore Fn Key Brighness in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-top-9-truths-about-why-pc-computers-win-over-macos-9/"><u>The Top 9 Truths About Why PC Computers Win over MacOS (#9)</u></a></li>
+<li><a href="https://win-hot.techidaily.com/ultimate-guide-to-doing-a-complete-reboot-of-iphone-models-15-through-12/"><u>Ultimate Guide to Doing a Complete Reboot of iPhone Models 15 Through 12</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unlocking-mac-secrets-a-complete-guide-on-how-to-encrypt-decrypt-and-recover-hdrive/"><u>Unlocking Mac Secrets: A Complete Guide on How to Encrypt, Decrypt & Recover HDrive</u></a></li>
 </ul></div>
 

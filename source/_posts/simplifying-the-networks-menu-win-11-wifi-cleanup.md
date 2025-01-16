@@ -1,7 +1,7 @@
 ---
 title: "Simplifying the Networks Menu: Win 11 Wifi Cleanup"
-date: 2025-01-09T17:12:42.846Z
-updated: 2025-01-10T21:09:17.246Z
+date: 2025-01-14T15:17:09.859Z
+updated: 2025-01-16T09:53:38.576Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/34898e0ebb1abca68099d2acba8fac3a4c33b8787
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Benefits of Removing Old Wi-Fi Networks From Windows 11
 
  While having a long list of saved Wi-Fi networks isn’t necessarily a bad thing, there may be times when you want to remove specific Wi-Fi networks from your PC.
@@ -34,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/34898e0ebb1abca68099d2acba8fac3a4c33b8787
  Over time, your PC may accumulate a long list of Wi-Fi networks that you won't be connecting to. In such cases, it makes sense to remove old and unused Wi-Fi networks from your PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Remove a Saved Wi-Fi Network Using the Quick Settings Panel
@@ -44,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/34898e0ebb1abca68099d2acba8fac3a4c33b8787
  Press**Win + A** to open the Quick Settings panel. Click the sideways-facing arrow next to the**Wi-Fi** button. You'll see a list of Wi-Fi networks, including the one to which you're currently connected. Right-click on the network you want to remove and select**Forget** .
 
 ![Remove Wi-Fi Network From Quick Settings Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Remove-Wi-Fi-Network-From-Quick-Settings-Panel.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Like using the Quick Settings on Windows? Check out[how to customize the Quick Settings panel on your Windows 11 computer](http://www.makeuseof.com/windows-11-customize-quick-settings-menu/) .
 
@@ -58,6 +66,10 @@ To forget a Wi-Fi network via the Settings app:
 3. Click on**Manage known networks** .
 4. Click the**Forget** button next to a network to delete it.  
 ![Remove Wi-Fi Network on Windows From the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Remove-Wi-Fi-Network-on-Windows-From-the-Settings-App.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  And that's about it. Once you click the**Forget** button, Windows will remove the network profile associated with that network.
 
@@ -75,17 +87,9 @@ To forget a Wi-Fi network via the Settings app:
 `netsh wlan delete profile name="WIFIName"`  
 ![Delete a Saved Wi-Fi Profile Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Delete-a-Saved-Wi-Fi-Profile-Using-Command-Prompt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can repeat the above command to remove as many networks as you want. Conveniently, the command-line tool also lets you remove all the saved Wi-Fi networks at once. To do so, use this command:
 
 `netsh wlan delete profile name=* i=*`
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Remove a Saved Wi-Fi Network Using Registry Editor
 
@@ -107,10 +111,6 @@ To remove a Wi-Fi network using the Registry Editor:
 
  Once you complete the above steps, the saved profile will be removed from your system.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Reconnect to a Forgotten Wi-Fi Network on Windows 11
 
  You can always reconnect to a Wi-Fi network later after forgetting it. For that, you'll need to manually select the network and enter the password for authentication.
@@ -120,7 +120,7 @@ To remove a Wi-Fi network using the Registry Editor:
 ![Connect to a Wi-Fi Network Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Connect-to-a-Wi-Fi-Network-Windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Of course, this isn't the only way to connect to a Wi-Fi network on Windows. Refer to our guide on[different ways to connect to Wi-Fi on Windows](https://www.makeuseof.com/windows-ways-to-connect-to-wifi/) to learn more.
@@ -146,22 +146,18 @@ To remove a Wi-Fi network using the Registry Editor:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-check-your-youtube-channels-for-accurate-monetization-practices/"><u>[New] In 2024, Check Your YouTube Channels for Accurate Monetization Practices</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-visualize-your-story-with-top-snapchat-augments/"><u>[New] In 2024, Visualize Your Story with Top Snapchat Augments</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/he-dynamics-behind-tseries-youtube-earning-patterns-for-2024/"><u>[New] The Dynamics Behind TSeries' YouTube Earning Patterns for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/8-proven-solutions-for-stable-multiversus-gameplay-no-more-crashes/"><u>8 Proven Solutions for Stable MultiVersus Gameplay - No More Crashes</u></a></li>
-<li><a href="https://facebook.techidaily.com/digital-deadline-popular-apps-gone-offline/"><u>Digital Deadline: Popular Apps Gone Offline</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/elite-screen-recording-apps-of-2023-expert-picks/"><u>Elite Screen Recording Apps of 2023 - Expert Picks</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-google-pixel-7a-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Google Pixel 7a Pattern Lock Screen</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamlessly-downloading-pictures-from-icloud-onto-various-devices-comprehensive-instructions/"><u>Seamlessly Downloading Pictures From iCloud Onto Various Devices: Comprehensive Instructions</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-guide-accessing-windows-1/"><u>Step-by-Step Guide: Accessing Windows 1</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-tutorial-on-integrating-your-pc-with-a-tv-display/"><u>Step-by-Step Tutorial on Integrating Your PC with a TV Display</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-tutorial-activating-and-deactivating-secure-login-in-windows-11/"><u>Step-by-Step Tutorial: Activating and Deactivating Secure Login in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-access-how-windows-subsystem-for-linux-is-becoming-more-user-friendly/"><u>Streamlining Access: How Windows Subsystem for Linux Is Becoming More User-Friendly</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/stunning-dark-meta-knight-designs-and-decor-high-quality-wallpaper-selection-by-yl-computing/"><u>Stunning Dark Meta Knight Designs & Decor: High-Quality Wallpaper Selection by YL Computing</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-4-cost-free-applications-for-monitoring-and-optimizing-your-windows-pcs-storage/"><u>Top 4 Cost-Free Applications for Monitoring and Optimizing Your Windows PC's Storage</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-essential-windows-applications-the-must-have-software-tools-and-their-importance/"><u>Top Essential Windows Applications: The Must-Have Software Tools & Their Importance</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-windows-10-built-in-apps-crashing-issues/"><u>Troubleshooting Windows 10 Built-In Apps Crashing Issues</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-cutting-edge-video-editing-on-mac-the-top-software-of/"><u>Updated Cutting-Edge Video Editing on Mac The Top Software Of</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-5-essential-strategies-for-successful-twitch-livestreaming/"><u>[New] 2024 Approved 5 Essential Strategies for Successful Twitch Livestreaming</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-edge-elimination-explained-imovie-clipping-reasons/"><u>[New] In 2024, Edge Elimination Explained IMovie Clipping Reasons</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-step-by-step-crafting-memes-with-kinemaster/"><u>[Updated] Step-by-Step Crafting Memes with KineMaster</u></a></li>
+<li><a href="https://windows11.techidaily.com/boost-workflow-efficiency-mastering-flow-launcher/"><u>Boost Workflow Efficiency: Mastering Flow Launcher</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-reset-nubia-red-magic-8s-pro-phone-screen-passcode-pattern-pin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset Nubia Red Magic 8S Pro Phone Screen Passcode/Pattern/Pin</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-samsung-galaxy-a25-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Samsung Galaxy A25 5G</u></a></li>
+<li><a href="https://extra-information.techidaily.com/hasty-yet-stunning-the-quick-path-to-perfect-collage-pics/"><u>Hasty, Yet Stunning The Quick Path to Perfect Collage Pics</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-repair-unresponsive-zoom-cameras-efficiently/"><u>How to Repair Unresponsive Zoom Cameras Efficiently</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-maze-of-directdraw-fixes-on-modern-microsoft-oses/"><u>Navigating the Maze of DirectDraw Fixes on Modern Microsoft OSes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/no-need-to-panic-solve-black-windows-issues-fast/"><u>No Need to Panic - Solve Black Windows Issues Fast</u></a></li>
+<li><a href="https://windows11.techidaily.com/quash-insufficient-requirement-notice-windows-11/"><u>Quash Insufficient Requirement Notice Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-network-path-with-fixed-ea-server-error-in-os/"><u>Restoring Network Path with Fixed EA Server Error in OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/taming-the-walls-of-windows-icons/"><u>Taming the Walls of Windows Icons</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Detailed Steps to Fully Remove WSL
-date: 2024-08-15T15:11:05.903Z
-updated: 2024-08-16T15:11:05.903Z
+date: 2025-01-09T06:24:33.207Z
+updated: 2025-01-16T08:54:33.992Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/c9b8fd1733901244b30160c420a56660fbc286946
 
  Here are the steps you need to follow to completely remove WSL from your Windows PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Uninstall Windows Subsystem for Linux?
 
  WSL is a very handy tool that allows you to easily run Linux distros in a virtual environment on your Windows computer. Although it doesn't have much impact on storage space, if you have no interest in using Linux, there's no need to have it installed.
@@ -27,8 +31,9 @@ thumbnail: https://thmb.techidaily.com/c9b8fd1733901244b30160c420a56660fbc286946
  There are also [good alternatives to WSL](https://www.makeuseof.com/dont-need-microsoft-windows-subsystem-for-linux/) for running Linux available, and you might decide to use one of those instead of the Microsoft solution. Not only would you not need WSL, but there is also a slight risk of conflict between the Windows Subsystem and your alternative choice.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Remove All Installed Linux Distros on Windows
 
  This step won't be relevant to everyone, but if you have installed any Linux distros, you should remove them first. This helps to ensure that no files associated with the Linux installations remain on your computer when you uninstall WSL.
@@ -37,13 +42,18 @@ thumbnail: https://thmb.techidaily.com/c9b8fd1733901244b30160c420a56660fbc286946
 2. Uninstall each of the Linux Distros, such as Ubuntu, in exactly the same way you would [uninstall any other Windows app](https://www.makeuseof.com/ways-to-uninstall-apps-windows-11/).
 
 ![Ubuntu in the Windows 11 apps list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/wsl-remove.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the computer came to you with the apps already installed, you might not know what is or isn't a Linux distribution. Here are some of the [most common Linux distros](https://www.makeuseof.com/linux-distros-for-beginners-intermediate-and-advanced-users/), but you can also simply do a Google search for the name of the app you are unsure about.
 
  When all versions of Linux have been uninstalled, you can move on to the next step in the process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Uninstall the WSL Components
 
@@ -52,15 +62,9 @@ thumbnail: https://thmb.techidaily.com/c9b8fd1733901244b30160c420a56660fbc286946
  Go to **Settings > Apps > Apps & Features**. Scroll down to the bottom of your apps list to find Windows Subsystem for Linux. Click the **More** button and select **Uninstall**. On Windows 10, click on the app name and then click **Uninstall**.
 
 ![Uninstalling WSL components in Windows settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/wsl-components.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  If you see any additional WSL components, such as the WSL update or WSLg Preview, uninstall these in the same way.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Uninstall WSL and Virtual Machine Platform
 
  The final part of the process is to uninstall the WSL core files and disable the option in the Windows Optional Features panel.
@@ -71,15 +75,13 @@ thumbnail: https://thmb.techidaily.com/c9b8fd1733901244b30160c420a56660fbc286946
 4. Click **Ok**, and then restart your computer.
 
 ![Removing WSL in the Windows Features panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/wsl-core-files.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 
  WSL should now be completely removed from your computer. It will receive no automatic updates, and you won't be able to interact with it in any way. If you need it in the future, here's how to [install WSL through the Microsoft Store](https://www.makeuseof.com/install-windows-subsystem-for-windows-microsoft-store/) on a Windows PC.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Removing WSL From Your Windows PC
 
  You can install WSL on your Windows computer with a single command. Uninstalling it, if you no longer need or want it on your PC, is not quite as simple. By following the three simple steps detailed here, you can ensure that all WSL files and components are removed.
@@ -88,12 +90,31 @@ thumbnail: https://thmb.techidaily.com/c9b8fd1733901244b30160c420a56660fbc286946
 
  Here are the steps you need to follow to completely remove WSL from your Windows PC.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-green-thumbs-up-the-best-farming-titles-for-group-playtime/"><u>[New] In 2024, Green Thumbs Up The Best Farming Titles for Group Playtime</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-complete-action-camera-buying-guide-for-beginners-2023-update/"><u>[Updated] 2024 Approved Complete Action Camera Buying Guide For Beginners -2023 Update</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-effortless-techniques-crafting-youtube-shorts-images-on-the-fly/"><u>[Updated] 2024 Approved Effortless Techniques Crafting YouTube Shorts Images on the Fly</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-the-missing-setup-on-windows-nvidia-display/"><u>Fixing the Missing Setup on Windows Nvidia Display</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-11-pro-max-data-completely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 11 Pro Max Data Completely | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-adjusting-windows-11s-safety-and-security-filter/"><u>Guide: Adjusting Windows 11'S Safety & Security Filter</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-update-your-amd-radeon-graphics-card-drivers-successfully/"><u>How to Update Your AMD Radeon Graphics Card Drivers Successfully</u></a></li>
+<li><a href="https://windows11.techidaily.com/immersive-soundwaves-dolby-atmos-in-windows-1011/"><u>Immersive Soundwaves: Dolby Atmos in Windows 10/11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-aggregating-users-experiences-with-vllo/"><u>In 2024, Aggregating Users' Experiences with VLLO</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2020-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE (2020) Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-inverting-movies-with-iphone/"><u>In 2024, Step by Step Inverting Movies with iPhone</u></a></li>
+<li><a href="https://windows11.techidaily.com/make-every-day-better-with-these-6-must-have-android-apps-for-window-11/"><u>Make Every Day Better with These 6 Must-Have Android Apps for Window 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-virtualbox-install-handle-dependencies/"><u>Optimize VirtualBox Install: Handle Dependencies</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-disconnected-steam-friends-list-wins11/"><u>Reviving Disconnected Steam Friends List (Wins11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/swiftly-transform-heic-pics-to-jpeg-with-windows-11-tech/"><u>Swiftly Transform HEIC Pics to JPEG with Windows 11 Tech</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-ultimate-game-capture-kit-tools-and-methodologies/"><u>The Ultimate Game Capture Kit Tools and Methodologies</u></a></li>
+<li><a href="https://windows11.techidaily.com/triumph-in-tpm-deactivation-on-windows-11/"><u>Triumph in TPM Deactivation on Windows 11</u></a></li>
+</ul></div>
 

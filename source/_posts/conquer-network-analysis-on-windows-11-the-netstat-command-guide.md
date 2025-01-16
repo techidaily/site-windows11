@@ -1,7 +1,7 @@
 ---
 title: "Conquer Network Analysis on Windows 11: The Netstat Command Guide"
-date: 2024-08-15T15:11:03.828Z
-updated: 2024-08-16T15:11:03.828Z
+date: 2025-01-11T09:22:56.581Z
+updated: 2025-01-15T16:53:40.417Z
 tags:
   - windows10
   - windows11
@@ -40,14 +40,13 @@ thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad23
 1. Click on the **Search** button on your taskbar and search for the **Command Prompt** app.
 2. Next to the matching search result, click on **Run as administrator**. This will launch Command Prompt with advanced-user permissions.  
 ![Command Prompt In Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/command-prompt-in-windows-search.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. On the Command Prompt, type **netstat** and press **Enter**. The command, after executing, will output a list of active connections along with their status.  
-![netstat Command Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/netstat-command-output.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![netstat Command Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/netstat-command-output.jpg)
 4. If you need to share the output with a tech support team, for example, use this command to copy the results in a text file: "**netstat > Path\\FileName.txt**". In this command, **Path** is any folder's location where you want to save the file and **FileName.txt** is your exported file's name.  
 ![netstat Output Export Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/netstat-output-export-command-1.jpg)
 
@@ -56,8 +55,9 @@ thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad23
  If you're eager to learn more about other such commands, check our list of useful [Windows commands to manage your network](https://www.makeuseof.com/tag/commands-manage-wireless-networks-windows/).
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Useful Netstat Parameters for Windows Users
 
  In layman's terms, parameters mean some symbols or alphabets that allow you to modify what the netstat command displays. When you use a parameter with the "netstat -parameter" format, it helps you view detailed information about the traffic and different connections on a local area network.
@@ -70,23 +70,18 @@ thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad23
 ![netstat -b Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/netstat-b-command.jpg)
 * **netstat -e:** If you use an Ethernet connection rather than Wi-Fi, the **\-e** parameter can show you detailed Ethernet statistics, like link speed, total send/receive bytes, and some other technical statistics.  
 ![netstat -e Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/netstat-e-command.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 * **netstat -o:** Suppose you installed an application (from an untrusted website), in that case, you can check whether the application is doing something suspicious with the connection or not. This is because the **\-o** parameter shows the Process ID (PID) of every connection that you can match from the Task Manager.  
-![netstat -o Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/netstat-o-command.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![netstat -o Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/netstat-o-command.jpg)
 * **netstat -s:** This shows statistics by a protocol like packets sent/received, errors, discarded packets, etc. It's useful if you want to understand per-protocol-based bandwidth usage.  
 ![netstat -s Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/netstat-s-command.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now that you have an idea of some useful commands, try running them in the Command Prompt. Note that we recommend running Command Prompt as an administrator only as some connections are only visible with admin privileges.
@@ -94,6 +89,10 @@ thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad23
  If you don't like to enter the commands repeatedly, combine the parameters. For example, **netstat -e -s** will show you your Ethernet network details along with the per-protocol-based bandwidth usage in one view.
 
  Above all, netstat is just one command for troubleshooting. If you're interested, check the [Windows network connections tool](https://www.makeuseof.com/windows-open-network-connections-tool/) to learn about another handy tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Troubleshooting Your Networks Made Easy With Netstat
 
@@ -103,12 +102,25 @@ thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad23
 
  If all this sounds too technical to you, don't worry; we'll explain everything simply as you read further in the article. First, let's take a look at what netstat is and how to use netstat on Windows to monitor your network.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-best-concealed-vids-2023s-selective-8-software-guide-for-2024/"><u>[New] Best Concealed Vids - 2023'S Selective 8 Software Guide for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-flair-up-your-stories-and-feeds-instagrams-simplified-method-of-sharing-gifs/"><u>[New] In 2024, Flair Up Your Stories & Feeds Instagram's Simplified Method of Sharing GIFs</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-stepwise-guide-for-broadcasting-google-meet-on-youtube/"><u>2024 Approved Stepwise Guide for Broadcasting Google Meet on YouTube</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-from-fun-to-fame-comparing-the-popularity-of-tiktok-and-snaps-user-base/"><u>In 2024, From Fun to Fame Comparing the Popularity of TikTok & Snap's User Base</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-on-your-iphone-6s-plus-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock on your iPhone 6s Plus and iPad?</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-critical-error-0x0000004e-in-windows-os/"><u>Overcoming Critical Error 0X0000004E in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-and-repairing-rdp-fails-in-windows-11/"><u>Preventing and Repairing RDP Fails in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-disrupted-touchpad-interactions-on-windows-devices/"><u>Resolving Disrupted Touchpad Interactions on Windows Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-ranking-smart-thermostat-that-beats-ecobee-and-amazon-a-comprehensive-review-zdnet/"><u>Top-Ranking Smart Thermostat That Beats EcoBee & Amazon: A Comprehensive Review - ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-lsa-problem-in-windows-xpvista/"><u>Troubleshooting LSA Problem in Windows XP/Vista</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-at-your-fingertips-crafting-unique-shortcuts/"><u>Windows 11 at Your Fingertips: Crafting Unique Shortcuts</u></a></li>
+</ul></div>
 

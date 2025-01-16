@@ -1,7 +1,7 @@
 ---
 title: Customizing the Oculus Quest for Windows VR Use
-date: 2024-08-08T06:00:13.424Z
-updated: 2024-08-09T06:00:13.424Z
+date: 2025-01-09T18:31:06.131Z
+updated: 2025-01-15T19:53:58.907Z
 tags:
   - windows10
   - windows11
@@ -31,30 +31,26 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
  You’ll also need a long link cable for connecting the Oculus Quest 2 to your desktop or laptop. There is an alternative wireless Air Link option, but here we’re looking at how to connect headsets with a cable.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Download and Install the Oculus Windows Software
 
  The only other thing you’ll need aside from the VR-ready PC and Oculus Link cable is the Oculus Desktop software for Windows. Oculus Desktop is freely available software with which you can connect Oculus headsets and manage your PC VR apps in Windows 11/10\. It’s big software that consumes about 9.26 gigabytes of drive space. You can download and install the Oculus app as follows:
 
 1. Open the [Meta Quest 2](https://www.meta.com/gb/quest/setup/?utm%5Fsource=www.meta.com&utm%5Fmedium=dollyredirect) page in a browser.
 2. Click the**Download Software** option for the Oculus Quest 2.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![The Download Software option for Oculus Windows app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/download-software-option.jpg)
 3. Double-click the**OculusSetup** file once it's downloaded.
 4. Click the**Get started** and**Agree** buttons.
 5. Select**Install Now** to add Oculus to your software library.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![The Install Now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/install-now-button.jpg)
 6. You’ll be prompted to either set up an Oculus account or sign in with an existing one. Select to sign in with the account you use for your Oculus Quest 2 headset.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Set Up Oculus Link
 
  When you’ve installed the Oculus software as outlined above, you can connect your Oculus Quest 2 headset to a Windows PC. These are the steps for adding a device with the Oculus software.
@@ -62,17 +58,16 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
 1. Open the Oculus software you’ve installed by clicking its desktop shortcut or selecting it from the Start menu.
 2. Click the**Devices** tab.
 3. Select the**Add Headset** option.  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Add-Headset-option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-headset-option.jpg)
 4. Click the Oculus Quest 2 option and press the**Continue** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select**Link (Cable)** and click**Continue** .
 
 1. Then you’ll be asked to connect a headset to your PC. Plug your Oculus Link cable into a USB 2.0/3.0 slot to connect the PC to the Oculus Quest 2, and then turn on the VR headset.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Connect your Headset option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/connect-your-headset.jpg)
 2. Press**Continue** after connecting the headset.
 3. Click the**Test** button to check the connection and select**Continue** . Note that a USB 3.0 connection is recommended because of its faster data transfer rate.
@@ -81,19 +76,21 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
 6. Select the**Allow** option to allow your PC to access the data on the Oculus Quest 2\. Then you can [transfer files from the Oculus Quest 2 to your PC](https://www.makeuseof.com/transfer-files-oculus-quest-2-windows/) .  
 ![The Allow option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/allow-connected-device-to-access-files.jpg)
 7. The second prompt asks you to enable Oculus Quest Link. Select the**Enable** option.  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Enable Oculus Link prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-quest-link.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Get Into Oculus Dash on the Oculus Quest 2
 
  When you’ve enabled Quest Link in your headset, you’ll enter a new Oculus Dash home environment. That’s essentially a new user interface in which you can browse the Oculus Rift store from which to download/install apps for your Quest 2\. Press the**Store** button to bring up the Oculus Rift storefront.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![The Oculus Rift Store in Dash](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/oculus-rift-storefront.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you’ll have the Oculus Rift store at your fingertips on your Oculus Quest 2\. There you can download and install VR apps that will be stored on your PC’s hard drive. Download a freely available entertainment app from there to get started.
 
@@ -112,11 +109,12 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
 
 ![The Library button in Dash](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/library-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Oculus Dash also has a Home VR feature. That’s a customizable virtual living room you can have some fun in. There you can pick up objects and rearrange the living room as you see fit.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![A screenshot captured in Dash's Home VR feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/home-feature-sceenshot.jpg)
 
  You can access that virtual environment by pressing the**Home** button on the Dash bar. Press the**Menu** button on the left control stick to bring up the menu for customizing the environment. Then select**Inventory** to add new things to the environment from the**Base** ,**Objects** , and**Decorations** tabs on that menu.
@@ -129,6 +127,10 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
 
 ![The Disable Quest Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disable-quest-link-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Manage Your PC VR App Library from Windows
 
  You can also use the Oculus software on your Windows PC to manage your Quest 2’s Rift app library. Select the**Store** tab in the Oculus window to browse the storefront on your PC. Then you can select to download new apps from there.
@@ -137,9 +139,6 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
 
  To remove apps, click**Library** in the Oculus Windows software; select the**Apps** tab to view your library. Click the menu button for an app to select**Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-uninstall-app-option.jpg)
 
  The Oculus software also includes library location options, with which you can set the default path for installing Rift Store apps. To access those options, click**Settings** \>**General** . Then press the**Edit** button for the**Library Location** .
@@ -162,8 +161,6 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -171,6 +168,20 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-mac-acoustic-arena-deep-dive/"><u>[New] 2024 Approved Mac Acoustic Arena Deep Dive</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-vibrant-visual-photo-assemblies-for-joyful-living-for-2024/"><u>[New] Vibrant Visual Photo Assemblies for Joyful Living for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726220819094-mp3m4b-movavi/"><u>全新移動設計的在線MP3到M4B自由轉換器 - 以Movavi為名</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/choosing-the-right-sidekick-for-your-wrist-the-battle-between-googles-pixel-watch-and-apples-series-9-unveiled/"><u>Choosing the Right Sidekick for Your Wrist: The Battle Between Google's Pixel Watch 지 and Apple’s Series 9 Unveiled</u></a></li>
+<li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-iphone-15-pro-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing iPhone 15 Pro Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://win11.techidaily.com/exclude-non-critical-windows-suggestions-and-tips/"><u>Exclude Non-Critical Windows Suggestions and Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-utorrent-non-installation-on-pcs-running-windows-os/"><u>Fixing uTorrent Non-Installation on PCs Running Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-modify-microsoft-admin-for-windows-11-networks/"><u>How to Modify Microsoft Admin for Windows 11 Networks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-masterful-video-starts-get-them-for-free/"><u>In 2024, Masterful Video Starts, Get Them for Free</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-11s-character-display-tool/"><u>Mastering Windows 11'S Character Display Tool</u></a></li>
+<li><a href="https://windows11.techidaily.com/refine-your-mouses-click-speed-three-simple-adjustments/"><u>Refine Your Mouse's Click Speed: Three Simple Adjustments</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-perfect-font-theme-match-for-your-notepad/"><u>The Perfect Font, Theme Match for Your Notepad</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-against-apexs-hurdles-in-windows-11-crashes/"><u>Winning Against Apex's Hurdles in Windows 11 Crashes</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unblock and Unlock Notepad on Windows: 7 Proven Tricks to Open It Up"
-date: 2025-01-07T17:00:38.703Z
-updated: 2025-01-10T16:13:12.436Z
+date: 2025-01-15T13:08:20.317Z
+updated: 2025-01-16T15:25:30.345Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/2527931ff4c659441e41ccebfbfcddf054977d94a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use Alternative Methods to Open Notepad
 
  Before you try any advanced solutions, see if you can open Notepad using the Run tool. Press**Win + R** to open the Run dialog box. Type**notepad** in the Open field and press**Enter** .
@@ -32,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/2527931ff4c659441e41ccebfbfcddf054977d94a
  If that doesn’t work, try opening Notepad through a command-line tool. Open the search menu to launch**Command Prompt** or**PowerShell** . In the console, type**notepad** and then press**Enter** .
 
 ![Open Notepad via Command-Line Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-notepad-via-command-line-tool.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You could also ask Cortana to open Notepad. However, if none of these methods work, proceed to the next solution.
 
@@ -51,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/2527931ff4c659441e41ccebfbfcddf054977d94a
 6. Type**.txt** in the search box and click the current default app.
 7. Select**Notepad** and click the**Set default** button.  
 ![Set Notepad as Default Text Editor App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/set-notepad-as-default-text-editor-app-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Try opening a few text files and see if they open in Notepad.
 
@@ -77,10 +81,6 @@ To repair the Notepad app on Windows:
 
  Windows will reset the Notepad app to its default version, which should resolve any issues with it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Reinstall the Notepad App
 
  You can also try uninstalling and reinstalling the Notepad app on your computer. To do so, you’ll need to access the[optional features on Windows](https://www.makeuseof.com/tag/windows-10-optional-features-guide/) . Here’s how you can go about it.
@@ -98,11 +98,11 @@ To repair the Notepad app on Windows:
 9. Click**Install** .  
 ![Install Notepad App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/install-notepad-app-on-windows.jpg)
 
- Wait for Windows to install Notepad on your computer and then try to open it using the search menu.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Wait for Windows to install Notepad on your computer and then try to open it using the search menu.
 
 ## 5\. Run the SFC and DISM Scans
 
@@ -122,11 +122,11 @@ To run the SFC scan on Windows:
 
 ![DISM Scan in Windows Terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/dism-scan-in-windows-terminal.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After the scan is complete, restart your PC and see if you can access Notepad.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Perform a Clean Boot
 
@@ -146,13 +146,13 @@ To create a new user account on Windows:
 4. In the Microsoft account window, click **I don't have this person's sign-in information** .  
 ![Microsoft Account Sign-In Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/microsoft-account-sign-in-window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Follow the on-screen prompts to create a new user account. Make sure you give the new account administrative privileges so that you can[move your personal files and data to the new account](https://www.makeuseof.com/windows-10-copy-files-between-user-accounts/) with ease.
 
  Once you sign in with your newly created account, Notepad should open without problems.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Start Using Notepad Again
 
@@ -173,24 +173,18 @@ To create a new user account on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elite-content-consummation/"><u>[New] 2024 Approved Elite Content Consummation</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-mastery-in-motion-advanced-techniques-for-tiktok-edits/"><u>[New] 2024 Approved Mastery in Motion Advanced Techniques for TikTok Edits</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ynamic-subtitle-artisan-for-2024/"><u>[New] Dynamic Subtitle Artisan for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/aster-screen-time-find-your-must-have-7-android-blockers-for-2024/"><u>[New] Master Screen Time Find Your Must-Have 7 Android Blockers for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-mastering-time-management-for-youtubers-with-day-jobs/"><u>2024 Approved Mastering Time Management for YouTubers with Day Jobs</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfecting-iphone-timelapse-techniques/"><u>2024 Approved Perfecting iPhone Timelapse Techniques</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-stream-your-webcam-in-real-time-using-vlc-software/"><u>2024 Approved Stream Your Webcam in Real Time Using VLC Software</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-honor-magic-5-lite-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Honor Magic 5 Lite to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-fixes-for-unresponsive-windows-defender-security-shield/"><u>Essential Fixes for Unresponsive Windows Defender Security Shield</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-oppo-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Oppo</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-the-new-era-of-win-pc-memory-capacity/"><u>Navigating the New Era of Win PC Memory Capacity</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/pinnacle-ai-image-manipulation-suite/"><u>Pinnacle AI Image Manipulation Suite</u></a></li>
-<li><a href="https://windows11.techidaily.com/power-through-print-settings-in-win11-quick-guide-max-48-chars/"><u>Power Through Print Settings in Win11 - Quick Guide (Max 48 Chars)</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-recovery-actions-save-vanished-windows-content/"><u>Quick Recovery Actions: Save Vanished Windows Content</u></a></li>
-<li><a href="https://windows11.techidaily.com/stepping-up-stalled-safety-settings-on-win-11/"><u>Stepping Up Stalled Safety Settings on Win 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-system-recovery-focus-on-net-max-156/"><u>Streamlining System Recovery: Focus on .NET (Max 156)</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-non-installed-disk-errors-in-win-11-with-ease-and-simplicity/"><u>Tackling Non-Installed Disk Errors in Win 11 with Ease and Simplicity</u></a></li>
-<li><a href="https://windows11.techidaily.com/unleash-smooth-gaming-on-windows-eradicate-errors/"><u>Unleash Smooth Gaming on Windows, Eradicate Errors</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-divine-control-windows-11s-spiritual-command-center-guide/"><u>Unlocking Divine Control: Windows 11'S Spiritual Command Center Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-high-quality-edits-explore-these-9-cloud-apps-for-2024/"><u>[New] Free, High-Quality Edits Explore These 9 Cloud Apps for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-dominate-the-digital-arena-audience-expansion-on-youtube/"><u>[New] In 2024, Dominate the Digital Arena Audience Expansion on Youtube</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-vdsu-screen-reader-report-full-insight/"><u>[Updated] 2024 Approved VDSU Screen Reader Report Full Insight</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-audio-purging-techniques-for-streaming-success/"><u>[Updated] Audio Purging Techniques for Streaming Success</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-power-start-cmd-as-administrator/"><u>Boosting Power: Start CMD as Administrator</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-the-mysteries-of-ram-in-windows-devices/"><u>Decoding the Mysteries of RAM in Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficiently-managing-events-with-windows-11-calendar/"><u>Efficiently Managing Events with Windows 11 Calendar</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-vivo-x100-pro-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Vivo X100 Pro to Roku | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-vivo-x-flip-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Vivo X Flip Phone that is Locked?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-realme-v30-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Realme V30 online without jailbreak</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-navigating-the-nuances-of-borders-in-images-using-canva/"><u>In 2024, Navigating the Nuances of Borders in Images Using Canva</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tailoring-the-spectrum-of-light-in-windows-based-video-editing/"><u>In 2024, Tailoring the Spectrum of Light in Windows-Based Video Editing</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-creative-processes-with-these-8-windows-best-apps/"><u>Streamline Creative Processes With These 8 Window's Best Apps</u></a></li>
 </ul></div>
 

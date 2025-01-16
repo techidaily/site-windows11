@@ -1,7 +1,7 @@
 ---
 title: Command Line Convenience with Windows Task Scheduler
-date: 2024-08-08T06:00:08.260Z
-updated: 2024-08-09T06:00:08.260Z
+date: 2025-01-13T19:58:43.868Z
+updated: 2025-01-16T05:49:04.151Z
 tags:
   - windows10
   - windows11
@@ -26,36 +26,43 @@ thumbnail: https://thmb.techidaily.com/d8fe7e494aebabf85039c3b9cb2bea4831c07f6e7
 
  It is an efficient way to ensure that you don't forget to run the batch file at specific times or when certain events happen. Not to mention that it also saves you time and effort, especially if you have a lot of batch files to run, allowing you to be more productive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Scheduling a Batch File to Run Automatically on Windows
 
  To start the batch file automation process, you'll have to [open Task Scheduler](https://www.makeuseof.com/windows-11-open-task-scheduler/). To do that, click on **Search** in the Taskbar and enter **task scheduler** in the search box. In the results, click **Task Scheduler** to open the app.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![the Task Scheduler in Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/task-scheduler-in-windows-search.jpg)
 
  In the right panel, under **Actions**, click on **Create Basic Task**.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![the Task Schedular on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/task-schedular-on-windows.jpg)
 
  Give the task a descriptive name and then click on **Next**. The **Description** part is optional, but it's good practice to fill it in so you don't forget what the task does.
 
 ![creating a basic task in Task Scheduler on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/creating-a-basic-task-in-task-scheduler-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Pick a trigger, which is when you want the task to run, by clicking on the appropriate radio button, and then click on **Next**. In our example, we picked **Daily**, meaning we want to run the task every day.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![choosing a trigger in Task Scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/choosing-trigger-in-task-scheduler.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Each trigger has its own parameters that you need to set. For the **Daily** trigger, you have to pick the day and time it starts, as well as how many days the task will recur. Once you set those, click **Next**.
 
 ![setting the preferences for the daily trigger in Task Scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/setting-the-preferences-for-the-daily-trigger-in-task-scheduler.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, you need to select an action, and for our batch file, will are going to select the **Start a program** radio button and click **Next**.
 
@@ -63,27 +70,21 @@ thumbnail: https://thmb.techidaily.com/d8fe7e494aebabf85039c3b9cb2bea4831c07f6e7
 
  Under **Program/Script** click on **Browse**, select the batch file you want to automate, and then click on **Next**.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![choosing a program or script to automate in Task Scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/choosing-a-program-or-script-to-automate-in-task-scheduler.jpg)
 
  Finally, click **Finish**. Now, Task Scheduler will run that batch depending on the trigger you set, which is **Daily** in our case
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Removing the Batch File From the Task Scheduler
 
  When you no longer wish to run the batch file, you can easily disable the task, which will just stop it until you enable it again, or remove it from Task Scheduler completely.
 
  To do that, open Task Scheduler (as shown above) and select the task you automated, which will be in the middle panel. In the right panel, under **Actions**, click on either **Disable** to stop it for now or **Delete** to remove it from Task Scheduler.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![a scheduled Task in Task Scheduler on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/a-scheduled-task-in-task-scheduler.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you clicked on **Delete**, confirm your action by clicking **Yes** in the popup. That means if you want to automate the batch file again, you'll have to do the scheduling process all over (as shown in the previous section).
 
@@ -95,12 +96,31 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  In this guide, we're going to show you how to automate a batch file using Task Scheduler.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-beginning-creators-guide-top-8-free-youtube-tutorials-for-2024/"><u>[New] Beginning Creator's Guide Top 8 Free YouTube Tutorials for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-conquering-remote-work-mastering-the-use-of-zoom-and-gmail/"><u>[New] Conquering Remote Work Mastering the Use of Zoom and Gmail</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/levate-your-youtube-traffic-best-hash-tactics-explained/"><u>[New] Elevate Your YouTube Traffic Best Hash Tactics Explained</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-seamless-transition-from-fb-videos-to-polished-mp3-tracks/"><u>[New] In 2024, Seamless Transition From FB Videos to Polished MP3 Tracks</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-vlc-tutorial-the-art-of-video-angling/"><u>[New] In 2024, VLC Tutorial The Art of Video Angling</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-a-compre-written-by-daniel-kelley/"><u>[Updated] 2024 Approved A Compre Written by Daniel Kelley</u></a></li>
+<li><a href="https://windows11.techidaily.com/insights-into-ftdibussys-windows-memory-safeguard-breach/"><u>Insights Into ftdibus.sys: Windows' Memory Safeguard Breach</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-the-art-of-modern-360-camera-purchases-2enas/"><u>Mastering the Art of Modern 360 Camera Purchases (2Enas)</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-security-activating-tpm-and-secure-boot-for-windows-11-upgrades/"><u>Maximizing Security: Activating TPM & Secure Boot for Windows 11 Upgrades</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-unexpected-errors-in-windows-security-fixes/"><u>Navigating Unexpected Errors in Windows Security Fixes</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-elevating-your-show-top-podcast-hosting-services-unveiled/"><u>New In 2024, Elevating Your Show Top Podcast Hosting Services Unveiled</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-task-management-on-windows-10-and-11/"><u>Optimize Task Management on Windows 10 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/setting-default-read-only-mode-for-words-email-attachments/"><u>Setting Default Read-Only Mode for Word's Email Attachments</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-dfs-sudden-shutdown-issue-on-pc/"><u>Troubleshooting DF's Sudden Shutdown Issue on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-11-resetting-how-to-bring-back-microsoft-store-apps/"><u>Win 11 Resetting: How to Bring Back Microsoft Store Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-calmness-dial-down-the-hidden-processes/"><u>Win11 Calmness: Dial Down the Hidden Processes</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/yl-softwares-troubleshooting-secrets-fixing-a-damaged-graphics-processor-easily/"><u>YL Software's Troubleshooting Secrets: Fixing a Damaged Graphics Processor Easily!</u></a></li>
+</ul></div>
 

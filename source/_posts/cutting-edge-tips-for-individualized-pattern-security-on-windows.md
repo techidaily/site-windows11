@@ -1,7 +1,7 @@
 ---
 title: Cutting-Edge Tips for Individualized Pattern Security on Windows
-date: 2024-08-15T15:12:07.207Z
-updated: 2024-08-16T15:12:07.207Z
+date: 2025-01-13T19:33:47.138Z
+updated: 2025-01-16T07:03:48.614Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,11 @@ thumbnail: https://thmb.techidaily.com/c9a47d41b34d7090487ad8a1c43825738349119fb
 3. Draw two matching patterns on the 3x3 grid to set a lock.  
 ![The 9Locker pattern lock setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/9locker-lock-pattern-setting.jpg)
 4. Click **OK** on the Rescue Password prompt that pops up.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Input a matching password within the **First Time** and **Second Time** text boxes.  
 ![The rescue password setting boxes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/enter-rescue-password.jpg)
 6. Click **Save** to set your new pattern lock.
@@ -48,17 +53,26 @@ thumbnail: https://thmb.techidaily.com/c9a47d41b34d7090487ad8a1c43825738349119fb
 ![9Locker's pattern lock grid](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-pattern-grid.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Customize 9Locker
 
  To access the 9Locker settings window, you’ll need to input your rescue password instead. Click **Settings** at the top left of the pattern lock screen. Input your rescue password and select **OK**.
 
 ![The Enter Rescue Password box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/enter-rescue-password-box.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can select a different background image for the pattern lock screen. To do so, click the **Background Image** tab. Then click **Image** and choose one of the eight wallpapers for the pattern lock screen. Or you can select a custom background image from another folder.
 
 ![The Background Image tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/background-image-tab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Alternatively, you can set a solid color for the background. Click the **Color** button on the **Background image** tab. Then choose a color on the palette and select **OK**.
 
@@ -66,11 +80,12 @@ thumbnail: https://thmb.techidaily.com/c9a47d41b34d7090487ad8a1c43825738349119fb
 
 ![The General settings tab in 9Locker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/general-settings-tab.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  9Locker’s pattern lock screen should appear automatically with the **Load 9Locker on Windows startup** checkbox selected on the **General Settings** tab. However, I needed to add 9Locker to the startup folder to get the program to run at startup. If you need to do the same, check out [how to utilize the Windows startup folder](https://www.makeuseof.com/tag/windows-10-startup-folder/).
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Add a Custom Patter Lock With Eusing Maze Lock
 
  Eusing Maze Lock is an alternative to 9Locker that enables you to set a pattern lock on your Windows 11/10 PC much the same. However, this software also enables you to set locks on bigger 4x4 and 5x5 grids. This is how you can set up a pattern lock for your PC with Eusing Maze Lock:
@@ -80,14 +95,16 @@ thumbnail: https://thmb.techidaily.com/c9a47d41b34d7090487ad8a1c43825738349119fb
 3. Click **Next** three times to install Eusing Maze Lock in a default Program Files directory.  
 ![The setup wizard for Eusing Maze Lock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/eusing-maze-lock-setup-wizard.jpg)
 4. Press the **Finish** button with the Launch Eusing Maze Lock checkbox selected.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. An Eusing Maze Lock prompt for unlocking the preset pattern lock will appear. Click **OK** to close that prompt and bring up a configuration window.
 
 1. Press the **Reset Pattern** button.
 2. Select a **3 \* 3**, **4 \* 4**, or **5 \* 5** pattern grid size on the drop-down menu.  
 ![The Reset Pattern](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/reset-pattern-tab.jpg)
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 3. Hold the left mouse button and drag your cursor over the circles to set a lock pattern.
 4. Click **OK** on the reset lock pattern prompt.
 5. Select **Yes** when asked to back up the lock pattern. Then select a backup folder and click **Save**.
@@ -99,9 +116,6 @@ thumbnail: https://thmb.techidaily.com/c9a47d41b34d7090487ad8a1c43825738349119fb
 
 ![The Eusing Maze Lock pattern lock screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/eusing-maze-lock.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### How to Customize Eusing Maze Lock
 
  The Eusing Maze Lock pattern lock screen includes two alternative input options in the bottom right corner. Clicking the middle option will make the pattern lock invisible for more secure input. Or click the right button to input a pattern by pressing the keyboard letter keys for corresponding circles.
@@ -117,13 +131,7 @@ thumbnail: https://thmb.techidaily.com/c9a47d41b34d7090487ad8a1c43825738349119fb
  You can also set a custom wallpaper for the pattern lock screen on the **Background** tab. To do so, click the **Change Image** button to bring up a selection window. Select an image file for the background and click **Open**.
 
 ![The Background tab in Eusing Maze Lock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-background-tab.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Lock Your Windows 10 or 11 PC Differently
 
  Both Eusing Maze Lock and 9Locker provide an alternative to the standard Windows 10 OR 11 lock screen.
@@ -132,12 +140,27 @@ thumbnail: https://thmb.techidaily.com/c9a47d41b34d7090487ad8a1c43825738349119fb
 
  Most users secure their Windows PCs with passwords or PINs. However, you can also secure your PC by adding a custom pattern lock with 9Locker or Eusing Maze Lock. This is how you can set up a pattern lock for Windows 10 and 11 with those software packages.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-understanding-your-place-in-youtube-earnings/"><u>[Updated] In 2024, Understanding Your Place in YouTube Earnings</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/all-you-need-to-know-about-mega-greninja-for-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-nintendo-switch-analysis-top-pick-for-on-the-go-gamers/"><u>Comprehensive Nintendo Switch Analysis - Top Pick for On-the-Go Gamers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722888272655-download-iphones-owners-manuals-by-model-the-ultimate-resource-list-and-tutorial/"><u>Download iPhones' Owner's Manuals by Model - The Ultimate Resource List and Tutorial</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-and-forge-a-friendly-startup-in-windows-amidst-errors/"><u>Fix and Forge a Friendly Startup in Windows Amidst Errors</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-nubia-z50-ultra-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Nubia Z50 Ultra to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/launching-the-driver-verifier-in-win11-os/"><u>Launching the Driver Verifier in Win11 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/procedures-to-enable-or-disable-windows-build-service/"><u>Procedures to Enable or Disable Windows Build Service</u></a></li>
+<li><a href="https://windows11.techidaily.com/quiet-windows-11-feedback-and-hints/"><u>Quiet Windows 11 Feedback and Hints</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/revolutionize-your-content-10-best-animated-text-creators-for-2024/"><u>Revolutionize Your Content 10 Best Animated Text Creators for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-full-task-manager-capabilities-advanced-filters-and-dynamic-theme-options-windows-11/"><u>Unlock Full Task Manager Capabilities: Advanced Filters & Dynamic Theme Options (Windows 11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-systems-peak-performance-limits/"><u>Unveiling System's Peak Performance Limits</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-incorporating-a-god-mode-shortcut/"><u>Windows 11: Incorporating a God Mode Shortcut</u></a></li>
+</ul></div>
 

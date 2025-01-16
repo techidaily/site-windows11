@@ -1,7 +1,7 @@
 ---
 title: Dissecting and Resolving 0X80072AF9 Hitches
-date: 2024-08-08T05:58:51.139Z
-updated: 2024-08-09T05:58:51.139Z
+date: 2025-01-10T11:53:06.670Z
+updated: 2025-01-15T21:48:31.498Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/ef833586db2eca1205112d6a13248317068108373
 
  In this article, we will delve into the intricacies of the 0x80072AF9 error and explain what causes it to pop up. We’ll also review some of the best solutions to prevent recurrences of this problem.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is the 0x80072AF9 Error Code, and What Causes It?
 
  0x80072AF9 refers to a Windows error, typically occurring during the Windows update process. It usually indicates a network-related issue that prevents your computer from communicating with [Windows Update services](https://www.makeuseof.com/windows-update-update-orchestrator-services/).
@@ -47,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/ef833586db2eca1205112d6a13248317068108373
 
  While it sounds counterintuitive, given this kind of error, a Windows update is often the best way to resolve most issues with your PC. So, if this error does not affect your update service, download and install any pending updates. If your Windows does not update automatically, you can try [updating Windows manually](https://www.makeuseof.com/update-windows-manually/).
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ## 3\. Run the Windows Update Troubleshooter
 
  The Windows Update Troubleshooter helps users resolve problems with their PCs. This tool removes the need for professional help when issues like the 0x80072AF9 error code pop up.
@@ -64,8 +57,9 @@ thumbnail: https://thmb.techidaily.com/ef833586db2eca1205112d6a13248317068108373
  Alternatively, open the **Settings** app by pressing **Win + I.** Select **Update and Security > Troubleshoot** and run the troubleshooter.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Check And Update Microsoft Defender
 
  If you encounter this error and the program does not update automatically, [manually updating Windows Defender](https://www.makeuseof.com/microsoft-defender-manually-update/#:~:text=Launch%20Windows%20Security%20through%20the,the%20latest%20updates%20from%20Microsoft.) is worth a shot. You can either do this via the web page or by using PowerShell.
@@ -74,16 +68,21 @@ thumbnail: https://thmb.techidaily.com/ef833586db2eca1205112d6a13248317068108373
 
 ![Screenshot of Windows Security Settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-windows-security-settings-page.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After this, search for the latest security intelligence updates for Microsoft Defender on the [official Defender website](https://www.microsoft.com/en-us/wdsi/defenderupdates). This page gives you information that you can compare with what you received previously. If the versions do not match, proceed with the manual updates.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Uninstall Any External Antivirus Software
 
  Third-party antivirus software usually includes firewall components and network protection features that may conflict with the Windows update process. These conflicts can disrupt your computer’s communication with the servers, leading to the error code.
 
  As such, uninstalling the antivirus software eliminates the risk of these conflicts affecting your Windows updates. Usually, you can get rid of it using one of the [different ways to uninstall programs on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/), but some antivirus apps will need a special uninstaller from the developer's website.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Run an SFC Scan
 
@@ -91,9 +90,6 @@ thumbnail: https://thmb.techidaily.com/ef833586db2eca1205112d6a13248317068108373
 
  If you don't know how to do this, check out [how to run the System File Checker on Windows](https://www.makeuseof.com/system-file-checker-sfc-windows/) for a full list of instructions.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Clear Cache and Junk Files
 
  The effect of junk files on your computer’s performance and efficiency is often underestimated. While temporarily useful, they slow down your PC and use up large amounts of storage.
@@ -103,6 +99,10 @@ thumbnail: https://thmb.techidaily.com/ef833586db2eca1205112d6a13248317068108373
  To begin, open the **Run** dialog box by pressing the **Win + R**. Then, type **cleanmgr** in the text box and press **Enter**. This opens another dialog box where you must confirm your operating system by clicking **OK.**
 
  After this, select **Clean up system files** to initiate the cleaning process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Refresh Your Computer
 
@@ -115,8 +115,9 @@ thumbnail: https://thmb.techidaily.com/ef833586db2eca1205112d6a13248317068108373
  The refresh duration depends on your computer’s speed and how much data the computer retains. When the refresh completes, you can reinstall all previous applications, including the latest version of Microsoft Defender.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fixing the 0x80072AF9 Error Code Made Easy
 
  These solutions offer a range of options, from simple troubleshooting steps to more advanced techniques like refreshing your computer. In any case, selecting the most suitable approach depends on if there are any underlying issues that the simple techniques cannot bypass.
@@ -125,12 +126,29 @@ thumbnail: https://thmb.techidaily.com/ef833586db2eca1205112d6a13248317068108373
 
  In this article, we will delve into the intricacies of the 0x80072AF9 error and explain what causes it to pop up. We’ll also review some of the best solutions to prevent recurrences of this problem.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-value-in-the-air-the-cheapest-yet-effective-drones-for-2024/"><u>[New] Value in the Air The Cheapest Yet Effective Drones for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-become-a-freelance-transcriber-tips-and-tricks-for-youtube-content-for-2024/"><u>[Updated] Become a Freelance Transcriber Tips and Tricks for YouTube Content for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-concealed-visibility-mastering-visual-obscurity-in-videos/"><u>[Updated] Concealed Visibility Mastering Visual Obscurity in Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-economical-action-cameras-discover-the-cheapest-options/"><u>[Updated] Economical Action Cameras Discover the Cheapest Options</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-economical-4k-dslrmirrorless-cameras/"><u>[Updated] In 2024, Economical 4K DSLR/Mirrorless Cameras</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-journey-through-filmora-editing-10-standout-functions/"><u>2024 Approved Journey Through Filmora Editing 10 Standout Functions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/launching-with-the-essentials-apple-vision-pro-integrates-word-and-excel-from-microsoft-365-right-away-zdnet/"><u>Launching with the Essentials: Apple Vision Pro Integrates Word & Excel From Microsoft 365 Right Away - ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-11-top-7-techniques-to-improve-daily-use/"><u>Mastering Windows 11: Top 7 Techniques to Improve Daily Use</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-failed-disk-readwrites-on-windows/"><u>Overcoming Failed Disk Read/Writes on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-to-downloading-adobe-reader/"><u>Quick Guide to Downloading Adobe Reader</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-fix-failed-display-driver-startup-in-windows-11/"><u>Steps to Fix Failed Display Driver Startup in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-resolve-inadequate-access-rights-in-win-1110-errors/"><u>Steps to Resolve Inadequate Access Rights in Win 11/10 Errors</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-apple-iphone-12-pro-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-powerful-techniques-for-managing-packages-on-windows-11/"><u>Unveiling Powerful Techniques for Managing Packages on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-users-guide-to-transcribing-with-ais-whisper/"><u>Windows Users Guide to Transcribing with AI's Whisper</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Diving Deep Into Data: 6 Windows Properties Paths"
-date: 2024-08-08T05:59:33.400Z
-updated: 2024-08-09T05:59:33.400Z
+date: 2025-01-10T22:16:41.591Z
+updated: 2025-01-15T18:25:04.577Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/276d97c36ad2008d7cfbd98152b79e1acd5c5f1c2
 
  Here are some easy ways to view the file or folder properties on a Windows PC. These methods will work for Windows 11 and older versions of Windows OS too.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Using the Keyboard Shortcut
 
  You can view the file properties using the pre-defined shortcut keys on Windows. Here’s how to do it:
@@ -33,15 +37,16 @@ thumbnail: https://thmb.techidaily.com/276d97c36ad2008d7cfbd98152b79e1acd5c5f1c2
 3. Then press**Alt + Enter** keys at once to open the file properties window.  
 ![View File Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Using the Mouse and Keyboard Shortcut
 
  This method eliminates the usage of the enter key to open the file properties windows. Repeat the following steps to open the properties window:
 
 1. Open the File Explorer app and navigate to the folder location.
 2. Now, hold the**Alt** key and**double-click** on the file to display its properties.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Using the Context Menu
 
@@ -53,11 +58,12 @@ thumbnail: https://thmb.techidaily.com/276d97c36ad2008d7cfbd98152b79e1acd5c5f1c2
 ![View File Properties using Right Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties-using-right-context-menu.jpg)
 4. The file properties window will launch on your system.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Keep in mind that the right-click context menu will look a bit different from the older versions of Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 4\. Using the File Explorer
 
  You can also view the file properties using the File Explorer app and not press a keyboard key even once. The option to view properties is hidden in the menu bar. Here’s how to open file properties using File Explorer:
@@ -69,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/276d97c36ad2008d7cfbd98152b79e1acd5c5f1c2
 ![View File Properties using File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties-using-file-explorer.jpg)
 5. The Properties window will launch on your system. Press**Alt + F4** to close it after you no longer need it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ### 5\. Using the CMD Tool
 
  The above-mentioned shortcuts launch the Properties window which shows the GUI version of File Properties. But, you can also view the properties of a folder or file using the command prompt on Windows. Repeat the following steps to view file properties using the command prompt utility:
@@ -80,11 +83,16 @@ thumbnail: https://thmb.techidaily.com/276d97c36ad2008d7cfbd98152b79e1acd5c5f1c2
 2. UAC will pop up. Click on the**Yes** button to open the command prompt with administrator permissions.
 3. Now, enter the following command and press the enter key: **wmic datafile where "name='File Path'" list full**
 4. Replace the “**File Path** ” with the actual location of your file. We have a text file saved on the desktop. So, the command to display its properties will be: **wmic datafile where "name='C:\\\\Users\\\\Test\\\\Desktop\\\\rr.txt'" list full**  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![View File Properties using CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties-using-cmd.jpg)
 5. Scroll down to check the file properties such as size, creation date, and more attributes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Using PowerShell
 
@@ -93,15 +101,9 @@ thumbnail: https://thmb.techidaily.com/276d97c36ad2008d7cfbd98152b79e1acd5c5f1c2
 1. Press**Win + S** and type PowerShell. Click on the first search result to launch PowerShell on your system.
 2. Now, type the following command:**Get-Item -Path File Path | fl \***
 3. Replace “**File Path** ” with the actual storage location like you did in the fifth method.  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![View File Properties using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties-using-powershell.jpg)
 4. Press the**Enter** key to execute the command.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Quickly View File or Folder Properties on Windows
 
  These were the multiple methods to view file or folder properties in Windows. The first four options launch the GUI version of file properties, which is easier to navigate for users. However, you can also view file properties in CMD or PowerShell.
@@ -112,8 +114,6 @@ thumbnail: https://thmb.techidaily.com/276d97c36ad2008d7cfbd98152b79e1acd5c5f1c2
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,6 +121,16 @@ thumbnail: https://thmb.techidaily.com/276d97c36ad2008d7cfbd98152b79e1acd5c5f1c2
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-get-high-quality-audiovideo-convert-facebooks-hd-content-into-mp4/"><u>[New] 2024 Approved Get High-Quality Audio/Video Convert Facebook's HD Content Into MP4</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-circles-vs-cubes-unraveling-camera-types-for-2024/"><u>[New] Circles vs Cubes Unraveling Camera Types for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-maximizing-engagement-ideal-youtube-thumbnail-dimensions/"><u>[Updated] Maximizing Engagement Ideal YouTube Thumbnail Dimensions</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-awaken-divine-powers-within-windows-11-os/"><u>How to Awaken Divine Powers Within Windows 11 OS</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-realme-c51-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Realme C51 Phone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-xiaomi-redmi-k70-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Xiaomi Redmi K70 Phones</u></a></li>
+<li><a href="https://windows11.techidaily.com/making-windows-10-work-tips-if-you-cant-upgrade/"><u>Making Windows 10 Work: Tips if You Can't Upgrade</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-obstacles-fixing-outlook-issues-in-windows/"><u>Overcoming Obstacles: Fixing Outlook Issues in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-missing-alerts-a-guide-for-non-working-phone-link-on-pc/"><u>Restoring Missing Alerts: A Guide for Non-Working Phone Link on PC</u></a></li>
+</ul></div>
 

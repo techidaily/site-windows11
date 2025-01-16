@@ -1,7 +1,7 @@
 ---
 title: Migrate OneDrive to a Desired Folder on Win 11
-date: 2025-01-09T16:40:11.186Z
-updated: 2025-01-10T21:09:02.391Z
+date: 2025-01-09T10:30:52.951Z
+updated: 2025-01-16T14:54:30.890Z
 tags:
   - windows10
   - windows11
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Change the Location of Your OneDrive Folder
 
  When you change where your OneDrive folder is located, you’ll also have to set it to sync with your files on the cloud. You’ll have to unlink your OneDrive folder on your PC first, then move the folder to a new location, and finally re-link your PC to your Microsoft account. These steps will help you set that up.
@@ -30,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
  If you’re new to the concept, check out our articles on[what OneDrive is](https://www.makeuseof.com/what-is-onedrive/) and[why you should use it](https://www.makeuseof.com/microsoft-onedrive-personal-benefits/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Unlinking OneDrive
@@ -40,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
  Your OneDrive files on your PC will no longer synchronize to the cloud. Don’t worry; a little later you’ll be re-linking your OneDrive folder to your Microsoft account.
 
  Once you’ve done this, you will be presented with a window to set up OneDrive. Leave this open for the moment. You will need to revisit it once you’ve moved your OneDrive folder to a different location on your PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Moving Your OneDrive Folder
 
@@ -56,22 +56,14 @@ With that done, you can now relocate your OneDrive folder.
 4. From the drop-down that appears, click on the**Choose location** option.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Move your OneDrive folder to new location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/02-move-onedrive-folder-to-location.jpg)
 5. A pop-up will appear. Browse to the location you want your new OneDrive folder to reside, and click on the**Move** button on the bottom of the pop-up.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Move OneDrive folder to a new location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/03-choose-new-local-onedrive-location.jpg)
 6. Windows will start to move your OneDrive folder and all of its contents to the new location you’ve selected. This may take a while depending on the size of the folder.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  That’s it! You’ve moved your OneDrive folder to a new location on your Windows PC.
 
@@ -85,6 +77,10 @@ With that done, you can now relocate your OneDrive folder.
 ![Change where OneDrive syncs your files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/04-change-onedrive-location.jpg)
 4. Then browse to the new location where you moved your OneDrive folder on your PC, and click on the**Select Folder** button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. You’ll be presented with a warning screen, telling you that files already exist in this folder. Click on the**Use this folder** button.  
 ![Choose where OneDrive saves files on your PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/07-choose-onedrive-location.jpg)
 6. Verify that the location you’ve selected is the correct one, and click on**Next** .
@@ -94,6 +90,10 @@ With that done, you can now relocate your OneDrive folder.
  Your OneDrive folder has been moved, and any files you add, or existing ones you modify, will be synced to the cloud from this new OneDrive location on your PC.
 
  Additionally, there are many[ways to control how OneDrive syncs files on your PC](https://www.makeuseof.com/ways-to-control-onedrive-sync-pc/) , from pausing automatic sync on metered networks to stopping specific folders from syncing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Free Up PC Storage by Moving Your OneDrive Folder
 
@@ -114,18 +114,16 @@ With that done, you can now relocate your OneDrive folder.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-canon-camera-experience-no-cost-but-pay-for-more-luts-for-2024/"><u>[New] Canon Camera Experience No Cost, But Pay for More LUTs for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-nokia-105-classic-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Nokia 105 Classic</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-honor-magic-6-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Honor Magic 6 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/introducing-vivetool-unleashing-upcoming-features-for-windows-users/"><u>Introducing ViVeTool: Unleashing Upcoming Features for Windows Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-powertoys-to-tailor-snap-layouts/"><u>Navigating PowerToys to Tailor Snap Layouts</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-to-windows-11-on-mac-via-parallels-installer/"><u>Navigating to Windows 11 on Mac via Parallels Installer</u></a></li>
-<li><a href="https://windows11.techidaily.com/one-key-to-close-clustered-applications-windows-edition/"><u>One Key to Close Clustered Applications: Windows Edition</u></a></li>
-<li><a href="https://windows11.techidaily.com/solving-overwatch-2-writable-device-error/"><u>Solving Overwatch 2' Writable Device Error</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/speeding-up-your-computer-a-step-by-step-guide-to-removing-temporary-files-by-yl-software/"><u>Speeding Up Your Computer: A Step-by-Step Guide to Removing Temporary Files by YL Software</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-archiving-ai-conversations/"><u>The Ultimate Guide to Archiving AI Conversations</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-google-frp-by-drfone-android/"><u>The Updated Method to Bypass Google FRP</u></a></li>
-<li><a href="https://win-community.techidaily.com/trois-facons-simples-de-supprimer-les-fichiers-dactualisation-dans-windows-11-guide-complet/"><u>Trois Façons Simples De Supprimer Les Fichiers D'Actualisation Dans Windows 11 : Guide Complet</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-wu-and-wuo-sync-mechanisms/"><u>Understanding WU & WUO Sync Mechanisms</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-easily-capturing-iphone-screens-on-the-go-for-2024/"><u>[New] Easily Capturing iPhone Screens on the Go for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-live-stream-on-youtube-without-1000-subscribers-on-a-mobile/"><u>[New] In 2024, Live Stream on YouTube without 1000 Subscribers on a Mobile</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-unveiling-the-secrets-of-effective-video-captioning-for-tiktoks/"><u>[Updated] 2024 Approved Unveiling the Secrets of Effective Video Captioning for TikToks</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-non-compliance-overcoming-intel-hd-graphics-errors/"><u>Addressing Non-Compliance: Overcoming Intel HD Graphics Errors</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discovering-claude-ai-your-gateway-to-enhanced-productivity/"><u>Discovering Claude AI: Your Gateway to Enhanced Productivity</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/efficiently-relocating-documents-yl-softwares-comprehensive-tutorial-on-folder-management/"><u>Efficiently Relocating Documents: YL Software's Comprehensive Tutorial on Folder Management</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-guide-to-using-windows-11s-compatibility-fixer/"><u>Essential Guide to Using Windows 11’S Compatibility Fixer</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-tips-for-diablo-gameplay-enthusiasts/"><u>Essential Tips for Diablo Gameplay Enthusiasts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-high-fidelity-android-3d-player/"><u>In 2024, High-Fidelity Android 3D Player</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-4-microcomputers-pure-windows-environment/"><u>Top 4 Microcomputers: Pure Windows Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-google-chrome-crashes-in-windows/"><u>Troubleshooting Google Chrome Crashes in Windows</u></a></li>
 </ul></div>
 

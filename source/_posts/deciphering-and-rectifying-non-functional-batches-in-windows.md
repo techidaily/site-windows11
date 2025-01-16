@@ -1,7 +1,7 @@
 ---
 title: Deciphering and Rectifying Non-Functional Batches in Windows
-date: 2024-08-08T06:00:01.652Z
-updated: 2024-08-09T06:00:01.652Z
+date: 2025-01-10T13:24:33.627Z
+updated: 2025-01-16T12:43:12.413Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/f566bd666fcbb760f9054267072a040c66295187d
  Regardless of the issue, this guide will provide methods for resolving all your BAT file issues. We will also highlight why BAT files sometimes do not run on your Windows computer.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why Do BAT Files Get Deleted Instantly on Windows?
 
  BAT is an extension type (similar to EXE, JPG, or PDF files) that includes a series of instructions or commands. There could be various reasons why a BAT file might refuse to run on Windows, such as:
@@ -34,9 +35,6 @@ thumbnail: https://thmb.techidaily.com/f566bd666fcbb760f9054267072a040c66295187d
 
  Now that you know why your BAT files are being deleted, let's move on to the recommended fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Fix Syntax Errors in Your BAT File
 
  If you're not into programming, the term "**syntax**" might be too technical. Simply put, a syntax error means a wrong command, expression, or symbol in any code.
@@ -52,9 +50,6 @@ thumbnail: https://thmb.techidaily.com/f566bd666fcbb760f9054267072a040c66295187d
 1. Copy the complete code present in your BAT file. A simple way is to press **Ctrl + A** and then **Ctrl + C**.
 2. Open the [ChatGPT website](https://chat.openai.com) and log in with your Google account.
 3. Copy and paste the following prompt in the textbox: **Please correct all the syntax errors in the following .BAT file code: CODE**. Once you copy it, replace **CODE** with the actual code from your BAT file.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![ChatGPT Prompt For BAT File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-prompt-for-bat-file.jpg)
 4. Press **Enter** or the **Send** button. Now ChatGPT will try to remove all the possible syntax errors and provide you with the modified version.
 5. Copy and replace the edited version with the code inside your BAT file.  
@@ -62,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/f566bd666fcbb760f9054267072a040c66295187d
 6. After making the necessary changes, save your BAT file and rerun it.
 
  To avoid such syntax error situations in the future, we recommend learning [how to create a batch file](https://www.makeuseof.com/tag/write-simple-batch-bat-file/) properly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Disable Your Antivirus Temporarily
 
@@ -89,16 +88,14 @@ thumbnail: https://thmb.techidaily.com/f566bd666fcbb760f9054267072a040c66295187d
 2. Click on **Apps**, then select **Default apps**.  
 ![Windows Apps Settings Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-apps-settings-screen.jpg)
 3. Scroll to the last and click on**Choose default by file type**.  
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![Windows Default Apps Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-default-apps-settings.jpg)
 4. Locate **.bat** in the list and click on **Choose a default**.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![BAT File Association Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/bat-file-association-settings.jpg)
 5. Select **Command Prompt** and click the **Set Default** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  And that's it! Now, your .BAT files should open with the Command Prompt instead of getting deleted instantly.
 
@@ -114,9 +111,6 @@ thumbnail: https://thmb.techidaily.com/f566bd666fcbb760f9054267072a040c66295187d
 
  Remember that taking ownership carries risk. Here's why: if the file comes from an unknown source (a random website) and you take ownership, you may unknowingly execute harmful code. So, double-check the code and the file source before taking ownership.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Modify the ComSpec System Variable
 
  Don't be confused by the technical term "**ComSpec**." Simply put, the ComSpec system variable is a title or name given to the path of the Command Prompt (i.e.,%SystemRoot%\\system32\\cmd.exe). So, whenever a Windows app or program wants to open or access the Command Prompt, it uses the ComSpec system variable to open it instantly.
@@ -129,22 +123,29 @@ thumbnail: https://thmb.techidaily.com/f566bd666fcbb760f9054267072a040c66295187d
 
 1. Press **Win + R** to bring the **Run** app.
 2. Type **sysdm.cpl** in the textbox and click **OK** to execute it.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![Sysdm Command In RUN App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sysdm-command-in-run-app.jpg)
 3. From the tab menu, navigate to Advanced and click the **Environment Variables** button.
 4. Under **System variables**, double-click on **ComSpec**.  
 ![System Variables List](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/system-variables-list.jpg)
 5. On the **Edit Environment Variable** window, ensure the variable value matches **%SystemRoot%\\system32\\cmd.exe**. If the value is different in your case, correct that.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ComSpec System Variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/comspec-system-variable.jpg)
 6. Click **OK** to apply the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hopefully, now your BAT file will run as expected. As a final note, always exercise caution when adjusting any system variable. For additional safety, note down the original value before making any changes.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Resolve All Your BAT File Issues on Windows
 
  We've pointed out every possible solution for all your Windows BAT or Batch file-related issues. So, try them once and run any batch files without errors.
@@ -153,12 +154,28 @@ thumbnail: https://thmb.techidaily.com/f566bd666fcbb760f9054267072a040c66295187d
 
  Regardless of the issue, this guide will provide methods for resolving all your BAT file issues. We will also highlight why BAT files sometimes do not run on your Windows computer.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-transform-the-mundane-into-stunning-create-with-our-video-templates/"><u>[New] In 2024, Transform the Mundane Into Stunning Create with Our Video Templates</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-inventory-of-facebook-video-ratios/"><u>[Updated] 2024 Approved Inventory of Facebook Video Ratios</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-linkedin-image-aspect-ratios-explained/"><u>[Updated] LinkedIn Image Aspect Ratios Explained</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-precision-shade-modifier/"><u>2024 Approved Precision Shade Modifier</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-uninstall-tactics-for-windows-11-os-108-chars/"><u>Essential Uninstall Tactics for Windows 11 OS (108 Chars)</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-microsoft-store-error-code-0x00000000-in-windows-11-and-11/"><u>How to Fix the Microsoft Store Error Code 0X00000000 in Windows 11 & 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-xiaomi-redmi-note-12-pro-4g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Xiaomi Redmi Note 12 Pro 4G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/iphone-clones-meet-the-motorola-one-stunning-style-for-less-money/"><u>IPhone Clones? Meet the Motorola One: Stunning Style for Less Money</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-process-of-fixing-disabled-hard-drive-on-your-windows-11-pc/"><u>Mastering the Process of Fixing Disabled Hard Drive on Your Windows 11 PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfecting-papyrus-best-note-taking-tabs-in-windows/"><u>Perfecting Papyrus: Best Note-Taking Tabs in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/personalize-window-11s-system-monitor-screen/"><u>Personalize Window 11'S System Monitor Screen</u></a></li>
+<li><a href="https://windows11.techidaily.com/taking-control-a-comprehensive-guide-to-touchpad-adjustment-on-windows-11/"><u>Taking Control: A Comprehensive Guide to Touchpad Adjustment on Windows 11</u></a></li>
+</ul></div>
 

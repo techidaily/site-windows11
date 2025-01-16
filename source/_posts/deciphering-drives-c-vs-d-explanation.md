@@ -1,7 +1,7 @@
 ---
 title: "Deciphering Drives: C: Vs D: Explanation"
-date: 2024-08-08T06:00:19.091Z
-updated: 2024-08-09T06:00:19.091Z
+date: 2025-01-13T04:27:30.056Z
+updated: 2025-01-16T09:35:18.179Z
 tags:
   - windows10
   - windows11
@@ -28,23 +28,24 @@ thumbnail: https://thmb.techidaily.com/de25cad762d1b1da1023e95cc7ce6ed0cc716ab65
 
 ![CD, hard drive, flash drive, and floppy disk on a wooden surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/11/external-storage-devices.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, your Windows computer assigns alphabets to enable you to access these drives. It’ll also assign alphabets to partitions—defined areas with a determined size on a drive. For example, if your computer has a 500GB hard disk drive (HDD) or solid-state drive (SSD), you might have two partitions with 250GB each.
 
  The C: drive is your Windows computer's primary drive or partition. This drive or partition is assigned the first available letter, as [Windows starts naming drives from the letter C instead of A or B](https://www.makeuseof.com/why-local-drives-windows-start-from-c/).
 
  Manufacturers install the operating system and other relevant software on the C: drive. If your computer has a 1TB HDD or SSD with two 500GB partitions, the C: drive is the hard disk partition that serves the above function. Alternatively, if your computer has a 250GB hard drive with one partition, then it'll be your drive (C:).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![A screenshot showing Windows (C:) in the File Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/drive-c.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The C drive is typically denoted as **(C:)**, **Windows (C:)**, or **Local Disk (C:)**. You can access your local disk C: by clicking **My Computer** (on older Windows versions) or **This PC** (on newer Windows versions) in File Explorer. To open File Explorer on your computer, press the **Windows key + E.**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ### Characteristics of the C: Drive
 
  This is your Windows computer's primary drive or partition. Here are the features of the C: drive:
@@ -53,15 +54,16 @@ DbSchema database designer for all databases, schema design in the team, schema 
 * Typically, the C: drive houses all the applications (with their file data) you or the manufacturer installs, including other related system files. All your computer's software and files are on the C: drive. Therefore, most programs and software are installed into the local disk C: by default.  
 ![Local Drive C Components](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/local-drive-c-components.jpg)
 * While it is possible to use the D: drive or C: drive for games and other non-essential apps, some app components must be installed on your primary drive to function properly, as it houses your OS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * If the drive C: is an SSD, it'll likely be faster than an external HDD assigned the letter D. However, a heavily fragmented drive C: with numerous read and write operations may be slower than a D: drive with fewer operations. But this will vary greatly based on each computer's specifications.
 * Although the primary partition or drive is automatically assigned letter C, you can [swap drive letter C for another letter](https://www.makeuseof.com/tag/change-drive-letter-windows/), as it’s not set in stone. However, it’s typically not worth the hassle!
 
  Remember that the letter C in itself doesn't mean anything. However, it's typically assigned as an identifier for the local drive containing your Windows OS.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## What Is the Local Drive D?
 
 ![USB stick, disc, and SD card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/recover-sd-card-data.jpg)
@@ -76,14 +78,16 @@ Image Credit: DAMRONG RATTANAPONG/[Shutterstock](https://www.shutterstock.com/im
 
  Otherwise, your D: drive can be a removable flash drive or memory card—any additional local drive you connect to your computer after the drive (C:). Once the letter D is taken, your Windows computer will assign the letter E (up to Z) to any other local disk you attach to your device.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A screenshot showing Windows (C:) and a USB Drive (D:) in the File Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/drive-d-and-c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Characteristics of the D: Drive
 
  Drive D: is a secondary local drive attached to your system after the primary drive with your OS. Here are the common features of the D: drive:
@@ -102,9 +106,6 @@ Image Credit: DAMRONG RATTANAPONG/[Shutterstock](https://www.shutterstock.com/im
 
  Drives containing a Linux or macOS operating system are mounted at **/** (the system root) instead of C: as in Windows computers. Other drives and storage devices can be mounted in arbitrary folders. For instance, external storage devices on Linux computers are typically accessed at **/mount** instead of a D: drive or E: drive.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## C: Drive vs. D: Drive: Which Should You Use?
 
  The C drive is the local disk from which your operating system runs. It houses all your computer's default programs, applications, and system files. Meanwhile, the D drive is a secondary hard drive on which you can store data that isn’t vital for your computer’s operations.
@@ -113,12 +114,31 @@ Image Credit: DAMRONG RATTANAPONG/[Shutterstock](https://www.shutterstock.com/im
 
  Let's compare both drives to see if their differences change your storage preferences.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-leading-makers-premium-instagram-highlight-craftsmen/"><u>[Updated] In 2024, Leading Makers Premium Instagram Highlight Craftsmen</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-win10s-best-screen-capture-and-recording-options-for-2024/"><u>[Updated] Win10's Best Screen Capture and Recording Options for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-digital-artisans-exclusive-summit/"><u>2024 Approved Digital Artisans' Exclusive Summit</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/detailed-evaluation-of-the-latest-snappydriver-install-version-113-for-windows-users/"><u>Detailed Evaluation of the Latest SnappyDriver Install Version (1.13) for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/exposing-limits-the-cpu-performance-spectrum/"><u>Exposing Limits: The CPU Performance Spectrum</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-d3dx939-error-steps-to-recover-dll/"><u>Fixing D3DX9_39 Error: Steps to Recover DLL</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/foldable-future-arrives-intriguing-forecast-for-iphones-new-form-with-tentative-price-release-info-and-speculations-shared/"><u>Foldable Future Arrives? Intriguing Forecast for iPhone's New Form with Tentative Price, Release Info & Speculations Shared</u></a></li>
+<li><a href="https://windows11.techidaily.com/guidelines-to-selectively-turn-off-windows-11-services/"><u>Guidelines to Selectively Turn Off Windows 11 Services</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-alt-codes-not-working-on-windows/"><u>How to Fix ALT Codes Not Working on Windows</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-tips-for-making-facebook-ad-videos-memorable/"><u>In 2024, Tips for Making Facebook Ad Videos Memorable</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-acoustic-transitions-in-audacity-pro-suite-for-2024/"><u>Mastering Acoustic Transitions in Audacity Pro Suite for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-unleash-pro-level-video-editing-with-64-bit-software/"><u>New 2024 Approved Unleash Pro-Level Video Editing with 64-Bit Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/quicken-pace-elevating-gameplay-with-better-frames/"><u>Quicken Pace: Elevating Gameplay with Better Frames</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-windows-services-command-prompt-tool-a-list-of-7-remedies/"><u>Reviving Windows Services Command Prompt Tool: A List of 7 Remedies</u></a></li>
+<li><a href="https://windows11.techidaily.com/stop-mouse-accel-tips-for-win-11-users/"><u>Stop Mouse Accel: Tips for Win 11 Users</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/top-free-software-para-crear-una-copia-de-seguridad-de-su-m2-ssd/"><u>Top Free Software Para Crear Una Copia De Seguridad De Su M.2 SSD</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-woes-alternatives-without-upgrading/"><u>Windows 11 Woes: Alternatives Without Upgrading</u></a></li>
+</ul></div>
 

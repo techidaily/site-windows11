@@ -1,7 +1,7 @@
 ---
 title: Guide to Correct Oculus App Errors in WinXI/WinXC
-date: 2025-01-04T17:13:23.864Z
-updated: 2025-01-10T21:34:54.775Z
+date: 2025-01-09T10:54:38.401Z
+updated: 2025-01-16T15:27:59.599Z
 tags:
   - windows10
   - windows11
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/run-as-administrator.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Some Windows programs require admin permission for installation. So, try running the Oculus installer file as an administrator to give it full system access. You can do that by right-clicking the **OculusSetup.exe** file and selecting **Run as administrator**.
 
 ## 3\. Deselect the Use Proxy Server Checkbox
@@ -44,14 +40,10 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 ![The Use a proxy server checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/use-a-proxy-server-option-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Disabling proxy servers is another fix a few Oculus app users confirm can fix the “we encountered an error” installation issue. You can deselect the **Use a proxy server** checkbox within Internet Properties. Our [guide to disabling proxy settings in Windows](https://www.makeuseof.com/windows-11-disable-proxy/) includes step-by-step instructions for how you can deselect that setting.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Temporarily Disable Microsoft Defender (or Third-Party Antivirus)
 
@@ -59,11 +51,23 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/real-time-protection-option-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you utilize third-party antivirus software, turn off that app’s antivirus shield. Right-click a system tray icon for the antivirus software and select an option that will turn off its real-time antivirus shield (preferably for no longer than 30-60 minutes). Then try installing Oculus with your antivirus protection turned off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Turn Off the Windows Firewall
 
 ![The Turn off Windows Defender Firewall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/turn-off-windows-defender-firewall-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Windows firewall can disrupt the Oculus server connection required for the software installation. So, temporarily disable the Microsoft Defender Firewall before installing the Oculus app. Check out this [how-to turn off Microsoft Defender Firewall guide](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) for instructions about how to do so. Then have another go at installing the Oculus software with the firewall disabled.
 
@@ -76,14 +80,14 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 ![The Download button for .NET Framework 4.6.1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/download-button-1.jpg)
 3. Bring up the directory containing the downloaded .NET Framework setup file.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Double-click the **NDP461-KB3102438-Web.exe** file to bring up the setup window.
 5. Select to install .NET Framework 4.6.1 if you need to.
 
  The setup wizard will say if .NET Framework 4.6.1 or later is installed on your PC. If you don’t need to install that framework, try applying the resolution below or others specified here.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Remove Leftovers From a Previous Oculus App Installation
 
@@ -94,10 +98,6 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 3. Right-click any Oculus subfolder in the **Roaming** directory and select **Delete**.  
 ![An Oculus folder and the Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/oculus-folder.jpg)
 4. Repeat the previous step to delete any Oculus subfolders left behind at these folder locations:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 `C:\Users\<User Folder>\AppData\LocalLow  
 C:\Users\<User Folder>\AppData\Local  
@@ -121,22 +121,24 @@ C:\Users\<User Folder>\AppData`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-capturing-creativity-6-approaches-for-recording-minecraft-games/"><u>[New] 2024 Approved Capturing Creativity 6 Approaches for Recording Minecraft Games</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-breaking-the-mold-how-to-create-a-standout-youtube-channel-name/"><u>[New] In 2024, Breaking the Mold How to Create a Standout YouTube Channel Name</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-streamlining-your-video-calls-how-to-utilize-zoom-on-win10-pcs-for-2024/"><u>[Updated] Streamlining Your Video Calls How to Utilize Zoom on Win10 PCs for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/discover-8-fantastic-websites-offering-free-3d-text-psdfiles/"><u>Discover 8 Fantastic Websites Offering Free 3D Text PSDFiles</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-install-guide-and-free-driver-software-to-support-your-techkey-bluetooth-adapter-on-windows-1178/"><u>Easy Install Guide & Free Driver Software to Support Your Techkey Bluetooth Adapter on Windows (11/7/8)</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-sound-device-errors-in-audacity-for-windows-users/"><u>Fixing Sound Device Errors in Audacity for Windows Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-overcome-privilege-not-held-error-code-0x80070522-in-win1110/"><u>How to Overcome Privilege Not Held Error (Code 0X80070522) in Win11/10</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-file-validation-overcoming-summation-discrepancies/"><u>Mastering File Validation: Overcoming Summation Discrepancies</u></a></li>
-<li><a href="https://windows11.techidaily.com/mitigating-installer-setbacks-for-amd-software/"><u>Mitigating Installer Setbacks for AMD Software</u></a></li>
-<li><a href="https://fox-info.techidaily.com/premiere-pros-shadowy-showdown-for-2024/"><u>Premiere Pro's Shadowy Showdown for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/professional-picture-editing-hacks-how-to-add-text-with-precision-for-2024/"><u>Professional Picture Editing Hacks How to Add Text with Precision for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-guide-to-resolving-no-sync-problems-in-to-do/"><u>Quick Guide to Resolving No Sync Problems in To Do</u></a></li>
-<li><a href="https://win11.techidaily.com/reclaiming-preferred-keyboard-settings-in-windows-11/"><u>Reclaiming Preferred Keyboard Settings in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/techniques-for-erasing-unwanted-images-from-canvas/"><u>Techniques for Erasing Unwanted Images From Canvas</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-ultimate-2024-tutorial-resolving-your-xr30-headset-microphone-issues/"><u>The Ultimate 2024 Tutorial: Resolving Your XR30 Headset Microphone Issues</u></a></li>
-<li><a href="https://windows11.techidaily.com/transforming-your-pc-into-a-learning-hub/"><u>Transforming Your PC Into a Learning Hub</u></a></li>
-<li><a href="https://windows11.techidaily.com/uncover-hidden-windows-11-taskbar-investigative-tool/"><u>Uncover Hidden Windows 11 Taskbar Investigative Tool</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-7-pioneering-metaverse-projects-for-profound-understanding/"><u>[New] 7 Pioneering Metaverse Projects for Profound Understanding</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-oppo-a18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/applications-and-their-unique-run-notations-explored/"><u>Applications & Their Unique Run Notations Explored</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210563523-9789391028848-ashramed/"><u>Ashramed | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/dive-into-windows-11-a-guide-to-taskbar-search-functionality/"><u>Dive Into Windows 11: A Guide to Taskbar Search Functionality</u></a></li>
+<li><a href="https://windows11.techidaily.com/explore-the-best-techniques-to-streamline-your-windows-folder-system/"><u>Explore the Best Techniques to Streamline Your Windows Folder System</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-perfecting-images-slideshow-and-fix-in-windows-11-photos-app/"><u>Guide to Perfecting Images: Slideshow & Fix in Windows 11 Photos App</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-reinstating-original-size-for-win-11-icons/"><u>Guide to Reinstating Original Size for Win 11 Icons</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-lava-blaze-2-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Lava Blaze 2 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/immediate-actions-for-non-displayed-windows-sign-ins/"><u>Immediate Actions for Non-Displayed Windows Sign-Ins</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-infinix-smart-8-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Infinix Smart 8?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/profit-peaks-techniques-to-maximize-revenue-from-mobile-youtube-content-for-2024/"><u>Profit Peaks Techniques to Maximize Revenue From Mobile YouTube Content for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-honor-x7b-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Honor X7b has been deleted.</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedy-for-no-sound-during-system-tests/"><u>Remedy for No Sound During System Tests</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplifying-the-process-anydesk-fixes-for-windows-users/"><u>Simplifying the Process: AnyDesk Fixes for Windows Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-magsafe-wallets-of-2024-comprehensive-reviews-by-tech-experts/"><u>Top-Rated MagSafe Wallets of 2024: Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-unverified-adobe-in-windows/"><u>Troubleshooting Unverified Adobe in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/tweaking-netconfigs-windows-11-edition/"><u>Tweaking NetConfigs: Windows 11 Edition</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-mac-users-rejoice-top-alternatives-to-pinnacle-studio/"><u>Updated Mac Users, Rejoice! Top Alternatives to Pinnacle Studio</u></a></li>
 </ul></div>
 

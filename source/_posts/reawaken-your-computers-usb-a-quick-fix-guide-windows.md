@@ -1,7 +1,7 @@
 ---
 title: "Reawaken Your Computer's USB: A Quick Fix Guide, Windows"
-date: 2025-01-06T18:55:19.222Z
-updated: 2025-01-10T19:26:44.316Z
+date: 2025-01-10T13:02:21.897Z
+updated: 2025-01-16T12:49:42.795Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Think Your USB Port Is Not Working? Test It
@@ -50,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 
  Finally, grab a USB cable (or flash drive) and gently wiggle it around. If the drive is moving and feels loose---typically this will be up and down---then you have a problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix a Broken USB Port on PC and Laptop
 
  We'll look at some software fixes in a moment, but first, what if the USB port is loose?
@@ -71,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
  With your unrecognized USB device correctly inserted into the suspect USB port, restart your computer. Once the operating system has rebooted, it should detect the USB device. If not, it's worth looking at the device in the Windows device manager.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Check USB Ports on Windows 10 With Device Manager
@@ -84,13 +88,13 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 ![Open Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/muo-diy-fix-USB-ports-device-mgr.png)
 2. **Browse the list for** **Universal Serial Bus controllers**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Expand this and look for the **USB Host Controller**(your device may have a longer title, but it will feature those three words)  
 ![Find the USB Host Controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/muo-diy-fix-USB-ports-device-mgr-host-controller.png)
 4. Right-click USB Host Controller (and any duplicates) and select **Uninstall**  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Uninstall USB Host Controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/muo-diy-fix-USB-ports-device-mgr-host-controller-uninstall.png)
 5. Restart your computer
@@ -98,10 +102,6 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 6. If no USB Host Controller is listed, click **Scan for hardware changes** on the toolbar
 
  If you're using a USB mouse and keyboard, it will be disabled while the USB Host Controllers are uninstalled.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Have Power Settings Stopped Your USB Ports Working?
 
@@ -124,6 +124,10 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 ![Alter USB power settings in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/muo-windows-dead-usb-suspend-bg-2022.jpg)
 7. Click **Apply** and **OK** to confirm
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Finally, reboot your PC to ensure this change is applied
 
  You should find that any USB ports that were not working have now been fixed.
@@ -135,10 +139,6 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
  It's no wonder, then, that any tampered settings in your BIOS or UEFI will leave a variety of problems in its wake, including a malfunctioning USB port. So if you've reason to believe something has gone wrong with the BIOS/UEFI settings, we suggest resetting its settings.
 
  Check out [how to enter the BIOS settings on Windows](https://www.makeuseof.com/tag/enter-bios-computer/) for instructions. If it was indeed a faulty BIOS/ UEFI stopping your USB port from working properly, then everything will be back to normal after a reset.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## You've Fixed Your Broken USB Port
 
@@ -156,24 +156,21 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-apowersoft-capture-app-reviewed/"><u>[New] 2024 Approved Apowersoft Capture App Reviewed</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-find-the-top-8-video-communication-apps-for-android-groups-for-2024/"><u>[New] Find the Top 8 Video Communication Apps for Android Groups for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-picture-in-progressive-screen-mastery-for-chrome-users-across-platforms/"><u>[Updated] 2024 Approved Picture in Progressive Screen Mastery for Chrome Users Across Platforms</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-say-no-to-latency-turn-on-av1-in-youtube-settings/"><u>[Updated] In 2024, Say No to Latency Turn On AV1 in YouTube Settings</u></a></li>
-<li><a href="https://discover-help.techidaily.com/choosing-the-ideal-voice-assistant-a-comparative-review-of-apples-homepod-and-amazons-echo/"><u>Choosing the Ideal Voice Assistant: A Comparative Review of Apple's HomePod and Amazon's Echo</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/611466-9781770700222-death/"><u>Death | Free Book</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-mac-gif-mastery-find-the-best-10-recorders/"><u>In 2024, Mac GIF Mastery Find the Best 10 Recorders</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-your-journey-to-glamorous-guruship-launching-an-aesthetic-channel/"><u>In 2024, Your Journey to Glamorous Guruship Launching an Aesthetic Channel</u></a></li>
-<li><a href="https://windows11.techidaily.com/integrating-unique-lock-patterns-in-windows-11-systems/"><u>Integrating Unique Lock Patterns in Windows 11 Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/preserve-your-tailored-powertoys-environment-at-new-devices/"><u>Preserve Your Tailored PowerToys Environment at New Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/supercharge-ssds-in-windows-mastery-of-ssd-fresh/"><u>Supercharge SSDs in Windows - Mastery of SSD Fresh</u></a></li>
-<li><a href="https://windows11.techidaily.com/swift-solutions-for-stuck-windows-update-fixers/"><u>Swift Solutions for Stuck Windows Update Fixers</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-6-brightness-tools-for-windows-multi-screen-setups/"><u>Top 6 Brightness Tools for Windows Multi-Screen Setups</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-unretrievable-graphics-settings-via-geforce-experience-windows-11/"><u>Troubleshooting Unretrievable Graphics Settings via GeForce Experience, Windows 11</u></a></li>
-<li><a href="https://win-special.techidaily.com/troubleshooting-overcoming-installation-lockup-in-version-906-of-emeditor-software/"><u>Troubleshooting: Overcoming Installation Lockup in Version 9.06 of EmEditor Software</u></a></li>
-<li><a href="https://windows11.techidaily.com/uncovering-the-invisible-workers-in-win11/"><u>Uncovering the Invisible Workers in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-the-masters-realm-command-center-admin-panel/"><u>Unlocking The Master's Realm: Command Center Admin Panel</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-the-wacatacbml-mystery-and-removal-guide-for-windows-pcs/"><u>Unveiling: The Wacatac.B!ml Mystery & Removal Guide for Windows PCs</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-selecting-the-premier-windows-application-for-auditory-emptying-in-videos/"><u>Updated In 2024, Selecting the Premier Windows Application for Auditory Emptying in Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-maximizing-impact-strategies-for-watermark-and-logo-insertion-in-yt-videos/"><u>[New] Maximizing Impact Strategies for Watermark & Logo Insertion in YT Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-samsung-galaxy-s8-in-depth-4k-phone-analysis/"><u>[Updated] In 2024, Samsung Galaxy S8 In-Depth 4K Phone Analysis</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-nailing-the-technique-for-snapchat-screen-time-lapses/"><u>[Updated] Nailing the Technique for Snapchat Screen Time-Lapses</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/circumventing-driver-checks-in-windows-no-signatures-any-installation/"><u>Circumventing Driver Checks in Windows: No Signatures, Any Installation</u></a></li>
+<li><a href="https://windows11.techidaily.com/controlling-registry-tools-access-on-windows-11/"><u>Controlling Registry Tools Access on Windows 11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/engaging-children-with-vtech-cams/"><u>Engaging Children with VTech Cams</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/from-runes-to-revelry-the-language-of-nordic-warriors/"><u>From Runes to Revelry: The Language of Nordic Warriors</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-from-iphone-6-plus-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock from iPhone 6 Plus</u></a></li>
+<li><a href="https://windows11.techidaily.com/leveraging-execution-descriptor-labels-in-software/"><u>Leveraging Execution Descriptor Labels in Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfectly-pivoting-to-windows-11-in-place-strategies/"><u>Perfectly Pivoting to Windows 11: In-Place Strategies</u></a></li>
+<li><a href="https://program-issues.techidaily.com/rainbow-six-sieges-future-looks-bright-with-its-planned-update/"><u>Rainbow Six Siege's Future Looks Bright with Its Planned Update !</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-customizing-your-windows-11-notepad-appearance/"><u>Step-by-Step: Customizing Your Windows 11 Notepad Appearance</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailored-screenscape-designing-distinctive-displays-on-each-window-of-win-1011/"><u>Tailored Screenscape: Designing Distinctive Displays on Each Window of Win 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-to-break-the-bond-onedrive-from-ms-account-on-windows/"><u>Techniques to Break the Bond: OneDrive From MS Account on Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-role-and-advantage-of-dual-mode-displays-in-gaming/"><u>The Role and Advantage of Dual-Mode Displays in Gaming</u></a></li>
 </ul></div>
 

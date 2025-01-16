@@ -1,7 +1,7 @@
 ---
 title: How To Successfully Retry Failed Application Downloads on Marketplace
-date: 2025-01-08T17:44:40.761Z
-updated: 2025-01-10T16:12:34.655Z
+date: 2025-01-09T11:41:56.204Z
+updated: 2025-01-15T21:14:00.571Z
 tags:
   - windows10
   - windows11
@@ -26,16 +26,12 @@ thumbnail: https://thmb.techidaily.com/4abc1e0d974f64940dfb669b21c754808ce4ab1e9
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Run the Microsoft Store Troubleshooter
 
 ![windows store apps troubleshooter 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-store-apps-troubleshooter-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can quickly fix common Microsoft Store problems using the Windows Store Apps troubleshooter. It is a built-in troubleshooting utility that can scan and fix issues preventing the Microsoft Store from installing apps.
 
@@ -47,12 +43,16 @@ To run the Windows Store Apps troubleshooter:
 4. Scroll down and click on the**Run** button for Windows Store Apps. The troubleshooter will perform a scan and recommend fixed. Apply any recommended fixes and check for improvements.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Clear and Reset the Windows Store Cache Using WSReset
 
 ![wsreset clear microsoft store cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wsreset-clear-microsoft-store-cache.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  WSReset or Windows Store Reset is a built-in utility to reset or clear Windows Store Cache. Resetting the store cache can help you fix temporary glitches preventing you from installing apps from Microsoft Store.
 
@@ -91,6 +91,10 @@ To restart Microsoft Store Install Service:
 
 ![repair microsoft store windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/repair-microsoft-store-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can use the built-in repair tool to fix common issues that may prevent the Microsoft Store from triggering such errors. Follow these steps to repair the Microsoft Store app.
 
 1. Press**Win + I** to open**Settings** .
@@ -121,16 +125,12 @@ To reset Microsoft Store:
 
  Launch Microsoft Store and sign in with your Microsoft Account if required. Then, try to install the app and check for any improvements.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Re-register the Microsoft Store App
 
 ![powershell re_register microsoft store app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/powershell-re_register-microsoft-store-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Another way to fix the "this app couldn’t be installed" error is to re-register the Microsoft Store using PowerShell. Here’s how to do it.
@@ -141,10 +141,6 @@ To reset Microsoft Store:
 4. In the PowerShell window, type the following command to re-register the app for the current user:  
 `Get-AppXPackage *Microsoft.WindowsStore* | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}`
 5. Wait for the command to process and close PowerShell. Relaunch Microsoft Store and check if you can install the app without the error.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Reinstall the Microsoft Store
 
@@ -170,6 +166,10 @@ To reinstall Microsoft Store:
 ![reinstall microsoft store powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/reinstall-microsoft-store-powershell.jpg)
 6. Press**Win** key and type**Microsoft Store** to launch the app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixing the "This App Couldn’t Be Installed" Error on Windows
 
  This error is often due to issues with the corrupt app cache and temporary glitches. Use the Windows Store Apps troubleshooter or run the WSreset tool to fix common problems with Microsoft Store. If the issue persists, you can perform a reset or re-register the app to resolve the error.
@@ -191,17 +191,22 @@ To reinstall Microsoft Store:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-big-sur-basics-system-and-hardware-checklist/"><u>[New] 2024 Approved Big Sur Basics System & Hardware Checklist</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-perfecting-your-content-understanding-facebook-video-sizes-and-ratios/"><u>[New] 2024 Approved Perfecting Your Content Understanding Facebook Video Sizes and Ratios</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-how-to-capture-motion-blur-photos-with-iphone/"><u>[Updated] How to Capture Motion Blur Photos with iPhone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-recommended-videos-block-the-videos-i-dont-like/"><u>[Updated] YouTube Recommended Videos - Block the Videos I Don't Like</u></a></li>
-<li><a href="https://windows11.techidaily.com/expeditiously-mute-windows-11-pings/"><u>Expeditiously Mute Windows 11 Pings</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/exploring-ffmpegs-prowess-in-the-preservation-of-original-soundscape/"><u>Exploring FFmpeg’s Prowess in the Preservation of Original Soundscape</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/from-zero-to-hero-on-twitter-live/"><u>From Zero to Hero on Twitter Live</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-instagram-verified-posts-do-they-matter/"><u>In 2024, Instagram Verified Posts - Do They Matter?</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-fixed-windows-update-blockades/"><u>Navigating Fixed Windows Update Blockades</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-for-windows-11-dolby-atmos-audio/"><u>Step-by-Step for Windows 11: Dolby Atmos Audio</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-to-address-steams-file-privilege-problem-in-win11/"><u>Tips to Address Steam's File Privilege Problem in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/winwm-energy-hack-lowering-gpu-draw-in-windows-11/"><u>WinWM Energy Hack: Lowering GPU Draw in Windows 11</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-new-horizons-in-video-codecs-comparing-av1-and-vp9/"><u>[New] New Horizons in Video Codecs Comparing Av1 and VP9</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-score-the-biggest-bargains-on-mystery-boxes-websites/"><u>[New] Score the Biggest Bargains on Mystery Boxes Websites</u></a></li>
+<li><a href="https://games-able.techidaily.com/6-ways-to-use-your-ps5-without-a-controller/"><u>6 Ways to Use Your PS5 Without a Controller</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-windows-pe-file-system/"><u>Decoding Windows' PE File System</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/groundwork-for-motion-visual-storytelling-for-2024/"><u>Groundwork for Motion Visual Storytelling for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-activate-a-virtual-wifi-hotspot-in-windows-11-fixed/"><u>How to Activate a Virtual WiFi Hotspot in Windows 11 (Fixed)</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-a-lost-apple-iphone-xs-for-free-drfone-by-drfone-virtual-ios/"><u>How to Track a Lost Apple iPhone XS for Free? | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-proven-audacity-strategies-for-top-quality-recordings/"><u>In 2024, Proven Audacity Strategies for Top-Quality Recordings</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-performance-with-5-wsl-2-enhancements/"><u>Maximizing Performance with 5 WSL 2 Enhancements</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-read-only-status-in-1011s-file-directories/"><u>Remedying Read-Only Status in 10/11'S File Directories</u></a></li>
+<li><a href="https://windows11.techidaily.com/seeking-entry-into-the-windows-11-insider-circle/"><u>Seeking Entry Into the Windows 11 Insider Circle</u></a></li>
+<li><a href="https://windows11.techidaily.com/starting-windows-terminal-with-quake-effects/"><u>Starting Windows Terminal with Quake Effects</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlined-startup-routines-in-modern-windows/"><u>Streamlined Startup Routines in Modern Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/surface-go-3-with-latest-chip-reviewed-mixed-outcomes-noted/"><u>Surface Go 3 with Latest Chip Reviewed: Mixed Outcomes Noted</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-windows-11s-compatibility-checker-usage-guide/"><u>Understanding Windows 11'S Compatibility Checker: Usage Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/unveiling-the-secrets-of-a-fresh-twitter-account/"><u>Unveiling the Secrets of a Fresh Twitter Account</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-xiaomi-redmi-note-12-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Xiaomi Redmi Note 12 5G Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Navigating New Horizons: The Efficient Path for Windows 11, In-Place Update"
-date: 2024-12-30T03:47:09.507Z
-updated: 2025-01-04T01:37:53.114Z
+date: 2025-01-15T11:08:16.982Z
+updated: 2025-01-16T06:27:19.016Z
 tags:
   - windows10
   - windows11
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b
  We will elaborate on what exactly is an in-place upgrade and how it differs from a clean installation of Windows 11\. Moreover, you will learn about the detailed method to perform the upgrade if the need arises.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is an In-Place Upgrade on Windows?
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b
  All of this is made possible by the latest Windows ISO file. You can perform an in-place upgrade or wipe out everything and start with a clean slate. But why do an in-place upgrade when you can[Reset your PC](https://www.makeuseof.com/reset-windows-11-settings-app/) and keep all your personal files? It is because of the difference between the two methods.
 
  An in-place upgrade doesn’t replace anything other than Windows files. So, in addition to your personal files, all the installed apps and system settings also remain untouched. You won’t need to re-configure those settings after the in-place upgrade completes. But if you go with the Reset option, it can preserve your files but will remove all your installed programs and settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Prerequisites Before Performing a Windows In-Place Upgrade
 
@@ -42,21 +46,17 @@ thumbnail: https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b
 * Remove all external peripherals.
 * Ensure fast internet connectivity.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Perform an In-Place Upgrade on Windows 11
 
  To perform an in-place upgrade, you need to do two things. Firstly, you need to download the latest Windows 11 ISO file. Then, you need to run the setup from the ISO file, pick the appropriate in-place upgrade option, and proceed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Download the Windows 11 ISO Image File
 
  First of all, you need to grab the Windows 11 ISO image file. If you don't already have one on hand, check out[how to download a Windows ISO without the Media Creation tool](https://www.makeuseof.com/windows-iso-direct-download/) for some easy methods.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Perform an In-Place Upgrade Using the Windows11 ISO Image File
 
@@ -70,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b
 5. Read the EULA page and click on the**Accept** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. On the**Choose what to keep** page, select the**Keep personal files and apps** option. Click on the**Next** button. Then click on the**Install** button.  
@@ -86,7 +86,7 @@ thumbnail: https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b
 5. Check your installed apps list, personal files, and settings. Everything will pretty much be the same.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Don’t Reset Windows 11 Before Trying an In-Place Upgrade
@@ -108,15 +108,20 @@ thumbnail: https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/treamlining-youtube-watch-order-masterclass-for-2024/"><u>[New] Streamlining YouTube Watch Order Masterclass for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-virtual-vice-versa-10-alternative-action-games/"><u>[Updated] 2024 Approved Virtual Vice-Versa 10 Alternative Action Games</u></a></li>
-<li><a href="https://windows11.techidaily.com/8-essential-fixes-for-resistant-windows-pin-locks/"><u>8 Essential Fixes for Resistant Windows PIN Locks</u></a></li>
-<li><a href="https://windows11.techidaily.com/asus-challenges-rog-ally-with-innovative-designs/"><u>ASUS Challenges ROG Ally with Innovative Designs</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-overload-on-windows-applications-0x80860010/"><u>Bypassing Overload on Windows Applications (0X80860010)</u></a></li>
-<li><a href="https://windows11.techidaily.com/coalescing-file-structures-a-windows-guide/"><u>Coalescing File Structures, A Windows Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-gionee-f3-pro-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Gionee F3 Pro.</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-the-lock-screen-on-my-honor-70-lite-5g-by-drfone-android-unlock-android-unlock/"><u>How to Unlock the Lock Screen on my Honor 70 Lite 5G</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-10-steps-to-become-a-successful-smm/"><u>In 2024, 10 Steps to Become a Successful SMM</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211323805-9781801521598-the-way-of-the-four-elements/"><u>The Way of the Four Elements | Free Book</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-mastering-iphone-scaling-images-quickly/"><u>[New] Mastering iPhone Scaling Images Quickly</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-your-way-through-vr-headset-selection-is-the-mobile-experience-more-attractive-than-tethered-tech/"><u>[New] Navigating Your Way Through VR Headset Selection Is the Mobile Experience More Attractive Than Tethered Tech?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-essence-of-tale-spinning-techniques/"><u>[Updated] 2024 Approved Essence of Tale-Spinning Techniques</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-essential-7-apps-for-high-quality-youtube-live-streaming-on-iphones-and-android/"><u>[Updated] In 2024, Essential 7 Apps for High-Quality YouTube Live Streaming on iPhones & Android</u></a></li>
+<li><a href="https://windows11.techidaily.com/an-intuitive-guide-to-performing-a-windows-rollback-via-system-restore/"><u>An Intuitive Guide to Performing a Windows Rollback via System Restore</u></a></li>
+<li><a href="https://windows11.techidaily.com/disentangling-compact-icons-on-desktop-shelf/"><u>Disentangling Compact Icons on Desktop Shelf</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-snipping-tool-keyboard-failures-on-pc/"><u>Fixing Snipping Tool Keyboard Failures on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-speed-up-and-conclude-your-puzzled-updates/"><u>How to Speed Up and Conclude Your Puzzled Updates</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-gaining-clarity-on-your-youtube-audiences-behavior/"><u>In 2024, Gaining Clarity on Your YouTube Audience's Behavior</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Tecno Spark 20C? | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/navigating-the-future-elite-software-engineering-lessons/"><u>Navigating the Future: Elite Software Engineering Lessons</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-11-calendar-easily/"><u>Navigating Windows 11 Calendar Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210430494-quick-solutions-to-rdr2-memory-errors-boost-your-page-file-size-now/"><u>Quick Solutions to RDR2 Memory Errors: Boost Your Page File Size Now!</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-turning-onoff-windows-10s-smartscreen/"><u>Tips for Turning On/Off Windows 10'S SmartScreen</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-a-brief-review-of-capcut-translate-with-alternative-for-2024/"><u>Updated A Brief Review of CapCut Translate With Alternative for 2024</u></a></li>
 </ul></div>
 

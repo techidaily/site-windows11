@@ -1,7 +1,7 @@
 ---
 title: Converting Your Notepad to Nighttime Mode with Ease on Windows 11
-date: 2024-08-08T05:59:38.137Z
-updated: 2024-08-09T05:59:38.137Z
+date: 2025-01-13T03:02:52.241Z
+updated: 2025-01-15T22:21:29.338Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/b344d8db48d6d42211b0b57079da5753b23f49ded
 
  In this guide, we will discuss the steps of enabling Dark Mode in Notepad and Notepad++ in detail. It is incredibly easy to make these changes and revert them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable Dark Mode in Notepad on Windows 10
 
  If you're unsure about this feature, read our guide on [what dark mode really is and how it works](https://www.makeuseof.com/what-is-dark-mode-and-how-does-it-work/) before we get into the nitty gritty of enabling it.
@@ -31,9 +35,9 @@ thumbnail: https://thmb.techidaily.com/b344d8db48d6d42211b0b57079da5753b23f49ded
 Whichever method you prefer, we will cover both methods in detail.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Modify the Ease of Access Settings
 
  The easiest route to enabling dark mode in Notepad on Windows 10 is by enabling the High contrast feature in the Ease of Access settings. However, this feature might not be suitable for everyone.
@@ -46,9 +50,6 @@ Here is how you can enable it:
 2. Choose**Ease of Access** in the following window.
 3. Choose the**High contrast** option from the left pane.
 4. Turn the toggle on for**Turn on high contrast** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Enable high contrast on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/turn-on-high-contrast.jpg)
 
  Your system will take a few seconds to apply these changes. Once that is done, you can launch the notepad to see if the changes are applied.
@@ -65,9 +66,6 @@ Here is how you can enable it:
 
  In case you have downloaded a third-party text editor and wish to continue using it instead of Notepad, you should make it your default editor. For this, right-click on any text file and choose**Open with** \>**Choose another app** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![Choose another app to open file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/open-with-choose-another-app.jpg)
 
  Choose the targeted app in the following dialog and checkmark the box for "Always use this app to open .txt files."
@@ -76,9 +74,6 @@ Here is how you can enable it:
 
  The new Windows operating system also allows users to [enable and customize dark mode](https://www.makeuseof.com/windows-11-dark-mode/) on their systems, just like Windows 10 does. If you are a Windows 11 user, then follow one of the methods below to enable dark mode in your Notepad.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Use the Settings App
 
  In this method, we will be switching to dark system mode. However, if the Notepad on your Windows is not configured to use the system theme, then these changes will not work for you. In that case, you can proceed with the next method below.
@@ -90,12 +85,22 @@ Here is how you can make the changes within the Settings app:
 3. Click on**Colors** in the following window.  
 ![Color settings in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/personalization-colors-1.jpg)
 4. Expand the dropdown for**Choose your mode** and choose**Dark** from the context menu.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Dark mode option in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/choose-your-mode-dark.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can now launch the Notepad and check if the dark mode has been enabled successfully. If not, try following the steps in the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Modify the Notepad Settings
 
@@ -106,9 +111,6 @@ Follow these steps to proceed:
 1. Launch Notepad and click on the**gear icon** on the top right.
 2. In the following window, click on the**App theme** option.
 3. Choose**Dark** from the options and see if the changes have been made successfully.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Notepad settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/notepad2-1.jpg)
 
  This should enable the dark mode in Notepad successfully. Nevertheless, in Windows 11 as well, you can install third-party applications from the Microsoft Store or other sources if you cannot follow the aforementioned methods for some reason.
@@ -124,33 +126,28 @@ Follow these steps to proceed:
  If you are using Notepad ++, here is how you can enable the dark theme in the app:
 
 1. Launch Notepad ++ and head over to**Settings** \>**Style Configurator** .  
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Style configurator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/notepad-settings-style-configurator.jpg)
 2. In the following window, expand the dropdown for**Select theme** and choose**Deep Black** .  
 ![Deep black theme in Notepad++](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/notepad-theme-deep-black.jpg)
 3. You can customize the app further by changing the overall style of the app, fonts, and colors. Once you are done, click on**Save & Close** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Your Notepad ++ app should display the dark mode now. Don’t forget to set it as the default text editor by following the steps we highlighted above.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Use Dark Mode in Notepad With Ease
 
  The dark mode trend has spread rapidly among tech giants, and nowadays almost every other app, including Facebook, Messenger, Instagram, Slack, and every search engine supports this feature. When you have become accustomed to seeing things in dark mode, switching to lighter and brighter modes can feel uncomfortable.
 
  Hopefully, the methods listed above helped you in switching to dark mode without any issues. You can always revert the changes by following the same steps if you ever have a change of mind.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -159,6 +156,17 @@ Follow these steps to proceed:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-visionary-film-techniques-top-15-cine-look-ups-empowering-action-cam/"><u>[Updated] In 2024, Visionary Film Techniques Top 15 Cine Look-Ups Empowering Action Cam</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-navigating-and-exploring-every-aspect-of-macs-preview-app/"><u>[Updated] Navigating and Exploring Every Aspect of Mac's Preview App</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-social-interaction-with-board-and-card-games-on-discord/"><u>Maximizing Social Interaction with Board & Card Games on Discord</u></a></li>
+<li><a href="https://fox-access.techidaily.com/optimize-periscope-broadcasts-for-maximum-velocity/"><u>Optimize Periscope Broadcasts for Maximum Velocity</u></a></li>
+<li><a href="https://windows11.techidaily.com/rectifying-reversed-alphabet-input-on-windows/"><u>Rectifying Reversed Alphabet Input on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-recurrent-login-issues-with-microsoft-teams/"><u>Solving Recurrent Login Issues with Microsoft Teams</u></a></li>
+<li><a href="https://windows11.techidaily.com/taming-unresponsive-volume-sliders-on-desktops/"><u>Taming Unresponsive Volume Sliders on Desktops</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-to-conquer-windowsstore-folder-lockdown/"><u>Techniques to Conquer WindowsStore Folder Lockdown</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-recover-or-reinstall-d3dx924dll-for-seamless-software-performance/"><u>The Ultimate Guide to Recover or Reinstall d3dx9_24.dll for Seamless Software Performance</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/unveiling-the-future-of-gaming-assistance-microsofts-ai-powered-xbox-help-chatbot-detailed-by-zdnet/"><u>Unveiling the Future of Gaming Assistance: Microsoft's AI-Powered Xbox Help Chatbot Detailed by ZDNet</u></a></li>
+</ul></div>
 

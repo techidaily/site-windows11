@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Windows After Failed Sign-In
-date: 2025-01-06T20:46:32.179Z
-updated: 2025-01-10T18:42:54.226Z
+date: 2025-01-09T07:56:54.003Z
+updated: 2025-01-16T02:31:46.882Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Causes the "Sign-In Option Is Disabled Because of Failed Sign-In Attempts" Error?
 
  The error message indicates the possible causes for the error are multiple failed sign-in attempts or repeated shutdowns. However, in most instances, the error pops up without reason, even when you are using the correct PIN.
@@ -37,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
 
  Fortunately, you can fix this error by resetting the login PIN and a registry tweak to disable the account lockout option. Follow all the steps in the given order, and you should be able to fix the error and log in to your Windows computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Keep Your Device Powered On for Two Hours
 
  If you don't have an alternate sign-in option enabled or have forgotten the password, you'll need to wait for two hours and then try to sign in again with the sign-in PIN. Make sure your PC remains turned on for two hours for it to work.
@@ -48,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
  The two-hour cooling period seemingly comes with strings attached. Once you see the wait for two hours message after entering the PIN, reboot your computer. When the login screen appears, don't sign in immediately. Wait for two hours and then put in your PIN to sign in.
 
  That said, if you can't wait for two hours, try to log in using an alternate sign-in option, such as a password or biometric authentication. To use the alternate sign-in option, click the dotted icon under the Sign-in options in the error screen to log in with your password.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Reset the Account Password from the Sign-In Screen
 
@@ -88,12 +92,12 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
 ![local users and groups account properties windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/local-users-and-groups-account-peroperties-windows.jpg)
 5. Next, select **Properties**.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![local users and groups unselect account is disabled account is locked out](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/local-users-and-groups-unselect-account-is-disabled-account-is-locked-out.jpg)
 6. In the **Properties** dialog, open the **General** tab.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Here, uncheck Account is disabled, and Account is locked out option.
 8. Click **Apply** and **OK** to save the changes.
@@ -101,7 +105,7 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
  If both the options are already unchecked, proceed to the next solution.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Reset the Windows Account PIN
@@ -115,6 +119,10 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
 1. Open the Notepad app. Search for **Notepad** in Windows search and open the app.  
 ![script remove pin win user account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sccript-remove-pin-win-user-account.jpg)
 2. Next, copy and paste the following script into the Notepad file:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 `@echo off  
 powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'  
@@ -154,10 +162,6 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 ![account lockout threshold gpedit windows modify o value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/account-lockout-threshold-gpedit-windows-modify-o-value.jpg)
 6. Click **Apply** and **OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Edit the Account Lockout Policy Using Registry Editor
 
  You can also configure the account lockout policy on your machine via the Windows Registry. It is also helpful if you are using the Windows Home edition without Group Policy Editor.
@@ -175,7 +179,7 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 5. Select **Modify**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![modify Maxdenials registry DWORD value registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/modify-maxdenials-registry-dword-value-registry-editor.jpg)
@@ -186,10 +190,6 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
  After the restart, you can sign in without receiving the sign-in is disabled notification. If the issue persists, [try to clear the TPM on Windows](https://www.makeuseof.com/clear-tpm-windows-11/). This can be a tricky solution depending on how your account is set up. Clearing TPM may lock you out of your computer. Attempt this only if you have a password-based sign-in option enabled.
 
  If all else fails, try third-party recovery tools like the Trinity Rescue Kit. It is a useful little utility that can help you reset your password.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Resolving the "Disabled Sign-In Options Due to Failed Attempts" Error on Windows
 
@@ -207,18 +207,20 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-5-best-gba-emulators-for-pc-that-hook-you-up/"><u>[Updated] 5 Best GBA Emulators for PC That Hook You Up</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-best-of-mobile-8-ranked-free-and-premium-apps-for-androids-video-tiles/"><u>2024 Approved Best of Mobile #8 Ranked Free & Premium Apps for Android's Video Tiles</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-sdr-to-hdri-pioneers-expert-tips-and-techniques/"><u>2024 Approved SDR to HDRI Pioneers Expert Tips and Techniques</u></a></li>
-<li><a href="https://windows11.techidaily.com/efficiently-planning-tasks-using-excels-gantt-chart-technique/"><u>Efficiently Planning Tasks Using Excel's Gantt Chart Technique</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhancing-your-data-visualization-tutorial-on-secondary-axis-management-in-excel-charts/"><u>Enhancing Your Data Visualization: Tutorial on Secondary Axis Management in Excel Charts</u></a></li>
-<li><a href="https://windows11.techidaily.com/master-microsoft-excel-a-comprehensive-guide-with-12-tricks-for-correcting-faulty-formulas/"><u>Master Microsoft Excel: A Comprehensive Guide with 12 Tricks for Correcting Faulty Formulas</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-excel-a-step-by-step-guide-to-searching-and-substituting-text-and-numbers/"><u>Mastering Excel: A Step-by-Step Guide to Searching and Substituting Text & Numbers</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-unit-conversions-a-step-by-step-guide-using-microsoft-excel/"><u>Mastering Unit Conversions: A Step-by-Step Guide Using Microsoft Excel</u></a></li>
-<li><a href="https://extra-information.techidaily.com/multi-resolution-adjustment-suite/"><u>Multi-Resolution Adjustment Suite</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/perfect-your-editing-full-mastery-of-fcp-for-2024/"><u>Perfect Your Editing Full Mastery of FCP for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-to-setting-up-a-windows-system-restore-point/"><u>Step-by-Step Guide to Setting Up a Windows ^System Restore Point</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-guide-adding-images-to-your-microsoft-excel-spreadsheet/"><u>Step-by-Step Guide: Adding Images to Your Microsoft Excel Spreadsheet</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-master-technique-long-term-disabling-of-youtube-shorts/"><u>[New] 2024 Approved Master Technique Long-Term Disabling of YouTube Shorts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-impeccable-photo-cleanup-with-top-6-iphone-tools-for-objection-exclusion/"><u>[New] Impeccable Photo Cleanup with Top 6 iPhone Tools for Objection Exclusion</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-stream-video-freely-on-any-os-no-cost-video-player/"><u>[New] In 2024, Stream Video Freely on Any OS No-Cost VIDEO Player</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoid-unwanted-hibernation-usb-tweaks-for-windows-11/"><u>Avoid Unwanted Hibernation - USB Tweaks for Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-updating-obstacles-a-compreeher-guide-to-fixes/"><u>Clearing Updating Obstacles: A Compreeher Guide to Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/ensuring-continuous-play-fixing-fall-guys-errors-in-windows-os/"><u>Ensuring Continuous Play: Fixing Fall Guys Errors in Windows OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-troubleshooting-and-resolving-silent-calls-on-skype/"><u>Guide: Troubleshooting and Resolving Silent Calls on Skype</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-calendar-events-iphone-13-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Retrieve Deleted Calendar Events iPhone 13? | Stellar</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-microsoft-teams-instability-on-ws11ws10-devices/"><u>Preventing Microsoft Teams Instability on WS11/WS10 Devices</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-motorola-defy-2-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Motorola Defy 2 Screen | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/stepwise-guide-to-transform-youtube-clips-into-animated-gifs/"><u>Stepwise Guide to Transform Youtube Clips Into Animated GIFs</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-your-notebook-interface-with-themes-and-fonts/"><u>Streamline Your Notebook Interface with Themes & Fonts</u></a></li>
+<li><a href="https://windows11.techidaily.com/switching-your-windows-security-pin-quickly/"><u>Switching Your Windows Security Pin Quickly</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-workflow-with-lenovos-cutting-edge-ai-thinkpads-the-ultimate-laptops-for-todays-business-users-as-featured/"><u>Transform Your Workflow with Lenovo's Cutting-Edge AI ThinkPads – The Ultimate Laptops for Today’s Business Users, as Featured</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/uncovering-the-value-in-depth-look-at-the-new-generation-totobay-alarm-clock-for-cost-conscious-shoppers/"><u>Uncovering the Value: In-Depth Look at the New Generation Totobay Alarm Clock for Cost-Conscious Shoppers</u></a></li>
 </ul></div>
 

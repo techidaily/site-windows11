@@ -1,7 +1,7 @@
 ---
 title: "Differentiating Windows Terminal From PowerShell: A Compreayer Study"
-date: 2024-08-08T05:59:57.865Z
-updated: 2024-08-09T05:59:57.865Z
+date: 2025-01-09T23:11:39.744Z
+updated: 2025-01-15T20:01:54.756Z
 tags:
   - windows10
   - windows11
@@ -25,9 +25,6 @@ thumbnail: https://thmb.techidaily.com/8fc83bbaf6617e7676315028cdd620caacb6dd10b
 * [Community Support](#community-support)
 * [Windows Terminal Is All You Need](#windows-terminal-is-all-you-need)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * PowerShell and Windows Terminal are both command-line interfaces that allow you to manage Windows with text commands.
@@ -38,10 +35,11 @@ thumbnail: https://thmb.techidaily.com/8fc83bbaf6617e7676315028cdd620caacb6dd10b
 
 ## PowerShell Is an Improvement Over the Command Prompt
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Windows PowerShell interface in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/windows-powershell-interface.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Microsoft introduced PowerShell in 2006 to take what people could do in Command Prompt to the next level. Since Microsoft built PowerShell on top of the .NET Framework, you can use .NET languages with text-based commands to interact with your operating system. The most popular language for PowerShell is C#, allowing you to unlock the tool's advanced features and boost your productivity.
 
@@ -51,22 +49,27 @@ thumbnail: https://thmb.techidaily.com/8fc83bbaf6617e7676315028cdd620caacb6dd10b
 
 ## Windows Terminal Is a Terminal Emulator
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![Windows Terminal with the profiles dropdown expanded](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/windows-terminal-with-the-profiles-dropdowb-expanded.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Microsoft introduced Windows Terminal as a terminal emulator in 2019 (during the era of Windows 10). In this context, it can emulate the behavior and functionality of command-line shells, including the Command Prompt and PowerShell. The app is most notable for bringing a command-line tool to Windows that the community has long envied about Linux: [BASH (Bourne Again SHell)](https://www.makeuseof.com/what-is-bash-linux/).
 
  To run BASH and other Linux shells, including ZSH, FISH, and Ksh (KornShell) in Windows Terminal, you'll first have to [enable Windows Subsystems for Linux (WSL)](https://www.makeuseof.com/enable-windows-subsystem-for-linux/). You can also run Azure Cloud Shell in Windows Terminal, which allows you to manage your Azure resources from within Windows Terminal.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## User Interface and Customization
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![the settings page of Windows Terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/the-settings-of-windows-powershell.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  One of Windows Terminal's most notable features is the move to a modern tabbed interface that lets you run several command-line utilities side by side. For instance, you can have multiple instances of Command Prompt running simultaneously while using PowerShell, BASH, or Azure.​​​​​ This is something that PowerShell cannot do.
 
@@ -80,23 +83,19 @@ thumbnail: https://thmb.techidaily.com/8fc83bbaf6617e7676315028cdd620caacb6dd10b
 
  PowerShell also has Unicode and UTF support, but you may run into problems with encoding issues, such as bugs and limitations with specific characters. This is especially true regarding characters from other languages and emojis. Windows Terminal provides a much better experience in this regard.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Community Support
 
  Windows Terminal and PowerShell are open-source projects with active communities that participate in their development. Both communities are passionate about the projects and will continually support their apps, improve their performance, and add more features. There's also extensive documentation available for Windows Terminal and PowerShell, so you'll find no shortage of forums, tutorials, and guides to help you use them effectively.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Windows Terminal Is All You Need
 
  PowerShell helps bring the power of the .NET Framework to the command-line environment, while Windows Terminal emulates various shells, including those from Linux, on your Windows computer. Furthermore, Terminal has more customization options and better Unicode/UTF support than PowerShell.
 
  While each one of these tools is powerful in its own right, there's no need to open PowerShell with Windows Terminal around as it can emulate the Shell environment just as well.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -104,4 +103,20 @@ thumbnail: https://thmb.techidaily.com/8fc83bbaf6617e7676315028cdd620caacb6dd10b
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-top-strategies-for-effective-youtube-short-creation/"><u>[New] In 2024, Top Strategies for Effective YouTube Short Creation</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-innovate-on-screen-imagery-with-youtubes-green-screens-edge/"><u>[New] Innovate On-Screen Imagery with YouTube’s Green Screens Edge</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-present-day-drones-and-their-upcoming-role-evolution/"><u>[New] Present-Day Drones and Their Upcoming Role Evolution</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-saga-scholars-society-premier-picks/"><u>[New] Saga Scholars Society - Premier Picks</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-navigating-the-maze-of-stock-visual-acquisition/"><u>[Updated] Navigating the Maze of Stock Visual Acquisition</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-scrutinizing-instagrams-video-post-limit/"><u>2024 Approved Scrutinizing Instagram's Video Post Limit</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/audio-visual-vanguard-evaluating-the-best-classroom-recorders-for-2024/"><u>Audio-Visual Vanguard Evaluating the Best Classroom Recorders for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/building-your-perfect-gamers-haven-essential-tips-and-tech-from-zdnet/"><u>Building Your Perfect Gamer's Haven: Essential Tips & Tech From ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/one-step-further-batch-to-winexe-journey-unveiled/"><u>One Step Further: Batch-to-WinEXE Journey Unveiled</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-not-available-status-codes-in-windows-os/"><u>Resolving 'Not Available' Status Codes in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-task-execution-top-6-windows-performance-monitors/"><u>Streamline Task Execution: Top 6 Windows Performance Monitors</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-disabling-windows-lsa-security-signal/"><u>Troubleshooting: Disabling Windows LSA Security Signal</u></a></li>
+</ul></div>
 

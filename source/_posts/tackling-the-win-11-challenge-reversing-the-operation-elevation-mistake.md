@@ -1,7 +1,7 @@
 ---
 title: "Tackling the Win 11 Challenge: Reversing the Operation Elevation Mistake"
-date: 2025-01-03T18:06:30.670Z
-updated: 2025-01-10T17:48:57.784Z
+date: 2025-01-08T22:36:29.505Z
+updated: 2025-01-16T15:09:39.086Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Run the Affected Programs With Admin Rights
@@ -36,7 +36,11 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 ![The Run this program as an administrator checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/run-this-program-as-an-administrator.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Set Programs to Run in Compatibility Mode
@@ -50,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 4. Press the **Apply** \> **OK** buttons to set the compatibility mode setting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Turn Off the User Account Control Feature
@@ -58,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
  User Account Control is the security feature that throws up notifications when programs try to make changes. UAC could be a potential cause of error 740 when it’s set very high. So, try turning off UAC before running affected apps. Our [guide to disabling User Account Control](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) tells you how to turn off that feature.
 
 ![The User Account Control Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/user-account-control-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Adjust Folder Permission Settings
 
@@ -80,8 +80,16 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 ![The Replace all child object permission entries checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/replace-all-child-objects-option.jpg)
 7. Click **Apply** on the Advanced Security Settings window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Select **Yes** when asked to continue.
 9. Exit the folder’s properties window and restart your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Modify the Behavior of the UAC Elevation Prompt
 
@@ -96,16 +104,12 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 ![Security Options within Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/security-options.jpg)
 5. Double-click the **User Account Control: Behavior of the elevation prompt for administrators in Admin Approval Mode** policy.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Select the **Elevate without prompting** option on the drop-down menu.  
 ![The Elevate without prompting option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/elevate-without-prompting.jpg)
 7. Click **Apply** to set the **Elevate without prompting policy**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Select **OK** to close the policy setting’s window.
@@ -119,10 +123,6 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 2. Double-click the **User Account Control: Admin Approval Mode for the Built-in Administrator account** policy setting.  
 ![The Admin Approval Mode policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/admin-approval-mode-policy.jpg)
 3. Click the **Disabled** radio button if this policy is enabled.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![the-enabled-radio-button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-enabled-radio-button.jpg)
 4. Select **Apply** to turn off Admin Approval Mode.
@@ -163,20 +163,20 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-a-swift-journey-to-using-ez-grabber-like-a-pro/"><u>[Updated] In 2024, A Swift Journey to Using EZ Grabber Like a Pro</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-streamlining-your-avatar-on-google-meet-devices-for-2024/"><u>[Updated] Streamlining Your Avatar on Google Meet Devices for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/1-mastering-excel-a-step-by-step-guide-to-revealing-hidden-data/"><u>1. Mastering Excel: A Step-by-Step Guide to Revealing Hidden Data</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-essential-guide-to-selecting-the-best-8-open-source-calls/"><u>2024 Approved Essential Guide to Selecting the Best 8 Open Source Calls</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Vivo Y36 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/change-excel-gridlines-hue-a-comprehensive-tutorial/"><u>Change Excel Gridlines Hue: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crafting-concealed-context-commands-windows-edition/"><u>Crafting Concealed Context Commands, Windows Edition</u></a></li>
-<li><a href="https://windows11.techidaily.com/easy-steps-implementing-macros-into-your-quick-access-toolbar/"><u>Easy Steps: Implementing Macros Into Your Quick Access Toolbar</u></a></li>
-<li><a href="https://windows11.techidaily.com/efficiently-converting-dynamic-excel-equations-to-fixed-numbers-in-excel-2013/"><u>Efficiently Converting Dynamic Excel Equations to Fixed Numbers in Excel 2013</u></a></li>
-<li><a href="https://windows11.techidaily.com/effortless-techniques-for-eliminating-borders-and-guides-in-your-excel-spreadsheets/"><u>Effortless Techniques for Eliminating Borders & Guides in Your Excel Spreadsheets</u></a></li>
-<li><a href="https://os-tips.techidaily.com/enhancing-ipad-functionality-future-support-for-usb-webcams-and-digital-cameras/"><u>Enhancing iPad Functionality: Future Support for USB Webcams and Digital Cameras</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-resolving-silent-modems-on-toshiba-laptops/"><u>Expert Advice: Resolving Silent Modems on Toshiba Laptops</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-comment-filtering-a-step-by-step-guide-on-searching-within-excel-comments/"><u>Mastering Comment Filtering: A Step-by-Step Guide on Searching Within Excel Comments</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-for-disabling-onedrive-on-windows-11s-explore/"><u>Tips for Disabling OneDrive on Windows 11'S Explore</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-surprising-star-the-exceptional-349-ipad-revealed-at-apples-vibrant-let-loose-showcase-technewsz/"><u>Unveiling the Surprising Star: The Exceptional $349 iPad Revealed at Apple's Vibrant Let Loose Showcase | TechNewsZ</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-online-oasis-media-mashup/"><u>[New] Online Oasis Media Mashup</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-swiftly-enhance-videos-on-android-devices/"><u>2024 Approved Swiftly Enhance Videos on Android Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/achieve-operational-optimization-top-windows-pct-strategies/"><u>Achieve Operational Optimization: Top Windows PCT Strategies</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/dealing-with-a-dead-air-quick-tips-to-revive-your-cars-radio/"><u>Dealing with a Dead Air: Quick Tips to Revive Your Car's Radio</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/entering-the-fullscreen-realm-choosing-a-cms-for-2024/"><u>Entering the Fullscreen Realm Choosing a CMS for 2024</u></a></li>
+<li><a href="https://techidaily.com/factory-reset-apple-iphone-8-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-controlling-windows-11s-content-filter/"><u>Guide: Controlling Windows 11’S Content Filter</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-logitech-brio-webcam-for-windows-systems-11-8-and-7-downloads/"><u>How to Update Logitech BRIO Webcam for Windows Systems: 11, 8, and 7 Downloads</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-xiaomi-redmi-12-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Xiaomi Redmi 12 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-beyond-reality-the-top-10-sci-fi-movies-with-metaverse-travels/"><u>In 2024, Beyond Reality The Top 10 Sci-Fi Movies with Metaverse Travels</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-file-restoration-top-8-techniques-for-windows/"><u>Mastering File Restoration: Top 8 Techniques for Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/recover-hidden-5ghz-link-in-windows-11-using-these-fixes/"><u>Recover Hidden 5GHz Link in Windows 11 Using These Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-solve-missing-dll-rockalldlldll-error/"><u>Steps to Solve Missing DLL: Rockalldll.dll Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-windows-update-fixes-for-error-0x800736cc/"><u>Streamlining Windows Update Fixes for Error 0X800736CC</u></a></li>
+<li><a href="https://windows11.techidaily.com/unplugged-no-more-six-methods-to-restore-functioning-network-hardware-on-your-pc/"><u>Unplugged No More: Six Methods to Restore Functioning Network Hardware on Your PC</u></a></li>
 </ul></div>
 

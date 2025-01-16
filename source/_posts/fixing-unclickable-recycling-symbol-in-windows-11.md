@@ -1,7 +1,7 @@
 ---
 title: Fixing Unclickable Recycling Symbol in Windows 11
-date: 2025-01-05T17:12:18.640Z
-updated: 2025-01-10T19:15:00.759Z
+date: 2025-01-09T06:36:11.812Z
+updated: 2025-01-16T03:52:00.897Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Bring Back the Recycle Bin Using the Group Policy Editor
@@ -42,14 +42,14 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
 ![gpedit msc windows 11 run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/gpedit-msc-windows-11-run.jpg)
 3. Next, navigate to the following location:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `User Configuration > Administrative Templates > Desktop`
 4. In the right pane, locate and double-click on the **Remove Recycle Bin icon from the desktop** option to open its properties.  
 ![edit remove recycle bin icon from settings gpedit policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-remove-recycle-bin-icon-from-settings-gpedit-policy.jpg)
 5. In the **Properties** dialog, select **Not Configured**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![edit remove recycle bin icon from settings gpedit policy not configured](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-remove-recycle-bin-icon-from-settings-gpedit-policy-not-configured.jpg)
 6. Click **Apply** and **OK** to save the changes.
@@ -65,21 +65,17 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
 4. Click on **Desktop icon settings** under the **Related settings** section.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. In the **Desktop Icon Settings** dialog, select **Recycle Bin**.  
 ![enable recycle bin desktop icon settings windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-recycle-bin-desktop-icon-settings-windows-11.jpg)
 6. Click **Apply** and **OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you can’t access Group Policy Editor or if the issue persists, you can use the Registry Editor to fix this problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Modify the Recycle Bin Registry Settings
@@ -97,6 +93,10 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
 4. In the right pane, locate the **{645FF040-5081-101B-9F08-00AA002F954E}** DWORD (32-bit) value.  
 ![registry editor nonnum new dword value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/registry-editor-nonnum-new-dword-value.jpg)
 5. If it does not exist, you’ll need to create a new value. To do this, right-click on the **NonEnum** subkey folder in the left pane and select **New > DWORD (32-bit) Value**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Rename the value as **{645FF040-5081-101B-9F08-00AA002F954E}**.
 7. Next, double-click on the new DWORD value to open its properties.  
@@ -123,19 +123,14 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-cutting-edge-engines-the-quintessential-qxp-motors-guide-for-2024/"><u>[New] Cutting-Edge Engines The Quintessential QXP Motors Guide for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-digital-dominance-top-youtube-watch-count-chronicles/"><u>[Updated] 2024 Approved Digital Dominance Top YouTube Watch Count Chronicles</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-effortlessly-access-your-most-watched-fb-movies-post-2023/"><u>[Updated] 2024 Approved Effortlessly Access Your Most-Watched FB Movies Post-2023</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-a-year-in-review-how-vivacut-is-shaping-the-future-of-video-editing/"><u>[Updated] A Year In Review How VivaCut Is Shaping the Future of Video Editing</u></a></li>
-<li><a href="https://windows11.techidaily.com/file-trailblazing-in-windows-11-the-top-6-techniques-to-duplicate-paths/"><u>File Trailblazing in Windows 11: The Top 6 Techniques to Duplicate Paths</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-firmware-installing-hp-laserjet-m506-drivers-easily/"><u>Get the Latest Firmware: Installing HP LaserJet M506 Drivers Easily</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-merge-adjacent-and-non-adjacent-partitions-in-windows/"><u>How to Merge Adjacent and Non-Adjacent Partitions in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-through-execution-codewords-for-apps/"><u>Navigating Through Execution Codewords for Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-through-virtualbox-usb-connectivity-glitches-and-errors/"><u>Navigating Through VirtualBox USB Connectivity Glitches & Errors</u></a></li>
-<li><a href="https://driver-install.techidaily.com/officejet-pro-printer-drivers-download/"><u>Officejet Pro Printer Drivers Download</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-file-limit-anomaly-in-windows/"><u>Overcoming File Limit Anomaly in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-windows-troubleshooting-with-8-tips/"><u>Streamlining Windows Troubleshooting with 8 Tips</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-nvidia-cp-non-saving-on-win11/"><u>Troubleshooting Nvidia CP Non-Saving on Win11</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/video-trimming-tutorial-mastering-edit-techniques-with-vlc-media-player/"><u>Video Trimming Tutorial: Mastering Edit Techniques with VLC Media Player</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-quick-start-guide-to-your-channels-easy-sign-up-button/"><u>[New] In 2024, Quick-Start Guide to Your Channel's Easy Sign Up Button</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-the-thin-line-of-vr-content-availability/"><u>[Updated] Navigating the Thin Line of VR Content Availability</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-trendsetters-pictures-origins-explored/"><u>[Updated] Trendsetters' Pictures Origins Explored</u></a></li>
+<li><a href="https://windows11.techidaily.com/augmented-folder-actions-power-up-your-file-management/"><u>Augmented Folder Actions: Power Up Your File Management</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-visibility-of-missing-cameras-on-device-management-screen/"><u>Enhance Visibility of Missing Cameras on Device Management Screen</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-restore-windows-photo-viewer-in-windows-1111/"><u>How to Restore Windows Photo Viewer in Windows 11/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/howtomakenotepadwindowssmoothatnight/"><u>HowToMakeNotepadWIndowsSmoothAtNight</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-ideas-for-images-with-professional-color-palette/"><u>In 2024, Innovative Ideas for Images with Professional Color Palette</u></a></li>
+<li><a href="https://discover-help.techidaily.com/stay-entertained-during-solo-quarantine-fun-and-free-activities-for-30-days/"><u>Stay Entertained During Solo Quarantine: Fun and FREE Activities for 30 Days</u></a></li>
 </ul></div>
 

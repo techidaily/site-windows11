@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Empty Folder Puzzle in Win 11
-date: 2025-01-06T17:28:08.443Z
-updated: 2025-01-10T18:14:47.272Z
+date: 2025-01-14T03:38:12.207Z
+updated: 2025-01-15T18:54:49.472Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
 
  First, we recommend running a System File Checker scan to check your system's file integrity. This scan can fix corrupted system files affecting how Windows functions. Look at our guide to [running the SFC tool](https://www.makeuseof.com/system-file-checker-sfc-windows/) for further instructions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Run a Check Disk Repair Scan
 
  The “there are no more files” error isn't commonly known to be a hard drive issue, but don’t rule out such a possibility. An error related to saving files could feasibly have something to do with the health of your PC’s hard drive.
@@ -36,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
  As such, you should run a Check Disk (CHKDSK) scan to check for and address hard disk drive file system errors detected. To do so, follow the guidelines within our [how-to run a CHKDSK scan](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10) article.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Uninstall the ASUS Data Security Manager Software
@@ -50,25 +54,21 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
 ![The Services app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-services-app.jpg)
 3. Click **Stop** to turn off the ADSM service.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Save your service settings by clicking **Apply** and **OK**.
 5. Once done, remove the ASUS Data Security Manager using any method in our [ways to uninstall Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) guide.  
 ![The Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-windows-uninstaller.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Perform a Clean Boot
 
 ![The MSConfig app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-system-configuration-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The ASUS Data Security Manager is not the only third-party security tool that can trigger the “there are no more files” error. So, try clean-booting Windows to disable all third-party apps and services. A clean boot will stop other background apps or services from automatically starting, which may fix the error.
 
@@ -95,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
 ![The Keep my files option in the Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-keep-my-files-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Save Your Files Again on Windows
@@ -114,24 +114,19 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-deciphering-youtubes-profit-for-a-mil-of-viewers/"><u>[New] 2024 Approved Deciphering YouTube’s Profit for A Mil of Viewers</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-simplifying-avi-gif-conversion-with-filmora-on-windowsmac-for-2024/"><u>[New] Simplifying AVI-GIF Conversion with Filmora on Windows/Mac for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-elite-fingers-to-enhance-virtual-adventures/"><u>2024 Approved Elite Fingers to Enhance Virtual Adventures</u></a></li>
-<li><a href="https://windows11.techidaily.com/exploring-local-connection-alternatives-google-vs-windows/"><u>Exploring Local Connection Alternatives: Google Vs. Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-resurrect-your-chatgpt-usage-post-block/"><u>How to Resurrect Your ChatGPT Usage Post-Block</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-oppo-reno-10-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Oppo Reno 10 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-picture-talk-engineer/"><u>In 2024, Picture Talk Engineer</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-thorough-examination-of-gecata-recorder/"><u>In 2024, Thorough Examination of Gecata Recorder</u></a></li>
-<li><a href="https://windows11.techidaily.com/mute-irrelevant-suggestions-on-windows-11/"><u>Mute Irrelevant Suggestions on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/setting-up-oculus-go-for-windows-vr-compatibility/"><u>Setting up Oculus Go for Windows VR Compatibility</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1722993878057-stop-game-crashes-solve-your-battlefront-ii-pc-issues-today/"><u>Stop Game Crashes – Solve Your Battlefront II PC Issues Today!</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-data-views-tabbing-in-windows-explorer/"><u>Streamlining Data Views: Tabbing in Windows Explorer</u></a></li>
-<li><a href="https://windows11.techidaily.com/swiftly-correcting-system-call-failures-on-windows-os/"><u>Swiftly Correcting System Call Failures on Windows OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/techniques-for-enhancing-result-visibility-on-windows-1011/"><u>Techniques for Enhancing Result Visibility on Windows 10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-essential-blueprint-for-direct-access-in-windows-11/"><u>The Essential Blueprint for Direct Access in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-for-correcting-iphone-photo-error-on-pcs-windows-1011/"><u>Tips for Correcting iPhone Photo Error on PCs (Windows 10/11)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-picks-in-computing-innovation-featured-by-toms-hardware-specialists/"><u>Top Picks in Computing Innovation Featured by Tom's Hardware Specialists</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-your-windows-console-with-simple-fixes/"><u>Unlocking Your Windows Console with Simple Fixes</u></a></li>
-<li><a href="https://windows11.techidaily.com/why-stick-with-traditional-skip-the-boredom-for-new-outlook/"><u>Why Stick with Traditional? Skip the Boredom for New Outlook</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-commence-your-filmmaking-adventure-with-xps-toolkit/"><u>[New] 2024 Approved Commence Your Filmmaking Adventure with XP's Toolkit</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-strategic-advantages-in-business-with-vr-tech/"><u>[New] Strategic Advantages in Business with VR Tech</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-becoming-professionally-active-registering-a-business-on-ig/"><u>[Updated] In 2024, Becoming Professionally Active Registering a Business on IG</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/comprendere-e-installare-un-nvme-ssd-in-uno-slot-unico-una-procedura-dettagliata-passo-passo/"><u>Comprendere E Installare Un NVMe SSD in Uno Slot Unico: Una Procedura Dettagliata Passo-Passo!</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquer-blue-screen-5-tactics-for-win11-hybrid-issue-fixes/"><u>Conquer Blue Screen: 5 Tactics for Win11 Hybrid Issue Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-silent-mode-glitches-on-windows-word-reading-feature/"><u>Fix Silent Mode Glitches on Windows' Word Reading Feature</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/guide-detaille-programmez-une-sauvegarde-automatisee-des-donnees-vers-un-dossier-distinct-sur-votre-ordinateur/"><u>Guide Détaillé : Programmez Une Sauvegarde Automatisée Des Données Vers Un Dossier Distinct Sur Votre Ordinateur.</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-apple-iphone-se-2020-location-is-wrong-drfone-by-drfone-virtual-ios/"><u>How to Fix My Apple iPhone SE (2020) Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-win11-outshines-macos-on-key-fronts/"><u>How Win11 Outshines MacOS on Key Fronts</u></a></li>
+<li><a href="https://windows11.techidaily.com/linux-vs-windows-a-comprehensive-gamers-guide/"><u>Linux Vs. Windows: A Comprehensive Gamer's Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722864452993-personalize-your-home-streaming-a-detailed-walkthrough-to-alter-chromecast-backgrounds/"><u>Personalize Your Home Streaming: A Detailed Walkthrough to Alter Chromecast Backgrounds</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-data-power-discover-four-routes-to-opening-disk-management-in-win11/"><u>Unleash Data Power: Discover Four Routes to Opening Disk Management in Win11</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/count-value-how-much-does-1-million-matter-for-2024/"><u>View Count Value How Much Does 1 Million Matter for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-ping-wisdom-utilizing-tools-for-maximum-efficiency/"><u>Windows Ping Wisdom: Utilizing Tools for Maximum Efficiency</u></a></li>
 </ul></div>
 

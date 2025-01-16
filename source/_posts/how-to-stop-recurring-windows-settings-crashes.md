@@ -1,7 +1,7 @@
 ---
 title: How to Stop Recurring Windows Settings Crashes
-date: 2025-01-06T23:22:37.295Z
-updated: 2025-01-10T23:39:30.091Z
+date: 2025-01-12T08:04:14.514Z
+updated: 2025-01-16T02:24:47.983Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Is the Settings App Crashing on Windows?
 
  If the Settings app is crashing on Windows, it may be because of one of the following reasons:
@@ -36,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
 
  Now that we know about the potential causes behind the issue, let’s have a look at the troubleshooting methods you can try to fix the problem once and for all.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart Your PC
 
  This might seem too simple to work, but resetting the computer at times can eliminate any temporary bugs or corruption issues, resolving the error in the process.
@@ -43,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
  This is why we recommend starting your troubleshooting journey by performing one of the[ways to restart Windows](https://www.makeuseof.com/windows-restart-methods/) . End all the active processes on the system, perform a restart, and upon reboot, check if the Settings app works fine.
 
 If the issue persists, move to the next method below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Update Windows
 
@@ -63,7 +67,7 @@ Here is all that you need to do:
  In some rare cases, the issue can also start occurring after installing an update. This typically happens when the update itself was corrupt. If this scenario applies to you, you can[uninstall the installed Windows update](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) and then check if that makes any difference.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Update Your Drivers
@@ -86,7 +90,7 @@ Follow these steps to proceed:
  Alternatively, you can also choose an updated driver manually by choosing the**Browse my computer for drivers** option in the 4th step. If an outdated driver is a culprit, this should resolve the problem in no time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Reset or Re-Register the Settings App
@@ -101,10 +105,6 @@ Here is all that you need to do:
 2. Choose**App settings** from the context menu.  
 ![Choose App Settings from the context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/taskbar-windows-icon-app-settings.jpg)
 3. In the following window, head over to the**Reset** section. You will have two options here; Repair and Reset.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. First, click on**Repair** and once the process is completed, check if the problem is fixed.
 5. If not, click on**Reset** and follow the on-screen instructions to proceed.  
@@ -122,7 +122,7 @@ Get-AppxPackage *windows.immersivecontrolpanel* | Reset-AppxPackage
 Hopefully, this should fix the problem once and for all.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Windows Settings App Crash Issue, Now Resolved
@@ -144,24 +144,24 @@ Hopefully, this should fix the problem once and for all.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-unveiling-instagram-insights-a-deep-dive-into-data-trends/"><u>[New] 2024 Approved Unveiling Instagram Insights A Deep Dive Into Data Trends</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-time-taken-to-watch-an-example-of-a-20mb-video/"><u>[New] Time Taken to Watch An Example of a 20MB Video</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-proven-audacity-strategies-for-top-quality-recordings/"><u>[Updated] Proven Audacity Strategies for Top-Quality Recordings</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-the-ultimate-playbook-capturing-ps3-game-highlights/"><u>2024 Approved The Ultimate Playbook Capturing PS3 Game Highlights</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-apple-iphone-6s-plus-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock Apple iPhone 6s Plus to Use USB Accessories Without Passcode</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-steps-for-powertoys-on-win11/"><u>Essential Steps for PowerToys on Win11</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/live-streaming-and-screen-capture-a-comprehensive-obs-analysis-for-2024/"><u>Live Streaming & Screen Capture A Comprehensive OBS Analysis for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-fixes-reconciling-obs-server-disconnections-on-windows/"><u>Mastering the Fixes: Reconciling OBS Server Disconnections on Windows</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-free-video-watermark-software-the-best-of-the-best/"><u>New 2024 Approved Free Video Watermark Software The Best of the Best</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/oculus-software-compatibility-solutions-for-windows-1110-devotees/"><u>Oculus Software Compatibility Solutions for Windows 11/10 Devotees</u></a></li>
-<li><a href="https://windows11.techidaily.com/secure-and-protect-win-11-edge-instalment-of-microsofts-aguard-feature/"><u>Secure and Protect Win 11 Edge: Instalment of Microsoft's Aguard Feature</u></a></li>
-<li><a href="https://windows11.techidaily.com/secure-your-deal-black-friday-612-for-full-life-win10/"><u>Secure Your Deal: Black Friday - $6.12 for Full-Life Win10</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategic-tips-to-optimize-amd-radeon-gaming/"><u>Strategic Tips to Optimize AMD Radeon Gaming</u></a></li>
-<li><a href="https://windows11.techidaily.com/title-perfecting-space-between-windows-widgets/"><u>Title: Perfecting Space Between Windows Widgets</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-recommended-ipad-gadgets-and-extras-insights-from-zdnet/"><u>Top Recommended iPad Gadgets & Extras - Insights From ZDNet</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-windows-diagnostic-info-a-quick-guide/"><u>Unlocking Windows' Diagnostic Info: A Quick Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/unraveling-gif-size-limits-a-guide-to-fixed-errors-in-discord-win11/"><u>Unraveling GIF Size Limits: A Guide to Fixed Errors in Discord (Win11)</u></a></li>
-<li><a href="https://windows11.techidaily.com/uptime-expertise-for-win11-devices-discover-the-top-5-methods/"><u>Uptime Expertise for Win11 Devices - Discover the Top 5 Methods</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-the-path-to-profitable-product-placements-on-youtube/"><u>[New] 2024 Approved The Path to Profitable Product Placements on YouTube</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-exemplary-6-skyline-minecraft-abodes/"><u>[New] Exemplary 6 Skyline Minecraft Abodes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-highest-rated-panoramic-video-capture-systems/"><u>[Updated] Highest Rated Panoramic Video Capture Systems</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-link-sounds-to-visual-elements-in-ppt/"><u>[Updated] In 2024, Link Sounds to Visual Elements in PPT</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-fixes-to-address-missing-oleaut32dll-issues/"><u>Comprehensive Fixes to Address Missing OleAut32.dll Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-windows-1011-unsigned-update-errors/"><u>Eliminating Windows 10/11 'Unsigned' Update Errors</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/essential-guide-to-the-top-10-no-cost-visual-vaults/"><u>Essential Guide to The Top 10 No-Cost Visual Vaults</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-cant-detect-camera-error-on-windows-11-pc/"><u>Fixing Can't Detect Camera Error on Windows 11 PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/get-a-free-glimpse-into-the-realm-of-ocm-football/"><u>Get a FREE Glimpse Into the Realm of OCM Football</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/harnessing-morning-light-therapy-for-better-rest-an-in-depth-look-at-the-heimvision-a80s/"><u>Harnessing Morning Light Therapy for Better Rest: An In-Depth Look at the HeimVision A80S</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-alleviate-windows-1011s-devastating-discord-js-failure/"><u>How to Alleviate Windows 10/11'S Devastating Discord JS Failure</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-the-best-text-to-audio-converters-of-all-times-for-2024/"><u>New The Best Text-to-Audio Converters of All Times for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-and-protect-enabling-powershell-script-policy/"><u>Optimize & Protect: Enabling PowerShell Script Policy</u></a></li>
+<li><a href="https://app-tips.techidaily.com/protect-your-privacy-avoid-hidden-crypto-mining-risks-while-downloading-spider-man-no-way-home-using-bittorrent-insights-from-zdnet/"><u>Protect Your Privacy: Avoid Hidden Crypto Mining Risks While Downloading Spider-Man: No Way Home Using BitTorrent - Insights From ZDNet</u></a></li>
+<li><a href="https://win-popular.techidaily.com/qnap-naswindows-102/"><u>QNAP NAS上でWindows 10をバックアップする方法：効果的な2案</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-essential-methods-for-verifying-windows-11-installation/"><u>The Essential Methods for Verifying Windows 11 Installation</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-using-wireless-and-cable-in-harmony-on-windows/"><u>The Ultimate Guide: Using Wireless and Cable in Harmony on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-speed-and-efficiency-windows-shortcuts-for-uwp/"><u>Unleash Speed and Efficiency: Windows Shortcuts for UWP</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-windows-11-and-galaxy-ties-with-samsung-dex/"><u>Unveiling Windows 11 & Galaxy Ties with Samsung DeX</u></a></li>
 </ul></div>
 

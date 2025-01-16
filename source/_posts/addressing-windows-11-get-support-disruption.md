@@ -1,7 +1,7 @@
 ---
 title: Addressing Windows 11 'Get Support' Disruption
-date: 2024-08-15T15:12:34.096Z
-updated: 2024-08-16T15:12:34.096Z
+date: 2025-01-13T05:39:08.881Z
+updated: 2025-01-15T17:22:11.498Z
 tags:
   - windows10
   - windows11
@@ -42,16 +42,18 @@ thumbnail: https://thmb.techidaily.com/dba89d459ade8c7de3368900b426d88c278b90eb3
 ![Windows Settings Search Results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-settings-search-results.jpg)
 3. Search for **Get Help** in the list of apps and click on the three-dot menu. Then click on **Advanced options**.  
 ![Get Help In Installed Apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-in-installed-apps.jpg)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 4. Now, scroll to the bottom and click **Repair**. If the repair fails, you can use the **Reset** option.  
 ![Get Help Repair Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-repair-option.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Here's the best part: This process isn't exclusive to the Get Help app. So, you can also apply the above steps to other malfunctioning Windows apps
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Troubleshoot Network-Related Issues
 
@@ -64,13 +66,9 @@ thumbnail: https://thmb.techidaily.com/dba89d459ade8c7de3368900b426d88c278b90eb3
 * Contacting your Internet Service Provider (ISP) to inquire about potential network maintenance.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Disable VPN or Proxy Temporarily
 
  If you're still facing issues with the Get Help app, it seems to be due to your VPN or proxy configuration. You can disable your connected VPN or proxy for a quick test.
@@ -79,9 +77,6 @@ thumbnail: https://thmb.techidaily.com/dba89d459ade8c7de3368900b426d88c278b90eb3
 
 1. Type **VPN settings** in Windows Search and select **Open** next to the search result.  
 ![VPN Settings Search Results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/vpn-settings-search-results.jpg)
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Choose the **Disconnect** button to turn off the VPN.
 3. Similarly, you must [temporarily disable your proxy](https://www.makeuseof.com/windows-11-disable-proxy/) to troubleshoot the cause of your Get Help failing to work.
 
@@ -89,9 +84,6 @@ thumbnail: https://thmb.techidaily.com/dba89d459ade8c7de3368900b426d88c278b90eb3
 
  Now you can open the Get Help app and check whether the content loads correctly. Try the following troubleshooting method if the Get Help app still displays a blank screen.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Restart Windows Services
 
  If you don't know, Windows services continuously operate in the background. Such services handle various system tasks, and specific applications, like the Get Help app, rely on the services to work correctly. If the app is still not working, it may be due to one or more Windows services malfunctioning.
@@ -100,9 +92,6 @@ thumbnail: https://thmb.techidaily.com/dba89d459ade8c7de3368900b426d88c278b90eb3
 
 1. You can use the Services app to manage all the Windows services. To open that, press **Win + R** and type **services.msc**.  
 ![Services Command On Run App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/services-command-on-run.jpg)
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Now press **Enter** to launch the Services app.
 3. You'll see a list of all the services currently available in your system. Locate the **Diagnostic Policy Service** and right-click on its name.
 4. Select **Restart** from its context menu.  
@@ -126,8 +115,9 @@ thumbnail: https://thmb.techidaily.com/dba89d459ade8c7de3368900b426d88c278b90eb3
  If you see an error saying "**Setup failed**," "please re-download the correct version again.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Uninstall and Reinstall the Get Help App
 
  If you've tried all other solutions, we recommend uninstalling and reinstalling the Get Help app.
@@ -136,7 +126,15 @@ thumbnail: https://thmb.techidaily.com/dba89d459ade8c7de3368900b426d88c278b90eb3
 
 ![Get Help In Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-in-store.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  A fresh installation should resolve all the issues with the app. And now, you can go back to troubleshooting without any hassle.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## No More Blank Screen in the Get Help App
 
@@ -146,8 +144,6 @@ thumbnail: https://thmb.techidaily.com/dba89d459ade8c7de3368900b426d88c278b90eb3
 
  So, let's look at how to fix the Get Help app issues on Windows and make the troubleshooting experience a breeze.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -155,5 +151,24 @@ thumbnail: https://thmb.techidaily.com/dba89d459ade8c7de3368900b426d88c278b90eb3
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-deciphering-the-art-of-reversed-visual-searches-online-fb/"><u>[New] 2024 Approved Deciphering the Art of Reversed Visual Searches Online (FB)</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-navigating-nearby-your-personal-guide-for-on-the-go-assistance/"><u>[New] 2024 Approved Navigating Nearby - Your Personal Guide for On-the-Go Assistance</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-safe-and-respectful-strategies-for-growing-on-tiktok-for-2024/"><u>[New] Safe and Respectful Strategies for Growing on TikTok for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-elevate-your-productivity-io-screen-capture-secrets/"><u>[Updated] In 2024, Elevate Your Productivity IO Screen Capture Secrets</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-turn-the-last-scenes-first-with-android/"><u>[Updated] Turn the Last Scenes First with Android</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-comprehensive-guide-for-pcs-memory-tool-issues/"><u>A Comprehensive Guide for PC's Memory Tool Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-isdonedll-error-in-modern-windows-editions/"><u>Addressing ISDone.dll Error in Modern Windows Editions</u></a></li>
+<li><a href="https://windows11.techidaily.com/clipchamp-patch-enable-installation-in-windows-11/"><u>ClipChamp Patch: Enable Installation in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-change-screen-order-in-pc/"><u>How to Change Screen Order in PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-prevent-unsolicited-openings-of-search-bar-win11/"><u>How to Prevent Unsolicited Openings of Search Bar, Win11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-nokia-c110-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Nokia C110 for Parents | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-extended-display-setup-without-performance-hit/"><u>Mastering Extended Display Setup Without Performance Hit</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/precision-in-broadcasting-zoom-and-fb-live-strategies/"><u>Precision in Broadcasting ZOOM & FB Live Strategies</u></a></li>
+<li><a href="https://fox-http.techidaily.com/quick-steps-to-find-youtube-comment-feed/"><u>Quick Steps to Find YouTube Comment Feed</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-your-win-1011-menu-options/"><u>Reviving Your Win 10/11 Menu Options</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-improve-steam-download-speeds-on-windows/"><u>Strategies to Improve Steam Download Speeds on Windows</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-art-of-humor-in-minutes-kinemaster-techniques/"><u>The Art of Humor in Minutes KineMaster Techniques</u></a></li>
+</ul></div>
 

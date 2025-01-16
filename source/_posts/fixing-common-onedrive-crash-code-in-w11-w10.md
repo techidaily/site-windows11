@@ -1,7 +1,7 @@
 ---
 title: Fixing Common OneDrive Crash Code in W11, W10
-date: 2025-01-04T16:43:34.175Z
-updated: 2025-01-10T20:05:00.748Z
+date: 2025-01-15T01:09:37.816Z
+updated: 2025-01-15T20:51:31.898Z
 tags:
   - windows10
   - windows11
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
 ![The Pause syncing option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/pause-syncing-option.jpg)
 3. Select**2 hours** on the menu.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Then wait for about five minutes.
 5. Right-click OneDrive's system tray icon again to select**Help & Settings** .  
 ![The Resume syncing option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/resume-syncing-option.jpg)
@@ -49,17 +53,13 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
 ![The reset OneDrive command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-onedrive-command.jpg)
 3. Next, execute the following command:  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `%localappdata%\Microsoft\OneDrive\onedrive.exe`  
 ![Run OneDrive command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/onedrive-command.jpg)
 4. Start OneDrive to see if the issue persists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Disable Files On-Demand
 
@@ -73,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
 5. Turn off the**File On-Demand** option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Unlink and Relink Your OneDrive Account
@@ -86,28 +86,20 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
 ![The Unlink this PC option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/account-tab.jpg)
 4. Press the**Unlink account** button to confirm.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Unlink account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/unlink-account-button2.jpg)
 5. Input the email address you utilize for linking OneDrive in the Microsoft OneDrive window that automatically opens.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Click the**Sign in** option.  
 ![The Sign in button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sign-in-button.jpg)
 2. Select**Next** to set the same OneDrive folder location.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Click**Use this folder** on the dialog box.  
 ![The Choose new folder button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/choose-new-folder-button.jpg)
 4. Then keep selecting**Next** to reach the mobile app step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Click**Later** to skip the mobile app.
 6. Press the**Open my OneDrive folder** button.
@@ -120,7 +112,15 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
 
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-uninstall-option2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To reinstall the app, open the[OneDrive MS Store page](https://apps.microsoft.com/store/detail/onedrive/9WZDNCRFJ1P3?hl=en-gb&gl=gb&rtc=1) in a browser. Click**Get in Store** app >**Open Microsoft Store** to bring up an**Install** option for the app. Click**Get** to download and install OneDrive. Then you'll need to open OneDrive and sign in to an account again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Open and Copy Files in Your OneDrive Folder
 
@@ -141,24 +141,24 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-the-storyline-secret-to-youtube-triumph/"><u>[New] In 2024, The Storyline Secret to YouTube Triumph</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-in-depth-review-and-step-by-step-tutorials-for-powerdirector/"><u>[Updated] In-Depth Review & Step-by-Step Tutorials for PowerDirector</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-instagram-story-straightforward-recording-tips-for-2024/"><u>[Updated] Instagram Story Straightforward Recording Tips for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/1-intelligent-workspace-companion-how-stardock-desktopgpt-surges-past-traditional-copilots/"><u>1. Intelligent Workspace Companion: How Stardock DesktopGPT Surges Past Traditional Copilots</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-trending-titles-navigating-through-facebooks-hot-takes/"><u>2024 Approved Trending Titles Navigating Through Facebook's Hot Takes</u></a></li>
-<li><a href="https://windows11.techidaily.com/accelerating-your-browsing-how-microsoft-edges-speed-is-leaping-forward/"><u>Accelerating Your Browsing: How Microsoft Edge's Speed Is Leaping Forward</u></a></li>
-<li><a href="https://windows11.techidaily.com/activate-graphics-card-fast-tracking-on-windows-1011-step-by-step-guide/"><u>Activate Graphics Card Fast Tracking on Windows 10/11: Step-by-Step Guide</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/audio-visual-harmony-in-digital-photos-for-2024/"><u>Audio-Visual Harmony in Digital Photos for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-google-pixel-fold-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Google Pixel Fold</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-15-plus-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 15 Plus To Others ios devices? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/labor-day-sale-alert-land-a-huge-savings-of-700-on-latest-202n-ipad-pro-models-zdnet-hot-offers/"><u>Labor Day Sale Alert: Land a Huge Savings of $700 on Latest 202N iPad Pro Models | ZDNET Hot Offers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/premium-ai-powered-web-scouring-solutions/"><u>Premium AI-Powered Web Scouring Solutions</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-the-dell-inspiron-14-plus-74aster-dragon-enthusiasts-guide/"><u>Understanding the Dell Inspiron 14 Plus (74Aster Dragon Enthusiasts' Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-the-release-of-windows-11-version-24h2-eligibility-and-preparations-needed-for-pcs/"><u>Understanding the Release of Windows 11 Version 24H2: Eligibility and Preparations Needed for PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-the-role-of-ntuserdat-the-essential-windows-registry-file/"><u>Understanding the Role of NTUSER.DAT: The Essential Windows Registry File</u></a></li>
-<li><a href="https://windows11.techidaily.com/unintentionally-deleted-information-during-file-transfer-on-pc-discover-how-to-retrieve-what-youve-missed/"><u>Unintentionally Deleted Information During File Transfer on PC? Discover How to Retrieve What You've Missed!</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-14-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking iPhone 14 Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-tutorial-easily-alter-the-size-of-desktop-and-file-explorer-icons/"><u>Windows 11 Tutorial: Easily Alter the Size of Desktop and File Explorer Icons</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11s-updated-start-menu-navigating-the-latest-grid-based-design-changes/"><u>Windows 11'S Updated Start Menu: Navigating the Latest Grid-Based Design Changes</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ree-yourself-from-paywalls-with-these-subtitle-getters/"><u>[New] Free Yourself From Paywalls with These Subtitle Getters</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-itunes-video-management-made-simple-for-2024/"><u>[New] ITunes Video Management Made Simple for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-switch-strike-force-your-top-10-game-lineup/"><u>[Updated] Switch Strike Force Your Top 10 Game Lineup</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-users-guide-to-windows-11-system-anomalies-analysis/"><u>A User’s Guide to Windows 11 System Anomalies Analysis</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/boost-your-brand-twitter-ads-guide-for-2024/"><u>Boost Your Brand Twitter Ads Guide for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/classic-interface-reclamation-tips/"><u>Classic Interface Reclamation Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/common-reasons-for-car-audio-malfunction-how-to-fix-them/"><u>Common Reasons for Car Audio Malfunction: How to Fix Them</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-windows-modern-standbys-drawbacks/"><u>Decoding Windows Modern Standby's Drawbacks</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhanced-windows-file-navigation-a-guide-excluding-ls/"><u>Enhanced Windows File Navigation: A Guide Excluding LS</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-tecno-pova-5-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Tecno Pova 5?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-leading-suggestions-best-iphone-audio-innovators/"><u>In 2024, Leading Suggestions Best iPhone Audio Innovators</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-excessive-ram-allocation-in-connected-devices-interface/"><u>Resolving Excessive RAM Allocation in Connected Devices Interface</u></a></li>
+<li><a href="https://facebook.techidaily.com/secure-status-symbol-purchased-verified-badge/"><u>Secure Status Symbol: Purchased Verified Badge</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-to-github-desktop-with-windows-11-os/"><u>Step-by-Step Guide to GitHub Desktop with Windows 11 OS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-12-screenshot-utilities-for-linux-users-discover-the-most-effective-ones/"><u>Top 12 Screenshot Utilities for Linux Users: Discover the Most Effective Ones</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-windows-11-screens-with-custom-wallpaper-panes/"><u>Transform Windows 11 Screens with Custom Wallpaper Panes</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-steps-delete-email-after-signing-in/"><u>Troubleshooting Steps: Delete Email After Signing In</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-optimal-sleep-cycles-for-windows-devices/"><u>Unlocking Optimal Sleep Cycles for Windows Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-stops-you-from-using-facebook-marketplace-a-comprehensive-exploration-of-restrictions/"><u>What Stops You From Using Facebook Marketplace? A Comprehensive Exploration of Restrictions</u></a></li>
 </ul></div>
 

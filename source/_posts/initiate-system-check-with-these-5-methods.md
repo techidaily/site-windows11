@@ -1,7 +1,7 @@
 ---
 title: Initiate System Check with These 5 Methods
-date: 2024-12-31T18:59:33.796Z
-updated: 2025-01-03T18:42:31.339Z
+date: 2025-01-11T19:53:17.930Z
+updated: 2025-01-16T01:59:15.662Z
 tags:
   - windows10
   - windows11
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
  Startup Repair is a free tool from Microsoft that scans for and then fixes many common Windows problems, including the ones encountered during a startup. But launching and using the tool can get tricky depending on the error you are facing.
 
  We have looked over a host of different ways to access the tool. So, let’s look at all of them one by one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Open Startup Repair Using the Settings App
 
@@ -43,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
  And that’s it. As soon as you click on the above option, the Startup Repair tool will be launched right then and there.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Use the Windows 10 Settings App
@@ -56,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
 
  Your Windows will boot into **Windows Recovery Environment** (Win RE) as soon as you do this. From there, the steps are similar to the ones you followed for Windows 11\.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Run the Startup Repair Tool Through the Desktop
 
  The method we’ve laid out above will practically work for all users. And in the cases where it doesn’t—usually when you can’t [access or open the Settings app](https://www.makeuseof.com/windows-ways-to-open-system-settings/)—use this method. Here’s how:
@@ -71,7 +63,15 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
 
 ![advanced options on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/advanced-options-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Startup Repair tool will be launched from here.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Run the Startup Repair From BIOS
 
@@ -85,10 +85,6 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
 4. Finally, click on the USB stick to get started with Startup Repair.
 
  The Startup Repair tool will be launched from here, and it will look up and fix any issues it finds on your Windows computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Use the Command Prompt
 
@@ -104,12 +100,16 @@ shutdown /r /o
 
  As soon as you hit **Enter**, your PC will be restarted in the **Advanced Startup Options** menu; you can then select the **Startup Repair** option from there.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Use the F11 Shortcut Key During Boot
 
  Sometimes, simply hitting the **F11** key repeatedly during the boot-up can take you to the **Advanced Options** menu on many computers. So, make sure you give this a go as well. From there, you can easily access the **Windows Startup Options** tool.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Opening the Startup Repair Tool on a Windows PC
@@ -127,24 +127,22 @@ shutdown /r /o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-how-to-create-360-degree-photosimages-with-fisheye-lens/"><u>[New] 2024 Approved How to Create 360 Degree Photos/Images with Fisheye Lens</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-content-creation-and-currency-maximizing-youtube-wealth/"><u>[New] In 2024, Content Creation & Currency Maximizing YouTube Wealth</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-prime-7-cameras-unbeatable-in-underwater-shooting/"><u>[Updated] 2024 Approved Prime 7 Cameras Unbeatable In Underwater Shooting</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-enhancing-viewers-staying-power-top-6-strategies-for-youtube-success/"><u>[Updated] Enhancing Viewers' Staying Power Top 6 Strategies for YouTube Success</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-inside-a-virtual-reality-device-a-basic-overview/"><u>[Updated] In 2024, Inside a Virtual Reality Device A Basic Overview</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-reversal-techniques-a-new-perspective-on-youtube-videos-for-2024/"><u>[Updated] Reversal Techniques A New Perspective on YouTube Videos for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-vivo-s18e-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Vivo S18e | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/effective-methods-to-rename-microsoft-account-on-win11-systems/"><u>Effective Methods to Rename Microsoft Account on Win11 Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/efficient-method-to-engagedisengage-bings-taskbar-assist/"><u>Efficient Method to Engage/Disengage Bing's Taskbar Assist</u></a></li>
-<li><a href="https://windows11.techidaily.com/efficiently-navigate-your-workflow-essential-command-tips-for-win11/"><u>Efficiently Navigate Your Workflow: Essential Command Tips for Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/effortless-usb-prep-for-upgrading-to-windows-11-3-tried-and-true-methods/"><u>Effortless USB Prep for Upgrading to Windows 11: 3 Tried-and-True Methods</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevate-your-visual-experience-increasing-vram-capacity/"><u>Elevate Your Visual Experience: Increasing VRAM Capacity</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminating-windows-error-0xc00000f-in-minutes/"><u>Eliminating Windows Error 0Xc00000f in Minutes</u></a></li>
-<li><a href="https://windows11.techidaily.com/eluding-eyes-the-art-of-concealing-buttons/"><u>Eluding Eyes: The Art of Concealing Buttons</u></a></li>
-<li><a href="https://windows11.techidaily.com/error-busters-for-windows-top-10-must-haves/"><u>Error Busters for Windows: Top 10 Must-Haves</u></a></li>
-<li><a href="https://windows11.techidaily.com/error-e8024002e-fixes-for-updated-windows/"><u>Error E:8024002E Fixes for Updated Windows</u></a></li>
-<li><a href="https://win-data.techidaily.com/osssd3/"><u>OSを新しいSSDに移動させるための3ステップ方法</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-realme-gt-5-pro-by-drfone-android/"><u>Universal Unlock Pattern for Realme GT 5 Pro</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/unleash-the-potential-customizing-your-youtube-channel-url-for-2024/"><u>Unleash the Potential Customizing Your YouTube Channel Url for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-captivate-masses-social-media-strategies-for-youtube/"><u>[New] In 2024, Captivate Masses Social Media Strategies for YouTube</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-capturing-adventure-an-in-depth-gopro-model-review/"><u>[Updated] 2024 Approved Capturing Adventure An In-Depth GoPro Model Review</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-simplified-guide-uploading-urls-to-instagram-media-for-2024/"><u>[Updated] Simplified Guide Uploading URLs to Instagram Media for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/achieving-a-clearer-taskbar-windows-11-guide/"><u>Achieving a Clearer Taskbar: Windows 11 Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/activate-virtualization-your-step-by-step-guide-for-win-11-homes/"><u>Activate Virtualization: Your Step by Step Guide for Win 11 Homes</u></a></li>
+<li><a href="https://article-tips.techidaily.com/color-consistency-comparing-srgb-and-rgb-formats/"><u>Color Consistency Comparing Srgb and Rgb Formats</u></a></li>
+<li><a href="https://windows11.techidaily.com/decreasing-cpu-and-ram-usage-tackling-unrealcefsubprocess-issues/"><u>Decreasing CPU and RAM Usage: Tackling UnrealCEFSubprocess Issues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/does-chatgpt-refine-its-responses-by-engaging-in-talks-with-users/"><u>Does ChatGPT Refine Its Responses by Engaging in Talks with Users?</u></a></li>
+<li><a href="https://windows11.techidaily.com/handling-incomplete-updates-in-your-windows-based-discord/"><u>Handling Incomplete Updates in Your Windows-Based Discord</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-muted-audio-recordings-in-obs-studio-on-windows-11-pcs/"><u>How to Fix Muted Audio Recordings in OBS Studio on Windows 11 PCs</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-echoes-of-unity-combining-tracks-in-digital-performer/"><u>In 2024, Echoes of Unity Combining Tracks in Digital Performer</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-vivo-y100a-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Vivo Y100A Phone</u></a></li>
+<li><a href="https://windows11.techidaily.com/lessen-malware-apps-resource-usage-for-performance-gain/"><u>Lessen Malware App’s Resource Usage for Performance Gain</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooters-and-their-role-on-windows-11-systems/"><u>Troubleshooters and Their Role on Windows 11 Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-list-of-free-preschool-activities-play-and-learn-with-these-fantastic-resources/"><u>Ultimate List of Free Preschool Activities – Play & Learn with These Fantastic Resources!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unflip-and-correct-display-orientation-error/"><u>Unflip and Correct Display Orientation Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/volume-vanishing-act-top-remedies-for-muted-keys-in-windows/"><u>Volume Vanishing Act? Top Remedies for Muted Keys in Windows</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Credential Control in Win11: Quick Ways to Unlock Passwords"
-date: 2024-08-08T06:00:06.388Z
-updated: 2024-08-09T06:00:06.388Z
+date: 2025-01-13T07:12:04.485Z
+updated: 2025-01-15T21:46:40.226Z
 tags:
   - windows10
   - windows11
@@ -29,8 +29,9 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
 3. The Credential Manager utility will launch on your system.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Using Windows Search
 
  Alternatively, you can use the new and improved Windows Search tool to find and open Credential Manager on your system. Here’s how to do it:
@@ -39,18 +40,12 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
 ![Open Credentials Manager Using Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-credentials-manager-using-windows-search.jpg)
 2. Type Credential Manager and click on the first relevant search result to open the tool.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Using the Run Command Box
 
  You can launch Credentials Manager without using your mouse and clicking on options or the context menu using the Run command box. Repeat the following steps:
 
 1. Press**Win + R** to [launch the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
 2. Type**control /name Microsoft.CredentialManager** in the text input box and press the**Enter** key.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![Open Credentials Manager Using the Run Command Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-credentials-manager-using-the-run-command-box.jpg)
 3. Credential Manager will open in a separate control panel window.
 
@@ -65,9 +60,6 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
 5. Scroll down and click on the**Choose an app on your PC** option.
 6. Navigate to the C drive and click on the Windows folder. Then, open the SysWOW64 folder.
 7. Find the**Control.exe** program and select it. Click on the**Open** button.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![Open Credentials Manager Using the File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-credentials-manager-using-the-file-explorer.jpg)
 8. Window Control Panel will be added to the list of supported programs.**Double-click** on it to open keymgr.dll file in Control Panel.
 
@@ -78,15 +70,17 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
 1. Press**Win + R** to open the Run dialog box.
 2. Type**cmd** and press**Ctrl + Shift + Enter** to launch Command Prompt with administrator privileges.
 3. In the Command Prompt window, type the following command and press the**Enter** key:**control.exe keymgr.dll**  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![Open Credentials Manager Using the CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-credentials-manager-using-the-cmd.jpg)
 4. Credentials Manager will launch on your system. Close the Command Prompt window.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Using Control Panel
 
  Control Panel is the central hub for many system utilities and also contains Credential Manager. If you prefer the GUI method to open any Windows utility, you can use Control Panel. Repeat the following steps:
@@ -97,8 +91,9 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
 3. Lastly, click on the**Credential Manager** option to launch the tool.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Using a Desktop Shortcut
 
  A desktop shortcut can save much time in Credential Manager on the system. Since it is not an executable program but a DLL file, merely making a desktop shortcut won’t work. Instead, we will create a shortcut of the Credential Manager DLL file and configure it to open with Control Panel.
@@ -112,21 +107,22 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
 4. Click on the**Next** button. Name the shortcut**Credential Manager** and click on the**Finish** button.
 5. Now, double-click on the shortcut to open Credential Manager.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## 8\. Using the Settings App
 
  Microsoft hasn’t moved all Control Panel options to the Settings app. But it is possible to search and access Credential Manager inside the Settings app. Here’s how to do it:
 
 1. **Right-click** on the Start button to open the Power User menu. Select the**Settings** option from the menu.
 2. Navigate to the top-left corner and click on the**Find a setting** option.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Open Credentials Manager Using the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-credentials-manager-using-the-settings-app.jpg)
 3. Type**Credential Manager** and click on the first relevant search result for the utility.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Using a PowerShell Command
 
@@ -138,6 +134,10 @@ DbSchema database designer for all databases, schema design in the team, schema 
 ![Open Credentials Manager Using a PowerShell Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-credentials-manager-using-a-powershell-command.jpg)
 4. Credential Manager will open. Type the**exit** command in the PowerShell window and press the**Enter** key to close it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 10\. Using a Batch File
 
  A batch file is a more convenient method to open Credential Manager whenever you need it. You can place it on the desktop and run it with administrator privileges just like a shortcut. Repeat the following steps to create a batch file:
@@ -146,11 +146,13 @@ DbSchema database designer for all databases, schema design in the team, schema 
 2. Open the empty text document and paste the following code snippet:  
 `@echo off powershell.exe control.exe keymgr.dll`
 3. Press**Ctrl + Shift + S** to open the**Save as** window. Name the file “**CredMgr.bat** ” and click on the**Save** button.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Open Credentials Manager Using a Batch File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-credentials-manager-using-a-batch-file.jpg)
 4. Close the Notepad file. Navigate to the location where you saved the CredMgr.bat file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Right-click on it and select the**Run as administrator** option.
 6. The PowerShell window will launch and close automatically. Credential Manager will launch on your system.
 
@@ -168,14 +170,11 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Windows Credential Manager is an excellent utility that automatically saves usernames and login pairs without installing a separate application. Even if you don’t use the feature for saving passwords of your favorite websites, you can still save login information of all the Windows apps which you use.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -184,6 +183,22 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-melodic-sharing-safeguarded-by-insta-laws/"><u>[New] 2024 Approved Melodic Sharing Safeguarded by Insta Laws</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-the-ultimate-video-camera-compendium-year/"><u>[New] In 2024, The Ultimate Video Camera Compendium Year</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-scoop-up-10-memes-that-balance-humor-with-heartfelt-emotions-for-2024/"><u>[New] Scoop Up 10 Memes That Balance Humor with Heartfelt Emotions for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-eliminate-0x800700e9-on-xbox-game-pass-and-windows-11/"><u>How to Eliminate 0X800700E9 on Xbox Game Pass & Windows 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-poco-f5-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-dji-mavic-pro-review/"><u>In 2024, DJI Mavic Pro Review</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-prove-your-prowess-with-swift-video-edits-on-windows-11-photos/"><u>In 2024, Prove Your Prowess with Swift Video Edits on Windows 11 Photos</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-s-top-picks-best-split-screen-video-apps-for-iphone-and-android/"><u>New In 2024, S Top Picks Best Split-Screen Video Apps for iPhone and Android</u></a></li>
+<li><a href="https://windows11.techidaily.com/resetting-and-redoing-reactivating-ms-store-for-windows-users/"><u>Resetting and Redoing: Reactivating MS Store for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-functionality-of-your-windows-11-key/"><u>Restoring Functionality of Your Windows 11 Key</u></a></li>
+<li><a href="https://video-capture.techidaily.com/ultimate-game-gathering-best-7-shooter-experiences/"><u>Ultimate Game Gathering Best 7 Shooter Experiences</u></a></li>
+<li><a href="https://windows11.techidaily.com/unfreezing-wow-update-windows-troubleshooting-guide/"><u>Unfreezing WoW Update: Windows Troubleshooting Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlocking-the-potential-of-file-explorer-on-windows-10-expert-advice-awaits/"><u>Unlocking the Potential of File Explorer on Windows 10: Expert Advice Awaits</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-system32-location-in-windows-11/"><u>Unveiling System32 Location in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-streamline-your-screens-with-a-three-column-board-setup/"><u>Windows 11: Streamline Your Screens with a Three-Column Board Setup</u></a></li>
+</ul></div>
 

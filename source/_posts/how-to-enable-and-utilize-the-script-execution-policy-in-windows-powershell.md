@@ -1,7 +1,7 @@
 ---
 title: How to Enable and Utilize the Script Execution Policy in Windows PowerShell
-date: 2025-01-04T23:27:51.805Z
-updated: 2025-01-10T20:26:38.468Z
+date: 2025-01-14T07:53:16.568Z
+updated: 2025-01-16T10:04:55.155Z
 tags:
   - windows10
   - windows11
@@ -25,16 +25,12 @@ thumbnail: https://thmb.techidaily.com/6612d7a6b7e8b44ce845a24c9c71af5e69ea9f37b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Check Your Existing Execution Policy
 
 ![Powershell set execution policy undefined](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/powershell-set-execcution-policy-undefined.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can use a PowerShell cmdlet to get your current execution policy. Knowing your current execution policy is necessary to know if you need a policy change or not.
@@ -50,6 +46,10 @@ To get your current execution policy for the current user:
 
  You’ll need to change the execution policy to RemoteSigned to run local scripts without the error. You can change the execution policy from the Settings app and PowerShell.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable PowerShell Execution Policy Using the Settings App
 
  You can change and set the PowerShell execution policy to RemoteSigned using the Settings app. All you have to do is tweak the PowerShell settings in the developers' section to change the execution policy to enable PowerShell script execution.
@@ -63,7 +63,7 @@ To change execution policy using Settings:
 4. Click to expand the**PowerShell** section.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Toggle the switch to **change the execution policy to allow local PowerShell scripts to run without signing - Require signing for remote scripts** .  
@@ -72,13 +72,13 @@ To change execution policy using Settings:
 
 7. If you need to disable the execution policy, toggle the PowerShell switch and set it to**Off** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Allow Scripts to Run in PowerShell using PowerShell
 
 ![Powershell set execcution policy remotesigned](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/powershell-set-execcution-policy-remotesigned.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can use a[PowerShell cmdlet](https://www.makeuseof.com/windows-powershell-commands-cmdlets/) to set the execution policy to RemoteSigned. The command-line interface makes it easy to change execution policy quickly without using the Settings app.
 
@@ -94,10 +94,6 @@ To change the execution policy using PowerShell:
 `Set-ExecutionPolicy RemoteSgined -Scope CurrentUser`
 5. Replace**CurrentUser** in the above command with other users (Scope) as per your requirement.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Remove Script Execution Policy Using PowerShell
 
 ![set-execution-policy-undefined](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-execution-polify-undefined.jpg)
@@ -112,6 +108,10 @@ To disable script execution using PowerShell:
 3. The above command will set the execution policy default (undefined) for all the users. If you want to disable script execution for a specific scope, use the following command:  
 `Set-ExecutionPolicy undefined -Scope CurrentUser`
 4. The above command will disable script execution for**CurrentUser** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Understanding Execution Policies and Scopes
 
@@ -164,24 +164,18 @@ The below table briefly explains all the execution policy scopes:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-enjoy-tiktok-at-your-fingertips-download-and-setup-on-macbook-for-2024/"><u>[New] Enjoy TikTok at Your Fingertips Download & Setup on MacBook for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-breathing-life-into-art-top-6-for-revolutionary-nftos/"><u>[Updated] 2024 Approved Breathing Life Into Art Top 6 for Revolutionary NFTOs</u></a></li>
-<li><a href="https://facebook.techidaily.com/decoding-the-crashes-of-facebook-and-whatsapp/"><u>Decoding the Crashes of Facebook & WhatsApp</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-install-software-for-your-new-gigabyte-gc-wb867d-i-video-card-download-here/"><u>Easy Install: Software for Your New Gigabyte GC-WB867D-I Video Card - Download Here</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/effortless-integration-top-2-methods-to-connect-sharepoint-with-file-explorer/"><u>Effortless Integration: Top 2 Methods to Connect SharePoint with File Explorer</u></a></li>
-<li><a href="https://windows11.techidaily.com/exploring-taskbar-upgrades-in-windows-11/"><u>Exploring Taskbar Upgrades in Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/is-it-possible-for-windows-with-new-arm-developments-to-exceed-the-efficiency-of-apple-silicon-machines/"><u>Is It Possible for Windows with New ARM Developments to Exceed the Efficiency of Apple Silicon Machines?</u></a></li>
-<li><a href="https://windows11.techidaily.com/masterclass-guide-to-overcoming-opengl-glitch-3/"><u>Masterclass Guide to Overcoming OpenGL Glitch #3</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-nat-type-adjustment-in-modern-windows-oses/"><u>Mastering NAT Type Adjustment in Modern Windows OSes</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-system-debugging-locating-and-resolving-error-codes-via-windows-command-prompt/"><u>Mastering System Debugging: Locating & Resolving Error Codes via Windows Command Prompt</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-art-of-fixing-install-failed-on-windows-1011/"><u>Mastering the Art of Fixing Install Failed on Windows 10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/methodology-purging-onedrive-icon-in-file-explorer/"><u>Methodology: Purging OneDrive Icon in File Explorer</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-windows-errors-fixing-the-termination-denial/"><u>Navigating Windows Errors - Fixing the Termination Denial</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/personalizing-who-can-see-your-youtube-content-for-2024/"><u>Personalizing Who Can See Your YouTube Content for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/preserving-your-preferred-windows-volume-mixer-state/"><u>Preserving Your Preferred Windows Volume Mixer State</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/tactical-gpt-recognition-for-detecting-sham-chatbots/"><u>Tactical GPT Recognition for Detecting Sham ChatBots</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/the-visionary-studio-guide-detailed-xreviewers-digest/"><u>The Visionary Studio Guide Detailed XReviewer's Digest</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-fixing-problems-with-pci-data-protection-driver-functionality/"><u>Troubleshooting and Fixing Problems with PCI Data Protection Driver Functionality</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-windows-arp-caches-deletion-guide/"><u>Understanding Windows ARP Caches: Deletion Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-from-puzzles-to-peril-the-gaming-genres-progression/"><u>[New] 2024 Approved From Puzzles to Peril The Gaming Genre's Progression</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-navigating-social-media-how-to-proficiently-record-live-on-fb/"><u>[New] In 2024, Navigating Social Media How to Proficiently Record Live on FB</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-itel-p55-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bypass-the-bug-essential-hacks-for-overcoming-developer-issue-6068-in-mw3-warzone/"><u>Bypass the Bug: Essential Hacks for Overcoming Developer Issue 6068 in MW3: Warzone</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-chromes-erroneous-virus-warning-on-pc/"><u>Clearing Chrome's Erroneous Virus Warning on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabling-elevated-privileges-for-power-users-a-guide/"><u>Enabling Elevated Privileges for Power Users: A Guide</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfersync-notes-from-apple-iphone-14-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer/Sync Notes from Apple iPhone 14 to iPad | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-auto-detection-errors/"><u>Overcoming Windows Auto Detection Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/re-establishing-printer-linkage-in-windows-11-setup/"><u>Re-Establishing Printer Linkage in Windows 11 Setup</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/toshiba-hard-drive-recovery-free-solutions-and-options-6-picks/"><u>Toshiba (東芝) Hard Drive Recovery: Free Solutions and Options [6 Picks]</u></a></li>
+<li><a href="https://windows11.techidaily.com/uniting-gmail-and-outlook-windows-setup-walkthrough/"><u>Uniting Gmail and Outlook: Windows Setup Walkthrough</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-the-power-of-pdf-analysis-for-chatgpt-learn-our-top-4-techniques/"><u>Unlocking the Power of PDF Analysis for ChatGPT: Learn Our Top 4 Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-caption-troubleshooting-made-simple/"><u>Win11 Caption Troubleshooting Made Simple</u></a></li>
 </ul></div>
 

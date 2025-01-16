@@ -1,7 +1,7 @@
 ---
 title: Clearing Up Color Issues in Legacy BIOS
-date: 2024-08-15T15:10:37.040Z
-updated: 2024-08-16T15:10:37.040Z
+date: 2025-01-10T06:41:39.791Z
+updated: 2025-01-16T08:50:24.119Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/4bc09bf00dd16476adc7181e127ad6390edb7499d
 
  Here is how to fix the Legacy Boot grayed-out in BIOS issue on your Windows system.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Causes the Legacy Boot Grayed Out Problem?
 
  You may find the Legacy Boot option grayed out if the UEFI settings, such as Secure Boot and TPM are enabled in the BIOS utility. In some instances, the BIOS utility can tell you why you can't switch to the Legacy boot option.
@@ -30,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/4bc09bf00dd16476adc7181e127ad6390edb7499d
 
  If you don't have any such option, try the troubleshooting steps below to restore the Legacy boot option in BIOS.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ## 1\. Disable Secure Boot to Enable Boot
 
  Secure Boot is a UEFI feature that protects your computer against malware by allowing only trusted system software to run on your computer. When enabled, it will perform a cryptographic check during the boot process to verify the integrity of the system image.
@@ -49,32 +50,28 @@ To disable secure boot:
 4. Go to**Troubleshoot** and click on**Advanced options** .
 5. Next, click on**UEFI Firmware Settings.**  
 ![Advanced OptionspUEFI Firmware Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/advanced-optionspuefi-firmware-settings.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Click**Restart** to boot into the**Startup Menu.**  
 ![startup menu HP](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/startup-menu-hp-1.jpg)
 2. In the Startup Menu, press**F10** to access the**BIOS Settings** . You may see other options depending on your computer manufacturer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Use the right and left arrow keys to open the**Boot Options** tab in the BIOS Utility.
 4. Next, use the up and down arrow key to highlight the**Secure Boot** option and press**Enter** to view more options.  
 ![disable secure boot bios](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-secure-boot-bios.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Select**Disabled** and make sure the changes are shown in the Boot Options tab.
 6. Press**F10** to save the changes and disable Secure Boot.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 2\. Disable Trusted Platform Technology (TPM)
 
 ![disable TPM state BIOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-tpm-state-bios-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 
  In addition to Secure Boot, you may also have enabled Trusted Platform Module (TPM), disabling Legacy BIOS. To fix the issue, check if TPM is enabled on your PC, which is likely a case on a Windows 11 running system, and disable the option if necessary.
 
@@ -86,6 +83,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 4. Select**Disabled** to disable TPM on your device.
 5. Press**F10** to save the change and exit.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Disable Modern Standby
 
  Modern Standby (S0) is a newer power mode available on select modern computers. It is enabled by default on compatible systems but can cause issues with Legacy Boot.
@@ -93,9 +94,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  To fix the issue, try to [disable Modern Standby on your Windows computer](https://www.makeuseof.com/windows-disable-modern-standby/) . Once disabled, restart your PC to see if you can switch to Legacy Boot now.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Restore a Grayed Out Legacy Boot Option in Your BIOS
 
  You can fix the grayed-out Legacy boot option in BIOS by disabling Secure Boot and Trusted Platform Technology. In addition, disable Standard Standby (S0) to fix the problem.
@@ -106,8 +107,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -115,6 +114,23 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-channel-up-your-earning-potential-with-youtube-shorts-strategy-for-2024/"><u>[New] Channel Up Your Earning Potential with YouTube Shorts Strategy for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-decode-wmps-techniques-for-efficient-audio-handling-and-recordings/"><u>[New] In 2024, Decode WMP's Techniques for Efficient Audio Handling and Recordings</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-vimeos-global-distribution-guide/"><u>[Updated] 2024 Approved Vimeo's Global Distribution Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-secure-and-store-your-saved-snaps-on-androidmac-hardware-for-2024/"><u>[Updated] Secure and Store Your Saved Snaps on Android/Mac Hardware for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/acer-wireless-driver-downloads-at-your-fingertps-fast-track-online-setup-for-free/"><u>Acer Wireless Driver Downloads at Your Fingertps: Fast Track Online Setup for Free!</u></a></li>
+<li><a href="https://fox-info.techidaily.com/advanced-tiktok-edit-tricks-to-boost-creativity/"><u>Advanced TikTok Edit Tricks to Boost Creativity</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-add-gmail-accounts-to-the-outlook-app-on-windows/"><u>How to Add Gmail Accounts to the Outlook App on Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-effortlessly-get-and-update-your-scansnap-drivers-in-windows/"><u>How to Effortlessly Get and Update Your ScanSnap Drivers in Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-online-privacy-and-save-exclusive-guide-to-scoring-49-off-expressvpn-deals/"><u>Maximize Online Privacy & Save: Exclusive Guide to Scoring 49% Off ExpressVPN Deals</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-future-of-gaming-on-windows-systems/"><u>Navigating the Future of Gaming on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/open-windows-with-a-click-essential-routes-revealed/"><u>Open Windows with a Click: Essential Routes Revealed</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-the-stumbling-block-of-0x80072af9/"><u>Overcoming the Stumbling Block of 0X80072AF9</u></a></li>
+<li><a href="https://windows11.techidaily.com/redefining-privileges-for-non-administrative-windows-users/"><u>Redefining Privileges for Non-Administrative Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-reverse-text-entry-in-windows-systems/"><u>Remedying Reverse Text Entry in Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-windows-update-error-code-x8024a205/"><u>Resolving Windows Update: Error Code X8024A205</u></a></li>
+</ul></div>
 

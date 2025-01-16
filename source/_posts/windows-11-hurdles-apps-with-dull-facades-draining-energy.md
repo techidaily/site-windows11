@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Hurdles: Apps With Dull Facades Draining Energy"
-date: 2025-01-08T17:48:50.279Z
-updated: 2025-01-10T21:02:26.932Z
+date: 2025-01-12T02:25:50.573Z
+updated: 2025-01-16T14:09:06.626Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/4344716e214d80fc0302240776bca3183fcb221b8
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Effect of the Chat and Widget Apps on Windows 11
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/4344716e214d80fc0302240776bca3183fcb221b8
  The article claims that the processes take up a few hundred megabytes of RAM, but the real proof comes from [Out of Office Hours](https://oofhours.com/2022/01/30/the-overhead-of-widgets-and-teams-in-windows-11/), which posted a screenshot showing several WebView2 processes each taking their slice of the RAM pie.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Disable the Chat and Widget App and Save Your Ram
@@ -52,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/4344716e214d80fc0302240776bca3183fcb221b8
  And that’s it—the Widget and Chat icons will be removed from the desktop and won’t occupy any RAM unnecessarily.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Find and Disable Other Apps
@@ -60,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/4344716e214d80fc0302240776bca3183fcb221b8
  It's not uncommon to get your PC memory drained by apps or background processes that aren't actually doing anything. To prevent this from happening, you have a [drove of tools for finding and disabling these apps](https://www.makeuseof.com/windows-pc-too-many-background-processes/). Everything from Task Manager, System Configuration, and the Settings App will help you in this. So make sure you check out and disable these apps as well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## An Unideal Welcome Party for Windows 11 Users
@@ -72,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/4344716e214d80fc0302240776bca3183fcb221b8
  At the same time, it's not a true Windows launch unless things go a bit awry at the start. Hopefully, these little annoyances will end up being teething issues for Windows 11, and not the norm moving forward.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Out of Sight, Out of Mind (and Memory)
@@ -89,17 +89,20 @@ thumbnail: https://thmb.techidaily.com/4344716e214d80fc0302240776bca3183fcb221b8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-discover-best-android-picture-tools/"><u>[Updated] Discover Best Android Picture Tools</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-infinix-note-30-pro-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Infinix Note 30 Pro</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/how-can-i-fix-a-malfunctioning-usb-port-on-my-laptop-expert-advice-from-yl-computing/"><u>How Can I Fix a Malfunctioning USB Port on My Laptop? - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-13t-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Xiaomi 13T Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-14-pro-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix iPhone 14 Pro Passcode not Working?</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-sound-sanitization-cleaning-up-your-online-footage/"><u>In 2024, Sound Sanitization Cleaning Up Your Online Footage</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-iphone-14s-charging-concerns-a-comprehensive-guide/"><u>Overcoming iPhone 14'S Charging Concerns: A Comprehensive Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolve-icloud-install-issues-on-windows-quickly/"><u>Resolve iCloud Install Issues on Windows Quickly</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-for-stopping-microsoft-teams-from-shutting-down-ws11ws10/"><u>Strategies for Stopping Microsoft Teams From Shutting Down WS11/WS10</u></a></li>
-<li><a href="https://windows11.techidaily.com/ultimate-strategy-batch-convert-heic-files-to-jpeg-in-windows-11/"><u>Ultimate Strategy: Batch Convert HEIC Files to JPEG in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/unravel-and-solve-your-windows-update-puzzle-fast/"><u>Unravel and Solve Your Windows Update Puzzle Fast!</u></a></li>
-<li><a href="https://windows11.techidaily.com/write-better-work-smarter-5-pc-apps-guide/"><u>Write Better, Work Smarter: 5 PC Apps Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-premier-screening-gems-for-2024/"><u>[New] Premier Screening Gems for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-10-secret-windows-11-tips-and-tricks-you-may-not-know/"><u>[Updated] 10 Secret Windows 11 Tips and Tricks You May Not Know</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-harnessing-onscreen-power-expert-tips-on-cropping-images/"><u>[Updated] 2024 Approved Harnessing Onscreen Power Expert Tips on Cropping Images</u></a></li>
+<li><a href="https://windows11.techidaily.com/crafting-compelling-desktop-imagery-on-windows-11/"><u>Crafting Compelling Desktop Imagery on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/discovering-the-power-of-wintoys-a-step-by-step-analysis-for-windows-users/"><u>Discovering the Power of WinToys: A Step-by-Step Analysis for Windows Users</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-facebook-is-defining-satirical-expression/"><u>How Facebook Is Defining Satirical Expression</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-oneplus-nord-ce-3-lite-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your OnePlus Nord CE 3 Lite 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-vlogging-hurdles-how-to-triumph-over-ten-common-obstacles/"><u>In 2024, Vlogging Hurdles How to Triumph Over Ten Common Obstacles</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pixel-magic-transforming-still-images-to-video-with-pixiz-for-2024/"><u>Pixel Magic Transforming Still Images to Video with Pixiz for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-and-simplify-game-setup-in-xbox-app/"><u>Streamline and Simplify Game Setup in Xbox App</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-tasks-essential-folders-tweaks-for-windows-users/"><u>Streamline Tasks: Essential Folders Tweaks for Windows Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-overcoming-screen-recording-issues-in-obs-studio/"><u>Troubleshooting Tips: Overcoming Screen Recording Issues in OBS Studio</u></a></li>
+<li><a href="https://windows11.techidaily.com/tweak-your-pc-reduce-memorycpu-waste-from-apps/"><u>Tweak Your PC: Reduce Memory/CPU Waste From Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-and-fixing-the-windows-error-0x800704b3/"><u>Understanding and Fixing the Windows Error: 0X800704B3</u></a></li>
 </ul></div>
 

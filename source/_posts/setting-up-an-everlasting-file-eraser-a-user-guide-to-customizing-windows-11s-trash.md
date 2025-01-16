@@ -1,7 +1,7 @@
 ---
 title: "Setting up an Everlasting File Eraser: A User Guide to Customizing Windows 11'S Trash"
-date: 2025-01-07T22:46:21.056Z
-updated: 2025-01-10T22:36:07.136Z
+date: 2025-01-10T23:29:51.606Z
+updated: 2025-01-15T18:52:31.127Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Standard Deletion vs. Permanent Erasure: What's Wrong With the Default Recycle Bin?
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 ![The Recycle Bin Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/recycle-bin-properties-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Yet, the Recycle Bin’s standard deletion method merely removes a hard drive reference pointer for a file. Doing so marks the drive space a deleted file occupies as available, but the data remains intact until it gets overwritten. This means that non-overwritten files removed with standard deletion can still be recovered with data recovery software. Our data recovery software guide tells you about some of the[best tools you can use for restoring files](https://www.makeuseof.com/best-data-recovery-software/) .
@@ -78,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
  You’ll also notice that the menu includes an**Integrate in explorer “Send to” menu** selected by default. That option adds Free File Wiper menu to the**Send to** submenu on the classic context menu when selected. It enables you to right-click a file and select**Show more options** \>**Send to** \>**Free File Wiper** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add a File Deletion Bin to the Desktop With Multi Trash
@@ -95,29 +95,29 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 ![The Add gadget option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-gadget-option.jpg)
 8. Double-click the Multi Trash gadget, which will probably be on page two of that window, to add it to the desktop.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Multi Trash gadget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-button.jpg)
 
  Multi Trash is set to its Recycle Bin by default. However, you can change its function by clicking the arrows on that gadget. Click that gadget’s**left arrow** to turn it into a Shred bin.
 
 ![The Multi Trash Recycle bin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-multi-trash-recycle-bin.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Shred bin will permanently erase files dragged onto it. So, go ahead and drag some files from Explorer’s window onto the Shred bin. A confirmation prompt will open that asks if you’re sure about permanently deleting the file. Click**Yes** to confirm as such.
 
 ![The Shred bin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-shred-bin.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This gadget has a few customization settings. Click its**Options** button to view them on the Multi Trash window. You can change the bin’s color by clicking the**Shredder Glass Color** option on the**Appearance** tab and selecting an alternative one on the palette. To change the bin’s size, select the**Large** or**Small** options on the**Size of bin** drop-down menus within the**Function** tab. Click**OK** to apply new gadget settings.
 
 ![The Multi Trash window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-settings.jpg)
 
  Of course, the biggest beauty of Multi Trash is that it’s a 3-in-1 file deletion tool. You can also set it to be a recycle or standard deletion bin for different files. However, only the Shred bin securely erases files beyond recovery. So, use the Shred bin to erase files that include more confidential info.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Delete Your Files More Securely on the Windows 10 and 11 Desktop
 
@@ -140,14 +140,24 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-youtube-editing-made-easy-with-the-8-best-no-cost-software-options/"><u>[Updated] YouTube Editing Made Easy with The 8 Best No-Cost Software Options</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-cutting-edge-creativity-high-quality-ae-samples-without-fee/"><u>2024 Approved Cutting-Edge Creativity High-Quality AE Samples Without Fee</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-samsung-galaxy-s24plus-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Samsung Galaxy S24+ 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-your-kotion-each-g2000-microphones-audio-input-functionality/"><u>How to Restore Your Kotion EACH-G2000 Microphone's Audio Input Functionality</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/making-windows-11-writable-safe-hardware-dialog-easy-access/"><u>Making Windows 11' Writable, Safe Hardware Dialog Easy Access</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-computer-crisis-management-with-tools/"><u>Mastering Computer Crisis Management with Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/propel-windows-video-workflow-adopt-distributed-power-by-tdarr-technology/"><u>Propel Window's Video Workflow: Adopt Distributed Power by Tdarr Technology</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-unfunctional-enter-key-in-windows-os/"><u>Resolving Unfunctional Enter Key in Windows OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-whisper-techniques-concealing-commands-effectively/"><u>Window's Whisper Techniques: Concealing Commands Effectively</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-youtube-earnings-per-watch-average-income-breakdown/"><u>[New] 2024 Approved YouTube Earnings per Watch Average Income Breakdown</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-accelerate-your-gaming-experience-with-top-extensions-for-2024/"><u>[New] Accelerate Your Gaming Experience with Top Extensions for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-essential-methods-recording-minecraft-games-on-apple-devices/"><u>[Updated] 2024 Approved Essential Methods Recording Minecraft Games on Apple Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-financial-forecast-the-price-of-filming-melodies-visually/"><u>[Updated] Financial Forecast The Price of Filming Melodies Visually</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-swiftsoundphone-apps-top-10-for-rapid-music/"><u>[Updated] SwiftSoundphone Apps Top 10 for Rapid Music</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-job-application-game-using-chatgpt-for-resume-creation/"><u>Boost Your Job Application Game Using ChatGPT for Resume Creation</u></a></li>
+<li><a href="https://windows11.techidaily.com/diagnosing-and-repairing-win-lsa-errors/"><u>Diagnosing and Repairing Win LSA Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-privacy-settings-add-trusted-websites-to-windows-11/"><u>Elevating Privacy Settings: Add Trusted Websites to Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/evaluating-the-new-windows-11-interface/"><u>Evaluating the New Windows 11 Interface</u></a></li>
+<li><a href="https://windows11.techidaily.com/guaranteeing-a-peaceful-sleep-for-w11-devices-at-rest/"><u>Guaranteeing a Peaceful Sleep for W11 Devices at Rest</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-subduing-file-explorers-default-views/"><u>Guide to Subduing File Explorer's Default Views</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-casual-gopro-footage-to-a-pro-level/"><u>In 2024, Transform Your Casual Gopro Footage to a Pro Level</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-package-discrepinas-in-windows-photos-with-step-by-step-tips/"><u>Overcoming Package Discrepinas in Windows Photos with Step-by-Step Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfect-your-pc-settings-unlock-potential-using-alomware-suite/"><u>Perfect Your PC Settings: Unlock Potential Using AlomWare Suite</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/preventing-macbook-sleep-mode-on-lid-shut-a-comprehensive-how-to/"><u>Preventing MacBook Sleep Mode on Lid Shut: A Comprehensive How-To</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-headphone-functionality-on-windows-7-systems-a-step-by-step-solution/"><u>Reviving Headphone Functionality on Windows 7 Systems: A Step-by-Step Solution</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-small-sized-symphony-a-review-on-mp3-players/"><u>The Small-Sized Symphony: A Review on MP3 Players</u></a></li>
+<li><a href="https://windows11.techidaily.com/uninstalling-epic-games-with-ease-on-your-w11-computer/"><u>Uninstalling Epic Games with Ease on Your W11 Computer</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-access-your-outlook-preview/"><u>Unlocking Windows: Access Your Outlook Preview</u></a></li>
 </ul></div>
 

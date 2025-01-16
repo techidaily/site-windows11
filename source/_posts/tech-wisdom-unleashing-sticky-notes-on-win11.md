@@ -1,7 +1,7 @@
 ---
 title: "Tech Wisdom: Unleashing Sticky Notes on Win11"
-date: 2025-01-03T19:51:58.100Z
-updated: 2025-01-10T20:56:49.071Z
+date: 2025-01-10T01:21:04.053Z
+updated: 2025-01-16T11:26:47.670Z
 tags:
   - windows10
   - windows11
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/5d40c0bfb2b671dade97ca433b00bb587bba5a397
  Now that you know what a sticky note is, let's see how to open it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Open Sticky Notes via Windows Search
@@ -48,7 +48,7 @@ To open Sticky Notes using the Windows Search tool, do the following:
 2. Then type "Sticky Notes" into the search bar.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. The Sticky Notes app should appear as a search result. Click on it to open the app.
@@ -58,7 +58,7 @@ To open Sticky Notes using the Windows Search tool, do the following:
  If you're looking for a quick and easy way to create and manage your notes, give Windows Search a try!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to Open Sticky Notes Using Start Menu
@@ -70,6 +70,10 @@ To open Sticky Notes from the Start Menu, follow these steps:
 1. Click on the**Start** button and then select**All apps** from the menu in the upper right corner.  
 ![Open Sticky Notes Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Sticky-Notes-Using-Run-Command.jpg)
 2. Scroll down until you see**Sticky Notes** , then click to open it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. How to Open the Sticky Notes With a Desktop Shortcut
 
@@ -83,10 +87,6 @@ To open Sticky Notes from the Start Menu, follow these steps:
 
  As a result, you can create a shortcut to the application on your desktop that will open with a single click.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. How to Pin Sticky Notes to the Taskbar
 
  If you're looking for an easy way to keep track of your sticky notes, try pinning them to the taskbar in Windows 11\. Here's how to do this:
@@ -95,11 +95,11 @@ To open Sticky Notes from the Start Menu, follow these steps:
 2. Right-click on Sticky Notes and select**Pin to taskbar** .  
 ![How to Pin Sticky Notes to the Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/How-to-Pin-Sticky-Notes-to-the-Taskbar.jpg)
 
-Now you can access your sticky notes right from the taskbar.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Now you can access your sticky notes right from the taskbar.
 
 ## Easy Access to Sticky Notes
 
@@ -120,20 +120,21 @@ Now you can access your sticky notes right from the taskbar.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-two-ways-to-keep-your-insta-reels-accessible-anytime/"><u>[New] 2024 Approved Two Ways to Keep Your Insta Reels Accessible Anytime</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-discover-top-8-budget-friendly-screen-capture-apps-for-android/"><u>[New] In 2024, Discover Top 8 Budget-Friendly Screen Capture Apps for Android</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-premier-guidelines-for-broadcasting-sports-online-for-2024/"><u>[New] Premier Guidelines for Broadcasting Sports Online for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-enhancing-user-experience-strategic-placement-of-alerts-on-youtube-content/"><u>[Updated] Enhancing User Experience Strategic Placement of Alerts on YouTube Content</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-efficient-tactics-for-recording-vimeo-media/"><u>[Updated] In 2024, Efficient Tactics for Recording Vimeo Media</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-optimizing-live-streams-with-onestream-a-beginners-guide/"><u>In 2024, Optimizing Live Streams with OneStream A Beginner's Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/left-side-arrangement-organizing-windows-11-taskbar-icons/"><u>Left-Side Arrangement: Organizing Windows 11 Taskbar Icons</u></a></li>
-<li><a href="https://windows11.techidaily.com/lenovo-legion/"><u>Lenovo Legion</u></a></li>
-<li><a href="https://windows11.techidaily.com/maximizing-performance-8-must-do-tasks-following-the-acquisition-of-a-new-windows-computer/"><u>Maximizing Performance: 8 Must-Do Tasks Following the Acquisition of a New Windows Computer</u></a></li>
-<li><a href="https://driver-install.techidaily.com/rectify-hp-printer-drivers-on-windows-10/"><u>Rectify HP Printer Drivers on Windows 10</u></a></li>
-<li><a href="https://windows11.techidaily.com/revamping-the-boring-windows-terminal-into-a-stylish-command-hub/"><u>Revamping the Boring Windows Terminal Into a Stylish Command Hub</u></a></li>
-<li><a href="https://windows11.techidaily.com/say-goodbye-to-netflix-download-functionality-for-desktop-upcoming-changes-explained/"><u>Say Goodbye to Netflix Download Functionality for Desktop: Upcoming Changes Explained</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-essential-12-improvements-for-a-future-release-what-users-hope-for-from-windows-12/"><u>The Essential 12 Improvements for a Future Release: What Users Hope For From Windows 12</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-nearly-complete-windows-11-update-for-2amz-may-2024-innovations-and-features-ahead/"><u>The Nearly Complete Windows 11 Update for 2Amz, May 2024: Innovations and Features Ahead!</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/unlock-growth-with-advanced-cookiebot-analytics-tools/"><u>Unlock Growth with Advanced Cookiebot Analytics Tools</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tailored-timeline-management-best-twitter-unfollow-tools-ranked/"><u>[Updated] 2024 Approved Tailored Timeline Management Best Twitter Unfollow Tools Ranked</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-top-10-best-farming-games/"><u>[Updated] 2024 Approved Top 10 Best Farming Games</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-rapid-expansion-youtube-channels-boosting-brainpower/"><u>[Updated] Rapid Expansion YouTube Channels Boosting Brainpower</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-turbocharge-touch-ups-learn-speedy-skills-for-win10-photos-editing/"><u>[Updated] Turbocharge Touch-Ups Learn Speedy Skills for WIN10 Photos Editing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversion-video-avancee-gratuite-rmvb-a-avi-via-lexpertise-de-movavi/"><u>Conversion Vidéo Avancée Gratuite : RMVB À AVI via L'expertise De Movavi</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-itel-p55-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your Itel P55 5G Device SIM</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-productivity-choosing-terminal-as-primary-command-line-interface/"><u>Enhancing Productivity: Choosing Terminal as Primary Command Line Interface</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-bypass-ms-defenders-blockage-on-third-party-av/"><u>How to Bypass MS Defender's Blockage on Third-Party AV</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c300-bootloader-easily-by-drfone-android/"><u>How to Unlock Nokia C300 Bootloader Easily</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-designing-short-trailers-that-tell-a-story/"><u>In 2024, Designing Short Trailers That Tell a Story</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-constant-calculator-positioning-on-pcs/"><u>Optimizing Constant Calculator Positioning on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/quickfix-sniping-tool-problems-top-tips-revealed/"><u>QuickFix Sniping Tool Problems: Top Tips Revealed</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-empty-folder-notifications/"><u>Remedying Empty Folder Notifications</u></a></li>
+<li><a href="https://windows11.techidaily.com/revive-your-pc-steps-to-uncover-and-use-lost-features-in-windows-11/"><u>Revive Your PC: Steps to Uncover and Use Lost Features in Windows 11</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/successful-techniques-for-a-fresh-start-with-windows-11-reboot-exploring-three-effective-methods/"><u>Successful Techniques for a Fresh Start with Windows 11 Reboot: Exploring Three Effective Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-tab-issue-solutions-for-non-responsive-keys/"><u>Windows Tab Issue: Solutions for Non-Responsive Keys</u></a></li>
 </ul></div>
 

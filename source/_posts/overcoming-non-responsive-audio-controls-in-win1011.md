@@ -1,7 +1,7 @@
 ---
 title: Overcoming Non-Responsive Audio Controls in Win10/11
-date: 2025-01-05T18:55:21.667Z
-updated: 2025-01-10T17:09:28.918Z
+date: 2025-01-12T10:46:12.888Z
+updated: 2025-01-15T22:28:41.641Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/c6fb0c53f67d408b9f1a8e71dd93d74b8d8f511c1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run the Playing Audio Troubleshooter
 
  Windows has a Playing Audio troubleshooter that’s there to help you resolve sound-related issues. So, try running that troubleshooter first to see if it offers any potential fixes for the volume control slider not working. You can open and run the Playing Audio troubleshooter like this:
@@ -39,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/c6fb0c53f67d408b9f1a8e71dd93d74b8d8f511c1
 ![Browse my computer for drivers option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/browse-my-computer-for-drivers.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Scan and Repair System Files
@@ -47,14 +51,6 @@ thumbnail: https://thmb.techidaily.com/c6fb0c53f67d408b9f1a8e71dd93d74b8d8f511c1
  The volume control slider might not work on your PC because of system file corruption. So, run a System File Checker scan to check for and repair corrupted files. This guide to[running an SFC scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) tells you how to repair corrupted system files.
 
 ![The sfc /scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-system-file-checker.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Restart the Windows Explorer Process
 
@@ -81,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/c6fb0c53f67d408b9f1a8e71dd93d74b8d8f511c1
 6. Press**Apply** and**OK** to set the new Windows Audio service options.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Change the Scale Setting
@@ -92,10 +88,6 @@ thumbnail: https://thmb.techidaily.com/c6fb0c53f67d408b9f1a8e71dd93d74b8d8f511c1
 2. Click**Display** to access the**Scale** option.
 3. Select the**125%** option on the**Scale** drop-down menu. Or change the**Scale** setting to a different**100%** or**150** value if 125% is already selected.  
 ![The Scale option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-scale-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Update the Audio Device Driver
 
@@ -119,11 +111,11 @@ thumbnail: https://thmb.techidaily.com/c6fb0c53f67d408b9f1a8e71dd93d74b8d8f511c1
 ![The sound driver selection box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/driver-selection.jpg)
 8. Click**Yes** to install the selected audio driver.
 
-9. Exit Device Manager and restart your desktop/laptop.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+9. Exit Device Manager and restart your desktop/laptop.
 
 ## 7\. Reinstall Your PC’s Audio Device Driver
 
@@ -138,10 +130,14 @@ thumbnail: https://thmb.techidaily.com/c6fb0c53f67d408b9f1a8e71dd93d74b8d8f511c1
 ![The Uninstall button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-uninstall-button.jpg)
 5. Bring up the Windows Start menu and select to restart the PC from there. Windows will reinstall a sound driver after the restart.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Or you can reinstall device drivers by clicking the**Scan for hardware changes** option in Device Manager without restarting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Disable Absolute Volume Control by Editing the Registry
@@ -151,7 +147,7 @@ thumbnail: https://thmb.techidaily.com/c6fb0c53f67d408b9f1a8e71dd93d74b8d8f511c1
  Our guide about[disabling Absolute Volume on Windows](https://www.makeuseof.com/windows-10-absolute-volume-enable-disable/#:~:text=Go%20to%20HKEY%5FLOCAL%5FMACHINE%20%3E%20SYSTEM%20%3E%20ControlSet001,Restart%20your%20computer.) includes full instructions for how to apply this potential fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Reinstall Windows With an In-Place Upgrade
@@ -163,6 +159,10 @@ thumbnail: https://thmb.techidaily.com/c6fb0c53f67d408b9f1a8e71dd93d74b8d8f511c1
  Resetting Windows is a similar troubleshooting method to an in-place upgrade that will restore the platform to default settings. However, you can’t select to preserve all the apps you’ve installed within the "Reset this PC" tool. This article about[factory resetting Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/#:~:text=To%20run%20a%20Windows%20factory,%3E%20Update%20%26%20Security%20%3E%20Recovery.) tells you how to utilize the "Reset this PC" utility.
 
 ![The Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-reset-this-pc-tool.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Adjust the Audio Level With the Volume Control Slider Again on Windows
 
@@ -183,17 +183,21 @@ thumbnail: https://thmb.techidaily.com/c6fb0c53f67d408b9f1a8e71dd93d74b8d8f511c1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-drone-editors-toolkit-techniques-for-visual-excellence/"><u>[New] The Drone Editor's Toolkit Techniques for Visual Excellence</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pioneering-visual-editing-3dlut-for-photosvideos/"><u>[Updated] Pioneering Visual Editing 3DLUT for Photos/Videos</u></a></li>
-<li><a href="https://article-helps.techidaily.com/elite-corporate-space-for-secure-storage/"><u>Elite Corporate Space for Secure Storage</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-incompatible-fingerprint-error-on-windows-os/"><u>Fixing Incompatible Fingerprint Error on Windows OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-your-windows-license-will-expire-soon-error-on-windows-10-and-11/"><u>How to Fix the “Your Windows License Will Expire Soon” Error on Windows 10 and 11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Oppo F23 5G | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Vivo G2? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/movavim4bmkv/"><u>Movaviで使いやすく、安全なM4BからMKVへのオンライン変換ツール – 完全無料対応</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamline-translations-hotkey-tips-for-windows-11-language-switching/"><u>Streamline Translations: Hotkey Tips for Windows 11 Language Switching</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-shopping-at-premium-phone-boutiques/"><u>The Ultimate Guide to Shopping at Premium Phone Boutiques</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/unlocking-youtube-on-facebook-feeds/"><u>Unlocking YouTube on Facebook Feeds</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-woes-get-your-arrows-back-to-normal/"><u>Windows Woes? Get Your Arrows Back to Normal</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-codec-clash-determining-the-leader-in-video-quality/"><u>[New] 2024 Approved Codec Clash Determining the Leader in Video Quality</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-foolproof-method-for-adding-a-link-to-your-tiktok-bio-for-2024/"><u>[New] Foolproof Method for Adding a Link to Your TikTok Bio for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-stabilizing-your-gopro-footage-a-step-by-step-guide/"><u>2024 Approved Stabilizing Your GoPro Footage A Step-by-Step Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-realme-narzo-60-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/dive-into-digital-dreams-with-paint-cocreator-and-windows-11-creating-vivid-ai-visuals/"><u>Dive Into Digital Dreams with Paint Cocreator & Windows 11, Creating Vivid AI Visuals</u></a></li>
+<li><a href="https://windows11.techidaily.com/ensuring-convergence-of-windows-and-wsl-with-win-11-upgrade/"><u>Ensuring Convergence of Windows & WSL with Win 11 Upgrade</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-licensed-soundtracks-for-gamers-a-complete-list-for-2024/"><u>Free, Licensed Soundtracks for Gamers - A Complete List for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-customize-and-reset-your-command-prompt/"><u>Guide to Customize and Reset Your Command Prompt</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-depth-look-at-facetune-complete-app-revision-for-2024/"><u>In-Depth Look at Facetune Complete App Revision for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/instructions-for-resetting-customized-windows-settings/"><u>Instructions for Resetting Customized Windows Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-hurdles-in-windows-hello-fingerprint-failures/"><u>Overcome Hurdles in Windows Hello Fingerprint Failures</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ps5-unique-game-selection-discover-your-favorites/"><u>PS5 Unique Game Selection - Discover Your Favorites!</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailored-windows-11-selection-home-edition-or-pro-level-choice/"><u>Tailored Windows 11 Selection: Home Edition or Pro-Level Choice</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/the-freestyle-producers-guide-2023s-no-cost-audio-mixing-leaders/"><u>The Freestyle Producers Guide 2023S No-Cost Audio Mixing Leaders</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-media-maker-error-x8007043c-fix-guide/"><u>Windows' Media Maker Error X.8007043C Fix Guide</u></a></li>
 </ul></div>
 

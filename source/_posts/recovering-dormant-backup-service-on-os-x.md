@@ -1,7 +1,7 @@
 ---
 title: Recovering Dormant Backup Service on OS X
-date: 2025-01-05T20:50:06.495Z
-updated: 2025-01-10T22:33:19.639Z
+date: 2025-01-12T09:55:18.522Z
+updated: 2025-01-15T20:43:01.177Z
 tags:
   - windows10
   - windows11
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Enable and Start Volume Shadow Copy Services
 
  VSS errors can often arise because the Volume Shadow Copy and Microsoft Software Shadow Copy Provider services aren’t enabled or running. For example, many users have confirmed enabling those services can fix VSS error codes 0x81000202 and 0x81000203, which affect the System Restore tool. So, you may be able to resolve numerous Volume Shadow Copy errors by enabling VSS services like this:
@@ -37,18 +33,22 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/services-window.jpg)
 4. Click the drop-down menu labeled **Startup type** and select **Automatic** if the service is set differently.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Startup type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/startup-type-drop-down-menu.jpg)
 5. Press **Start** in the Volume Shadow Copy Service window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Click on the service window’s **Apply** and **OK** buttons to set the changed options.
 7. Repeat steps three to six for the Microsoft Software Shadow Copy Provider service.
 8. Also, check that the RPC Endpoint Mapper and DCOM Server Process dependency services for Volume Shadow Copy are enabled and running.
 
  Restart those shadow copy services if they’re already set as required. You can do that by right-clicking on those services and selecting the Restart context menu options for them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Repair Your System Files With the SFC and DISM Commands
 
@@ -70,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 
  Don’t leave your antivirus shield permanently disabled. If possible, select to disable it for a few hours before attempting the backup or system restoration operation again. Or manually re-enable your antivirus if you can’t select a temporary option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Disable Any Active Firewalls
 
  It’s also recommended to disable the firewall component of a third-party antivirus utility before attempting to perform a VSS operation. Turning off an antivirus shield won’t disable a firewall component. Look for firewall settings within your antivirus software’s tabs to see if it includes one. If it does, select to turn off the firewall.
@@ -83,11 +79,11 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 ![The Turn off Windows Defender Firewall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/turn-off-firewall-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Set Windows to Perform a Clean Boot
@@ -99,6 +95,10 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
  However, you can [perform a clean boot](https://www.makeuseof.com/clean-boot-windows-11/) to stop third-party apps and services from starting with Windows to prevent conflicts from arising. This involves disabling startup items and services with Task Manager and MSConfig and restarting Windows. Then try utilizing the Windows Backup and Restore or System Restore tools after clean booting your PC to see if the VSS error persists.
 
  If it does, this means something you disabled during the clean boot is causing the problem. Now you can slowly re-enable each app until the problem reappears, then either uninstall or update the offending app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Back up and Restore Windows Again
 
@@ -114,18 +114,24 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-mastering-cost-effective-visual-integration-in-writing/"><u>[New] Mastering Cost-Effective Visual Integration in Writing</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-understanding-ios-video-recording/"><u>[Updated] In 2024, Understanding iOS Video Recording</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-is-inshot-the-best-of-the-best-expert-reviews-speak-up/"><u>2024 Approved Is InShot The Best of the Best? Expert Reviews Speak Up</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/captivating-hd-zoological-wallpapers-exclusive-wildlife-artwork-and-background-images-from-yl-software/"><u>Captivating HD Zoological Wallpapers: Exclusive Wildlife Artwork and Background Images From YL Software</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Realme 12+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/minimizing-time-outs-and-lag-in-windows-discord-service/"><u>Minimizing Time-Outs and Lag in Windows Discord Service</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-access-errors-with-epic-launcher/"><u>Resolving Access Errors with Epic Launcher</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/schneller-und-sicherer-weg-zur-datenwiederherstellung-auf-micro-sd-karten-expertenrat/"><u>Schneller Und Sicherer Weg Zur Datenwiederherstellung Auf Micro-SD-Karten – Expertenrat</u></a></li>
-<li><a href="https://windows11.techidaily.com/team-chat-freezing-heres-a-fix/"><u>Team Chat Freezing? Here’s a Fix</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/transfer-data-effortlessly-three-techniques-for-iphone-backups-on-external-drives/"><u>Transfer Data Effortlessly: Three Techniques for iPhone Backups on External Drives</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshoot-no-display-on-pc-startup/"><u>Troubleshoot No-Display on PC Startup</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-impactful-windows-11-service-disabling/"><u>Understanding Impactful Windows 11 Service Disabling</u></a></li>
-<li><a href="https://windows11.techidaily.com/upgrade-security-mastering-windows-11-password-change/"><u>Upgrade Security: Mastering Windows 11 Password Change</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-a-journey-through-colors-leading-tutorials-for-grading-and-correction/"><u>[New] 2024 Approved A Journey Through Colors Leading Tutorials for Grading & Correction</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-mastering-the-craft-of-in-depth-and-impactful-interviews/"><u>[New] 2024 Approved Mastering the Craft of In-Depth and Impactful Interviews</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-superior-avi-media-player-ideal-for-all-devices/"><u>[Updated] Superior AVI Media Player - Ideal for All Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/audio-visual-verification-a-windows-users-pre-meet-checklist/"><u>Audio Visual Verification: A Windows User’s Pre-Meet Checklist</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-apple-iphone-15-pro-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For Apple iPhone 15 Pro Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/crafting-the-perfect-keys-list-for-win11s-narrator-control/"><u>Crafting the Perfect Keys List for Win11's Narrator Control</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-prevalent-anydesk-errors-in-windows/"><u>Decoding Prevalent AnyDesk Errors in Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-itel-p55t-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Itel P55T Phone | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-stop-recurring-disk-full-issues-in-windows/"><u>How to Stop Recurring Disk Full Issues in Windows</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/i-numeri-italiani-da-1-al-prolungamento-a-mille/"><u>I Numeri Italiani: Da 1 Al Prolungamento a Mille</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-xiaomi-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Xiaomi</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974176310-quick-enhancement-update-intel-graphics-3000-to-boost-your-w10-display/"><u>Quick Enhancement: Update Intel Graphics 3000 to Boost Your W10 Display</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-steps-to-live-stream-youtube-via-obs-for-novices/"><u>Quick Steps to Live Stream Youtube via OBS for Novices</u></a></li>
+<li><a href="https://windows11.techidaily.com/re-establishing-malwarebytes-service-connections-in-win-oses/"><u>Re-Establishing Malwarebytes' Service Connections in Win OSes</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/the-ultimate-guide-to-picking-a-cryptocurrency-platform-insights-by-yl-software-experts/"><u>The Ultimate Guide to Picking a Cryptocurrency Platform - Insights by YL Software Experts</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-guide-vmware-crashes-bsod-on-win11/"><u>Troubleshooting Guide: VMware Crashes, BSOD on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-is-ftdibussys-on-windows-and-why-does-it-disable-memory-integrity/"><u>What Is ftdibus.sys on Windows and Why Does It Disable Memory Integrity?</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-unveiled-the-backup-and-sync-technological-advancements/"><u>Windows 11 Unveiled: The Backup & Sync Technological Advancements</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-window-wizardry-how-to-reactivate-off-screen-apps/"><u>Windows 11 Window Wizardry: How to Reactivate Off-Screen Apps</u></a></li>
 </ul></div>
 

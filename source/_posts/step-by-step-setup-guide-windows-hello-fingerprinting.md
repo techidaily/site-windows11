@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Setup Guide: Windows Hello Fingerprinting"
-date: 2025-01-04T22:01:59.940Z
-updated: 2025-01-10T17:50:53.803Z
+date: 2025-01-13T17:05:27.926Z
+updated: 2025-01-16T12:38:04.868Z
 tags:
   - windows10
   - windows11
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
 
  However, generally speaking, if you have a moderately-good laptop, it very likely features a compatible fingerprint scanner. Meanwhile, if you have a PC, you can get a decent external fingerprint reader and connect it to your computer via USB.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Set Up Windows Hello on Windows 11
 
  Setting up Windows Hello on Windows 11 requires you to set up a PIN first. It's required as a backup, so you aren't locked out of your computer in the event your computer's hardware fails to recognize your face or fingerprint. Once you've set the PIN, you can then set up Windows Hello fingerprint login on your computer.
@@ -53,12 +49,12 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
 ![Windows 11 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/setting-up-windows-hello-pin-on-windows-11-1.jpg)
 4. Now, click on**PIN (Windows Hello)** to expand its options and hit the**Set up** button.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Windows Hello PIN sign-in option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/setting-up-windows-hello-pin-on-windows-11-2.jpg)
 5. Enter your account password and hit**OK** to authenticate yourself and proceed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Enter a PIN in the**New PIN** field and input it again in the**Confirm PIN** field. If you wish to include letters and symbols in your PIN, check off the Include letters and symbols option.
 7. Click**OK** to create and set the PIN as your new sign-in option.
@@ -75,15 +71,19 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
 ![Windows Hello fingerprint login set up option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/setting-up-windows-hello-fingerprint-login-1.jpg)
 6. On the**Windows Hello setup** window, click on**Get started** , and when prompted to enter your PIN, type the PIN you created earlier.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Windows Hello PIN authentication](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/setting-up-windows-hello-fingerprint-login-2.jpg)
 7. Swipe your finger across the fingerprint reader on your PC until it registers it completely.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Windows Hello fingerprint registration prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/setting-up-windows-hello-fingerprint-login-3.jpg)
 8. Hit**Close** to close the setup window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you want to be extra cautious, you can register a second finger with Windows Hello. That way, if your scanner fails to recognize one fingerprint, you can try the other one to sing-in instead of having to resort to using the PIN.
 
@@ -92,7 +92,7 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
 ![Windows Hello second fingerprint set up option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/adding-a-second-fingerprint-for-windows-hello.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Log Into Your Windows 11 PC Using a Fingerprint
@@ -102,10 +102,6 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
  To do this, press the**Win + L** keys to lock your PC. Now, swipe your registered finger across the fingerprint scanner on your computer. If your fingerprint scanner is functional, and you managed to register your fingerprint properly, you should've unlocked your PC by now.
 
  However, if this doesn't work, try another finger if you've registered it. Alternatively, enter the PIN when your PC asks you for it upon failing to recognize your fingerprint. And subsequently, remove the fingerprint login and try registering your fingerprint again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Remove the Windows Hello Fingerprint Login in Windows 11
 
@@ -117,6 +113,10 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
 ![removing Windows Hello fingerprint login on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/removing-windows-hello-fingerprint-login.jpg)
 
  Irrespective of how many fingerprints you've set, this will delete all of them for you and remove the Windows Hello fingerprint login from your computer. After you do this, you can still sign in to your PC using the PIN you generated earlier.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Sign Into Your Windows 11 PC Quickly and Securely
 
@@ -139,16 +139,18 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-deconstructing-sharex-and-its-challengers/"><u>[New] Deconstructing ShareX and Its Challengers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-under-100-investments-in-action-cameras-top-selections/"><u>[New] Under $100 Investments in Action Cameras – Top Selections</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/galactic-information-preservation-index/"><u>Galactic Information Preservation Index</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-14-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 14 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mov-to-mkv-transformation-hassle-free-online-and-at-zero-cost/"><u>MOV to MKV Transformation - Hassle-Free, Online and at Zero Cost!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-icmp-protocol-mastering-website-pings-for-optimal-performance/"><u>Navigating ICMP Protocol: Mastering Website Pings for Optimal Performance</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-resolve-synapse-device-errors-in-windows/"><u>Steps to Resolve Synapse Device Errors in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-windows-repairs-setting-up-shortcuts-for-troubleshooters/"><u>Streamlining Windows Repairs: Setting Up Shortcuts for Troubleshooters</u></a></li>
-<li><a href="https://windows11.techidaily.com/sustaining-windows-11-taskbar-performance/"><u>Sustaining Windows 11 Taskbar Performance</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-purposes-of-vcplusplus-redistributions/"><u>Understanding Purposes of VC++ Redistributions</u></a></li>
-<li><a href="https://windows11.techidaily.com/winning-ways-to-weed-out-windows-11s-waits-and-delays/"><u>Winning Ways to Weed Out Windows 11'S Waits and Delays</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-blending-images-for-a-captivating-visual-journey/"><u>[New] In 2024, Blending Images for a Captivating Visual Journey</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-zippy-zoomers-prime-fastest-titles-for-touch-screens-and-tabs-for-2024/"><u>[Updated] Zippy Zoomers Prime Fastest Titles for Touch Screens & Tabs for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/breath-of-fresh-air-for-windows-13-revival-techniques/"><u>Breath of Fresh Air for Windows: 13 Revival Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-performance-gauges-for-pcs/"><u>Efficient Performance Gauges for PCs</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-iphone-12-mini-drfone-by-drfone-ios/"><u>How To Unlock A Found iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-free-video-blurring-a-step-by-step-guide-for-2024/"><u>New Free Video Blurring A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-the-obstacle-of-error-code-0x0000004e/"><u>Overcoming the Obstacle of Error Code 0X0000004E</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/stunning-audi-q3-sportback-backdrops-and-hd-screenshots-for-your-pc-curated-by-yl-computings-image-experts/"><u>Stunning Audi Q3 Sportback Backdrops & HD Screenshots for Your PC, Curated by YL Computing's Image Experts</u></a></li>
+<li><a href="https://windows11.techidaily.com/uncomplicated-superiority-persistent-high-privilege-terminal/"><u>Uncomplicated Superiority: Persistent High-Privilege Terminal</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-apples-new-vintage-mode-is-your-device-outdated-find-out-the-implications/"><u>Understanding Apple's New 'Vintage Mode': Is Your Device Outdated? Find Out the Implications</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleashing-creativity-in-calendar-design-a-windows-outlook-method/"><u>Unleashing Creativity in Calendar Design - A Windows Outlook Method</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-cost-effective-windows-11-keys/"><u>Unveiling Cost-Effective Windows 11 Keys</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-unleash-your-creativity-best-vignette-apps-for-ios-and-android-users/"><u>Updated In 2024, Unleash Your Creativity Best Vignette Apps for iOS and Android Users</u></a></li>
 </ul></div>
 

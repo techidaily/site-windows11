@@ -1,7 +1,7 @@
 ---
 title: Simplify Storage Management in Windows 10 & 11 via Context Menu Tool
-date: 2025-01-08T18:06:19.967Z
-updated: 2025-01-10T16:43:00.402Z
+date: 2025-01-10T19:54:32.567Z
+updated: 2025-01-16T09:02:31.028Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Add a Visual Disk Space Analyzer Tool to Explorer’s Context Menu With RidNacs
 
  RidNacs is a freeware disk analyzer app with which you can scan whole drives, folders, or removable storage devices (USB sticks). This tool displays storage usage reports with percentage bars that give users a clear picture of what’s hogging the most space. You can add the RidNacs analyzer tool to Explorer’s context menu like this:
@@ -42,11 +38,12 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
 7. Keep clicking**Next** to reach additional task settings. There make sure the**Add RidNacs to Windows Explorer Context Menu** checkbox is selected.  
 ![The RidNacs window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/ridnac-setup-window.jpg)
 8. Select**Next** again, and then press the**Install** button to proceed with the installation.  
-![The Install button for RidNacs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/setup-ridnac.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![The Install button for RidNacs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/setup-ridnac.jpg)
 
  Now you start analyzing folder storage space usage on your PC with RidNacs. Open the Explorer file manager window, and right-click a folder to select**Show more options** . Click the**Analyze Disk Space Usage with RidNacs** option on the classic context menu to start the scan.
 
@@ -55,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
 ![The RidNacs window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/ridnacs-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can select other directories or a whole drive to scan within the RidNacs window. To do so, click**File** and the**Choose Directory** option. Then choose another folder or an entire drive to scan and click**OK** .
@@ -63,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
  RidNacs doesn’t have lots of customization settings. However, you can change the percentage bar style. To do so, click the**Preferences** button. Then select a different color option on the Percentage bar style. Select**Apply** \>**OK** to save the new bar style setting.
 
 ![The Preferences window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/preferences-window.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Add a Visual Disk Space Analyzer Tool to Explorer’s Context Menu With Disk Savvy
 
@@ -95,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
 ![A Disk Space Usage Per File Extension graph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disk-space-usage-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Disk Savvy also has a feature that displays all the top (biggest) files within an analyzed folder. To utilize that feature, click the**Top Files** button. Then select an option like**View Top Images Sorted By File Size** or**View Top Music Files Sorted By the File Size** to see what the biggest ones are.
@@ -104,9 +97,17 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
 
 ![Add Input Directory option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-input-directory.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can save and export disk usage reports to various file formats. To do so, click the**Save** option. Select a file extension option on the**Report format** drop-down menu; click the**Report type** drop-down menu to choose an option there, and press the**Save** button. You can view the report by opening it from the default Documents folder save location.
 
 ![Disk space analyzis report options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disk-report-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get a Visual Overview of Folder and File Disk Usage in Windows
 
@@ -127,19 +128,18 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-10-online-photo-editing-tools-to-unblur-photos-for-2024/"><u>[New] 10 Online Photo Editing Tools to Unblur Photos for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-mastering-minecraft-the-best-practices-to-record-gameplay-for-2024/"><u>[Updated] Mastering Minecraft The Best Practices to Record Gameplay for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-pursuing-prolonged-iphone-night-sky-captures/"><u>[Updated] Pursuing Prolonged iPhone Night Sky Captures</u></a></li>
-<li><a href="https://windows11.techidaily.com/effective-techniques-for-deleting-hyperlinks-within-microsoft-excel-worksheets/"><u>Effective Techniques for Deleting Hyperlinks Within Microsoft Excel Worksheets</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effortlessly-snip-your-screen-two-ultimate-techniques-for-taking-screenshots-on-an-hp-laptop-or-desktop/"><u>Effortlessly Snip Your Screen: Two Ultimate Techniques for Taking Screenshots on an HP Laptop or Desktop</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhanced-microsoft-excel-python-interpreter-latest-upgrade-improvements/"><u>Enhanced Microsoft Excel Python Interpreter: Latest Upgrade Improvements</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhancing-clarity-in-ms-excel-visualizations-how-to-title-your-x-and-y-axes-effectively/"><u>Enhancing Clarity in MS Excel Visualizations - How to Title Your X & Y Axes Effectively</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-tips-for-effective-searches-with-vlookup-functionality-in-microsoft-excel-sheets/"><u>Expert Tips for Effective Searches with VLOOKUP Functionality in Microsoft Excel Sheets</u></a></li>
-<li><a href="https://windows11.techidaily.com/exploring-the-capabilities-of-function-keys-in-microsoft-excel-a-comprehensive-guide/"><u>Exploring the Capabilities of Function Keys in Microsoft Excel: A Comprehensive Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/exploring-the-versatility-of-hyperlink-in-excel-6-essential-applications/"><u>Exploring the Versatility of Hyperlink in Excel: 6 Essential Applications</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/section-2a-understanding-interneurons/"><u>Section 2A: Understanding Interneurons</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-next-gen-virtual-reality-experience-psvr-amidst-news-on-release-price-points-and-technical-specifications/"><u>The Next-Gen Virtual Reality Experience: PSVR Amidst News on Release, Price Points, and Technical Specifications</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-13-pro-max-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://win-guides.techidaily.com/understanding-http-404-errors-dealing-with-page-not-found-messages-online/"><u>Understanding HTTP 404 Errors: Dealing with 'Page Not Found' Messages Online</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-heart-of-filmora-10-engaging-editing-capabilities/"><u>[Updated] The Heart of Filmora 10 Engaging Editing Capabilities</u></a></li>
+<li><a href="https://fox-that.techidaily.com/capturing-moments-made-easy-solving-common-camera-hiccups-for-iphone-users/"><u>Capturing Moments Made Easy: Solving Common Camera Hiccups for iPhone Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/dealing-with-misentered-characters-in-windows-os/"><u>Dealing with Misentered Characters in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-reliability-of-your-windows-interface/"><u>Enhancing Reliability of Your Windows Interface</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-advice-on-computers-from-toms-gear-experts/"><u>Expert Advice on Computers From Tom's Gear Experts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/free-picture-perfection-the-finest-10-sites-reviewed-for-2024/"><u>Free Picture Perfection The Finest 10 Sites Reviewed for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/most-effective-kids-safe-router-models-reviewed/"><u>Most Effective Kids-Safe Router Models Reviewed</u></a></li>
+<li><a href="https://windows11.techidaily.com/prtscn-and-snipping-tool-link-in-windows-11-prevent-connection/"><u>PrtScn & Snipping Tool Link in Windows 11: Prevent Connection</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-error-code-327-in-star-wars-battlefront-ii-a-comprehensive-fix-guide/"><u>Solving Error Code 327 in Star Wars Battlefront II: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-print-guide-to-making-your-powerpoint-shine-on-a-windows-system/"><u>The Ultimate Print Guide to Making Your PowerPoint Shine on a Windows System</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tp-links-av130-query/"><u>TP-Link's AV130 # Query</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-on-apple-iphone-14-pro-max-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server On Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-battlenet-accessibility-on-1011-systems/"><u>Unlocking Battle.net Accessibility on 10/11 Systems</u></a></li>
 </ul></div>
 

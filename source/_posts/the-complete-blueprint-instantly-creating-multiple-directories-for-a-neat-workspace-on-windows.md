@@ -1,7 +1,7 @@
 ---
 title: "The Complete Blueprint: Instantly Creating Multiple Directories for a Neat Workspace on Windows"
-date: 2025-01-03T21:19:58.007Z
-updated: 2025-01-10T22:01:39.829Z
+date: 2025-01-12T17:36:18.807Z
+updated: 2025-01-16T03:48:38.984Z
 tags:
   - windows10
   - windows11
@@ -56,15 +56,11 @@ thumbnail: https://thmb.techidaily.com/7e377b50c4e513bd18b3a4caf17d4fa401f54e28d
 ![Windows Terminal (Admin)](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/windows-terminal.jpg)
 2. Select Yes in the UAC prompt.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![UAC prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-terminal-uac.jpg)
 3. Now, execute the command mentioned below and change the \[Location\] with your targeted location for creating the folders.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `cd [Location]`
@@ -73,16 +69,16 @@ thumbnail: https://thmb.techidaily.com/7e377b50c4e513bd18b3a4caf17d4fa401f54e28d
 ![Execute location command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-terminal-cd-d-location.jpg)
 5. Once done, execute the following command. Replace the \[foldername\] with the names you want to give the folders.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `md "[foldername]", "[foldername]", "[foldername]", "[foldername]"`
 6. For instance, if we want to create folders for the first 4 months of the year. We will execute the command as:  
 `md "january", "february", "march", "april"`  
 ![File names command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-terminal-md-files.jpg)
 
  Finally, close the Powershell window and check if the folders have been created.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Use the Notepad to Create Multiple Folders at Once
 
@@ -104,11 +100,15 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 5. Give your file a name followed by **.bat**. For instance, we named our file as makeuseof.bat.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Notepad file name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/notepad-file-name.jpg)
 6. Expand the dropdown for Save as type and choose **All files**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. Click **OK** and close the Notepad.
 8. Now, navigate to the location of the folder and open the bat file. Opening it should create the folders and their subfolders for you.
@@ -116,7 +116,7 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
  Now that you have created multiple files and folders, [organizing these files on Windows](https://www.makeuseof.com/tag/automatically-organize-files-windows/) is also worth considering if you do not want to spend a lot of time looking for information in them. Additionally, Windows also allows you to [rename multiple folders at once](https://www.makeuseof.com/cool-folder-tips-windows/), which can be helpful when organizing them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Use a Third-Party Application
@@ -140,7 +140,7 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 4. Once the Folder Frenzy dialog launches, type the names of the folders you want to create and click on the **Create Folder** button. These folders will be created in the Folder Frenzy file.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Create folder in Folder Frenzy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/folder-frenzy-create-folder.jpg)
@@ -165,18 +165,18 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-fixing-face-id-on-iphone-x-a-compreenasome-guide-for-2024/"><u>[New] Fixing Face ID on iPhone X A Compreenasome Guide for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-from-standard-to-spectacular-your-guide-to-selecting-a-stellar-4k-display/"><u>[New] From Standard to Spectacular Your Guide to Selecting a Stellar 4K Display</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-essential-scripts-for-advanced-affects-workflows/"><u>[Updated] Essential Scripts for Advanced Affects Workflows</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-pros-guide-to-srt-alterations-on-a-macbook/"><u>[Updated] The Pro's Guide to SRT Alterations on a MacBook</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-insights-how-to-communicate-effectively-with-viewers/"><u>2024 Approved Unlocking Insights How to Communicate Effectively with Viewers</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/4-ways-to-mirror-apple-iphone-12-pro-max-to-laptop-via-usb-or-wi-fi-drfone-by-drfone-ios/"><u>4 Ways to Mirror Apple iPhone 12 Pro Max to Laptop via USB or Wi-Fi | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-impact-of-watchos-10-updates-on-locating-iphones-via-apple-watch-a-critical-review-zdnet/"><u>Exploring the Impact of WatchOS 10 Updates on Locating iPhones via Apple Watch: A Critical Review | ZDNet</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/get-more-for-less-in-tv-streaming-a-comprehensive-review-of-rokus-library-offerings/"><u>Get More for Less in TV Streaming: A Comprehensive Review of Roku's Library Offerings</u></a></li>
-<li><a href="https://win-updates.techidaily.com/jeden-tag-gesicherte-backups-automatisches-auslagern-auf-einen-usb-datenspeicher/"><u>Jeden Tag Gesicherte Backups: Automatisches Auslagern Auf Einen USB-Datenspeicher</u></a></li>
-<li><a href="https://windows11.techidaily.com/quickfire-processes-identifying-graphic-card-model-windows-11/"><u>Quickfire Processes: Identifying Graphic Card Model, Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/simplified-integration-how-to-set-up-linux-in-your-win10-box/"><u>Simplified Integration: How to Set Up Linux in Your Win10 Box</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-secret-behind-timeless-game-aesthetics-retroarcs-shaders/"><u>The Secret Behind Timeless Game Aesthetics - RetroArc's Shaders</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlock-the-full-potential-of-windows-11-search-here/"><u>Unlock the Full Potential of Windows 11 Search Here</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-framefixer-editor/"><u>[New] 2024 Approved FrameFixer Editor</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-seamless-techniques-easy-steps-to-preserve-your-google-gatherings/"><u>[New] Seamless Techniques Easy Steps to Preserve Your Google Gatherings</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bump-up-your-speed-overcoming-f1-202n-gaming-lags-on-pc/"><u>Bump Up Your Speed - Overcoming F1 202N Gaming Lags on PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/choosing-the-best-chatgpt-option-direct-browser-interaction-vs-enhanced-with-plugins/"><u>Choosing the Best ChatGPT Option: Direct Browser Interaction Vs. Enhanced with Plugins</u></a></li>
+<li><a href="https://windows11.techidaily.com/demystifying-9-compelling-arguments-for-pc-dominance-over-macs/"><u>Demystifying: 9 Compelling Arguments for PC Dominance over Macs</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-guide-to-fixing-0x80071a90-windows-error/"><u>Essential Guide to Fixing 0X80071A90 Windows Error</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-samsung-galaxy-a23-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Samsung Galaxy A23 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a34-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A34 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimal-pc-performance-tests/"><u>Optimal PC Performance Tests</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-missing-printmanagement-component-on-your-pc/"><u>Tackling Missing 'PrintManagement' Component on Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-app-non-installation-microsoft-tips/"><u>Troubleshooting App Non-Installation: Microsoft Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-diminished-window-11-icon-size/"><u>Understanding Diminished Window 11 Icon Size</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mp4m4a/"><u>영구제 MP4/M4A 형식을 바꾸기: 이웃 사이트를 통해 무료 전원</u></a></li>
 </ul></div>
 

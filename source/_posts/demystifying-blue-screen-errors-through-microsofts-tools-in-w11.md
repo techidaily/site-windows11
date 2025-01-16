@@ -1,7 +1,7 @@
 ---
 title: Demystifying Blue Screen Errors Through Microsoft's Tools in W11
-date: 2024-08-08T06:01:45.056Z
-updated: 2024-08-09T06:01:45.056Z
+date: 2025-01-12T13:05:32.814Z
+updated: 2025-01-16T08:05:26.030Z
 tags:
   - windows10
   - windows11
@@ -21,18 +21,15 @@ thumbnail: https://thmb.techidaily.com/3bbc4ff17b35bac37e3335e5a66057aab2f13c2b0
  But do you know you can look up error codes in Windows 11? Microsoft offers an error lookup tool using which you can check for any error that pops up on your Windows PC. Without further ado, let's explore this wonderful tool and learn how to check error codes with it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is the Microsoft Error Lookup Tool?
 
  Microsoft Error Lookup tool does exactly what it sounds like. You can look up system error codes using this tool to get an idea of what the error code is really about. However, this is a command-line tool, so you need to use Command Prompt to run it. Microsoft is yet to release a GUI version of this tool, which could make searching for error codes for non-tech-savvy users convenient.
 
  Using a simple command, you can search and learn more about the nature of the error code. Microsoft Error Lookup tool is only available for Windows OS versions 8.1 and above. So, if you are still using Windows 7, searching the web remains your only option.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## How to Download and Run Microsoft Error Lookup Tool
 
  Microsoft Error Lookup is a lightweight command-line tool. You don’t need a copious amount of system resources to run it on your system. Here’s how to download and set up the tool on your system:
@@ -48,6 +45,10 @@ DbSchema database designer for all databases, schema design in the team, schema 
 5. Right-click on the Microsoft Error Lookup tool executable file and select**Show more options** .  
 ![Renaming Microsoft Error Lookup Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/renaming-microsoft-error-lookup-tool.jpg)
 6. Then, click on the**Rename** option from the context menu. Type**Err** and press the enter key to rename the tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Placing the Tool in a Convenient Location
 
@@ -70,13 +71,14 @@ Here’s how to do it:
 
 1. In the same Command Prompt window, you must type**\[Tool name\] \[error code\]** and press the enter key.
 2. Suppose you want to look up the error code 0x80070490 using the tool. So, the correct command will be:**Err 0x80070490** .  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Checking an Error Code in Microsoft Error Lookup Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/checking-an-error-code-in-microsoft-error-lookup-tool.jpg)
 3. Press the enter key and the tool will display all the matching information it has about the error code. It will include the exact error string and a sentence describing the meaning. Often, it will also try to make suggestions to fix the error.
 
  An error code can have multiple meanings and the error lookup tool will list all of them. You can use this information to narrow down your search and try to fix the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Export the Output of Microsoft Error Code Tool
 
@@ -88,22 +90,16 @@ Repeat the following steps:
 2. Now, type the following command to navigate to the error lookup tool location:**cd C:\\**
 3. The syntax for copying the error code lookup results is:**Err \[Error code\] > \[Path of text file\]** .
 4. So, your final command will become:**Err 0x80070490 > D:\\error.txt** .  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Exporting Error Code Lookup results in Microsoft Error Lookup Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/exporting-error-code-lookup-results-in-microsoft-error-lookup-tool.jpg)
 5. It will export the results to the text file named error on D drive. If the file doesn’t exist, the tool will create it with the same name. However, it won’t display any search result in the Command Prompt and just display the number of matches found.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![Exporting Error Code Lookup results in a text file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/exporting-error-code-lookup-results-in-a-text-file.jpg)
 
  Now, open the file, and you can read the entire list of error code results and begin troubleshooting.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Can the Microsoft Error Lookup Tool Display Information About All Error Codes?
 
  Microsoft updates the tool to the latest version in 2019\. Since then, it hasn’t received an update. So, as newer builds or a [new version of Windows](https://www.makeuseof.com/windows-12-improve-upon-windows-11/) comes out, the tool may fail to produce results for a specific error code. But the chances of that are very slim. Moreover, it contains information only about Windows and some other Microsoft error codes. Don’t expect it to display information about errors you face inside a third-party application or program.
@@ -111,20 +107,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  So, you can use the error lookup tool without any worries and patiently wait for Microsoft to release a new build. You can check for the latest available build by visiting the official download page of the Microsoft Error Lookup Tool. Or, you can try a bunch of third-party options like Winerr or Error Lookup Tool for a more presentable error code lookup and troubleshooting experience.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Lookup Error Details With Ease
 
  Microsoft Error Lookup Tool is a free tool that you can easily run on your system. Surely, you won’t get a very descriptive troubleshooting guide with it. But you will still be able to find the issue and error string related to it, and even a suggestion, if the tool has one.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -133,6 +127,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-visual-impact-blueprint-for-success-in-instagram-video-campaigns/"><u>[New] 2024 Approved Visual Impact Blueprint for Success in Instagram Video Campaigns</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-video-platforms-at-a-glance-comparing-vimeo-and-youtube/"><u>[Updated] Video Platforms at a Glance Comparing Vimeo & YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-novice-to-pro-the-funimate-guide/"><u>2024 Approved From Novice to Pro - The Funimate Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-overcome-ms-store-setbacks-in-win-11-edition/"><u>How to Overcome MS Store Setbacks in Win 11 Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-wipeout-wsl-entirely-from-windows-11-system/"><u>How To Wipeout WSL Entirely From Windows 11 System</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-se-2022-to-ipad-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone SE (2022) to iPad? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-vivo-s17-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Vivo S17 Phone Network-Ready</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/modern-elegance-meets-ergonomics-an-insightful-review-of-the-flexispot-theodore-standing-desk/"><u>Modern Elegance Meets Ergonomics: An Insightful Review of the Flexispot Theodore Standing Desk</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-basics-of-windows-pe-format/"><u>Navigating the Basics of Windows PE Format</u></a></li>
+<li><a href="https://windows11.techidaily.com/network-assurance-on-pc-ensuring-reliable-win-net-access/"><u>Network Assurance on PC: Ensuring Reliable Win Net Access</u></a></li>
+<li><a href="https://review-topics.techidaily.com/nokia-bypass-tools-to-bypass-lock-screennokia-by-drfone-android-unlock-android-unlock/"><u>Nokia Bypass Tools to Bypass Lock Screen(Nokia)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/optimize-media-consumption-with-picture-in-progress-screen-chrome-for-2024/"><u>Optimize Media Consumption with Picture In Progress Screen Chrome for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-pcs-pink-screens-a-step-by-step-guide/"><u>Overcoming PC's Pink Screens: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solutions-resolve-the-shell32dll-missing-error/"><u>Solutions: Resolve the 'Shell32.dll Missing' Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-game-plan-for-first-time-diablo-gamers/"><u>The Ultimate Game Plan for First-Time Diablo Gamers</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-transforms-mastering-the-art-of-amd-card-driver-updates/"><u>Windows 11 Transforms: Mastering the Art of AMD Card Driver Updates</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-grit-in-valorant-tackling-lags-head-on/"><u>Winning Grit in Valorant: Tackling Lags Head-On</u></a></li>
+</ul></div>
 

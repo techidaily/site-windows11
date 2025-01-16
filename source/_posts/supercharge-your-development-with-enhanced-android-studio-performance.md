@@ -1,7 +1,7 @@
 ---
 title: Supercharge Your Development with Enhanced Android Studio Performance
-date: 2025-01-04T19:55:07.886Z
-updated: 2025-01-10T21:32:43.847Z
+date: 2025-01-11T10:26:05.535Z
+updated: 2025-01-16T00:20:34.506Z
 tags:
   - windows10
   - windows11
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Increase Memory Allocation for Android Studio
 
  Memory allocation means assigning a specific amount of memory, or RAM, to Android Studio in order to improve its efficiency. By default, Android Studio is allowed to use up to 1.28GB of RAM, but if your computer has more RAM available, you can increase this amount.
@@ -42,16 +46,12 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 4. Click**Apply** and then**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Restart Android Studio for the changes to take effect.
 
  The amount of RAM to allocate is a personal decision that depends on your computer's specifications. If you're unsure how much RAM your computer has, check[how to determine hardware specifications](https://www.makeuseof.com/how-to-check-pc-specs/) for help.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Update Android Studio
 
@@ -69,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
  Gradle is a powerful build system for Android Studio that automates tasks such as building, testing, and deploying your Android app. Your build processes will be faster, smoother, and more reliable if you use the latest version of Gradle.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Install Android Studio on an SSD
 
  SSDs are ideal for use with Android Studio because they provide faster read and write speeds, allowing for faster access to stored data. We have already explained the[benefits of using an SSD](https://www.makeuseof.com/what-is-ssd-storage/) in detail.
@@ -79,11 +83,11 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
 ![Android Studio Installer Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/android-studio-installer.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Installing Android Studio on an SSD will provide a noticeable boost in performance, making it easier and faster to develop your apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Disable Unnecessary Plugins in Android Studio
 
@@ -96,8 +100,16 @@ Here's how to disable unnecessary plugins in Android Studio:
 ![Plugin Menu In Android Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/android-studio-plugin-menu.jpg)
 3. Uncheck the boxes next to the plugins you wish to disable and click**Disable** and then**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Installed Plugins List In Android Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/android-studio-installed-plugins-list.jpg)
 4. Click**File > Restart IDE** for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After you complete these steps, the plugins you disabled will no longer work and will not appear in the menus or be accessible within Android Studio.
 
@@ -128,10 +140,6 @@ Follow the below steps to configure Lint in Android Studio:
 
  If you want to go further, check out[ways to boost Windows' performance](https://www.makeuseof.com/tag/windows-10-faster-performance/) for more tricks.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Add Android Studio to the Graphics Performance Preference
 
  Graphics Performance Preferences is a Windows feature that allows you to choose which software you want to give permission to use a high-performance GPU or GPU to save power and improve performance.
@@ -144,15 +152,7 @@ Follow the below steps to configure Lint in Android Studio:
 ![Android Studio Files Overview In File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/android-studio-files-overview.jpg)
 4. Select**Android Studio > Options > High Performance** , and then click**Save** to add it to the Graphics Performance Preference list.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Android Studio Graphics Settings On Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/android-studio-graphics-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Additionally, you can also enable**Hardware-accelerated GPU scheduling** in order to improve the performance of Android Studio.
 
@@ -179,22 +179,20 @@ Follow the below steps to configure Lint in Android Studio:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-music-lovers-club-listen-save-analyze-tunes-for-2024/"><u>[New] Music Lovers Club Listen, Save, Analyze Tunes for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-asus-rog-phone-8-pro-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Asus ROG Phone 8 Pro FRP</u></a></li>
-<li><a href="https://discover-great.techidaily.com/how-to-fix-windows-start-menu-glitches-insights-from-yl-software-professionals/"><u>How to Fix Windows Start Menu Glitches: Insights From YL Software Professionals</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-revert-the-search-bar-lookup-of-windows-11/"><u>How to Revert the Search Bar Lookup of Windows 11</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, Will iSpoofer update On Apple iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/insider-tips-selecting-the-best-ig-video-editors-for-success/"><u>Insider Tips Selecting the Best IG Video Editors for Success</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/orchestrate-instagram-reel-magic-with-music-and-voiceovers-for-2024/"><u>Orchestrate Instagram Reel Magic with Music & Voiceovers for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-bandwidth-issues-for-steam-broadcasting/"><u>Overcoming Bandwidth Issues for Steam Broadcasting</u></a></li>
-<li><a href="https://windows11.techidaily.com/personalize-learning-mode-in-win-11/"><u>Personalize Learning Mode in Win 11</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/precision-and-poise-an-examination-of-the-twelve-south-compass-pros-stable-construction/"><u>Precision and Poise: An Examination of the Twelve South Compass Pro’s Stable Construction</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/smartphone-evolution-at-4k-peaks-sony-xperia-xz-reviewed/"><u>Smartphone Evolution at 4K Peaks – Sony Xperia XZ Reviewed</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamline-your-search-master-these-top-5-tricks-for-windows-11/"><u>Streamline Your Search: Master These Top 5 Tricks for Windows 11</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-future-of-at-home-entertainment-introducing-klipschs-flexus-200-soundbar/"><u>The Future of At-Home Entertainment: Introducing Klipsch's Flexus 200 Soundbar</u></a></li>
-<li><a href="https://windows11.techidaily.com/unleash-virtual-capabilities-with-win-11-hypertuned-for-hyper-v/"><u>Unleash Virtual Capabilities with Win 11 Hypertuned for Hyper-V</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-windows-charmap-issues-a-practical-guide/"><u>Unlocking Windows CharMap Issues: A Practical Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/which-browser-saves-system-resources-winmaccros-edition/"><u>Which Browser Saves System Resources? Win/Mac/CrOS Edition</u></a></li>
-<li><a href="https://windows11.techidaily.com/win-against-interfaces-not-supported-by-windows/"><u>Win Against Interfaces Not Supported by Windows</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/0-top-rated-digital-video-cutting-tools/"><u>[New] 10 Top-Rated Digital Video Cutting Tools</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-record-yourself-on-webcam-via-vlc-media-for-2024/"><u>[New] Record Yourself on Webcam via VLC Media for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-comprehensive-guide-to-youtubes-subscription-advantages-for-2024/"><u>[Updated] Comprehensive Guide to YouTube's Subscription Advantages for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-color-adobes-best-lut-recommendations-for-lightroom-users/"><u>[Updated] Mastering Color Adobe's Best LUT Recommendations for LightRoom Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamstart-beginner-friendly-podcast-live-broadcast-guide/"><u>[Updated] StreamStart Beginner-Friendly Podcast Live Broadcast Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-print-service-stopped-issue-on-windows-pc/"><u>Addressing Print Service Stopped Issue on Windows PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/boot-up-solutions-navigating-4-pct-routes/"><u>Boot-Up Solutions: Navigating 4 PCT Routes</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-reinstalling-favorite-apps-on-new-windows-11-devices/"><u>Guide to Reinstalling Favorite Apps on New Windows 11 Devices</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-itel-p40plus-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Itel P40+ Through Google Earth?</u></a></li>
+<li><a href="https://windows11.techidaily.com/inspect-font-characters-windows-11-route/"><u>Inspect Font Characters: Windows 11 Route</u></a></li>
+<li><a href="https://windows11.techidaily.com/integrating-your-android-into-windows-11-webstreaming/"><u>Integrating Your Android Into Windows 11 Webstreaming</u></a></li>
+<li><a href="https://howto.techidaily.com/my-videos-arent-playing-on-infinix-gt-10-pro-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Infinix GT 10 Pro – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-past-share-permission-hurdles-in-win-os/"><u>Navigate Past Share Permission Hurdles in Win OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/revealing-windows-11s-disguised-taskbar-investigation-tool/"><u>Revealing Windows 11'S Disguised Taskbar Investigation Tool</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-best-free-tools-to-save-facebook-content-as-videos-on-your-smartphone-or-tablet/"><u>Ultimate Guide: Best Free Tools to Save Facebook Content as Videos on Your Smartphone or Tablet</u></a></li>
 </ul></div>
 

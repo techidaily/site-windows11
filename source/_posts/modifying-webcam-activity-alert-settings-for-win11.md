@@ -1,7 +1,7 @@
 ---
 title: Modifying Webcam Activity Alert Settings for Win11
-date: 2025-01-03T20:43:49.214Z
-updated: 2025-01-10T23:17:33.682Z
+date: 2025-01-09T02:53:16.474Z
+updated: 2025-01-16T02:16:13.993Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Turn On Camera On and Off Notifications
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 ![Enable camera notifications in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/notify-camera-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the**NoPhysicalCameraLED** value is missing, you can create it. Right-click on the empty space in the right pane, and click**New > Dword(32-bit) value** . Set its name and**Value data** to**1** . Then, save the new changes and restart your computer for the changes to take place.
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
  Once your computer boots up access the camera and test if Windows is showing the camera notification.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Check Camera History
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
  Also, it might be worth it to take a look at your Privacy settings and[check which apps can access your camera](https://www.makeuseof.com/how-to-change-app-permissions-in-windows-10/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Know When Your Camera Starts on Windows
@@ -87,15 +87,14 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/-compreranstive-approach-to-high-fidelity-recording-no-mic-necessary-for-2024/"><u>[New] A Compreranstive Approach to High-Fidelity Recording, No Mic Necessary for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-become-a-freelance-transcriber-tips-and-tricks-for-youtube-content-for-2024/"><u>[Updated] Become a Freelance Transcriber Tips and Tricks for YouTube Content for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/convertissez-gratuitement-des-fichiers-nef-en-images-jpeg-sur-internet-avec-movavi/"><u>Convertissez Gratuitement Des Fichiers NÉF en Images JPEG Sur Internet - Avec MOVAVI</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/download-free-christmas-carol-versions-festive-holiday-music-collection/"><u>Download Free Christmas Carol Versions: Festive Holiday Music Collection</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-logitech-g-pro-controller-on-pc-download-compatible-with-windows-11-10-8-and-7/"><u>Get Your Logitech G PRO Controller on PC - Download Compatible with Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://windows11.techidaily.com/missing-astra-pilot-in-windows-11-heres-what-you-need/"><u>Missing Astra Pilot in Windows 11? Here's What You Need</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/the-definitive-guide-to-valheim-agriculture-for-2024/"><u>The Definitive Guide to Valheim Agriculture for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/trimming-down-onedrive-icon-from-the-file-explorer-palette/"><u>Trimming Down OneDrive Icon From the File Explorer Palette</u></a></li>
-<li><a href="https://windows11.techidaily.com/unleashing-the-potential-for-in-depth-storage-analysis-with-diskusage-on-windows/"><u>Unleashing the Potential for In-Depth Storage Analysis with DiskUsage on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-winning-strategies-in-old-chessboard-manager/"><u>Unlocking Winning Strategies in Old Chessboard Manager</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-sync-up-songs-and-screenshots-on-snapchat/"><u>[New] Sync-Up Songs and Screenshots on Snapchat</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/easter-eggstravaganza-wondershare-filmora-promo-code-inside/"><u>Easter Eggstravaganza Wondershare Filmora Promo Code Inside</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-windows-11-ease-of-use-with-improved-run-feature/"><u>Enhancing Windows 11 Ease of Use with Improved Run Feature</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-instantly-generate-multiple-directories-in-modern-windows-environments/"><u>How to Instantly Generate Multiple Directories in Modern Windows Environments</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-on-iphone-15-plus-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud on iPhone 15 Plus Safe and Legal</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-win11-avoid-and-fix-0x0-error-instantly/"><u>Mastering Win11: Avoid and Fix 0X0 Error Instantly</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolve-cannot-open-error-on-closed-folders-in-microsoft-mail-for-pc/"><u>Resolve Cannot Open Error on Closed Folders in Microsoft Mail for PC</u></a></li>
+<li><a href="https://techidaily.com/sign-word-2003-online-add-signature-to-word-2003-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign Word 2003 Online - Add Signature to Word 2003 for Free</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/transform-your-photos-with-instagrams-latest-filters-2023-techniques-for-2024/"><u>Transform Your Photos with Instagram's Latest Filters (2023 Techniques) for 2024</u></a></li>
 </ul></div>
 

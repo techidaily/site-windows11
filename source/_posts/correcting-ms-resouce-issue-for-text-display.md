@@ -1,7 +1,7 @@
 ---
 title: Correcting Ms-Resouce Issue for Text Display
-date: 2024-08-08T06:00:43.214Z
-updated: 2024-08-09T06:00:43.214Z
+date: 2025-01-12T00:36:47.608Z
+updated: 2025-01-16T11:30:14.353Z
 tags:
   - windows10
   - windows11
@@ -20,21 +20,17 @@ thumbnail: https://thmb.techidaily.com/290fdfbe7988bc73a9658535e5e89697be7bda898
 
  This entry in the Start Menu is a trace for a built-in app that has been removed in the successive upgrade. Depending on where you are seeing the error, follow the steps in the article below to resolve this error on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 1\. How to Fix the "ms-resource:Appname/Text" Error in the Start Menu
 
  You can remove the "ms-resource:Appname/Text" entry from the Start Menu by removing the affected application package using PowerShell. Additionally, you can kill the StartMenuExperienceHost.exe process in Task Manager to restart the service.
 
  Before attempting to remove the app, package, and restart the services, check if you have any Windows updates pending. If you are running a fresh install, try to install all the pending Windows updates. These updates often include bug fixes and may be the only thing you need to do to fix this issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![windows 11 update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To check and install Windows updates:
 
@@ -49,11 +45,13 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 1. Press the **Win** key and type **powershell**.
 2. Right-click on **Windows** **PowerShell** and select **Run as administrator**.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remove holographicsfirstrun app powershell windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/remove-holographicsfirstrun-app-powershell-windows.jpg)
 3. In the PowerShell window, type the following command and press **Enter**:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `Get-AppxPackage -all *HolographicFirstRun* | Remove-AppPackage -AllUsers`
 
  Once you've run the command, be sure to restart your computer.
@@ -63,12 +61,19 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 3. Now you need to locate both **StartMenuExperienceHost.exe** and **Explorer** **.exe**. On Windows 11, you can use the search feature in **Task Manager** to locate the processes.  
 ![end start menu experience host task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/end-start-menu-experience-host-task-manager.jpg)
 4. Right-click on each process and **End Task**.
-5. In Task Manager, click **Run new task**. On Windows 10 and older versions, click **File** and select **Run new task**.  
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. In Task Manager, click **Run new task**. On Windows 10 and older versions, click **File** and select **Run new task**.  
 ![run new task open tempstate folder file explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/run-new-task-open-tempstate-folder-file-explorer.jpg)
 6. In the **Create new task** dialog, type the following path and click the **Browse** button.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `%localappdata%\Packages\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy`
 7. In the File Explorer window, delete the **TempState** folder.
 8. Go back to Task Manager, and click **Run new task**.
@@ -88,9 +93,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  To determine the app name click on the app entry and check if you can find any information about the app. If not, right-click on the app entry in the **Start Menu** and select **Open File Location**.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![view application folder windows 11 run shell apps folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/view-application-folder-windows-11-run-shell-apps-folder.jpg)
 
  Alternatively, you can view the application directory to view the installed apps. Press **Win + R** to open Run, type **shell:appsfolder**, and click **OK**. It will open the **Applications** folder. Go through the apps to see if you can locate an app named **ms-resource:Appname/Text** or similar to the entry in the Start Menu.
@@ -101,12 +103,13 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  At times, you may encounter this error when opening a built-in Microsoft Store app. In this instance, you can run the Microsoft Store apps troubleshooter to fix the issue. Here are a few additional troubleshooting steps to fix this error when launching an app.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Run the Microsoft Store Apps Troubleshooter
 
 ![The Run button for the Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-run-button-for-the-app-troubleshooter.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can use the built-in Microsoft Store Apps troubleshooter to fix issues with the store apps. Here’s how to do it.
 
@@ -118,8 +121,9 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  If you don’t see a Windows Store App troubleshooter option, you are likely running a newer version of the OS without this option. In this instance, try to repair the Microsoft Store app.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Repair the Microsoft Store App
 
 ![repair microsoft store windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/repair-microsoft-store-windows-11.jpg)
@@ -141,9 +145,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  To reset the Microsoft Store App cache:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![wsreset.exe command in the Run tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/wsreset-exe-command.jpg)
 
 1. Press **Win + R** to open the **Run** dialog.
@@ -168,12 +169,24 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  This entry in the Start Menu is a trace for a built-in app that has been removed in the successive upgrade. Depending on where you are seeing the error, follow the steps in the article below to resolve this error on your computer.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-recovery.techidaily.com/descargar-gratuito-convierte-tus-archivos-wtv-directamente-a-formatos-de-mp4-con-movavi/"><u>Descargar Gratuito: Convierte Tus Archivos WTV Directamente a Formatos De MP4 Con Movavi</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-vivo-y100t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-social-media-connectivity-embedding-live-streams-from-twitch-to-fb/"><u>In 2024, Social Media Connectivity Embedding Live Streams From Twitch to FB</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-os-not-found-a-comprehensive-guide/"><u>Overcoming OS Not Found: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/sb210-by-soundbot-an-insightful-review-of-its-high-quality-audio-performance-in-cold-season/"><u>SB210 by Soundbot - An Insightful Review of Its High-Quality Audio Performance in Cold Season</u></a></li>
+<li><a href="https://windows11.techidaily.com/sidestep-windows-error-8-ways-to-overcome-sign-in-denial/"><u>Sidestep Windows Error: 8 Ways to Overcome Sign-In Denial</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-resolving-dxgi-error-in-devices/"><u>Strategies for Resolving DXGI Error in Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-definitive-guide-to-playing-counter-strike-2-on-your-macbook/"><u>The Definitive Guide to Playing Counter-Strike 2 on Your MacBook</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/ultimate-guide-to-setting-up-buffalo-cloud-storage-backups-detailed-instructions-walkthrough/"><u>Ultimate Guide to Setting Up Buffalo Cloud Storage Backups: Detailed Instructions Walkthrough</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-efficiency-ditch-the-excess-in-win11/"><u>Unleash Efficiency: Ditch the Excess in Win11</u></a></li>
+</ul></div>
 

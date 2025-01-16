@@ -1,7 +1,7 @@
 ---
 title: Streamline the Prime Viewing Experience on Windows 11 Devices
-date: 2025-01-06T18:51:28.496Z
-updated: 2025-01-10T20:14:52.720Z
+date: 2025-01-14T12:28:51.720Z
+updated: 2025-01-15T16:33:23.635Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Perform Some Basic Fixes
 
  While most of the content on Prime Video has subtitles, there are exceptions as well. It's possible that subtitles are unavailable for the movie or show you are streaming. To check for that possibility, play the title, click the**Subtitles and Audio** icon at the top, and check if subtitles are available.
@@ -36,20 +40,24 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
 ![Subtitles off option in Prime Video](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/subtitles-off-option.jpg)
 3. Wait for a few seconds. Then, turn on the subtitles of your preferred language.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Another quick way to fix Prime Video subtitles not working is to sign out and then back into your Prime Video account. To do that, click on your account name in the bottom left corner, and choose**Sign out** from the context menu.
 
 ![Sign Out option in Prime Video](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sign-out.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After that, click the Sign In button and enter your credentials to log in with your account. Once in, check if you're still facing the issue.
 
 ![Sign in option of Prime Video](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sign-in-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Eliminate Browser Issues
@@ -59,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
  Browser extensions usually help to increase productivity. But some extensions can do more harm than good. So,[disable all browser extensions](https://www.makeuseof.com/tag/how-to-clean-up-your-browser-extensions-the-easy-way/) from your browser and see if that fixes the subtitles not working in Prime Video.
 
  The problem can also occur due to an issue in the current version of your browser. In this case, you can[update your browser](https://www.makeuseof.com/how-to-update-chrome-firefox-edge-desktop-mobile/) to fix the issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Repair and Reset the Prime Video App
 
@@ -74,16 +78,12 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
 4. Click the**Repair** button.  
 ![Repair option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Wait till Windows repairs the app. You will see a checkmark next to the repair button when it's done.
 
  If repairing the app wasn't helpful, you can use the reset option, which will clear all its data. Doing this will be helpful if corrupt Prime Video files are causing the issue. To reset the Prime Video app, click the**Reset** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Reinstall the Prime Video App
@@ -113,18 +113,20 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-sifting-through-the-sands-of-youtube-conversations/"><u>[New] In 2024, Sifting Through the Sands of YouTube Conversations</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-ig-upgrade-starts-here-top-tools-for-follower-growth/"><u>[Updated] 2024 Approved IG Upgrade Starts Here Top Tools for Follower Growth</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-erasing-your-instagram-identity-step-by-step-guidebook/"><u>2024 Approved Erasing Your Instagram Identity Step-by-Step Guidebook</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/factors-contributing-to-the-wii-us-marked-achievement-in-gaming/"><u>Factors Contributing to the Wii U's Marked Achievement in Gaming</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-enabling-the-developer-tab-in-your-microsoft-office-suite/"><u>Guide: Enabling the Developer Tab in Your Microsoft Office Suite</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-how-to-alter-the-money-sign-for-specific-cells-using-excel/"><u>Guide: How To Alter The Money Sign For Specific Cells Using Excel</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-mastering-the-art-of-text-trimming-in-ms-excel/"><u>Guide: Mastering the Art of Text Trimming in MS Excel</u></a></li>
-<li><a href="https://windows11.techidaily.com/learning-excel-from-scratch-top-6-skills-you-need-to-get-started/"><u>Learning Excel From Scratch? Top 6 Skills You Need to Get Started!</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-birthday-math-a-step-by-step-guide-to-finding-age-with-excel/"><u>Mastering Birthday Math: A Step-by-Step Guide to Finding Age with Excel</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-canon-video-post-production-expert-advice-on-editing-and-enhancing-your-videos/"><u>New In 2024, Canon Video Post-Production Expert Advice on Editing and Enhancing Your Videos</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-finest-phones-and-pay-plans-tailored-for-seniors-2024-edition/"><u>The Finest Phones & Pay Plans Tailored for Seniors, 2024 Edition</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-best-keyboards-of-2er-24-in-depth-analysis-and-expert-opinions-reviewed/"><u>Ultimate Guide to the Best Keyboards of 2Er 24: In-Depth Analysis and Expert Opinions | Reviewed</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-superior-online-sound-devices-ranked-for-recording-2023/"><u>[New] Superior Online Sound Devices Ranked for Recording 2023</u></a></li>
+<li><a href="https://windows11.techidaily.com/accelerated-cross-language-compreinasion-via-windows-keyboard-tricks/"><u>Accelerated Cross-Language Compreinasion via Windows Keyboard Tricks</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-desktop-experience-fixing-this-pc-spotlight/"><u>Elevate Desktop Experience: Fixing 'This PC' Spotlight</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-pubg-save-problems-on-windows-systems/"><u>Eliminating PUBG Save Problems on Windows Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/engaging-with-gpt-3-for-authentic-verse-crafting/"><u>Engaging with GPT-3 for Authentic Verse Crafting</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/essential-guide-software-free-techniques-for-vimeo-downloads-for-2024/"><u>Essential Guide Software-Free Techniques for Vimeo Downloads for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-easy-steps-to-record-your-vlc-videos-effectively/"><u>In 2024, Easy Steps to Record Your VLC Videos Effectively</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-mastering-the-art-of-playstation-4-recording/"><u>In 2024, Mastering the Art of PlayStation 4 Recording</u></a></li>
+<li><a href="https://games-able.techidaily.com/labor-day-exclusive-offer-snag-your-free-xbox-game-pass-plus-save-an-unbelievable-33-on-amazon-fire-tv-sticks-act-fast/"><u>Labor Day Exclusive Offer: Snag Your FREE Xbox Game Pass + Save an Unbelievable 33% on Amazon Fire TV Sticks! Act Fast!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-hp-officejet-4500-printer-software-update-2024-free-downloads/"><u>Latest HP Officejet 4500 Printer Software Update 2024 - Free Downloads</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-files-6-methods-to-retrieve-windows-11-paths/"><u>Mastering Files: 6 Methods to Retrieve Windows 11 Paths</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-pen-pad-glitches/"><u>Overcoming Windows Pen-Pad Glitches</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-guide-how-to-update-your-windows-devices-battery-drivers/"><u>Quick Guide: How to Update Your Windows Device's Battery Drivers</u></a></li>
+<li><a href="https://windows11.techidaily.com/rectifying-screen-resolution-problems-in-windows-os/"><u>Rectifying Screen Resolution Problems in Windows OS</u></a></li>
 </ul></div>
 

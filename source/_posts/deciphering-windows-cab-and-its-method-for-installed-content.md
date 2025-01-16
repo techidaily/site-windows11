@@ -1,7 +1,7 @@
 ---
 title: Deciphering Windows CAB & Its Method for Installed Content
-date: 2024-08-08T06:01:56.895Z
-updated: 2024-08-09T06:01:56.895Z
+date: 2025-01-08T16:56:15.569Z
+updated: 2025-01-16T15:21:08.246Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/9cc6b9e127e8620a8c8c8710454e9c29c9fd332bb
 
  But what exactly is a Windows CAB file, and how do you install it on your computer? Here's everything you need to know.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## What Is a Windows CAB File?
 
  A CAB file or Cabinet file is a common archive file format used by Microsoft. It contains the compressed version of different files, folders, and even other cabinet files. Microsoft uses these files to distribute Windows, drivers, and UWP app updates. However, you can also use it to store other forms of data, such as images, videos, and documents.
@@ -33,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/9cc6b9e127e8620a8c8c8710454e9c29c9fd332bb
 
  Now that you have a brief understanding of CAB files, let's check out how you can install it on Windows 11\.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Install a CAB File on Windows 11
 
  You can easily install a CAB file on Windows 11 using Command Prompt and Windows PowerShell. In the Command Prompt method, you'll have to use the [DISM command](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/). Whereas, in the PowerShell method, you'll use the Add-WindowsPackage command.
@@ -41,11 +42,13 @@ thumbnail: https://thmb.techidaily.com/9cc6b9e127e8620a8c8c8710454e9c29c9fd332bb
 
 1. Navigate to the CAB file location on your computer.
 2. Right-click the CAB file, and choose **Copy as path**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![Copy as path option in context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/copy-as-path-option.jpg)
 3. Press **Win** key to open the **Start Menu**, type **Command Prompt** in the search bar, and choose **Run as administrator** from the right pane.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. In the elevated Command Prompt window, type the following command and press Enter. Make sure to replace "**CAB location**" with the copied path.  
 `dism /Online /Add-Package /PackagePath:"CAB location"`  
 ![CMD window with command to install a CAB file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/cmd-window.jpg)
@@ -60,40 +63,39 @@ thumbnail: https://thmb.techidaily.com/9cc6b9e127e8620a8c8c8710454e9c29c9fd332bb
 `  
 ![Powershell window with command to install a CAB file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/powershell-window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That's it. PowerShell will install the content of the CAB file on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## How to Install Driver Updates From a CAB File
 
  If you have downloaded a driver update, which is a CAB file, you can install it using the following instructions:
 
 1. Double-click the CAB file to view its contents.
 2. Press **Ctrl + A** to select all the files, right-click, and choose **Extract**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Extract option in context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/extract-option.jpg)
 3. Choose the location where you want to extract the contents of the CAB file and click **Extract**.
 4. Press **Win + X** hotkey to open the Power User menu and choose **Device Manager**.
 5. Right-click the device for which you have downloaded the driver update and choose **Update driver**.  
 ![Update driver option in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/update-driver.jpg)
 6. Click **Browse my computer for drivers**.  
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Browse my computer for drivers in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/browse-my-computer-for-drivers.jpg)
 7. Click **Browse** and navigate to the location where you have extracted the CAB file.
 8. Select the folder that contains the extracted file and click **OK**.  
 ![OK option in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ok-option.jpg)
 9. Click **Next**.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![Next option in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/next-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Device Manager will now install the driver update on your computer.
 
@@ -103,12 +105,27 @@ The powerful video editing program for your Windows PC</a>
 
  But what exactly is a Windows CAB file, and how do you install it on your computer? Here's everything you need to know.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-adapting-tiktok-for-twitter-posts/"><u>[New] In 2024, Adapting TikTok for Twitter Posts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-hololens-unravelled-microsofts-augmented-future-insight/"><u>[New] In 2024, HoloLens Unravelled Microsoft’s Augmented Future Insight</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-the-complete-process-of-logging-google-voice-calls/"><u>2024 Approved The Complete Process of Logging Google Voice Calls</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevated-privileges-starting-your-powershell-session-right/"><u>Elevated Privileges: Starting Your PowerShell Session Right</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-realme-12plus-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Realme 12+ 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-samsung-galaxy-xcover-6-pro-tactical-edition-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Samsung Galaxy XCover 6 Pro Tactical Edition Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-perfecting-your-ringtone-choices-on-an-iphone/"><u>In 2024, Perfecting Your Ringtone Choices on an iPhone</u></a></li>
+<li><a href="https://windows11.techidaily.com/leap-past-loading-delays-on-lotr-launchpad-lol/"><u>Leap Past Loading Delays on LOTR Launchpad (LOL)</u></a></li>
+<li><a href="https://windows11.techidaily.com/no-more-patches-understanding-the-shutdown-of-windows-7-and-81-support/"><u>No More Patches: Understanding the Shutdown of Windows 7 & 8.1 Support</u></a></li>
+<li><a href="https://windows11.techidaily.com/reach-full-internet-accessibility-on-windows-11-using-these-strategies/"><u>Reach Full Internet Accessibility on Windows 11 Using These Strategies</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-non-responsive-sliders-on-windows-systems/"><u>Resolving Non-Responsive Sliders on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-resolve-systemsettings-error-on-win11/"><u>Steps to Resolve SystemSettings Error on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/your-winning-strategy-unraveling-and-fixing-11-windows-problems/"><u>Your Winning Strategy: Unraveling & Fixing 11 Windows Problems</u></a></li>
+</ul></div>
 

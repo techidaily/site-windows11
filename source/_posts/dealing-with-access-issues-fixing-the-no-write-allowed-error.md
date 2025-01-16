@@ -1,7 +1,7 @@
 ---
 title: "Dealing with Access Issues: Fixing the No Write Allowed Error"
-date: 2024-08-15T15:10:29.777Z
-updated: 2024-08-16T15:10:29.777Z
+date: 2025-01-09T08:22:50.653Z
+updated: 2025-01-15T18:44:22.496Z
 tags:
   - windows10
   - windows11
@@ -31,11 +31,12 @@ thumbnail: https://thmb.techidaily.com/f1294d51d8e0560c6776b360116bd819890055c0b
 5. Hit **Apply** followed by **OK**.  
 ![Folder Permissions window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Modify-Folder-Permissions.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After modifying the folder permissions, you should be able to save files without any problems.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Change the Folder's Owner
 
  If changing the folder permissions does not help, you can make yourself the folder owner. This will allow you to freely access, modify, and save files in that folder. It's worth noting that you can only do this if you're [logged in with an administrative account](https://www.makeuseof.com/tag/windows-administrator-account-everything-need-know/).
@@ -46,23 +47,27 @@ thumbnail: https://thmb.techidaily.com/f1294d51d8e0560c6776b360116bd819890055c0b
 2. Under the **Security** tab, select **Advanced**.
 3. Click the **Change** option next to the **Owner** field.  
 ![Folder Security Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Folder-Security-Settings-on-Windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 4. Select **Yes** if the User Account Control (UAC) prompt appears.
 5. In the **Enter the object name to select** field, type in your username, and click the **Check Names** button. Then, hit **OK**.  
 ![Change Folder Owner on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Change-Folder-Owner-on-Windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 6. Tick the checkbox that reads **Replace owner on subcontainers and objects**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Hit **Apply** and then **OK**.  
 ![Advanced Security Settings for a folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Replace-Folder-Owner-on-Windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you take ownership of the folder, the permission error should not appear again. If the above method doesn't work for some reason, you can use a [third-party tool to take ownership of a folder on Windows](https://www.makeuseof.com/take-ownership-of-windows-files-and-folders-with-these-tools/). The best part is that these tools allow you to take ownership of multiple folders at once.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Run the App With Administrative Privileges
 
@@ -82,7 +87,15 @@ thumbnail: https://thmb.techidaily.com/f1294d51d8e0560c6776b360116bd819890055c0b
 ![Program Compatibility Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Program-Compatibility-Troubleshooter.jpg)
 4. Wait for the troubleshooter to do its thing, and then click the **Test the program** button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After completing the above steps, see if you can save files without getting any errors.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Check Your Antivirus Program
 
@@ -90,9 +103,6 @@ thumbnail: https://thmb.techidaily.com/f1294d51d8e0560c6776b360116bd819890055c0b
 
  To fix this, you will need to go through your antivirus program’s settings and whitelist your app or program from there. Alternatively, you can also temporarily disable your antivirus program and then save your file. If you do this, make sure to re-enable your antivirus program afterward.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## 6\. Disable User Account Control
 
 [User Account Control (UAC)](https://www.makeuseof.com/tag/user-account-control-windows-10/) is a security feature on Windows that prevents apps and users from making system-level changes without permission. Although the feature protects your PC from unwanted system changes, it can occasionally interfere with Windows processes and cause problems like the one described here.
@@ -103,11 +113,6 @@ thumbnail: https://thmb.techidaily.com/f1294d51d8e0560c6776b360116bd819890055c0b
 2. Type **change user account control settings** and select the first result that appears.
 3. In the **User Account Control Settings** window, drag the slider to the bottom and hit **OK**.  
 ![User Account Control Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/User-Account-Control-Settings-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 4. Select **Yes** when the User Account Control prompt shows up.
 
  After disabling User Account Control, check to see if you can save files in the desired folder.
@@ -128,9 +133,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 4. In the Microsoft account window, click on the **I don't have this person's sign-in information** link.
 5. Follow the on-screen prompts to create a new user account.  
 ![Microsoft Account Sign-In Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/microsoft-account-sign-in-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Sign in with your newly created account, and the error should not appear after that.
 
@@ -148,12 +150,31 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  If you can't figure out what's causing the error, work your way through the following troubleshooting tips to fix the underlying issue.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-key-techniques-to-optimize-igtv-video-dimensions/"><u>[New] 2024 Approved Key Techniques to Optimize IGTV Video Dimensions</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-cross-platform-chrome-leveraging-pip-features/"><u>[New] Cross-Platform Chrome Leveraging PIP Features</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-blackout-brilliance-minute-edition/"><u>2024 Approved Blackout Brilliance Minute Edition</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1125670-9781609251802-dion-fortunes-book-of-the-dead/"><u>Dion Fortune's Book of the Dead | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-issues-with-ghostwire-tokyo-constant-pc-crashes/"><u>Fixing Issues with Ghostwire: Tokyo Constant PC Crashes</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-direct-compare-obs-and-twitch-studio-benefits/"><u>In 2024, Direct Compare OBS and Twitch Studio Benefits</u></a></li>
+<li><a href="https://windows11.techidaily.com/keyboard-crash-in-windows-10-follow-this-path/"><u>Keyboard Crash in Windows 10? Follow This Path</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-nddrive-mapping-in-win11-effortlessly/"><u>Master NDDrive Mapping in Win11 Effortlessly</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-11s-auto-hdr-functionality/"><u>Navigating Windows 11'S Auto HDR Functionality</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-lava-yuva-3-pro-by-fonelab-android-recover-data/"><u>Recover lost data from Lava Yuva 3 Pro</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-rectifying-directdraw-problems-in-win11-environments/"><u>The Ultimate Guide to Rectifying DirectDraw Problems in Win11 Environments</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-memory-cards-for-digital-cameras/"><u>Top Rated Memory Cards for Digital Cameras</u></a></li>
+<li><a href="https://windows11.techidaily.com/uninstalling-edge-from-windows-11-pro/"><u>Uninstalling Edge From Windows 11 Pro</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-smooth-time-management-on-windows/"><u>Unlock Smooth Time-Management on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-potential-of-windows-10-key-buyers-guide/"><u>Unlocking the Potential of Windows 10: Key Buyers' Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/waterproofing-techniques-for-apple-products-a-comprehve-guide-on-drying-out-a-wet-phone-or-ipod/"><u>Waterproofing Techniques for Apple Products: A Comprehve Guide on Drying Out a Wet Phone or iPod</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-back-fast-solve-star-wars-bf2-mouse-lags/"><u>Win Back Fast: Solve Star Wars BF2 Mouse Lags</u></a></li>
+</ul></div>
 

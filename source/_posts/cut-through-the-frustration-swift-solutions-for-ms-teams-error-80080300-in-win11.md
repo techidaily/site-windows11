@@ -1,7 +1,7 @@
 ---
 title: "Cut Through the Frustration: Swift Solutions for MS Teams Error 80080300 in Win11"
-date: 2024-08-15T15:11:40.328Z
-updated: 2024-08-16T15:11:40.328Z
+date: 2025-01-15T05:15:04.221Z
+updated: 2025-01-16T12:19:16.368Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,11 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
 3. Click**Access work or school** to view the options for those accounts.  
 ![Access work or school options in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/add-a-work-or-school-account.jpg)
 4. Next, click your listed work or school account to access a**Disconnect this account** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Press the**Disconnect** button.
 6. Click**Yes** to confirm you’re sure.
 7. Try utilizing the Microsoft Teams app with that account disconnected.
@@ -43,10 +48,12 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
 `C:\Users\<user folder>AppData\Local\Microsoft\WindowsApps\MicrosoftTeams_8wekyb3d8bbwe`
 3. Right-click the**msteams.exe** file and select**Properties** .  
 ![properties-option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/properties-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 4. Select**Compatibility** in the msteams.exe Properties window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click**Run this program in compatibility mode** **for** to activate the drop-down menu.  
 ![The Run this program in compatibility mode for checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/run-in-compatibility-mode-option.jpg)
 6. Select the**Windows 8** option on the drop-down menu.
@@ -54,9 +61,6 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
 
  Note that the WindowsApps folder that includes the pre-installed MS Teams app in Windows 11 is protected. So, you’ll need to unlock the WindowsApps folder to access msteams.exe as instructed above. Our [guide to taking ownership of folders in Windows 10 & 11](https://www.makeuseof.com/windows-10-11-own-folder/) tells you how users can unlock that directory in Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Run the Compatibility Troubleshooter for Microsoft Teams
 
  This potential error 80080300 resolution is similar to the previous fix, and it’s another that has worked for some users. Running the compatibility troubleshooter for MS Teams can resolve app compatibility issues. This is how to run that troubleshooter in Windows 11.
@@ -65,14 +69,20 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
 2. Press the**Run compatibility troubleshooter** button on that tab.
 3. Click the**Try recommended settings** option in the troubleshooter.  
 ![The Try recommended settings option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/try-recommended-settings-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 4. Select the**Test the program** option. Then try logging into your account within the Teams app from there.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![test-the-program-button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/test-the-program-button.jpg)
 5. Click**Next** to bring up further options.
 6. Then select**Yes, save these settings** , or**No, try again** depending on the test outcome. Selecting**No** will bring up further troubleshooting options if needed.  
 ![The Yes, save these settings option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/troubleshooting-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Clear the Cache for Microsoft Teams
 
@@ -83,14 +93,8 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
 3. Next, click the menu button on the right side of the listed Microsoft Teams app.
 4. Select**Advanced** **options** to get to the**Reset** button for MS Teams.  
 ![The Advanced options menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/advanced-options-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Click**Reset** , and select**Reset** again to clear the app’s cached data.  
 ![The Reset button for MS Teams](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-reset-button-for-microsoft-teams.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. There’s also an extra**Repair** option available, which doesn’t clear data. You can also try selecting that option if resetting doesn’t help.
 
  An alternative method is to delete the Teams cache folder in File Explorer. You can open that folder at the following path:
@@ -98,6 +102,10 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
 `%appdata%\Microsoft\Teams`
 
  Press the**Windows** +**R** key combination, enter the above path into the Run dialogue, and click**OK** to bring up the Teams folder. Pressing**Ctrl** +**A** will [select all files](https://www.makeuseof.com/windows-11-file-explorer-select-all-files/) within the Teams folder. Then click the**Delete** (trash can) button on the command bar.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Erase Generic Credentials for Teams
 
@@ -108,16 +116,10 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
 3. Select the Credential Manager to open up that Control Panel applet.
 4. Click**Windows Credentials** to view them.  
 ![The Windows Credentials Control Panel applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-credentials-applet.jpg)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 5. Next, delete all the MS Teams and Microsoft Office account credentials saved there. You can erase a credential by clicking its down arrow and selecting**Remove** .
 6. Close the Credential Manager applet, and click the**Restart** Start Menu option.
 7. Launch Microsoft Teams after restarting to see if error 80080300 is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Reinstall the Teams App
 
  Some users might need fresh Microsoft Teams apps to resolve the 80080300 error. Reinstalling MS Teams will give you that. This is how you can uninstall and reinstall the Microsoft Teams app:
@@ -131,10 +133,15 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
 6. Select**Get in Store app** on the Microsoft Teams page.
 7. Click**Open Microsoft Store** to bring up that app.  
 ![the-install-option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-install-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8. Then select MS Teams’**Install** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get Chatting on Microsoft Teams Again
 
@@ -146,8 +153,6 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,6 +160,21 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-elevating-video-popularity-on-youtube-for-2024/"><u>[New] Elevating Video Popularity on YouTube for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-top-7-enhancements-for-an-optimal-stardew-farming-experience/"><u>[New] In 2024, Top 7 Enhancements for an Optimal Stardew Farming Experience</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-10-masterpieces-in-job-market-insight-for-2024/"><u>[Updated] 10 Masterpieces in Job Market Insight for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-5-excellent-video-conference-devices-for-professionals/"><u>[Updated] 2024 Approved 5 Excellent Video Conference Devices for Professionals</u></a></li>
+<li><a href="https://windows11.techidaily.com/creating-a-dual-disk-on-windows-independently/"><u>Creating a Dual Disk on Windows, Independently</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-high-cpu-usage-techniques-from-windows-resource-monitor/"><u>Decoding High CPU Usage: Techniques From Windows Resource Monitor</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-g54-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Motorola G54 5G Bootloader Easily</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-oppo-a38-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Oppo A38 FRP Bypass</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/screencapture-unveiled-the-ultimate-review-of-camstudio/"><u>ScreenCapture Unveiled The Ultimate Review of CamStudio</u></a></li>
+<li><a href="https://windows11.techidaily.com/silencing-the-cacophony-soundcard-irq-fixes/"><u>Silencing the Cacophony: Soundcard IRQ Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/simplified-processes-for-word-file-transformations-on-win-11-os/"><u>Simplified Processes for Word File Transformations on Win 11 OS</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/iques-for-embedding-youtube-in-slides-on-google-slate-for-2024/"><u>Techniques for Embedding YouTube in Slides on Google Slate for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-windows-11-eliminating-invisible-logins/"><u>Troubleshooting Windows 11: Eliminating Invisible Logins</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-elevate-with-25-customization-tips/"><u>Windows 11: Elevate with 25 Customization Tips</u></a></li>
+</ul></div>
 

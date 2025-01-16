@@ -1,7 +1,7 @@
 ---
 title: "Windows Wizards: Infuse UI with Divine Duties"
-date: 2025-01-01T03:31:22.528Z
-updated: 2025-01-04T02:16:42.359Z
+date: 2025-01-08T22:24:11.701Z
+updated: 2025-01-16T07:31:43.553Z
 tags:
   - windows10
   - windows11
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
  Many users activate God Mode by setting up desktop shortcuts that open the All Tasks window. However, you can instead add a **God Mode** option to the desktop’s context menu in Windows 11\. Then the All Tasks window will be directly accessible on your right-click menu. This is how you can add God Mode to Windows 11’s context menu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add God Mode to the Context Menu by Manually Editing the Registry
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 4. Right-click on **Shell** in Registry Editor’s navigation sidebar to select **New** and **Key**.  
 ![The New > Key options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/new-key-options.jpg)
 5. Type **God Mode** in the key’s text box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Right-click **God Mode** and select the **New** \> **Key** context menu options again.
 2. Input **command** within the subkey’s text box.  
@@ -53,7 +57,11 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-delete-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add God Mode to the Context Menu With Right-Click Extender
@@ -66,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 ![The Extract Compressed (Zipped) Folders window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/extract-compressed-zip-folder.jpg)
 4. Open the extracted Right-Click Extender directory and its Right-Click Extender v2 subfolder.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Double-click the Right-Click Extender v2 application file.
 6. Click on the **Desktop** tab in Right-Click Extender.
 7. Select the **All Tasks (GodMode)** setting and its Icon checkbox.  
@@ -78,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 
  Now you’ll see a new **God Mode** option on Windows 11’s classic context menu. This option will also have an icon by it. Click on **God Mode** to view the list of Control Panel applets.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Create Control Panel Shortcuts From God Mode's All Tasks Window
 
  The Task View window the God Mode context menu option opens makes hundreds of Control Panel applets more accessible. You can open whatever Control Panel settings you need from that window. However, the list of applets shown in that window is quite long.
@@ -85,14 +93,6 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
  Task View makes it easy to create desktop shortcuts for opening the Control Panel applets you need to access more regularly. To do so, left-click an applet or utility in the Task View window, drag it onto the desktop, and release the mouse button. Then you can click on the desktop shortcut to open its Control Panel applet whenever needed.
 
 ![The All Tasks (God Mode) window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-all-tasks-window.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Make the Most of God Mode on Windows
 
@@ -109,24 +109,24 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/updated-moments-in-music-hot-20-rap-songs-dominating-tiktok/"><u>[Updated] Moments in Music Hot 20 Rap Songs Dominating TikTok</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-vivo-s17t-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Vivo S17t Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://win-unique.techidaily.com/advanced-blk-ui-kit-react-version-ultimate-premium-creation-framework-for-reactstrap-and-bootstrap-4-featuring-technium-innovations/"><u>Advanced BLK· UI Kit React Version: Ultimate Premium Creation Framework for Reactstrap and Bootstrap 4 – Featuring Technium Innovations</u></a></li>
-<li><a href="https://windows11.techidaily.com/amplify-windows-efficiency-with-innovative-layouts/"><u>Amplify Windows Efficiency with Innovative Layouts</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/boost-engagement-stream-live-from-twitch-embed-on-fb-for-2024/"><u>Boost Engagement Stream Live From Twitch, Embed on FB for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/boost-up-your-pc-set-auto-update-plus-modify-amd-video/"><u>Boost Up Your PC: Set Auto Update + Modify AMD Video</u></a></li>
-<li><a href="https://windows11.techidaily.com/bridging-gaps-quick-fixes-for-microsoft-to-do-discrepancies/"><u>Bridging Gaps: Quick Fixes for Microsoft To Do Discrepancies</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-scripts-not-active-top-4-fixes-to-powershell-load-issue/"><u>Bypassing 'Scripts Not Active': Top 4 Fixes to PowerShell Load Issue</u></a></li>
-<li><a href="https://windows11.techidaily.com/comprehensive-overview-how-to-optimize-w11s-auto-hdr/"><u>Comprehensive Overview: How to Optimize W11's Auto HDR</u></a></li>
-<li><a href="https://windows11.techidaily.com/construct-ai-driven-artistry-with-win11-and-paint-tool-sai-your-ultimate-guide-to-image-creation/"><u>Construct AI-Driven Artistry with Win11 & Paint Tool SAI: Your Ultimate Guide to Image Creation</u></a></li>
-<li><a href="https://windows11.techidaily.com/cybersecurity-commandments-winning-access-prevention-on-windows/"><u>Cybersecurity Commandments: Winning Access Prevention on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/deciphering-high-cpu-demands-the-case-for-vanguards-ums-optimization/"><u>Deciphering High CPU Demands: The Case for Vanguard's UMS Optimization</u></a></li>
-<li><a href="https://windows11.techidaily.com/demystifying-windows-allocation-strategy-for-reserve-memory/"><u>Demystifying Windows' Allocation Strategy for Reserve Memory</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-code-0x80n73cf9-explained-solutions-for-your-windows-10-microsoft-store-problems/"><u>Error Code 0X80n73Cf9 Explained: Solutions for Your Windows 10 Microsoft Store Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-a-dead-usb-mouse-connection-essential-fixes-for-your-laptop/"><u>Fixing a Dead USB Mouse Connection: Essential Fixes for Your Laptop</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-get-latest-camera-driver-releases-for-windows-operating-systems-including-windows-11-and-earlier-versions/"><u>How to Get Latest Camera Driver Releases for Windows Operating Systems Including Windows 11 and Earlier Versions</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Poco X5 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/seamless-strategy-integrating-linktree-into-your-tiktok-bio-for-2024/"><u>Seamless Strategy Integrating Linktree Into Your TikTok Bio for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-poco-x5-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Poco X5 Phones</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-tailoring-a-streamlined-download-process-for-youtubes-srt-for-2024/"><u>[New] Tailoring a Streamlined Download Process for YouTube's SRT for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-all-inclusive-list-of-prime-no-money-streaming-applications-and-software/"><u>[Updated] All-Inclusive List of Prime No-Money Streaming Applications & Software</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-earning-mastery-executing-a-3-step-procedure-to-evaluate-your-youtube-income/"><u>[Updated] Earning Mastery Executing a 3-Step Procedure to Evaluate Your YouTube Income</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-achieving-content-balance-a-thorough-exploration-of-yt-aspect-ratios/"><u>[Updated] In 2024, Achieving Content Balance A Thorough Exploration of YT Aspect Ratios</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-key-video-beginnings-identifying-the-best-16-for-more-watches-for-2024/"><u>[Updated] Key Video Beginnings Identifying the Best 16 for More Watches for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-the-ultimate-mobile-experience-apple-android-and-youtube/"><u>2024 Approved The Ultimate Mobile Experience Apple, Android and YouTube</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-comprerant-users-resourceful-approach-to-processes-and-themes-in-windows-11/"><u>A Compreran't User's Resourceful Approach to Processes and Themes in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-email-management-gmail-in-outlook-windows-edition/"><u>Effortless Email Management: Gmail in Outlook, Windows Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/erase-your-black-screen-and-clear-cursor-issues-in-win11/"><u>Erase Your Black Screen & Clear Cursor Issues in Win11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/every-person-gains-latest-gpt-data/"><u>Every Person Gains Latest GPT Data</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ring-genres-a-collection-of-15-innovative-musician-focused-videos-for-2024/"><u>Exploring Genres A Collection of 15 Innovative Musician-Focused Videos for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/find-download-and-setup-epson-xp-430-printer-drivers-a-step-by-step-walkthrough-on-windows-machines/"><u>Find, Download, and Setup Epson XP-430 Printer Drivers – A Step by Step Walkthrough on Windows Machines</u></a></li>
+<li><a href="https://windows11.techidaily.com/harmonious-hardware-connections-android-pc-junctions/"><u>Harmonious Hardware Connections: Android-PC Junctions</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-the-gap-enabling-smooth-steam-connection/"><u>Mending the Gap: Enabling Smooth Steam Connection</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-11-error-0x80070570-fixing-damaged-files/"><u>Overcoming Windows 11 Error 0X80070570: Fixing Damaged Files</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-comprehensive-manual-for-component-settings-in-w11/"><u>The Comprehensive Manual for Component Settings in W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-full-potential-adding-portable-apps-to-w11/"><u>Unlock Full Potential: Adding Portable Apps to W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-layers-impact-on-linux-dominance/"><u>Windows Layer's Impact on Linux Dominance</u></a></li>
 </ul></div>
 

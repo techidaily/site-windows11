@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting LSA Problem in Windows XP/Vista
-date: 2025-01-09T18:50:52.293Z
-updated: 2025-01-10T16:36:13.405Z
+date: 2025-01-13T22:40:20.786Z
+updated: 2025-01-16T03:31:25.439Z
 tags:
   - windows10
   - windows11
@@ -25,19 +25,23 @@ thumbnail: https://thmb.techidaily.com/2df210d64d34d4b3dc09759541c3c9d53d18577f1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Causes the LSA Protection Error?
 
  The exact cause of the “this change requires you to restart your device” error can vary, but it may be due to corrupted system files or malware infections. Malware can install malicious services and components that interfere with Windows' smooth functioning, including disabling Local Security Authority (LSA) protection. It can also occur if antivirus software incorrectly removes system files and causes instability.
 
  This error is usually triggered when Windows attempts to enable Local Security Authority (LSA) protection and fails. In some cases, the error may also appear after you enabled LSA protection and restarted your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart Your PC
 
  As the error message suggests, you first restart your Windows system. This minor step can fix several system-level errors and is worth a try. Restarting your computer involves shutting down all running programs and starting it up again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Scan for Malicious Programs
 
@@ -51,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/2df210d64d34d4b3dc09759541c3c9d53d18577f1
 4. Click **Scan options** on the right side of the screen.  
 ![Full Scan Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/full-scan-windows-security.jpg)
 5. Select **Full scan** and click **Scan now**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now wait for the scan to finish. If malicious programs are detected, Windows Security will remove them from your system automatically.
 
@@ -77,10 +77,6 @@ Administrative Templates > System > Local Security Authority
 ![Set as Enabled with UEFI Lock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-as-enabled-with-uefi-lock.jpg)
 8. Now click **Apply > OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After making the above changes, restart your computer and check if the error is resolved.
 
 ## 4\. Tweak the Registry Editor
@@ -98,7 +94,7 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 6. Change the Value data from 0 to **2** and click **OK**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Similarly, find the **RunAsPPLBoot** key and set its value to **2**.  
@@ -119,6 +115,10 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 ![Reset Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-windows-security.jpg)
 7. If the confirmation window pops up, click **Reset** to continue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait for the reset process to finish and restart your computer. After restarting, check if the error is still present.
 
 ## 6\. Perform Some Generic Fixes
@@ -128,7 +128,7 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
  Some antivirus and security programs can be too aggressive in protecting your system. They could prevent access to the LSA feature, leading to this problem. To be sure, you can [temporarily disable your security software](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) and check if it solves the issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixing the LSA Protection Error on Windows
@@ -147,17 +147,19 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-facebook-live-mastery-making-the-most-of-real-time-sharing/"><u>[Updated] Facebook Live Mastery Making the Most of Real-Time Sharing</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-what-is-virtual-reality-and-how-does-it-work-in-2024/"><u>[Updated] What Is Virtual Reality and How Does It Work, In 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-elevate-your-aspects-a-beginner-cookbook-for-asmr-filmmaking/"><u>2024 Approved Elevate Your Aspects A Beginner' Cookbook for ASMR Filmmaking</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oneplus-12-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on OnePlus 12 Devices | Dr.fone</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/get-your-free-trial-of-dex-e-3-dj-mixer-pro-upgrade-for-just-49-by-jan-15-2018-with-promo-code/"><u>Get Your Free Trial of DEX E 3 DJ Mixer Pro - Upgrade for Just $49 by Jan 15, 2018 with Promo Code!</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-unleash-your-footage-a-gopro-quik-review-and-top-pc-editing-alternatives-for-2024/"><u>New Unleash Your Footage A GoPro Quik Review & Top PC Editing Alternatives for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-overcome-iphone-photographic-transfer-issues-on-w11-systems/"><u>Strategies to Overcome iPhone Photographic Transfer Issues on W11 Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-overcome-zero-x-error-in-the-microsoft-email-on-windows-11/"><u>Strategies to Overcome Zero X Error in the Microsoft Email on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamline-your-pc-toggle-folders-visibility-windows-11/"><u>Streamline Your PC: Toggle Folders Visibility (Windows 11)</u></a></li>
-<li><a href="https://windows11.techidaily.com/strengthen-your-safe-space-top-5-corrections-in-windows-features/"><u>Strengthen Your Safe Space: Top 5 Corrections in Windows Features</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-infinix-smart-7-hd-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Infinix Smart 7 HD without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-win1011-audio-error-xc00d36b4/"><u>Troubleshooting Win10/11 Audio Error XC00D36B4</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-no-complications-approach-switching-up-flipper-voices-in-windows-domain/"><u>[New] 2024 Approved No-Complications Approach Switching Up Flipper Voices in Windows Domain</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-insta-twist-techniques-for-turning-photos-into-viral-sensations-on-social-media/"><u>[New] In 2024, Insta-Twist Techniques for Turning Photos Into Viral Sensations on Social Media</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-intelligent-viewing-syncing-youtube-with-televisions/"><u>[New] In 2024, Intelligent Viewing Syncing YouTube with Televisions</u></a></li>
+<li><a href="https://fox-info.techidaily.com/comparing-core-titles-oculus-htc-vive-and-ps-vr-in-gaming-for-2024/"><u>Comparing Core Titles Oculus, HTC Vive & PS VR in Gaming for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-note-30-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Infinix Note 30 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-explore-sony-vegas-for-high-impact-video-editing-on-youtube/"><u>In 2024, Explore Sony Vegas for High-Impact Video Editing on YouTube</u></a></li>
+<li><a href="https://windows11.techidaily.com/overriding-default-no-notify-camera-behavior-in-ws11/"><u>Overriding Default No-Notify Camera Behavior in WS11</u></a></li>
+<li><a href="https://windows11.techidaily.com/peek-inside-windows-determining-your-computers-manufacturer/"><u>Peek Inside Windows: Determining Your Computer's Manufacturer</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-win1011-network-failure-code-0x800704b3/"><u>Resolving Win10/11 Network Failure: Code 0X800704B3</u></a></li>
+<li><a href="https://windows11.techidaily.com/revolutionize-your-pc-clear-tpm-from-windows-11/"><u>Revolutionize Your PC: Clear TPM From Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/say-goodbye-to-messy-mail-discover-the-simple-trick-to-a-cleaner-inbox-free-from-complex-filters-or-duplicate-profiles/"><u>Say Goodbye to Messy Mail: Discover the Simple Trick to a Cleaner Inbox, Free From Complex Filters or Duplicate Profiles</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-shadowrunners-speed-up-your-bf2-experience/"><u>Seamless Shadowrunners: Speed up Your BF2 Experience</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-double-edged-sword-of-virtual-reality/"><u>The Double-Edged Sword of Virtual Reality</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Avoiding Lost Messages: How to Fix Notifications That Fail"
-date: 2024-08-15T15:12:23.493Z
-updated: 2024-08-16T15:12:23.493Z
+date: 2025-01-10T04:10:07.860Z
+updated: 2025-01-15T16:46:50.477Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,10 @@ To access notification settings in the Mail app:
 7. Tick the**Play a sound** checkbox.  
 ![Enable Windows Mail Notifications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Enable-Windows-Mail-Notifications.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you complete the above steps, the Mail app should start showing notifications on Windows.
 
 ## 2\. Enable Mail App Notifications From Windows Settings
@@ -47,13 +51,7 @@ To access notification settings in the Mail app:
 2. In the**System** tab, click on**Notifications** .
 3. Under**Notifications from apps and other senders** , enable the switch next to**Mail** if it isn’t already.  
 ![Enable Windows Mail App Notifications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Enable-Windows-Mail-App-Notifications.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Check Mailbox Sync Settings
 
  You can configure the Mail app sync settings to specify how frequently the app should connect to the server to download new content. If Mail app notifications are arriving late, you can resolve the problem by modifying the mailbox sync settings. Here's what you'll need to do.
@@ -67,10 +65,6 @@ To access notification settings in the Mail app:
 7. Under**Sync options** , enable the toggle for**Email** .  
 ![Check Mail App Sync Settings Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Check-Mail-App-Sync-Settings-Windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## 4\. Allow the Mail App to Run in the Background
 
  Windows lets you decide which apps and programs can run in the background. If you have denied the Mail app permission to run in the background, you will not receive notifications unless the app is open.
@@ -85,6 +79,10 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 6. Click the drop-down menu under**Background apps permissions** and choose**Always** .  
 ![Allow Windows Mail App to Run in the Background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Allow-Windows-Mail-App-to-Run-in-the-Background.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Remove and Re-Add Your Email Account
 
  If the Mail app still fails to show notifications, you can try removing your email account from the app and adding it again. This should reconnect your account to the app and resolve any issues.
@@ -94,9 +92,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 3. Select**Delete account from this device** .
 4. Choose**Delete** to confirm.  
 ![Delete Account From the Windows Mail App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Delete-Account-From-the-Windows-Mail-App.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Once removed, restart the Mail app and add your account again.
 
@@ -110,17 +105,15 @@ Once removed, restart the Mail app and add your account again.
 2. Navigate to**System > Focus** .
 3. Set the Focus Assist to**Off** , so you get all notifications.  
 ![Turn Off Focus Assist](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Turn-Off-Focus-Assist.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Further, check the**Automatic rules** section to make sure Focus Assist is not set to enable itself automatically.
 
  If you're interested in Focus Assist, be sure to check out [how to silence notifications in Focus Assist for Windows](https://www.makeuseof.com/tag/windows-focus-assist/) .
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Disable Battery Saver Mode
 
  When you enable battery saver mode, Windows limits various background app activities in order to extend battery life. This can prevent apps like Mail from syncing in the background and displaying notifications. To avoid this, you should disable battery saver mode on Windows. Here's how:
@@ -130,9 +123,9 @@ Once removed, restart the Mail app and add your account again.
 3. Click on**Battery saver** to expand it.
 4. Click the**Turn off now** button.  
 ![Turn Off Battery Saver on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Turn-Off-Battery-Saver-on-Windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Repair or Reset the Mail App
@@ -146,7 +139,15 @@ Once removed, restart the Mail app and add your account again.
 5. Scroll down to the**Reset** section and click on**Repair** .  
 ![Repair or Reset Windows Mail App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Repair-or-Reset-Windows-Mail-App.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Windows will attempt to repair the app. You should see a checkmark next to the Repair button once the process is complete. If the problem persists, you can try resetting the app instead. Note that this process will delete all the app data.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Update the Mail App
 
@@ -154,23 +155,17 @@ Once removed, restart the Mail app and add your account again.
 
  Head over to the Microsoft Store on your PC. Search for**Mail and calendar** app and click the**Update** button. If you do not see the Update option, then the app is already up-to-date.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixing Mail App Notifications on Windows
 
  The Mail app notification issues can occur due to various factors, ranging from incorrectly configured settings to a faulty app update. In any case, going through the above-mentioned fixes should get the Mail app notifications to work again on Windows.
 
  If you’ve gotten tired of such issues with the default Windows Mail app, there are plenty of third-party email apps you may want to try.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -179,8 +174,16 @@ Once removed, restart the Mail app and add your account again.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-mastering-vimeos-end-screens-for-creative-directives-for-2024/"><u>[New] Mastering Vimeo's End Screens for Creative Directives for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/diving-into-devs-how-to-use-the-dev-drive-on-windows-11/"><u>Diving Into Devs: How to Use the Dev Drive on Windows 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-11-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 11 without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hp-envy-5660-printer-driver-setup-made-easy-free-downloads-and-instructions-inside/"><u>HP Envy 5660 Printer Driver Setup Made Easy: Free Downloads & Instructions Inside!</u></a></li>
+<li><a href="https://article-posts.techidaily.com/integrating-easy-to-use-timestamps-into-your-youtube-videos-for-2024/"><u>Integrating Easy-to-Use Timestamps Into Your YouTube Videos for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-the-art-of-troubleshooting-windows-camera/"><u>Master the Art of Troubleshooting Windows Camera</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/pasos-esenciales-para-lectura-de-tiempo-en-espanol/"><u>Pasos Esenciales Para Lectura De Tiempo en Español</u></a></li>
+<li><a href="https://windows11.techidaily.com/phase-out-announcement-end-for-windows-781-on-microsoft-platforms/"><u>Phase-Out Announcement: End for Windows 7/8.1 on Microsoft Platforms</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-art-of-unseen-wi-fi-in-windows/"><u>The Art of Unseen Wi-Fi in Windows</u></a></li>
+</ul></div>
 

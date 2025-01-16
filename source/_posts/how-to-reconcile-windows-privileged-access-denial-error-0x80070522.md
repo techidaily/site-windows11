@@ -1,7 +1,7 @@
 ---
 title: How To Reconcile Windows' Privileged Access Denial (Error 0X80070522)
-date: 2025-01-09T16:48:00.691Z
-updated: 2025-01-10T21:04:26.333Z
+date: 2025-01-13T10:41:48.248Z
+updated: 2025-01-16T05:09:34.790Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Run Software Packages as an Administrator Before Saving Files
 
  If error 0x80070522 occurs when you’re trying to save new files, try running the required software packages as administrator. Open any program with which you need to save a file by right-clicking its shortcut or EXE file and selecting**Run as administrator** . Then create or open a file and select to save it when utilizing the software with elevated user permissions.
@@ -38,7 +34,11 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 ![The Run this program in compatibility mode checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-run-as-administrator-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Set an Admin Account on Windows
@@ -47,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 
 ![The Administrator radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-administrator-radio-button.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Turn Off User Account Control (in Three Different Ways)
 
  User Account Control is a Windows security feature that restricts software privileges. That feature is the most regular cause of error 0x80070522\. Follow the steps in our[g](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) uide to[disabling User Account Control](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) to set UAC to the lowest**Never notify** option.
@@ -58,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
  It’s not recommended to leave UAC off. Do what you must with the files when User Account Control is disabled. Then turn UAC back on after you’ve saved, moved, or copied the files as needed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Modify the Drive’s Sharing Permissions
@@ -75,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 ![The Share this folder checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/share-this-folder-checkbox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Click the**Permissions** button.
@@ -85,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 
 4. Select**Close** to exit the properties window.
 5. Then click**Power** and select**Restart** within your Start menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Perform the Required File or Folder Actions on Windows
 
@@ -107,21 +107,24 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-maximize-video-experience-enable-pip-on-youtube-ios/"><u>[Updated] Maximize Video Experience Enable PIP on YouTube iOS</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-vivo-v27-pro-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Vivo V27 Pro Phone When You Forget the Password</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/complete-guide-to-deleting-files-and-folders-on-your-pc-tips-from-yl-computings-experts/"><u>Complete Guide to Deleting Files & Folders on Your PC: Tips From YL Computing's Experts</u></a></li>
-<li><a href="https://games-able.techidaily.com/freeplay-exploring-valuable-game-acquisitions-on-steam/"><u>Freeplay: Exploring Valuable Game Acquisitions on Steam</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-reno-9a-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Reno 9A to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-unfreeze-google-chrome-in-windows-11-fastly-find-out-now/"><u>How to Unfreeze Google Chrome in Windows 11 Fastly? Find Out Now!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-use-android-phones-in-watching-vr-or-360-videos-for-2024/"><u>How to Use Android Phones in Watching VR or 360 Videos for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hp-victus-cuios-bargain-alert-snag-your-high-quality-budget-friendly-gaming-pc-with-a-sweetening-deal-of-330-off/"><u>HP Victus Cuio's Bargain Alert: Snag Your High-Quality, Budget-Friendly Gaming PC with a Sweetening Deal of $330 Off!</u></a></li>
-<li><a href="https://windows11.techidaily.com/identifying-your-device-top-6-windows-pc-model-names/"><u>Identifying Your Device: Top 6 Windows PC Model Names</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-infinix-note-30-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Infinix Note 30 Pro to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-non-operational-windows-programs-with-7-strategies/"><u>Navigating Non-Operational Windows Programs with 7 Strategies</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-text-pasting-in-powertoys-quickly/"><u>Navigating Text Pasting in PowerToys Quickly</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-top-rated-avi-video-rotators-free-solutions-for-all-platforms/"><u>New 2024 Approved Top-Rated AVI Video Rotators Free Solutions for All Platforms</u></a></li>
-<li><a href="https://windows11.techidaily.com/reclaim-lost-boot-prompts-uefi-fixes/"><u>Reclaim Lost Boot Prompts: UEFI Fixes</u></a></li>
-<li><a href="https://windows11.techidaily.com/transformative-ways-to-customize-windows-11-ui/"><u>Transformative Ways to Customize Windows 11 UI</u></a></li>
-<li><a href="https://windows11.techidaily.com/unleash-potential-understanding-function-fn-key-operations/"><u>Unleash Potential: Understanding Function (Fn) Key Operations</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-breaking-down-barriers-to-effective-airdrop-on-iosmacos/"><u>[Updated] Breaking Down Barriers to Effective AirDrop on iOS/macOS</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-ultimate-list-of-ae-title-enhancement-methods/"><u>[Updated] In 2024, Ultimate List of AE Title Enhancement Methods</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-lockout-overcoming-windows-11-device-error-code-22/"><u>Bypassing Lockout: Overcoming Windows 11 Device Error Code 22</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clarifying-auditory-data-handling-wasd-in-windows-os/"><u>Clarifying Auditory Data Handling: WASD in Windows OS</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/endless-creativity-free-youtube-art-resources-for-2024/"><u>Endless Creativity FREE YouTube Art Resources for 2024</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-vivo-s17e-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo S17e in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/larger-than-life-boosting-taskbar-icons-in-w11/"><u>Larger-than-Life: Boosting Taskbar Icons in W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-morning-routine-launching-windows-and-sticky-notes/"><u>Mastering Morning Routine: Launching Windows & Sticky Notes</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/mastering-video-trimming-on-windows-media-player-tips-and-techniques/"><u>Mastering Video Trimming on Windows Media Player: Tips & Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-11-settings-for-effortless-administration/"><u>Mastering Windows 11 Settings for Effortless Administration</u></a></li>
+<li><a href="https://windows11.techidaily.com/nexus-controller-detection-woes-heres-how-to-win-them-back/"><u>Nexus Controller Detection Woes? Here's How to Win Them Back</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/prime-platforms-3d-models-in-animation-for-2024/"><u>Prime Platforms 3D Models in Animation for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/responding-to-click-failures-in-windows-11-environment/"><u>Responding to Click Failures in Windows 11 Environment</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/seizing-photographic-segments-from-videos-in-windows-11-for-2024/"><u>Seizing Photographic Segments From Videos in Windows 11 for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/tricks-to-launch-websites-after-installation/"><u>Tricks to Launch Websites After Installation</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshoot-and-fix-windows-autoshrink-issue/"><u>Troubleshoot & Fix Windows' Autoshrink Issue</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Poco F5 5G? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-machine-wattage-determining-computational-power-use/"><u>Windows Machine Wattage: Determining Computational Power Use</u></a></li>
 </ul></div>
 

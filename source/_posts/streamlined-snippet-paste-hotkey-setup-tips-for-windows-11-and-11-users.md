@@ -1,7 +1,7 @@
 ---
 title: "Streamlined Snippet Paste: Hotkey Setup Tips for Windows 11 and 11 Users"
-date: 2024-12-31T20:44:31.506Z
-updated: 2025-01-04T04:19:17.694Z
+date: 2025-01-10T01:32:37.705Z
+updated: 2025-01-15T17:59:59.424Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/698acf9899d7549d0c21beb422c9a4efb393d0c10
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Set Up Hotkeys for Pasting Pre-Defined Text With QuickTextPaste
 
  QuickTextPaste is freeware software for Windows 11, 10, 8.1, and 7\. It’s a lightweight program that enables you to set up and save custom[hotkeys](https://www.makeuseof.com/what-is-a-hotkey-how-to-make-custom/) with which you can always paste pre-defined text whenever needed. Plus, you can set custom hotkeys for opening apps with that software. You can set up a hotkey for pasting pre-defined text with QuickTextPaste as follows:
@@ -39,12 +35,17 @@ thumbnail: https://thmb.techidaily.com/698acf9899d7549d0c21beb422c9a4efb393d0c10
 4. Follow the steps in this guide about[unzipping files within Windows](https://www.makeuseof.com/unzip-files-windows-10/) to extract the QuickTextPaste archive.  
 ![The Extract Compressed (Zipped) Folders tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/extract-compressed-window.jpg)
 5. Double-click**QuickTextPaste\_x64.exe** to run QuickTextPaste.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Now input some text you want to set up a custom paste hotkey for within the**Add** **text** box.  
 ![The QuickTextPaste window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-quicktextpaste-window.jpg)
 7. Select the keys to include within your hotkey on the two drop-down menus at the bottom of the QuickTextPaste window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Press the**Add** button. You should see your new hotkey listed within the Keyboard Shortcuts column.
@@ -56,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/698acf9899d7549d0c21beb422c9a4efb393d0c10
 ![A run Edge hotkey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-edge-hotkey.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  QuickTextPaste has a 4,000-character limit for text snippets. However, that’s not an especially big restriction. You can probably fit up to 600 words within a 4,000-character limit.
@@ -74,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/698acf9899d7549d0c21beb422c9a4efb393d0c10
 5. Unzip the**hotkeyp\_64bit.zip** archive by right-clicking it and selecting**Extract All** . Click**Show extracted files** **when complete** \>**Extract** within the extraction tool.  
 ![The Extract All context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/extract-all-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Double-click**HotkeyP.exe** within the hotkeyp\_64bit folder.
 2. Click**Add** to bring up a Hot Key window.  
 ![The HotkeyP window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hotkeyp.jpg)
@@ -88,10 +93,6 @@ thumbnail: https://thmb.techidaily.com/698acf9899d7549d0c21beb422c9a4efb393d0c10
 8. Enter a title for the hotkey in the**Description** box.  
 ![The Hot Key window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hot-key-window.jpg)
 9. Select**OK** to add the new custom paste hotkey.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now you’ll see the hotkey you’ve just set listed within the HotkeyP window. Press**Esc** to hide the HotkeyP in the system tray. Then open WordPad, Notepad, or another text editor to try out the hotkey. Press the custom hotkey you’ve set up to paste in its pre-defined text.
 
@@ -108,7 +109,7 @@ thumbnail: https://thmb.techidaily.com/698acf9899d7549d0c21beb422c9a4efb393d0c10
 ![The System hotkey options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/system-hotkey-options.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or you can set up some custom window control hotkeys. Select**Window** on the command menu to view the various window keyboard shortcut options. There you can select**Always on Top** ,**Maximize window** ,**Minimize others** ,**Window snapshot,** **Close window** , and**Opacity** hotkey options, to name a few.
@@ -134,21 +135,15 @@ thumbnail: https://thmb.techidaily.com/698acf9899d7549d0c21beb422c9a4efb393d0c10
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-converting-your-favourite-tracks-bridging-spotify-with-youtube-music/"><u>[Updated] 2024 Approved Converting Your Favourite Tracks Bridging Spotify with YouTube Music</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-dive-into-makers-earnings-exploring-youtube-shorts-revenue-structure-for-2024/"><u>[Updated] Dive Into Maker's Earnings Exploring YouTube Shorts Revenue Structure for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-state-of-the-art-gametime-documentation-tools-for-2024/"><u>[Updated] State-of-the-Art Gametime Documentation Tools for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/17-kalyteres-diktatwr-elegxoy-onomatwn-lhpshs-movavi-converter-me-theseis-kb-pdf-se-dwrizei/"><u>17 Καλύτερες Δικτάτωρ Ελέγχου Ονομάτων Λήψης - Movavi Converter: Με Θέσεις KB, PDF Σε Δωρίζει</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-speedy-switching-spree-from-srt-to-txt-files-done-quickly/"><u>2024 Approved Speedy Switching Spree From SRT to TXT Files Done Quickly</u></a></li>
-<li><a href="https://windows11.techidaily.com/7-techniques-for-reviving-a-stuck-dark-screen-mode/"><u>7 Techniques for Reviving a Stuck Dark Screen Mode</u></a></li>
-<li><a href="https://windows11.techidaily.com/achieving-perfect-boot-strategies-to-configure-startup-services-in-win11/"><u>Achieving Perfect Boot: Strategies to Configure Startup Services in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/adjusting-time-display-in-the-taskbar-of-window-11/"><u>Adjusting Time Display in the Taskbar of Window 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/banish-file-explorer-errors-essential-fixes-for-win11-users/"><u>Banish File Explorer Errors: Essential Fixes for Win11 Users</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/boost-your-computers-power-with-these-proven-tips-from-yl-software-experts/"><u>Boost Your Computer's Power with These Proven Tips From YL Software Experts</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/comprehending-drone-systems-mechanics-and-applications-explained-for-2024/"><u>Comprehending Drone Systems Mechanics and Applications Explained for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/dealing-with-access-issues-fixing-the-no-write-allowed-error/"><u>Dealing with Access Issues: Fixing the No Write Allowed Error</u></a></li>
-<li><a href="https://windows11.techidaily.com/decode-and-dissolve-rectifying-win11-webcam-issue-error-a00f4289/"><u>Decode & Dissolve: Rectifying Win11 Webcam Issue - Error A00F4289</u></a></li>
-<li><a href="https://windows11.techidaily.com/diagnosing-and-fixing-printmanagement-error-on-windows-os/"><u>Diagnosing and Fixing 'PrintManagement' Error on Windows OS</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-vivo-t2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Vivo T2 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/tutorial-triumphant-skyrocketing-your-youtube-presence/"><u>Tutorial Triumphant Skyrocketing Your YouTube Presence</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-crafting-sweeping-sonic-narratives-with-expert-crossfade-techniques-audacity/"><u>[Updated] 2024 Approved Crafting Sweeping Sonic Narratives with Expert Crossfade Techniques (Audacity)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-ultimate-ranking-of-15-4k-video-devices/"><u>[Updated] In 2024, Ultimate Ranking of #15 4K Video Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/convertir-archivos-de-audiovideo-au-a-formato-wmv-online-sin-coste-guia-del-sitio-movavi/"><u>Convertir Archivos De Audio/Video AU a Formato WMV Online Sin Coste: Guía Del Sitio Movavi</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-interruptions-in-geforce-links-with-os-1011/"><u>Fixing Interruptions in GeForce Links with OS 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-correct-ipadiphone-images-not-displaying-in-windows-11-environment/"><u>How to Correct iPad/iPhone Images Not Displaying in Windows 11 Environment</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-13-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi Note 13 5G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://article-tips.techidaily.com/perfect-portraits-changing-picture-sizes-on-ios/"><u>Perfect Portraits Changing Picture Sizes on iOS</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-overcome-run-as-command-issues/"><u>Strategies to Overcome 'Run As' Command Issues</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-poco-x6-pro-by-drfone-android/"><u>Universal Unlock Pattern for Poco X6 Pro</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-full-potential-mastering-multiple-screens-in-win11/"><u>Unlock Full Potential: Mastering Multiple Screens in Win11</u></a></li>
 </ul></div>
 

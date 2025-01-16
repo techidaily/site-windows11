@@ -1,7 +1,7 @@
 ---
 title: Discovering Windows 11 Browser Configuration
-date: 2024-08-15T15:10:40.660Z
-updated: 2024-08-16T15:10:40.660Z
+date: 2025-01-13T20:48:17.695Z
+updated: 2025-01-16T14:13:02.856Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/5648c434c12cbf88b15506d6d23b8724252689511
 
  In this article, we will show you how to open Internet Options in Windows so that you can easily modify their settings.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Open Internet Options Using the Windows Search Tool
 
  The Windows Search Tool is one of the most powerful tools available in Windows 11\. Using this tool, you can access Internet Options and customize browser settings for maximum performance. Here's how:
@@ -29,7 +33,15 @@ thumbnail: https://thmb.techidaily.com/5648c434c12cbf88b15506d6d23b8724252689511
 ![Open Internet Options Using Windows Search tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-internet-options-using-windows-search-tool.jpg)
 3. Click on**Internet Options** from this list.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This will open the dialog box where you can adjust various settings related to internet usages such as security levels and privacy options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Open Internet Options Through the Run Command Dialog Box
 
@@ -40,11 +52,12 @@ To open Internet Options using this tool, do the following:
 1. Right-click on Start and select**Run** from the menu list.
 2. Type “inetcpl.cpl” into the command line and press**Enter** on your keyboard or click**OK** .  
 ![Open Internet Options Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-internet-options-using-run-command.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you do that, you will be taken directly to the window where you can customize your connection settings, and clear temporary files, history, cookies, and web information.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. How to Open Internet Options From Control Panel
 
@@ -56,9 +69,6 @@ To open Internet Options using this tool, do the following:
 2. Change the screen view to Large icons.
 3. Click on**Internet Options** then.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. How to Open Internet Options Via Task Manager
 
  Task Manager is an important tool that allows you to monitor and manage processes related to your computer's performance. It can help you identify and launch programs without having to navigate through menus. To open Internet Options via Task Manager, follow these steps:
@@ -78,19 +88,8 @@ You can now access Internet Options!
 1. Right-click on Start and select**Terminal** from the power user menu.
 2. In Windows PowerShell, type the following and press Enter:**inetcpl.cpl**  
 ![Open Internet Options Using Windows PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-internet-options-using-windows-powershell.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. This will open Internet Options on your Windows computer.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. How to Open Internet Options Using Command Prompt
 
  Command Prompt is another command-line tool you can use to run various commands on Windows operating systems. To open Internet Options using the Command Prompt, do the following:
@@ -99,13 +98,14 @@ You can now access Internet Options!
 2. Type "inetcpl.cpl" into the Command Prompt and press**Enter** .  
 ![Open Internet Options Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-internet-options-using-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The Internet Options program starts immediately and is ready for use.
 
  For more information on how to use this tool, check out our [beginner's guide to Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. How to Open Internet Options From Windows File Explorer
 
  File Explorer is a file management utility that allows you to easily access, view and manage the files stored on your computer. You can also use this tool to open applications installed on your Windows PC. To do this, follow these steps:
@@ -124,9 +124,6 @@ The Internet Options program starts immediately and is ready for use.
 2. Then click**Shortcut** in the menu list.
 3. When the "Create Shortcut" window appears, type "C:\\WINDOWS\\system32\\inetcpl.cpl" and click**Next** .  
 ![Open Internet Options With Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-internet-options-with-desktop-shortcut.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Name your shortcut something like Internet Options.
 5. Once you have made your changes, click**Finish** .
 
@@ -140,6 +137,10 @@ The Internet Options program starts immediately and is ready for use.
 * Right-click on the**inetcpl.cpl** (.cpl) file and select**Show more options > Create shortcut** .
 * Make sure you click**Yes** when asked to confirm a shortcut. The desktop shortcut will appear on your computer screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. How to Open Internet Options Using the Shortcut Key
 
  Operating systems are designed with shortcut keys to help users navigate their computers with ease. Windows 11 has multiple ways that you can open Internet Options, but using the keyboard shortcut is one of the quickest and most efficient methods.
@@ -150,9 +151,6 @@ If you prefer using it, follow these steps:
 2. Right-click on the shortcut icon and select**Properties** .
 3. In the Shortcut field, type any**letter** or**number** that you want to use.  
 ![Open Internet Options Using Shortcut key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-internet-options-using-shortcut-key.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 4. Click**Apply > OK** to save your changes
 
  Once you're done, simply press Ctrl + Alt and then type the letter or number that you've chosen as a shortcut. It will only take a moment to open Internet Options. For example, if you select**9** , then you can press**Ctrl + Alt + 9** on your keyboard to open Internet Options.
@@ -161,14 +159,11 @@ If you prefer using it, follow these steps:
 
  Whether you're looking to improve your privacy, secure your data, or optimize your browsing speed, understanding internet options is essential. Let us know what method you found easiest to open Internet Options in Windows 11.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -177,6 +172,22 @@ If you prefer using it, follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-monetizing-mastery-in-your-mind-the-no-ad-youtube-money-manual/"><u>[New] In 2024, Monetizing Mastery in Your Mind The No-Ad YouTube Money Manual</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-navigating-the-world-of-drone-races-and-top-fpv-choices/"><u>[New] In 2024, Navigating the World of Drone Races & Top FPV Choices</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-mastering-thumbnail-extraction-from-youtube-on-multiple-platforms/"><u>[Updated] Mastering Thumbnail Extraction From Youtube on Multiple Platforms</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-mastering-instagrams-live-feature-without-your-identity/"><u>2024 Approved Mastering Instagram's Live Feature Without Your Identity</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862869302-buy-the-asus-prime-x670-p-wifi-am5-mobo-at-an-unbeatable-price-of-just-135/"><u>Buy the ASUS Prime X670-P WiFi (AM5) Mobo at an Unbeatable Price of Just $135!</u></a></li>
+<li><a href="https://windows11.techidaily.com/exclusive-insight-the-ultimate-roundup-of-windows-video-tools/"><u>Exclusive Insight: The Ultimate Roundup of Windows Video Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-microsoft-copilot-transforms-modern-software-creation/"><u>How Microsoft Copilot Transforms Modern Software Creation</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-tecno-spark-10-4g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Tecno Spark 10 4G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-resolve-microsoft-written-install-net-message/"><u>How to Resolve Microsoft' Written: Install .NET Message</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-business-growth-the-role-of-ai-in-constructing-your-digital-twin-strategys-core-six-elements-zdnet-explored/"><u>Mastering Business Growth: The Role of AI in Constructing Your Digital Twin Strategy's Core Six Elements | ZDNet Explored</u></a></li>
+<li><a href="https://windows11.techidaily.com/no-more-obsolete-windows-attributes/"><u>No More: Obsolete Windows Attributes</u></a></li>
+<li><a href="https://windows11.techidaily.com/taskbar-chat-functionality-in-windows-11-what-happens-when-we-take-away-this-feature/"><u>Taskbar Chat Functionality in Windows 11: What Happens When We Take Away This Feature</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-launching-csgo-in-windows-11/"><u>Tips for Launching CS:GO in Windows 11</u></a></li>
+<li><a href="https://article-tips.techidaily.com/unlocking-iphones-potential-podcast-harmony-for-2024/"><u>Unlocking iPhone's Potential - Podcast Harmony for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-windows-11s-taskbar-features-for-tablet-users/"><u>Unveiling Windows 11'S Taskbar Features for Tablet Users</u></a></li>
+</ul></div>
 

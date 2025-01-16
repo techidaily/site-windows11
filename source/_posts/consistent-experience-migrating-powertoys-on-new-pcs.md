@@ -1,7 +1,7 @@
 ---
 title: "Consistent Experience: Migrating PowerToys on New PCs"
-date: 2024-08-15T15:11:45.647Z
-updated: 2024-08-16T15:11:45.647Z
+date: 2025-01-10T10:40:00.754Z
+updated: 2025-01-16T02:52:47.451Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/8da75a920197365538cecf50a6a02f169af5b1bab
 
  Here's how to quickly and easily transfer PowerToys settings from one PC to another.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Back Up Your PowerToys Settings
 
  Transferring settings from one installation of PowerToys to another works best if both versions are the same. You can check the version in the General tab of the app. If required, update PowerToys to the latest version, and install/update the same version on the second PC.
@@ -31,13 +35,18 @@ thumbnail: https://thmb.techidaily.com/8da75a920197365538cecf50a6a02f169af5b1bab
 
 ![backing up PowerToys settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/powertoys-backup.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The backup of your PowerToys settings has now been saved to your chosen folder. If you change a setting and click backup again, a new backup file will be created alongside the first.
 
  PowerToys is updated regularly, with new features like [File Locksmith](https://www.makeuseof.com/powertoys-file-locksmith-guide/) added from time to time. Your backups are dated, so you can create a new one each time a tool is added and still be able to recognize the backup.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Transfer and Restore the PTB Backup File
 
  You can now transfer the backup file to your second PC and restore the settings to the clean installation of PowerToys.
@@ -45,28 +54,27 @@ thumbnail: https://thmb.techidaily.com/8da75a920197365538cecf50a6a02f169af5b1bab
 1. Open the folder where your backup was saved and copy the PTB file to a removable drive. You could also use any of the methods covered in our guide on [how to transfer files from one PC to another](https://www.makeuseof.com/tag/5-ways-to-transfer-files-from-one-computer-to-another/) .
 2. Copy the file from the transfer media to the backup folder for PowerToys on your new PC. The default folder location is**C:\\Users\\YourUserName\\Documents\\PowerToys** .  
 ![restoring PowerToys settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/powertoys-restore.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Open PowerToys and select the**General** tab. At the bottom of the**General options** , click the**Restore** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Your previously saved settings have now been applied to the clean installation of PowerToys. If the two versions of PowerToys are different, some settings may not have been transferred.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Transferring PowerToys Settings Made Easy
 
  Setting up PowerToys from scratch on a new computer can be time-consuming. This is particularly true if you use several of the available tools and have made changes to settings. Being able to copy settings from one PC to another makes getting started with PowerToys much quicker.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -75,6 +83,22 @@ thumbnail: https://thmb.techidaily.com/8da75a920197365538cecf50a6a02f169af5b1bab
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unleash-your-social-media-potential-with-insta-post-magic/"><u>[Updated] Unleash Your Social Media Potential with Insta Post Magic</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/1-easy-and-professional-photo-editing-with-movavi-download-now/"><u>1. Easy and Professional Photo Editing with Movavi - Download Now</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-top-tier-steadicam-options-for-drone-video-production/"><u>2024 Approved Top-Tier Steadicam Options for Drone Video Production</u></a></li>
+<li><a href="https://windows11.techidaily.com/caution-not-to-use-chatbots-for-windows-key-formation/"><u>Caution: Not to Use Chatbots For Windows Key Formation</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/effective-file-system-in-windows-unveiled-max-156/"><u>Effective File System in Windows Unveiled (Max 156)</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-tips-to-overcome-windows-code-error/"><u>Essential Tips to Overcome Window's Code Error</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/graphics-card-and-motherboard-compatibility-can-you-mix-and-match-tech-insights-by-yl-computing/"><u>Graphics Card and Motherboard Compatibility: Can You Mix & Match? - Tech Insights by YL Computing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-switching-off-voice-navigation-assistance-in-samsung-tvs/"><u>Guide: Switching Off Voice Navigation Assistance in Samsung TVs</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-vivo-y100t-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Vivo Y100t Phone</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-sluggishness-valorant-on-windows/"><u>Overcome Sluggishness: Valorant on Windows</u></a></li>
+<li><a href="https://video-capture.techidaily.com/smartphones-and-tablets-leading-gb-gameplayers/"><u>Smartphones & Tablets Leading GB Gameplayers</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-launching-works-on-windows-10plus/"><u>Step-by-Step: Launching Works on WIndows 10+</u></a></li>
+<li><a href="https://windows11.techidaily.com/tech-integration-connect-ps3-dualshock-wirelessly/"><u>Tech Integration: Connect PS3 DualShock Wirelessly</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-windows-11-audio-adjustment-tools/"><u>Unveiling the Windows 11 Audio Adjustment Tools</u></a></li>
+</ul></div>
 

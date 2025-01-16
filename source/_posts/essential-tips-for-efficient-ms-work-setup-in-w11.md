@@ -1,7 +1,7 @@
 ---
 title: Essential Tips for Efficient MS Work Setup in W11
-date: 2025-01-02T16:15:00.304Z
-updated: 2025-01-04T04:44:32.413Z
+date: 2025-01-09T03:20:16.500Z
+updated: 2025-01-16T13:34:03.838Z
 tags:
   - windows10
   - windows11
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6d
  You can still utilize Microsoft Works 9 on a Windows 10 or 11 PC today. Although that suite might be a little dated, it’s freely available and comes with a good range of templates for document creation. This is how you can install and try out Microsoft Works on a Windows 11/10 PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Download and Install Microsoft Works 9
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6d
 ![The ISO Image download option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/iso-image.jpg)
 3. Double-click the **Microsoft Works 9.ISO** file and click **Open** if a Security Warning dialog box pops up.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Open option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/open-option.jpg)
 4. Then double-click the **Setup.exe** file for Microsoft Works 9\.
 5. Click **Next** inside the Microsoft Works setup window.
@@ -47,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6d
 7. Select the **Install MS Works 9** option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Click **Continue** to install other components.
@@ -59,23 +55,19 @@ thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6d
 
 ![The Run this program as an administrator checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/run-this-program-as-administrator-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Getting Started With Microsoft Works 9
 
  You’ll see a Welcome to Microsoft Works window the first time you run the software. Select the **I Agree** option on that window to accept the license terms. You’ll also be asked about participating in a customer experience program. Click **No** to opt out of participation. Then press the **Finish** button to get stuck into Microsoft Works 9\.
 
 ![The I Agree radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/software-license-terms-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now you can get started utilizing the Microsoft Works 9 suite. A Microsoft Works window from which you can select to open the suite’s applications will open. You can launch the apps by clicking the **Works Word Processor**, **Database**, and **Spreadsheet** options in that window’s Quick Launch bar.
 
 ![The Microsoft Works suite window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/microsoft-works-window.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You’ll also notice that the window includes a calendar on which you can view appointments. To do so, you’ll need to add appointments inside the Works Calendar app. You can launch that software by clicking the **Open Calendar** button. To add an event, select a day within the Calendar app and then input a note for it at a time on the **My Calendar** tab.
 
@@ -85,9 +77,17 @@ thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6d
 
 ![The Templates tab in MS Works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/templates-tab.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Microsoft Works also has an interactive introductory tour for the suite. That tutorial provides details for utilizing the calendar, contacts, and templates within the Microsoft Works window. Click the **Quick Tour** option just above the **Calendar** tab to open it. Then click the **Next** compass points to go through the tour.
 
 ![The Quick Tour window for MS Works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-ms-works-tour.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Discover Microsoft Works 9 in the Modern Era
 
@@ -104,24 +104,22 @@ thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/eclaiming-deleted-youtube-treasures-a-2-step-guide/"><u>[New] Reclaiming Deleted YouTube Treasures A 2-Step Guide</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-best-3ip-apps-to-record-clear-speech-on-ipads/"><u>[Updated] Best 3iP Apps to Record Clear Speech on iPads</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-stealth-in-social-media-going-unseen-with-live-feeds/"><u>[Updated] Stealth in Social Media Going Unseen with Live Feeds</u></a></li>
-<li><a href="https://windows11.techidaily.com/3d-paint-speed-expertise-through-shortcuts/"><u>3D Paint Speed Expertise Through Shortcuts</u></a></li>
-<li><a href="https://windows11.techidaily.com/9-benefits-adopting-new-outlook-for-windows-users/"><u>9 Benefits: Adopting New Outlook for Windows Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/add-emulators-to-playnite-a-windows-guide/"><u>Add Emulators to Playnite: A Windows Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/adobe-validity-warning-fix-instantly-on-pc/"><u>Adobe Validity Warning: Fix Instantly on PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/brightening-up-dull-desktop-windows-appearance/"><u>Brightening Up Dull Desktop Windows Appearance</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-slowdowns-in-gpsvc-windows-errors/"><u>Bypassing Slowdowns in GPSVC Windows Errors</u></a></li>
-<li><a href="https://windows11.techidaily.com/cant-open-chrome-try-these-win11-solutions-now/"><u>Can't Open Chrome? Try These Win11 Solutions Now</u></a></li>
-<li><a href="https://windows11.techidaily.com/combining-kali-with-windows-os-seamlessly/"><u>Combining Kali with Windows OS Seamlessly</u></a></li>
-<li><a href="https://windows11.techidaily.com/disabling-another-users-microsoft-account-on-shared-device/"><u>Disabling Another User's Microsoft Account on Shared Device</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-plus-vs-perplexity-the-ultimate-ai-battle/"><u>GPT Plus Vs. Perplexity: The Ultimate AI Battle</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-oppo-a1-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Oppo A1 5G Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On ZTE Axon 40 Lite | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-channel-charm-with-cost-free-visual-aids/"><u>In 2024, Channel Charm with Cost-Free Visual Aids</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-ideal-video-displays-the-best-5-for-playstation-5/"><u>In 2024, Ideal Video Displays The Best 5 for PlayStation 5</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/mpeg-conversion-made-simple-how-to-transfer-dvd-content-onto-your-mac-for-no-cost/"><u>MPEG Conversion Made Simple: How to Transfer DVD Content Onto Your Mac for No Cost</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-dashboard-for-atis-hd-4800-driver-updates/"><u>Quick Dashboard for ATI's HD 4800 Driver Updates</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-cutting-edge-5-online-media-recording-units-for-2024/"><u>[New] Cutting-Edge 5 Online Media Recording Units for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-mastering-animation-in-instagram-stories-a-step-by-step-guide/"><u>[New] In 2024, Mastering Animation in Instagram Stories A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-androids-top-choice-does-pickup-beat-other-photo-editors-in-2024/"><u>[Updated] Android's Top Choice Does PickUp Beat Other Photo Editors, In 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-miniature-harmonies-character-music-journey/"><u>[Updated] In 2024, Miniature Harmonies Character Music Journey</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-ps1-classics-on-your-desktop-the-best-emulators-reviewed/"><u>[Updated] PS1 Classics on Your Desktop The Best Emulators Reviewed</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-crafting-captivating-storytelling-with-a-soundtrack-on-instagram/"><u>2024 Approved Crafting Captivating Storytelling with a Soundtrack on Instagram</u></a></li>
+<li><a href="https://windows11.techidaily.com/backtracking-your-pc-with-ease-using-system-restore/"><u>Backtracking Your PC with Ease Using System Restore</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/how-to-download-videos-in-various-formats-from-porntube-mp4-mov-avi-and-more/"><u>How to Download Videos in Various Formats From PornTube: MP4, MOV, AVI, and More</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-zte-nubia-z60-ultra-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On ZTE Nubia Z60 Ultra</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-windows-fn-key-management-basics/"><u>Navigating Through Windows: Fn Key Management Basics</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-to-resolve-error-a00f425d-on-windows-device/"><u>Quick Guide to Resolve Error A00F425D on Windows Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/regain-missing-dxgidll-with-easy-windows-11-fixes/"><u>Regain Missing Dxgi.dll with Easy Windows 11 Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/revamping-your-win8-black-screen-effects/"><u>Revamping Your Win8 Black Screen Effects</u></a></li>
+<li><a href="https://windows11.techidaily.com/tactics-for-finding-hidden-regedit-command/"><u>Tactics for Finding Hidden Regedit Command</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-talking-photo-wondershare-virbo-for-2024/"><u>Updated Talking Photo | Wondershare Virbo for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-actions-can-you-take-if-windows-ignores-powershell/"><u>What Actions Can You Take if Windows Ignores PowerShell?</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-a-guide-to-copying-file-and-folder-navigational-trails-via-6-steps/"><u>Windows 11: A Guide to Copying File and Folder Navigational Trails, via 6 Steps</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixing Frozen Resource Monitor Applications on Win11
-date: 2025-01-05T23:02:01.072Z
-updated: 2025-01-10T18:26:56.490Z
+date: 2025-01-14T05:11:30.897Z
+updated: 2025-01-15T20:33:14.635Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/46c850237c04863ff656e578f32b008a00b71b463
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Causes the Resource Monitor App to Stop Working?
@@ -44,7 +44,7 @@ So, let's move on to the solution and fix this problem.
 ![windows restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/windows-restart.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When troubleshooting software-related issues, a computer restart can often resolve them without resorting to complex solutions. Doing so refreshes all running programs and services while also clearing out any temporary files that might be causing problems.
@@ -93,13 +93,13 @@ sfc /scannow
 ![Check for Updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/check-for-updates.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If there are any updates available, it will download and install them automatically. After the download completes, install the updates and restart your computer. After that, check to see if Resource Monitor is working.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Uninstall the Latest Windows Updates
@@ -111,10 +111,6 @@ sfc /scannow
 3. Now go to the right and click on**Update history** .  
 ![Update history in Windows Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/update-history-in-windows-update.jpg)
 4. Scroll down to Related settings and click**Uninstall updates** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Uninstall the latest Windows Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-the-latest-windows-update.jpg)
 
@@ -133,6 +129,10 @@ sfc /scannow
 
  Then follow the instructions to add a new user account and then sign in with that account. Now open Resource Monitor and see if it's working properly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Troubleshoot in Clean Boot State
 
  When all else fails, try starting your computer in safe mode and see if the problem persists. If it does not, then background services and applications are possibly conflicting with startup items and causing this error to occur.
@@ -149,14 +149,14 @@ In such a case, you need to perform a clean boot as instructed below:
 ![Hide all Microsoft services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Hide-all-Microsoft-services.jpg)
 6. Then click**Disable All** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Go to the Startup tab and click the**Open Task Manager** link
 8. Disable any services or programs that are active in Startup apps.
 
  Once you have done this, close Task Manager, then click**OK** on the MSConfig window to save these changes. Now restart your computer for them to take effect, then try using Resource Monitor to see if they work now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Resolve Resource Monitor Issues in Windows 11
 
@@ -177,24 +177,18 @@ In such a case, you need to perform a clean boot as instructed below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-elite-8-video-grabber-utilities/"><u>[New] Elite 8 Video Grabber Utilities</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-online-oasis-video-vault/"><u>[New] Online Oasis Video Vault</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-step-by-step-selection-of-tiktok-screenshots/"><u>[New] Step-by-Step Selection of TikTok Screenshots</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-discover-10-bestsellers-copyright-free-melodies-for-zen/"><u>[Updated] Discover 10 Bestsellers Copyright-Free Melodies for Zen</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-navigating-tiktoks-voiceover-landscape/"><u>2024 Approved Navigating TikTok's Voiceover Landscape</u></a></li>
-<li><a href="https://program-issues.techidaily.com/escape-from-tarkov-pc-freezing-problems-heres-how-to-stabilize-the-game/"><u>Escape From Tarkov PC Freezing Problems? Here's How to Stabilize the Game</u></a></li>
-<li><a href="https://windows11.techidaily.com/fix-permissions-hurdle-become-an-admin-instantly/"><u>Fix Permissions Hurdle - Become an Admin Instantly</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-beyond-boundaries-revisited-assessing-current-realm-future-challenges/"><u>In 2024, Beyond Boundaries Revisited Assessing Current Realm, Future Challenges</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-counter-strike-2-mac-edition-guide/"><u>Mastering Counter-Strike 2: Mac Edition Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimal-web-access-a-comparative-study-of-browser-ram-use/"><u>Optimal Web Access: A Comparative Study of Browser RAM Use</u></a></li>
-<li><a href="https://windows11.techidaily.com/proactive-defense-7-steps-to-thwart-windows-hackers/"><u>Proactive Defense: 7 Steps to Thwart Windows Hackers</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-fix-for-erroneous-0x80246007-in-win11-uptime/"><u>Quick Fix for Erroneous 0X80246007 in Win11 Uptime</u></a></li>
-<li><a href="https://howto.techidaily.com/realme-note-50-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme Note 50 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/reinstating-credible-power-consumption-forecasts-on-windows-11/"><u>Reinstating Credible Power Consumption Forecasts on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamlessly-incorporate-gallery-view-into-file-explorer/"><u>Seamlessly Incorporate Gallery View Into File Explorer</u></a></li>
-<li><a href="https://windows11.techidaily.com/sidestep-w11s-onedrive-error-code-def5/"><u>Sidestep W11's OneDrive Error Code DEF5</u></a></li>
-<li><a href="https://techtrends.techidaily.com/stay-ahead-in-the-micro-mobility-scene-essential-dates-current-headlines-and-insider-information/"><u>Stay Ahead in the Micro-Mobility Scene: Essential Dates, Current Headlines & Insider Information</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-for-qbittorrent-transfer-from-one-windows-to-another/"><u>Steps for qBittorrent Transfer From One Windows to Another</u></a></li>
-<li><a href="https://windows11.techidaily.com/swift-application-launch-in-windows-11/"><u>Swift Application Launch in Windows 11</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-rgb-to-srgb-transition-what-it-means-for-visual-media/"><u>[New] Rgb to Srgb Transition What It Means for Visual Media</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-mastering-action-an-insight-into-sj-cam-s6/"><u>[Updated] In 2024, Mastering Action An Insight Into SJ-CAM S6</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-loss-of-internet-router-webpage-in-windows/"><u>Fixing Loss of Internet Router Webpage in Windows</u></a></li>
+<li><a href="https://win-data.techidaily.com/guia-facil-y-gratis-para-crear-una-copia-de-seguridad-de-la-memoria-compact-flash-en-windows/"><u>Guía Fácil Y Gratis Para Crear Una Copia De Seguridad De La Memoria Compact Flash en Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-and-repair-no-sound-from-laptop-built-in-speakers/"><u>How to Troubleshoot and Repair No Sound From Laptop Built-In Speakers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-finding-hidden-instagram-reels-youve-liked-before/"><u>Mastering the Art of Finding Hidden Instagram Reels You've Liked Before</u></a></li>
+<li><a href="https://windows11.techidaily.com/mitigating-critical-programming-issues-in-roblox/"><u>Mitigating Critical Programming Issues in Roblox</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-performance-strategies-for-lowering-ping-rates-in-co-op-shooters/"><u>Optimizing Performance: Strategies for Lowering Ping Rates in Co-Op Shooters</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-repeated-sign-in-requests-for-team-collaboration-software/"><u>Overcoming Repeated Sign-In Requests for Team Collaboration Software</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/redefining-solitude-gpt-powered-social-platforms/"><u>Redefining Solitude: GPT-Powered Social Platforms</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/smartwatch-face-off-can-the-samsung-galaxy-watch-ultra-outshine-the-apple-watch-ultra-tech-experts-review/"><u>Smartwatch Face-Off: Can the Samsung Galaxy Watch Ultra Outshine the Apple Watch Ultra? | Tech Experts' Review</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-correcting-unresponsive-fn-buttons-on-a-dell-device/"><u>Step-by-Step Guide to Correcting Unresponsive FN Buttons on a Dell Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-low-end-system-failures-due-to-intel-graphics-requirements/"><u>Tackling Low-End System Failures Due to Intel Graphics Requirements</u></a></li>
 </ul></div>
 

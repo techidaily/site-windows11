@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Cannot Reach Server Error in Win 10 & 11 for MB
-date: 2025-01-09T23:14:59.335Z
-updated: 2025-01-10T19:10:20.230Z
+date: 2025-01-15T11:21:48.847Z
+updated: 2025-01-16T13:46:52.652Z
 tags:
   - windows10
   - windows11
@@ -33,14 +33,6 @@ thumbnail: https://thmb.techidaily.com/ef0c500c1ff8cdea11d6b2ce7132e969a27a23353
 
 ![The Run this program as an administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-this-program-as-an-administrator-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Check That the Malwarebytes Service Is Enabled and Running
 
  The Malwarebytes Service is needed for the Malwarebytes software to run properly. The "unable to connect the service" error message may occur if this service isn't running. So, check that the Malwarebytes Service is enabled and running as follows:
@@ -51,16 +43,12 @@ thumbnail: https://thmb.techidaily.com/ef0c500c1ff8cdea11d6b2ce7132e969a27a23353
 ![The Service window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/malwarebytes-service.jpg)
 4. Then click on the**Startup type** drop-down menu to open it and select**Automatic** from there.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Select**Start** to run the Malwarebytes Services.  
 ![The Malwarebytes Service window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/malwarebytes-service-window.jpg)
 6. Click the service’s**Apply** and**OK** options.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Check That the Windows Management Instrumentation Is Enabled and Running
@@ -70,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/ef0c500c1ff8cdea11d6b2ce7132e969a27a23353
  Open Services (see[how to open Services on Windows](https://www.makeuseof.com/windows-11-open-services-app/) ). double-click**Windows Management Instrumentation** , and select its**Automatic** and**Start** option from there as outlined for the second resolution.
 
 ![The Windows Management Instrumentation service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-management-instrumentation-service.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Repair Malwarebytes With Its Dedicated Support Tool
 
@@ -86,6 +78,10 @@ Here is how you can repair Malwarebytes with its support tool:
 ![The Repair System button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/repair-system-option.jpg)
 7. Select all four checkboxes for the**Repair System** option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Press the**Repair System** button.
 9. Restart your PC when prompted.
 
@@ -98,8 +94,16 @@ Here is how you can repair Malwarebytes with its support tool:
 ![The Scan options navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/scan-options.jpg)
 3. Click the radio button labeled**Full Scan** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Scan now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/scan-now-button.jpg)
 4. Press**Scan now** to start a Microsoft Defender scan.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reinstall Malwarebytes
 
@@ -110,10 +114,6 @@ Here is how you can repair Malwarebytes with its support tool:
 3. Click**Clean** and**Yes** to confirm the removal.  
 ![The Malwarebytes Cleanup dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/malwarebytes-cleanup-dialog.jpg)
 4. Select**OK** to restart the PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Click**Yes** in the window that pops up after the restart.
 6. Select**Yes** in the Reinstall Malwarebytes for Windows popup dialog box that opens.
@@ -141,22 +141,19 @@ Here is how you can repair Malwarebytes with its support tool:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-steps-to-initiate-and-join-an-android-based-zoom-meeting/"><u>[New] In 2024, Steps to Initiate and Join an Android-Based Zoom Meeting</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/5-best-distance-wifi-routers-to-upgrade-your-home-network/"><u>5 Best Distance WiFi Routers to Upgrade Your Home Network</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-beginners-guide-to-inshot-and-laptop-editing/"><u>A Beginner's Guide to Inshot and Laptop Editing</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/examining-realities-intertwined-what-is-mixed-reality/"><u>Examining Realities Intertwined What Is Mixed Reality?</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-strategies-for-overcoming-steam-service-errors-on-windows-11/"><u>Expert Strategies for Overcoming Steam Service Errors on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/harness-windows-11s-in-built-color-control-feature/"><u>Harness Windows 11’S In-Built Color Control Feature</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-address-the-d3dx9-34dll-is-not-detected-issue-effectively/"><u>How to Address the 'D3dx9_ 34.dll Is Not Detected' Issue Effectively</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-fix-wininetdll-not-found-or-missing-errors/"><u>How to Fix Wininet.dll Not Found or Missing Errors</u></a></li>
-<li><a href="https://windows11.techidaily.com/managing-screen-transition-aesthetics-on-pcs/"><u>Managing Screen Transition Aesthetics on PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-dialer-in-windows-11-os/"><u>Mastering the Dialer in Windows 11 OS</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-the-major-players-in-digital-media-facebook-twitter-instagram-and-youtube-strategies/"><u>Mastering the Major Players in Digital Media: Facebook, Twitter, Instagram, and YouTube Strategies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-chatgpt-for-educational-papers/"><u>Navigating ChatGPT for Educational Papers</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-silence-the-rhythm-an-expert-approach-to-drum-free-song-editing-online/"><u>New In 2024, Silence the Rhythm An Expert Approach to Drum-Free Song Editing Online</u></a></li>
-<li><a href="https://windows11.techidaily.com/quash-the-quirks-no-more-wandering-windows/"><u>Quash the Quirks: No More Wandering Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-power-of-a-fresh-start-for-your-windows-apps/"><u>The Power of a Fresh Start for Your Windows Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-7-decisions-to-make-before-acquiring-a-windows-model/"><u>Top 7 Decisions to Make Before Acquiring a WIndows Model</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-hidden-issues-causing-adobe-ps-not-launched/"><u>Unveiling Hidden Issues Causing Adobe PS Not Launched</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-easier-ways-to-document-your-youtube-videos/"><u>2024 Approved Easier Ways to Document Your YouTube Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/ai-horizons-redefining-windows-11-paradigms/"><u>AI Horizons: Redefining Windows 11 Paradigms</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-strategies-to-tackle-office-errors-a-winos-approach/"><u>Efficient Strategies to Tackle Office Errors: A WinOS Approach</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-your-win11-experience-learn-to-edit-faxes-easily/"><u>Enhancing Your Win11 Experience: Learn to Edit Faxes Easily</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Vivo Y78t? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-apple-iphone-xr-fixed-drfone-by-drfone-virtual-ios/"><u>In 2024, iSpoofer is not working On Apple iPhone XR? Fixed | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-streamline-your-content-transform-videos-into-playful-animation-gifs/"><u>In 2024, Streamline Your Content Transform Videos Into Playful Animation Gifs</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-post-sleep-device-awareness-procedures/"><u>Mastering Post-Sleep Device Awareness Procedures</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/microsoft-chatgpt-vs-google-gemini-ai-who-leads-in-smart-conversations/"><u>Microsoft ChatGPT Vs. Google Gemini AI: Who Leads in Smart Conversations?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/microsoft-os/"><u>Microsoft OSの最新バージョンを使った音楽トリミングテクニック紹介</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-samsung-galaxy-s23plus-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Samsung Galaxy S23+ Phone? Unlock It Now</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/into-position-handhran-balancing-tricks-for-2024/"><u>Snap Into Position Handhran Balancing Tricks for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-and-remedying-chromes-profile-anomalies/"><u>Unraveling and Remedying Chrome's Profile Anomalies</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-strategies-how-to-resolve-unison-issues-on-win11/"><u>Winning Strategies: How To Resolve Unison Issues on Win11</u></a></li>
 </ul></div>
 

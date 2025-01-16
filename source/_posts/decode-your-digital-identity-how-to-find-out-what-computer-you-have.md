@@ -1,7 +1,7 @@
 ---
 title: "Decode Your Digital Identity: How to Find Out What Computer You Have"
-date: 2024-08-15T15:11:46.722Z
-updated: 2024-08-16T15:11:46.722Z
+date: 2025-01-13T04:07:02.333Z
+updated: 2025-01-15T23:14:37.501Z
 tags:
   - windows10
   - windows11
@@ -18,9 +18,17 @@ thumbnail: https://thmb.techidaily.com/66485902527c2f60d68ff1756c39d95b2b9ff2d6a
 
  Whether you want to find the correct hardware upgrade for your computer or want to fix an issue, knowing about your computer model name can come in handy in various situations. Here are 6 quick ways to check your computer model name on Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Using the Settings App
 
 ![Checking System Name in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/system-name.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The quickest way to check your computer model name and number is through the Settings app. Simply, launch the**Settings app** (see [how to open the Settings app on Windows](https://www.makeuseof.com/windows-ways-to-open-system-settings/) ) and choose**System** from the left sidebar. You'll see your computer model name at the top of the System window.
 
@@ -37,9 +45,6 @@ thumbnail: https://thmb.techidaily.com/66485902527c2f60d68ff1756c39d95b2b9ff2d6a
 4. Check the**System Model** row in the right pane to know about your computer model name.  
 ![Checking System Model in System Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/system-model.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Using the DirectX Diagnostic Tool
 
  The DirectX Diagnostic Tool contains information about the DirectX components and drivers installed on your computer. You can also use this tool to get information like System model, BIOS, Processor, Memory, Page file, and more.
@@ -53,8 +58,13 @@ thumbnail: https://thmb.techidaily.com/66485902527c2f60d68ff1756c39d95b2b9ff2d6a
 ![System Model option in the DirectX Diagnostic Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/system-model-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Using the Command-Line Tools
 
  If you're an advanced Windows user, you can use the command-line tools, Windows PowerShell and Command Prompt, to know everything about your computer. Here's how to use the Command Prompt to check your computer model name:
@@ -62,9 +72,6 @@ thumbnail: https://thmb.techidaily.com/66485902527c2f60d68ff1756c39d95b2b9ff2d6a
 1. Open the Windows Search, type**Command Prompt** in the search bar, and press Enter.
 2. In the Command Prompt window, type**wmic csproduct get name** , and press Enter.  
 ![System model checking command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/system-model-checking-command.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 
 You'll see the model name on the console screen.
 
@@ -73,9 +80,6 @@ You'll see the model name on the console screen.
 `Get-CimInstance -ClassName Win32_ComputerSystem`
 
 ![Command to Check System name in Windows PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/command-to-check-system-name.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 
  In case you want to check your computer serial number, execute the following command in the PowerShell window.
 
@@ -83,9 +87,6 @@ You'll see the model name on the console screen.
 
 ![Command to Check System Serial number in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/command-to-check-system-serial-number.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Using the Manufacturer's Assistant App
 
 ![Checking System name using HP Support Assistant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hp-support-assistant.jpg)
@@ -93,6 +94,10 @@ You'll see the model name on the console screen.
  Most manufacturers nowadays offer an assistant app using which you can check your computer model name and number. For instance, if you're using an HP laptop, you can download the [HP Support Assistant app](https://support.hp.com/us-en/help/hp-support-assistant) to know everything about your computer.
 
  Similarly, you can download the assistant app of your manufacturer to check your computer's name.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. By Entering the BIOS
 
@@ -106,20 +111,16 @@ You'll see the model name on the console screen.
 4. Click the**Restart now** button next to**Advanced startup.** Your computer will not boot into Recovery mode.  
 ![Restart now button next to Advanced startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/restart-now-button.jpg)
 5. Navigate to**Troubleshoot** \>**Advanced options** \>**UEFI Firmware Settings** \>**Restart.**
-6. Usually, your computer will now boot straight into UEFI BIOS. But in some manufacturers like HP, you'll be welcomed with a**Startup** **Menu.** Choose**System Information** from the menu.  
-![Choosing System Information from the Startup menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/choosing-system-information.JPG)
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
-7. You can check your computer name in the System Information section.  
-![Checking Product name in System Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/checking-product-name.JPG)
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+6. Usually, your computer will now boot straight into UEFI BIOS. But in some manufacturers like HP, you'll be welcomed with a**Startup** **Menu.** Choose**System Information** from the menu.  
+![Choosing System Information from the Startup menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/choosing-system-information.JPG)
+7. You can check your computer name in the System Information section.  
+![Checking Product name in System Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/checking-product-name.JPG)
+
 ## Get to Know Your Computer's Model on Windows
 
  These were all the working ways using which you can know your computer model name. However there are many other methods to check the name, but the ones mentioned above are among the quickest and easiest.
@@ -130,8 +131,6 @@ You'll see the model name on the console screen.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,6 +138,21 @@ You'll see the model name on the console screen.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-pioneering-brands-spotlight-on-top-9-free-youtube-logos-craftors/"><u>[New] In 2024, Pioneering Brands Spotlight on Top 9 Free YouTube Logos Craftors</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-sharpening-screen-views-for-improved-virtual-interactions/"><u>[New] In 2024, Sharpening Screen Views for Improved Virtual Interactions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-unlock-clearer-livestreams-with-these-4-tips/"><u>[Updated] Unlock Clearer Livestreams with These 4 Tips</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-detailed-tutorial-implementing-custom-lut-filters-in-obs-productions/"><u>2024 Approved Detailed Tutorial Implementing Custom LUT Filters in OBS Productions</u></a></li>
+<li><a href="https://windows11.techidaily.com/access-control-microphone-and-camera-via-edge-protection/"><u>Access Control: Microphone and Camera via Edge Protection</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-oppo-reno-10-proplus-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Oppo Reno 10 Pro+ 5G</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-video-mastery-seizing-the-seo-opportunity/"><u>In 2024, YouTube Video Mastery Seizing the SEO Opportunity</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/oneplus-8t-analysis-swift-performance-marred-by-inconsistent-camera-quality/"><u>OnePlus 8T Analysis: Swift Performance Marred by Inconsistent Camera Quality</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-fixing-photography-packaging-issues-on-windows-11/"><u>Quick Guide: Fixing Photography Packaging Issues on Windows 11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-tecno-pop-7-pro-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Tecno Pop 7 Pro Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailored-security-implementing-custom-pattern-locks-in-windows/"><u>Tailored Security: Implementing Custom Pattern Locks in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/three-easy-steps-to-unlock-your-network-with-telnet-on-wins/"><u>Three Easy Steps to Unlock Your Network with Telnet on Wins</u></a></li>
+<li><a href="https://windows11.techidaily.com/unplugged-os-easy-win11-setup-without-internet/"><u>Unplugged OS: Easy Win11 Setup without Internet</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-mystery-of-winerrors-your-guide-to-fixes/"><u>Unraveling the Mystery of WinErrors: Your Guide to Fixes</u></a></li>
+</ul></div>
 

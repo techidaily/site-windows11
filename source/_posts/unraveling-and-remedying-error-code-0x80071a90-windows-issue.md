@@ -1,7 +1,7 @@
 ---
 title: "Unraveling and Remedying Error Code: 0X80071A90 Windows Issue"
-date: 2025-01-09T19:19:21.221Z
-updated: 2025-01-10T19:40:54.354Z
+date: 2025-01-09T23:16:10.331Z
+updated: 2025-01-15T16:44:10.269Z
 tags:
   - windows10
   - windows11
@@ -47,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once the security program is disabled, try enabling the targeted Windows feature again and check if the problem is now fixed. If the antivirus program happens to be the culprit, you can consider switching to a better alternative.
 
 ## 2\. Perform the Action in Safe Mode
@@ -56,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce
  This mode launches Windows with only the necessary drivers and services, allowing you to finish tasks without interference from third-party software.
 
  Once you[boot into Safe Mode on Windows](https://www.makeuseof.com/windows-11-boot-safe-mode/) , launch the Windows Features utility and try performing the action that was initially triggering the error. If a background process was leading to it, you should be able to enable the targeted feature without any problems now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Rebuild the WMI Repository
 
@@ -78,33 +78,33 @@ Follow these steps to proceed:
 `winmgmt /salvagerepositorywinmgmt /verifyrepositorywinmgmt /resetrepository`
 5. Wait for the commands to execute and then exit Command Prompt. You can now check if the issue is resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Try Some Generic Windows-Based Fixes for Errors
 
  If nothing else works, these general WIndows fixes can help you fix the issue:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Update Windows
 
 ![install windows 11 feature update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-windows-11-feature-update.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you haven’t installed the latest Windows updates in a while, then you might be facing the problem due to an outdated system. This can be due to a compatibility issue or because your system lacks updates/hotfixes that were released by Microsoft to address specific issues related to Windows features.
 
  In this case, we recommend taking your time to[install any pending Windows updates](https://www.makeuseof.com/windows-11-install-updates/) available. This will ensure that the drivers and software are compatible with the latest version of Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Check the System for Corruption Errors
 
 ![Run SFC scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sfc-scan-1-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In order to install or enable Windows features, the system relies on critical files and the Windows component store. If any of these files or the store becomes corrupted, it can impede the system's access to the necessary components for feature installation or enablement, leading to errors like the one at hand.
 
@@ -113,7 +113,7 @@ Follow these steps to proceed:
  Follow the correct steps for running SFC and DISM in Windows in our guide on[how to fix file system errors on Windows](https://www.makeuseof.com/fix-file-system-errors-windows/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Enable Your Windows Features Again
@@ -137,17 +137,19 @@ Follow these steps to proceed:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-to-distinguish-real-from-sham-on-your-instagram-circle-quickly/"><u>[Updated] How to Distinguish Real From Sham on Your Instagram Circle Quickly</u></a></li>
-<li><a href="https://win-online.techidaily.com/beheben-sie-den-fehlercode-0x80070643-beim-aktualisierungsprozess-von-windows-updates-version-kb5034441/"><u>Beheben Sie Den Fehlercode 0X80070643 Beim Aktualisierungsprozess Von Windows-Updates, Version KB5034441</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/essential-tech-for-new-channel-launches-for-2024/"><u>Essential Tech for New Channel Launches for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-chrono-translocation-techniques/"><u>In 2024, Mastering Chrono-Translocation Techniques</u></a></li>
-<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-samsung-galaxy-s24-ultra-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Samsung Galaxy S24 Ultra, is it possible?</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/radeon-hd-7850-graphics-driver-download-and-update-on-windows-10/"><u>Radeon HD 7850 Graphics Driver Download & Update on Windows 10</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/simple-step-by-step-guide-how-to-effortlessly-upgrade-your-samsung-laptop-with-an-ssd-kit/"><u>Simple Step-by-Step Guide: How to Effortlessly Upgrade Your Samsung Laptop with an SSD Kit</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-5-techniques-for-resolving-memory-corruption-issues-in-windows-11/"><u>Top 5 Techniques for Resolving Memory Corruption Issues in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-strategies-microsoft-should-implement-to-rescue-github-copilot-from-a-fate-similar-to-cortana/"><u>Top Strategies Microsoft Should Implement to Rescue GitHub Copilot From a Fate Similar to Cortana</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-the-windows-license-permits-just-one-display-language-issue-expert-advice/"><u>Troubleshooting the 'Windows License Permits Just One Display Language' Issue - Expert Advice</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-windows-11-issues-on-legacy-processors/"><u>Troubleshooting Windows 11 Issues on Legacy Processors</u></a></li>
-<li><a href="https://windows11.techidaily.com/weekly-tech-insights-atandt-data-leak-incident-and-latest-innovations-in-samsungs-phone-line-up/"><u>Weekly Tech Insights: AT&T Data Leak Incident & Latest Innovations in Samsung's Phone Line-Up</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-pro-free-mac-screen-logger/"><u>[Updated] 2024 Approved Pro-Free Mac Screen Logger</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-uniting-sections-smoothly-inshot-transition-essentials/"><u>[Updated] 2024 Approved Uniting Sections Smoothly Inshot Transition Essentials</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-poco-f5-pro-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Poco F5 Pro 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/gif-png-movavi/"><u>網路上無需付費，移植 GIF成 PNG - 使用 Movavi 變更器</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-the-endless-void-fixing-xbox-app-errors-in-win11/"><u>Avoiding the Endless Void: Fixing Xbox App Errors in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/comprehensive-solution-for-inaccessible-administrative-mode/"><u>Comprehensive Solution for Inaccessible Administrative Mode</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/get-directx-installed-in-a-flash-compatible-with-windows-11-and-10/"><u>Get DirectX Installed in a Flash: Compatible with Windows 11 and 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/getting-a-sneak-peek-of-windows-new-features-via-vivetool/"><u>Getting a Sneak Peek of Windows' New Features via ViVeTool</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Vivo X90S? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-from-apple-iphone-8-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account From Apple iPhone 8?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-leading-linux-editors-top-8-video-cutters/"><u>In 2024, Leading Linux Editors Top 8 Video Cutters</u></a></li>
+<li><a href="https://windows11.techidaily.com/syncing-sound-levels-across-windows-and-bt-audio-gear/"><u>Syncing Sound Levels Across Windows and BT Audio Gear</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-restoring-icon-clarity-on-your-pcs-desktop/"><u>Tips for Restoring Icon Clarity on Your PC's Desktop</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-ai-conversations-at-home-operate-a-local-free-chatgpt-clone-with-gpt4all-technology-on-windows-systems/"><u>Unlock AI Conversations at Home: Operate a Local, Free ChatGPT Clone with GPT4All Technology on Windows Systems</u></a></li>
 </ul></div>
 

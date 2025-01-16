@@ -1,7 +1,7 @@
 ---
 title: "Cybersecurity Commandments: Winning Access Prevention on Windows"
-date: 2024-08-08T06:02:01.697Z
-updated: 2024-08-09T06:02:01.697Z
+date: 2025-01-08T21:39:54.498Z
+updated: 2025-01-15T22:35:53.952Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/be8413a30f19599698e9b5b7f7e17b9eb5081fbfd
 
  This is what makes preventing unauthorized access so important. So, how can you protect yourself from an uninvited digital guest? Let's learn how.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What's the Point of Security Measures Against Unauthorized Windows Access?
 
  At its core, using strong security measures on your Windows is really just about that: keeping your security tight, so you are not open to abrupt attacks.
@@ -29,8 +33,9 @@ thumbnail: https://thmb.techidaily.com/be8413a30f19599698e9b5b7f7e17b9eb5081fbfd
  Putting in strong checks against such attacks, therefore, is essential. Let's look at all possible options on Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Use a Strong PIN or Password
 
  Passwords are often the first things that spring to mind when you think of security. It's for a good reason.
@@ -40,8 +45,9 @@ thumbnail: https://thmb.techidaily.com/be8413a30f19599698e9b5b7f7e17b9eb5081fbfd
 [Setting up a PIN on Windows](https://www.makeuseof.com/setup-remove-pin-windows-11/) is slightly different from putting a password on Windows. While both carry out a similar function, you might prefer one over the other depending on your interests. Whatever option you pick, make sure you always have a strong account encryption set up for your Windows from here on.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Set Up Two-Factor Authentication on Your Microsoft Account
 
  Two-factor authentication (2FA) is a common defense tactic for improving your account's security. As its name suggests, 2FA works by requiring two contact methods: your password and a contact method (which will be a security code sent to your phone or email).
@@ -50,16 +56,16 @@ thumbnail: https://thmb.techidaily.com/be8413a30f19599698e9b5b7f7e17b9eb5081fbfd
 
  You can check out how to do this and more as part of our [tricks to keep your Outlook and Microsoft accounts secure](https://www.makeuseof.com/tag/tricks-outlook-microsoft-account-secure/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Enable Windows Security
 
  While securing your PC from unknown physical access is a massive part of cyber-protection, it's not the only one. Today, Malware of enumerable type plagues the cyber-world.
 
  Weak antivirus protection can let any malware get an easy foothold on your PC, and from there, it's far too easy to obtain unauthorized access or take other malicious actions on your PC. [Enabling Windows Security](https://www.makeuseof.com/enable-windows-security-app-windows-10/) and setting up the best protection practices will be your best bet against such unauthorized action.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## 4\. Use a Firewall
 
 ![windows firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/winodws-firewall.jpg)
@@ -68,9 +74,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  On Windows, this firewall is called the Windows Firewall, which you can enable or disable with the help of Windows Security. So be sure to [set up Windows Firewall](https://www.makeuseof.com/windows-11-open-firewall-control-panel/) and you will be good to go.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Use BitLocker
 
  BitLocker works by encrypting the disk data on your Windows and works as a great second layer of defense. So, even if someone manages to access your PC, in the case of a theft, for example, they won't be able to access your data without a key.
@@ -85,14 +88,8 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  These regular updates are crucial to protect yourself from ever-evolving malware and hacks in the 21st century. So, make sure you have enabled automatic updates on your Windows, or at least [manually get your Windows updates regularly](https://www.makeuseof.com/update-windows-manually/).
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Keep Aware of Social Engineering Tactics
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![man looking at laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/man-looking-at-laptop.jpg)
 
 [Social engineering](https://www.makeuseof.com/tag/social-engineering-makeuseof-explains/) is about using clever hacks and manipulating people into giving or stealing their personal information. It makes use of the common weaknesses in human nature to break into otherwise strong systems.
@@ -107,13 +104,15 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  Because social engineering scams involve fooling humans, there are limited tech hacks to counter them. In fact, the most significant way to avoid them is by being mindful of the present moment and refraining from taking instant reactions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Best Ways to Stop Unauthorized Access to Your Windows Computer
 
  Your Windows is a goldmine for all sorts of data and information. Indeed, in the wrong hands, it can make things very difficult for you. Putting in measures that save you from unauthorized access is therefore a necessity, not a privilege.
 
  This is what makes preventing unauthorized access so important. So, how can you protect yourself from an uninvited digital guest? Let's learn how.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -121,4 +120,25 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-comprehensive-handbook-on-recording-notes-by-sound/"><u>[New] Comprehensive Handbook on Recording Notes by Sound</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-digital-nightmare-drawer/"><u>[New] In 2024, Digital Nightmare Drawer</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gain-massive-audience-on-youtube-in-minutes-2-ways/"><u>[Updated] 2024 Approved Gain Massive Audience on YouTube in Minutes (2 Ways)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-androids-leading-photographic-enhancers/"><u>[Updated] Android's Leading Photographic Enhancers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-whats-shaking-the-breaking-down-of-top-8-social-videos/"><u>[Updated] What's Shaking? The Breaking Down of Top 8 Social Videos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-amplify-your-videos-reach-perfect-title-description-and-tags/"><u>2024 Approved Amplify Your Video's Reach Perfect Title, Description & Tags</u></a></li>
+<li><a href="https://some-tips.techidaily.com/airpods-latest-version-launch-timeline-and-preorder-guide-exclusive-tips-from-zdnet/"><u>AirPods Latest Version Launch Timeline & Preorder Guide – Exclusive Tips From ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-info-on-keygen-malware-and-effective-windows-defense-techniques/"><u>Essential Info on Keygen Malware & Effective Windows Defense Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-merge-folders-and-files-in-windows-10-and-11/"><u>How to Merge Folders and Files in Windows 10 and 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-prolong-pin-length-strengthen-windows-11-security/"><u>How to Prolong Pin Length, Strengthen Windows 11 Security</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfecting-the-art-of-virtualizing-windows-11-in-vmware/"><u>Perfecting the Art of Virtualizing Windows 11 in VMware</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-ultimate-marketing-playbook-for-digital-beginners-on-reddit-for-2024/"><u>The Ultimate Marketing Playbook for Digital Beginners on Reddit for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-test-of-eero-pros-ability-to-bridge-your-whole-house-with-wi-fi/"><u>The Ultimate Test of Eero Pro's Ability to Bridge Your Whole House With Wi-Fi</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-null-device-error-on-win-11/"><u>Troubleshooting Null Device Error on Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-strategies-for-persistent-hibernate-issues/"><u>Win Strategies for Persistent Hibernate Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-maintenance-made-easy-the-most-effective-5-uptime-checks/"><u>Windows 11 Maintenance Made Easy: The Most Effective 5 Uptime Checks</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-hello-exposed-is-your-biometric-data-safe/"><u>Windows Hello Exposed: Is Your Biometric Data Safe?</u></a></li>
+</ul></div>
 

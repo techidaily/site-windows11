@@ -1,7 +1,7 @@
 ---
 title: "Mastering Admin Access: Unlocking Windows Control Panel"
-date: 2025-01-03T17:43:26.901Z
-updated: 2025-01-10T22:21:08.604Z
+date: 2025-01-09T07:44:54.651Z
+updated: 2025-01-16T08:31:43.099Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to open the Control Panel as an Administrator through Run Command
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 2. Type**control** or**control panel** in the search box and press**Ctrl + Shift + Enter** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. If User Account Control (UAC) pops up on your screen, click**Yes** to allow access.
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
  This will open up the Control Panel with elevated privileges so that you can make changes effectively and safely. And while we're at it, did you know there are many[ways to open the Control Panel on Windows](https://www.makeuseof.com/windows-11-open-control-panel/) ?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to Open the Control Panel as an Administrator With a Desktop Shortcut
@@ -57,22 +57,22 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 C:\WINDOWS\system32\control.exe
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. You now need to name your shortcut (Control Panel) and click**Finish** . Once you’ve created the shortcut, it will be placed on your desktop.  
 ![Open Control Panel Using Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-control-panel-using-desktop-shortcut.jpg)
 4. Next, right-click on the shortcut and select**Properties** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. On the Shortcut tab, click on**Advanced** .
 6. Check the**Run as administrator** box and click**OK** .
 7. Also, click**Apply > OK** in the Properties window.
 
  Now, whenever you need to access an elevated Control Panel, simply double-click on it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get the Most Out of Elevated Control Panel
 
@@ -93,20 +93,20 @@ C:\WINDOWS\system32\control.exe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-raw-footage-to-youtube-a-step-by-step-process-unveiled-for-2024/"><u>[Updated] From Raw Footage to YouTube A Step-by-Step Process Unveiled for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/drone-footage-battlegrounds-djis-pro-vs-gopro-hero3/"><u>Drone Footage Battlegrounds DJI's Pro VS GoPro HERO3</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effective-strategies-for-organizing-chatgpt-interactions-with-dedicated-folders/"><u>Effective Strategies for Organizing ChatGPT Interactions with Dedicated Folders</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-resolve-code-0x0001-issue-with-nvidia-experience/"><u>How to Resolve Code 0X0001 Issue with Nvidia Experience</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/identifying-power-users-in-niche-specific-instagram/"><u>Identifying Power Users in Niche-Specific Instagram</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-subtle-sonic-reduction-in-the-world-of-audio-editing/"><u>In 2024, Subtle Sonic Reduction in the World of Audio Editing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mits-innovative-solution-advancing-deep-learning-with-sub-photon-optics-for-enhanced-edge-computing/"><u>MIT's Innovative Solution: Advancing Deep Learning with Sub-Photon Optics for Enhanced Edge Computing</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/navigate-to-these-10-online-havens-showcasing-striking-3d-texts-for-2024/"><u>Navigate to These 10 Online Havens Showcasing Striking 3D Texts for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/non-procreate-windows-drawers-the-top-five/"><u>Non-Procreate Windows Drawers: The Top Five</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-common-windows-key-problems-including-the-enter-key/"><u>Overcoming Common Windows Key Problems, Including the Enter Key</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-windows-app-malfunctions-7-effective-strategies/"><u>Overcoming Windows App Malfunctions: 7 Effective Strategies</u></a></li>
-<li><a href="https://windows11.techidaily.com/return-to-simplicity-using-icons-for-the-windows-11-search-bar/"><u>Return to Simplicity: Using Icons for the Windows 11 Search Bar</u></a></li>
-<li><a href="https://facebook.techidaily.com/review-the-top-5-technology-flops/"><u>Review: The Top 5 Technology Flops</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-beginners-guide-to-old-championship-manager/"><u>The Ultimate Beginner's Guide to Old Championship Manager</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-the-power-of-three-column-widgets-in-win11/"><u>Unlocking the Power of Three-Column Widgets in Win11</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-essential-top-5-zero-cost-windows-10-screen-recorder-tools/"><u>[New] In 2024, Essential Top 5 Zero Cost Windows 10 Screen Recorder Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-rx-memory-treasure-for-2024/"><u>[New] RX Memory Treasure for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-youtube-seo-101-boost-your-videos-visibility/"><u>[New] YouTube SEO 101 Boost Your Video's Visibility</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-10-standout-applications-mastering-phone-and-computer-conferencing/"><u>[Updated] 2024 Approved 10 Standout Applications Mastering Phone & Computer Conferencing</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-reap-endless-visual-resources-via-four-prime-youtube-sites/"><u>[Updated] Reap Endless Visual Resources via Four Prime YouTube Sites</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oppo-a56s-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Oppo A56s 5G</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-handle-exception-breaking-point-issues-on-pc/"><u>How to Handle Exception Breaking Point Issues on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/ignite-vm-speed-and-stability-top-6-methods-to-enhance-in-windows/"><u>Ignite VM Speed and Stability: Top 6 Methods to Enhance in Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/imgburn/"><u>ImgBurn書き込み不可解消方法: エラーに見舞われたときの最適対応策</u></a></li>
+<li><a href="https://windows11.techidaily.com/integrated-thermal-management-windows-edition/"><u>Integrated Thermal Management: Windows Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-not-found-errors-on-pc-windows/"><u>Overcoming 'Not Found' Errors on PC Windows</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-iphone-14-pro-max-by-drfone-ios/"><u>Removing Device From Apple ID For your iPhone 14 Pro Max</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-sound-and-microphone-discrepancies-in-valorant/"><u>Resolving Sound and Microphone Discrepancies in Valorant</u></a></li>
+<li><a href="https://windows11.techidaily.com/synchronize-the-seconds-windows-time-repair-guide/"><u>Synchronize the Seconds: Windows Time Repair Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-high-memory-consumption-in-edges-webview2/"><u>Tackling High Memory Consumption in Edge's WebView2</u></a></li>
 </ul></div>
 

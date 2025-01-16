@@ -1,7 +1,7 @@
 ---
 title: Remedying Camera Unresponsive on Windows 11
-date: 2025-01-05T18:13:41.468Z
-updated: 2025-01-10T18:29:23.231Z
+date: 2025-01-11T15:14:45.006Z
+updated: 2025-01-16T10:04:04.339Z
 tags:
   - windows10
   - windows11
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Apply Some Preliminary Checks
 
  Start diagnosing the problem by applying the following preliminary checks first, as they may resolve the issue immediately:
@@ -46,11 +42,19 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 
 ![Logitech webcam on monitor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/logitech-webcam-on-monitor.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
   If you encounter the **"We can't find your camera"** error on your PC, where you have an external webcam, ensure it is properly connected. Check that both ends of the cable connecting the webcam to your device are plugged in correctly, and ensure the cable is in good condition.
 
  Also, you can unplug the cable from the port the camera is currently connected to and connect it to another port to eliminate issues with its port. Likewise, you should disconnect and reconnect the camera from your device to ensure it's not a temporary glitch causing the error under discussion.
 
  If the above tweaks don't fix the issue or you're experiencing the error on a laptop featuring an integrated webcam, move on to the next step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Ensure That the Camera Isn't Disabled in Windows Settings
 
@@ -64,23 +68,11 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 ![Go to Camera Settings in the Bluetooth and Devices Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/1-go-to-camera-settings-in-the-bluetooth-and-devices-tab-of-the-windows-settings-app.jpg)
 4. If the primary camera is disabled here, click the **Enable** button to enable it again.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Enable the Camera in the Bluetooth and Devices Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/2-enable-the-camera-in-the-bluetooth-and-devices-tab-of-the-windows-settings-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In case the camera is already enabled, continue to the next step.
 
  If no camera is listed under **Connected cameras**, the system has failed to detect any camera on your device. If that is the case, recheck the camera connection.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Run the Camera and Microsoft Store Apps Troubleshooters
 
@@ -89,12 +81,16 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 ![The Camera troubleshooting window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/camera-troubleshooter-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Windows also offers another troubleshooter called Windows Store Apps, which helps scan and fix problems with Microsoft Store apps (formerly known as Windows Store). Since the Camera app is a Microsoft Store app, running this troubleshooter might also help resolve issues with it.
 
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-windows-store-apps-troubleshooter.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Therefore, follow our guide on [how to run any troubleshooter in Windows 10 and 11](https://www.makeuseof.com/run-troubleshooter-windows-10-11/) to run the Camera and Windows Store Apps troubleshooter.
 
@@ -105,6 +101,10 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
  To check that, open the Settings app, select the **Privacy and Security** tab, and navigate to **App permissions**. Here, click **Camera**, and enable the permission for the app that's giving you the "we can't find your camera" error.
 
 ![Enable the Camera Access in the Privacy and Security Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/3-enable-the-camera-access-in-the-privacy-and-security-tab-of-the-windows-settings-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Update, Reinstall, or Rollback the Camera Drivers
 
@@ -119,7 +119,7 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 ![Uninstall the Camera Driver From Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/5-uninstall-the-camera-driver-from-windows-device-manager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Roll back the driver update if you have encountered the issue under discussion after updating the driver. To do so, right-click the driver and select **Properties**. Navigate to the **Driver** tab and click **Roll Back Driver**.
@@ -152,14 +152,24 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-from-idea-to-airwaves-crafting-compelling-podcast-scripts/"><u>[New] In 2024, From Idea to Airwaves Crafting Compelling Podcast Scripts</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/he-ultimate-guide-to-student-centric-historical-yt-channels/"><u>[New] The Ultimate Guide to Student-Centric Historical YT Channels</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-elevate-your-biz-game-utilizing-snapchat-features/"><u>[Updated] 2024 Approved Elevate Your Biz Game Utilizing Snapchat Features</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/a-comprehensive-guide-to-understanding-and-utilizing-claude-erp-machine-learning-technology/"><u>A Comprehensive Guide to Understanding and Utilizing Claude Erp Machine Learning Technology</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-outlooks-restricted-folder-access-on-desktop-computers/"><u>Fixing Outlook's Restricted Folder Access on Desktop Computers</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Xiaomi Redmi Note 12 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/safe-journey-in-windows-11-the-top-8-slippery-slope/"><u>Safe Journey in Windows 11: The Top 8 Slippery Slope</u></a></li>
-<li><a href="https://windows11.techidaily.com/upgrade-video-quality-from-yesteryears-using-madvr-windows-edition/"><u>Upgrade Video Quality From Yesteryears Using MadVR, Windows Edition</u></a></li>
-<li><a href="https://windows11.techidaily.com/winning-the-game-of-cutting-top-8-video-edits-for-pc/"><u>Winning the Game of Cutting: Top 8 Video Edits for PC</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-elite-gaming-spectacle-cut-to-best-7-shooters-for-2024/"><u>[New] Elite Gaming Spectacle Cut to Best 7 Shooters for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-straightforward-tips-for-mastering-simple-hdr-photography/"><u>[Updated] In 2024, Straightforward Tips for Mastering Simple HDR Photography</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-panopticon-perspective-analysis/"><u>[Updated] Panopticon Perspective Analysis</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-price-tag-shooting-your-next-music-video/"><u>[Updated] Price Tag Shooting Your Next Music Video</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlock-the-art-of-iphone-photography-skill-building-tips/"><u>[Updated] Unlock the Art of iPhone Photography Skill-Building Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/banishing-0x800704b3-error-from-your-win1011-system/"><u>Banishing 0X800704B3 Error From Your Win10/11 System</u></a></li>
+<li><a href="https://windows11.techidaily.com/discover-the-hidden-potential-in-windows-powertoys-10-applications/"><u>Discover the Hidden Potential in Windows PowerToys' 10 Applications</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/get-fallout-4-running-smoothly-again-on-pc-error-free-gaming-tips/"><u>Get Fallout 4 Running Smoothly Again on PC - Error-Free Gaming Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-productivity-with-windows-11-calendar/"><u>Maximizing Productivity with Windows 11 Calendar</u></a></li>
+<li><a href="https://windows11.techidaily.com/n-series-window-enigma-deciding-factors/"><u>N-Series Window Enigma: Deciding Factors</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-best-free-video-cutting-software-for-mp4-files-for-2024/"><u>New Best Free Video Cutting Software for MP4 Files for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-system-limit-fixing-gpt-windows-problems/"><u>Overcoming System Limit: Fixing GPT Windows Problems</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-synthesis-how-meditation-transforms-cognition-and-emotion/"><u>Seamless Synthesis: How Meditation Transforms Cognition & Emotion</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/streaming-with-fubo-on-fire-stick-heres-how-you-can-do-it/"><u>Streaming with Fubo on Fire Stick? Here's How You Can Do It!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138576981-9780595828135-taste-your-emotions/"><u>Taste Your Emotions | Free Book</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-power-of-search-implementing-it-in-win11s-task-monitor/"><u>Unlock the Power of Search: Implementing It in Win11's Task Monitor</u></a></li>
+<li><a href="https://windows11.techidaily.com/unmasking-profit-making-mechanisms-for-w11-at-microsoft/"><u>Unmasking Profit Making Mechanisms for W11 at Microsoft</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-times-ticking-off-align-it-back/"><u>Windows Time's Ticking Off? Align It Back!</u></a></li>
 </ul></div>
 

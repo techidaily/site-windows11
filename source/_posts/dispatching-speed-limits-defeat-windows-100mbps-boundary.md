@@ -1,7 +1,7 @@
 ---
 title: "Dispatching Speed Limits: Defeat Windows' 100Mbps Boundary"
-date: 2024-08-08T05:59:56.929Z
-updated: 2024-08-09T05:59:56.929Z
+date: 2025-01-10T23:33:12.679Z
+updated: 2025-01-15T18:43:05.590Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/db6e8bb5b9330de241494205e28fd162607bcee64
 
  Likewise, misconfigured Ethernet adapter speed settings, incompatible or corrupted drivers, and technical difficulties with the ISP can also limit speed. If you want your Ethernet connection to surpass 100Mbps, here are a few checks and fixes you should try.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Check Your Internet Plan
 
 ![wifi speed test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/wifi-speed-test.jpg)
@@ -42,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/db6e8bb5b9330de241494205e28fd162607bcee64
 
  If none of the above checks uncaps the internet speed, it's time to move on to the remaining fixes
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## 3\. Ensure Your Network Card Supports Gigabit Speed
 
  The Ethernet Card, also known as the Network Interface Card, connects your computer to the internet via an Ethernet cable. If you have an old computer, the adapter installed may not be capable of delivering over 100Mbps. Therefore, ensuring that your card supports the gigabit connection is imperative.
@@ -58,23 +52,23 @@ thumbnail: https://thmb.techidaily.com/db6e8bb5b9330de241494205e28fd162607bcee64
 5. Select **Speed and Duplex** from the **Property** column, then expand the **Value** dropdown.  
 ![Speed and Duplex Settings in the Network Adapter Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/speed-and-duplex-settings-in-the-network-adapter-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If **1.0 Gbps Full Duplex** is listed, your card supports gigabit connectivity. Your card does not support gigabit connections if **100 Mbps Full Duplex** is the highest value listed. In any case, select **Auto Negotiation** from the **Value** dropdown in the network adapter settings if any other value is selected.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Ensure Your Router Supports Gigabit Connection
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ![a close up shot of router ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/modern-wifi-router-ports.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Like your network card, your router should also be capable of delivering 100Mbps+ speeds. You can check that by looking at the router's documentation or description on the manufacturer's website. If the router manufacturer claims this specific model is a gigabit router, it can likely deliver gigabit speeds.
 
@@ -82,9 +76,6 @@ thumbnail: https://thmb.techidaily.com/db6e8bb5b9330de241494205e28fd162607bcee64
 
  If your router doesn't support a gigabit connection, you will have no choice but to switch to one that does.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ## 5\. Get a High-Category Ethernet Cable
 
 ![CAT5, CAT5e, CAT6, CAT6A Ethernet cables](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/02-picture-showing-cat5-cat5e-cat6-cat6a-ethernet-cables.jpg)
@@ -105,14 +96,19 @@ thumbnail: https://thmb.techidaily.com/db6e8bb5b9330de241494205e28fd162607bcee64
 
  Some routers allow users to switch between gigabit and 100Mbps speeds. If your router offers this option, opt for the 1Gbps connection.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Rule Out Any Hardware Issues
 
  If none of the above fixes resolve the issue, it's time to check for and rule out hardware problems thoroughly.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![image of ethernet cables connected to router](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ethernet-router-connection.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Start the hardware inspection by checking both ends of the Ethernet cable where cable connectors are installed. Ensure both connectors are in good condition and all internal wires/conductors are pushed to the end and aren't falling off.
 
@@ -120,9 +116,6 @@ thumbnail: https://thmb.techidaily.com/db6e8bb5b9330de241494205e28fd162607bcee64
 
  If the cable is intact, examine the Ethernet ports on your router and laptop. If any of the ports appears damaged, you should switch to another one (if available).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## Get the Most Out of Your Ethernet Connection on Windows
 
  Getting 100Mbps when subscribed to a higher-speed plan can be pretty frustrating. By now, you should better understand why the connection speed could be capped at 100Mbps. If you carefully follow all the steps listed above, you will likely be able to identify the leading cause and remove any restrictions.
@@ -131,12 +124,33 @@ thumbnail: https://thmb.techidaily.com/db6e8bb5b9330de241494205e28fd162607bcee64
 
  Likewise, misconfigured Ethernet adapter speed settings, incompatible or corrupted drivers, and technical difficulties with the ISP can also limit speed. If you want your Ethernet connection to surpass 100Mbps, here are a few checks and fixes you should try.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-newcomer-to-pro-a-step-by-step-creator-hub-guidebook/"><u>[New] In 2024, From Newcomer to Pro A Step-by-Step Creator Hub Guidebook</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-innovative-pathways-ensuring-correct-iphone-snapchat-data-flow/"><u>[Updated] 2024 Approved Innovative Pathways Ensuring Correct iPhone-Snapchat Data Flow</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-simplifying-content-acquisition-via-funimate/"><u>[Updated] 2024 Approved Simplifying Content Acquisition via Funimate</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-pcmaclaptop-easy-obs-setup-for-fb-livestreaming/"><u>2024 Approved PC/Mac/Laptop Easy OBS Setup for FB Livestreaming</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-lava-blaze-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-tutorial-on-utilizing-the-driver-easy-for-smartphones/"><u>Comprehensive Tutorial on Utilizing the Driver Easy for Smartphones</u></a></li>
+<li><a href="https://windows11.techidaily.com/expeditious-windows-11-app-accessibility/"><u>Expeditious Windows 11 App Accessibility</u></a></li>
+<li><a href="https://windows11.techidaily.com/explore-the-full-potential-of-windows-powertoys-with-these-10-tips/"><u>Explore the Full Potential of Windows PowerToys with These 10 Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-enable-controlled-folder-access-in-windows-11-and-11/"><u>How to Enable Controlled Folder Access in Windows 11 & 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-asus-rog-phone-7-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Asus ROG Phone 7?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-optimize-visual-output-with-free-luts-in-your-obs-studio-setup/"><u>In 2024, Optimize Visual Output with Free LUTs in Your OBS Studio Setup</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-cell-phone-packages-for-seniors-ranked-exclusive-picks/"><u>Leading Cell Phone Packages for Seniors Ranked: Exclusive Picks</u></a></li>
+<li><a href="https://windows11.techidaily.com/reclaiming-your-controllers-functionality-in-windows/"><u>Reclaiming Your Controller’s Functionality in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/reimagining-your-windows-profile-a-new-username-approach/"><u>Reimagining Your Windows Profile: A New UserName Approach</u></a></li>
+<li><a href="https://windows11.techidaily.com/reversing-file-locks-on-windows-os/"><u>Reversing File Locks on Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-global-mouse-navigation-made-simple-with-powertoys/"><u>Seamless Global Mouse Navigation Made Simple with PowerToys</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-managing-your-windows-devices-via-printer-settings/"><u>The Ultimate Guide to Managing Your Windows Devices via Printer Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/unheard-voices-a-guide-to-fixing-windows-microphone-issues-on-meet/"><u>Unheard Voices: A Guide to Fixing Windows Microphone Issues on Meet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/virtueel-versterken-van-bmp-bestandjes-de-gekonteurde-oplossing-door-movavi-vrije-dienst/"><u>Virtueel Versterken Van BMP-Bestandjes: De Gekonteurde Oplossing Door Movavi - Vrije Dienst!</u></a></li>
+</ul></div>
 

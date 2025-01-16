@@ -1,7 +1,7 @@
 ---
 title: How to Change What the Fn Keys Do in Windows 10 and 11
-date: 2025-01-09T17:51:25.394Z
-updated: 2025-01-10T20:30:40.335Z
+date: 2025-01-11T11:29:18.753Z
+updated: 2025-01-16T02:09:20.737Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 
  We have a detailed[guide to function keys](https://www.makeuseof.com/windows-function-keys-guide/) where we discuss what all 12 keys do. You can check it out for more insight on the topic.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Change the Function Key Settings Using the Mobility Settings on Dell Computers
 
  The easiest way to change function keys is by modifying settings within the Windows Mobility Center. This method, however, will only work for those of you using a Dell device.
@@ -51,10 +55,14 @@ Here is how to proceed:
 6. Select**Multimedia key** if you want to use the F keys to perform functions that typically require pressing the Fn key.  
 ![Multimedia key in Windows Mobility Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/windows-mobility-center-multimedia-key-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you own other devices, then you might want to look for similar options in the System or keyboard settings. You can also search the manufacturer’s official website for information regarding such customizations.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to Modify the Function Keys Settings in the BIOS
@@ -88,6 +96,10 @@ Similarly, if you have an Acer device, follow these steps:
 ![Recovery settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/update-and-security-recovery.jpg)
 3. Choose Restart now.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Restart now button in Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/restart-now.jpg)
 
 If you are a Windows 11 user, follow these steps:
@@ -104,17 +116,9 @@ If you are a Windows 11 user, follow these steps:
 ![UEFI Firmware settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/advanced-options-startup.jpg)
 3. In the following window, head over to the**Configuration** tab.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Select the**Hotkey Mode** and click on**Enabled** or**Disabled** .  
 ![hotkey-mode-disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/hotkey-mode-disabled.jpg)
 5. Click**Save** and then press**Exit** to sign out of BIOS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Enable the Fn Lock
 
@@ -123,10 +127,6 @@ If you are a Windows 11 user, follow these steps:
  In most keyboards, the Fn lock is associated with the Esc key, but it can be different in your device. Typically, these keys have a lock icon on them. You can use the manufacturer’s website to find the lock on your device if you cannot locate a key with a lock icon.
 
  Once you have found the key, hold the Fn key and press the lock key. This will enable the function. You can follow the same steps for disabling it in the future.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is It a Good Idea To Change Fn Key Settings?
 
@@ -143,7 +143,7 @@ If you are a Windows 11 user, follow these steps:
  Ultimately, whether it is a good idea to change the Fn key settings or not will depend on how you use your computer and what you prefer. We recommend weighing the pros and cons and consider your usage patterns before you make a decision.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Use the Function Keys Like a Pro
@@ -165,17 +165,21 @@ If you are a Windows 11 user, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-add-timestamps-youtube-video/"><u>[New] In 2024, How to Add Timestamps YouTube Video?</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-verifying-realness-in-instagrams-visual-identity-expressions/"><u>[New] Verifying Realness in Instagram's Visual Identity Expressions</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-the-process-of-verifying-your-youtube-id/"><u>2024 Approved Navigating the Process of Verifying Your YouTube ID</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-premier-screen-capture-device-essential-for-video-sharers/"><u>2024 Approved Premier Screen Capture Device Essential for Video Sharers</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-flawed-setups-a-guide-to-windo-package-fixing/"><u>Fixing Flawed Setups: A Guide to Windo Package Fixing</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-honor-x50i-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Honor X50i FRP In 3 Different Ways</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigational-aids-shortcut-mastery-with-windows-narrator/"><u>Navigational Aids: Shortcut Mastery with Windows Narrator</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/premium-picks-recommended-portals-for-acquiring-snapalert-melodies-for-2024/"><u>Premium Picks Recommended Portals for Acquiring SnapAlert Melodies for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/reviving-grammarly-steps-to-reactivate-it/"><u>Reviving Grammarly: Steps to Reactivate It</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/step-by-step-guide-to-installing-windows-11-without-tpm-and-bypassing-secure-boot-requirements-effortlessly/"><u>Step-by-Step Guide to Installing Windows 11 Without TPM and Bypassing Secure Boot Requirements Effortlessly</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-windows-10-resolving-error-0x80042306-with-system-restore/"><u>Troubleshooting Windows 10: Resolving Error 0X80042306 with System Restore</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unraveling-the-mystery-of-non-exporting-srt-in-premiere/"><u>Unraveling the Mystery of Non-Exporting SRT in Premiere</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/reaking-into-the-world-of-youtube-stellar-intros-in-imovie-for-2024/"><u>[New] Breaking Into the World of YouTube Stellar Intros in iMovie for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-revamp-iphone-photos-effective-red-eye-removal-for-free/"><u>[New] In 2024, Revamp iPhone Photos Effective Red-Eye Removal for FREE</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-advanced-techniques-for-syncing-b-roll-with-main-shots/"><u>[Updated] Advanced Techniques for Syncing B-Roll with Main Shots</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-ultimate-how-to-for-multi-snapping-with-snapchat/"><u>[Updated] In 2024, The Ultimate How-To for Multi-Snapping with Snapchat</u></a></li>
+<li><a href="https://windows11.techidaily.com/10-command-prompt-wonders-you-didnt-know/"><u>10 Command Prompt Wonders You Didn’t Know!</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-unveiling-the-secrets-of-video-editing-on-youtube/"><u>2024 Approved Unveiling the Secrets of Video Editing on YouTube</u></a></li>
+<li><a href="https://extra-information.techidaily.com/advanced-zooming-methods-for-distance-communication-with-msteams-for-2024/"><u>Advanced Zooming Methods for Distance Communication with MSTEAMS for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/dissecting-the-absence-of-drive-letters-in-windows-environments/"><u>Dissecting the Absence of Drive Letters in Windows Environments</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-advice-overcoming-printer-error-0xfffffff/"><u>Expert Advice: Overcoming Printer Error 0xFFFFFFF</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-unlock-and-reset-restricted-program-status/"><u>How to Unlock and Reset Restricted Program Status</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-navigation-finding-and-using-the-start-menu-in-windows-11/"><u>Mastering Navigation: Finding and Using the Start Menu in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-win11-pointer-adjustments-for-access/"><u>Mastering Win11 Pointer Adjustments for Access</u></a></li>
+<li><a href="https://windows11.techidaily.com/recover-lost-pin-following-system-breakdown-on-windows-11/"><u>Recover Lost PIN Following System Breakdown on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-completely-removing-wsl-in-win-11/"><u>Step-by-Step: Completely Removing WSL in Win 11</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/text-and-title-effect-types-in-after-effects/"><u>Text and Title Effect Types in After Effects</u></a></li>
+<li><a href="https://program-issues.techidaily.com/xbox-live-outage-current-server-status-update/"><u>Xbox Live Outage - Current Server Status Update</u></a></li>
 </ul></div>
 

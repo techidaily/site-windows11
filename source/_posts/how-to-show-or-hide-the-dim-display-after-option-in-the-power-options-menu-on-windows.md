@@ -1,7 +1,7 @@
 ---
 title: How to Show or Hide the “Dim Display After” Option in the Power Options Menu on Windows
-date: 2025-01-04T22:33:01.520Z
-updated: 2025-01-10T17:59:21.249Z
+date: 2025-01-08T20:41:26.131Z
+updated: 2025-01-16T03:49:51.593Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/344ccd42970473c822ce3d8647d1f132f07ed11b1
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Show or Hide the “Dim Display After” Option Using PowerShell
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/344ccd42970473c822ce3d8647d1f132f07ed11b1
  First, launch Windows PowerShell. There are many [ways to open PowerShell on Windows](https://www.makeuseof.com/windows-open-command-prompt-powershell/), but the easiest method is to press **Win + S** to open Windows Search. Then, enter **powershell** in the search box and click on **Windows PowerShell** when it appears in the search results.
 
 ![windows powershell in the windows search results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-powershell-search.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In PowerShell, enter the following command to show the **Dim Display after** option in the Power Options menu:
 
@@ -50,7 +46,7 @@ powercfg -attributes SUB_VIDEO 17aaa29b-8b43-4b94-aafe-35f64daaf1ee +ATTRIB_HIDE
  After entering the command you want, hit the **Enter** key on your keyboard for PowerShell to execute it. Afterward, the **Dim display after** option should appear or disappear accordingly in the Power Options menu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Show or Hide the “Dim display after” Option Using the Registry Editor
@@ -58,6 +54,10 @@ powercfg -attributes SUB_VIDEO 17aaa29b-8b43-4b94-aafe-35f64daaf1ee +ATTRIB_HIDE
  Considering how vital the [Windows Registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) is for the smooth operation of Windows, you might want to [back up the registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before you edit it. Afterward, open the Registry Editor by pressing **Win + R**, typing **regedit** in the text box, and clicking **OK**.
 
 ![regedit](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/regedit.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click **Yes** to bypass the UAC prompt.
 
@@ -69,18 +69,18 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\7516b95f
 
 ![the attributes entry in the windows registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/regedit-dim-display-after-attributes-entry.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then, in the **Value data** text box, enter **1** to hide **Dim display after** in the Power Options menu or **2** to show it.
 
 ![modifying the attributes dword in the windows registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/win-attributes-dword.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now you can open the Power Options menu (see [how to open the power options on Windows 10](https://www.makeuseof.com/windows-10-open-power-options/)) and check under **Display** to see if the **Dim display after** option is there or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Controlling the “Dim Display After” Option in the Power Options Menu
@@ -102,21 +102,19 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\7516b95f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-how-mycam-changes-video-recording-at-home-an-in-depth-review-for-2024/"><u>[New] How MyCam Changes Video Recording at Home – An In-Depth Review for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-streamline-your-video-production-ipad-time-lapse-for-2024/"><u>[New] Streamline Your Video Production IPad Time-Lapse for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-advice-remedying-non-boot-virtual-machines-on-wm11os/"><u>Expert Advice: Remedying Non-Boot Virtual Machines on WM11OS</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-x-hack-add-a-countdown-timer-in-3-easy-steps-for-2024/"><u>Final Cut Pro X Hack Add a Countdown Timer in 3 Easy Steps for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/halt-auto-restarts-windows-11-troubleshooting/"><u>Halt Auto Restarts: Windows 11 Troubleshooting</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-oppo-find-x7-ultra-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Oppo Find X7 Ultra to iPod | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/identifying-and-defending-yourself-against-fraudgpts-perils-in-the-digital-world/"><u>Identifying and Defending Yourself Against FraudGPT's Perils in the Digital World</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-capturing-clarity-best-practices-for-iphone-photo-cropping/"><u>In 2024, Capturing Clarity Best Practices for iPhone Photo Cropping</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-motorola-moto-g04-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Motorola Moto G04 Device</u></a></li>
-<li><a href="https://windows11.techidaily.com/methods-disabling-lock-screen-on-modern-windows-11/"><u>Methods: Disabling Lock Screen on Modern Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamless-apple-calendar-sync-in-windows-11-environments/"><u>Seamless Apple Calendar Sync in Windows 11 Environments</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-for-addressing-blackwhite-monochrome-in-shop/"><u>Strategies for Addressing Black/White Monochrome in Shop</u></a></li>
-<li><a href="https://windows11.techidaily.com/transform-your-workflow-the-best-6-apps-for-to-do-list-management-on-win-11/"><u>Transform Your Workflow: The Best 6 Apps for To-Do List Management on Win 11</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-list-steam-decks-top-gaming-picks/"><u>Ultimate List: Steam Deck's Top Gaming Picks</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-and-overcoming-display-errors-in-win1011/"><u>Understanding and Overcoming Display Errors in Win10/11</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-the-secret-to-captivating-videos-freeze-frames-made-easy/"><u>Updated 2024 Approved The Secret to Captivating Videos Freeze Frames Made Easy</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-humor-at-your-fingertips-complimentary-toolset/"><u>[New] Humor at Your Fingertips - Complimentary Toolset</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-comparing-nikon-d7500-and-mirrorless-rivals/"><u>[New] In 2024, Comparing Nikon D7500 and Mirrorless Rivals</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-most-reliable-7-free-tools-to-extract-video-tags-on-youtube/"><u>[Updated] The Most Reliable 7 Free Tools to Extract Video Tags on YouTube</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-unique-windows-methods-for-launching-applications/"><u>7 Unique Windows Methods for Launching Applications</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/discover-the-leading-windows-10-programs-for-efficient-iphone-file-restoration-and-management/"><u>Discover the Leading Windows 10 Programs for Efficient iPhone File Restoration and Management</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-maximize-your-podcasts-potential-with-top-audio-equipment/"><u>In 2024, Maximize Your Podcast's Potential with Top Audio Equipment</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-techniques-for-an-opening-windows-terminal/"><u>Mastering Techniques for an Opening Windows Terminal</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-touchpad-sensitivity-in-windows-11-devices/"><u>Mastering Touchpad Sensitivity in Windows 11 Devices</u></a></li>
+<li><a href="https://fox-info.techidaily.com/pros-cons-and-guide-to-utilizing-samsung-photo-editor-for-2024/"><u>Pros, Con's, and Guide to Utilizing Samsung PHOTO EDITOR for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-steps-to-launch-wordpad-on-windows/"><u>Seamless Steps to Launch WordPad on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-resolving-windows-11s-isdonedll-problems/"><u>Strategies for Resolving Windows 11'S ISDone.dll Problems</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-inactive-mail-signals-on-desktop-os/"><u>Tackling Inactive Mail Signals on Desktop OS</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/top-audio-hijack-pro-substitutes-ultimate-guide-for-mac-and-pc-users/"><u>Top Audio Hijack Pro Substitutes: Ultimate Guide for Mac & PC Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-common-lag-issues-in-the-popular-game-outrider/"><u>Troubleshooting Common Lag Issues in the Popular Game Outrider</u></a></li>
 </ul></div>
 

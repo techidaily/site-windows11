@@ -1,7 +1,7 @@
 ---
 title: Navigating Windows to Confirm Disk Type
-date: 2025-01-07T23:09:51.982Z
-updated: 2025-01-10T18:07:37.092Z
+date: 2025-01-10T11:11:21.938Z
+updated: 2025-01-16T06:37:20.800Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/59ebf54bbd2728b1cee67f80e126289c9f6737977
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Check if You Have an HDD or SSD Using the Task Manager
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/59ebf54bbd2728b1cee67f80e126289c9f6737977
 ![Check the Type of Drive You Have in the Performance Tab of Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/check-the-type-of-drive-you-have-in-the-performance-tab-of-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To view other details about the selected drive, such as its capacity, write speed, average response time, and more, simply choose **Disk 0** or **Disk 1**—the SSD drive you want to learn more about. Task Manager will show the other details about the drive you selected on the lower side of the screen.
@@ -48,11 +48,11 @@ thumbnail: https://thmb.techidaily.com/59ebf54bbd2728b1cee67f80e126289c9f6737977
 ![Check Other Details of the Storage Drive in the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/check-other-details-of-the-storage-drive-in-the-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Now You Know Which Drive You Have on Windows
@@ -71,22 +71,18 @@ thumbnail: https://thmb.techidaily.com/59ebf54bbd2728b1cee67f80e126289c9f6737977
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-mastering-subscription-the-art-of-positive-engagement/"><u>[New] In 2024, Mastering Subscription The Art of Positive Engagement</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-deciphering-youtubes-cc-policy-for-video-makers/"><u>[Updated] In 2024, Deciphering YouTube's CC Policy for Video Makers</u></a></li>
-<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-nokia-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Nokia FRP</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installing-updated-video-card-software-for-your-toshiba-notebook-windows-edition/"><u>Installing Updated Video Card Software for Your Toshiba Notebook - Windows Edition</u></a></li>
-<li><a href="https://windows11.techidaily.com/launching-startup-repair-in-windows-a-guide/"><u>Launching Startup Repair in Windows: A Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/lenovo-bluetooth-drivers-download-and-update-for-windows-710-100-safe/"><u>Lenovo Bluetooth Drivers Download & Update for Windows 7/10 [100% Safe]</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-past-s-mode-a-windows-users-roadmap/"><u>Navigating Past 'S Mode': A Windows User's Roadmap</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-error-0x80070194-on-windows-onedrive/"><u>Overcoming Error 0X80070194 on Windows' OneDrive</u></a></li>
-<li><a href="https://windows11.techidaily.com/power-up-your-command-line-discover-the-top-20-cmd-commands/"><u>Power Up Your Command Line: Discover the Top 20 CMD Commands</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-steam-cloud-connectivity-issues/"><u>Resolving Steam Cloud Connectivity Issues</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/step-by-step-for-beginner-3d-lut-masters/"><u>Step-by-Step for Beginner 3D LUT Masters</u></a></li>
-<li><a href="https://windows11.techidaily.com/techniques-to-govern-devices-on-slumbering-pcs/"><u>Techniques to Govern Devices on Slumbering PCs</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/uncover-top-8-sites-offering-free-3d-text-psd-images-and-files-for-2024/"><u>Uncover Top 8 Sites Offering FREE 3D Text PSD Images and Files for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-the-power-of-openais-whisper-on-your-windows-pc/"><u>Unveiling the Power of OpenAI's Whisper on Your Windows PC</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-final-cut-pro-x-troubleshooting-a-step-by-step-reset-guide-for-2024/"><u>Updated Final Cut Pro X Troubleshooting A Step-by-Step Reset Guide for 2024</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-reinstall-your-hardware-drivers-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to reinstall your hardware drivers in Windows 11 & 10 & 7</u></a></li>
-<li><a href="https://windows11.techidaily.com/why-choose-linux-without-windows-subsystem/"><u>Why Choose Linux without Windows Subsystem?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ffordable-mcb-theme-images-for-channels/"><u>[New] Affordable MCB Theme Images for Channels</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-the-most-popular-6-free-and-quick-youtube-video-repositories/"><u>[New] In 2024, The Most Popular 6 Free & Quick YouTube Video Repositories</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-premier-low-carbon-screen-recording-solutions/"><u>[Updated] 2024 Approved Premier Low-Carbon Screen Recording Solutions</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-perfect-your-yt-profile-expert-tips-for-channel-descriptors-for-2024/"><u>[Updated] Perfect Your YT Profile Expert Tips for Channel Descriptors for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-uav-upgrade-path-key-parts-and-add-ons/"><u>2024 Approved The Ultimate UAV Upgrade Path Key Parts and Add-Ons</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-beginners-roadmap-to-understanding-windows-iscsi-initiator/"><u>A Beginner's Roadmap to Understanding Windows iSCSI Initiator</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/cyberpower-cp685avrg-unit-assessed-efficient-barebones-uninterruptible-power-supply-functionality/"><u>CyberPower CP685AVRG Unit Assessed: Efficient Barebones Uninterruptible Power Supply Functionality</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-techniques-for-altering-credentials-on-windows-11/"><u>Easy Techniques for Altering Credentials on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-unresponsive-f-keys-troubleshooting-in-windows-11-os/"><u>Fix: Unresponsive F Keys - Troubleshooting in Windows 11 OS</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-the-insiders-pathway-to-effective-auditory-notes/"><u>In 2024, The Insider’s Pathway to Effective Auditory Notes</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagrams-best-practices-for-influential-engagement-top-5-tips-with-examples-for-2024/"><u>Instagram's Best Practices for Influential Engagement Top 5 Tips with Examples for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/investigating-and-fixing-create-failed-on-windows-error-30005/"><u>Investigating and Fixing Create Failed on Windows Error 30005</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-elusive-guide-to-unseen-menu-adjustments-windows-style/"><u>The Elusive Guide to Unseen Menu Adjustments, Windows Style</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Quick Start: Running AI on Windows PCs"
-date: 2025-01-08T20:10:07.280Z
-updated: 2025-01-10T18:01:49.574Z
+date: 2025-01-11T23:45:06.533Z
+updated: 2025-01-16T00:16:20.331Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 ![install this site as an app chatgpt edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-this-site-as-an-app-chatgpt-edge.jpg)
 3. Go to **Apps** and select **Install this site as an app**.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![install chatgpt app windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-chatgpt-app-windows.jpg)
 4. In the **Install App** popup, enter a name for the app. For example, enter **ChatGPT**. Entering a name makes it easy to search for the installed app.
 
@@ -52,21 +56,17 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 
  To pin the ChatGPT app, press the **Win** key and type ChatGPT. Right-click the app icon and select **Pin to Start** or **Taskbar**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Uninstall the ChatGPT Web App on Edge
 
 ![uninstall chatgpt edge app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-chatgpt-edge-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Press the **Win** key and type **ChatGPT**.
 2. Right-click on the app icon and **Uninstall.**
 3. Click **Uninstall** again to confirm the action.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add ChatGPT as a Windows App Using Chrome
 
@@ -78,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 3. Select **More Tools** and then **Create Shortcut**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Enter a name in the **Create shortcut** popup.  
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 ![uninstall chrome shortcut chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-chrome-shortcut-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Press the **Win** key and type **ChatGPT**.
@@ -118,6 +118,10 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 ![chat gpt github unofficial project](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chat-gpt-github-unofficial-project.jpg)
 2. Scroll down to the Windows section and click on the **.msi installer** download link for the **Direct download installer**. On Microsoft Edge, Windows Defender Screen Filter may temporarily block the download and prompt you to confirm whether you trust the file. To allow the download, click on **Show more,** and then the **three-dots** **menu**. Next, select **Keep** to download the installer. To be on the safer side, you can [scan the installer using an online virus scanning tool](https://www.makeuseof.com/check-suspicious-file-malware/) to find any traces of malware.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Next, run the installer and follow the on-screen instructions to complete the installation.
 4. Once installed, launch the app and log in with your ChaptGPT credentials, and you can start generating responses.
 
@@ -136,10 +140,6 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 3. Search for the ChatGPT app, click the **three-dots** menu next to the app name and select **Uninstall**.
 
  Once done, you might also want to delete the setup file from the Downloads folder in File Explorer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Install ChatGPT as a Windows App
 
@@ -161,19 +161,18 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-steps-to-record-your-gameplay-on-a-nintendo-switch/"><u>[New] Steps to Record Your Gameplay on a Nintendo Switch</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-beginners-approach-to-title-and-caption-integration-in-windows-10-photos-for-2024/"><u>A Beginner's Approach to Title and Caption Integration in Windows 10 Photos for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/finding-the-ideal-spot-rearrange-onedrive-on-win-11/"><u>Finding the Ideal Spot: Rearrange OneDrive on Win 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-the-utorrent-pauseresume-issue-on-windows-pcs/"><u>Fixing the uTorrent Pause/Resume Issue on Windows PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-enable-dark-mode-on-the-windows-calculator-app/"><u>How to Enable Dark Mode on the Windows Calculator App</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-newest-amd-graphics-drivers-for-crypto-mining-platforms-on-windows-pcs/"><u>How to Get the Newest AMD Graphics Drivers for Crypto-Mining Platforms on Windows PCs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-manually-adjust-screen-brightness-and-deactivate-auto-brightness-feature-in-android/"><u>How to Manually Adjust Screen Brightness and Deactivate Auto-Brightness Feature in Android</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-samsung-galaxy-s24-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Samsung Galaxy S24? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-the-ultimate-encyclopedia-to-youtube-thumbnail-mastery/"><u>In 2024, The Ultimate Encyclopedia to YouTube Thumbnail Mastery</u></a></li>
-<li><a href="https://win-help.techidaily.com/master-the-art-of-file-transfers-on-windows-platform-yl-tech-tips-from-yl-software/"><u>Master the Art of File Transfers on Windows Platform - YL Tech Tips From YL Software</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-spontaneous-system-shutdown-on-w11/"><u>Overcoming Spontaneous System Shutdown on W11</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/realme-11-proplus-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme 11 Pro+ Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-path-to-creativity-start-microsoft-paint-windows-11-edition/"><u>The Path to Creativity: Start Microsoft Paint, Windows 11 Edition</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-cellphones-endorsed-editors-real-world-usage-revealed/"><u>Top Cellphones Endorsed Editors: Real-World Usage Revealed</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-converting-moments-into-art-gopro-studios-time-lapse-blueprint-for-2024/"><u>[New] Converting Moments Into Art GoPro Studio's Time Lapse Blueprint for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-contacts-from-apple-iphone-15-pro-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Contacts from Apple iPhone 15 Pro to iPhone Quickly | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/ensure-seamless-fullscreen-launch-on-windows-pcs/"><u>Ensure Seamless Fullscreen Launch on Windows PCs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ios-14-iphoneios-14/"><u>IOS 14画面録画不可解決策＆音量ズレ修正 - iPhoneユーザーが知るべきiOS 14新機能の活用法</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/leading-innovations-in-video-calls-discover-the-top-10-apps-for-2024/"><u>Leading Innovations in Video Calls Discover the Top 10 Apps for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/newly-installed-compatible-and-reliable-nvidia-drivers/"><u>Newly Installed: Compatible and Reliable Nvidia Drivers</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-windows-11-search-with-custom-settings/"><u>Optimizing Windows 11 Search with Custom Settings</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/simple-techniques-for-uploading-your-iphones-images-onto-your-laptop-via-usb-connector/"><u>Simple Techniques for Uploading Your iPhones Images Onto Your Laptop via USB Connector</u></a></li>
+<li><a href="https://windows11.techidaily.com/skyrocket-your-typing-swift-input-strategies-for-win-1011-users/"><u>Skyrocket Your Typing: Swift Input Strategies for WIN 10/11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-complete-guide-to-image-spin-on-your-windows-11-pc/"><u>The Complete Guide to Image Spin on Your Windows 11 PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-complete-tutorial-to-launch-w11s-administrator-powershell/"><u>The Complete Tutorial to Launch W11's Administrator PowerShell</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/top-10plus-best-online-screen-capture-platforms-for-2024/"><u>Top 10+ Best Online Screen Capture Platforms for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/why-choosing-windows-11-is-a-wise-decision-over-macos/"><u>Why Choosing Windows 11 Is a Wise Decision over MacOS</u></a></li>
 </ul></div>
 

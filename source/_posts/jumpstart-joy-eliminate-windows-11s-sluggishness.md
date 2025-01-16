@@ -1,7 +1,7 @@
 ---
 title: "Jumpstart Joy: Eliminate Windows 11'S Sluggishness"
-date: 2025-01-03T20:59:26.360Z
-updated: 2025-01-10T16:40:11.708Z
+date: 2025-01-10T21:01:50.525Z
+updated: 2025-01-16T14:26:04.881Z
 tags:
   - windows10
   - windows11
@@ -31,15 +31,15 @@ thumbnail: https://thmb.techidaily.com/860b3898b4af7e1c1dc6c593b5d2eb5997c8c8e6a
 
  If you suspect that having insufficient storage space could be degrading the performance of your device, turn on Storage Sense to boost your device's performance. If you're unfamiliar with this process, see our guide on[using Storage Sense on Windows 11](https://www.makeuseof.com/windows-11-storage-sense-guide/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Set the Power Plan to Best Performance
 
  Windows users can choose between two power plans: high performance and balanced. Although the balanced power plan can help lower power consumption (particularly on laptops), it limits the device's performance. Since the balanced power plan is often selected by default, you are likely using the same if you have not changed the power plan before.
 
  Changing your device's power plan to high performance can significantly improve its performance. So, you should[change the power plan](https://www.makeuseof.com/windows-11-change-power-plan/) from balanced to high-performance. Note that switching to this plan will increase your device's performance but will also increase its power consumption. So, expect that your laptop's battery will drain faster than usual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Disable Some Third-Party Services
 
@@ -50,6 +50,10 @@ To turn off these services, follow these steps:
 1. Type**"System Configuration"** into Windows Search and open the**System Configuration** window.  
 ![Open System Configuration Window From Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-system-configuration-window-from-windows-search.jpg)
 2. Go to the**Services** tab and check the box beside**Hide all Microsoft services** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Check the boxes beside the services you don't use much from the remaining services.
 4. Click**Disable all** \>**Apply** \>**OK** .  
@@ -65,26 +69,10 @@ To turn off these notifications, follow the below steps:
 ![Go to Notifications Settings in the System Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/go-to-notifications-settings-in-the-system-tab-of-the-windows-settings-app.jpg)
 2. Disable the toggle next to**Notifications** to stop receiving all notifications.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Turn Off the Toggle Next to Notifications to Disable Notifications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-the-toggle-next-to-notifications-to-disable-notifications.jpg)
 3. Disable the toggle next to specific apps in the**Notifications from apps and other senders** section.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Disable the Toggle Next to Specific Apps in the Notifications From Apps and Other Senders Section in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/disable-the-toggle-next-to-specific-apps-in-the-notifications-from-apps-and-other-senders-section-in-windows-settings-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Disable Some Windows Permissions
 
@@ -94,6 +82,14 @@ To turn off these notifications, follow the below steps:
 2. Select the**Privacy & security** tab.
 3. Go through all the settings under**Windows permissions** and disable the ones you think won't affect any Windows features you might need.  
 ![Windows Permissions Settings in the Privacy and Security Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-permissions-settings-in-the-privacy-and-security-tab-of-the-windows-settings-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Don't Let Windows Updates Hamper Your Device's Performance
 
@@ -110,10 +106,6 @@ To pause updates, follow these steps:
 
  Besides this, Windows updates are sometimes buggy and can slow down your computer's performance. If the symptoms started after this, you could[fix Windows slowing down after an update](https://www.makeuseof.com/windows-10-slow-after-update-fix/) in several ways.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Check Which Apps Burden Your CPU, Memory, and Storage
 
  If you have made the above tweaks and they have failed to boost the performance of your device, some unnecessary processes might be overburdening it. So, you need to identify which processes are causing the most stress and which components they are straining. You can quickly check that in Task Manager.
@@ -123,6 +115,14 @@ To pause updates, follow these steps:
  To do that, click on the column header of that component in Task Manager to sort the processes consuming the most resources in descending order. Then, filter out the processes causing that component a great deal of stress and terminate them. To close a task, right-click on the task and click**End task** .
 
 ![high cpu usage service task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/high-cpu-usage-service-task-manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Some Other Ways to Improve Performance
 
@@ -151,24 +151,17 @@ So, try them out to boost your system's performance.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-techniques-for-finding-original-images-in-instagram-posts/"><u>[New] 2024 Approved Techniques for Finding Original Images in Instagram Posts</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/levate-your-video-profiles-using-smart-templates-for-2024/"><u>[New] Elevate Your Video Profiles Using Smart Templates for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-excellent-4k-capture-gear-the-18-best-ones-for-2024/"><u>[New] Excellent 4K Capture Gear - The 18 Best Ones for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-yuneec-breeze-4k-the-ultimate-uav-showcase/"><u>[New] In 2024, Yuneec Breeze 4K - The Ultimate UAV Showcase</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/roubleshooting-tips-for-the-mystery-of-hidden-shorts-thumbnails-for-2024/"><u>[New] Troubleshooting Tips for the Mystery of Hidden Shorts Thumbnails for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easing-up-windows-11-restrictions-for-store-app/"><u>Easing Up Windows 11 Restrictions for Store App</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-network-issues-with-anydesk-in-win11/"><u>Fixing Network Issues with AnyDesk in WIn11</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-oppo-reno-8t-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Oppo Reno 8T 5G Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-secrets-for-striking-fb-video-promos/"><u>In 2024, Secrets for Striking FB Video Promos</u></a></li>
-<li><a href="https://windows11.techidaily.com/maximizing-visual-quality-with-w11s-auto-hdr/"><u>Maximizing Visual Quality with W11's Auto HDR</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-and-easy-guide-for-turning-onoff-windows-key/"><u>Quick & Easy Guide for Turning On/Off Windows Key</u></a></li>
-<li><a href="https://windows11.techidaily.com/safeguard-privacy-erasing-ms-defender-logs-in-windows-1011/"><u>Safeguard Privacy: Erasing MS Defender Logs in Windows 10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/set-up-a-fast-safe-login-windows-hello-basics/"><u>Set Up a Fast, Safe Login: Windows Hello Basics</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-for-overcoming-windows-administrative-restriction-on-installers/"><u>Strategies for Overcoming Windows' Administrative Restriction on Installers</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ffordable-art-of-youtube-introsends/"><u>The Affordable Art of YouTube Intros/Ends</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-insiders-guide-accessing-onedrive-offline-on-windows/"><u>The Insider's Guide: Accessing OneDrive Offline on WINDOWS</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-new-era-ai-enhancements-in-windows-platforms/"><u>The New Era: AI Enhancements in Windows Platforms</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-unsupported-app-packages-on-windows-xp/"><u>Troubleshooting Unsupported App Packages on Windows XP</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-beyond-tube-the-premier-spots-for-online-video-sharing/"><u>[New] 2024 Approved Beyond Tube The Premier Spots for Online Video Sharing</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-upgrading-visual-appeal-a-how-to-guide-for-twitter-video-image-changes/"><u>[New] Upgrading Visual Appeal A How-To Guide for Twitter Video Image Changes</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-top-25-anime-visionaries-on-tiktok-changing-content-norms-for-2024/"><u>[Updated] Top 25 Anime Visionaries on TikTok Changing Content Norms for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/vlcyoutube-mrl/"><u>対処法：VLCでYouTube MRLが認識されない場合</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-empty-folder-warning-in-windows-11/"><u>Eliminating 'Empty Folder' Warning in Windows 11</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/fast-solutions-overcome-the-hurdle-of-error-code-0x80070570-on-your-pc/"><u>Fast Solutions: Overcome the Hurdle of Error Code 0X80070570 on Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/guides-to-mastering-your-fax-interface-with-w11s-tools/"><u>Guides to Mastering Your Fax Interface with W11's Tools</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlocking-an-icloud-locked-ipad-and-iphone-x-by-drfone-ios/"><u>In 2024, Unlocking an iCloud Locked iPad and iPhone X</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-correctly-installing-apps-from-ms-store/"><u>Mastering the Art of Correctly Installing Apps From MS Store</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-best-curved-monitors-for-pc-gamers-high-fps-with-144hz-specs-2024-edition/"><u>The Best Curved Monitors for PC Gamers: High FPS with 144Hz Specs, 2024 Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-password-creation-companion-for-windows-users/"><u>The Ultimate Password Creation Companion for Windows Users</u></a></li>
 </ul></div>
 
