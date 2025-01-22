@@ -1,7 +1,7 @@
 ---
 title: Adaptive Keystroke Configurations for Windows 11 Users
-date: 2024-08-15T15:13:11.292Z
-updated: 2024-08-16T15:13:11.292Z
+date: 2025-01-15T20:38:52.511Z
+updated: 2025-01-22T19:59:53.723Z
 tags:
   - windows10
   - windows11
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/d44947af2d23263a61b2bb19233d3717a7fd17839
 
 ## Adaptive Keystroke Configurations for Windows 11 Users
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * You can easily add different keyboard layouts in Windows 11 in the Settings app and then switch to them from the system tray.
@@ -25,8 +29,9 @@ thumbnail: https://thmb.techidaily.com/d44947af2d23263a61b2bb19233d3717a7fd17839
  Windows offers more keyboard layouts beyond QWERTY. With a few clicks, you can add a new keyboard layout, such as DVORAK and AZERTY, and switch to that one instead. Here's what you need to know.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Add a Keyboard Layout in Windows 11
 
  Multiple keyboard layouts are already installed for your preferred language. To add them to it, follow the steps below:
@@ -34,14 +39,13 @@ thumbnail: https://thmb.techidaily.com/d44947af2d23263a61b2bb19233d3717a7fd17839
 1. Press **Win + I** to open Settings, and then head to **Time & language > Language & Region**.
 2. Click the three-dot icon next to your preferred language (the one on top) and select **Language Options**.  
 ![The Language Options on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/language-region-keyboard-options-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. In the **Keyboards** section, click **Add a Keyboard**, and select a different keyboard key layout from the available options.  
-![Selecting a new keyboard layout on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/adding-keyboard-layout-windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Selecting a new keyboard layout on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/adding-keyboard-layout-windows.jpg)
 
  You can get more keyboard layouts by adding a new language. However, this requires the internet to download the new language. So, [make sure you're connected to the internet](https://www.makeuseof.com/windows-ways-to-connect-to-wifi/), and follow the steps below:
 
@@ -49,6 +53,11 @@ thumbnail: https://thmb.techidaily.com/d44947af2d23263a61b2bb19233d3717a7fd17839
 2. In the pop-up, select the language you want to install and click **Next**.  
 ![Selecting a language to install on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/choose-language-install-windows.jpg)
 3. Click **Install** for Windows 11 to download and install the new language.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Follow steps #2 and #3 above to add a new keyboard layout to the language you just installed.
 
  If you still can't find a keyboard layout you like, you should consider [creating a custom keyboard layout](https://www.makeuseof.com/tag/create-custom-keyboard-layout-windows/).
@@ -58,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/d44947af2d23263a61b2bb19233d3717a7fd17839
  To change the keyboard layout, click the **language switcher** in the system tray section and select a different layout from there.
 
 ![the language switcher in windows 11 with canadian english selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/english-canada-keyboard-layout-windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 
  Alternatively, you can press and hold **Win** and keep pressing the **Space bar** to switch between different keyboard layouts. You can do the same by holding down **Shift** and pressing **Alt**.
 
@@ -73,17 +78,15 @@ The ultimate burning program for all your needs!</a>
 2. Click the three-dot icon next to the keyboard layout you want to remove and select **Language Options**.
 3. In the **Keyboards** section, click the three-dot icon next to a keyboard layout and select **Remove**.  
 ![Removing a keyboard layout on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/remove-keyboard-layout-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  You can also remove a language if you no longer need it. To do that, follow the steps below:
 
 1. Go back to **Language & Region** in Settings.
 2. Click the three-dot icon next to the language you want to remove and click **Remove**.  
 ![Removing a language on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/remove-language-windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The language and its associated keyboard layout will now be removed from your computer.
@@ -92,8 +95,6 @@ The ultimate burning program for all your needs!</a>
 
  Windows offers more keyboard layouts beyond QWERTY. With a few clicks, you can add a new keyboard layout, such as DVORAK and AZERTY, and switch to that one instead. Here's what you need to know.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -101,5 +102,20 @@ The ultimate burning program for all your needs!</a>
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-shape-players-guide-to-distortion-and-more/"><u>[New] Shape Players' Guide to Distortion and More</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-best-image-enlargers-making-photographs-larger-without-losing-quality/"><u>[Updated] 2024 Approved Best Image Enlargers Making Photographs Larger Without Losing Quality</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-gopro-hero5-session-review-for-2024/"><u>[Updated] GoPro Hero5 Session Review for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-from-iphone-x-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock From iPhone X Online</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-error-0x00000709-in-windows/"><u>Addressing Error 0X00000709 in Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-launch-errors-in-division-2-with-these-proven-techniques/"><u>Beat Launch Errors in Division 2 with These Proven Techniques</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-asus-touchpad-driver-installation-on-windows-10-fast-and-simple-steps/"><u>Easy ASUS Touchpad Driver Installation on Windows 10: Fast and Simple Steps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/gopro-max-vs-hero-11-a-video-quality-showdown/"><u>GoPro Max vs Hero 11 A Video Quality Showdown</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-overcome-the-failed-to-connect-hurdle-in-hitman-3-gameplay/"><u>How to Overcome the 'Failed to Connect' Hurdle in Hitman 3 Gameplay</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/insta-film-conversion-blueprints-to-mp3-formats-for-2024/"><u>Insta Film Conversion Blueprints to MP3 Formats for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/prevent-chrome-from-saving-webp-images-in-windows/"><u>Prevent Chrome From Saving WebP Images in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-5-writing-enhancers-for-your-windows-desktop/"><u>Top 5 Writing Enhancers for Your Windows Desktop</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-enhancing-pen-device-performance-on-windows/"><u>Troubleshooting: Enhancing Pen Device Performance on Windows</u></a></li>
+</ul></div>
 

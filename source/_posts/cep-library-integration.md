@@ -1,7 +1,7 @@
 ---
 title: CEP Library Integration
-date: 2024-08-15T15:13:50.802Z
-updated: 2024-08-16T15:13:50.802Z
+date: 2025-01-15T19:59:56.510Z
+updated: 2025-01-22T19:11:16.548Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/9a7e28e8568427a787263a138246015aa54bad807
 
  Both Windows 10 and 11 provide a couple of options for changing the account PIN. Let’s go over both methods one by one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Change the Account PIN Using the Settings App
 
  The Windows Settings app makes it simple to manage sign-in options on your computer. Here’s how you can use it to change your account PIN on Windows. Note that this method will only work if you know your current PIN.
@@ -35,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/9a7e28e8568427a787263a138246015aa54bad807
 
  Similarly, the Settings app also gives you the option to change your account password on Windows. If you’re interested in doing that, check our guide on [how to change an account password in Windows](https://www.makeuseof.com/change-account-password-windows-11/) and follow the steps outlined there.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ## How to Change the Account PIN From the Sign-In Screen
 
  Although the above method lets you change the account PIN in a few easy steps, you may not be able to use it if you don't remember your current PIN. Fortunately, Windows gives you the option to change your computer's PIN from the sign-in screen as well.
@@ -45,8 +46,9 @@ thumbnail: https://thmb.techidaily.com/9a7e28e8568427a787263a138246015aa54bad807
  The steps for changing the account PIN from the sign-in screen vary depending on whether you’re using a Microsoft account or a Local account. Here are the steps for both.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Change PIN From the Sign-In Screen If Using a Microsoft Account
 
 If you're using a Microsoft account:
@@ -59,14 +61,11 @@ If you're using a Microsoft account:
 6. Once verified, Windows will ask you to confirm the action. Click**Continue** to proceed.
 7. Enter your new PIN twice and click**OK** .  
 ![Change PIN on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/change-pin-on-windows-11.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Change PIN From the Sign-In Screen If Using a Local Account
 
 If you're using a local account instead:
@@ -80,8 +79,9 @@ If you're using a local account instead:
 7. In the Windows Security window, enter the password for your account and click**OK** .
 8. Set up the new PIN by entering it twice. Then, click**OK** .  
 ![Forgot PIN in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/forgot-pin-in-windows-11.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you complete the above steps, your account PIN on Windows will be changed. Note that some of your apps might require you to sign in after you reset your account PIN.
@@ -89,22 +89,20 @@ If you're using a local account instead:
  Don’t want to enter a PIN every time you access your computer? Check our guide on [how to set up automatic sign-in on Windows](https://www.makeuseof.com/automatically-sign-user-in-windows-10/) to avoid the login screen.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Effortlessly Change Your Windows Account PIN
 
  As we just saw, changing the account PIN on Windows isn’t too difficult, even if you forget it.
 
  Alternatively, if your PC has a fingerprint scanner, you can also use Windows Hello fingerprint recognition to log in to your computer by simply scanning your finger on the reader.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -113,8 +111,24 @@ If you're using a local account instead:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-swift-switcheroo-rearranging-yt-lists-in-a-minute/"><u>[New] Swift Switcheroo Rearranging YT Lists in a Minute</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-voice-modification-tools-the-ultimate-guide-for-youtubers-for-2024/"><u>[Updated] Voice Modification Tools – The Ultimate Guide for YouTubers for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-optimal-vision-with-the-best-4k-monitors-1-10/"><u>2024 Approved Optimal Vision with the Best 4K Monitors, #1-10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/activating-wake-on-lan-feature-on-windows-11-a-step-by-step-guide/"><u>Activating Wake-on-LAN Feature on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-microsoft-store-glitches-error-x80072f17-guide/"><u>Correcting Microsoft Store Glitches: Error X80072F17 Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-windows-task-error-0x8007000f-quickly/"><u>Correcting Windows Task Error 0X8007000F Quickly</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/discover-the-leading-portable-wifi-routers-for-globetrotters-2024-edition/"><u>Discover the Leading Portable WiFi Routers for Globetrotters - 2024 Edition</u></a></li>
+<li><a href="https://techtrends.techidaily.com/error-code-30-unraveled-fixing-the-cmos-bios-protection-failure-on-your-pc/"><u>Error Code 30 Unraveled: Fixing the CMOS BIOS Protection Failure on Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/immediate-steps-for-finding-absent-registry-program/"><u>Immediate Steps for Finding Absent Registry Program</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-exploring-the-top-8-facebook-extractors-for-films/"><u>In 2024, Exploring the Top 8 Facebook Extractors for Films</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fix-for-invisible-login-window-in-win1011/"><u>Quick Fix for Invisible Login Window in Win10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/shrouding-outage-with-code-0xc00d36b4-in-windows/"><u>Shrouding Outage with Code 0XC00D36B4 in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplify-and-beautify-your-w11-desktop-with-ease/"><u>Simplify & Beautify Your W11 Desktop with Ease</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-microphone-setup-with-the-latest-windows-11-features/"><u>Streamlining Microphone Setup with the Latest Windows 11 Features</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-social-networking-titans-an-in-depth-guide-to-facebook-twitter-instagram-and-youtube/"><u>Top Social Networking Titans: An In-Depth Guide to Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-how-you-use-google-search-make-the-switch-to-superior-results-with-perplexity-ai/"><u>Transform How You Use Google Search - Make the Switch to Superior Results with Perplexity AI!</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-creativity-windows-outlook-calendar-personalization-guide/"><u>Unleash Creativity: Windows Outlook Calendar Personalization Guide</u></a></li>
+</ul></div>
 

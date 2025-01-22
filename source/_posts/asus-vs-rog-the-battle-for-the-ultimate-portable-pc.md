@@ -1,7 +1,7 @@
 ---
 title: "ASUS Vs. ROG: The Battle for the Ultimate Portable PC?"
-date: 2024-08-15T15:19:05.585Z
-updated: 2024-08-16T15:19:05.585Z
+date: 2025-01-16T17:24:47.642Z
+updated: 2025-01-22T20:41:36.313Z
 tags:
   - windows10
   - windows11
@@ -22,26 +22,22 @@ thumbnail: https://thmb.techidaily.com/fe46f510d5bddf23ae454985f506805f0ef965f85
 
 So, what is the ROG Ally? And when could you get your hands on it?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ASUS Announces a Steam Deck Competitor
 
  On April 1, 2023, the ROG Global YouTube channel posted a video called "ROG Ally – ROG's First Gaming Handheld Console". But because of the timing of the video and the somewhat cheesy voice-over, many shrugged off the announcement as just another April Fool's Day joke.
 
  But a couple of days later, we were greeted by preview videos from two YouTube channels: Dave2D and Linus Tech Tips. Simultaneous with these videos, ASUS opened the [ROG Ally page](https://www.asus.com/ca-en/site/gaming/rog/handheld-consoles/rog-ally/) , where you can sign up to get notified when the handheld console is available for pre-order.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## What Is the ROG Ally?
 
 ![ROG Ally vs Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/rog-ally-vs-steam-deck.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit: Dave2D/[YouTube](https://www.youtube.com/watch?v=drLZxyv79Oo&t=14s&ab%5Fchannel=Dave2D)
@@ -56,8 +52,9 @@ So, what is the ROG Ally? And when could you get your hands on it?
  ASUS' latest handheld console also has a chockful of ports and system controls. You get a 3.5mm combo headphone jack, a UHS-II microSD slot, and a USB-C port that also connects to the ASUS ROG XG Mobile external GPU. If you plan to get one for your Asus ROG laptop and future ROG Ally console, you should check out these [things you must know about external GPUs](https://www.makeuseof.com/tag/everything-need-know-external-gpu/) .
 
 ![ROG Ally top view](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/rog-ally-top-view.jpg)
-<!-- affiliate ads begin -->
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit: Dave2D/[YouTube](https://www.youtube.com/watch?v=drLZxyv79Oo&t=14s&ab%5Fchannel=Dave2D)
@@ -71,9 +68,6 @@ So, what is the ROG Ally? And when could you get your hands on it?
 ## When Can You Get Your Hands on the ROG Ally? How Much Will It Be?
 
 ![Gaming on the ROG Ally](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/gaming-on-the-rog-ally.jpg)
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit: ROG Global/[YouTube](https://www.youtube.com/watch?v=s5lq4Q7YAjE&ab%5Fchannel=ROGGlobal)
 
@@ -86,8 +80,9 @@ So, what is the ROG Ally? And when could you get your hands on it?
  As for the launch date, we expect the handheld console to appear on store shelves this year. Although ASUS didn't announce when we could start buying its console, the fact that it has shown the prototype to everyone and even allowed Dave2D to play with it for a week means production is well underway.
 
 ![Game Library on the ROG Ally](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/game-library-on-the-rog-ally.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit: ROG Global/[YouTube](https://www.youtube.com/watch?v=s5lq4Q7YAjE&ab%5Fchannel=ROGGlobal)
@@ -95,22 +90,20 @@ So, what is the ROG Ally? And when could you get your hands on it?
  So, if we give ASUS a six-month buffer to get everything ironed out, the device should come out by October 2023—just in time to hype the product and ramp up sales for Christmas. Again, this is just an assumption, as ASUS is mum about when we could get the ROG Ally.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Handheld Console Gaming Scene Is Heating Up
 
  The Nintendo Switch revived the handheld gaming console, and the Steam Deck added fire to the mix. Although there are other small handheld console makers, like AYANEO and GPD, none have the deep pockets and brand recognition of Nintendo and Steam.
 
  With the entry of ASUS into this highly-competitive space, Nintendo and Steam will be forced to give better offers and deliver better hardware to keep gamers happy. These developments will help the handheld gaming console stand its ground against the rising tide of smartphone gaming.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -119,8 +112,21 @@ So, what is the ROG Ally? And when could you get your hands on it?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-compilation-of-premium-windows-11-editors/"><u>[New] 2024 Approved Compilation of Premium Windows 11 Editors</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-budget-friendly-pc-video-snippet-creators/"><u>[New] In 2024, Budget-Friendly PC Video Snippet Creators</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-unraveling-kinemasters-gs-mastery-for-pro-video-editors/"><u>[New] In 2024, Unraveling KineMaster’s GS Mastery for Pro Video Editors</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-exceptional-20-no-license-pubg-images-for-2024/"><u>[Updated] Exceptional 20 No-License PUBG Images for 2024</u></a></li>
+<li><a href="https://win-bits.techidaily.com/complete-walkthrough-moving-iphone-images-from-ios-to-windows-11-system/"><u>Complete Walkthrough: Moving iPhone Images From iOS to Windows 11 System</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-how-to-fix-the-persistent-xerox-error-code-0x800f020b-on-windows-machines/"><u>Expert Advice: How to Fix the Persistent Xerox Error Code 0X800F020B on Windows Machines</u></a></li>
+<li><a href="https://windows11.techidaily.com/guidelines-for-a-constant-windows-printer/"><u>Guidelines for a Constant Windows Printer</u></a></li>
+<li><a href="https://windows11.techidaily.com/masterful-tricks-for-completing-100-windows-update/"><u>Masterful Tricks for Completing 100% Windows Update</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-windows-11-like-a-pro-essential-search-hacks-revealed/"><u>Navigate Windows 11 Like a Pro: Essential Search Hacks Revealed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/skirting-through-wow-updates-that-freeze/"><u>Skirting Through WoW Updates That Freeze</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-selection-of-15-stellar-dolby-atmos-movies-ideal-for-home-cinema-enthusiasts/"><u>The Ultimate Selection of 15 Stellar Dolby Atmos Movies Ideal for Home Cinema Enthusiasts</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-win-rpc-errors-a-5-step-guide/"><u>Troubleshooting Win RPC Errors - A 5-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-leading-apple-watches-in-2t24-detailed-analysis-and-expert-ratings-zdnet/"><u>Ultimate Guide to the Leading Apple Watches in 2T24: Detailed Analysis and Expert Ratings | ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/validate-your-gpus-mettle-using-these-6-tools-on-pc/"><u>Validate Your GPU's Mettle Using These 6 Tools on PC</u></a></li>
+</ul></div>
 

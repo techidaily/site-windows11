@@ -1,7 +1,7 @@
 ---
 title: Bypassing Overload on Windows Applications (0X80860010)
-date: 2024-08-15T15:14:03.857Z
-updated: 2024-08-16T15:14:03.857Z
+date: 2025-01-20T19:09:57.661Z
+updated: 2025-01-22T17:56:25.447Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/876e753e27077574ad25291cd756f73dd324e0088
 
 ![A person using a Windows computer on a brown desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-person-using-a-Windows-computer-on-a-brown-desk.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the issue is caused by a minor bug on the app, then restarting the affected app should help.
 
  Here are the steps you need to follow:
@@ -49,8 +53,9 @@ thumbnail: https://thmb.techidaily.com/876e753e27077574ad25291cd756f73dd324e0088
 ## 2\. Sign Out and Sign Back Into Your Microsoft Account
 
 ![Entering a password on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/entering-a-password-on-a-laptop.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It's possible that the cause of the issue is related to your Microsoft account. Fortunately, signing out and then signing back into your account seems to be enough to fix any account-based causes.
@@ -58,8 +63,9 @@ thumbnail: https://thmb.techidaily.com/876e753e27077574ad25291cd756f73dd324e0088
  Alternatively, [switch from a local account to a Microsoft account](https://www.makeuseof.com/windows-switch-local-account-to-microsoft-account/) (or vice versa) and see if that helps.
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Configure the Rate Limit and Script Settings
 
  You could also consider configuring a few settings to ensure the affected app operates within the allowed request limits.
@@ -77,8 +83,9 @@ thumbnail: https://thmb.techidaily.com/876e753e27077574ad25291cd756f73dd324e0088
  Also, don't forget that misconfigured scripts and automation tools can cause apps to generate an excessive number of requests. So if you’re using an automation tool, you might want to configure its settings to get rid of the issue. Meanwhile, if you’re using an automation script, then it could be worth editing it to tackle the problem
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Update or Reinstall the Faulty App
 
  If you’re still running into issues, then maybe it’s time to update or reinstall the problematic app. Outdated software can sometimes cause issues with request limits and lead to errors.
@@ -87,9 +94,6 @@ thumbnail: https://thmb.techidaily.com/876e753e27077574ad25291cd756f73dd324e0088
 
  If the issue persists, try uninstalling the app. If you're not sure how to do this, check out [the different ways to uninstall software on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/). Once it's off your PC, download the app again from a reputable source, such as the developer's website or from the Microsoft Store.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## 5\. Clean Out the App Cache and Windows' Temporary Files
 
  Accumulated cache and Windows' temporary files can sometimes interfere with an app’s request handling. Fortunately, cleaning both of these out is very easy.
@@ -102,11 +106,12 @@ thumbnail: https://thmb.techidaily.com/876e753e27077574ad25291cd756f73dd324e0088
 
 ![A woman using a gray Windows laptop](https://thmb.techidaily.com/749189d3cf96e07116b3345727ad3fbca6dd8d53dc60a64adccf57fc91fbbcad.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  There are a few tricks that act as a "cure-all" for Windows bugs, so it's worth giving these a try if nothing has worked.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Perform a Clean Boot
 
  When you [perform a clean boot on Windows 10](https://www.makeuseof.com/how-perform-clean-boot-windows-10/) or [Windows 11](https://www.makeuseof.com/clean-boot-windows-11/), you temporarily disable non-essential services and startup programs on your PC. This gives Windows a "clean slate" with which to work with.
@@ -119,16 +124,11 @@ thumbnail: https://thmb.techidaily.com/876e753e27077574ad25291cd756f73dd324e0088
 
 ##
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conquering the "Application Made Too Many Requests" Error
 
  Coming across the "App made too many requests" error can instantly ruin your day. But the good news is you can tackle this problem by applying any of the solutions we’ve covered.
 
  But what causes the 0x80860010 error, and how do you resolve it? Let’s find out.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -137,5 +137,24 @@ thumbnail: https://thmb.techidaily.com/876e753e27077574ad25291cd756f73dd324e0088
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-5-must-try-websites-for-cost-free-effects/"><u>[New] 2024 Approved 5 Must-Try Websites for Cost-Free Effects</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-camstudio-screen-recorder-review-2023/"><u>[Updated] 2024 Approved CamStudio Screen Recorder Review 2023</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-stellar-spectrum-10-sites-cutting-edge-of-hd-astronomy/"><u>2024 Approved Stellar Spectrum 10 Sites Cutting-Edge of HD Astronomy</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/1728485419591-windows-11/"><u>修正方法：Windows 11での開始画面不具合について学ぶ - 実践的解決策</u></a></li>
+<li><a href="https://windows11.techidaily.com/create-a-convenient-windows-environment-portable-software-icons/"><u>Create a Convenient Windows Environment: Portable Software Icons</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-the-chatgpt-mobile-app-surpasses-the-web-version-6-key-reasons-why/"><u>How the ChatGPT Mobile App Surpasses the Web Version: 6 Key Reasons Why!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-open-and-watch-swf-files-easy-guide-by-movieviewer/"><u>How to Open and Watch SWF Files - Easy Guide by MovieViewer</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-memory-management-for-edges-webview2/"><u>Mastering Memory Management for Edge's WebView2</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-new-territory-altering-default-app-choices-in-windows-11/"><u>Navigating New Territory: Altering Default App Choices in Windows 11</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-fcpx-plugin-not-responding-try-these-solutions-first-for-2024/"><u>New FCPX Plugin Not Responding? Try These Solutions First for 2024</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/practical-methods-for-altering-your-instagram-storys-backdrop-hue/"><u>Practical Methods for Altering Your Instagram Story's Backdrop Hue</u></a></li>
+<li><a href="https://windows11.techidaily.com/reimagining-fn-key-usage-within-windows-11-platform/"><u>Reimagining FN Key Usage Within Windows 11 Platform</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-unraveling-failed-system-call-issues-in-win1011/"><u>Steps to Unraveling 'Failed System Call' Issues in Win10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-storage-type-ssd-vs-hdd/"><u>Unveiling Storage Type: SSD vs HDD</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-windows-11s-hidden-calendar-and-email-fixes/"><u>Unveiling Windows 11'S Hidden Calendar & Email Fixes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/virtual-horizons-the-foremost-ps-vr-games-to-await-you/"><u>Virtual Horizons The Foremost PS VR Games to Await You</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-tips-avoiding-discords-auto-start-and-update-checks/"><u>Windows Tips: Avoiding Discord's Auto-Start & Update Checks</u></a></li>
+</ul></div>
 

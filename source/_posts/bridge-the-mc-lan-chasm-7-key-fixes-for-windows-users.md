@@ -1,7 +1,7 @@
 ---
 title: "Bridge the MC LAN Chasm: 7 Key Fixes for Windows Users"
-date: 2024-08-15T15:17:10.370Z
-updated: 2024-08-16T15:17:10.370Z
+date: 2025-01-20T16:39:12.762Z
+updated: 2025-01-22T17:55:03.307Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/8357b168f14ad6299dbc663fee70693f53617c625
 
  If you're having issues connecting to or playing in a Minecraft LAN world, here are some fixes you can apply on Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Connect Both Devices to the Same Network
 
  Users must connect to the same network connection as the host of the LAN world to play or join the server. Therefore, if you cannot enter the world or if any of your friends cannot join your server, ensure devices are connected to the same network. You can check that by clicking the Wi-Fi or internet icon in the bottom right corner.
@@ -37,8 +41,9 @@ thumbnail: https://thmb.techidaily.com/8357b168f14ad6299dbc663fee70693f53617c625
  If the connection type is different, change it. If the connection type already matches the host, you can proceed to the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Ensure You're Using the Same Minecraft Version as the Host
 
  Although this may be evident, your device must run the same Minecraft version as the host to join the LAN world. Minecraft updates automatically in most cases, so perhaps a new version came out and everyone updated to it, mismatching their version from the server's.
@@ -46,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/8357b168f14ad6299dbc663fee70693f53617c625
  To check that, open the Minecraft launcher, expand the **menu** in the bottom-left, select the **Latest release**, and click **Play**. Then, attempt to join the LAN world again.
 
 ![Select the Latest Version to Play Minecraft in a LAN World](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/select-the-latest-version-to-play-minecraft-in-a-lan-world.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the issue persists, note down the version listed under the **Latest release** and confirm that the host uses the same version.
 
@@ -58,9 +67,9 @@ thumbnail: https://thmb.techidaily.com/8357b168f14ad6299dbc663fee70693f53617c625
  If you are having difficulty connecting to a host computer, ensure the host computer is configured to use a private network profile.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Enable Network Discovery in the Control Panel
 
  The network discovery feature in Windows allows your device to discover other devices connected to the same network or permit other devices to see yours. If you still can't join the LAN world in Minecraft or have issues, make sure this setting is turned on. Here's how you can check that:
@@ -73,9 +82,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 5. Also, check the box beside **Set up network connected devices automatically**.  
 ![Enable Network Discovery in the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-network-discovery-in-the-windows-settings-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Perform Some General Fixes
 
  If none of the solutions listed above work, it's time to attempt some general fixes:
@@ -86,6 +92,10 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 4. Check your router settings and ensure any setting doesn't prevent your device from connecting to other devices on the same network or others from connecting to you.
 
  In case the above fixes also don't work, try setting up a direct connection to the host server in Minecraft.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Create a Direct Connection in Minecraft
 
@@ -98,41 +108,26 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 2. Paste the **IPv4 address** into the **Server Address** box, add a colon, and enter the **LAN port** provided by the host.
 3. Then, click on **Join Server**.  
 ![Add the Server Address to Join the LAN Server in Minecraft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/add-the-server-address-to-join-the-lan-server-in-minecraft.JPG)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Join a Minecraft LAN World Seamlessly on Windows
 
  Having trouble joining a LAN world when friends are waiting for you can be frustrating. Hopefully, you now have a clearer understanding of what can prevent you from entering a LAN world. If you carefully apply the fixes listed above, you can join the LAN world in Minecraft. If nothing works, you should try to establish a direct connection.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## FAQ
 
 ### Q: How Do You Join a Minecraft LAN Server With an IP Address?
 
  You can [join a Minecraft LAN server](https://www.makeuseof.com/how-to-join-minecraft-server/) with an IP address by copying the host's IP address, selecting Multiplayer > Add a server or Direct connect, pasting the copied IP address, and connecting to the server.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ### Q: What Is the IP for a LAN Minecraft Server?
 
  Your computer's [IP address](https://www.makeuseof.com/tag/what-is-ip-address/) is the IP address for your LAN Minecraft server. You can [find your Windows PC's IP address](https://www.makeuseof.com/tag/find-ip-address-windows-10/) by running the "ipconfig" command in a Command Prompt window. The value next to "IPv4 Address" is your machine's local IP address.
 
  If you're having issues connecting to or playing in a Minecraft LAN world, here are some fixes you can apply on Windows.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -141,5 +136,22 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-shooting-hdr-on-iphone-a-comprehensive-guide/"><u>[New] Shooting HDR on iPhone A Comprehensive Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-glimpse-into-great-weather-graphics-for-windows-11/"><u>A Glimpse Into Great Weather Graphics for Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/ace-your-assault-win-against-mouse-lags-on-sw/"><u>Ace Your Assault: Win Against Mouse Lags on SW</u></a></li>
+<li><a href="https://windows11.techidaily.com/advance-work-efficiency-with-windows-smart-launcher-tool/"><u>Advance Work Efficiency with Windows' Smart Launcher Tool</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-decibels-on-windows-integrated-bt-audio/"><u>Boosting Decibels on Windows-Integrated BT Audio</u></a></li>
+<li><a href="https://windows11.techidaily.com/capitalizing-on-windows-capabilities-for-macos/"><u>Capitalizing on Windows Capabilities for macOS</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-discord-setup-woes-on-windows-11/"><u>Correcting Discord Setup Woes on Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-oneplus-ace-2v-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does OnePlus Ace 2V Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/gaming-revolution-top-5-android-solutions-for-playstation-2-titles/"><u>Gaming Revolution Top 5 Android Solutions for PlayStation 2 Titles</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-source-stock-images-directly-from-trusted-4-youtube-vids/"><u>In 2024, Source Stock Images Directly From Trusted 4 Youtube Vids</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-the-most-trusted-free-open-source-video-meeting-solutions-for-companies-and-schools/"><u>In 2024, The Most Trusted Free, Open Source Video Meeting Solutions for Companies & Schools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-productivity-transforming-your-ipad-pro-into-a-home-office-hub-insights/"><u>Maximizing Productivity: Transforming Your iPad Pro Into a Home Office Hub - Insights</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/prime-audio-pads-for-the-web/"><u>Prime Audio Pads for the Web</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranked-desktops-and-laptops-an-in-depth-comparison-featuring-apple-dell-and-beyond-insights-by-zdnet/"><u>Top-Ranked Desktops & Laptops : An In-Depth Comparison Featuring Apple, Dell & Beyond - Insights by ZDNet</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-lava-yuva-3-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Lava Yuva 3 to Gmail | Dr.fone</u></a></li>
+</ul></div>
 

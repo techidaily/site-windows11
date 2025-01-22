@@ -1,7 +1,7 @@
 ---
 title: 9 Ways to Fix Blurry Screen Issues on Windows 11
-date: 2024-08-15T15:14:23.003Z
-updated: 2024-08-16T15:14:23.003Z
+date: 2025-01-17T20:21:31.379Z
+updated: 2025-01-22T19:20:27.808Z
 tags:
   - windows10
   - windows11
@@ -25,8 +25,9 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
  Here are the following methods you can try to remove the blurry screen issue on your Windows 11 system.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Restart Your System
 
  Before trying out any major troubleshooting method, restart your system. Restarting your computer can fix common issues with services and background programs. Press**Alt + F4** and select the**Restart** option from the list. After the computer restarts, launch any program and check if the blurriness issue is still there.
@@ -43,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
 ![Tweak Display Resolution and Scaling in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/tweak-display-resolution-and-scaling-in-windows-11.jpg)
 4. If the recommended scale settings look very small and unreadable, pick the higher scaling percentage option from the list.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ### 3\. Enable ClearType Text
 
  Microsoft bundles the ClearType technology which reduces the visible pixelation in fonts. If you experience blurry screen elements including text, you can use ClearType Text Tuner to fix the issue.
@@ -56,10 +54,12 @@ To enable ClearType Text on Windows 11, repeat the following steps:
 2. Click on the**Turn on ClearType** checkbox. Then click on the**Next** button.
 3. Pick the text sample that looks the best on your display and click on the**Next** button.  
 ![Enable ClearType Text in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-cleartype-text-in-windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Repeat this process for all text samples.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Lastly, click on the**Finish** button to apply the new text rendering settings.
 
 ### 4\. Change Application Graphics Preference
@@ -73,20 +73,12 @@ To enable ClearType Text on Windows 11, repeat the following steps:
 3. Select the app to change its graphics settings and click on the**Options** button.
 4. Now, click on the**High Performance** radio button.  
 ![Change Application Graphics Preference in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/change-application-graphics-preference-in-windows-11.jpg)
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Lastly, click on the**Save** button to save the new graphics settings.
 6. Run the app and check if the screen element appears blurry or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Switch to the Best Appearance Settings
 
@@ -100,6 +92,14 @@ To enable ClearType Text on Windows 11, repeat the following steps:
 ![Switch to Best Appearance Settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/switch-to-best-appearance-settings-in-windows-11.jpg)
 4. Finally, click on the**OK** button and exit the System Properties window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Adjust App DPI Settings
 
  Another method to remove blurry text on Windows is using the Program DPI settings. If an app or program doesn’t automatically scale up to the default settings, you can override the high DPI scaling to improve the clarity and text sharpness.
@@ -112,14 +112,8 @@ Retrace the following steps to adjust the app DPI settings:
 4. Now, click on the **Use this setting to fix scaling problems for this program instead of the one in Settings** checkbox.
 5. Next, enable the**Override high DPI scaling behavior** checkbox as well.  
 ![Adjust App DPI Settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/adjust-app-dpi-settings-in-windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Lastly, click on the**OK** button and close the Properties window.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ### 7\. Update Your Graphics Driver
 
  An outdated GPU driver can run into compatibility issues with programs. Updating the GPU drivers can resolve the issue. Here’s how to update the GPU drivers on your system:
@@ -133,9 +127,6 @@ Retrace the following steps to adjust the app DPI settings:
 
  Device Manager isn't the best for finding new drivers, so if the above trick doesn't work out, check out [how to update AMD graphics cards](https://www.makeuseof.com/how-to-update-amd-graphics-card-drivers-windows/) or [how to update Nvidia graphics cards](https://www.makeuseof.com/how-update-nvidia-graphics-card-drivers-windows/) , depending on your GPU's model.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### 8\. Roll Back the Latest Windows Update
 
  If the blurry screen issue appears after a recent Windows update, you can try rolling back to the previous version. New updates can have bugs that wreck your system's performance.
@@ -157,20 +148,18 @@ Here’s how to roll back a recent Windows update:
  You can check out how to do both of these in our guide on [how to factory reset Windows or use System Restore](https://www.makeuseof.com/tag/system-restore-factory-reset-work-windows-10/) .
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## A Blurry Windows 11 Blur Issue, Fixed
 
  Screen blurriness can impede work productivity. Start by adjusting the display scaling and enable the ClearText Type on your system. After that, override the High DPI settings and set the system for the best visual appearance. Lastly, update the GPU driver or perform a system restore to revert the system to a normal viewing experience.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -179,8 +168,24 @@ Here’s how to roll back a recent Windows update:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-ideal-modeling-software-for-animation-professionals-for-2024/"><u>[New] Ideal Modeling Software for Animation Professionals for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-firecapture-plugins-for-firefox/"><u>[New] In 2024, FireCapture Plugins for Firefox</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-decoding-the-audience-who-viewed-your-insta-post/"><u>[Updated] 2024 Approved Decoding the Audience Who Viewed Your Insta Post?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-dive-into-iphones-audio-memos-made-simple-for-2024/"><u>[Updated] Dive Into iPhone's Audio Memos Made Simple for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-video-creation-simplified-key-elements-of-using-aiseesofts-tech-for-2024/"><u>[Updated] Video Creation Simplified Key Elements of Using Aiseesoft's Tech for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/customizing-user-experience-through-gpos-in-windows-11-and-11/"><u>Customizing User Experience Through GPOs in Windows 11 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-windows-11s-admin-tools/"><u>Exploring Windows 11'S Admin Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721894075258-facing-chatgpt-body-stream-issue-here-are-seven-effective-fixes-to-try-out/"><u>Facing ChatGPT Body Stream Issue? Here Are Seven Effective Fixes to Try Out!</u></a></li>
+<li><a href="https://windows11.techidaily.com/harness-window-11-a-productivity-playbook/"><u>Harness Window 11: A Productivity Playbook</u></a></li>
+<li><a href="https://extra-support.techidaily.com/launching-zoom-sessions-smoothly-with-android-for-2024/"><u>Launching Zoom Sessions Smoothly with Android for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-tricks-to-pinpoint-your-graphic-card-on-windows-11/"><u>Quick Tricks to Pinpoint Your Graphic Card on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinvigorate-windows-search-top-11-remedies-explored/"><u>Reinvigorate Windows Search: Top 11 Remedies Explored</u></a></li>
+<li><a href="https://windows11.techidaily.com/security-enhancement-manual-add-a-self-designed-lock-pattern/"><u>Security Enhancement Manual: Add a Self-Designed Lock Pattern</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-on-driver-installation-for-lenovo-portable-docks/"><u>Step-by-Step Tutorial on Driver Installation for Lenovo Portable Docks</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-7-win-11-desk-aids-boosting-workflow/"><u>Top 7 Win 11 Desk Aids Boosting Workflow</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-the-widget-toolbar-functionality-in-win11/"><u>Understanding the Widget Toolbar Functionality in Win11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-capabilities-detailed-insights-into-the-netgear-ac1200-ex6200-wi-fi-signal-booster-review/"><u>Unveiling the Capabilities: Detailed Insights Into the Netgear AC1200 (EX6200) Wi-Fi Signal Booster Review</u></a></li>
+</ul></div>
 

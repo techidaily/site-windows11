@@ -1,7 +1,7 @@
 ---
 title: A Deep Dive Into Winning Windows Captures with Printscreen or Snip Tool
-date: 2024-08-15T15:13:39.182Z
-updated: 2024-08-16T15:13:39.182Z
+date: 2025-01-18T20:18:12.578Z
+updated: 2025-01-22T16:46:13.565Z
 tags:
   - windows10
   - windows11
@@ -20,18 +20,26 @@ thumbnail: https://thmb.techidaily.com/c67c5cabd77bd497290dc569fa7f62d814f0daa9a
 
  You can just use the PrintScreen key to capture a full-screen window. But if the Snipping Tool pops up by pressing the key, don’t worry. We will discuss the advantages of both and how to disable the Snipping Tool if you don't like it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Does the PrintScreen Key Open the Snipping Tool?
 
  The Snipping Tool underwent some pretty big changes in Windows 10\. Microsoft even rebranded it to Snip and Sketch and offered it as a separate app before merging both of them into one app. Now the Snipping Tool can take screenshots, capture videos, and apply some annotations to the captured screenshots.
 
 ![Snipping tool in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snipping-tool-in-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  A recent Windows update configures the PrintScreen key to open Snipping Tool’s image capture window. The update introduces a new option in the **Accessibility** section of the Settings app.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Snipping Tool vs. Windows PrintScreen: What's the Difference?
 
  While both the Snipping Tool and the default Windows Printscreen functionalities sound the same, the PrintScreen key works very differently. You use regular PrintScreens to capture the complete screen and then paste or save the snapshot to a document or a location on the computer. If you press the **Win + PrintScreen** key, Windows will directly save the snapshot in the Screenshots folder.
@@ -45,22 +53,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Either way, be sure to check out [why you should use the Snipping Tool](https://www.makeuseof.com/use-snipping-tool-windows/) and [how to record your screen with the Snipping Tool](https://www.makeuseof.com/how-to-screen-record-with-windows-11-snipping-tool/) before making a decision.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Stop the PrintScreen Key From Opening the Snipping Tool
 
  If you've decided that the Snipping Tool isn't for you, don't worry. Check out our guide on [how to stop the PrintScreen key from opening the Snipping Tool](https://www.makeuseof.com/print-screen-opens-snipping-tool-windows-11/).
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Restore the PrintScreen Key Functionality
 
  Before Snipping Tool came to life, Windows users relied on the PrintScreen key for screenshots. But Snipping Tool introduces capture modes and annotations which improved the screenshot and screen recording experience. However, this new change only ruins the ability to take full-screen captures with just one click.
 
  You can just use the PrintScreen key to capture a full-screen window. But if the Snipping Tool pops up by pressing the key, don’t worry. We will discuss the advantages of both and how to disable the Snipping Tool if you don't like it.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -69,5 +77,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-unpacking-the-wirecast-experience-and-its-rivals/"><u>[New] Unpacking the WireCast Experience & Its Rivals</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-how-do-i-use-adobe-premiere-to-upload-youtube-videos/"><u>[Updated] How Do I Use Adobe Premiere To Upload YouTube Videos?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-yourwebcamunlocked-astep-by-steprecordingpath/"><u>[Updated] In 2024, YourWebcamUnlocked AStep-by-StepRecordingPath</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/capture-and-record-a-new-era-of-iphoneipad-recording-for-2024/"><u>Capture & Record A New Era of iPhone/iPad Recording for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/enrich-your-windows-setup-with-personal-menus/"><u>Enrich Your Windows Setup with Personal Menus</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-halt-unwanted-file-explorer-triggers/"><u>How to Halt Unwanted File Explorer Triggers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ht-into-why-certain-youtube-comments-are-showcased/"><u>Insight Into Why Certain YouTube Comments Are Showcased</u></a></li>
+<li><a href="https://windows11.techidaily.com/purpose-and-key-aspects-of-vcplusplus-distributions/"><u>Purpose & Key Aspects of VC++ Distributions</u></a></li>
+<li><a href="https://windows11.techidaily.com/rejuvenate-your-locked-shift-key-in-windows/"><u>Rejuvenate Your Locked Shift Key in Windows.</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/ultimate-guide-to-1byone-digitals-high-performance-indoor-hd-tv-antenna-affordable-signal-booster/"><u>Ultimate Guide to 1byOne Digital's High-Performance Indoor HD TV Antenna: Affordable Signal Booster</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-how-to-reroute-your-onedrive-storage/"><u>Windows 11: How to Reroute Your OneDrive Storage</u></a></li>
+</ul></div>
 

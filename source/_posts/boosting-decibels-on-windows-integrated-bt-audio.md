@@ -1,7 +1,7 @@
 ---
 title: Boosting Decibels on Windows-Integrated BT Audio
-date: 2024-08-15T15:15:17.983Z
-updated: 2024-08-16T15:15:17.983Z
+date: 2025-01-16T20:39:35.319Z
+updated: 2025-01-22T19:38:14.353Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/8d42a5be41c7b4a2ee5933ca8170ed38361404ba7
 
  This can be irritating, especially when you can't control the volume when it is too low or too high. Fortunately, you can try various fixes when Bluetooth speaker volume control is not working in Windows 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Try Basic Repairs
 
  Before changing any important Windows settings, re-pair the Bluetooth speaker and check if it makes any difference. Oftentimes, the Bluetooth speaker or its volume controller stops working due to a temporary glitch in the Bluetooth speaker. To eliminate that glitch, re-pair your Bluetooth device. Here's how:
@@ -33,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/8d42a5be41c7b4a2ee5933ca8170ed38361404ba7
 6. Choose**Bluetooth.**  
 ![Add a device option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/add-a-device-option.jpg)
 7. Select your Bluetooth speaker and then click on the**Done** button to exit the window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Restating your computer](https://www.makeuseof.com/windows-restart-methods/) is also a great way to eliminate bugs and glitches that might be causing the issue. To restart your Windows PC, press the**Alt + F4** hokey, choose**Restart** from the drop-down menu, and click OK.
 
@@ -48,11 +56,16 @@ thumbnail: https://thmb.techidaily.com/8d42a5be41c7b4a2ee5933ca8170ed38361404ba7
 5. In the**Get Help** window that crops up, click**Yes** to give your consent to run automated diagnostics to fix your Bluetooth issue.  
 ![Yes option of the Bluetooth Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/yes-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That's it! The Bluetooth troubleshooter will detect and fix issues automatically. Once the process is complete, restart your system and check if the Bluetooth speaker volume controller is working.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Choose Your Bluetooth Speaker as Default Audio Device
 
  It's important to properly configure the Bluetooth speaker on your Windows PC. If it is not set as the default device to play audio, you'll likely experience various Bluetooth issues, including the one at hand.
@@ -62,18 +75,9 @@ thumbnail: https://thmb.techidaily.com/8d42a5be41c7b4a2ee5933ca8170ed38361404ba7
 1. Launch the Settings app, choose**System** from the left sidebar, and**Sound** from the right pane.
 2. Click**More sound settings** under the**Advanced** section.  
 ![More sound settings option in the Sound setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/more-sound-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Select your Bluetooth speaker and click the**Set default** button. Then, click**OK** to save the changes.  
 ![Set default option in the Sound settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-default.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Update Your Bluetooth Driver
 
  Drivers become outdated with time. Using an outdated driver can pose issues and thus affect the normal functioning of the device. So, it is a great idea to update your Bluetooth driver to the latest version.
@@ -83,10 +87,11 @@ Follow these steps to download the latest Bluetooth driver update:
 1. Launch the**Device Manager** (see how to [open Device Manager](https://www.makeuseof.com/windows-open-device-manager/) ) and expand the Bluetooth node.
 2. Right-click on the Bluetooth adapter and choose the**Update driver** option.  
 ![Update driver option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/update-driver.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Choose**Search automatically for driver** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, wait till the utility looks for and downloads any available driver update. However, if Windows fails to detect any new driver update, search on your Bluetooth adapter manufacturer's website for a new driver.
 
@@ -103,9 +108,6 @@ Follow these steps to download the latest Bluetooth driver update:
 
  Next, restart your computer and pair the Bluetooth device again. Upon pairing, Windows will auto-download the latest drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Restart Bluetooth Support Service
 
  Bluetooth Support Service is an important Windows service that is responsible for the proper functioning of Bluetooth speakers. If this service is not running or has been affected by a temporary bug, you'll encounter the Bluetooth speaker volume controller not working issue.
@@ -118,9 +120,6 @@ Follow these steps to download the latest Bluetooth driver update:
 ![Bluetooth Support Service in the Service window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bluetooth-support-service.jpg)
 4. Click**Yes** to the confirmation box that crops up.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## 7\. Turn Off Absolute Volume
 
  Absolute Volume is an incredible Windows feature that lets you effectively manage the volume of your Bluetooth speaker. But, for various reasons, it might start malfunctioning and prevent you from adjusting the volume.
@@ -135,28 +134,31 @@ Follow these steps to download the latest Bluetooth driver update:
 3. Right-click on the**CT folder** in the left sidebar, hover the cursor to**New,** and choose**DWORD (32-bit) Value** .  
 ![DWORD (32-bit) Value in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/dword-32-bit-value.jpg)
 4. Right-click the newly created value in the right pane, and choose**Rename** from the context menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Name the value**DisableAbsoluteVolume** and press Enter.
 6. Double-click on the DisbaleAbsoluteVolume value in the right pane.
 7. Type**1** in the**Value data** section and click**OK.**  
 ![Value data of DisableAbsoluteVolume value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/value-data.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Restart your system, and you'll see you are no longer facing the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Bluetooth Speaker Volume Control Not Working, Fixed
 
  These are all the fixes you can try when the Bluetooth speaker volume controller is not working in Windows 11\. Restarting the computer and re-pairing the Bluetooth device usually does the trick. However, if that doesn't work, try troubleshooting the drivers, restarting important services, and updating drivers.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -165,8 +167,22 @@ Follow these steps to download the latest Bluetooth driver update:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-paint-your-vision-top-8-best-drawing-apps-for-iphone-enthusiasts-for-2024/"><u>[New] Paint Your Vision Top 8 Best Drawing Apps for iPhone Enthusiasts for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-ultimate-guide-to-effortless-vrecorder-setup/"><u>[New] The Ultimate Guide to Effortless VRecorder Setup</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-device-manager-error-unfolds/"><u>[SOLVED]: Device Manager Error Unfolds</u></a></li>
+<li><a href="https://windows11.techidaily.com/asus-zenbook-14-the-windows-mac-battle-continues/"><u>ASUS Zenbook 14: The Windows-Mac Battle Continues</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-expiring-software-license-caution-in-windows-1011/"><u>Avoiding Expiring Software License Caution in Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/awakening-hidden-pane-windows-effective-steps-for-win11/"><u>Awakening Hidden Pane Windows: Effective Steps for Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/best-in-class-window-videomodding-tools-our-top-picks/"><u>Best-in-Class Window Videomodding Tools: Our Top Picks</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-not-working-errors-for-your-pcs-win-based-software/"><u>Bypassing 'Not Working' Errors for Your PC’s Win-Based Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-the-user-logon-failure-glitch-in-cs-go-with-these-proven-strategies/"><u>Bypassing the 'User Logon Failure' Glitch in CS: GO with These Proven Strategies</u></a></li>
+<li><a href="https://windows11.techidaily.com/conjoining-android-and-windows-11-tablets-effortlessly/"><u>Conjoining Android and Windows 11 Tablets Effortlessly</u></a></li>
+<li><a href="https://windows11.techidaily.com/dive-into-game-worlds-playing-android-apps-in-windows-11-via-google-services/"><u>Dive Into Game Worlds: Playing Android Apps in Windows 11 via Google Services</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/leading-idevice-videography-tools/"><u>Leading iDevice Videography Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/prime-ringtone-reserves-retro-rhythms-online-for-2024/"><u>Prime Ringtone Reserves Retro Rhythms Online for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/put-and-play-mkv-movies-on-xiaomi-redmi-k70-pro-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Put and play MKV movies on Xiaomi Redmi K70 Pro</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-honor-v-purse-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Honor V Purse Android SIM Unlock APK</u></a></li>
+</ul></div>
 

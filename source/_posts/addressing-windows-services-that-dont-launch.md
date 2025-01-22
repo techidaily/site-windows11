@@ -1,7 +1,7 @@
 ---
 title: Addressing Windows Services That Don't Launch
-date: 2024-08-15T15:15:58.564Z
-updated: 2024-08-16T15:15:58.564Z
+date: 2025-01-20T17:53:37.949Z
+updated: 2025-01-22T18:32:56.309Z
 tags:
   - windows10
   - windows11
@@ -33,8 +33,9 @@ thumbnail: https://thmb.techidaily.com/6391f80929a44e71d1cec19d1806bcb918554d022
 * Registry-related errors
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Apply Some General Fixes
 
  Try the fixes given below once and check whether you can perform a Windows search or not:
@@ -42,17 +43,14 @@ thumbnail: https://thmb.techidaily.com/6391f80929a44e71d1cec19d1806bcb918554d022
 * **Run SFC to check the corrupted system files:** SFC stands for System File Checker, and it's an in-built tool that helps you repair corrupted system files. To use the tool, learn [how to run SFC on Windows](https://www.makeuseof.com/system-file-checker-sfc-windows/).
 * **Run the Search and Indexing troubleshooter:** Press **Win + Q**, type **Fix Windows Search**, and double-click on the best search result to run the troubleshooter.  
 ![Windows Search Results Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-search-results.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 * **Check for updates:** If you're experiencing issues with the Windows Search service, try [manually updating Windows](https://www.makeuseof.com/update-windows-manually/) once.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  These are just a few basic ways we expect to work in case of a Windows search error. But, if you're still unable to search for anything, move to some advanced troubleshooting methods.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Restart the Relevant Windows Services
 
  When you boot up Windows, more than 50 services start simultaneously. This helps the operating system to function correctly, and most of these services are dependent on each other. So, if one service fails or stops for any reason, the dependent services will misbehave too.
@@ -64,16 +62,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. To restart the services, right-click on each of the following and select the **Restart** option: **Background Tasks Infrastructure Service**, **Remote Procedure Call (RPC)**, and **Windows Update**.
 
 ![Windows Update Service In Services App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-update-service.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 
  That's it. Now restart your system and check for the search error. If you’re still facing the Windows search could not start error, restarting the dependent services should do the trick. So, take your time and restart the services once.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## 3\. Fix Incorrect Group Policy Settings
 
  Windows includes a useful app called the Group Policy Editor. This app helps administrators turn on/off more than 2000 Windows settings (or policies).
@@ -86,17 +77,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Click on **Administrative Templates > Windows Components > Search** to access all the settings related to Windows search.  
 ![Local Group Policy Editor Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/local-group-policy-editor-windows.jpg)
 3. Double-click on **Fully Disable Search UI** and select **Not Configured**. Click **OK** to save the changes and exit the settings wizard.  
-![Windows Search Policy Setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-search-policy-setting.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Windows Search Policy Setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-search-policy-setting.jpg)
 4. You have to do the same thing, i.e., double-click, then select **Not Configured** and click **OK** with each of the following policies: **Do not allow web search**, **Configures search on the taskbar**, and **Allow search highlights**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Group Policy Editor is an advanced tool, and incorrect tweaks can cause system instability. So, be careful to change only the mentioned settings. If a setting is unavailable or locked on your computer, proceed to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Enable Windows Search Service via MSConfig
 
  The MSConfig utility (System Configuration tool) is a built-in feature that provides a central hub for troubleshooting and managing various aspects of your system. It's pretty handy and can prove helpful for you if the Windows search service is not working.
@@ -113,6 +107,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Besides this, MSConfig has many other use cases. Read our in-depth guide on [Microsoft System Configuration Utility (MSConfig)](https://www.makeuseof.com/windows-msconfig-guide/) to know some of them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Delete Files in the Windows TxR Directory
 
  TxR (Transaction Resource Manager) is a directory (folder) that keeps track of all the changes you make to Windows files.
@@ -125,17 +123,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Navigate to the TxR directory (**C:\\windows\\system32\\config\\TxR**). The first time you open the folder, it'll show **This folder is empty**.  
 ![Windows TxR Directory Path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-txr-directory-path.jpg)
 3. Click on **View** at the top bar of the File Explorer. Then, go to **Show** and tick **Hidden items**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Hidden Items File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/hidden-items-file-explorer.jpg)
 4. Similarly, click on the three-dot menu at the top. Click **Options > View**. Scroll down and uncheck or disable **Hide protected operating system files (Recommended)**.  
 ![File Explorer Folder Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/file-explorer-folder-options.jpg)
 5. Now all the files inside the directory should be visible to you. Please select all the files (**Ctrl + A**) and then delete them.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Windows TxR Directory Files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-txr-directory-files.jpg)
 
  The steps might seem too complex, but the screenshots should help you. Besides, as Microsoft recommends, there's no harm in deleting the files in case of search service-related errors.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Reset Windows Search
 
  Microsoft provides a PowerShell script on their website to reset Windows search. We'll show you how to use it and get the search service working on your computer again.
@@ -143,9 +148,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  To get started, download the [Reset Windows Search PowerShell script](https://www.microsoft.com/En-Us/Download/details.aspx?Id=100295). Go to your downloads folder and double-click on the downloaded script file (with a **.PS1** extension).
 
 ![PowerShell Script Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/powershell-script-context-menu.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The script will now reset the search-related options and settings to their default state. Once done, open the Windows search bar and type something to check whether it's working.
 
@@ -163,8 +165,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  In this guide, we'll look at some troubleshooting methods to resolve the Windows Search service error.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -172,5 +172,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-introducing-10-elusive-instagram-story-visionaries/"><u>[Updated] In 2024, Introducing 10 Elusive Instagram Story Visionaries</u></a></li>
+<li><a href="https://windows11.techidaily.com/3-ways-to-check-if-windows-11-is-activated/"><u>3 Ways to Check If Windows 11 Is Activated</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-guide-to-overhauling-the-settings-app-in-win11/"><u>A Guide to Overhauling the Settings App in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-the-blockade-fixing-obs-studios-server-error-window/"><u>Bypassing the Blockade: Fixing OBS Studio's Server Error Window</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/capture-and-save-fb-videos-on-windows-mac/"><u>Capture and Save FB Videos on Windows, Mac</u></a></li>
+<li><a href="https://windows11.techidaily.com/cut-costs-not-compromise-top-5-free-media-software/"><u>Cut Costs, Not Compromise: Top 5 Free Media Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/detailed-steps-to-fully-remove-wsl/"><u>Detailed Steps to Fully Remove WSL</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-non-google-ar-visual-interactions-for-2024/"><u>Exploring Non-Google Ar Visual Interactions for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/football-manager-2021-pc-instability-issues-comprehensive-troubleshooting-guide/"><u>Football Manager 2021 PC Instability Issues: Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-front-seat-recreation-10-non-athletic-delights/"><u>In 2024, Front Seat Recreation 10 Non-Athletic Delights</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/in-2024-how-to-generate-speech-from-text-the-top-text-to-speech-converters/"><u>In 2024, How To Generate Speech From Text | The Top Text-to-Speech Converters</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/puppys-pleasure-viewer-inclusive-pet-monitoring/"><u>Puppy's Pleasure Viewer: Inclusive Pet Monitoring</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-spots-for-virtual-reality-experiences-for-2024/"><u>Top Spots for Virtual Reality Experiences for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>What is Geo-Blocking and How to Bypass it On Apple iPhone 6? | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Balancing System Resources with Microsoft Edge
-date: 2024-08-15T15:16:29.782Z
-updated: 2024-08-16T15:16:29.782Z
+date: 2025-01-18T16:05:14.373Z
+updated: 2025-01-22T18:56:39.030Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/2861a5dab13720b2493f18438249b45a68a3216a3
  Take a peek at the Windows Task Manager when Edge is running, and you'll no doubt see dozens of processes for the browser. Even if you only have one or two tabs open. But why does Edge require so many active processes, and is there a way to reduce the number?
 
  Let's dig into how Edge works, why its process list clutters up the Task Manager, and what you can do about it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Does Edge Show So Many Processes on Task Manager?
 
@@ -39,8 +43,9 @@ thumbnail: https://thmb.techidaily.com/2861a5dab13720b2493f18438249b45a68a3216a3
  You can also look at the browser's built-in Task Manager for a more detailed view. You can open this by pressing**Shift+Esc** when Edge is running and selected. Here you can see details of the individual processes we mentioned earlier.
 
 ![the task manager in the Edge Browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/edge-task-manager.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Reduce the Number of Edge Processes on Windows
@@ -50,52 +55,46 @@ thumbnail: https://thmb.techidaily.com/2861a5dab13720b2493f18438249b45a68a3216a3
  But there are some simple ways to reduce the number of processes Edge uses if you're concerned about their impact on PC performance.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Remove Unused Extensions
 
  Have a look at your installed browser extensions to see if you can remove any. Each active extension can have one or more processes running, so cleaning out your add-on clutter is an easy way to reduce the count.
 
  Check out [how to find, install, and manage extensions on Edge](https://www.makeuseof.com/find-install-manage-extensions-chrome-edge-vivaldi/) for more information on how to do this.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ### 2\. Change Edge's Settings
 
  Several optional Edge settings require their own separate processes. This includes Startup Boost and Hardware Acceleration. You can disable both of these features in**Edge Settings > System and Performance** .
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3/ Close Some Unused Tabs
 
  Each open tab in Edge could result in ten or more processes. If you regularly leave multiple unused tabs open, closing them will instantly help to reduce the number of active processes.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is There a Better Browser Choice For Windows
 
  Many modern browsers exhibit the same problem, including Opera, Brave, Vivaldi, and Chrome. All of them are based on Chromium. Firefox is one of the few modern browsers not to use the Google-developed browser architecture.
 
  It is worth remembering that the multi-process system is used for a reason and can provide better stability and security. But if you feel like trying out a new browser, peruse our list of the [best browsers for gamers](https://www.makeuseof.com/best-web-browsers-for-gamers/) and the [best browsers for Windows 11](https://www.makeuseof.com/windows-11-best-browsers/) .
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Microsoft Edge's Processes, Cut DOwn
 
  The reasons why Microsoft Edge needs to have so many processes running might make sense, but that doesn't mean you have to be happy about the issue. Processes are an unavoidable part of Windows and any app you use, but reducing their number can provide a welcome performance boost.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -104,8 +103,19 @@ thumbnail: https://thmb.techidaily.com/2861a5dab13720b2493f18438249b45a68a3216a3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-the-updated-user-manual-for-navigating-facebook/"><u>[New] In 2024, The Updated User Manual for Navigating Facebook</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-turbocharging-fb-media-speed-techniques-revealed/"><u>[New] In 2024, Turbocharging FB Media Speed Techniques Revealed</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-become-a-freelance-transcriber-tips-and-tricks-for-youtube-content-for-2024/"><u>[Updated] Become a Freelance Transcriber Tips and Tricks for YouTube Content for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-unleashing-creativity-in-stories-adding-personalized-graphics/"><u>[Updated] In 2024, Unleashing Creativity in Stories Adding Personalized Graphics</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-deep-dive-into-magix-music-production-tools/"><u>2024 Approved A Deep Dive Into Magix Music Production Tools</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-superior-converter-mp4-to-facebook/"><u>2024 Approved Superior Converter MP4 to Facebook</u></a></li>
+<li><a href="https://games-able.techidaily.com/breaking-down-the-framework-for-virtual-creation/"><u>Breaking Down the Framework for Virtual Creation</u></a></li>
+<li><a href="https://windows11.techidaily.com/bridging-gap-restore-invisible-bluetooth-items-mgr/"><u>Bridging Gap: Restore Invisible Bluetooth Items Mgr</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-how-to-activate-and-use-mouseclicklock-efficiently/"><u>Decoding How to Activate and Use MouseClickLock Efficiently</u></a></li>
+<li><a href="https://windows11.techidaily.com/discerning-the-divergences-between-terminal-and-powershell/"><u>Discerning the Divergences Between Terminal & PowerShell</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719329062784-overcoming-full-screen-capture-annoyances-with-these-4-strategies/"><u>Overcoming Full-Screen Capture Annoyances with These 4 Strategies</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/stepwise-introduction-to-adding-texts-on-tiktok-for-2024/"><u>Stepwise Introduction to Adding Texts on TikTok for 2024</u></a></li>
+</ul></div>
 

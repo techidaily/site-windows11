@@ -1,7 +1,7 @@
 ---
 title: Switching Off GeForce UI in Windows Settings
-date: 2025-01-12T14:18:22.765Z
-updated: 2025-01-16T07:37:13.686Z
+date: 2025-01-15T19:06:14.012Z
+updated: 2025-01-22T16:48:58.958Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/3a086eb5f8446de2870210890acaafe476fc2c59a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Use the Nvidia GeForce Overlay?
 
  Nvidia GeForce overlay is a useful gaming utility. It offers many great features for avid gamers and streamers. Rather than installing separate software for each feature, gamers get all of them in one app. Check our detailed[guide on Nvidia GeForce Experience app](https://www.makeuseof.com/tag/geforce-experience-use-si/) for more info.
@@ -42,6 +38,10 @@ Here are some of the features of Nvidia GeForce overlay offers:
 5. Share gameplay with friends.
 6. Monitor graphics card performance.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can You Turn Off the Nvidia GeForce Overlay?
 
  Yes. It is possible to turn off the Nvidia GeForce overlay. The app offers the option to completely disable the feature in the settings.
@@ -49,7 +49,7 @@ Here are some of the features of Nvidia GeForce overlay offers:
  Despite this, it doesn’t provide a method to disable the overlay for a single game. There is a trick to do so, but unfortunately, it doesn’t work all the time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Turn Off the Nvidia GeForce Overlay for All Games
@@ -63,13 +63,13 @@ To disable the Nvidia GeForce overlay, repeat the following steps:
 ![open geforce experience](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-overlays-1.jpg)
 3. In the Nvidia GeForce Experience app, find the**gear** icon on the top bar and click on it to enter the**settings** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Now, scroll down and locate the**In-Game Overlay** option. If you see a**green toggle** next to it, then the overlay is active.  
 ![disable overlay option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-overlays-2.jpg)
 5. Click on the green toggle to disable the**In-Game Overlay** on your system.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Now, close the Nvidia GeForce Experience app. The overlay will not be active anymore. You can confirm it by pressing the**Alt + Z** which is the default overlay shortcut.
 
@@ -83,15 +83,19 @@ To change the keyboard shortcut for overlay, do as follows:
 ![geforce overlay](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/change-shortcut-key-1.jpg)
 2. Now, scroll down and select the**Keyboard Shortcuts** option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. The keyboard shortcut to launch the overlay is the first option under the**General** section.  
 ![change shortcut key for geforce overlay](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/change-shortcut-key-2.jpg)
 4. Click on the**text field** and then input the new key combination you want to use. Before doing that, verify that the combination isn't already in use for some other feature.
 
-5. Then click on**back** and exit the overlay. Try your new key combination to check whether it launches the overlay.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Then click on**back** and exit the overlay. Try your new key combination to check whether it launches the overlay.
 
 ## How to Uninstall the Nvidia GeForce Experience App Completely
 
@@ -111,10 +115,6 @@ To remove the Nvidia GeForce Experience, repeat the following steps:
 
 ![uninstall geforce experience window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/uninstall-geforce-experience-3.jpg)
 5. Now, wait for the uninstallation to complete.**Restart** your system.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Nvidia GeForce Experience is now removed from your system. You won't have to worry about the overlays feature anymore.
 
@@ -149,24 +149,18 @@ To remove the Nvidia GeForce Experience, repeat the following steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-capturing-excellence-a-full-breakdown-of-sj-cam-s6/"><u>[New] Capturing Excellence A Full Breakdown of SJ-CAM S6</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-unleash-creativity-customizing-call-alert-sounds-on-iphone/"><u>[New] In 2024, Unleash Creativity Customizing Call Alert Sounds on iPhone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-mastering-the-art-of-youtube-closings-inclusive-guide/"><u>[New] Mastering the Art of YouTube Closings [Inclusive Guide]</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-step-by-step-for-erasing-sign-in-email-in-win/"><u>A Step-By-Step for Erasing Sign-In Email in Win</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-overview-and-reviews-by-toms-hardware-experts/"><u>Comprehensive Overview and Reviews by Tom's Hardware Experts</u></a></li>
-<li><a href="https://windows11.techidaily.com/customize-your-experience-altering-device-settings-in-windows-11/"><u>Customize Your Experience: Altering Device Settings in Windows 11</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/enhancing-call-clarity-silencing-distractions-for-2024/"><u>Enhancing Call Clarity Silencing Distractions for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-endorsed-top-10-for-windows-free-app-safety/"><u>Expert-Endorsed Top 10 for Windows FREE App Safety</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-memes-9-essential-elements-for-gif-perfection/"><u>In 2024, The Art of Memes 9 Essential Elements for GIF Perfection</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/overcoming-the-challenge-of-a-missing-or-corrupted-msvcrt10dll/"><u>Overcoming the Challenge of a Missing or Corrupted msvcrt10.dll</u></a></li>
-<li><a href="https://windows11.techidaily.com/proactive-upgrade-implementing-tpm-and-secure-boot-on-w11-systems/"><u>Proactive Upgrade: Implementing TPM and Secure Boot on W11 Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/reclaim-shift-control-with-easy-fixes/"><u>Reclaim Shift Control with Easy Fixes</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamlessly-carry-over-your-custom-powertoys/"><u>Seamlessly Carry Over Your Custom PowerToys</u></a></li>
-<li><a href="https://windows11.techidaily.com/securing-and-sharing-files-building-extractable-sfxs-in-win11/"><u>Securing and Sharing Files: Building Extractable SFXs in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/steering-clear-of-windows-11-blunders-top-8-tips/"><u>Steering Clear of Windows 11 Blunders: Top 8 Tips</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-art-of-professionalising-a-roadmap-in-graphic-design/"><u>The Art of Professionalising A Roadmap in Graphic Design</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-poco-f5-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Poco F5 5G to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlock-the-mac-os-look-in-windows-try-these-5-techniques-first/"><u>Unlock the Mac OS Look in Windows - Try These 5 Techniques First</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/winwordexe-application-snags-here-are-five-straightforward-fixes/"><u>WINWORD.EXE Application Snags? Here Are Five Straightforward Fixes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-apples-pride-ios-10-best-no-cost-collages-and-photo-edits/"><u>[New] Apple's Pride IOS' 10 Best No-Cost Collages & Photo Edits</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-crafting-a-chorus-of-images-and-sound-on-instagram/"><u>[New] Crafting a Chorus of Images & Sound on Instagram</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-transform-your-footage-techniques-for-exceptional-instagram-videos/"><u>[New] In 2024, Transform Your Footage Techniques for Exceptional Instagram Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-beginners-guide-to-weekly-virtual-office-hours/"><u>[New] The Beginner's Guide to Weekly Virtual Office Hours</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-sync-apps-for-microsoft-office-holders/"><u>Essential Sync Apps for Microsoft Office Holders</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-sleep-issues-on-windows-11-keys-and-mice/"><u>Fixing Sleep Issues on Windows 11: Keys & Mice</u></a></li>
+<li><a href="https://windows11.techidaily.com/gameplay-improvement-less-lag-more-frames-in-roblox/"><u>Gameplay Improvement: Less Lag, More Frames in Roblox</u></a></li>
+<li><a href="https://win-dash.techidaily.com/installing-your-epson-ds-530-printer-on-windows-10-x64-essential-driver-guide-and-downloads/"><u>Installing Your Epson DS-530 Printer on Windows 10 (X64): Essential Driver Guide & Downloads</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-technology-with-toms-hardware-experts-top-picks-and-reviews/"><u>Navigating Technology with Tom's Hardware Experts: Top Picks & Reviews</u></a></li>
+<li><a href="https://windows11.techidaily.com/prodigious-windows-11-tools-the-ultimate-7-productivity-list/"><u>Prodigious Windows 11 Tools: The Ultimate 7 Productivity List</u></a></li>
+<li><a href="https://games-able.techidaily.com/shared-adventure-navigating-two-player-mode-on-switch/"><u>Shared Adventure: Navigating Two-Player Mode on Switch</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-track-down-where-your-windows-programs-live/"><u>Strategies to Track Down Where Your Windows Programs Live</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-ultimate-gameplay-with-dxvk-in-windows-environment/"><u>Unlocking Ultimate Gameplay with DXVK in Windows Environment</u></a></li>
 </ul></div>
 

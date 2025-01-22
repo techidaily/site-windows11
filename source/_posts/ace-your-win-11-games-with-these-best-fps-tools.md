@@ -1,7 +1,7 @@
 ---
 title: Ace Your Win 11 Games with These Best FPS Tools
-date: 2024-08-15T15:15:56.354Z
-updated: 2024-08-16T15:15:56.354Z
+date: 2025-01-15T19:33:50.842Z
+updated: 2025-01-22T16:07:54.296Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/c9c3286561c0cb162a6f36b6b19f491a65ddd3daf
 
  Here are the best FPS counters to track framerates in games on your Windows 11 computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. FRAPS
 
 ![fraps fps counter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fraps-fps-counter.jpg)
@@ -36,21 +40,17 @@ thumbnail: https://thmb.techidaily.com/c9c3286561c0cb162a6f36b6b19f491a65ddd3daf
 
 **Download** :[FRAPS](https://fraps.com/) (Free)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. NZXT Cam
 
 ![NZXT cam fps counter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nzxt-cam-fps-counter.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 
  NZXT Cam is a system performance management utility with some useful features. For example, it features a nice little overlay feature that you can activate with the Ctrl + O hotkey. When enabled, it shows FPS count, CPU, GPU, and RAM utilization. Furthermore, you can configure network and system time information as well.
 
 ![NZXT Cam overlay](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nzxt-cam-overlay.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 
  To configure the**NZXT Cam** overlay, launch the app and click on**Settings** (**Gear icon**) in the bottom left corner. Next, open the**Overlay** tab. Under Overlay**Settings** , check all the panels that you want to display, including the FPS option.
 
@@ -58,14 +58,12 @@ The powerful video editing program for your Windows PC</a>
 
 **Download** :[NZXT Cam](https://nzxt.com/software/cam) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Nvidia GeForce Experience Performance Overlay
 
 ![Nvidia GeFroce Experience Performance Overlay](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-gefroce-experience-performance-overlay.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you have Nvidia graphics, you don’t need to use a third-party FPS counter app. Nvidia’s GeForce Experience features a**Performance Overlay** to system performance as an overlay.
@@ -84,14 +82,12 @@ To enable Performance overlay:
 **Download** :[Nvidia GeForce Experience](https://www.nvidia.com/en-in/geforce/geforce-experience/download/) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. FPS Monitor
 
 ![fps counter game overlay](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fps-counter-game-overlay.jpg)
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you need to benchmark a little more than just framerates, FPS Monitor will fit the bill perfectly. It tracks your computer’s hardware state and displays the information in-game as an overlay.
 
@@ -109,6 +105,10 @@ To enable Performance overlay:
 
 ![Steam in game pfs counter 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/steam-in-game-pfs-counter-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Steam has a built-in FPS counter that is disabled by default. You can enable the framerate counter to measure performance for the games launched on Steam.
 
 To enable the FPS counter on Steam:
@@ -118,18 +118,17 @@ To enable the FPS counter on Steam:
 3. Open the**In-Game tab** in the**Settings** dialog.  
 ![Steam in game fps counter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/steam-in-game-fps-counter.jpg)
 4. Next, click the**In-Game FPS Counter** drop-down and select**Top-left** . You can also set it to Top-right, Bottom-right, or Bottom-left.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click**OK** to save the changes.
 6. Next time you launch a game on Steam, you’ll notice a green-color FPS title appearing at your preferred location on your screen.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Razer Cortex
 
 ![razzer cortex fps counter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/razzer-cortext-fps-counter.jpg)
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Razer Cortex is a [game FPS booster tool for Windows](https://www.makeuseof.com/best-fps-boosters-windows-10/) to optimize games for better performance. It also features a nifty In-Game overlay. You can use it to show FPS count, system time, and playtime as an overlay.
 
@@ -163,8 +162,6 @@ To enable Razer Cortex overlay:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,8 +169,23 @@ To enable Razer Cortex overlay:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-seamless-video-transition-tweeting-plus-tumbling/"><u>[New] 2024 Approved Seamless Video Transition Tweeting + Tumbling</u></a></li>
+<li><a href="https://windows11.techidaily.com/activating-telnet-on-windows-3-key-methods/"><u>Activating Telnet on Windows: 3 Key Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-unavailable-display-settings-in-nvidia-software/"><u>Addressing Unavailable Display Settings in Nvidia Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/alter-ip-settings-with-confidence-windows-11/"><u>Alter IP Settings with Confidence (Windows 11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/bring-back-sound-on-systems-running-low-volume-errors/"><u>Bring Back Sound on Systems Running Low Volume Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-up-steam-cloud-errors/"><u>Clearing Up Steam Cloud Errors</u></a></li>
+<li><a href="https://win-studio.techidaily.com/comment-configurer-la-fonction-mirroring-pour-votre-disque-de-demarrage-dans-windows-server-2016/"><u>Comment Configurer La Fonction Mirroring Pour Votre Disque De Démarrage Dans Windows Server 2016 ?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/cutting-edge-features-explored-in-apples-latest-airpods-review-generation-3-reimagined/"><u>Cutting Edge Features Explored in Apple's Latest AirPods Review – Generation 3 Reimagined!</u></a></li>
+<li><a href="https://windows11.techidaily.com/cutting-edge-windows-11-shortcut-personalization-techniques/"><u>Cutting-Edge Windows 11 Shortcut Personalization Techniques</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/deutsch-fur-anfanger-zahlen-von-1-100-im-kontext/"><u>Deutsch Für Anfänger: Zählen Von 1-100 Im Kontext</u></a></li>
+<li><a href="https://windows11.techidaily.com/ditch-default-home-port-on-w11-settings-interface/"><u>Ditch Default Home Port on W11 Settings Interface</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/from-reviews-to-vlogs-with-mac-patrons/"><u>From Reviews to Vlogs with Mac Patrons</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-iphone-13-pro-activation-lock-by-drfone-ios/"><u>How to Remove iPhone 13 Pro Activation Lock</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-realme-gt-3-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Realme GT 3 Device</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-lava-agni-2-5g-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Lava Agni 2 5G Phone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-and-resolving-the-401-forbidden-issue-on-your-site/"><u>Troubleshooting and Resolving the 401 Forbidden Issue on Your Site</u></a></li>
+</ul></div>
 

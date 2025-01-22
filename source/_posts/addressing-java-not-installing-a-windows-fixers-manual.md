@@ -1,7 +1,7 @@
 ---
 title: "Addressing Java Not Installing: A Windows Fixer's Manual"
-date: 2024-08-15T15:12:52.363Z
-updated: 2024-08-16T15:12:52.363Z
+date: 2025-01-15T17:46:01.189Z
+updated: 2025-01-22T16:49:52.847Z
 tags:
   - windows10
   - windows11
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/8009d92085bbb2b59b0e3b6dadde39baefbadc66e
 ---
 
 ## Addressing Java Not Installing: A Windows Fixer's Manual
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -36,108 +40,6 @@ thumbnail: https://thmb.techidaily.com/8009d92085bbb2b59b0e3b6dadde39baefbadc66e
 ![The Program Install and Uninstall troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/installing-option.jpg)
 4. Select **Next** \> **Installing** to start the troubleshooting.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## 2\. Try Installing Java With the Offline Installer
-
- If the Java installation error arises with the online installer or with automatic updates enabled, try utilizing the alternative offline Java installer. The offline Java installer is often more reliable than the buggy online one for which a stable internet connection is required.
-
-![The Windows Offline download link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/windows-offline-download-link.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
-
- You can obtain that installation package by clicking the **Windows Offline (64-bit)** link on the [Java download page](https://www.java.com/en/download/manual.jsp). If you have a 32-bit Windows 10 platform, click the **Windows Offline** package link. Double-click the downloaded Java installation file to run the installer and select the **Install** option from there.
-
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## 3\. Run the Java Installer File With Administrator Rights
-
- It might help to run the Java installer file with admin rights to ensure it has full system access rights. This can be done by right-clicking the Java installer file and selecting a **Run as administrator** context menu option.
-
-![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/run-as-administrator.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
-## 4\. Uninstall an Old Java Version
-
- Java installation issues can often arise because of older Java packages installed on PCs. Many users have confirmed they’ve fixed the Java error code 1603 installation issue by uninstalling old Java versions. You can detect and remove outdated Java versions on your PC with the Java Uninstall Tool as follows:
-
-1. Open this [Java Uninstall Tool page](https://www.java.com/en/download/uninstalltool.jsp).
-2. Click **I Agree to the Terms** to download the Java Uninstall Tool.
-3. Press the **Windows** logo + **E** key combination to go to the folder containing the downloaded Java Uninstall Tool file.
-4. Double-click the **JavaUninstallTool.exe** file.
-5. Click **Agree** to continue with Java detection.  
-![The Java Uninstall Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/java-installer-tool.jpg)
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-6. Select the checkbox for any detected Java version.
-7. Click **Next** and **Yes** to remove the selected Java version.  
-![A Java version checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/java-installer-image.jpg)
-8. Select **Yes** again to remove the Java Cache.
-9. Click **Get Java** to download the latest version. Then try installing Java again.
-
-## 5\. Repair Windows' System Files
-
- System file corruption isn’t widely confirmed to cause any specific Java installation error. However, don’t rule out the possibility of corrupted system files causing installation issues on your PC. You can easily [repair corrupted Windows files](https://www.makeuseof.com/windows-built-in-repair-tools/) by running System File Checker and Deployment Image Servicing and Management scans with these Command Prompt commands:
-
-`DISM /Online /Cleanup-Image /RestoreHealth  
-  
-sfc /scannow`
-
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
-## 6\. Turn Off Antivirus Shields and Firewalls
-
- Disabling antivirus protection is another resolution users confirm to have fixed Java installation issues with. Doing so will ensure a real-time antivirus shield can’t block the installation of Java. So, try temporarily off the antivirus shield for any third-party security software on your PC before attempting to install Java. Right-click the security app’s icon in the system tray to select an option for disabling it.
-
-![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
-
- A firewall can also feasibly cause issues for the online Java installer at least. So, temporarily disable Microsoft Defender Firewall or a third-party alternative installed before running the Java installer to eliminate that potential cause. Our [how to turn off Microsoft Defender Firewall](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) guide includes instructions for disabling that firewall.
-
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
-## 7\. Reboot Windows With a Clean Boot
-
- A clean boot is a stripped-down Windows startup that excludes third-party apps and services. Setting a clean boot stops third-party apps and services automatically starting with Windows. Applying this resolution can potentially fix some Java installation errors because it prevents third-party background apps or services from conflicting with the Java installation process.
-
- Our guide on [performing a clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/) tells you how to disable third-party startup items. When you’ve done that, have another go at installing Java after rebooting Windows 11/10\. Then you can re-enable all the disabled startup items via Task Manager and MSConfig.
-
-![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/services-tab.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
-
-## Utilize Your Java-Based Software Packages Again on Your Windows PC
-
- We can’t promise guaranteed solutions for all Java installation errors. However, the Windows troubleshooting methods above will likely fix Java not installing in most cases. Fixing your Java installation error with one of those methods will ensure you can run and utilize all Java-based programs on your Windows PC.
-
- There are many old Java-based Windows software packages for which users still need to install Java on their PCs to run. However, some users can’t install the desktop Java software when needed because of installation issues. Or users can’t update Java when such issues arise.
-
- Java installation errors have variable messages, but they all mean Java failed to install. Some reported error messages say, “Unable to install Java” or “Java install did not complete.” This is how you can fix Java installation errors on your Windows 10 or 11 PC.
-
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
-## 1\. Run the Program Install and Uninstall Troubleshooter
-
- Some users have said the Program Install and Uninstall Troubleshooter for Windows helped them fix their Java installation issues. That’s not a troubleshooter included with Windows, but you can download it from Microsoft’s website. You can run the Program Install and Uninstall Troubleshooter like this:
-
-1. Select **Download troubleshooter** on the [Microsoft website page](https://support.microsoft.com/en-gb/topic/fix-problems-that-block-programs-from-being-installed-or-removed-cca7d1b6-65a9-3d98-426b-e9f927e1eb4d).
-2. Bring up the **Downloads** web browser tab (accessible with a **Ctrl** \+ **J** keyboard shortcut in Chrome, Edge, Firefox, and Opera).
-3. Click the **MicrosoftProgram\_Install\_and\_Uninstall.meta.diagcab** file in the **Downloads** tab.  
-![The Program Install and Uninstall troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/installing-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-4. Select **Next** \> **Installing** to start the troubleshooting.
-
 ## 2\. Try Installing Java With the Offline Installer
 
  If the Java installation error arises with the online installer or with automatic updates enabled, try utilizing the alternative offline Java installer. The offline Java installer is often more reliable than the buggy online one for which a stable internet connection is required.
@@ -151,22 +53,7 @@ sfc /scannow`
  It might help to run the Java installer file with admin rights to ensure it has full system access rights. This can be done by right-clicking the Java installer file and selecting a **Run as administrator** context menu option.
 
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/run-as-administrator.jpg)
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Uninstall an Old Java Version
 
  Java installation issues can often arise because of older Java packages installed on PCs. Many users have confirmed they’ve fixed the Java error code 1603 installation issue by uninstalling old Java versions. You can detect and remove outdated Java versions on your PC with the Java Uninstall Tool as follows:
@@ -177,22 +64,16 @@ sfc /scannow`
 4. Double-click the **JavaUninstallTool.exe** file.
 5. Click **Agree** to continue with Java detection.  
 ![The Java Uninstall Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/java-installer-tool.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 6. Select the checkbox for any detected Java version.
 7. Click **Next** and **Yes** to remove the selected Java version.  
 ![A Java version checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/java-installer-image.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8. Select **Yes** again to remove the Java Cache.
 9. Click **Get Java** to download the latest version. Then try installing Java again.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Repair Windows' System Files
 
  System file corruption isn’t widely confirmed to cause any specific Java installation error. However, don’t rule out the possibility of corrupted system files causing installation issues on your PC. You can easily [repair corrupted Windows files](https://www.makeuseof.com/windows-built-in-repair-tools/) by running System File Checker and Deployment Image Servicing and Management scans with these Command Prompt commands:
@@ -202,8 +83,9 @@ sfc /scannow`
 sfc /scannow`
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Turn Off Antivirus Shields and Firewalls
 
  Disabling antivirus protection is another resolution users confirm to have fixed Java installation issues with. Doing so will ensure a real-time antivirus shield can’t block the installation of Java. So, try temporarily off the antivirus shield for any third-party security software on your PC before attempting to install Java. Right-click the security app’s icon in the system tray to select an option for disabling it.
@@ -212,10 +94,6 @@ sfc /scannow`
 
  A firewall can also feasibly cause issues for the online Java installer at least. So, temporarily disable Microsoft Defender Firewall or a third-party alternative installed before running the Java installer to eliminate that potential cause. Our [how to turn off Microsoft Defender Firewall](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) guide includes instructions for disabling that firewall.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## 7\. Reboot Windows With a Clean Boot
 
  A clean boot is a stripped-down Windows startup that excludes third-party apps and services. Setting a clean boot stops third-party apps and services automatically starting with Windows. Applying this resolution can potentially fix some Java installation errors because it prevents third-party background apps or services from conflicting with the Java installation process.
@@ -223,8 +101,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
  Our guide on [performing a clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/) tells you how to disable third-party startup items. When you’ve done that, have another go at installing Java after rebooting Windows 11/10\. Then you can re-enable all the disabled startup items via Task Manager and MSConfig.
 
 ![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/services-tab.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Utilize Your Java-Based Software Packages Again on Your Windows PC
@@ -245,9 +124,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 ![The Program Install and Uninstall troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/installing-option.jpg)
 4. Select **Next** \> **Installing** to start the troubleshooting.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## 2\. Try Installing Java With the Offline Installer
 
  If the Java installation error arises with the online installer or with automatic updates enabled, try utilizing the alternative offline Java installer. The offline Java installer is often more reliable than the buggy online one for which a stable internet connection is required.
@@ -256,9 +132,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  You can obtain that installation package by clicking the **Windows Offline (64-bit)** link on the [Java download page](https://www.java.com/en/download/manual.jsp). If you have a 32-bit Windows 10 platform, click the **Windows Offline** package link. Double-click the downloaded Java installation file to run the installer and select the **Install** option from there.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Run the Java Installer File With Administrator Rights
 
  It might help to run the Java installer file with admin rights to ensure it has full system access rights. This can be done by right-clicking the Java installer file and selecting a **Run as administrator** context menu option.
@@ -266,8 +139,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/run-as-administrator.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Uninstall an Old Java Version
 
  Java installation issues can often arise because of older Java packages installed on PCs. Many users have confirmed they’ve fixed the Java error code 1603 installation issue by uninstalling old Java versions. You can detect and remove outdated Java versions on your PC with the Java Uninstall Tool as follows:
@@ -298,11 +172,16 @@ sfc /scannow`
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  A firewall can also feasibly cause issues for the online Java installer at least. So, temporarily disable Microsoft Defender Firewall or a third-party alternative installed before running the Java installer to eliminate that potential cause. Our [how to turn off Microsoft Defender Firewall](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) guide includes instructions for disabling that firewall.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Reboot Windows With a Clean Boot
 
  A clean boot is a stripped-down Windows startup that excludes third-party apps and services. Setting a clean boot stops third-party apps and services automatically starting with Windows. Applying this resolution can potentially fix some Java installation errors because it prevents third-party background apps or services from conflicting with the Java installation process.
@@ -310,9 +189,6 @@ sfc /scannow`
  Our guide on [performing a clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/) tells you how to disable third-party startup items. When you’ve done that, have another go at installing Java after rebooting Windows 11/10\. Then you can re-enable all the disabled startup items via Task Manager and MSConfig.
 
 ![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/services-tab.jpg)
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Utilize Your Java-Based Software Packages Again on Your Windows PC
 
@@ -333,8 +209,9 @@ sfc /scannow`
 4. Select **Next** \> **Installing** to start the troubleshooting.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Try Installing Java With the Offline Installer
 
  If the Java installation error arises with the online installer or with automatic updates enabled, try utilizing the alternative offline Java installer. The offline Java installer is often more reliable than the buggy online one for which a stable internet connection is required.
@@ -344,30 +221,15 @@ sfc /scannow`
  You can obtain that installation package by clicking the **Windows Offline (64-bit)** link on the [Java download page](https://www.java.com/en/download/manual.jsp). If you have a 32-bit Windows 10 platform, click the **Windows Offline** package link. Double-click the downloaded Java installation file to run the installer and select the **Install** option from there.
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Run the Java Installer File With Administrator Rights
 
  It might help to run the Java installer file with admin rights to ensure it has full system access rights. This can be done by right-clicking the Java installer file and selecting a **Run as administrator** context menu option.
 
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/run-as-administrator.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## 4\. Uninstall an Old Java Version
 
  Java installation issues can often arise because of older Java packages installed on PCs. Many users have confirmed they’ve fixed the Java error code 1603 installation issue by uninstalling old Java versions. You can detect and remove outdated Java versions on your PC with the Java Uninstall Tool as follows:
@@ -408,9 +270,82 @@ sfc /scannow`
 
 ![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/services-tab.jpg)
 
+## Utilize Your Java-Based Software Packages Again on Your Windows PC
+
+ We can’t promise guaranteed solutions for all Java installation errors. However, the Windows troubleshooting methods above will likely fix Java not installing in most cases. Fixing your Java installation error with one of those methods will ensure you can run and utilize all Java-based programs on your Windows PC.
+
+ There are many old Java-based Windows software packages for which users still need to install Java on their PCs to run. However, some users can’t install the desktop Java software when needed because of installation issues. Or users can’t update Java when such issues arise.
+
+ Java installation errors have variable messages, but they all mean Java failed to install. Some reported error messages say, “Unable to install Java” or “Java install did not complete.” This is how you can fix Java installation errors on your Windows 10 or 11 PC.
+
+## 1\. Run the Program Install and Uninstall Troubleshooter
+
+ Some users have said the Program Install and Uninstall Troubleshooter for Windows helped them fix their Java installation issues. That’s not a troubleshooter included with Windows, but you can download it from Microsoft’s website. You can run the Program Install and Uninstall Troubleshooter like this:
+
+1. Select **Download troubleshooter** on the [Microsoft website page](https://support.microsoft.com/en-gb/topic/fix-problems-that-block-programs-from-being-installed-or-removed-cca7d1b6-65a9-3d98-426b-e9f927e1eb4d).
+2. Bring up the **Downloads** web browser tab (accessible with a **Ctrl** \+ **J** keyboard shortcut in Chrome, Edge, Firefox, and Opera).
+3. Click the **MicrosoftProgram\_Install\_and\_Uninstall.meta.diagcab** file in the **Downloads** tab.  
+![The Program Install and Uninstall troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/installing-option.jpg)
+4. Select **Next** \> **Installing** to start the troubleshooting.
+
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## 2\. Try Installing Java With the Offline Installer
+
+ If the Java installation error arises with the online installer or with automatic updates enabled, try utilizing the alternative offline Java installer. The offline Java installer is often more reliable than the buggy online one for which a stable internet connection is required.
+
+![The Windows Offline download link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/windows-offline-download-link.jpg)
+
+ You can obtain that installation package by clicking the **Windows Offline (64-bit)** link on the [Java download page](https://www.java.com/en/download/manual.jsp). If you have a 32-bit Windows 10 platform, click the **Windows Offline** package link. Double-click the downloaded Java installation file to run the installer and select the **Install** option from there.
+
+## 3\. Run the Java Installer File With Administrator Rights
+
+ It might help to run the Java installer file with admin rights to ensure it has full system access rights. This can be done by right-clicking the Java installer file and selecting a **Run as administrator** context menu option.
+
+![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/run-as-administrator.jpg)
+
+## 4\. Uninstall an Old Java Version
+
+ Java installation issues can often arise because of older Java packages installed on PCs. Many users have confirmed they’ve fixed the Java error code 1603 installation issue by uninstalling old Java versions. You can detect and remove outdated Java versions on your PC with the Java Uninstall Tool as follows:
+
+1. Open this [Java Uninstall Tool page](https://www.java.com/en/download/uninstalltool.jsp).
+2. Click **I Agree to the Terms** to download the Java Uninstall Tool.
+3. Press the **Windows** logo + **E** key combination to go to the folder containing the downloaded Java Uninstall Tool file.
+4. Double-click the **JavaUninstallTool.exe** file.
+5. Click **Agree** to continue with Java detection.  
+![The Java Uninstall Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/java-installer-tool.jpg)
+6. Select the checkbox for any detected Java version.
+7. Click **Next** and **Yes** to remove the selected Java version.  
+![A Java version checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/java-installer-image.jpg)
+8. Select **Yes** again to remove the Java Cache.
+9. Click **Get Java** to download the latest version. Then try installing Java again.
+
+## 5\. Repair Windows' System Files
+
+ System file corruption isn’t widely confirmed to cause any specific Java installation error. However, don’t rule out the possibility of corrupted system files causing installation issues on your PC. You can easily [repair corrupted Windows files](https://www.makeuseof.com/windows-built-in-repair-tools/) by running System File Checker and Deployment Image Servicing and Management scans with these Command Prompt commands:
+
+`DISM /Online /Cleanup-Image /RestoreHealth  
+  
+sfc /scannow`
+
+## 6\. Turn Off Antivirus Shields and Firewalls
+
+ Disabling antivirus protection is another resolution users confirm to have fixed Java installation issues with. Doing so will ensure a real-time antivirus shield can’t block the installation of Java. So, try temporarily off the antivirus shield for any third-party security software on your PC before attempting to install Java. Right-click the security app’s icon in the system tray to select an option for disabling it.
+
+![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
+
+ A firewall can also feasibly cause issues for the online Java installer at least. So, temporarily disable Microsoft Defender Firewall or a third-party alternative installed before running the Java installer to eliminate that potential cause. Our [how to turn off Microsoft Defender Firewall](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) guide includes instructions for disabling that firewall.
+
+## 7\. Reboot Windows With a Clean Boot
+
+ A clean boot is a stripped-down Windows startup that excludes third-party apps and services. Setting a clean boot stops third-party apps and services automatically starting with Windows. Applying this resolution can potentially fix some Java installation errors because it prevents third-party background apps or services from conflicting with the Java installation process.
+
+ Our guide on [performing a clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/) tells you how to disable third-party startup items. When you’ve done that, have another go at installing Java after rebooting Windows 11/10\. Then you can re-enable all the disabled startup items via Task Manager and MSConfig.
+
+![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/services-tab.jpg)
+
 ## Utilize Your Java-Based Software Packages Again on Your Windows PC
 
  We can’t promise guaranteed solutions for all Java installation errors. However, the Windows troubleshooting methods above will likely fix Java not installing in most cases. Fixing your Java installation error with one of those methods will ensure you can run and utilize all Java-based programs on your Windows PC.
@@ -421,8 +356,6 @@ sfc /scannow`
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -430,8 +363,24 @@ sfc /scannow`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-pinterest-a-players-sharing-snapchat-stories/"><u>[Updated] In 2024, Pinterest A-Players Sharing Snapchat Stories</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-mastering-text-design-with-ae-top-10-tips/"><u>[Updated] Mastering Text Design with AE Top 10 Tips</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-creating-impressive-video-tracks-with-a-newbie-mac-user/"><u>2024 Approved Creating Impressive Video Tracks with a Newbie Mac User</u></a></li>
+<li><a href="https://windows11.techidaily.com/automate-peaceful-rest-for-your-windows-11-desktop/"><u>Automate Peaceful Rest for Your Windows 11 Desktop</u></a></li>
+<li><a href="https://techtrends.techidaily.com/get-ahead-of-the-crowd-with-apple-vision-pro-starting-pre-orders-january-19-in-store-arrival-feb-2-latest-info-via-zdnet/"><u>Get Ahead of the Crowd with Apple Vision Pro Starting Pre-Orders January 19, In-Store Arrival Feb 2 | Latest Info via ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-disable-the-built-in-laptop-keyboard-in-windows/"><u>How to Disable the Built-In Laptop Keyboard in Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-oppo-f25-pro-5g-phone-by-drfone-android/"><u>How to Reset a Locked Oppo F25 Pro 5G Phone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pivotal-software-in-shaping-the-future-of-vtuber-audio-identity/"><u>In 2024, Pivotal Software in Shaping the Future of VTuber Audio Identity</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-boot-sector-problems-on-pc/"><u>Navigating Through Boot Sector Problems on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-store-error-code-0x80073cf3/"><u>Overcoming Windows Store Error Code 0X80073CF3</u></a></li>
+<li><a href="https://windows11.techidaily.com/recovering-database-connections-resolving-malwarebytes-service-issues/"><u>Recovering Database Connections: Resolving Malwarebytes Service Issues</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revolutionizing-mac-performance-with-ai-insights-into-apples-next-gen-m4-chip-launch-schedule/"><u>Revolutionizing Mac Performance with AI: Insights Into Apple's Next-Gen M4 Chip Launch Schedule</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/scripting-a-captivating-cinematic-sketchpad/"><u>Scripting a Captivating Cinematic Sketchpad</u></a></li>
+<li><a href="https://windows11.techidaily.com/sculpting-digital-art-the-most-impressive-new-additions-to-paint/"><u>Sculpting Digital Art: The Most Impressive New Additions to Paint</u></a></li>
+<li><a href="https://windows11.techidaily.com/sidestep-windows-11-surveillance-measures/"><u>Sidestep Windows 11 Surveillance Measures</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-5-virtual-environments-ideal-for-windows-11-systems/"><u>Top 5 Virtual Environments Ideal for Windows 11 Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-academic-excellence-using-chatgpt-discover-5-innovative-approaches-for-school-success/"><u>Unlock Academic Excellence Using ChatGPT – Discover 5 Innovative Approaches for School Success</u></a></li>
+</ul></div>
 

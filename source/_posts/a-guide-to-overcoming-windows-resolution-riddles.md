@@ -1,7 +1,7 @@
 ---
 title: A Guide to Overcoming Windows Resolution Riddles
-date: 2024-08-15T15:17:29.338Z
-updated: 2024-08-16T15:17:29.338Z
+date: 2025-01-15T18:12:48.665Z
+updated: 2025-01-22T16:34:21.465Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/71f657792ad13f84286b1544671aaf8455260b87c
 
 ![Updating the Display drivers on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/7-Updating-the-Display-drivers-on-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the next window, select **Search automatically for updated driver software**. From there, follow the on-screen instructions to finalize the process.
 
  If the issue persists, update the display drivers using a different approach. For example, select the "Microsoft Basic Display Adapter Driver" option when updating the drivers. Let's check out the steps you need to follow:
@@ -67,8 +71,9 @@ thumbnail: https://thmb.techidaily.com/71f657792ad13f84286b1544671aaf8455260b87c
 * **[Perform a System Restore](https://www.makeuseof.com/use-system-restore-windows/)**: When you use a restore point, the system will undo recent changes to your system without deleting your files. So if the "inaccessible screen resolution settings" issue is a recent thing, performing a system restore should help.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Uninstall Recently Installed Updates
 
  In some rare cases, you might experience this issue just after updating your device. In such instances, you’ll need to uninstall the updates to tackle the problem. However, ensure that you [back up your device](https://www.makeuseof.com/windows-11-create-complete-backup/) first before you proceed.
@@ -82,11 +87,16 @@ thumbnail: https://thmb.techidaily.com/71f657792ad13f84286b1544671aaf8455260b87c
 
 ![Uninstalling Recently Installed Updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/uninstalling-recently-installed-updates.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Your device will display a list of all the installed Windows updates. Select the update you want to remove and then press **Uninstall**. From there, follow the on-screen instructions to complete the process.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Update Windows
 
  We've discovered that existing Windows updates might cause the issue at hand, but this isn’t always the case. In other instances, you might bump into this error simply because your system needs to be updated.
@@ -102,13 +112,7 @@ thumbnail: https://thmb.techidaily.com/71f657792ad13f84286b1544671aaf8455260b87c
 3. Click the **Check for updates** button on the right-hand side and then follow the on-screen instructions.
 
 ![Checking for Windows PC updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/9-Checking-for-Windows-PC-updates.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Configure the Screen Resolution Settings Using the Intel Graphics Command Center
 
  Still struggling to resolve the "grayed out screen resolution settings" issue? An easy way out could be to configure these settings indirectly using the Intel Graphics Command Center.
@@ -121,8 +125,9 @@ thumbnail: https://thmb.techidaily.com/71f657792ad13f84286b1544671aaf8455260b87c
 4. Click the **Open System Settings** button to configure the screen resolution settings and other settings.
 
 ![Configuring the Screen Resolution Settings Using the Intel Graphics Command Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/configuring-the-screen-resolution-settings-using-the-intel-graphics-command-center.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Use Windows' Troubleshooters
@@ -137,6 +142,10 @@ thumbnail: https://thmb.techidaily.com/71f657792ad13f84286b1544671aaf8455260b87c
 4. Click **Next** and then follow the on-screen steps.
 
 ![Running the System Maintenance Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Running-the-System-Maintenance-Troubleshooter-on-Windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, let's check out how you can resolve the issue using the Hardware and Devices troubleshooter:
 
@@ -158,9 +167,6 @@ thumbnail: https://thmb.techidaily.com/71f657792ad13f84286b1544671aaf8455260b87c
 3. Click **Get started** below the **Reset this PC** option and then follow the on-screen steps.
 
 ![Resetting a Windows computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Resetting-a-Windows-computer.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ## 8\. Reinstall or Repair the Microsoft Visual C++ Programs
 
@@ -185,9 +191,6 @@ thumbnail: https://thmb.techidaily.com/71f657792ad13f84286b1544671aaf8455260b87c
 3. Reinstall the [Microsoft Visual C++ programs](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0) from the Microsoft Website.
 4. Follow the on-screen instructions and then restart your device when you finish.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Configure Your Screen Resolution Settings Anytime
 
  Inaccessible screen resolution settings can be quite problematic. But in most cases, you can tackle this issue by updating your display drivers or running a few troubleshooters. If these methods don’t help, then try any of the other tips we’ve covered.
@@ -198,8 +201,6 @@ thumbnail: https://thmb.techidaily.com/71f657792ad13f84286b1544671aaf8455260b87c
 
  Let's get started.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -207,5 +208,26 @@ thumbnail: https://thmb.techidaily.com/71f657792ad13f84286b1544671aaf8455260b87c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-professional-editing-techniques-for-obs-studio-success/"><u>[New] In 2024, Professional Editing Techniques for OBS Studio Success</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-simplifying-your-fb-live-broadcasts-on-zoom/"><u>[Updated] Simplifying Your FB Live Broadcasts on Zoom</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-leading-workplace-data-safekeepers/"><u>2024 Approved Leading Workplace Data Safekeepers</u></a></li>
+<li><a href="https://windows11.techidaily.com/9-ways-to-fix-blurry-screen-issues-on-windows-11/"><u>9 Ways to Fix Blurry Screen Issues on Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-surprising-upgrade-how-the-ipad-airs-impressive-features-challenge-my-loyalty-to-the-ipad-pro/"><u>A Surprising Upgrade: How the IPad Air's Impressive Features Challenge My Loyalty to the iPad Pro</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoid-the-blank-screen-top-techniques-to-recover-vanished-panes-in-windows-11/"><u>Avoid the Blank Screen: Top Techniques to Recover Vanished Panes in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/bring-back-your-bandsaw-methods-for-fixing-lost-windows-time/"><u>Bring Back Your Bandsaw: Methods for Fixing Lost Windows Time</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-limited-it-admin-power-in-security-warning/"><u>Bypassing 'Limited IT Admin Power' In Security Warning</u></a></li>
+<li><a href="https://windows11.techidaily.com/command-line-interface-cli-addition-to-task-manager-in-windows-11/"><u>Command Line Interface (CLI) Addition to Task Manager in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-resource-unavailable-situations-on-windows-149-chars/"><u>Correcting 'Resource Unavailable' Situations on Windows (149 Chars)</u></a></li>
+<li><a href="https://windows11.techidaily.com/customizing-windows-file-explorer-path-settings/"><u>Customizing Windows File Explorer Path Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/decode-your-digital-identity-how-to-find-out-what-computer-you-have/"><u>Decode Your Digital Identity: How to Find Out What Computer You Have</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-advice-switching-to-low-light-display-for-iphones/"><u>Expert Advice: Switching to Low Light Display for iPhones</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-activating-dark-theme-on-your-iphone/"><u>Guide: Activating Dark Theme on Your iPhone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-no-watermark-no-problem-top-video-merger-tools/"><u>In 2024, No Watermark, No Problem Top Video Merger Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719297453407-mastery-overprint-how-to-reactivate-the-missing-windows-functionality/"><u>Mastery Overprint: How to Reactivate the Missing Windows Functionality</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/one-click-setup-a-step-by-step-guide-to-adding-the-top-m-e-t-v-addon-to-your-kodi-19-or-20-devices/"><u>One-Click Setup: A Step-by-Step Guide to Adding the Top M-E-T-V Addon to Your Kodi 19 or 20 Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/samsungs-next-smartphone-projected-price-points-release-date-and-leaked-tech-info-for-galaxy-s25/"><u>Samsung's Next Smartphone: Projected Price Points, Release Date & Leaked Tech Info for Galaxy S25</u></a></li>
+<li><a href="https://video-capture.techidaily.com/step-by-step-tutorial-on-mass-transformation-of-wav-to-lossless-flac-codec/"><u>Step-by-Step Tutorial on Mass Transformation of WAV to Lossless FLAC Codec</u></a></li>
+</ul></div>
 

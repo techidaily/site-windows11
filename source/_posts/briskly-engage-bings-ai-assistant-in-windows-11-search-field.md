@@ -1,7 +1,7 @@
 ---
 title: Briskly Engage Bing's AI Assistant in Windows 11 Search Field
-date: 2024-08-15T15:13:17.686Z
-updated: 2024-08-16T15:13:17.686Z
+date: 2025-01-21T19:13:58.914Z
+updated: 2025-01-22T17:40:34.459Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/8fe3e4daa8d42d226ab99d6ad95d4825a0edf9f54
 
  Today, we'll explain how to swiftly enable or disable Bing Chat AI in the Windows 11 Taskbar search. Let's get started!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Use Bing Chat AI
 
  Bing Chat was initially released as only a waitlist; it's now available publicly at Bing.com**.** You'll need a Microsoft account and the [latest version of Microsoft Edge](https://www.microsoft.com/en-us/edge/download?form=MA13FJ) to access it. Once you have met these requirements, you can access Bing Chat in three ways.
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/8fe3e4daa8d42d226ab99d6ad95d4825a0edf9f54
  The first method is to launch Microsoft Edge and navigate to Bing.com using the search bar. Then, click the**Chat** option at the top to open Bing Chat.
 
 ![Chat option in Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chat-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The second method involves clicking the**Bing Chat icon** in the right sidebar (aka Edge copilot) of the Edge browser. The third method is through the Search on Taskbar for Windows 11\. However, this feature is disabled by default and needs to be manually enabled before use.
 
@@ -40,11 +48,16 @@ thumbnail: https://thmb.techidaily.com/8fe3e4daa8d42d226ab99d6ad95d4825a0edf9f54
 
 ![Bing Chat result in Microsoft Bing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-result.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now that you know how to access and use Bing Chat, let's see how to enable or disable Bing Chat AI in your Windows 11 Taskbar search.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Enable or Disable the Bing Chat AI
 
  To enable the Bing Chat AI in the Taskbar search bar, follow these steps:
@@ -54,22 +67,17 @@ thumbnail: https://thmb.techidaily.com/8fe3e4daa8d42d226ab99d6ad95d4825a0edf9f54
 3. Choose**Search permissions.**
 4. Enable the toggle under**Show search highlights.**  
 ![Show search highlights option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/show-search-highlights.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That's it! Restart your computer to see the Bing Chat icon in the search box.
 
 ![Bing Chat AI in Taskbar searchbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-ai.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 
  Now, for any reason, if you want to remove the Bing Chat from the Taskbar search box, simply disable the Show search highlights toggle.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Get All Your Queries Answered Using Bing Chat AI
 
  Bing Chat is emerging as one of the most popular artificially intelligent chatbots and is slowly becoming a powerful search tool. And with its integration in Windows 11 Search, you now have it at your fingertips.
@@ -80,8 +88,6 @@ thumbnail: https://thmb.techidaily.com/8fe3e4daa8d42d226ab99d6ad95d4825a0edf9f54
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,8 +95,20 @@ thumbnail: https://thmb.techidaily.com/8fe3e4daa8d42d226ab99d6ad95d4825a0edf9f54
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ideo-enhancement-embedding-youtube-into-google-slides-for-2024/"><u>[New] Video Enhancement Embedding YouTube Into Google Slides for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-meme-crafting-undead-androids/"><u>[Updated] Meme Crafting Undead Androids</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-practical-guide-to-running-ping-efficiently-on-pcs/"><u>A Practical Guide to Running Ping Efficiently on PCs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cutting-edge-8-cameras-for-professional-broadcasts/"><u>Cutting-Edge 8 Cameras for Professional Broadcasts</u></a></li>
+<li><a href="https://windows11.techidaily.com/fast-track-to-windows-11-arm-with-easy-iso-setup-instructions/"><u>Fast Track to Windows 11 ARM with Easy ISO Setup Instructions</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-perfect-your-media-library-save-vimeo-footage-to-mp4/"><u>In 2024, Perfect Your Media Library Save Vimeo Footage to MP4</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-realme-11x-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Realme 11X 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-windows-webcam-dark-screen-issue/"><u>Resolving Windows Webcam Dark Screen Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-allot-browser-permission-via-firewall-on-pc/"><u>Steps to Allot Browser Permission via Firewall on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-troubled-windows-registry-with-effective-solutions/"><u>Tackling Troubled Windows Registry with Effective Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-to-mute-game-proposals-in-windows-11/"><u>Tips to Mute Game Proposals in Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-resolving-crash-issues-in-nioh-2-full-experience/"><u>Troubleshooting Tips for Resolving Crash Issues in Nioh 2 Full Experience</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-vivo-y27-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Vivo Y27 5G Has Black Screen of Death? | Dr.fone</u></a></li>
+</ul></div>
 

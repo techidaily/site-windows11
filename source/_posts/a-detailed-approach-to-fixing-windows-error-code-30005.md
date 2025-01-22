@@ -1,7 +1,7 @@
 ---
 title: "A Detailed Approach to Fixing Windows Error Code: 30005"
-date: 2024-08-15T15:15:03.271Z
-updated: 2024-08-16T15:15:03.271Z
+date: 2025-01-21T18:35:20.815Z
+updated: 2025-01-22T17:59:38.946Z
 tags:
   - windows10
   - windows11
@@ -46,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/e763646df56241e163aeceaafcbcf01e71b694cfa
 
  You can begin applying the remaining fixes if none of the above checks help.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Delete the EasyAntiCheat.Sys File
 
  The EasyAntiCheat.sys file contains the launch information for the game. Every time you launch the game, and the Easy Anti-Cheat service confirms that the game files have not been modified, it gets created automatically.
@@ -60,14 +64,15 @@ thumbnail: https://thmb.techidaily.com/e763646df56241e163aeceaafcbcf01e71b694cfa
 4. To delete the file, right-click on it and select **Delete**.  
 ![Deleting the EasyAntiCheat.Sys File in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/1-deleting-the-easyanticheat-sys-file-in-windows-file-explorer.jpg)
 5. Grant administrator permission if it is requested in the UAC window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Relaunch the game.
 
  If you encounter the same error again, proceed to the next step.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ### Can't Uninstall the EasyAntiCheat.Sys File?
 
  Some users have reported encountering an error when deleting the EasyAntiCheat.sys file that says that the file cannot be deleted since the app is running. This message indicates that Easy Anti-Cheat is running in the background, so you must turn off the program before uninstalling it. Here's how you can do it:
@@ -76,22 +81,17 @@ thumbnail: https://thmb.techidaily.com/e763646df56241e163aeceaafcbcf01e71b694cfa
 2. Locate Easy Anti-Cheat in the list of running processes.
 3. Right-click the process and select **End task**.  
 ![Disable EasyAntiCheat Software in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disable-easyanticheat-priority.jpg)
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Repair Any Corrupted Game Files
 
  If your game files get corrupted, Easy Anti-Cheat will consider it unauthorized tampering. Therefore, repairing them is essential. Some game clients allow you to repair corrupt files from within the client; therefore, if the game you're running offers this functionality, go ahead and repair the corrupt files.
 
  If you have installed the game through Steam, you can repair your game files more easily. In our guide on [repairing game files using different launchers](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/#how-to-verify-game-file-integrity-on-steam), we have covered the process for verifying the integrity of game files (or fixing corrupt game files) in Steam. So, follow the relevant instructions to repair corrupt files.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Whitelist Easy Anti-Cheat in Windows Defender or Antivirus
 
  Even though Easy Anti-Cheat is a trusted service, Microsoft Defender or antivirus software you use may consider it a threat and block it. Once blocked, Easy Anti-Cheat won't be able to create the file it needs to, and the game launcher will display this error. Therefore, you should ensure it isn't the cause of the problem.
@@ -119,6 +119,10 @@ thumbnail: https://thmb.techidaily.com/e763646df56241e163aeceaafcbcf01e71b694cfa
 
  If the Kernel-mode Hardware-enforced Stack Protection feature isn't available in the Device Security settings, then your processor doesn't support it. If that is the case, you can skip this fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Ensure the Easy Anti-Cheat Service Is Running
 
  Easy Anti-Cheat launches a service also named Easy Anti-Cheat when you install the program on your device. If this service isn't running, Easy Anti-Cheat will throw an error. To do so, follow these steps:
@@ -127,15 +131,16 @@ thumbnail: https://thmb.techidaily.com/e763646df56241e163aeceaafcbcf01e71b694cfa
 2. Find the **Easy Anti-Cheat** service.
 3. If it is already running, you don't need to do anything. If it isn't running already, right-click on it and click **Start**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Repair the Easy Anti-Cheat Program
 
  If none of the fixes work or the Easy Anti-Cheat software isn't working correctly, you should repair the program. Follow these steps to repair the client:
 
 1. Go to the installation folder of your game. If you have installed the game through Steam, open the Steam client, right-click on the game, and select **Properties**. Choose **Local Files** from the left sidebar and click **Browse** on the right.  
 ![Clicking on the Browse Button in Local Files Tab in the Properties Window of a Game in Steam Client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/3-clicking-on-the-browse-button-in-local-files-tab-in-the-properties-window-of-a-game-in-steam-client.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Close the Steam client and keep the installation folder open.
 3. Go to the **Easy Anti-Cheat** folder.
 4. Run the Easy Anti-Cheat setup file.  
@@ -143,14 +148,12 @@ thumbnail: https://thmb.techidaily.com/e763646df56241e163aeceaafcbcf01e71b694cfa
 5. In the UAC window, click **Yes**.
 6. Click on **Repair Service**.  
 ![Repairing the Easy Anti-Cheat Service on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/easy-anticheat-software.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. After that, click **Finish** and run the game.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Reinstall Easy Anti-Cheat
 
  If you encounter the same error when you run the game again, it indicates that the issue has not been resolved. So, reinstall the Easy Anti-Cheat program as a last resort.
@@ -158,10 +161,6 @@ thumbnail: https://thmb.techidaily.com/e763646df56241e163aeceaafcbcf01e71b694cfa
  To do that, follow the same steps explained above and run the Easy Anti-Cheat setup file again. Then, instead of clicking on **Repair**, click on **Uninstall** in the bottom-left corner.
 
 ![Uninstalling the Easy Anti-Cheat in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstalling-the-easy-anti-cheat-in-windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 
  After that, click on **Install Easy Anti-Cheat**. Then click **Finish**.
 
@@ -175,8 +174,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  So, what causes this error, and how do you fix it?
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -184,5 +181,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-making-your-mark-with-video-content-in-captivate/"><u>[Updated] In 2024, Making Your Mark with Video Content in Captivate</u></a></li>
+<li><a href="https://windows11.techidaily.com/accessing-windows-11s-soul-a-guide-to-registry-files-exploration/"><u>Accessing Windows 11’S Soul: A Guide to Registry Files Exploration</u></a></li>
+<li><a href="https://windows11.techidaily.com/achieve-peak-performance-with-multi-task-proficiency-on-windows-11-pcs/"><u>Achieve Peak Performance with Multi-Task Proficiency on Windows 11 PCs</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-xiaomi-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Xiaomi Fingerprint Lock</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-taskbar-efficiency-win11-guide/"><u>Boosting Taskbar Efficiency: Win11 Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/command-line-enhancement-for-taskmanager-windows-11/"><u>Command Line Enhancement for TaskManager (Windows 11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/comprehensive-guide-setting-up-outlook-preview-for-w10w11/"><u>Comprehensive Guide: Setting up Outlook Preview for W10/W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquering-c0000005-on-windows-operating-systems/"><u>Conquering C0000005 on Windows Operating Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-dual-monitor-mishaps-on-your-pc/"><u>Correcting Dual Monitor Mishaps on Your PC</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/experience-the-genius-widecam-f100-navigating-through-challenges-of-visual-pixelation-and-sound-reverb/"><u>Experience the Genius WideCam F100: Navigating Through Challenges of Visual Pixelation & Sound Reverb</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratuit-mov-to-wmv-konverter-professioneel-en-instantan-online-moovavi/"><u>Gratuit MOV-to-WMV Konverter: Professioneel en Instantan Online - Moovavi</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1726029775301-mp44/"><u>MP4ビデオの明るさ調節技術：4つの効果的な手法</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/understanding-the-mechanics-of-vlc-media-player-on-macos/"><u>Understanding the Mechanics of VLC Media Player on macOS</u></a></li>
+</ul></div>
 

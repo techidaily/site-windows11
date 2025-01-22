@@ -1,7 +1,7 @@
 ---
 title: Failed MS PC Manager on Win? Explore Solutions Now
-date: 2025-01-11T17:18:00.598Z
-updated: 2025-01-16T10:17:02.178Z
+date: 2025-01-17T20:34:33.392Z
+updated: 2025-01-22T18:52:05.852Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/d04a298cb4efeef55fca68d7eaf14aa0f3c43f69f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart Your Computer
 
  This is a common troubleshooting method, but it's essential for a reason. The reason that Microsoft PC Manager won't install on your system could be due to a temporary bug. Before you dive into the more advanced troubleshooting fixes, consider restarting y[our computer](https://www.makeuseof.com/windows-restart-methods/) (see[how to restart your Windows PC](https://www.makeuseof.com/windows-restart-methods/) ) to put it back on a clean slate.
@@ -46,16 +50,12 @@ thumbnail: https://thmb.techidaily.com/d04a298cb4efeef55fca68d7eaf14aa0f3c43f69f
 7. Disable the toggle next**Real-time protection.**  
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/real-time-protection-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you're using a third-party antivirus program, you can disable it by right-clicking on its icon in the system tray and choosing the "Disable" option from the context menu. You can also go through the antivirus support pages to learn more about how to disable it.
 
  After disabling the security program, give a quick restart to your computer and check if the problem continues.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Use the Program Troubleshooter
@@ -91,6 +91,10 @@ To delete the Temp folder, follow the below instructions:
 3. Select everything inside the Temp folder by pressing the**Ctrl + A** hotkeys.
 4. Press the**Shift + Delete** hotkeys to clear the Temp folder's content permanently.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5 . Download Any Available Windows Updates
 
  Windows regularly releases updates to add new features and fix bugs and glitches. And from what it looks like, Microsoft PC Manager can fail to install on your computer due to a temporary glitch.
@@ -101,11 +105,11 @@ To delete the Temp folder, follow the below instructions:
 2. Click the**Check for updates** option.  
 ![The Check for updates button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-check-for-updates-option.jpg)
 
- Windows will now look for and download any available updates. Once the update is installed, restart your computer and check for the issue.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Windows will now look for and download any available updates. Once the update is installed, restart your computer and check for the issue.
 
 ## 6\. Fix Any Corrupted Files on Your Computer
 
@@ -117,10 +121,6 @@ To delete the Temp folder, follow the below instructions:
 2. In the elevated Command Prompt window, type**DISM /online /cleanup-image /restorehealth** and press**Enter** .
 3. Wait until the command is executed. Depending on your computer's health, the process can take up to 15 minutes. Sometimes the process will stick, but wait for it to complete.
 4. After the process is complete, type**sfc /scannow** and press**Enter** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Reset Your Computer
 
@@ -134,7 +134,7 @@ To delete the Temp folder, follow the below instructions:
 Next, follow the on-screen to complete the reset process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Optimize Your System With Microsoft PC Manager
@@ -156,24 +156,24 @@ Next, follow the on-screen to complete the reset process.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-innovative-reclaim-review-the-ultimate-screen-recorder/"><u>[New] 2024 Approved Innovative 'Reclaim' Review – The Ultimate Screen Recorder?</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-micro-movie-moments-actors-in-audio-arts/"><u>[New] In 2024, Micro Movie Moments Actors in Audio Arts</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-navigate-with-precision-the-complete-guide-to-idevice-podcast-downloads/"><u>[Updated] 2024 Approved Navigate with Precision The Complete Guide to iDevice Podcast Downloads</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-authenticating-your-instagram-photos-for-2024/"><u>[Updated] Authenticating Your Instagram Photos for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-bottom-line-how-much-do-podcasters-take-home/"><u>2024 Approved The Bottom Line How Much Do Podcasters Take Home?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/cambia-da-ape-a-aiff-senza-costi-utilizzando-il-servizio-online-di-conversione-di-movavi/"><u>Cambia Da .ape a .aiff Senza Costi Utilizzando Il Servizio Online Di Conversione Di Movavi</u></a></li>
-<li><a href="https://windows11.techidaily.com/defining-windows-lockout-after-inactivity/"><u>Defining Windows Lockout After Inactivity</u></a></li>
-<li><a href="https://windows11.techidaily.com/device-duet-pairing-your-android-with-a-pc/"><u>Device Duet: Pairing Your Android with a PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-guide-local-users-group-control-on-win1110/"><u>Essential Guide: Local Users, Group Control on WIN11/10</u></a></li>
-<li><a href="https://article-helps.techidaily.com/mastering-visual-learning-lesson-planning-guide/"><u>Mastering Visual Learning Lesson Planning Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedying-the-elusive-gpeditmsc-error-in-windows/"><u>Remedying the Elusive Gpedit.msc Error in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-non-functional-inbox-alerts-on-windows-os/"><u>Tackling Non-Functional Inbox Alerts on Windows OS</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-digital-guardrails-metas-strategy-against-image-leakage/"><u>The Digital Guardrails: Meta’s Strategy Against Image Leakage</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-importance-of-keeping-active-wins-11-notification-sounds/"><u>The Importance of Keeping Active Wins 11 Notification Sounds</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-pubg-mobile-tips-tricks-and-essential-info/"><u>The Ultimate Guide to PUBG Mobile: Tips, Tricks & Essential Info</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-and-tricks-solving-the-try-connecting-bluetooth-issue/"><u>Tips and Tricks: Solving the 'Try Connecting' Bluetooth Issue</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-for-preventing-windows-autolock-timed-out/"><u>Tips for Preventing Windows Autolock Timed Out</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-the-role-of-ai-in-windows-11-updates/"><u>Unveiling the Role of AI in Windows 11 Updates</u></a></li>
-<li><a href="https://driver-install.techidaily.com/yamaha-steinberg-usb-software-for-multiple-oses/"><u>Yamaha Steinberg USB Software for Multiple OSes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-future-of-packaging-experiential-gifting-excellence/"><u>[New] The Future of Packaging Experiential Gifting Excellence</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-vlogging-equipment-and-basic-software-tools-to-start-vlogging/"><u>[New] Vlogging Equipment and Basic Software Tools to Start Vlogging</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/1716070268969-updated-2024-approved-efficient-image-capture-try-these-top-5-pc-tools/"><u>[Updated] 2024 Approved Efficient Image Capture? Try These Top 5 PC Tools!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-unveiling-text-integration-techniques-for-digital-pictures/"><u>[Updated] 2024 Approved Unveiling Text Integration Techniques for Digital Pictures</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-income-accumulation-with-cosmetic-videos/"><u>[Updated] In 2024, Income Accumulation with Cosmetic Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-uniting-voices-and-visions-the-top-mics-for-educational-gaming-and-lifestyle-yt-screens-for-2024/"><u>[Updated] Uniting Voices & Visions The Top Mics For Educational, Gaming, and Lifestyle YT Screens for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/6-essential-enhancements-for-a-more-advanced-android-auto-experience/"><u>6 Essential Enhancements for a More Advanced Android Auto Experience</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/comprehensive-step-by-step-tutorial-on-performing-dism-offline-cleanup-of-windows-7-images/"><u>Comprehensive Step-by-Step Tutorial on Performing DISM Offline Cleanup of Windows 7 Images</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-the-significance-of-versions-in-windows-updates/"><u>Exploring the Significance of Versions in Windows Updates</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixes-for-recurrent-disk-filling-on-windows-pcs/"><u>Fixes for Recurrent Disk Filling on Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/flipping-the-script-revisiting-timeless-pc-games/"><u>Flipping the Script: Revisiting Timeless PC Games</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/guia-paso-a-paso-para-rescatar-microsoft-outlook-usando-una-copia-de-seguridad/"><u>Guía Paso a Paso Para Rescatar Microsoft Outlook Usando Una Copia De Seguridad</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-rectify-file-history-fault-in-windows/"><u>Guide to Rectify “File History Fault” In Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-remedy-mbs-service-disconnection-issue-on-windows-11/"><u>How to Remedy MB's Service Disconnection Issue on Windows 11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-realme-narzo-n55-drfone-by-drfone-android/"><u>How to Screen Mirroring Realme Narzo N55? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-resolve-razer-devices-not-detected-by-synapse-on-windows/"><u>Steps to Resolve Razer Devices Not Detected by Synapse on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-fix-unresponsive-usb-cases-win-xpvista7810/"><u>Strategies to Fix Unresponsive USB Cases: Win XP/Vista/7/8/10</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-embellishing-system-tray-with-a-favorite-weather-symbol-in-windows-11/"><u>The Ultimate Guide to Embellishing System Tray With a Favorite Weather Symbol in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-windows-11-explorer-guide-pinpointing-your-machines-mac/"><u>The Windows 11 Explorer Guide: Pinpointing Your Machine's MAC</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Avoiding Performance Pitfalls: High CPU Usage with RM"
-date: 2024-08-15T15:13:32.871Z
-updated: 2024-08-16T15:13:32.871Z
+date: 2025-01-21T19:21:55.615Z
+updated: 2025-01-22T19:44:18.521Z
 tags:
   - windows10
   - windows11
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002
 
  Resource Monitor provides you with real-time information on hardware utilization by all processes and services. With its graphical charts and numerical data, you can quickly diagnose high CPU issues and take action to resolve them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Can You Monitor Using Resource Monitor?
 
  The Resource Monitor dashboard provides an overview of current system-wide resource utilization across four key areas:
@@ -36,15 +40,13 @@ thumbnail: https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002
 * **Network activity:** Here, you can track sent/received bytes by process along with real-time network utilization graphs.
 
 ![Resource Monitor Overview Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/resource-monitor-overview-tab.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Combined, these categories give you full visibility into all hardware resource consumption by every process and service. If you’re not a technical geek, you can still get some useful information from there for troubleshooting.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. How to Troubleshoot High CPU Usage With the Resource Monitor
 
  In the event of an unresponsive, sluggish computer, the first step is to [open the Resource Monitor](https://www.makeuseof.com/windows-11-open-resource-monitor/) and check the **CPU** tab.
@@ -66,15 +68,9 @@ thumbnail: https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002
  Simply click the **Total (B/sec)** column header to sort processes by network usage rate and identify any heavy bandwidth consumers. Programs such as your active web browser or any game you're currently running will surely consume more data. But, besides such programs, if any of the processes is displaying a high number, it's a warning sign for you.
 
 ![Resource Monitor Network Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/resource-monitor-network-tab.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 
  With network-related metrics isolated per process, Resource Monitor helps simplify diagnosing connectivity slowdowns. After that, you can also read [how to fix a slow internet connection on Windows](https://www.makeuseof.com/tag/fix-internet-speed-windows-tweaks/) to learn more useful ways.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. How to Check Disk Activity With the Resource Monitor
 
  Sluggish system performance is not always the CPU's fault. Sometimes, poor disk activity can also be a major drag if processes are queuing excessive read/write operations.
@@ -85,11 +81,16 @@ thumbnail: https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002
 
 ![Resource Monitor Disk Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/resource-monitor-disk-tab.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you're unable to decide which process to stop, please check out [how to fix high disk usage](https://www.makeuseof.com/tips-fix-100-disk-usage-improve-windows-performance/) to improve your disk's performance.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. How to Find Memory-Consuming Processes With the Resource Monitor
 
  Available memory is as important to performance as CPU and disk resources. A memory leak can bring even the beefiest system to its knees. The best part is that Resource Monitor provides you with enough details to [troubleshoot your system’s memory](https://www.makeuseof.com/windows-computer-low-memory/).
@@ -97,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002
  In Resource Monitor's Memory tab, there are multiple metrics to monitor. The main ones are **Free memory**, **In Use memory**, and **Hard Faults/sec**.
 
 ![Resource Monitor Memory Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/resource-monitor-memory-tab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The **Free** and **In Use** memory count display the amount of memory currently unused and the amount used by the system, respectively. If you see the In Use memory count rising too high, make sure to close some unnecessary running programs.
 
@@ -110,9 +115,6 @@ thumbnail: https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002
 * If possible, add more RAM if available memory maxes out regularly. The applications you use on your PC may require more RAM than currently installed.
 * Check out [how to disable startup programs on Windows](https://www.makeuseof.com/windows-11-disable-startup-programs/) and try disabling those that you won't require immediately when you turn on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Keep an Eye Out for CPU-Consuming Processes With the Resource Monitor
 
  By understanding the basics of using Resource Monitor, you can move from simply staring blankly at a slow, unresponsive computer to pinpointing exactly which processes or services are hogging your system resources.
@@ -121,8 +123,6 @@ thumbnail: https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002
 
  So, let's take a look at some use cases of the Resource Monitor application on Windows.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -130,5 +130,16 @@ thumbnail: https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-taking-your-videos-to-the-next-level-expert-pc-methods-for-youtubers-for-2024/"><u>[Updated] Taking Your Videos to the Next Level Expert PC Methods for YouTubers for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1728468034525-pc/"><u>查找你在PC或智能手机上丢失的视频 - 有效策略</u></a></li>
+<li><a href="https://article-files.techidaily.com/a-year-in-review-how-vivacut-is-shaping-the-future-of-video-editing-for-2024/"><u>A Year In Review How VivaCut Is Shaping the Future of Video Editing for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-lenovo-thinkpad-x260-drivers-for-windows-10/"><u>Download and Update Lenovo ThinkPad X260 Drivers for Windows 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/future-proof-computing-with-top-windows-laptop-choices/"><u>Future-Proof Computing with Top Windows Laptop Choices</u></a></li>
+<li><a href="https://windows11.techidaily.com/guiding-pathway-merging-emulated-game-titles-with-playnite-software/"><u>Guiding Pathway: Merging Emulated Game Titles with Playnite Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/rectifying-grayed-out-bin-status-in-win11/"><u>Rectifying Grayed Out Bin Status in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-alomware-resource-for-windows-tweakers/"><u>The Ultimate AlomWare Resource for Windows Tweakers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/transitioning-visuals-from-android-to-apple-gear/"><u>Transitioning Visuals From Android to Apple Gear</u></a></li>
+</ul></div>
 

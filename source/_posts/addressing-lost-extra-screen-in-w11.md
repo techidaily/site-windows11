@@ -1,7 +1,7 @@
 ---
 title: Addressing Lost Extra Screen in W11
-date: 2024-08-15T15:13:44.404Z
-updated: 2024-08-16T15:13:44.404Z
+date: 2025-01-17T17:50:24.699Z
+updated: 2025-01-22T16:03:02.773Z
 tags:
   - windows10
   - windows11
@@ -53,7 +53,15 @@ thumbnail: https://thmb.techidaily.com/7231e7cfa11b8c48bc0e8ca6efb14ca7e0a26276b
 ![Detect the Display Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/detect-the-display-settings.jpg)
 5. If your second monitor is detected, click on it and select **Extend these displays** from the drop-down menu.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If it shows a message saying, "We didn't find another display", it means Windows still does not recognize the second monitor. You can try the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Update the Graphics Driver
 
@@ -70,21 +78,17 @@ thumbnail: https://thmb.techidaily.com/7231e7cfa11b8c48bc0e8ca6efb14ca7e0a26276b
 2. Expand **Display adaptors** and right-click on your graphics card.
 3. Select **Update driver** in the context menu**.**  
 ![Update Display adaptors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/update-display-adaptors.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Next, choose **Search automatically for drivers**. If Windows doesn't find anything, click **Search for updated drivers on Windows Update** on the next screen.  
-![Search automatically for drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/search-automatically-for-drivers.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Search automatically for drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/search-automatically-for-drivers.jpg)
 5. If it finds an update, follow the prompts to complete the process.
 
  After updating, restart your computer and check if Windows detects your second monitor.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Reinstall the Graphics Driver
 
  If updating the graphics driver didn't solve the issue, try reinstalling it. This will remove any corrupted or incorrect files and install a fresh driver version. Here's how:
@@ -93,23 +97,18 @@ thumbnail: https://thmb.techidaily.com/7231e7cfa11b8c48bc0e8ca6efb14ca7e0a26276b
 2. Right-click on your graphics card and select Uninstall device.
 3. In the confirmation window that pops up, check the box next to **Attempt to remove the driver for this device**.  
 ![Uninstall Display adaptors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/uninstall-display-adaptors.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 4. Then, click on **Uninstall**.
 
  Once the process is complete, restart your computer. Upon restarting, open Device Manager again and click the **Action** tab on the menu bar. Select **Scan for hardware changes**, and Windows will automatically reinstall the graphics driver.
 
 ![Scan for hardware changes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/scan-for-hardware-changes.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Check if your second monitor is now detected.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Toggle Between the Windows Project Modes
 
  Windows offers a project mode feature that lets you choose how to display content on a second screen. It includes options like PC screen only, Duplicate, Extend, and Second screen only.
@@ -120,6 +119,11 @@ thumbnail: https://thmb.techidaily.com/7231e7cfa11b8c48bc0e8ca6efb14ca7e0a26276b
 2. The **Project** menu displays four options: **PC screen only**, **Duplicate**, **Extend**, and **Second screen only**.  
 ![Toggle between Project Modes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/toggle-between-project-modes.jpg)
 3. First, try selecting the **Duplicate** option. This will mirror your primary monitor to your second monitor.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. If the second monitor still isn't detected, return to the same **Project** menu (Win + P) and select **Extend**. It would extend your desktop across both monitors.
 5. Try the **Second screen only** option if neither option works. This option will turn off your primary monitor and only display on your second monitor.
 6. After each selection, give your system a few seconds to adjust to the new settings. If the second monitor is detected at any stage, keep the settings as they are.
@@ -128,9 +132,6 @@ thumbnail: https://thmb.techidaily.com/7231e7cfa11b8c48bc0e8ca6efb14ca7e0a26276b
 
  Remember, when you switch between project modes, your screen may flicker. This is perfectly normal and nothing to worry about. It's just your system adapting to the new settings.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## 5\. Check the Refresh Rate for the Second Monitor
 
  A refresh rate on a monitor is the number of times it updates with new images every second. If your second monitor has a different refresh rate than the first, Windows may not detect it. To make sure this isn't the issue, follow these steps:
@@ -140,6 +141,11 @@ thumbnail: https://thmb.techidaily.com/7231e7cfa11b8c48bc0e8ca6efb14ca7e0a26276b
 3. Now scroll down to **Related settings** and click on **Advanced display**. This opens the Advanced display settings window.  
 ![Advanced display in System settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/advanced-display-in-system-settings.jpg)
 4. At the top of the screen, choose the second monitor from the drop-down menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Under **Display information**, check the refresh rate. Make sure it's the same as your primary monitor.  
 ![Choose a refresh rate in Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/choose-a-refresh-rate-in-settings-app.jpg)
 6. If not, click on the **Choose a refresh rate** drop-down menu and select a rate compatible with your second monitor.
@@ -154,8 +160,6 @@ thumbnail: https://thmb.techidaily.com/7231e7cfa11b8c48bc0e8ca6efb14ca7e0a26276b
 
  This guide explains how to fix the second monitor not being detected issue in Windows 11\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -163,5 +167,22 @@ thumbnail: https://thmb.techidaily.com/7231e7cfa11b8c48bc0e8ca6efb14ca7e0a26276b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-unveiling-the-mystery-of-youtubes-monetization-rates/"><u>[New] In 2024, Unveiling the Mystery of YouTube's Monetization Rates</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-top-8-free-screen-recorder-for-android-for-2024/"><u>[New] Top 8 Free Screen Recorder for Android for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-turning-off-igtv-on-your-account/"><u>2024 Approved Turning Off IGTV on Your Account</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-sm-bus-controller-software-compatible-with-windows-111087-full-download/"><u>Free SM Bus Controller Software: Compatible with Windows 11/10/8/7 – Full Download</u></a></li>
+<li><a href="https://windows11.techidaily.com/gain-control-of-costs-windows-11-pro-key-advantages/"><u>Gain Control of Costs: Windows 11 Pro Key Advantages</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-unlock-windows-from-stuck-twilight-settings/"><u>How to Unlock Windows From Stuck Twilight Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/improve-notepad-on-win11-via-ingenious-sage/"><u>Improve Notepad on Win11 via Ingenious Sage</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-from-apple-iphone-x-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out From Apple iPhone X How to Bypass?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-perfecting-the-art-convert-youtube-shorts-into-high-quality-mp4/"><u>In 2024, Perfecting the Art Convert YouTube Shorts Into High-Quality Mp4</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixed-top-10-windows-glitch-solvers/"><u>Quick Fixed: Top 10 Windows Glitch Solvers</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-path-not-found-issue-in-windows-xp7/"><u>Resolving Path Not Found Issue in Windows XP/7</u></a></li>
+<li><a href="https://windows11.techidaily.com/secret-menu-additions-a-step-by-step-guide-in-win-10/"><u>Secret Menu Additions: A Step-by-Step Guide in Win 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-security-refreshing-windows-group-policies/"><u>Streamlining Security: Refreshing Windows Group Policies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/warning-ios-15-may-cause-your-ipad-to-malfunction-essential-info-pre-installation-techinsight/"><u>Warning: IOS 15 May Cause Your iPad to Malfunction - Essential Info Pre-Installation | TechInsight</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/why-does-my-graphic-card-keep-freezing-on-windows-11-uncover-the-reasons-with-yl-computings-guide/"><u>Why Does My Graphic Card Keep Freezing on Windows 11? Uncover the Reasons with YL Computing's Guide</u></a></li>
+</ul></div>
 
