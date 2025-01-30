@@ -1,7 +1,7 @@
 ---
 title: Bypassing Wacatac.B!ml Barriers - A Guide for Safe Windows Navigation
-date: 2024-08-15T15:22:35.587Z
-updated: 2024-08-16T15:22:35.587Z
+date: 2025-01-25T03:58:17.028Z
+updated: 2025-01-29T17:07:04.826Z
 tags:
   - windows10
   - windows11
@@ -46,9 +46,6 @@ thumbnail: https://thmb.techidaily.com/ebac8749de86200184a77a3fa2bb901785d67bf12
 
 1. Visit the [VirusTotal website](https://www.virustotal.com/gui/home/upload) .  
 ![clicking on the choose file button on the VirusTotal official website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-on-the-choose-file-button-on-the-virus-total-official-website.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 2. Navigate to the path of the affected item where Windows Defender has detected a Trojan. Most of the time, it'll be as follows:  
 `C:\WINDOWS\System32\config\systemprofile\AppData\Local\Microsoft\Windows\INetCache\IE\QINNLJOV.htm`
 3. Select the infected file and upload it.  
@@ -60,9 +57,6 @@ thumbnail: https://thmb.techidaily.com/ebac8749de86200184a77a3fa2bb901785d67bf12
 
  If you are sure that the Wacatac threat isn't a false positive and just want to be sure that your device isn't infected or the scan reveals that the file you've scanned is infected, you should take the following steps:
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Delete the Infected File
 
  The first step is to delete the infected file that Windows Defender claims is infected. Thus, navigate to the same path mentioned above, right-click on the file, and select**Delete** .
@@ -74,8 +68,9 @@ thumbnail: https://thmb.techidaily.com/ebac8749de86200184a77a3fa2bb901785d67bf12
  If the file in which Windows Defender finds a threat is a Windows operating system file, you should be cautious before deleting it. Otherwise, it could make your computer unbootable.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Remove the Threat Manually
 
  Windows Security makes it easier to remove the threat manually. Here are the steps to follow:
@@ -84,15 +79,14 @@ thumbnail: https://thmb.techidaily.com/ebac8749de86200184a77a3fa2bb901785d67bf12
 2. In the left-sidebar, click**Privacy & security** .
 3. In the right pane, click**Windows Security** .  
 ![Opening Windows Security Settings by Clicking on Privacy & Security Option in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-4-Opening-Windows-Security-Settings-by-Clicking-on-Privacy--Security-Option-in-Windows-Settings-App.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 4. Click**Virus & threat protection** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Then click**Protection history** .  
 ![Clicking on Protection History Option Under Virus & Threat Protection in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-5-Clicking-on-Protection-History-Option-Under-Virus--Threat-Protection-in-Windows-Settings-App.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 6. Click on the Wacatac's threat.
 7. Open the**Actions** dropdown and select**Remove** .  
 ![Removing the Wacatac’s Threat by Clicking on Remove Button in the Actions Dropdown in Protection History](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-6-Removing-the-Wacatac’s-Threat-by-Clicking-on-Remove-Button-in-the-Actions-Dropdown-in-Protection-History.jpg)
@@ -100,8 +94,9 @@ thumbnail: https://thmb.techidaily.com/ebac8749de86200184a77a3fa2bb901785d67bf12
  Run the scan again. If it doesn't remove the threat, follow the same steps and choose**Quarantine** from the**Actions** dropdown. This will prevent further virus spread. Next, move on to the next step.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Run a Malware Scan in Safe Mode
 
  Often, the presence of malware prevents Windows Defender from removing infected files. To prevent this from happening, you should first [boot your Windows 10 device into Safe mode](https://www.makeuseof.com/tag/boot-windows-10-safe-mode/) (or [Windows 11)](https://www.makeuseof.com/windows-11-boot-safe-mode/) . By doing so, the malware won't interfere with removing infected files.
@@ -109,6 +104,10 @@ thumbnail: https://thmb.techidaily.com/ebac8749de86200184a77a3fa2bb901785d67bf12
  Afterward, you should [run Microsoft Defender's offline scan](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) . Remember that a full virus scan can take more than an hour, so be patient and allow it to complete. When the scan is complete, check whether Windows Security still reports a threat. If this is the case, run a malware scan with a third-party antivirus program.
 
  There are times when Windows Defender does not completely remove malware or keeps raising false flags despite removing the virus. Third-party software can help you determine whether the threat is present and, if it is, eradicate it. If that fails as well, reset your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Reset Your Operating System
 
@@ -126,29 +125,29 @@ thumbnail: https://thmb.techidaily.com/ebac8749de86200184a77a3fa2bb901785d67bf12
 2. Visit the [VirusTotal website](https://www.virustotal.com/gui/home/url) .
 3. Enter the URL in the URL scanner.  
 ![Entering the URL of the file to be downloaded in the URL scanner on the VirusTotal website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/entering-the-url-of-the-file-to-be-downloaded-in-the-url-scanner-on-the-virus-total-website.jpg)
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Hit**Enter** .  
-![Showing the results of the scanned file on the VirusTotal website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/showing-the-results-of-the-scanned-file-on-the-virus-total-website.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+![Showing the results of the scanned file on the VirusTotal website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/showing-the-results-of-the-scanned-file-on-the-virus-total-website.jpg)
+
  If the VirusTotal scanner returns a clean result, you can download the file without worry. Just [whitelist the file in Windows Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/) to exclude this file, and you're done. If the scanner detects a malware, it's best not to download it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Protect Your Privacy From the Wacatac Trojan
 
  You should now have a better understanding of the Wacatac Trojan. If your device has been infected, getting rid of it should now be more straightforward. Ignore it if it turns out to be a false flag. Also, use a third-party antivirus with Windows Defender to ensure your security is foolproof.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -157,8 +156,20 @@ thumbnail: https://thmb.techidaily.com/ebac8749de86200184a77a3fa2bb901785d67bf12
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-slash-size-save-time-essential-tips-for-editing-big-tiktok-drafts/"><u>[New] In 2024, Slash Size, Save Time Essential Tips for Editing Big TikTok Drafts</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-motorola-moto-g24-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Motorola Moto G24 Phone | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-poco-c50-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Poco C50 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-use-the-windows-canary-protection-tool/"><u>How to Use the Windows Canary Protection Tool</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-m54-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instructingdarkmodeonwindowsnotepad/"><u>InstructingDarkModeOnWindowsNotepad</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-for-rectifying-unlaunchable-lunar-client-warning/"><u>Methods for Rectifying Unlaunchable Lunar Client Warning</u></a></li>
+<li><a href="https://windows11.techidaily.com/overhauling-windows-11-camera-glitch-fix-for-error-code-a00f425d/"><u>Overhauling Windows 11 Camera Glitch: Fix for Error Code A00F425D</u></a></li>
+<li><a href="https://windows11.techidaily.com/pinpoint-win-logins-the-differentiator-between-right-and-wrong-entries/"><u>Pinpoint Win Logins: The Differentiator Between Right & Wrong Entries</u></a></li>
+<li><a href="https://windows11.techidaily.com/skirting-legalities-shun-chatbots-for-windows-keys/"><u>Skirting Legalities: Shun Chatbots for Windows Keys</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-complete-process-for-adding-widgets-on-windows-11/"><u>The Complete Process for Adding Widgets on Windows 11</u></a></li>
+<li><a href="https://win-superb.techidaily.com/troubleshooting-pc-hardware-issues-on-windows-expert-tips-from-yl-computing/"><u>Troubleshooting PC Hardware Issues on Windows: Expert Tips From YL Computing</u></a></li>
+</ul></div>
 

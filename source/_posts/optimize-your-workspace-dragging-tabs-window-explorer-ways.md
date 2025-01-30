@@ -1,7 +1,7 @@
 ---
 title: "Optimize Your Workspace: Dragging Tabs, Window Explorer Ways"
-date: 2025-01-20T20:55:10.502Z
-updated: 2025-01-22T16:58:34.177Z
+date: 2025-01-27T00:24:49.321Z
+updated: 2025-01-29T16:30:34.609Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521fee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is Dragging File Explorer Tabs Out Really That Useful?
 
  If you recall your experience with using a web browser, you know that using a split screen has its advantages. If you want to stack two tabs side by side, you can just open two browser tabs, drag one out, and use snap layouts to arrange them. It is very easy to drag out a tab in a browser, but that feature is missing in the current version of File Explorer.
@@ -39,15 +35,27 @@ thumbnail: https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521fee
 
  Thankfully, the latest Insider build 25290 has a hidden feature that makes it possible to drag out tabs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable the Drag-Out Feature in File Explorer
 
  This feature is exclusive to Windows 11 Insider builds and is in the testing phase. So, you will have to download and install the build version 25290 and then use the ViveTool to enable the feature.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Update to the Latest Insider Build
 
  To update to the latest insider build, head over to the Settings page and[check for Windows updates](https://www.makeuseof.com/tag/update-windows-software-guide/) . After that, install the latest 25920 build or newer on your system. You will have to restart your system for the changes to take effect.
 
  If you haven’t enrolled in the Windows Insider program and still want to try out this new feature, take the help of UUP Dump. You can easily[download the latest Windows Insider builds using UUP Dump](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/) . Install the build and then proceed to the next step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Enable the Feature Using ViveTool
 
@@ -62,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521fee
 6. **Exit** the command prompt window after the ViveTool command executes successfully.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Restart your system to apply the changes.
@@ -71,11 +79,7 @@ thumbnail: https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521fee
 9. Try to drag the tabs out of File Explorer. It will open in a second window. You can stack them on each side if you like.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can You Restore the Tab to the File Explorer Window?
@@ -83,10 +87,6 @@ thumbnail: https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521fee
  Yes, you can indeed restore the dragged tab back to a File Explorer window. But the process is very clunky. You have to drag and hold the tab onto another open tab in a different File Explorer window.
 
  If you aren’t able to accurately position the tab, it will not merge with the File Explorer tab bar. In Chrome browser, dragging out and restoring them to the same window is pretty easy. You can even hover the tab and position it between two open tabs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Drag Tabs Out Like a Pro in File Explorer
 
@@ -107,19 +107,20 @@ thumbnail: https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521fee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-2023s-finest-zero-cost-online-broadcast-software-roundup/"><u>2024 Approved 2023'S Finest Zero-Cost Online Broadcast Software Roundup</u></a></li>
-<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-honor-x8b-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Honor X8b to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-10-mobile-games-hacking-tools-on-android-rooted-and-non-rooted-options/"><u>Best 10 Mobile Games Hacking Tools on Android: Rooted & Non-Rooted Options</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/car-audio-issues-decoded-why-are-my-speakers-not-working/"><u>Car Audio Issues Decoded: Why Are My Speakers Not Working?</u></a></li>
-<li><a href="https://win-studio.techidaily.com/dropbox-troubleshooting-guide-for-windows-nix-4-effective-fixes-for-sync-problems/"><u>Dropbox Troubleshooting Guide for Windows Nix: 4 Effective Fixes for Sync Problems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-steps-to-fresh-start-resetting-your-hp-laptop-back-to-its-original-settings/"><u>Easy Steps to Fresh Start: Resetting Your HP Laptop Back to Its Original Settings</u></a></li>
-<li><a href="https://windows11.techidaily.com/implementing-extended-firewall-protection-for-windows-11/"><u>Implementing Extended Firewall Protection for Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-hardware-cooling-on-microsoft-pcs/"><u>Mastering Hardware Cooling on Microsoft PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-win11-settings-for-defaults/"><u>Navigating Win11 Settings for Defaults</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/optimal-graphics-setup-for-high-res-editing-for-2024/"><u>Optimal Graphics Setup for High Res Editing for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-methods-to-enable-fingertip-writing-on-windows-pcs/"><u>Quick Methods to Enable Fingertip Writing on Windows PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-windows-error-invalid-network-path/"><u>Resolving Windows Error: Invalid Network Path</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/rev-up-your-playtime-in-depth-look-at-holy-stones-cartoon-rc-race-car-for-the-whole-family/"><u>Rev Up Your Playtime: In-Depth Look at Holy Stone's Cartoon RC Race Car for the Whole Family</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-note-saving-strategies-no-software/"><u>Windows 11 Note-Saving Strategies, No Software</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-noise-control-for-filmmakers-basic-pro-methods-and-pricing/"><u>[New] 2024 Approved Noise Control for Filmmakers - Basic, Pro Methods & Pricing</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-premier-paint-shop-pro-tricks/"><u>[New] 2024 Approved Premier Paint Shop Pro Tricks</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-ultra-30-camera-a-detailed-examination-by-garmin-for-2024/"><u>[New] The Ultra 30 Camera - A Detailed Examination by Garmin for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-is-insta-snap-verification-worth-it-in-2024/"><u>[Updated] Is Insta-Snap Verification Worth It, In 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-livestreaming-pre-recorded-content-on-facebook-platform/"><u>[Updated] Livestreaming Pre-Recorded Content on Facebook Platform</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/efficient-setup-of-nexiq-usb-link-drivers-free-download-and-installation-instructions/"><u>Efficient Setup of Nexiq USB-Link Drivers - Free Download and Installation Instructions</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-words-read-aloud-feature-when-it-stops-working-in-windows/"><u>How to Fix Word’s Read Aloud Feature When It Stops Working in Windows</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/master-the-art-of-economizing-at-the-pump-expert-advice-by-massmail/"><u>Master the Art of Economizing at the Pump - Expert Advice by Massmail</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-incompatible-file-issue-in-windows-vlc/"><u>Overcoming Incompatible File Issue in Windows VLC</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-update-glitch-windows-error-0x80246007-fix/"><u>Resolving Update Glitch: Windows' Error 0X80246007 Fix</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-eradicating-xc0f1103f-problem-with-geforce/"><u>Steps for Eradicating XC0F1103F Problem with GeForce</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-productivity-ifttt-and-microsoft-to-do-integration/"><u>Streamlining Productivity: IFTTT & Microsoft To-Do Integration</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-failed-downloads-in-utorrent-expert-tips-and-strategies/"><u>Troubleshooting Failed Downloads in uTorrent - Expert Tips & Strategies</u></a></li>
+<li><a href="https://windows11.techidaily.com/turbocharge-valorant-windows-download-optimization-guide/"><u>Turbocharge Valorant: Windows Download Optimization Guide</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/ultimate-guide-compressing-and-optimizing-videos-for-stunning-instagram-posts/"><u>Ultimate Guide: Compressing and Optimizing Videos for Stunning Instagram Posts</u></a></li>
 </ul></div>
 

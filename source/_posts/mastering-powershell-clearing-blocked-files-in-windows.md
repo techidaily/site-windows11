@@ -1,7 +1,7 @@
 ---
 title: "Mastering PowerShell: Clearing Blocked Files in Windows"
-date: 2025-01-16T16:09:02.337Z
-updated: 2025-01-22T18:41:23.863Z
+date: 2025-01-26T23:16:15.439Z
+updated: 2025-01-30T03:08:41.677Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do I Unblock Multiple Files Using PowerShell on Windows?
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
  You can easily unblock a file by right-clicking on it and going to**Properties** — If you're on Windows 11, you'll need to click**Show more options** first before you can see the**Properties** option in the context menu. And once you're there, select the**General** tab and tick**Unblock** at the bottom in the**Security** section.
 
 ![unblocking a file in Properties on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/unblock-file-properties-windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  But what if you have more than one file you need to unblock? Doing this one by one can get tedious. Alternatively, you can execute a single PowerShell command to unblock multiple files in a directory. Here is the command structure you need to use:
 
@@ -46,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
 ![copying file path on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/copy-as-path-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  With the file path handy, follow the instructions below to use the unblock command in PowerShell:
@@ -57,16 +53,20 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
 ![entering the unblock file command in PowerShell on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/power-shell-unblock-files-command.jpg)
 4. You will be asked to confirm each file you want to unblock, so type either**Y** for**Yes** or**N** for**No** and hit the**Enter** key. This confirmation step is due to the**\-confirm** portion of the command. It is completely optional, and you can omit it or type**A** to confirm all the files in the directory.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![confirming files to unblock in PowerShell on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/power-shell-unblock-files-confirm.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There’s a way you can tell Windows to always trust files you download from the internet. To do that, please read our guide on[how to stop Windows 10 from blocking your downloaded files](https://www.makeuseof.com/stop-windows-10-from-blocking-your-downloaded-files/) . The instructions in the tutorial use the Registry Editor and Local Group Policy Editor, so they should also work on Windows 11.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Now You Know How to Unblock Files You Know Are Safe
@@ -88,18 +88,21 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-innovative-approaches-to-keeping-your-snaps-connected/"><u>2024 Approved Innovative Approaches to Keeping Your Snaps Connected</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-youtube-money-mastery-from-clicks-to-checkbook-balance/"><u>2024 Approved YouTube Money Mastery From Clicks to Checkbook Balance</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Vivo X Fold 2 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/improving-nonworking-diagnostics-for-win10win11/"><u>Improving Nonworking Diagnostics for Win10/Win11</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-flipping-currencies-through-cosmetics-content/"><u>In 2024, Flipping Currencies Through Cosmetics Content</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oneplus-ace-2v-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from OnePlus Ace 2V to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/microsoft-store-fix-guide-for-error-0x80131500/"><u>Microsoft Store Fix Guide for Error 0X80131500</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigate-and-picker-engaging-checkbox-for-files-in-win11/"><u>Navigate and Picker: Engaging Checkbox for Files in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-wsl-issues-post-windows-11-upgrade/"><u>Resolving WSL Issues Post-Windows 11 Upgrade</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-for-restoring-data-flow-from-faulty-usb-on-windows/"><u>Steps for Restoring Data Flow From Faulty USB On Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-5-highly-reliable-encrypted-email-providers/"><u>Top 5 Highly Reliable Encrypted Email Providers</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-error-code-windows-10s-0x0000004e/"><u>Troubleshooting Error Code: Windows 10'S 0X0000004E</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-to-exit-sea-of-thieves-endless-launch-sequence/"><u>Troubleshooting Tips to Exit Sea of Thieves Endless Launch Sequence</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/levate-traffic-ethical-practices-for-amplifying-content-views-for-2024/"><u>[New] Elevate Traffic Ethical Practices for Amplifying Content Views for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-healing-harmony-best-20-soothing-country-tracks-to-groove-on-tiktok-for-2024/"><u>[New] Healing Harmony Best 20 Soothing Country Tracks to Groove On TikTok for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-meme-design-props/"><u>[New] The Ultimate Guide to Meme Design Props</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-10-best-zero-cost-videochats-collaboration-at-your-desk/"><u>[Updated] 2024 Approved 10 Best Zero-Cost Videochats Collaboration at Your Desk</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-benq-bl2711u-a-journey-through-professional-4k-display-tech/"><u>2024 Approved BenQ BL2711U - A Journey Through Professional 4K Display Tech</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-vivo-t2-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Vivo T2 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-unblock-and-install-unverified-windows-software/"><u>How to Unblock and Install Unverified Windows Software</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-x50-gt-bootloader-easily-by-drfone-android/"><u>How to Unlock Honor X50 GT Bootloader Easily</u></a></li>
+<li><a href="https://windows11.techidaily.com/incorinas-technology-and-apple-maps-for-windows-users/"><u>Incorinas Technology and Apple Maps for Windows Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-mac-finder-tailoring-view-options-for-folders-and-subfolders/"><u>Mastering Mac Finder - Tailoring View Options for Folders & Subfolders</u></a></li>
+<li><a href="https://windows11.techidaily.com/re-establishing-erased-battery-mode-on-ws-11/"><u>Re-Establishing Erased Battery Mode on WS 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-fix-for-msvcr120dll-non-existence-on-computers/"><u>The Ultimate Fix for MSVCR120.DLL Non-Existence on Computers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-ranking-of-the-best-mobile-gaming-devices-according-to-zdnet/"><u>The Ultimate Ranking of the Best Mobile Gaming Devices According to ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/transforming-data-integrating-windows-with-qr-technology/"><u>Transforming Data: Integrating Windows with QR Technology</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-printer-dilemma-windows-error-xffffff/"><u>Unraveling the Printer Dilemma: Windows Error XFFFFFF</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-is-the-arp-cache-and-how-do-you-clear-it-on-windows/"><u>What Is the ARP Cache, and How Do You Clear It on Windows?</u></a></li>
 </ul></div>
 

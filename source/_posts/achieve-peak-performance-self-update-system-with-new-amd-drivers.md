@@ -1,7 +1,7 @@
 ---
 title: "Achieve Peak Performance: Self-Update System with New AMD Drivers"
-date: 2024-08-15T15:22:21.309Z
-updated: 2024-08-16T15:22:21.309Z
+date: 2025-01-23T07:03:34.856Z
+updated: 2025-01-29T20:07:53.099Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/ab712e6369c11731fb797565c1d31f34a50ed98f4
 
 ![amd radeon display adapter driver roll back](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/amd-radeon-display-adapter-driver-roll-back.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  An easy way to fix Windows replacing your AMD graphics error is to roll back the AMD graphics driver. A driver rollback removes the current driver and reinstalls the previous version saved on your computer. Fortunately, you can [roll back device drivers using the Windows Device Manager](http://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) .
 
  In Device Manager, look for and expand the**Display Adapters** section. Here, select the**AMD Radeon (TM) graphics** device and perform a driver rollback. Once done, restart your computer and check for any improvements. If the**Roll Back Driver** option is greyed out, you can't perform a rollback for the selected device.
@@ -44,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/ab712e6369c11731fb797565c1d31f34a50ed98f4
 
  You can [stop automatic driver updates on Windows](https://www.makeuseof.com/windows-stop-automatic-driver-updates/) using device installation settings,**Group Policy Editor** , and the**Windows Registry** . With the device installation settings for automatic driver download set to off, Windows won't download and install AMD graphics drivers automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Repair and Reinstall the AMD Software Driver
 
 ![amd radeon software installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/amd-radeon-software-installer.jpg)
@@ -57,20 +58,23 @@ thumbnail: https://thmb.techidaily.com/ab712e6369c11731fb797565c1d31f34a50ed98f4
 `C:\AMD\RadeonInstaller\RadeonInstaller\Radeon_Folder_with_verison_name`
 2. Next, double-click to run the**Setup.exe** file.  
 ![run amd setup exe repair graphics driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-amd-setup-exe-repair-graphics-driver.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 3. In the**AMD Radeon Software Installer** dialog, select the driver version to install.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click**Install** and wait for the driver to install.
 
  If you encounter an AMD error 195, temporarily [disable Windows Defender Firewall](https://www.makeuseof.com/how-to-turn-off-windows-defender/) and**Real-Time Threat Protection** and try again.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Reinstall the AMDSoftware Graphics Driver
 
 ![amd software adrenaline edition uninstall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/amd-software-adrenaline-edition-uninstall.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the issue persists, try to remove and reinstall the AMD Software graphics driver. Once uninstalled, you can download the latest driver using the AMD Software.
 
@@ -80,9 +84,6 @@ To uninstall the AMD graphics driver:
 2. Open the**Apps** tab and click**Installed Apps** .
 3. Next, search for**AMD Software** .  
 ![unisntall amd graphics driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/unisntall-adm-graphics-driver.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 4. Click**Uninstall** and then**Uninstall** again to confirm the action.
 5. Select**AMD Radeon Graphics** and click**Uninstall** .
 
@@ -93,6 +94,10 @@ To uninstall the AMD graphics driver:
  When you uninstall a display driver, your secondary monitor can stop working. This will happen if your monitor's HDMI cable is directly connected to the port on your dedicated graphics unit. Your secondary display should work again as you reinstall the graphics driver.
 
  After the restart, you can [update your AMD Radeon graphics driver](https://www.makeuseof.com/update-amd-radeon-graphics-driver-windows-11/) using AMD Software. Install the driver and restart your PC to see if the error is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Use a System Restore Point
 
@@ -105,30 +110,25 @@ To undo the recent changes using a restore point:
 1. Press**Win + R** to open**Run** .
 2. Type**rstrui.exe** and click**OK** .  
 ![select restore point](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/select-restore-point.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 3. In the**System Restore** dialog, select the**Recommended** **restore** option. If not, select the**Choose a different restore point** option**.**
 4. Select a**restore point** and click**Next** .  
 ![select restore point windows 11 finish](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/select-restore-point-windows-11-finish.jpg)
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Read the description and click**Finish** .
 6. System Restore will restart and restore your PC to the state it was in before the date of the selected restore point.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixing the Windows Update May Have Automatically Replaced Your AMD Driver
 
  This error occurs if multiple versions of the same AMD Radeon graphics driver are installed on your computer. To fix the issue, perform a driver rollback for your AMD Radeon graphics in Device Manager. Once done, change the device installation setting to prevent Windows from automatically installing the OEM driver for your GPU.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -137,8 +137,24 @@ To undo the recent changes using a restore point:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-unleashing-creativity-top-30-video-plans-for-2024/"><u>[New] Unleashing Creativity Top 30 Video Plans for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-enhanced-repertoire-of-questions-to-spark-podcast-conversations/"><u>[Updated] 2024 Approved Enhanced Repertoire of Questions to Spark Podcast Conversations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-guide-to-vlc-for-networked-webcasting/"><u>[Updated] Expert Guide to VLC for Networked Webcasting</u></a></li>
+<li><a href="https://win-answers.techidaily.com/crisp-imagery-update-restores-sharpness-to-outriders-graphics/"><u>Crisp Imagery Update Restores Sharpness to Outriders Graphics</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-the-language-of-asmr-videos-for-2024/"><u>Decoding the Language of ASMR Videos for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-recycle-bin-icon-setting-grayed-out-in-windows-11/"><u>How to Fix the Recycle Bin Icon Setting Grayed Out in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-re-position-your-qbittorrent-on-different-windows-devices/"><u>How to Re-Position Your qBittorrent on Different Windows Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-samsung-galaxy-s23-fe-lock-screen-password-by-drfone-android/"><u>How to Reset your Samsung Galaxy S23 FE Lock Screen Password</u></a></li>
+<li><a href="https://windows11.techidaily.com/idea-illumination-strategies-for-visual-notetaking-in-obsidian/"><u>Idea Illumination: Strategies for Visual Notetaking in Obsidian</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2022-online-here-are-6-easy-ways-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE (2022) Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovative-techniques-for-creating-fictional-universes-via-chatgpt/"><u>Innovative Techniques for Creating Fictional Universes via ChatGPT</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/inside-the-drone-world-detailed-look-at-dji-phantom-4-for-2024/"><u>Inside the Drone World Detailed Look at DJI Phantom 4 for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/making-your-life-easier-deploying-multiple-apps-on-windows-11-via-winstall/"><u>Making Your Life Easier: Deploying Multiple Apps on Windows 11 via Winstall</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-efficiency-three-ways-to-upgrade-double-click-rate/"><u>Maximizing Efficiency: Three Ways to Upgrade Double-Click Rate</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinstating-lost-d3dx939dll-for-windows-11/"><u>Reinstating Lost D3DX9_39.dll for Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-guide-forcibly-remove-printers/"><u>Win11 Guide: Forcibly Remove Printers</u></a></li>
+<li><a href="https://windows11.techidaily.com/workaround-to-permit-chrome-network-connectivity-on-pc/"><u>Workaround to Permit Chrome Network Connectivity on PC</u></a></li>
+</ul></div>
 

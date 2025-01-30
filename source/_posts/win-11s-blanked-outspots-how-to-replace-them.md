@@ -1,7 +1,7 @@
 ---
 title: "Win 11'S Blanked Outspots: How to Replace Them"
-date: 2025-01-20T16:33:27.943Z
-updated: 2025-01-22T20:27:23.954Z
+date: 2025-01-24T22:09:13.429Z
+updated: 2025-01-30T01:58:55.369Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Enable Show Desktop Icons
 
  On Windows 11, you can show or hide desktop icons with a couple of clicks. So, if you’ve accidentally hidden your desktop icons, getting them back is fairly easy.
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895
  Right-click anywhere on an empty spot on your desktop and select**View > Show desktop icons** . Once you do that, all your hidden desktop icons should reappear.
 
 ![Show Desktop Icons on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Show-Desktop-Icons-on-Windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Check Desktop Icon Settings
 
@@ -46,10 +54,14 @@ thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895
 ![Desktop Icon Settings Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Desktop-Icon-Settings-Window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you complete the above steps, your icons should appear on the desktop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Restart Windows Explorer
 
@@ -61,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895
 ![Restart Windows Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Restart-Windows-Explorer.jpg)
 
  Your taskbar will disappear for a brief moment and then reappear. Following this, your desktop icons should be visible.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Rebuild Icon Cache
 
@@ -80,10 +96,6 @@ To rebuild icon cache on Windows 11:
 ![Rebuild Icon Cache Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Rebuild-Icon-Cache-Windows.jpg)
 7. Finally, type in the following text and hit**Enter** to restart Explorer:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `Explorer.exe`
 
  Once you complete the above steps, restart your PC and see if the desktop icons appear.
@@ -99,11 +111,11 @@ To rebuild icon cache on Windows 11:
 5. Select**Search automatically for drivers** to let Windows find and install the best drivers.  
 ![Update Graphics Driver on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Update-Graphics-Driver-on-Windows.jpg)
 
- If the issue persists even after updating the driver, your graphics driver may be corrupt. In that case, you'll need to reinstall the graphics driver on your PC. Refer to our guide on[how to fix corrupt drivers on Windows](https://www.makeuseof.com/how-to-fix-corrupt-drivers-on-windows-10/) for more instructions on how to fix this.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If the issue persists even after updating the driver, your graphics driver may be corrupt. In that case, you'll need to reinstall the graphics driver on your PC. Refer to our guide on[how to fix corrupt drivers on Windows](https://www.makeuseof.com/how-to-fix-corrupt-drivers-on-windows-10/) for more instructions on how to fix this.
 
 ## 6\. Check the Group Policy Settings
 
@@ -119,10 +131,6 @@ To rebuild icon cache on Windows 11:
 6. Click**Apply** followed by**OK** .  
 ![Enable Desktop Icons on Windows 11 via Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Enable-Deskop-Icons-on-Windows-11-via-Group-Policy-Editor-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Perform a System Restore
 
  There's a chance that a recent system change is to blame for the missing desktop icons in Windows 11\. If you can't figure out what it is, you can use System Restore to restore Windows to a previous state.
@@ -137,10 +145,6 @@ Follow these steps to perform a system restore on Windows:
 6. Click on**Finish** .  
 ![System Restore Dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/System-Restore-Dialog.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Wait for Windows to reboot and revert to the specified restore point. Following that, your desktop icons should appear.
 
 ## 8\. Manually Restore the Desktop Shortcut Icons
@@ -154,10 +158,6 @@ Follow these steps to perform a system restore on Windows:
  Alternatively, you can create a shortcut on your desktop by using the Create Shortcut wizard. To do so, right-click anywhere on the desktop and select**New > Shortcut** . Then, click the**Browse** button to locate the file, folder, or app you want to add to your desktop. Then, click**Next** followed by**Finish** .
 
  We covered this topic in more detail in our guide to[how to add icons to the desktop on Windows](https://www.makeuseof.com/how-to-add-icon-to-desktop-windows/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Restore the Missing Desktop Icons on Windows 11
 
@@ -178,18 +178,24 @@ Follow these steps to perform a system restore on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-seamless-streaming-smarter-storing-top-51-exclusive-android-mobile-video-trimming-software/"><u>[New] 2024 Approved Seamless Streaming, Smarter Storing Top 51 Exclusive Android Mobile Video Trimming Software</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-effortless-screen-capture-on-chrome-os-devices/"><u>[New] In 2024, Effortless Screen Capture on Chrome OS Devices</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-next-gen-methods-for-breathtaking-android-time-lapses/"><u>[New] Next-Gen Methods for Breathtaking Android Time-Lapses</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-advanced-livestream-software-arsenal/"><u>[Updated] 2024 Approved Advanced Livestream Software Arsenal</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-full-length-guide-to-transforming-gif-images-into-fun-stickers-on-popular-messengers-for-2024/"><u>[Updated] Full-Length Guide to Transforming GIF Images Into Fun Stickers on Popular Messengers for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1-secure-your-online-footprint-eliminate-tracking-data-from-safari-on-mac-os-zdnet/"><u>1. Secure Your Online Footprint: Eliminate Tracking Data From Safari on Mac OS | ZDNet</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/cutting-edge-ai-photo-enhancement-suite/"><u>Cutting-Edge AI Photo Enhancement Suite</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-install-logitech-dfgt-racing-wheel-software-compatible-with-win71011/"><u>Download and Install Logitech DFGT Racing Wheel Software – Compatible with Win7/10/11</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-15-plusipad-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone 15 Plus/iPad Without Computer | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/preventing-corruption-write-restoration-in-windows-systems/"><u>Preventing Corruption: Write Restoration in Windows Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/repairing-lopsided-one-side-windows-headphone-sounds/"><u>Repairing Lopsided One-Side Windows Headphone Sounds</u></a></li>
-<li><a href="https://windows11.techidaily.com/skyrocketing-yuzu-speeds-on-windows-devices/"><u>Skyrocketing Yuzu Speeds on Windows Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-full-potential-of-windows-11-calendar/"><u>Unlocking Full Potential of Windows 11 Calendar</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-the-finest-9-mic-recording-devices-compared/"><u>[New] 2024 Approved The Finest 9 Mic Recording Devices Compared</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-professional-techniques-to-make-a-standout-gopro-time-lapse/"><u>[Updated] 2024 Approved Professional Techniques to Make a Standout GoPro Time-Lapse</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-the-best-ultimate-guide-to-premium-unboxing-youtubers-2024/"><u>[Updated] Exploring the Best Ultimate Guide to Premium Unboxing YouTubers, 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-10-best-instagram-tools-to-manage-post-and-increase-followers/"><u>[Updated] In 2024, 10 Best Instagram Tools to Manage Post and Increase Followers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-xstudio-essentials-explored-detailed-reviews/"><u>2024 Approved XStudio Essentials Explored Detailed Reviews</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-no-audio-devices-in-windows/"><u>Addressing 'No Audio Devices' In Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-windows-for-wordpad-operability/"><u>Exploring Windows for WordPad Operability</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-social-media-live-services-showdown-facebook-vs-youtube-vs-twitter-spaces/"><u>In 2024, Social Media Live Services Showdown Facebook Vs. YouTube Vs. Twitter Spaces</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-error-handling-fixing-missing-updates-error-code-0x80070003/"><u>Mastering Windows Error Handling: Fixing Missing Updates (Error Code: 0X80070003)</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/miniature-powerhouses-discover-the-leading-gaming-mini-pcs/"><u>Miniature Powerhouses: Discover the Leading Gaming Mini PCs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/photographic-albums-with-soundscape-features-for-2024/"><u>Photographic Albums with Soundscape Features for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/preserving-calculator-precedence-on-windows-systems/"><u>Preserving Calculator Precedence on Windows Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/say-no-to-disguised-dangers-with-googles-bard-download/"><u>Say No to Disguised Dangers with Google’s Bard Download</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-rearranged-characters-in-windows-os/"><u>Solutions for Rearranged Characters in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-to-switching-notepad-to-dark-theme-in-windows-11/"><u>Step-by-Step Guide to Switching Notepad to Dark Theme in Windows 11</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/step-by-step-strategy-for-restoring-critical-information-from-unstable-dynamic-disks-in-microsoft-windows/"><u>Step-by-Step Strategy for Restoring Critical Information From Unstable Dynamic Disks in Microsoft Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-github-desktop-on-windows-11-os/"><u>The Ultimate Guide to GitHub Desktop on Windows 11 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-mystery-of-windows-blue-screen-error-0x8007007e/"><u>Unraveling the Mystery of Windows Blue Screen Error: 0X8007007E</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-wisdom-efficiently-eliminate-partitioned-areas-on-your-pc/"><u>Windows Wisdom: Efficiently Eliminate Partitioned Areas on Your PC</u></a></li>
 </ul></div>
 

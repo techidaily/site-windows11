@@ -1,7 +1,7 @@
 ---
 title: 5 Unconventional Methods to Activate Windows Applications
-date: 2024-08-15T15:20:45.665Z
-updated: 2024-08-16T15:20:45.665Z
+date: 2025-01-28T22:34:12.974Z
+updated: 2025-01-29T20:29:37.635Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/d8d6563b1e83446e0eb6eee844ba3f9b3df6929ea
 2. Type the name of the app or program you want to open in the text box and press**Enter** .  
 ![Open Apps and Programs Using Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-apps-and-programs-using-start-menu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Open Apps and Programs Using Its EXE File
 
 ![Open Apps and Programs Using Desktop Shortcuts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-apps-and-programs-using-desktop-shortcuts.jpg)
@@ -36,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/d8d6563b1e83446e0eb6eee844ba3f9b3df6929ea
 
  If the desktop shortcut isn't available, you can [find where the program is installed on Windows](https://www.makeuseof.com/windows-ways-to-find-programs-install-location/) and double-click on its EXE file to open it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. How to Open Programs With the Run Tool
 
  Another quick way to open apps and programs in Windows is through the Run dialog box. To do so, press**Win + R** to open the Run dialog, type the command for your app, and then press**Enter** .
@@ -48,8 +49,9 @@ thumbnail: https://thmb.techidaily.com/d8d6563b1e83446e0eb6eee844ba3f9b3df6929ea
 ![Open Apps and Programs Using Run Dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-apps-and-programs-using-run-dialog.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. How to Open Programs via Task Manager
 
  Aside from managing system processes and services, Task Manager is also useful for launching apps and programs on Windows. Let’s see how.
@@ -59,8 +61,9 @@ thumbnail: https://thmb.techidaily.com/d8d6563b1e83446e0eb6eee844ba3f9b3df6929ea
 3. Enter the relevant command in the text field. For instance, if you were to open Microsoft Outlook, you'd type**outlook** in the text box.
 4. Click**OK** .  
 ![Open Apps and Programs Using Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-apps-and-programs-using-windows-task-manager.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Open Apps and Programs via Command Prompt
@@ -74,8 +77,9 @@ thumbnail: https://thmb.techidaily.com/d8d6563b1e83446e0eb6eee844ba3f9b3df6929ea
 ![Open Apps and Programs Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-apps-and-programs-using-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. How to Open Programs With Keyboard Shortcuts
 
  Don't want to use your mouse every time you want to launch an app? Why not assign a keyboard shortcut to it? This way, you can open your favorite app with a few keystrokes.
@@ -87,28 +91,22 @@ thumbnail: https://thmb.techidaily.com/d8d6563b1e83446e0eb6eee844ba3f9b3df6929ea
 3. Click the**Shortcut key** field and press the key combination you want to assign.
 4. Hit**Apply** followed by**OK** .  
 ![Open Apps and Programs Using Keyboard Shortcuts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-apps-and-programs-using-keyboard-shortcuts.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After that, you can quickly launch the app or program by pressing the assigned key combination.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## The Many Ways to Open Apps and Programs on Windows
 
  As we just saw, accessing your apps and programs on Windows is easy no matter which method you use. Pick the one that makes the most sense to you and your workflow and have an easier time finding your programs on Windows.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -117,8 +115,19 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-top-30-mobile-video-edits-using-dji-technology/"><u>[New] 2024 Approved Top 30 Mobile Video Edits Using DJi Technology</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-embracing-whimsy-cartoon-face-magic-in-snapchat/"><u>[New] Embracing Whimsy Cartoon Face Magic in Snapchat</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/aximizing-youtube-exposure-with-ongoing-creative-commons-compliance/"><u>[New] Maximizing YouTube Exposure with Ongoing Creative Commons Compliance</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/a-detailed-pokemon-go-pvp-tier-list-to-make-you-a-pro-trainer-for-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>A Detailed Pokemon Go PvP Tier List to Make you a Pro Trainer For Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/arm-powered-windows-computers-get-official-chrome-support/"><u>ARM-Powered Windows Computers Get Official Chrome Support</u></a></li>
+<li><a href="https://windows11.techidaily.com/best-budget-friendly-options-for-adobe-photoshop-and-illustrator-on-windows-systems/"><u>Best Budget-Friendly Options for Adobe Photoshop and Illustrator on Windows Systems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capture-stunning-imagesfilms-using-easy-shifts-for-2024/"><u>Capture Stunning Images/Films Using Easy Shifts for 2024</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/effortless-document-scanning-with-windows-expert-advice-by-yl-software/"><u>Effortless Document Scanning with Windows: Expert Advice by YL Software</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-vivo-y100i-power-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Vivo Y100i Power 5G?</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/speak-up-be-heard-an-introduction-to-discord-tts-for-2024/"><u>Speak Up, Be Heard An Introduction to Discord TTS for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-7-critical-microsoft-excel-tools-you-need-for-effective-budget-management/"><u>Top 7 Critical Microsoft Excel Tools You Need for Effective Budget Management</u></a></li>
+<li><a href="https://windows11.techidaily.com/transitioning-from-hours-to-fractions-a-step-by-step-guide-on-converting-time-to-decimal-format-in-excel/"><u>Transitioning From Hours to Fractions: A Step-by-Step Guide on Converting Time to Decimal Format in Excel</u></a></li>
+</ul></div>
 

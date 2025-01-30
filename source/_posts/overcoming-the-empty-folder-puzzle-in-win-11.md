@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Empty Folder Puzzle in Win 11
-date: 2025-01-18T19:43:12.682Z
-updated: 2025-01-22T20:27:43.783Z
+date: 2025-01-26T21:40:46.500Z
+updated: 2025-01-29T23:44:49.724Z
 tags:
   - windows10
   - windows11
@@ -29,11 +29,19 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
 
  First, we recommend running a System File Checker scan to check your system's file integrity. This scan can fix corrupted system files affecting how Windows functions. Look at our guide to [running the SFC tool](https://www.makeuseof.com/system-file-checker-sfc-windows/) for further instructions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Run a Check Disk Repair Scan
 
  The “there are no more files” error isn't commonly known to be a hard drive issue, but don’t rule out such a possibility. An error related to saving files could feasibly have something to do with the health of your PC’s hard drive.
 
  As such, you should run a Check Disk (CHKDSK) scan to check for and address hard disk drive file system errors detected. To do so, follow the guidelines within our [how-to run a CHKDSK scan](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10) article.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Uninstall the ASUS Data Security Manager Software
 
@@ -46,25 +54,21 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
 ![The Services app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-services-app.jpg)
 3. Click **Stop** to turn off the ADSM service.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Save your service settings by clicking **Apply** and **OK**.
 5. Once done, remove the ASUS Data Security Manager using any method in our [ways to uninstall Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) guide.  
 ![The Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-windows-uninstaller.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Perform a Clean Boot
 
 ![The MSConfig app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-system-configuration-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The ASUS Data Security Manager is not the only third-party security tool that can trigger the “there are no more files” error. So, try clean-booting Windows to disable all third-party apps and services. A clean boot will stop other background apps or services from automatically starting, which may fix the error.
 
@@ -82,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
 
 ![The System Restore window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/system-restore-window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Perform a Windows Factory Reset
 
  This reset solution will restore your Windows PC to its original factory state. If none of the potential solutions suggested above work for you, resetting Windows is the last thing you should try. Users confirm applying a factory reset fixes the “there are no more files” error.
@@ -89,14 +97,6 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
  You will need to reinstall all third-party packages that weren’t pre-installed on your Windows PC after a reset. However, you need not back up any user files as you can select to keep them within the Reset this PC tool. Our [how to factory reset your Windows PC](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) guide provides full details on applying this last resort resolution.
 
 ![The Keep my files option in the Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-keep-my-files-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Save Your Files Again on Windows
 
@@ -114,17 +114,19 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-dissecting-the-specifications-apples-m1-pro-versus-m1-max/"><u>[Updated] Dissecting the Specifications Apple’s M1 Pro Versus M1 Max</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-streamline-your-game-logs-advanced-camcapturing-techniques/"><u>2024 Approved Streamline Your Game Logs Advanced CamCapturing Techniques</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ing-up-confusion-a-guide-to-understanding-youtube-strikes-for-2024/"><u>Clearing Up Confusion A Guide to Understanding YouTube Strikes for 2024</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-xiaomi-redmi-note-12r-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Xiaomi Redmi Note 12R Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-realme-12-proplus-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Realme 12 Pro+ 5G? Try These Fixes</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-accessing-trendsetting-background-images-for-tiktok/"><u>In 2024, Accessing Trendsetting Background Images for TikTok</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-the-art-of-document-conversion-from-word-docs-to-win-11-pdf/"><u>Navigating the Art of Document Conversion From Word Docs to Win 11 PDF</u></a></li>
-<li><a href="https://windows11.techidaily.com/offline-mode-mastery-for-windows-users-on-onedrive/"><u>Offline Mode Mastery for Windows Users on OneDrive</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/oppo-reno-10-pro-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Reno 10 Pro 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/rectifying-non-responsive-spotify-error-on-pcs-with-windows/"><u>Rectifying Non-Responsive Spotify Error on PCs with Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-winerror-0x8009030e-in-hyper-v-setup/"><u>Troubleshooting WinError 0X8009030E in Hyper-V Setup</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-troubleshooting-list-for-players-unable-to-boot-battlefield-4-on-windows/"><u>Ultimate Troubleshooting List for Players Unable to Boot Battlefield 4 on Windows</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-the-genuine-appraisal-of-recordcast-features/"><u>[New] 2024 Approved The Genuine Appraisal of RecordCast Features</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-best-12-websites-to-download-free-stock-photos/"><u>[New] Best 12 Websites to Download Free Stock Photos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-building-an-audience-on-ig-steps-to-reach-1k-in-one-month/"><u>[New] In 2024, Building an Audience on IG Steps to Reach 1K in One Month</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-basics-an-approachable-hdr-review/"><u>2024 Approved Unveiling the Basics An Approachable HDR Review</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-code-0x0001-nvidia-glitch-in-w10w11/"><u>Fixing Code 0X0001 Nvidia Glitch in W10/W11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-lack-of-touchpen-responsiveness-on-displays/"><u>Resolving Lack of Touch/Pen Responsiveness on Displays</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-the-essential-escape-function-in-windows-78/"><u>Restoring the Essential Escape Function in Windows 7/8</u></a></li>
+<li><a href="https://windows11.techidaily.com/secrets-to-rectifying-windows-registry-problems/"><u>Secrets to Rectifying Windows Registry Problems</u></a></li>
+<li><a href="https://article-files.techidaily.com/techniques-for-smooth-audio-amplification-in-lumafusion-for-2024/"><u>Techniques for Smooth Audio Amplification in Lumafusion for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/ten-steps-to-clear-win11-dns-cache/"><u>Ten Steps to Clear Win11 DNS Cache</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-experts-technique-for-age-estimation/"><u>The Expert's Technique for Age Estimation</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-path-to-personalization-adjusting-snapchat-videos-pace-for-2024/"><u>The Path to Personalization Adjusting Snapchat Videos' Pace for 2024</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/unraveling-the-mystery-what-causes-computer-mice-to-fail-innovations-from-yl-computing/"><u>Unraveling the Mystery: What Causes Computer Mice to Fail - Innovations From YL Computing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11-auditory-enhancement-disabling-techniques-explained/"><u>Windows 11 Auditory Enhancement Disabling Techniques Explained</u></a></li>
 </ul></div>
 

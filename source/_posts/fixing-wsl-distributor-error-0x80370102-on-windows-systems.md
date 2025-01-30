@@ -1,7 +1,7 @@
 ---
 title: Fixing WSL Distributor Error 0X80370102 on Windows Systems
-date: 2025-01-18T20:39:33.553Z
-updated: 2025-01-22T18:28:22.826Z
+date: 2025-01-24T22:26:53.725Z
+updated: 2025-01-29T21:47:25.755Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/b55c24263d5a9a2d0075e95ed2cba33cc134d0a45
 
  In case you are using an Insider Build of Windows, consider installing a stable Windows version, since a version under development is prone to errors like this one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Enable Hyper-V
 
  The first thing that we recommend doing is making sure that all the relevant services like Hyper-V and Virtualization are enabled. In this method, we will be enabling the Hyper-V feature using the Control Panel. We will also use the Task Manager utility to check if the Virtualization feature is working fine.
@@ -49,15 +53,11 @@ Here is how you can enable Hyper-V on your PC:
 3. Click on**Turn Windows Feature on or off** in the left pane.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Turn Windows features on or off option in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-windows-features-on-or-off.jpg)
 4. In the following dialog, checkmark the box associated with**Hyper-V** and click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Enable Hyper-V in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hyper-v-setting.jpg)
 5. Once done, restart your computer and check if the issue is resolved. While you are at it, we also recommend checking if the Virtual Machine Platform feature is enabled by following the same steps. If it is disabled, enabling it should help you fix the issue as well.
@@ -73,6 +73,10 @@ Here is how you can enable Hyper-V on your PC:
 ![Virtualization in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/virtualization-setting.jpg)
 5. Alternatively, open Run by pressing the**Win + R** keys together.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Type cmd in the text field and press**Ctrl + Shift + Enter** to open Command Prompt as admin.
 7. Click**Yes** in the User Account Control Prompt.
 8. Type systeminfo in Command Prompt and hit Enter.
@@ -80,6 +84,10 @@ Here is how you can enable Hyper-V on your PC:
 ![Check Hyper-V requirements in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hyper-v-requirements.jpg)
 
  If the service is disabled,[enabling the Hyper-V technology on Windows](https://www.makeuseof.com/windows-11-enable-hyper-v/) should fix the problem for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Restart the LxssManager Service
 
@@ -100,7 +108,7 @@ Here is how you can do that:
 6. Once the service is restarted, check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Enable Nested Virtualization and Change the RAM Settings
@@ -122,16 +130,8 @@ Set-VMProcessor <VMName> -ExposeVirtualizationExtensions $true
 ![Modify the memory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/configure-hyper-v-dynamic-memory.jpg)
 8. Click**Apply** \>**OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 9. Now, right-click on your virtual machine again and choose**Connect** .
 10. Let the system restart and try installing/running Ubuntu again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The WslRegisterDistribution Error, Fixed
 
@@ -152,24 +152,21 @@ Set-VMProcessor <VMName> -ExposeVirtualizationExtensions $true
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-8-trendsetting-tools-that-every-startup-should-prioritize-today/"><u>[New] 2024 Approved 8 Trendsetting Tools That Every Startup Should Prioritize Today</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-perfecting-your-yt-earning-monetization-verification-steps/"><u>[Updated] 2024 Approved Perfecting Your YT Earning Monetization Verification Steps</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-clear-cut-strategies-for-watermark-free-photography-for-2024/"><u>[Updated] Clear-Cut Strategies for Watermark-Free Photography for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-ultimate-list-free-virtual-meetings-plus-shared-screens/"><u>2024 Approved The Ultimate List FREE Virtual Meetings + Shared Screens</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/charting-new-territories-in-tech-whos-in-charge-when-it-comes-to-rules-for-artificnial-intelligence/"><u>Charting New Territories in Tech: Who's in Charge When It Comes to Rules for Artificnial Intelligence?</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-install-and-activate-defender-application-guard-on-edge-for-enhanced-safety/"><u>How to Install and Activate Defender Application Guard on Edge for Enhanced Safety</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-unlink-your-onedrive-from-your-microsoft-account-on-windows/"><u>How to Unlink Your OneDrive From Your Microsoft Account on Windows</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-y77t-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Vivo Y77t</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-xiaomi-redmi-note-12-pro-5g-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Xiaomi Redmi Note 12 Pro 5G Phone</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-art-of-fixing-nvidia-cp-errors-in-ws1110/"><u>Mastering the Art of Fixing Nvidia CP Errors in WS11/10</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/premier-eco-cinema-tech-usage-and-mastery-for-2024/"><u>Premier Eco-Cinema Tech Usage and Mastery for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/riconverti-formati-video-converti-file-f4v-in-avi-online-e-gratuito-con-movavi/"><u>Riconverti Formati Video: Converti File F4V in AVI Online E Gratuito Con Movavi</u></a></li>
-<li><a href="https://windows11.techidaily.com/secure-pathway-to-start-elevated-powershell-on-win11-systems/"><u>Secure Pathway to Start Elevated PowerShell on Win11 Systems</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-vivo-y77t-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Vivo Y77t | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-guide-to-correctly-handle-windows-updater-issue-error-0x80070003/"><u>Step-by-Step Guide to Correctly Handle Windows' Updater Issue (Error 0X80070003)</u></a></li>
-<li><a href="https://windows11.techidaily.com/sustained-prominence-of-win-calculator-display/"><u>Sustained Prominence of Win Calculator Display</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-the-power-of-component-services-in-windows-11/"><u>Unlocking the Power of Component Services in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/wake-lock-woes-keyboard-mouse-in-win11/"><u>Wake Lock Woes: Keyboard, Mouse in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-sign-in-how-to-delete-your-email/"><u>Windows Sign In: How to Delete Your Email</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-sync-music-and-visuals-the-art-of-canva-editing-for-2024/"><u>[New] Sync Music & Visuals The Art of Canva Editing for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-expanding-your-audience-on-youtube-step-by-step/"><u>[Updated] In 2024, Expanding Your Audience on Youtube Step by Step</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-soulful-selection-candid-songs-that-perfectly-match-your-yes/"><u>2024 Approved Soulful Selection Candid Songs that Perfectly Match Your 'Yes'</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-infinix-zero-5g-2023-turbo-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Infinix Zero 5G 2023 Turbo to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-updater-failures-eliminate-xerror-0x80246007-in-win1011/"><u>Fixing Updater Failures: Eliminate XError 0X80246007 in Win10/11</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/google-nest-audio-and-apple-homepod-a-comprehensive-price-and-performance-review/"><u>Google Nest Audio and Apple HomePod - A Comprehensive Price and Performance Review</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-phone-link-app-notifications-not-working-on-windows/"><u>How to Fix Phone Link App Notifications Not Working on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-use-imessage-on-windows/"><u>How to Use iMessage on Windows</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-mastery-your-phone-as-a-personalized-vr-headset/"><u>In 2024, Step-by-Step Mastery Your Phone as a Personalized VR Headset</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-the-art-of-finding-administrative-rules-on-pcs/"><u>Master the Art of Finding Administrative Rules on PCs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-human-resources-management-5-quick-tips-for-efficient-task-automation/"><u>Revolutionize Human Resources Management: 5 Quick Tips for Efficient Task Automation</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-essential-expedition-for-pinpointing-pc-program-locations/"><u>The Essential Expedition for Pinpointing PC Program Locations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-latest-evolution-of-iphone-12-introducing-qi2-fast-charging-capability-no-more-magsafe-dependency-zdnet-exclusive/"><u>The Latest Evolution of iPhone 12: Introducing Qi2 Fast-Charging Capability - No More MagSafe Dependency | ZDNET Exclusive</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-xiaomi-redmi-note-13-proplus-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Xiaomi Redmi Note 13 Pro+ 5G Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-frozen-epic-launcher-steps-for-win-users/"><u>Troubleshooting Frozen Epic Launcher: Steps for Win Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-full-potential-of-windows-startup-options/"><u>Unlocking the Full Potential of Windows Startup Options</u></a></li>
 </ul></div>
 

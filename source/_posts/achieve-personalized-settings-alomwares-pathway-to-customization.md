@@ -1,7 +1,7 @@
 ---
 title: Achieve Personalized Settings - AlomWare's Pathway to Customization
-date: 2024-08-15T15:21:16.600Z
-updated: 2024-08-16T15:21:16.600Z
+date: 2025-01-29T04:00:51.926Z
+updated: 2025-01-30T07:20:00.688Z
 tags:
   - windows10
   - windows11
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/f6b66ac253e72b1db3b7035e49bd4e3f144338d6a
 
 ![AlomWare Toolbox homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/alomware-toolbox-homepage.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [AlomWare Toolbox](https://www.alomware.com/index.html) is a portable Windows application that lets you do many things in a single step and keeps everything you need in one place. The app is free to use, although you need to enter a code that appears in a pop-up window for every session.
 
  You can also buy the app, so you don't need to enter the code, and to get email and chat support.
@@ -34,24 +38,9 @@ thumbnail: https://thmb.techidaily.com/f6b66ac253e72b1db3b7035e49bd4e3f144338d6a
 
  While AlomWare is designed with Windows power users in mind, it also comes with some tools to make your life easier, even if you're an average user. Here are some of the essentials that come with AlomWare.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Calendar
 
 ![AlomWare Toolbox calendar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/alomware-toolbox-calendar.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The AlomWare Toolbox features a calendar where you can set reminders on your computer. Unlike these [calendars that sync across all your devices](https://www.makeuseof.com/best-calendar-apps-sync-all-devices/), the AlomWare calendar only keeps the reminders on the device installed.
 
@@ -62,8 +51,9 @@ thumbnail: https://thmb.techidaily.com/f6b66ac253e72b1db3b7035e49bd4e3f144338d6a
 ### Notes
 
 ![AlomWare Notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/alomware-notes.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Notes tab features a notepad-like interface that lets you keep whatever text you need. You can save as many notes as you want and then use the letters above it to filter them according to their first letter.
@@ -74,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/f6b66ac253e72b1db3b7035e49bd4e3f144338d6a
 
 ![AlomWare clipboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/alomware-clipboard.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The AlomWare Clipboard works just [like Windows 11's clipboard history](https://www.makeuseof.com/windows-11-turn-on-clipboard-history/). However, it separates the items that you copied into two tabs—one for text and another for images. This makes it easier to find what you copied.
 
  Furthermore, AlomWare adds more tools to its clipboard. It lets you lock or pin any item you copied and save it as a different file altogether. You can also use its built-in optical character recognition to extract text from a photo—no need to [use OCR apps to convert images to text](https://www.makeuseof.com/tag/top-5-free-ocr-software-tools-to-convert-your-images-into-text-nb/).
@@ -81,15 +75,9 @@ thumbnail: https://thmb.techidaily.com/f6b66ac253e72b1db3b7035e49bd4e3f144338d6a
 ### Screenshots
 
 ![AlomWare Toolbox screenshots](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/alomware-toolbox-screenshots.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 
  Screenshots are traditionally saved on the clipboard or to the Pictures > Screenshots folder. But with the AlomWare Toolbar, all your screenshots are saved to the app's Screenshots tab. This makes it easy to find all the screenshots you've made and ensures that you won't miss them, even after you've restarted your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Files
 
 ![AlomWare batch rename](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/alomware-batch-rename.jpg)
@@ -97,9 +85,9 @@ thumbnail: https://thmb.techidaily.com/f6b66ac253e72b1db3b7035e49bd4e3f144338d6a
  AlomWare Tools offers four major file functions: single-file backups with versioning, file search, multiple file rename, and folder monitoring. These features make it easier to manage files, including ensuring you don't accidentally overwrite an important file and keeping track of any changes made to a particular folder.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Getting to Know the Advanced AlomWare Tools
 
  Although AlomWare has several nifty basic features, its advanced capabilities make it stand out. These features can save you a lot of time by automating your Windows PC's most mundane and repetitive tasks.
@@ -107,8 +95,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
 ### Automation
 
 ![AlomWare automation options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/alomware-automation-options.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can [create a Windows Batch File command to automate repetitive tasks](https://www.makeuseof.com/tag/use-windows-batch-file-commands-automate-repetitive-tasks/), but it could be complicated. That's why most users don't bother making one, as it could lead to more problems and would make you just want to do it yourself manually.
@@ -120,8 +109,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
  You can also create your own automation with several steps from scratch. But if you find that too complicated, you can use the **Create an action with a wizard** button to make it easier.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### States
 
 ![AlomWare states](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/alomware-states.jpg)
@@ -129,14 +119,12 @@ DbSchema database designer for all databases, schema design in the team, schema 
  States is also another feature perfect for office-based professionals. If you use the same set of apps daily and already have a fixed place for them on your screen, you can save that as a PC State on AlomWare Tools. You can then launch it from the app, and your computer will enter into your set configuration, opening all the apps you need and placing them exactly where you want them on the monitor.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The AlomWare Power Menu
 
 ![AlomWare Power Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/alomware-power-menu.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 
  Aside from the features inside the app, AlomWare also gives you extra capabilities via the AlomWare Power Menu. You can activate this feature by middle-clicking on an open app's upper-right. You'll see several features from there like **Keep locked here**, **Minimize to tray**, **Roll up to title**, and more.
 
@@ -150,6 +138,10 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  This feature makes clearing your PC's memory faster, especially if it's starting to run slow. That's because even if your computer already runs on an SSD, the [different ways of restarting your Windows computer](https://www.makeuseof.com/windows-restart-methods/) will still take some time. So, if you only need a quick speed boost, AlonWare's Clean Slate feature will give you just that.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Unleash the Windows Power User in You
 
  Being a Windows power user can be confusing and difficult for most people, but it does make your life easier. So, if you don't want to go through the hassle of trial and error, you should use AlomWare Tools to make your Windows PC do the things you want.
@@ -160,8 +152,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  So, let's check out this app and see what it can do to make you a Windows power user.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -169,5 +159,20 @@ DbSchema database designer for all databases, schema design in the team, schema 
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-a-detailed-analysis-of-movavi-pro-video-editor-2024plus/"><u>[New] A Detailed Analysis of Movavi Pro Video Editor 2024+</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-obs-studio-vs-fraps-which-is-a-better/"><u>[New] OBS Studio vs Fraps – Which Is A Better</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-auditory-ambiance-within-visual-mediums/"><u>[Updated] Auditory Ambiance Within Visual Mediums</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-essential-steps-in-choosing-exceptional-video-makers/"><u>[Updated] Essential Steps in Choosing Exceptional Video Makers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-learn-the-art-of-engaging-video-startups-with-imovie/"><u>2024 Approved Learn the Art of Engaging Video Startups with iMovie</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premier-pros-pathway-to-perfect-sound-cutting/"><u>2024 Approved Premier Pro's Pathway to Perfect Sound Cutting</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-maximize-your-windows-11-understanding-copilot-key-benefits/"><u>How to Maximize Your Windows 11: Understanding Copilot Key Benefits</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-mastering-subtitle-integration-in-wmp/"><u>In 2024, Mastering Subtitle Integration in WMP</u></a></li>
+<li><a href="https://windows11.techidaily.com/interpreting-complex-group-policies-on-windows-in-three-phases/"><u>Interpreting Complex Group Policies on Windows in Three Phases</u></a></li>
+<li><a href="https://windows11.techidaily.com/non-edge-processes-and-their-role-in-tasking/"><u>Non-Edge Processes and Their Role in Tasking</u></a></li>
+<li><a href="https://windows11.techidaily.com/overriding-read-only-protection-for-windows-files/"><u>Overriding Read-Only Protection for Windows Files</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smarter-solutions-discover-your-8-ai-matches-now/"><u>Smarter Solutions: Discover Your 8 AI Matches Now</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/44oh44o844k44gm5asx44kp44km44gf54q25owl44gn44cb44ov44kp44o844oe44od44oi44gv44km44gf44or44o844og44kj44k344on44oz44gplus44gf44gv44oj44op44kk44ow44gu5lplusu5b623/"><u>データが失われた状態で、フォーマットされたパーティションまたはドライブの修復方法を教えてください。</u></a></li>
+</ul></div>
 

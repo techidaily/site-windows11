@@ -1,7 +1,7 @@
 ---
 title: Quick Guide to Eliminate Error 0X0000004E in Win10/11
-date: 2025-01-21T20:18:54.237Z
-updated: 2025-01-22T20:30:42.269Z
+date: 2025-01-23T00:02:09.698Z
+updated: 2025-01-30T02:32:58.948Z
 tags:
   - windows10
   - windows11
@@ -55,7 +55,7 @@ chkdsk /f
 5. If prompted, type Y and hit **Enter**. This will schedule a disk check upon the next system restart.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Finally, restart your computer. Upon reboot, Check Disk will run and scan your hard drive for issues.
@@ -65,7 +65,7 @@ chkdsk /f
  You can also diagnose and fix a faulty RAM or memory-related issues [using the Memory Diagnostic tool in Windows](https://www.makeuseof.com/ways-to-open-windows-memory-diagnostic/). If the Check Disk utility failed to fix the problem, run the Memory Diagnostic tool and check the results in the Event Viewer. You can then take the necessary steps to fix the problem based on the underlying cause.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Disable Your Antivirus
@@ -79,7 +79,7 @@ chkdsk /f
 ![Disable antivirus in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/disable-antivirus-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the error does not appear after disabling the antivirus, then we highly recommend switching to a different, better security program. You can also configure Windows Defender Firewall properly if you do not want to trust a third-party security solution again.
@@ -87,7 +87,7 @@ chkdsk /f
  If you're already using Windows Defender, be sure to check out [how to turn off Windows Defender](https://www.makeuseof.com/how-to-turn-off-windows-defender/) and see if that fixes the BSOD.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Other Generic Windows BSOD Fixes to Try
@@ -99,7 +99,7 @@ chkdsk /f
  Finally, it's time to pull out the reliable fixes. Windows BSODs are usually due to a common pool of issues, and fixing those problems can fix almost any BSOD, including the 0x0000004E error. As such. be sure to check out our [tips to help you fix a Windows BSOD](https://www.makeuseof.com/tag/4-tips-fix-blue-screen-error/) for all the ways you can fix this issue, and any potential ones you encounter in the future.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## PFN\_LIST\_CORRUPT BSOD, Fixed
@@ -118,18 +118,22 @@ chkdsk /f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/est-budget-cameras-for-creating-quality-vlogs/"><u>[New] Best Budget Cameras for Creating Quality Vlogs</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-classic-crimson-codec-for-2024/"><u>[New] Classic Crimson Codec for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-jungle-beat-parrots/"><u>[Updated] 2024 Approved Jungle Beat Parrots</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-decoding-audio-cues-a-windows-and-os-x-guide-to-srt-files/"><u>[Updated] Decoding Audio Cues A Windows & OS X Guide to SRT Files</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-tecno-spark-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Tecno Spark 10 5G | Dr.fone</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/exploring-frequent-hardware-breakdowns-a-comprehensive-guide-from-yl-systems-solutions/"><u>Exploring Frequent Hardware Breakdowns: A Comprehensive Guide From YL Systems Solutions</u></a></li>
-<li><a href="https://windows11.techidaily.com/fix-lacking-steam-icon-issues-on-windows-pc/"><u>Fix Lacking Steam Icon Issues on Windows PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/halting-windows-edge-tab-loads-properly/"><u>Halting Windows Edge Tab Loads Properly</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-rectify-the-incorrect-token-call-error-on-win11/"><u>How to Rectify the “Incorrect Token Call” Error on Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/reactivating-windows-11-search-tool-performance/"><u>Reactivating Windows 11 Search Tool Performance</u></a></li>
-<li><a href="https://windows11.techidaily.com/reverse-lost-rendering-device-error-in-overwatch-2/"><u>Reverse Lost Rendering Device Error in Overwatch 2</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-tackle-errortoomanyretries-in-wsl-subsystem/"><u>Strategies to Tackle ERROR_TOO_MANY_RETRIES in WSL Subsystem</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-5-excellent-free-options-to-rotate-mov-files/"><u>Updated 2024 Approved 5 Excellent Free Options to Rotate MOV Files</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-keep-it-real-keep-it-right-tips-for-authentic-daily-videos/"><u>[Updated] Keep It Real, Keep It Right Tips for Authentic Daily Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pioneering-sci-fi-escapades-10-movies-into-uncharted-realms/"><u>[Updated] Pioneering Sci-Fi Escapades 10 Movies Into Uncharted Realms</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-yourwebcamunlocked-astep-by-steprecordingpath/"><u>[Updated] YourWebcamUnlocked AStep-by-StepRecordingPath</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/1-microsoft-shatters-expectations-with-easily-repairable-latest-laptop-models-a-challenge-to-competitors-like-apple-insights-from-ifixit-featured-on-zdnet.m130/"><u>1. Microsoft Shatters Expectations with Easily-Repairable Latest Laptop Models: A Challenge to Competitors Like Apple - Insights From iFixit Featured on ZDNet</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-productivity-masterful-windows-shortcuts-guide/"><u>Boosting Productivity: Masterful Windows Shortcuts Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/cease-windows-tally-of-new-software-activities/"><u>Cease Windows' Tally of New Software Activities</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-laptops-screen-with-yellowish-discoloration/"><u>Correcting Laptop's Screen with Yellowish Discoloration</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/discovering-the-highlight-functionality-within-emeditor-your-go-to-advanced-text-editor/"><u>Discovering the Highlight Functionality Within EmEditor, Your Go-To Advanced Text Editor</u></a></li>
+<li><a href="https://windows11.techidaily.com/fine-tuning-windows-11s-online-threat-detection/"><u>Fine-Tuning Windows 11'S Online Threat Detection</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-prevent-your-devices-from-dozing-off-in-windows-11/"><u>How to Prevent Your Devices From Dozing Off in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/introducing-the-widget-toolbar-features-for-win11-users/"><u>Introducing the Widget Toolbar Features for Win11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-passcode-alterations-effortlessly/"><u>Navigating Windows Passcode Alterations Effortlessly</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/prime-action-mic-choices-for-clear-videos-for-2024/"><u>Prime Action Mic Choices for Clear Videos for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-and-simple-steps-how-to-download-and-install-drivers-for-your-hp-device/"><u>Quick and Simple Steps: How to Download & Install Drivers for Your HP Device</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/review-of-the-latest-totobay-wake-up-light-is-it-your-best-budget-sleep-solution/"><u>Review of the Latest Totobay Wake-Up Light: Is It Your Best Budget Sleep Solution?</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplify-system-upkeep-automatic-driver-replacement-for-amd/"><u>Simplify System Upkeep: Automatic Driver Replacement for AMD</u></a></li>
 </ul></div>
 

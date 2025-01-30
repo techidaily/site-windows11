@@ -1,7 +1,7 @@
 ---
 title: Tackling the Busy Resource Issue in Windows Environments (153 Chars)
-date: 2025-01-18T16:33:04.838Z
-updated: 2025-01-22T18:05:28.817Z
+date: 2025-01-28T00:24:35.223Z
+updated: 2025-01-29T17:10:41.172Z
 tags:
   - windows10
   - windows11
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 
 ![The End task option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-end-task-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The “requested resource is in use” error message hints that the file (resource) you’re trying to copy is already in use. Thus, the copy operation cannot be completed because something else is using the file or folder. So, you might need to close some background processes to address this issue.
 
  First, move your mouse’s cursor over the File Explorer taskbar icon to see if there are any windows for active file operations. Cancel any active file operations you see. Then try copying the file again.
@@ -50,18 +46,18 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 ![The Preview pane option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/preview-pane-option.jpg)
 5. Then try moving or copying your files again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The layout in Windows 10 File Explorer is a little different. To disable preview panes in that file manager, you’ll need to click the **View** tab. Then click **Preview pane** to deselect that option.
 
 ![The View tab in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-view-tab.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Note that just disabling the preview pane might not always be enough. If that doesn’t work, try turning off the icon file view. To do so in Windows 11 File Explorer, click **View** and select the **List** or **Details view** option. You can select the same options on the **View** tab in Windows 10 File Explorer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Run a Malware Scan
@@ -74,16 +70,12 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 3. Select the **Full scan** setting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Click **Scan now** to initiate the malware scanning.  
 ![The Scan now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-full-scan-radio-button.jpg)
 5. Wait for the scanning to finish and select **Start actions** to remove detected malware.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you find Microsoft Defender is disabled and cannot turn it on, that’s a surefire sign the SmartService malware has infected your PC. SmartService is a rootkit trojan that blocks users from utilizing antivirus tools. That malware can also block the installation of some antivirus apps. In this case, the “requested resource in use” error can also occur when you try to run security apps.
 
@@ -103,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 5. Then restart your PC to see if the issue persists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Uninstall Any Suspicious-Looking Programs
@@ -117,9 +109,17 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 ![The Uninstall option in Programs and Features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-uninstall-option4.jpg)
 3. Right-click on the suspected SmartService malware and select **Uninstall**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. If you can’t uninstall the suspicious software, restart Windows in safe mode. Then try removing the same suspicious item via Programs and Features in safe mode.
 
  Also, clear temporary data after uninstalling SmartService to ensure the malware can’t re-emerge. To do so, you’ll need to clear out the Temp folder. This article about [deleting temporary files](https://www.makeuseof.com/windows-11-delete-temporary-files/) includes alternative methods for clearing data in the Temp folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Perform a Factory Reset
 
@@ -145,24 +145,24 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-art-of-adaptation-uploading-your-horizon-content-to-instagram-tv/"><u>[New] 2024 Approved The Art of Adaptation Uploading Your Horizon Content to Instagram TV</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-advanced-5-internet-screen-grabbers/"><u>[New] In 2024, Advanced 5 Internet Screen Grabbers</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-apeaksoft-2023-screens-recording-insights-for-2024/"><u>[Updated] Apeaksoft 2023 Screens Recording Insights for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-quick-fix-from-raw-images-to-high-quality-youtube-thumbnails/"><u>[Updated] Quick Fix From Raw Images To High-Quality YouTube Thumbnails</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-realme-gt-3-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Realme GT 3 to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-this-app-has-been-blocked-for-your-protection-error-on-windows/"><u>How to Fix This App Has Been Blocked for Your Protection Error on Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/master-the-fix-five-ways-to-improve-touchscreen-performance-on-your-windows-10-pc/"><u>Master the Fix: Five Ways to Improve Touchscreen Performance on Your Windows 10 PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-windows-rainmeter-hiccups-with-easy-fixes/"><u>Mastering Window's Rainmeter Hiccups with Easy Fixes</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-wsl-enabling-linux-in-windows-environment/"><u>Mastering WSL: Enabling Linux in Windows Environment</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimize-wallet-growth-unlocking-windows-11-pro-offers/"><u>Optimize Wallet Growth - Unlocking Windows 11 Pro Offers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-gamers-struggle-with-playstation-all-stars-battle-royale-how-to-fix-it/"><u>PC Gamers Struggle with PlayStation All-Stars Battle Royale: How to Fix It?</u></a></li>
-<li><a href="https://windows11.techidaily.com/resurrecting-the-clock-actions-to-restore-windows-server-time/"><u>Resurrecting the Clock: Actions to Restore Windows Server Time</u></a></li>
-<li><a href="https://windows11.techidaily.com/revealing-indexers-control-accessibility/"><u>Revealing Indexer's Control Accessibility</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/score-amazing-deals-on-apple-tech-during-the-prime-day-event/"><u>Score Amazing Deals on Apple Tech During the Prime Day Event</u></a></li>
-<li><a href="https://techidaily.com/sign-word-2013-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign Word 2013 Online for Free</u></a></li>
-<li><a href="https://windows11.techidaily.com/synchronizing-seamlessly-accessing-cloud-storage-from-windows-directories/"><u>Synchronizing Seamlessly: Accessing Cloud Storage From Windows Directories</u></a></li>
-<li><a href="https://windows11.techidaily.com/trail-clearing-techniques-deciphering-and-erasing-windows-history/"><u>Trail-Clearing Techniques: Deciphering and Erasing Windows History</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-troubleshooting-dead-space-remake-launch-issues/"><u>Ultimate Guide: Troubleshooting Dead Space Remake Launch Issues</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-premium-weather-apps-for-windows-11/"><u>Unveiling Premium Weather Apps for Windows 11</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-deconstructing-magix-photo-and-video-tools/"><u>[New] Deconstructing MAGIX Photo & Video Tools</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-ultimate-roadmap-to-crafting-high-quality-srt-files/"><u>[New] The Ultimate Roadmap to Crafting High-Quality SRT Files</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-peak-level-hd-mastery-in-the-markets-top-recorders/"><u>[Updated] In 2024, Peak-Level HD Mastery in the Market's Top Recorders</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-streamline-video-shoot-excellent-camera-tripods-reviewed-for-2024/"><u>[Updated] Streamline Video Shoot Excellent Camera Tripods Reviewed for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-ultra-30-action-camera-by-garmin-detailed-reviews-and-features/"><u>[Updated] Ultra 30 Action Camera by Garmin – Detailed Reviews & Features</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-captivating-crafting-writing-intriguing-youtube-descriptions-with-templates/"><u>2024 Approved Captivating Crafting Writing Intriguing Youtube Descriptions with Templates</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-cinema-in-editing-10-snippet-selections/"><u>2024 Approved Cinema in Editing 10 Snippet Selections</u></a></li>
+<li><a href="https://win-top.techidaily.com/destination-of-deleted-data-understanding-what-occurs-when-you-clear-your-recycle-bin/"><u>Destination of Deleted Data: Understanding What Occurs When You Clear Your Recycle Bin</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-defrag-a-hard-disk-drive-in-windows-11/"><u>How to Defrag a Hard Disk Drive in Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-watch-fubotv-channels-using-an-amazon-fire-stick-ultimate-tutorial/"><u>How to Watch FuboTV Channels Using an Amazon Fire Stick - Ultimate Tutorial</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-lava-blaze-pro-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Lava Blaze Pro 5G Phone that is Locked?</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-organization-to-do-and-ifttt-alliance/"><u>Master Organization: To-Do & IFTTT Alliance</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-time-management-pick-from-these-5-best-windows-clock-screen-saver-apps/"><u>Master Time Management: Pick From These 5 Best Windows Clock Screen Saver Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-resolving-windows-errors-in-windows-11/"><u>Mastering the Art of Resolving Windows Errors in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/personalize-your-keyboard-use-with-winos-commands/"><u>Personalize Your Keyboard Use with WinOS Commands</u></a></li>
+<li><a href="https://windows11.techidaily.com/preserving-default-time-on-windows-pcs/"><u>Preserving Default Time on Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-to-break-windows-stealthy-cam-policy/"><u>Techniques to Break Window's Stealthy Cam Policy</u></a></li>
+<li><a href="https://windows11.techidaily.com/transforming-black-desktop-backgrounds-on-pcs/"><u>Transforming Black Desktop Backgrounds on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-rpc-problems-here-are-5-fixes-you-need/"><u>Win RPC Problems? Here Are 5 Fixes You Need!</u></a></li>
 </ul></div>
 

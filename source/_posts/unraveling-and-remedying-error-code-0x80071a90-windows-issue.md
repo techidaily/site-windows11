@@ -1,7 +1,7 @@
 ---
 title: "Unraveling and Remedying Error Code: 0X80071A90 Windows Issue"
-date: 2025-01-19T17:29:00.004Z
-updated: 2025-01-22T20:48:49.438Z
+date: 2025-01-25T18:58:19.607Z
+updated: 2025-01-29T21:27:42.524Z
 tags:
   - windows10
   - windows11
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce
  Regardless of what might be causing the problem in your case, the troubleshooting methods we have listed above should help you fix it in no time. Proceed with the method that fits your situation the best.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Disable Your Antivirus
@@ -52,14 +52,10 @@ thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once the security program is disabled, try enabling the targeted Windows feature again and check if the problem is now fixed. If the antivirus program happens to be the culprit, you can consider switching to a better alternative.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Perform the Action in Safe Mode
 
@@ -86,6 +82,10 @@ Follow these steps to proceed:
 `winmgmt /salvagerepositorywinmgmt /verifyrepositorywinmgmt /resetrepository`
 5. Wait for the commands to execute and then exit Command Prompt. You can now check if the issue is resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Try Some Generic Windows-Based Fixes for Errors
 
  If nothing else works, these general WIndows fixes can help you fix the issue:
@@ -94,27 +94,27 @@ Follow these steps to proceed:
 
 ![install windows 11 feature update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-windows-11-feature-update.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you haven’t installed the latest Windows updates in a while, then you might be facing the problem due to an outdated system. This can be due to a compatibility issue or because your system lacks updates/hotfixes that were released by Microsoft to address specific issues related to Windows features.
 
  In this case, we recommend taking your time to[install any pending Windows updates](https://www.makeuseof.com/windows-11-install-updates/) available. This will ensure that the drivers and software are compatible with the latest version of Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Check the System for Corruption Errors
 
 ![Run SFC scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sfc-scan-1-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In order to install or enable Windows features, the system relies on critical files and the Windows component store. If any of these files or the store becomes corrupted, it can impede the system's access to the necessary components for feature installation or enablement, leading to errors like the one at hand.
 
  To fix such corruption errors, you can use a tool like the System File Checker (SFC) to scan and repair system files or the Deployment Image Servicing and Management (DISM) tool to repair the Windows component store. You can run both these utilities via Command Prompt.
 
  Follow the correct steps for running SFC and DISM in Windows in our guide on[how to fix file system errors on Windows](https://www.makeuseof.com/fix-file-system-errors-windows/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Enable Your Windows Features Again
 
@@ -137,21 +137,20 @@ Follow these steps to proceed:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-brand-your-content-download-complimentary-templates-for-youtube-makers-for-2024/"><u>[Updated] Brand Your Content Download Complimentary Templates for YouTube Makers for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-movie-buffs-secret-2023-recommendations/"><u>[Updated] In 2024, Movie Buffs' Secret 2023 Recommendations</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-charting-the-course-of-viral-stocks-and-stories/"><u>2024 Approved Charting the Course of Viral Stocks & Stories</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-the-dual-approach-mastering-two-point-of-view-techniques-in-your-youtube-reaction-video-content/"><u>2024 Approved The Dual Approach – Mastering Two-Point of View Techniques in Your YouTube Reaction Video Content</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/behind-your-screen-exploring-the-intriguing-dead-internet-theory-of-digital-interaction/"><u>Behind Your Screen: Exploring the Intriguing Dead Internet Theory of Digital Interaction</u></a></li>
-<li><a href="https://win-popular.techidaily.com/como-recuperar-archivos-de-formato-individual-guia-paso-a-paso/"><u>Cómo Recuperar Archivos De Formato Individual: Guía Paso a Paso</u></a></li>
-<li><a href="https://article-tips.techidaily.com/expert-insights-on-yis-4k-action-video-camera-for-2024/"><u>Expert Insights on YI’s 4K Action Video Camera for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-itel-p40plus-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Itel P40+ Without Password | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/leading-third-party-solutions-for-cross-platform-iphone-and-mac-file-management/"><u>Leading Third-Party Solutions for Cross-Platform iPhone and Mac File Management</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-windowed-discords-search-tweaks/"><u>Mastering Windowed Discord's Search Tweaks</u></a></li>
-<li><a href="https://windows11.techidaily.com/methods-to-fix-windows-update-code-error-0x8024800c/"><u>Methods to Fix Windows Update: Code Error 0X8024800C</u></a></li>
-<li><a href="https://windows11.techidaily.com/re-estaminig-balanced-sound-from-both-sides-of-win-audio-device/"><u>Re-Estaminig Balanced Sound From Both Sides of Win Audio Device</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-8-compatible-windows-and-android-programs/"><u>Top 8 Compatible Windows and Android Programs</u></a></li>
-<li><a href="https://windows11.techidaily.com/wake-up-call-reviving-sleeping-pcs-with-inputs-on-1011/"><u>Wake-Up Call: Reviving Sleeping PCs with Inputs on 10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/winning-back-your-disconnected-wi-fi/"><u>Winning Back Your Disconnected Wi-Fi</u></a></li>
-<li><a href="https://windows11.techidaily.com/wintools-comparison-how-chkdsk-and-sfc-differ-from-dissect/"><u>WinTools Comparison: How CHKDSK and SFC Differ From Dissect</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-screen-savers-strategy-top-recording-tactics-for-2024/"><u>[New] The Screen Saver's Strategy Top Recording Tactics for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/bypass-bcm2045a0-compatibility-concerns-easy-fixes-for-smooth-operations/"><u>Bypass BCM2045A0 Compatibility Concerns: Easy Fixes for Smooth Operations</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-uncovering-the-missing-taskbar-in-full-screen/"><u>Guide to Uncovering the Missing Taskbar in Full Screen</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-performance-monitor-not-working-on-windows/"><u>How to Fix the Performance Monitor Not Working on Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Motorola Edge 40 Neo? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-13-5g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Xiaomi Redmi Note 13 5G Phone Without Password?</u></a></li>
+<li><a href="https://windows11.techidaily.com/longer-is-stronger-securing-devices-with-extended-windows-11-pins/"><u>Longer Is Stronger: Securing Devices with Extended Windows 11 Pins</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-infinix-note-30-vip-racing-edition-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Infinix Note 30 VIP Racing Edition? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximize-time-management-on-pc-choose-from-these-5-exciting-windows-clock-saver-apps/"><u>Maximize Time Management on PC: Choose From These 5 Exciting Windows Clock Saver Apps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pinnacle-tools-for-audio-infused-photography-for-2024/"><u>Pinnacle Tools for Audio Infused Photography for 2024</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/step-by-step-confirmation-of-blockchain-deals-by-yl-software-experts/"><u>Step-by-Step Confirmation of Blockchain Deals by YL Software Experts</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-address-and-rectify-windows-app-error-0x800700c6/"><u>Steps to Address and Rectify Windows App Error 0X800700c6</u></a></li>
+<li><a href="https://windows11.techidaily.com/supercharge-utorrent-downloads-elevate-your-file-speed/"><u>Supercharge uTorrent Downloads, Elevate Your File Speed</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/top-screen-grabber-software-in-the-windows-10-arena-for-2024/"><u>Top Screen Grabber Software in the Windows 10 Arena for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-winpcs-fatal-pink-flash/"><u>Troubleshooting WinPC's Fatal Pink Flash</u></a></li>
 </ul></div>
 

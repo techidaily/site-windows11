@@ -1,7 +1,7 @@
 ---
 title: Solutions for Unwanted Chrome Tab Autopilot in Windows
-date: 2025-01-17T18:22:21.745Z
-updated: 2025-01-22T19:41:20.953Z
+date: 2025-01-23T23:45:50.544Z
+updated: 2025-01-29T19:03:15.352Z
 tags:
   - windows10
   - windows11
@@ -37,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 * [Update Chrome to the latest version](https://www.makeuseof.com/how-to-update-google-chrome/).
 * Incorrectly configured keyboard and mouse managers can also cause apps like Chrome to malfunction. Disable or delete such an app if you also use one.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Ensure That the "Open New Tabs" Shortcut Keys Aren't Pressed Down
 
  If Chrome opens new tabs immediately upon launch and doesn't stop until you close the browser, the shortcut keys for opening new tabs are probably pressed down on your keyboard. You can confirm that using the onscreen keyboard in Windows.
@@ -49,7 +45,15 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 
 ![Check if the Shortcut Keys to Open New Tabs in Chrome Aren’t Pressed on the On-Screen Keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/2-check-if-the-shortcut-keys-to-open-new-tabs-in-chrome-aren-t-pressed-on-the-on-screen-keyboard.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this is the case, unplug or [temporarily turn off your keyboard](https://www.makeuseof.com/windows-disable-laptop-keyboard/) and have it inspected. However, if no keys appear to be pressed, move on to the next step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Stop Chrome From Opening Links in New Tabs
 
@@ -62,14 +66,10 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 ![Open See All Search Settings in the Chrome Quick Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3-open-see-all-search-settings-in-the-chrome-quick-settings.jpg)
 3. Navigate to the **Where results open** section and uncheck the box beside **Open each selected result in a new browser window**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Uncheck the Box Beside Open Each Selected Result in a New Browser Window Option in See All Search Settings in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/4-uncheck-the-box-beside-open-each-selected-result-in-a-new-browser-window-option-in-see-all-search-settings-in-chrome.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Stop Chrome From Opening New Tabs on PC Startup or Browser Launch
@@ -86,7 +86,7 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 ![Select Open the New Tab Option in the On Startup Tab of Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/6-select-open-the-new-tab-option-in-the-on-startup-tab-of-chrome-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Ensure That the Website You Are on Isn’t Malicious
@@ -94,10 +94,6 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
  If Chrome opens new tabs with unwanted websites whenever you click on a text, link, or area on a particular website, that site or its content is likely malicious. That might explain why it redirects you to malicious offers and landing pages run by threat actors.
 
  There are many ways to determine whether a website is untrustworthy, so learn [how to check if a site is safe](https://www.makeuseof.com/how-to-check-if-a-website-is-safe-to-use/) for more information.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Ensure Your Browser and Device are Malware-Free
 
@@ -112,6 +108,10 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
  To reset Chrome, go to **Chrome** settings, click on **Reset settings** on the left-hand side, and click **Restore settings to their original defaults** on the right.
 
 ![Click Restore Settings to their Original Defaults Option to Reset Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/7-click-restore-settings-to-their-original-defaults-option-to-reset-chrome-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If resetting the browser also doesn't work, you can reinstall the browser from scratch, which is the least desirable solution. Before you begin the new installation, ensure you properly remove the old installation using our guide on [uninstalling apps on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/).
 
@@ -137,24 +137,24 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-behind-the-scenes-of-gamers-elite-setup/"><u>[New] In 2024, Behind the Scenes of Gamers' Elite Setup</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-get-noticed-on-youtube-the-ultimate-list-of-freefire-tag-tips-for-2024/"><u>[Updated] Get Noticed on YouTube The Ultimate List of FreeFire Tag Tips for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-encapsulate-powerpoint-visuals-in-media/"><u>[Updated] In 2024, Encapsulate PowerPoint Visuals in Media</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-lecturers-guide-to-efficient-classroom-sound-archiving-on-macs-for-2024/"><u>[Updated] Lecturer's Guide to Efficient Classroom Sound Archiving on Macs for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-premier-asmr-videographers-list-for-2024/"><u>[Updated] Premier ASMR Videographers' List for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-transform-your-virtual-presence-with-google-meets-effects-features/"><u>2024 Approved Transform Your Virtual Presence with Google Meet's Effects Features</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-to-overcoming-the-msvcr110dll-deficit/"><u>Guide to Overcoming the Msvcr110.dll Deficit</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-re-implementing-windows-11s-search-bar-as-an-icon/"><u>Guide: Re-Implementing Windows 11'S Search Bar as an Icon</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-15-pro-max-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 15 Pro Max Without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-github-desktop-on-windows-step-by-step-guide/"><u>Mastering GitHub Desktop on Windows: Step-by-Step Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-windows-11s-context-menu-with-additional-software-icons/"><u>Mastering Windows 11'S Context Menu with Additional Software Icons</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-persistent-pc-disruptions-while-using-microsofts-2020-aviation-game/"><u>Overcoming Persistent PC Disruptions While Using Microsoft's 2020 Aviation Game</u></a></li>
-<li><a href="https://windows11.techidaily.com/speedy-valorant-download-fix-for-windows-users/"><u>Speedy Valorant Download Fix for Windows Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/system-resuscitation-modernizing-windows-driver-technology/"><u>System Resuscitation: Modernizing Windows Driver Technology</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-smart-way-to-mitigate-pc-cpu-spikes-via-resource-monitor/"><u>The Smart Way to Mitigate PC CPU Spikes via Resource Monitor</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-choosing-superior-google-pixel-fold-cases-in-2e-what-you-need-to-know-before-buying/"><u>Ultimate Guide to Choosing Superior Google Pixel Fold Cases in 2E: What You Need to Know Before Buying</u></a></li>
-<li><a href="https://windows11.techidaily.com/unleash-power-top-10-must-have-msistore-picks/"><u>Unleash Power: Top 10 Must-Have MSIStore Picks</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/update-like-a-pro-11-exceptional-freeware-applications-for-your-system/"><u>Update Like a Pro: 11 Exceptional Freeware Applications for Your System</u></a></li>
-<li><a href="https://windows11.techidaily.com/win-11-troubleshooting-alternatives-to-rename-folder-functions/"><u>Win 11 Troubleshooting: Alternatives to Rename Folder Functions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-complete-kinetic-review-2023/"><u>[New] Complete Kinetic Review 2023</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-masterclass-in-brief-lapses-top-5/"><u>[New] Masterclass in Brief Lapses #Top 5</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-infuse-your-films-with-text-magic-top-10-techniques-unveiled/"><u>[Updated] 2024 Approved Infuse Your Films with Text Magic Top 10 Techniques Unveiled</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-beginners-pathway-start-your-sports-youtube-chain-on-macos/"><u>[Updated] In 2024, Beginner's Pathway Start Your Sports YouTube Chain on macOS</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-apowersoft-screen-record-review-and-top-contenders-unveiled/"><u>2024 Approved Apowersoft Screen Record Review & Top Contenders Unveiled</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-through-mixed-reality-an-overview/"><u>2024 Approved Navigating Through Mixed Reality An Overview</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/maciphoneipadapple-tvitunes-mp4mov/"><u>最適な動画変換ソフトウェアでMacからiPhone/iPad/Apple TV/iTunes用ビデオ: MP4/MOVへのシームレス変換</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-steps-to-address-winerror-0xc0000005-instantly/"><u>Essential Steps to Address WinError 0Xc0000005 Instantly</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-the-missing-setup-on-windows-nvidia-display/"><u>Fixing the Missing Setup on Windows Nvidia Display</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-windows-crashes-due-to-0x0000011b-errors/"><u>Fixing Windows Crashes Due to 0X0000011B Errors</u></a></li>
+<li><a href="https://solve-info.techidaily.com/guide-facile-pour-recuperer-des-donnees-sur-un-disque-toshiba-canvio-portable-egare/"><u>Guide Facile Pour Récupérer Des Données Sur Un Disque Toshiba Canvio Portable Égaré</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-adjusting-windows-11s-safety-and-security-filter/"><u>Guide: Adjusting Windows 11'S Safety & Security Filter</u></a></li>
+<li><a href="https://windows11.techidaily.com/guidelines-for-fixing-windows-11-support-tool/"><u>Guidelines for Fixing Windows 11 Support Tool</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-your-headset-mic-not-working-on-windows/"><u>How to Fix Your Headset Mic Not Working on Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-restore-and-replace-a-lost-wmvcoredll-file-easily/"><u>How to Restore and Replace a Lost Wmvcore.dll File Easily</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-virtualbox-install-handle-dependencies/"><u>Optimize VirtualBox Install: Handle Dependencies</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-disconnected-steam-friends-list-wins11/"><u>Reviving Disconnected Steam Friends List (Wins11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-cannot-reach-server-error-in-win-10-and-11-for-mb/"><u>Troubleshooting Cannot Reach Server Error in Win 10 & 11 for MB</u></a></li>
 </ul></div>
 

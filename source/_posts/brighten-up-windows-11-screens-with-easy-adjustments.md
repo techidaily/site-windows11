@@ -1,7 +1,7 @@
 ---
 title: Brighten Up Windows 11 Screens with Easy Adjustments!
-date: 2024-08-15T15:22:18.129Z
-updated: 2024-08-16T15:22:18.129Z
+date: 2025-01-26T07:52:13.072Z
+updated: 2025-01-30T02:23:16.003Z
 tags:
   - windows10
   - windows11
@@ -28,17 +28,10 @@ thumbnail: https://thmb.techidaily.com/a399a44beb5899ba48cdf59ba448623d828236f52
 
  In most cases, you cannot change external monitor brightness from Windows settings—you must manually adjust this setting. If the external monitor's brightness setting is unresponsive, check your monitor's manual to find the brightness buttons' location and how you can adjust it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## 2\. Reboot Your Device
 
  If none of the methods for changing your display's brightness work, reboot your device once. Doing so will ensure that a temporary problem with your operating system isn't preventing you from changing the brightness. If rebooting your device does not make a difference, apply the remaining fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Update, Restart, or Reinstall the Drivers
 
  If restarting your computer didn't fix the issue, you should check for driver updates. This lets you determine whether corrupt or malfunctioning graphics drivers cause the problem. Follow these steps to update the relevant drivers:
@@ -47,10 +40,12 @@ thumbnail: https://thmb.techidaily.com/a399a44beb5899ba48cdf59ba448623d828236f52
 2. Expand the**Monitors** category, right-click on the drivers listed there, and choose**Update driver** .  
 ![Updating the Generic PnP Monitor Driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/updating-the-generic-pnp-monitor-driver.jpeg)
 3. After that, expand the**Display adapters** category, right-click on the drivers listed there, and click**Update driver** .  
-![Update Display Driver in Display Adapters Category of Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/1-update-display-driver-in-display-adapters-category-of-windows-device-manager.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Update Display Driver in Display Adapters Category of Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/1-update-display-driver-in-display-adapters-category-of-windows-device-manager.jpg)
 
  If updating the drivers does not resolve the issue, right-click on both drivers individually and select**Disable device** . To enable them again, right-click on each and select**Enable device** .
 
@@ -61,8 +56,9 @@ thumbnail: https://thmb.techidaily.com/a399a44beb5899ba48cdf59ba448623d828236f52
 ![Uninstall Display Device in Windows Device Mananger](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3-uninstall-display-device-in-windows-device-mananger.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Recharge Your Device
 
  Is your device running low on battery power? If that is the case, Windows may not allow you to change the brightness. The operating system does this to help save energy and will enable you to stretch your remaining battery even longer. Because of this, your computer will reduce its brightness significantly and might not even let you turn it up manually.
@@ -70,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/a399a44beb5899ba48cdf59ba448623d828236f52
  Likewise, turning on battery-saving mode could also interfere with the brightness adjustment. If you set your laptop to conserve as much battery as possible, it might minimize its display's brightness to help save power.
 
  If your battery is low, you should recharge your computer. Once your battery reaches a healthy level, you can adjust the brightness as usual. Or if you experienced the problem when you turned on battery-saving mode, you should turn it off or change its settings to allow you to change your monitor's brightness.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Repair Corrupted System Files
 
@@ -87,13 +87,14 @@ thumbnail: https://thmb.techidaily.com/a399a44beb5899ba48cdf59ba448623d828236f52
 2. Go to**System > Display** .  
 ![Go to Display Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-go-to-display-settings-in-windows-settings-app.jpg)
 3. Expand the**Brightness** menu and uncheck the boxes beside**Change brightness automatically when lighting changes** and **Help improve battery by optimizing the content shown and brightness** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Change the Display Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/change-the-display-settings-in-windows-settings-app.jpg)
 4. After that, turn off the toggle next to**Night light** if it is turned on.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 7\. Install Pending Windows Updates
 
  If you don't update Windows, you can run into unforeseen issues. If you have done that in a while, you could eventually encounter problems, like the inability to adjust your screen's brightness.
@@ -101,31 +102,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  You should check for and [install Windows 11 updates](https://www.makeuseof.com/windows-11-install-updates/) to ensure that's not the case.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Perform a System Restore
 
  If your PC is fully updated and you still can't adjust its brightness, your next step is performing a system restore. While this fix is what some would call the "nuclear option" as it reverts customizations you've made since the last restore point, it will undo any changes to the system that have caused the brightness issue you're experiencing.
 
  That's why you should [create a restore point on Windows 11](https://www.makeuseof.com/windows-11-create-restore-point/) every time you make a significant change, like installing a new app.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## Take the Strain Off Your Eyes
 
  Extreme brightness levels and super dim screens will give you eyestrain. Hopefully, you have solved the issue with the above fixes and can adjust the screen again to fit your need.
 
  But if you're still having occasional trouble adjusting your monitor's brightness or are looking for a way to balance the brightness of multiple displays, you should check out the best brightness control apps on Windows to help you.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -134,8 +130,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-prepare-yourself-7-must-have-tech-in-the-digital-frontier/"><u>[New] 2024 Approved Prepare Yourself 7 Must-Have Tech in the Digital Frontier</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-which-is-superior-for-editing-bandicam-or-camtasia/"><u>[Updated] 2024 Approved Which Is Superior for Editing Bandicam or Camtasia?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-every-creators-guide-to-youtube-revenue/"><u>[Updated] Every Creator's Guide to YouTube Revenue</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-unleash-creativity-crafting-your-own-youtube-shorts-thumbnails/"><u>[Updated] In 2024, Unleash Creativity Crafting Your Own YouTube Shorts Thumbnails</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-tailoring-timeline-memories-the-look-back-video-expertise/"><u>[Updated] Tailoring Timeline Memories The Look Back Video Expertise</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-secrets-of-successful-ps3-game-recording-tactics/"><u>2024 Approved Secrets of Successful PS3 Game Recording Tactics</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/enhancing-instagram-presence-with-picture-borders/"><u>Enhancing Instagram Presence with Picture Borders</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-no-sound-device-error-in-windows-os/"><u>Fix No Sound Device Error in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-cut-spotlight-wallpaper-icon-on-windows-11s-desk/"><u>Guide to Cut Spotlight Wallpaper Icon on Windows 11'S Desk</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-jumpstart-your-qbittorrent-in-sluggish-state-windows/"><u>How to Jumpstart Your qBittorrent in Sluggish State (Windows)</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-convert-with-confidence-best-apps-to-turn-spotify-into-youtube-channels/"><u>In 2024, Convert with Confidence Best Apps to Turn Spotify Into YouTube Channels</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-from-iphone-14-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication From iPhone 14</u></a></li>
+<li><a href="https://windows11.techidaily.com/prime-virtual-machines-designed-for-windows-11-devices/"><u>Prime Virtual Machines Designed for Windows 11 Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-tips-overcoming-windows-winerror-messages/"><u>Quick Tips: Overcoming Windows WinError Messages</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/resolved-stop-google-drive-from-automatically-removing-aged-documents-tips-and-tricks/"><u>Resolved: Stop Google Drive From Automatically Removing Aged Documents – Tips and Tricks</u></a></li>
+<li><a href="https://windows11.techidaily.com/rog-ally-vs-asus-who-wins-the-steam-deck-war/"><u>ROG Ally Vs. ASUS: Who Wins the Steam Deck War?</u></a></li>
+<li><a href="https://windows11.techidaily.com/separate-and-align-win-11-taskbar-items/"><u>Separate and Align Win 11 Taskbar Items</u></a></li>
+<li><a href="https://windows11.techidaily.com/transforming-taskbar-functionality-6-essential-upgrades-for-windows-11/"><u>Transforming Taskbar Functionality: 6 Essential Upgrades for Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-and-fixing-directdraw-errors-in-win1011-systems/"><u>Unraveling and Fixing DirectDraw Errors in WIN10/11 Systems</u></a></li>
+</ul></div>
 

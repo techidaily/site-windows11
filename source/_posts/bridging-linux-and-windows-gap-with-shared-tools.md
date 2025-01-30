@@ -1,7 +1,7 @@
 ---
 title: Bridging Linux & Windows Gap with Shared Tools
-date: 2024-08-15T15:21:32.080Z
-updated: 2024-08-16T15:21:32.080Z
+date: 2025-01-25T03:40:24.948Z
+updated: 2025-01-29T20:13:00.358Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,17 @@ thumbnail: https://thmb.techidaily.com/aefba9f0ac6f593076f657b0dfeebc66593ffd1b9
 
  Thankfully, much like Linux, Windows leaves power in the hands of the user. Let's have a look at a handful of different features you can pull over from Linux into your own Windows system.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Getting Linux Features on Windows
 
 ![screenshot of numerous programs with linux features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot_of_numerous_programs_with_linux_features.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Linux offers many useful tools for power users, but at the end of the day, many of its functions are simple ones that Windows either obscures or didn't think to add.
 
@@ -30,15 +38,12 @@ thumbnail: https://thmb.techidaily.com/aefba9f0ac6f593076f657b0dfeebc66593ffd1b9
 
  There are still [many functions that Linux has that Windows will struggle to imitate](https://www.makeuseof.com/things-you-can-do-on-linux-but-not-on-windows/), but with this list, you'll hopefully be able to bring over your favorite Linux features without much hassle.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Better Window Management With AltSnap
 
 ![screenshot of windows desktop with the altdrag configuration menu open](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/altdrag-rightclick-menu-configure.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Linux boasts a rather famous feature many call Alt Drag, where you can easily rearrange windows without having to move the mouse to the title bar.
@@ -49,12 +54,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 **Download:**[AltSnap](https://github.com/RamonUnch/AltSnap/) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Faster Windows Focus With X-Mouse Controls
 
 ![screenshot of x mouse controls](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot_of_x_mouse_controls.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On Windows, clicking on a window makes it the active window. Many Linux distros follow a different tradition, where simply hovering your mouse over the window causes it to become active instead.
 
@@ -69,8 +75,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ## 3\. Batch File for More Efficient Command Prompt Management
 
 ![screenshot of the cd command in cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot_of_cd_command_in_cmd.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This one is a bit obscure, but anyone who has used Linux distros in the past will know how useful this can be.
@@ -90,9 +97,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ## 4\. Strip Down Unnecessary Bloat With Winaero Tweaker
 
 ![screenshot of the winaero tweaker main screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot_of_winaero_tweaker_main_screen.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  When it comes to comparing the advantages of Linux and Windows, one point in Linux's favor is definitely how hands-off it is with the user.
 
@@ -104,23 +108,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 **Download:**[Winaero Tweaker](https://winaero.com/winaero-tweaker/) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Windows and Linux Are as Similar as They Are Different
 
  There are not many Linux-exclusive features that you can simply port over to Windows. Enjoying Windows as you would a Linux system has a lot to do with crafting the perfect user experience, which thankfully, Windows allows you to do.
 
  You won't be achieving the same feats as a Linux power user on your Windows machine, but you might be able to feel a little more at home if you were previously a Linux user.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -129,8 +127,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-laugh-ledger-10-hilarious-tweets/"><u>[New] Laugh Ledger 10 Hilarious Tweets</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-journey-into-joke-making-mastering-the-art-of-gif-memes/"><u>2024 Approved Journey Into Joke-Making Mastering the Art of GIF Memes</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-apple-iphone-xs-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot Apple iPhone XS Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-edge-2023-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Edge 2023</u></a></li>
+<li><a href="https://win11.techidaily.com/outsmart-windows-delete-temp-files-without-fuss/"><u>Outsmart Windows: Delete Temp Files Without Fuss</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-solutions-for-stuck-windows-update-fixers/"><u>Swift Solutions for Stuck Windows Update Fixers</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-6-brightness-tools-for-windows-multi-screen-setups/"><u>Top 6 Brightness Tools for Windows Multi-Screen Setups</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-fixes-for-a-lagging-spotify-browser-app-updated-guide/"><u>Ultimate Fixes for a Lagging Spotify Browser App (Updated Guide )</u></a></li>
+<li><a href="https://windows11.techidaily.com/uncovering-the-invisible-workers-in-win11/"><u>Uncovering the Invisible Workers in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-wacatacbml-mystery-and-removal-guide-for-windows-pcs/"><u>Unveiling: The Wacatac.B!ml Mystery & Removal Guide for Windows PCs</u></a></li>
+</ul></div>
 

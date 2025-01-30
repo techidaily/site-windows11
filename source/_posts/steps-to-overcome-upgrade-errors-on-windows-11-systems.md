@@ -1,7 +1,7 @@
 ---
 title: Steps to Overcome Upgrade Errors on Windows 11 Systems
-date: 2025-01-17T19:11:59.020Z
-updated: 2025-01-22T17:01:26.960Z
+date: 2025-01-27T01:02:05.143Z
+updated: 2025-01-30T03:11:38.657Z
 tags:
   - windows10
   - windows11
@@ -55,13 +55,13 @@ Additionally, you may also see the following error:
 ![pc health check upgrade windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/pc-health-check-upgrade-windows-11.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You may also encounter said error when installing Windows 11 through a bootable drive or setup file from the mounted ISO.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What Is UEFI Boot Mode?
@@ -88,6 +88,10 @@ Additionally, you may also see the following error:
 
 ![Enable Secure Boot UEFI Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Secure-Boot-enabled.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Follow these steps to enable Secure Boot compatibility in Windows 10.
 
 1. Close all the open Windows and save your work. Then shut down your PC.
@@ -101,10 +105,6 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
 
  Once you have enabled Secure Boot and UEFI in Boot Mode, make sure TPM 1.2/2.0 is also enabled for your PC. So, don't close the BIOS setup menu yet.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Enable TMP 1.2/2.0 to fix the "This PC Can't Install Windows 11 Error"
 
 ![Enable Trusted Platform Module](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Enable-TPM-2-0-BIOS.png)
@@ -117,6 +117,10 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
 4. Save the changes and exit.
 
  That's it. You have successfully enabled Secure Boot compatibility and TMP 2.0 on Windows 10\. Restart your PC, run the PC Health Checkup tool, or install Windows 11 to see if the error is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Bypass TPM 2.0 and Secure Boot Requirement Using Registry Editor
 
@@ -138,10 +142,6 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
 ![registry editor mosetup new value 1 bypass windows 11 restriction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor-mosetup-new-value-1-bypass-windows-11-restriction.jpg)
 7. In the Value data field, type**1** and click**OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Close the Registry Editor and try to install Windows 11 using the media creation tool or ISO. The upgrade should complete without the error.
 
  If the issue persists, read our guide to[bypass Windows 11 minimum installation requirements](https://www.makeuseof.com/bypass-windows-11-minimum-installation-requirements/) to learn more ways to bypass the restrictions and upgrade your PC.
@@ -157,7 +157,7 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
  If the bootable drive does not show up in the Boot Manager after enabling Secure Boot, ensure it is formatted with the UEFI system in Rufus. If not, create a bootable drive again with the target system set to UEFI (CMS).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixing the This PC Can't Run Windows 11 Error
@@ -179,16 +179,20 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-techniques-to-recover-from-obs-fullscreen-lockout/"><u>[New] In 2024, Techniques to Recover From OBS Fullscreen Lockout</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-samsung-galaxy-s24-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Samsung Galaxy S24</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-legal-ways-to-enjoy-1080p-movie-downloads-your-ultimate-resource-for-premium-quality-films-offline/"><u>Free, Legal Ways to Enjoy 1080P Movie Downloads: Your Ultimate Resource for Premium Quality Films Offline</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-highlight-the-mouse-cursor-in-windows-10-and-11/"><u>How to Highlight the Mouse Cursor in Windows 10 & 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/making-your-files-automatically-accessible-in-win11/"><u>Making Your Files Automatically Accessible in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-windows-11s-full-screen-with-sonic-games/"><u>Mastering Windows 11'S Full Screen with Sonic Games</u></a></li>
-<li><a href="https://windows11.techidaily.com/setting-up-jdk-on-windows-11-a-step-by-step-guide/"><u>Setting Up JDK on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/step-by-step-guide-to-enhance-video-content-via-srt-transcoding/"><u>Step-by-Step Guide to Enhance Video Content via SRT Transcoding</u></a></li>
-<li><a href="https://some-skills.techidaily.com/superior-recommendations-elite-ios-audio-makers-for-2024/"><u>Superior Recommendations Elite iOS Audio Makers for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/what-sets-exe-installers-apart-from-standard-msis/"><u>What Sets Exe Installers Apart From Standard MSIs?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-youtube-affiliate-marketing-how-to-make-money-with-it/"><u>[Updated] 2024 Approved YouTube Affiliate Marketing How to Make Money with It</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-budding-builders-simple-stylish-mc-habitats-for-2024/"><u>[Updated] Budding Builders Simple, Stylish MC Habitats for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-evasion-tactics-for-watching-instagram-stories-unattached-to-your-account/"><u>[Updated] In 2024, Evasion Tactics for Watching Instagram Stories Unattached to Your Account</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-tier-mobile-cloud-space-hacks-for-android/"><u>[Updated] Top-Tier Mobile Cloud Space Hacks for Android</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/breaking-barriers-download-and-store-your-fmb-conversations/"><u>Breaking Barriers Download & Store Your FMB Conversations</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/dialogue-dynamics-connecting-with-your-youtube-crowd-for-2024/"><u>Dialogue Dynamics Connecting With Your YouTube Crowd for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exclusive-look-starbucks-secret-plan-could-revolutionize-customer-experience/"><u>Exclusive Look: Starbucks' Secret Plan Could Revolutionize Customer Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/get-acclimated-to-window-11s-efficient-taskbar-search/"><u>Get Acclimated to Window 11’S Efficient Taskbar Search</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-to-reverse-non-transferring-usb-error-in-windows/"><u>Methods to Reverse Non-Transferring USB Error in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/one-side-windows-earbud-sound-recovery-guide/"><u>One-Side Windows Earbud Sound Recovery Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/stop-default-save-problems-on-windows-systems/"><u>Stop 'Default Save' Problems on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/turn-off-wired-laptop-keyboard-on-windows-system/"><u>Turn Off Wired Laptop Keyboard on Windows System</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-guide-20-incredible-no-cost-storage-platforms-1tbplus/"><u>Ultimate Guide 20 Incredible No-Cost Storage Platforms (1TB+)</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-internets-locked-up-landmarks-fixes-for-windows-browsers/"><u>Unlocking the Internet's Locked-Up Landmarks: Fixes for Window's Browsers</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-how-to-use-powershell-for-file-unblocking/"><u>Unlocking Windows: How to Use PowerShell for File Unblocking</u></a></li>
 </ul></div>
 

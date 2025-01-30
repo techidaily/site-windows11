@@ -1,7 +1,7 @@
 ---
 title: Fasten Up Your Windows Devices with Top Fixes for Slow Web Linkage
-date: 2024-08-15T15:23:59.198Z
-updated: 2024-08-16T15:23:59.198Z
+date: 2025-01-24T08:35:20.378Z
+updated: 2025-01-30T06:55:49.026Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/4d4519b2feefb328b63c1d94cdbcefc1487c835a8
  Most apps and programs on your computer require internet access to function. Therefore, when apps can’t connect to the internet on Windows, they are of little use. Fortunately, it’s possible to fix this annoying issue.
 
  Here are a few effective solutions to try if apps on Windows are unable to connect to the internet.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Disable Windows Defender Firewall
 
@@ -38,16 +42,17 @@ thumbnail: https://thmb.techidaily.com/4d4519b2feefb328b63c1d94cdbcefc1487c835a8
  Check to see if your apps can connect to the internet now. If this solves your problem, you may have to allow your apps through Windows Firewall. If you need help, check our guide on [how to allow apps through Windows Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) and follow the steps outlined there.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Disable Your Antivirus Program
 
  As with the firewall, your antivirus can also cause connection issues. To rule out this possibility, you should disable your antivirus program temporarily. Simply right-click on the antivirus program's taskbar icon and select**Disable > Disable until the next restart** .
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Run Windows Troubleshooters
 
  Windows 10 and 11 include a few troubleshooters that can automatically detect and resolve common system-level issues. Running the Windows Store Apps troubleshooter should resolve any issues with your apps and restore their ability to connect to the internet.
@@ -59,9 +64,6 @@ To run Windows Store Apps troubleshooter:
 3. Select**Other troubleshooters** .
 4. Click the**Run** button next to**Windows Store Apps** and follow the on-screen prompts to run the troubleshooter.  
 ![Run the Windows Store Apps Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-the-Windows-Store-Apps-Troubleshooter.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 
  Next, run the**Internet Connections** troubleshooter from the same menu. It will diagnose your system for any internet-related issues and try to solve them. Following this, apps on your PC should connect to the internet.
 
@@ -100,10 +102,6 @@ To run Windows Store Apps troubleshooter:
 
  Restart your PC (using one of the many [methods to restart a Windows PC](https://www.makeuseof.com/windows-restart-methods/) ) and see if the issue is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Reset Network Settings
 
  If the problem persists, you can perform a full network configuration reset on Windows. There's a chance that one of the network settings on Windows is conflicting with your apps and preventing them from accessing the internet.
@@ -118,12 +116,12 @@ To reset network settings on Windows:
 6. Select**Yes** to confirm.  
 ![Reset Network Settings on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Reset-Network-Settings-on-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After the reset is complete, your PC will restart. Following that, your issue will be resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ## 8\. Troubleshoot the Issue With a Clean Boot
 
  At times, third-party programs and services running on your PC can disrupt Windows processes and lead to such problems. To check for this possibility, you need to boot your PC in a clean boot start.
@@ -133,22 +131,20 @@ To reset network settings on Windows:
  If you'd like to learn more about the topic, check out our guide on [how to perform a clean boot on Windows](https://www.makeuseof.com/how-perform-clean-boot-windows-10/) and follow the steps listed there. If you perform a clean boot and the issue goes away, it means that one of the disabled services is the culprit. Now you can slowly re-activate the services until the problem reappears, and voila: you know what's causing the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get Your Window Apps Back Online
 
  You now have a good idea of what to do when apps on Windows cannot connect to the internet. One of the solutions listed above should help resolve any underlying issues and bring your apps back online.
 
  Now that your apps are connected to the internet, you may want to limit how much data your Windows PC consumes.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -157,8 +153,21 @@ To reset network settings on Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-optimal-sound-settings-win/"><u>[Updated] 2024 Approved Optimal Sound Settings WIN</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-stealthy-view-tips-for-invisible-instagram-stories-consumption-via-pcandroidiphone-for-2024/"><u>[Updated] Stealthy View Tips for Invisible Instagram Stories Consumption via PC/Android/iPhone for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-transforming-static-text-into-dynamic-elements-on-a-budget-for-2024/"><u>[Updated] Transforming Static Text Into Dynamic Elements on a Budget for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210710100-9789692792110-a-kick-in-the-attitude/"><u>A Kick In The Attitude! | Free Book</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-steps-to-reopen-battlenet-on-windows-desktop/"><u>Essential Steps to Reopen Battle.net on Windows Desktop</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-inaccessible-files-in-windows-os/"><u>Fixing Inaccessible Files in Windows OS</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/harnessing-the-power-of-stories-in-fb-networks-for-2024/"><u>Harnessing the Power of Stories in FB Networks for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-itel-a60s-drfone-by-drfone-android/"><u>How to Screen Mirroring Itel A60s? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-epson-artisan-1430-driver-on-windows-11108-step-by-step-guide-to-a-smooth-setup/"><u>Install Epson Artisan 1430 Driver on Windows 11/10/8 – Step-by-Step Guide to a Smooth Setup!</u></a></li>
+<li><a href="https://windows11.techidaily.com/reversing-unable-to-open-share-issue-in-windows/"><u>Reversing Unable to Open Share Issue in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/revising-windows-1011-login-limit-settings-post-failed-sign-ins/"><u>Revising Windows 10/11 Login Limit Settings Post-Failed Sign-Ins</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-connectivity-on-pcs-winnet-steps-to-verify/"><u>Seamless Connectivity on PCs: WinNet Steps to Verify</u></a></li>
+<li><a href="https://windows11.techidaily.com/securely-delete-your-files-at-the-click-windows-11s-desktop-trash-tutorial/"><u>Securely Delete Your Files at the Click: Windows 11'S Desktop Trash Tutorial</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/vector-magic-discovering-the-10-software-picks-you-need-for-2024/"><u>Vector Magic Discovering the 10 Software Picks You Need for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: 7 Things to Try When the Epic Games Launcher Fails to Send a Security Code on Windows
-date: 2024-08-15T15:22:25.592Z
-updated: 2024-08-16T15:22:25.592Z
+date: 2025-01-23T07:51:12.332Z
+updated: 2025-01-30T01:51:33.372Z
 tags:
   - windows10
   - windows11
@@ -24,25 +24,24 @@ thumbnail: https://thmb.techidaily.com/dde748be235f13590c269ef1d0659f5ed0b11e11e
 
  Oftentimes, users enter incorrect login credentials and start wondering why they haven't received the security code in their inbox. Thus, make sure you are entering the correct username and password and that your caps lock key is not on. You may also reset your password if unsure if it is correct.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Check Your Internet Connection
 
 ![Internet Speed as per Fast.com](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Fast.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You must be connected to a stable and reliable internet connection to receive the security code in your inbox. To check your internet stability and speed, use an [internet speed testing website](https://www.makeuseof.com/best-free-websites-test-internet-speed/) .
 
  If the result shows your connection is weak or unstable, try [restarting your router](https://www.makeuseof.com/reboot-router-correct-way/) . You can also do many other things to [improve your internet speed](https://www.makeuseof.com/windows-11-increase-internet-speed/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## 3\. Is the Epic Games Server Down?
 
 ![Server status page of Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/server-status-page.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Epic Games Launcher might fail to send the security code if its server is under maintenance or facing downtime. To confirm if that's what is causing the issue, visit [Epic Games Launcher server status website](https://status.epicgames.com/) . Alternatively, you check [Epic Games Launcher Twitter handle](https://twitter.com/EpicGames) to know about any ongoing server issues.
@@ -50,8 +49,9 @@ thumbnail: https://thmb.techidaily.com/dde748be235f13590c269ef1d0659f5ed0b11e11e
  If servers are under maintenance or facing downtime, you can't do much other than wait until they become operational again.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Disable Your VPN
 
  VPN allows you to access all those websites that are blocked in your area. But a VPN connection can also make your connection unstable and stop the Epic Games Launcher from sending the security code.
@@ -61,8 +61,9 @@ So, disable any active VPN and check if it fixes the issue.
 ## 5\. Switch to a Google Public DNS
 
 ![Configuring the Google Public DNS in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/google-public-dns.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Another reason behind the issue can be your PC's unreliable DNS server. The solution here is to switch to Google public DNS.
@@ -77,6 +78,10 @@ So, disable any active VPN and check if it fixes the issue.
 
  To update network drivers, check our guide on [updating drives in Windows](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) . After the update process is complete, restart your computer and check for the issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Update the Epic Games Launcher
 
  You might be facing the problem at hand due to corruption in the Epic Games Launcher. The best way to remove that corruption is to update the Epic Games Launcher.
@@ -88,23 +93,17 @@ So, disable any active VPN and check if it fixes the issue.
 3. Click the**Restart and Update** button.  
 ![Restart & Update option in Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/restart-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Keep Your Epic Games Launcher Account Secure
 
  One main reason behind Epic Games Launcher's popularity is its strong security feature. Every time you want to log in to your account, you must enter the security code sent to your registered email address.
 
  However, for various reasons, Epic Games launchers might fail to send the security code. Fortunately, it's a very common issue and can easily be cured using the above fixes.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -113,8 +112,26 @@ So, disable any active VPN and check if it fixes the issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-playful-escape-the-ultimate-relief-list/"><u>[New] 2024 Approved Playful Escape The Ultimate Relief List</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-strategies-for-igtv-on-facebook-integration/"><u>[New] In 2024, Strategies for IGTV on Facebook Integration</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-complete-reference-to-display-recording-methods/"><u>[New] The Complete Reference to Display Recording Methods</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-effortless-visual-enhancement-auto-scaling-videos-for-mac-instagramers/"><u>[Updated] 2024 Approved Effortless Visual Enhancement Auto-Scaling Videos for Mac Instagramers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-the-complete-srt-reference-manual/"><u>[Updated] In 2024, The Complete SRT Reference Manual</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-steelseries-arctis-mic-back-in-action-a-comprehensive-guide-to-repairing-non-functionality/"><u>Getting Your SteelSeries Arctis Mic Back in Action: A Comprehensive Guide to Repairing Non-Functionality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-download-and-use-imovie-for-your-pc-step-by-step-instructions/"><u>How to Download and Use iMovie for Your PC - Step-by-Step Instructions</u></a></li>
+<li><a href="https://windows11.techidaily.com/identifying-and-correcting-incorrect-cpu-readouts-on-pc-monitor/"><u>Identifying and Correcting Incorrect CPU Readouts on PC Monitor</u></a></li>
+<li><a href="https://win11.techidaily.com/in-a-nutshell-how-to-spot-your-pcs-ram-quickly/"><u>In a Nutshell: How to Spot Your PC's RAM Quickly</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-the-art-of-cross-border-mouse-glance-using-powertoys-features/"><u>Master the Art of Cross-Border Mouse Glance Using PowerToys' Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-the-subsystem-top-practices-in-wsl-2-environments/"><u>Master the Subsystem: Top Practices in WSL 2 Environments</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-delete-confirmation-steps-on-modern-windows-pcs/"><u>Mastering Delete Confirmation Steps on Modern Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-nvidia-connections-problems-on-win-11-os/"><u>Navigating Through NVIDIA Connections Problems on Win 11 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimal-classic-gaming-experience-winning-with-scummvm-on-pc/"><u>Optimal Classic Gaming Experience: Winning with ScummVM on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-hardware-limitations-in-windows-capture-errors/"><u>Overcoming Hardware Limitations in Windows Capture Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinstallation-strategies-for-lost-render-device-in-ow2/"><u>Reinstallation Strategies for Lost Render Device in OW2</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-xc0f1103f-error-with-nvidias-software/"><u>Remedying XC0F1103F Error with NVIDIA's Software</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-15-free-video-editing-tools-for-starters-simplified-and-user-friendly-for-2024/"><u>Updated 15 Free Video Editing Tools for Starters Simplified and User-Friendly for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722998845866-winning-the-battle-against-black-ops-cold-war-ui-error-27711-complete-resolution-steps-inside/"><u>Winning The Battle Against Black Ops Cold War UI Error 27711 - Complete Resolution Steps Inside</u></a></li>
+</ul></div>
 

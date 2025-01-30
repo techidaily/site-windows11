@@ -1,7 +1,7 @@
 ---
 title: Using iCloud Keychain for iOS/Android Network Access
-date: 2025-01-19T16:53:16.132Z
-updated: 2025-01-22T18:19:27.522Z
+date: 2025-01-26T21:39:48.473Z
+updated: 2025-01-29T18:30:38.338Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 
  Windows Network Share utilizes the SMB protocol internally to make files, directories, or, entire drives available for read/write access for devices on the local network. While it's super easy and swift to set up, it's also a common target for adversaries. So, it's wise that you learn [how the SMB protocol works and some common SMB vulnerabilities](https://www.makeuseof.com/what-is-smb-protocol-and-what-are-its-risks/) to ensure that your network perimeter isn't breached.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Share a Windows Drive on Your Local Network
 
  To access your computer's files, you need to share them on the local network. For the demonstration, I'll be sharing a drive on the local network. If you wish to share a folder or a single file instead, you can follow the same steps but with only the folder(s) and file(s) selected.
@@ -43,15 +47,19 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 ![sharing tab open in properties menu of a drive-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sharing-tab-open-in-properties-menu-of-a-drive-1.jpg)
 4. Click on **Advanced Settings** in the new pop-up menu, check the **Share this folder** box, and wait, it's not over yet. Now to prevent unsolicited access to your locally shared drives, click on **Permissions**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. In the new menu that pops up, click on **Add**. Yet another box should pop up. Here, type in the username of your user account. Use a dedicated user account only for network access or use your primary account's username and press **Enter**. You should find your name is present on the list of users with permission to the shared drive.  
 ![Adding a new user in the access group of the shared drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/adding-a-new-user-in-the-access-group-of-the-shared-drive.jpg)
 6. Finally, click on your account name, and in the **Permissions for <account name>** section, check the **Full Control** box and hit **Apply**.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Adding permissions to the user account and confimring changes by pressing on Apply](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/adding-permissions-to-the-user-account-and-confimring-changes-by-pressing-on-apply.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  That's all the steps to share your drive on the local network. However, if you run into any trouble, it's recommended you check out the [dedicated guide on enabling Windows Network Share](https://www.makeuseof.com/how-network-file-share-windows-10/).
 
@@ -68,14 +76,10 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 
 ![Selecting Network Share on Files app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/selecting-network-share-on-files-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Selecting SMB Protocol](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/selecting-smb-protocol.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Manually adding the device and account details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/manually-adding-the-device-and-account-details.jpg)
@@ -83,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 ![Access established to the drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/access-established-to-the-drive.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -91,10 +95,6 @@ Close
  Now, you should be able to access files on your Windows PC from your Android device. You can modify the files or download them to your Android device. All done without ever needing any external application!
 
  On some devices, such as Samsung phones, when you click on **Network Storage**, you might be asked to update the Files app to add the network access functionality. Proceed to do so, and then return to the guide.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Access Your Windows Files From an iOS Device
 
@@ -112,6 +112,10 @@ Close
 
 ![Typing in user account credentials](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/typing-in-user-account-credentials.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Access established to the drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/access-established-to-the-drive.jpeg)
 
 ![The shared drive being listed on the Browse Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-shared-drive-being-listed-on-the-browse-menu.jpeg)
@@ -119,10 +123,6 @@ Close
 Close
 
  Now you should be able to view the files on the shared drive. You can now download, upload or modify the local files on your Windows PC with ease and without having to download any third-party application.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Access Your PC Files on iOS/Android Without Third-Party Apps
 
@@ -140,17 +140,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-expert-strategies-for-choosing-valheim-crops/"><u>[Updated] In 2024, Expert Strategies for Choosing Valheim Crops</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-a-beginners-guide-choosing-your-first-film-camera/"><u>2024 Approved A Beginner's Guide Choosing Your First Film Camera</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-repair-iphones-cellular-connection-10-effective-fixes/"><u>How to Repair iPhone's Cellular Connection: 10 Effective Fixes</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-lava-yuva-3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Lava Yuva 3 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-effortless-yt-calls-mastering-green-backgrounds/"><u>In 2024, Effortless YT Calls Mastering Green Backgrounds</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimize-and-enhance-the-ultimate-guide-to-windows-11s-start-screen/"><u>Optimize and Enhance: The Ultimate Guide to Windows 11’S Start Screen</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-a-slowdown-reviving-stalled-torrents/"><u>Overcoming a Slowdown: Reviving Stalled Torrents</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resetting-bios-basics-a-comprehensive-tutorial-on-clearing-the-cmos/"><u>Resetting BIOS Basics: A Comprehensive Tutorial on Clearing the CMOS</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-cut-down-on-ram-usage-by-platforms-connecting-devices/"><u>Strategies to Cut Down on RAM Usage by Platforms Connecting Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-blueprint-for-locating-system32-in-win11/"><u>The Blueprint for Locating System32 in Win11</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/top-2023s-top-browser-extensions-download-facebook-videos-effortlessly/"><u>Top 2023'S Top Browser Extensions Download Facebook Videos Effortlessly</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-windows-11-widget-features-quickly/"><u>Unlocking Windows 11 Widget Features Quickly</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-achieve-clear-and-smooth-video-outputs-with-these-logitech-camera-insights/"><u>[Updated] In 2024, Achieve Clear & Smooth Video Outputs with These Logitech Camera Insights</u></a></li>
+<li><a href="https://win-forum.techidaily.com/advanced-techniques-to-delete-secure-files-and-directories-in-modern-windows-os/"><u>Advanced Techniques to Delete Secure Files and Directories in Modern Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/establishing-system-heat-control-on-windows-os/"><u>Establishing System Heat Control on Windows OS</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/traction-with-effective-video-descriptions-and-tagging/"><u>Gain Traction with Effective Video Descriptions and Tagging</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-bite-size-beats-characters-in-soundscape/"><u>In 2024, Bite-Size Beats Characters in Soundscape</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-samsung-galaxy-s24-ultra-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Samsung Galaxy S24 Ultra Through Google Earth?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-the-potential-of-closeup-cinematography/"><u>In 2024, Unlocking the Potential of Closeup Cinematography</u></a></li>
+<li><a href="https://windows11.techidaily.com/increase-speed-of-task-manager-view-on-windows-11/"><u>Increase Speed of Task Manager View on Windows 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/master-playlist-transfers-across-music-hubs-for-2024/"><u>Master Playlist Transfers Across Music Hubs for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-steam-connection-problems-rust-guide-for-windows-users/"><u>Mastering Steam Connection Problems: Rust Guide for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-user-interaction-with-windows-narrators-shortcuts/"><u>Optimizing User Interaction with Windows Narrator's Shortcuts</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-rejuvenate-stuck-windows-start-button/"><u>Steps to Rejuvenate Stuck Windows Start Button</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/eginners-roadmap-to-free-youtube-intro-videos/"><u>The Beginner's Roadmap to Free YouTube Intro Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-hdd-and-ssd-identification-on-windows/"><u>The Ultimate Guide to HDD & SSD Identification on Windows</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/vulkan-api-gameplay-recorded-a-deep-dive-into-developing-cutting-edge-applications/"><u>Vulkan API Gameplay Recorded: A Deep Dive Into Developing Cutting-Edge Applications</u></a></li>
 </ul></div>
 

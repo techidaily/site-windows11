@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Hurdles: Apps With Dull Facades Draining Energy"
-date: 2025-01-19T17:19:47.685Z
-updated: 2025-01-22T19:37:38.778Z
+date: 2025-01-28T03:01:23.021Z
+updated: 2025-01-29T20:50:54.219Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/4344716e214d80fc0302240776bca3183fcb221b8
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Effect of the Chat and Widget Apps on Windows 11
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/4344716e214d80fc0302240776bca3183fcb221b8
  The article claims that the processes take up a few hundred megabytes of RAM, but the real proof comes from [Out of Office Hours](https://oofhours.com/2022/01/30/the-overhead-of-widgets-and-teams-in-windows-11/), which posted a screenshot showing several WebView2 processes each taking their slice of the RAM pie.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Disable the Chat and Widget App and Save Your Ram
@@ -52,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/4344716e214d80fc0302240776bca3183fcb221b8
  And that’s it—the Widget and Chat icons will be removed from the desktop and won’t occupy any RAM unnecessarily.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Find and Disable Other Apps
@@ -60,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/4344716e214d80fc0302240776bca3183fcb221b8
  It's not uncommon to get your PC memory drained by apps or background processes that aren't actually doing anything. To prevent this from happening, you have a [drove of tools for finding and disabling these apps](https://www.makeuseof.com/windows-pc-too-many-background-processes/). Everything from Task Manager, System Configuration, and the Settings App will help you in this. So make sure you check out and disable these apps as well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## An Unideal Welcome Party for Windows 11 Users
@@ -72,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/4344716e214d80fc0302240776bca3183fcb221b8
  At the same time, it's not a true Windows launch unless things go a bit awry at the start. Hopefully, these little annoyances will end up being teething issues for Windows 11, and not the norm moving forward.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Out of Sight, Out of Mind (and Memory)
@@ -89,14 +89,22 @@ thumbnail: https://thmb.techidaily.com/4344716e214d80fc0302240776bca3183fcb221b8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-6-youtuber-quizzes-to-know-what-type-of-youtuber-you-are/"><u>[New] 2024 Approved 6 YouTuber Quizzes to Know What Type of YouTuber You Are</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-how-to-post-photos-and-videos-on-twitter-from-smartphones/"><u>[New] How To Post Photos and Videos on Twitter From Smartphones</u></a></li>
-<li><a href="https://win-answers.techidaily.com/battlefield-your-simple-2024-fix-for-the-wont-launch-problem/"><u>Battlefield ^: Your Simple 2024 Fix for the Won't Launch Problem</u></a></li>
-<li><a href="https://some-tips.techidaily.com/guide-to-establishing-various-macos-locales-for-superior-networking-flexibility-digital-solutions-blog/"><u>Guide to Establishing Various macOS Locales for Superior Networking Flexibility | Digital Solutions Blog</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-avoid-auto-snip-from-prtscreen-keypress-in-11-windows/"><u>How to Avoid Auto-Snip From PrtScreen Keypress in 11 Windows</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-the-roadmap-to-youtube-stardom-with-1000plus-followers/"><u>In 2024, The Roadmap to YouTube Stardom with 1000+ Followers</u></a></li>
-<li><a href="https://windows11.techidaily.com/sidestep-denied-login-issues-in-windows-with-easy-fixes/"><u>Sidestep Denied Login Issues in Windows with Easy Fixes</u></a></li>
-<li><a href="https://windows11.techidaily.com/win-11-guide-nullify-local-account-security-prompts/"><u>Win 11 Guide: Nullify Local Account Security Prompts</u></a></li>
-<li><a href="https://windows11.techidaily.com/win11-and-10-home-enabling-administrator-access/"><u>Win11 & 10 Home: Enabling Administrator Access</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/he-key-to-earning-on-youtube-in-depth-ad-revenue-guidebook/"><u>[New] The Key to Earning on YouTube In-Depth Ad Revenue Guidebook</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-mastering-live-participation-stepping-into-others-tiktok-sessions/"><u>[Updated] 2024 Approved Mastering Live Participation Stepping Into Others' TikTok Sessions</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-maximize-engagement-mastering-sound-editing-for-youtube/"><u>[Updated] In 2024, Maximize Engagement Mastering Sound Editing for YouTube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-unveiling-the-ultimate-vr-experience-the-htc-vive-story/"><u>2024 Approved Unveiling the Ultimate VR Experience The HTC Vive Story</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diy-repair-guide-resolving-issues-for-a-seamless-mw3-gaming-session/"><u>DIY Repair Guide: Resolving Issues for a Seamless MW3 Gaming Session</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-updates-in-windows-os/"><u>Exploring Updates in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-unstartable-windows-speech-to-text-error/"><u>Fixing Unstartable Windows Speech-to-Text Error</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-iphone-13-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-components-with-toms-expert-analysis/"><u>Mastering Gadgets and Components with Tom’s Expert Analysis</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-non-adjacent-windows-partition-merging/"><u>Mastering Non-Adjacent Windows Partition Merging</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-non-responsive-audio-controls-in-win1011/"><u>Overcoming Non-Responsive Audio Controls in Win10/11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/showdown-of-wrist-worn-marvels-google-pixel-watch-2-vs-apple-watch-s/"><u>Showdown of Wrist-Worn Marvels: Google Pixel Watch 2 Vs. Apple Watch S</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-error-0x800700e1-in-windows-11-os/"><u>Solutions for Error 0X800700E1 in Windows 11 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-failed-display-sharing-on-windows-devices/"><u>Solutions for Failed Display Sharing on Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-overcoming-windows-steam-login-hurdles/"><u>Tips for Overcoming Windows Steam Login Hurdles</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-overcoming-onedrives-add-folder-unsuccessful-on-pc/"><u>Troubleshooting: Overcoming OneDrive's 'Add Folder Unsuccessful' On PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-selection-of-premium-apple-watch-bands-featuring-professional-assessments/"><u>Ultimate Selection of Premium Apple Watch Bands , Featuring Professional Assessments</u></a></li>
 </ul></div>
 

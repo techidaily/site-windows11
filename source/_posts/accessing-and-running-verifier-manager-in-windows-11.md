@@ -1,7 +1,7 @@
 ---
 title: Accessing and Running Verifier Manager in Windows 11
-date: 2024-08-15T15:22:05.427Z
-updated: 2024-08-16T15:22:05.427Z
+date: 2025-01-27T07:53:07.734Z
+updated: 2025-01-30T08:04:30.303Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
 
  With just a few simple steps, you can access this tool and begin making sure that all of your drivers are up-to-date and functioning properly. In this article, we will show you how to launch Driver Verifier Manager on Windows operating systems for immediate driver verification.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Opening the Driver Verifier Manager With a Taskbar Search
 
  The easiest way to open Driver Verifier Manager in Windows 11 is to type “verifier” in the Taskbar search and click on the result to start it.
@@ -28,12 +32,13 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
 
  If UAC prompts on the screen, click**Yes** to grant administrative privileges.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Opening the Driver Verifier Manager With the Run Dialog Box
 
  You can also open Driver Verifier Manager through the Run dialog box. For this press**Win + R** on your keyboard and type "verifier" in the text box. Then click**OK** or press Enter to launch the tool. Click**Yes** when UAC appears on your computer screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Opening the Driver Verifier Manager With Task Manager
 
@@ -46,9 +51,6 @@ To open Driver Verifier Manager using Task Manager, do the following:
 3. Then click on**Run new task** in the top menu bar.
 4. Type “verifier” into the text box and check the "Create this task with administrative privileges” box.  
 ![Open Driver Vefifier Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-driver-vefifier-using-task-manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Now click**OK** to launch Driver Verifier Manager.
 6. When UAC prompts, click**Yes** to grant administrative rights.
 
@@ -61,6 +63,10 @@ To open Driver Verifier Manager using Task Manager, do the following:
 3. Then type "verifier" into the text box and press**Enter** .
 4. Click**Yes** if UAC prompts you on your screen and the tool will launch.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Creating a Desktop Shortcut for the Driver Verifier Manager
 
  A desktop shortcut is a quick and easy way to open and access frequently used programs and files without leaving the desktop. As a result, you will not have to search through multiple menus and folders as you do often.
@@ -69,18 +75,12 @@ To open Driver Verifier Manager using Task Manager, do the following:
 
 1. Right-click on your desktop and select**New > Shortcut** .  
 ![Open Driver Vefifier With Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-driver-vefifier-with-desktop-shortcut.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 2. Type the below command into the "Create Shortcut" window and click**Next** .  
 `C:\WINDOWS\system32\verifier.exe`
 3. Then, type a name for your shortcut (such as "Driver Verifier") and hit**Finish** .
 
  Once you have followed the above instructions, double-click the shortcut on your desktop to open Driver Verifier Manager.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ## 6\. Opening the Driver Verifier Manager With a Command Prompt Command
 
  In addition, if you prefer using command line methods, you can use Command Prompt to run the Driver Verifier Manager tool. Here's how you can do it:
@@ -88,28 +88,27 @@ To open Driver Verifier Manager using Task Manager, do the following:
 1. Press**Win + R** to open the Run command dialog box.
 2. Type "cmd" in the text field and press**Ctrl + Shift + Enter** on your keyboard. This will [launch the Command Prompt with admin rights on Windows](https://www.makeuseof.com/windows-run-command-prompt-admin/) .  
 ![Open Driver Vefifier Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-driver-vefifier-using-command-prompt.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. In the Command Prompt window, type "verifier" and hit**Enter** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Read our [beginner's guide to the Windows Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) to get more out of this tool.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Getting the Driver Verifier Manager Open, the Easy Way
 
  Driver Verifier Manager is a powerful tool for detecting issues with driver software. Hopefully one of the above methods has helped you open the tool on your system.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -118,8 +117,22 @@ To open Driver Verifier Manager using Task Manager, do the following:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-scaling-youtube-influence-a-comprerancial-guide-to-creator-studios-potential/"><u>[New] 2024 Approved Scaling YouTube Influence A Comprerancial Guide to Creator Studio's Potential</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-the-leading-virtual-reality-titles-for-your-smartphone/"><u>[New] In 2024, The Leading Virtual Reality Titles for Your Smartphone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-advanced-photography-iphones-leading-object-cutting-tools-revealed/"><u>[Updated] Advanced Photography IPhone's Leading Object Cutting Tools Revealed</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-action-sequence-showdown-hero5-black-versus-hero4-silver/"><u>[Updated] In 2024, Action Sequence Showdown Hero5 Black Versus Hero4 Silver</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-virtualboxs-0x80004005-failure-on-win/"><u>Dealing with VirtualBox's 0X80004005 Failure on Win</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/exporting-mp3-files-from-watched-facebook-vids-for-2024/"><u>Exporting MP3 Files From Watched Facebook Vids for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723000707111-fifa-22-pc-stability-problem-solved-end-game-lag-and-crashes-now/"><u>FIFA 22 PC Stability Problem Solved: End Game Lag and Crashes Now!</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-consistent-sound-quality-tips-for-balancing-mp4-audio/"><u>Mastering Consistent Sound Quality: Tips for Balancing MP4 Audio</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-secure-boot-settings-for-enhanced-vm-security/"><u>Mastering Secure Boot Settings for Enhanced VM Security</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mastering-visual-communication-title-and-caption-overlays-on-video-clips-via-photos-for-2024/"><u>Mastering Visual Communication Title & Caption Overlays on Video Clips via Photos for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/mobile-device-interaction-with-server-storage/"><u>Mobile Device Interaction with Server Storage</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-unfreezing-stuck-spotify-app-in-win11-pcs/"><u>Quick Guide: Unfreezing Stuck Spotify App in Win11 PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-boost-utorrent-downloads-in-windows/"><u>Strategies to Boost uTorrent Downloads in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-the-troubled-waters-of-outlooks-winerror-x/"><u>Tackling the Troubled Waters of Outlook's WinError X</u></a></li>
+<li><a href="https://windows11.techidaily.com/tutorial-switching-to-quake-with-terminal/"><u>Tutorial: Switching to Quake with Terminal</u></a></li>
+</ul></div>
 

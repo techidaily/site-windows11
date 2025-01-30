@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Windows 11'S Update Error 0X800f0922
-date: 2024-08-15T15:24:04.479Z
-updated: 2024-08-16T15:24:04.479Z
+date: 2025-01-28T07:25:22.094Z
+updated: 2025-01-30T05:59:28.194Z
 tags:
   - windows10
   - windows11
@@ -28,16 +28,10 @@ thumbnail: https://thmb.techidaily.com/e90a41374ab8bcea029035e600ef5fff009cee16e
 
  The error mainly appears when important Windows update services are not running in the background, or your computer doesn't have enough space to install the update. Also, corruption in the SoftwareDistribution folder can be a prime reason behind the error.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Restart Your Device
 
  Whenever you face any Windows issues, including the update error 0x800f0922, your first port of call should be to restart the computer. Restarting the computer will reset all the memory caches and processes, which might be the reason behind the error.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Use the Windows Update Troubleshooter
 
 [Windows 11 features lots of integrated troubleshooters](https://www.makeuseof.com/windows-11-troubleshooters/) which come in handy in different scenarios. To get rid of update errors, you can use the Windows Update troubleshooter.
@@ -63,9 +57,6 @@ thumbnail: https://thmb.techidaily.com/e90a41374ab8bcea029035e600ef5fff009cee16e
 2. Click the drop-down icon, select the drive containing Windows 11 OS, and then click**OK.**
 3. Click the**Clean up system files** button.  
 ![Clean up system files option in Disk Cleanup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/clean-up-system-files.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Under the**Files to delete** section, select the files you want to delete and click**OK.**  
 ![OK button in the Disk Cleanup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ok-button.jpg)
 5. Click the**Delete Files** option in the prompt that crops up.
@@ -77,8 +68,9 @@ thumbnail: https://thmb.techidaily.com/e90a41374ab8bcea029035e600ef5fff009cee16e
  There's no harm in deleting this folder, but make sure you only do it when you have no plans to return to Windows 10.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Reset the Windows Update Components
 
  The update errors often result due to corruption in the Windows Update components. To detect and remove the corruption, you will have to reset the Windows Update components. Here's how:
@@ -102,8 +94,9 @@ net start cryptsvc`
  After that, restart your computer and check whether you can update Windows 11 again.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Change the Status of Important Services
 
  There are certain Windows services that must be running in the background if you want to update Windows. These services are**Windows event collector** ,**App readiness** ,**App optimization** , and**Geolocalization** .
@@ -115,9 +108,18 @@ net start cryptsvc`
 3. Click the drop-down icon next to the**Startup type** and choose**Automatic** from the list.  
 ![Automatic option in the Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/automatic-option.jpg)
 4. Click the**Start** button under the**Service status** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click**Apply** \>**OK** to save the changes.
 
 Next, repeat the above steps for other mentioned services as well.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Manually Download and Install Updates
 
@@ -133,22 +135,20 @@ Next, repeat the above steps for other mentioned services as well.
  Next, open the location where you have downloaded the update package and double-click on it to begin the installation.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Update Windows 11 Again With Ease
 
  Update errors are very common and appear when an important update file is damaged or missing. You must quickly address and fix the update errors, as they can lead to serious issues if left unattended.
 
  The update error 0x800f0922 mainly appears when you try to update Windows 11 to KB5012643\. Luckily, you can quickly troubleshoot this error by following the solutions above.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -157,8 +157,22 @@ Next, repeat the above steps for other mentioned services as well.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-speeding-up-tiktoks-simple-techniques-for-faster-videos/"><u>[Updated] 2024 Approved Speeding Up TikToks Simple Techniques for Faster Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-achieve-high-rankings-on-youtube-with-top-seo-tips-1-11/"><u>[Updated] Achieve High Rankings on YouTube with Top SEO Tips (1-11)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/advanced-ocr-technology-amplifies-workflow-at-premier-construction-data-company/"><u>Advanced OCR Technology Amplifies Workflow at Premier Construction Data Company</u></a></li>
+<li><a href="https://fox-links.techidaily.com/adventure-awaits-in-these-top-5-samsung-gear-vr-titles-for-2024/"><u>Adventure Awaits in These Top 5 Samsung Gear VR Titles for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-ease-of-bouncie-connect-for-your-vehicles-comprehensive-product-analysis/"><u>Discover the Ease of Bouncie Connect for Your Vehicles: Comprehensive Product Analysis</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-error-2e-to-enable-windows-update/"><u>Fixing Error 2E to Enable Windows Update</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-requested-operation-requires-elevation-error-740-on-windows-11-and-11/"><u>How to Fix the “Requested Operation Requires Elevation” Error 740 on Windows 11 & 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-collection-of-10-advanced-fcp-tools/"><u>In 2024, The Ultimate Collection of 10 Advanced FCP Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/no-apps-needed-windows-11-note-hacks/"><u>No Apps Needed: Windows 11 Note Hacks</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-directx-install-failures-on-pcs/"><u>Resolving DirectX Install Failures on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-accuracy-fixed-discord-games-status-errors-windows/"><u>Restoring Accuracy: Fixed Discord Games Status Errors (Windows)</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-invisible-additional-screen/"><u>Tackling Invisible Additional Screen</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/ultimate-racing-game-anthology-the-top-five-for-2024/"><u>Ultimate Racing Game Anthology The Top Five for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-mastering-audio-recording-and-integrating-narration-into-video-projects/"><u>Updated 2024 Approved Mastering Audio Recording and Integrating Narration Into Video Projects</u></a></li>
+<li><a href="https://win-blog.techidaily.com/witcher-3-will-not-start-expert-tips-for-repairing-and-restarting-successfully/"><u>Witcher 3 Will Not Start? Expert Tips For Repairing And Restarting Successfully</u></a></li>
+</ul></div>
 

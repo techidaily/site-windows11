@@ -1,7 +1,7 @@
 ---
 title: The Essential Guide to Clearing Restrictions via PowerShell
-date: 2025-01-16T20:19:22.575Z
-updated: 2025-01-22T19:44:43.489Z
+date: 2025-01-24T06:48:05.133Z
+updated: 2025-01-29T21:52:44.122Z
 tags:
   - windows10
   - windows11
@@ -23,15 +23,15 @@ thumbnail: https://thmb.techidaily.com/029b0eb85077c27446243e8d1c815878a76764b76
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Do I Unblock Multiple Files Using PowerShell on Windows?
 
  You can easily unblock a file by right-clicking on it and going to**Properties** — If you're on Windows 11, you'll need to click**Show more options** first before you can see the**Properties** option in the context menu. And once you're there, select the**General** tab and tick**Unblock** at the bottom in the**Security** section.
 
 ![unblocking a file in Properties on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/unblock-file-properties-windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  But what if you have more than one file you need to unblock? Doing this one by one can get tedious. Alternatively, you can execute a single PowerShell command to unblock multiple files in a directory. Here is the command structure you need to use:
 
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/029b0eb85077c27446243e8d1c815878a76764b76
 ![copying file path on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/copy-as-path-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  With the file path handy, follow the instructions below to use the unblock command in PowerShell:
@@ -60,13 +60,13 @@ thumbnail: https://thmb.techidaily.com/029b0eb85077c27446243e8d1c815878a76764b76
 ![confirming files to unblock in PowerShell on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/power-shell-unblock-files-confirm.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There’s a way you can tell Windows to always trust files you download from the internet. To do that, please read our guide on[how to stop Windows 10 from blocking your downloaded files](https://www.makeuseof.com/stop-windows-10-from-blocking-your-downloaded-files/) . The instructions in the tutorial use the Registry Editor and Local Group Policy Editor, so they should also work on Windows 11.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Now You Know How to Unblock Files You Know Are Safe
@@ -88,17 +88,19 @@ thumbnail: https://thmb.techidaily.com/029b0eb85077c27446243e8d1c815878a76764b76
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-affordable-high-quality-asmr-recording-devices-revealed/"><u>[New] 2024 Approved Affordable, High-Quality ASMR Recording Devices Revealed</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-upload-like-a-pro-the-ultimate-guide-to-photo-videos-and-online-success/"><u>[New] Upload Like a Pro The Ultimate Guide to Photo Videos and Online Success</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-astral-adventures-with-your-luxury-sj4000-essential-accompaniments/"><u>[Updated] Astral Adventures with Your Luxury SJ4000 - Essential Accompaniments</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-streamline-sound-capture-using-audacity-efficiently-on-a-mac/"><u>[Updated] Streamline Sound Capture Using Audacity Efficiently on a Mac</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-secrets-of-gopro-chrono-photography/"><u>2024 Approved Unveiling the Secrets of GoPro Chrono Photography</u></a></li>
-<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-vivo-x100-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-voice-typing-malfunction-error-code-0x80049dd3-on-windows-11/"><u>Fixing Voice Typing Malfunction (Error Code: 0X80049DD3) on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastery-guide-to-inspecting-windows-11-history/"><u>Mastery Guide to Inspecting Windows 11 History</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-past-windows-terminal-lockup/"><u>Navigating Past Windows Terminal Lockup</u></a></li>
-<li><a href="https://windows11.techidaily.com/purge-your-pcs-defender-footprint-with-easy-steps/"><u>Purge Your PC’s Defender Footprint with Easy Steps</u></a></li>
-<li><a href="https://fox-that.techidaily.com/reviving-your-iphones-access-to-aol-mail-top-six-troubleshooting-tips/"><u>Reviving Your iPhone's Access to AOL Mail: Top Six Troubleshooting Tips</u></a></li>
-<li><a href="https://windows11.techidaily.com/turn-onoff-windows-key-like-a-pro/"><u>Turn On/Off Windows Key Like a Pro</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-mastering-unboxing-expert-tips-and-tricks-for-2024/"><u>[New] Mastering Unboxing Expert Tips and Tricks for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/4k-lg-display-assessment-the-ultimate-31mu97-b/"><u>4K LG Display Assessment The Ultimate 31MU97-B</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boost-internet-speed-on-mac-the-ultimate-guide-to-flushing-dns-cache/"><u>Boost Internet Speed on Mac: The Ultimate Guide to Flushing DNS Cache</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/easy-methods-for-saving-instagram-footage-to-your-device-windows-mac-iphone-or-android/"><u>Easy Methods for Saving Instagram Footage to Your Device - Windows, Mac, iPhone, or Android</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/expert-iphone-photography-using-hdr-for-2024/"><u>Expert iPhone Photography Using HDR for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-errors-in-windows-discord-query-system/"><u>Fixing Errors in Windows' Discord Query System</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-automatically-shut-down-a-windows-11-and-11-pc-when-its-idle/"><u>How to Automatically Shut Down a Windows 11 and 11 PC When It's Idle</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-htc-u23-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from HTC U23 Pro to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-balancing-act-lowering-audio-levels/"><u>In 2024, Balancing Act Lowering Audio Levels</u></a></li>
+<li><a href="https://windows11.techidaily.com/innovative-ways-to-generate-numerous-folders-on-modern-windows-pcs/"><u>Innovative Ways to Generate Numerous Folders on Modern Windows PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722975347403-lenovo-ideapad-100-find-and-install-the-latest-drivers-for-windows-10-systems-easily/"><u>Lenovo IdeaPad 100 - Find and Install the Latest Drivers for Windows 10 Systems Easily</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-inability-to-add-columns-in-ms-excel-windows/"><u>Troubleshooting: Inability to Add Columns in MS Excel (Windows)</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-fix-for-error-afc-windows-11-camera-app-crash/"><u>Unveiling Fix for Error AFC: Windows 11 Camera App Crash</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/your-guide-to-building-stylish-snapchat-filters-for-2024/"><u>Your Guide to Building Stylish Snapchat Filters for 2024</u></a></li>
 </ul></div>
 

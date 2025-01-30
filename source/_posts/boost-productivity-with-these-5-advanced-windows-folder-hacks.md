@@ -1,7 +1,7 @@
 ---
 title: Boost Productivity with These 5 Advanced Windows Folder Hacks
-date: 2024-08-15T15:22:43.906Z
-updated: 2024-08-16T15:22:43.906Z
+date: 2025-01-29T08:12:23.174Z
+updated: 2025-01-30T07:20:05.072Z
 tags:
   - windows10
   - windows11
@@ -30,9 +30,19 @@ thumbnail: https://thmb.techidaily.com/33d2c913be55d31e549acb89b4370208c20960b47
 2. The name field of the folder will disappear—actually, it's still there but becomes invisible.  
 ![Folder on Desktop With Name Field Invisible](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/name-field-of-folder-invisible-1.jpg)
 3. Then make the folder invisible too. **Right-click** the folder and choose **Properties** from the menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. In **Properties**, select the **Customize** tab. Then under **Folder icons**, select **Change icon**.  
 ![Select Change Icon In Customize Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/change-icon-in-customize-tab.jpg)
 5. In the **Change Icon for Folder** window scroll to the right with the arrow key to reach a blank space. This blank space is a blank icon—you will know when you select it. Then click on **OK**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Blank Space Selected As Folder Icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/select-blank-space-as-folder-icon.jpg)
 6. Back in the **Customize** tab, you will see no icon under **Folder icon**. Click **Apply** and then **OK**.  
 ![Folder Icon Not Visible in Customize Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/folder-icon-not-visible.jpg)
@@ -45,9 +55,6 @@ thumbnail: https://thmb.techidaily.com/33d2c913be55d31e549acb89b4370208c20960b47
 
  And if you want to name it, right-click the folder and select **Rename** to make the name field visible.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Rename Multiple Folders Together
 
  You don't need to click each folder name field and type the names to name or rename multiple folders together. Use the following method that works well within a folder with subfolders or in File Explorer:
@@ -57,11 +64,16 @@ thumbnail: https://thmb.techidaily.com/33d2c913be55d31e549acb89b4370208c20960b47
 ![Multiple Folders Being Renamed Together](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/rename-multiple-folders-together.jpg)
 3. When all the folders are named, click on **enter**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This way, you can name several folders together—quickly and easily.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Duplicate a Folder Window
 
  This simple tip will save time and enhance your efficiency.
@@ -72,9 +84,6 @@ thumbnail: https://thmb.techidaily.com/33d2c913be55d31e549acb89b4370208c20960b47
 
  Now with two folder windows, you can move and navigate easily between subfolders and files.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Change Folder Size With the Mouse
 
  You'll find this tip handy if you use a desktop PC with a mouse or a mouse with your laptop.
@@ -82,9 +91,6 @@ thumbnail: https://thmb.techidaily.com/33d2c913be55d31e549acb89b4370208c20960b47
 1. Left-click with your mouse on the desktop, in File Explorer, or within a folder.
 2. Press and hold the **ctrl** key. Then use your **mouse scroll wheel** to change the size of folders on the desktop or subfolders within a folder.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Find Hidden Folders You Forgot About
 
  Your PC would have thousands of files and folders. And there may be times when you can't find some folders because you may have hidden them earlier and forgot about them.
@@ -95,19 +101,21 @@ thumbnail: https://thmb.techidaily.com/33d2c913be55d31e549acb89b4370208c20960b47
 2. Click the **View** tab.
 3. Then click **Options** and then **Change folder and search options**.  
 ![Select Change Folder and Search Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/change-folder-options-file-explorer.jpg)
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. In **Folder Options**, select the **View** tab.
 5. Under **Advanced settings**, turn on the option to **Show hidden files, folders, and drives**. Then click **OK**.  
 ![Select Show Hidden Files, Folders, and Drives](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/select-show-hidden-folders.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On Windows 11 and new Windows 10 versions, click the **View** tab in **File Explorer**.
 
 ![Hidden Items Checkbox Ticked in View Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/tick-hidden-items-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then tick the checkbox next to **Hidden items** to make the hidden files and folders visible. You can then access the folders you are looking for.
 
@@ -119,8 +127,6 @@ thumbnail: https://thmb.techidaily.com/33d2c913be55d31e549acb89b4370208c20960b47
 
  Surely you'd like to know ways to make working with folders easier and better. So here are a few quick folder tips and tricks that make things easy and fun.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -128,5 +134,20 @@ thumbnail: https://thmb.techidaily.com/33d2c913be55d31e549acb89b4370208c20960b47
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-essential-image-collections-the-best-macbook-wallpaper-packs/"><u>[New] 2024 Approved Essential Image Collections The Best MacBook Wallpaper Packs</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-total-circles-capture-systems/"><u>[New] In 2024, Total Circles Capture Systems</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-the-ultimate-guide-to-hash-tagging-for-brand-success-on-fb/"><u>[Updated] In 2024, The Ultimate Guide to Hash Tagging for Brand Success on FB</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-navigating-legalities-in-skype-call-audio-preservation/"><u>[Updated] Navigating Legalities in Skype Call Audio Preservation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discovering-the-future-of-chat-on-snapchat-and-beyond/"><u>Discovering the Future of Chat on Snapchat & Beyond</u></a></li>
+<li><a href="https://windows11.techidaily.com/harness-the-power-of-windows-11-expert-level-docx-to-pdf-processes/"><u>Harness the Power of Windows 11: Expert-Level DOCX to PDF Processes</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-demystifying-telegram-web-usage-practical-tips/"><u>In 2024, Demystifying Telegram Web Usage Practical Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/making-windows-11-quieter-stop-non-user-apps/"><u>Making Windows 11 Quieter: Stop Non-User Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixes-for-spotify-not-replying-on-pcs-with-windows-11/"><u>Quick Fixes for Spotify Not Replying on PCs with Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/re-establish-missing-5ghz-network-link-on-windows-11-successfully/"><u>Re-Establish Missing 5GHz Network Link on Windows 11 Successfully</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/resolving-windows-8-issues-a-comprehensive-guide-to-troubleshooting-and-solutions/"><u>Resolving Windows 8 Issues: A Comprehensive Guide to Troubleshooting and Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/system-breakthroughs-overcoming-os-barriers-to-photoscape/"><u>System Breakthroughs: Overcoming OS Barriers to Photoscape</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-new-era-of-maritime-security-artificial-intelligence-tackles-illicit-hashish-trade-by-pirates-zdnet/"><u>The New Era of Maritime Security: Artificial Intelligence Tackles Illicit Hashish Trade by Pirates | ZDNET</u></a></li>
+</ul></div>
 

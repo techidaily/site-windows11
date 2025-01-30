@@ -1,7 +1,7 @@
 ---
 title: Addressing Faulty Display Settings via Nonfunctional Fn Button in Windows 11
-date: 2024-08-15T15:23:02.497Z
-updated: 2024-08-16T15:23:02.497Z
+date: 2025-01-23T19:21:33.954Z
+updated: 2025-01-30T04:53:50.331Z
 tags:
   - windows10
   - windows11
@@ -37,9 +37,9 @@ thumbnail: https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4
  The function key may not work if it is disabled on your keyboard. To make sure it is enabled, press the**Fn + Esc** keys simultaneously. Doing this will toggle the function lock on and off. If it was disabled, enabling it should help fix the brightness key not working issue.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Run the Hardware and Devices Troubleshooter
 
  The Hardware and Devices Troubleshooter is the next step to try if the above solutions weren't enough. This tool can detect and fix any hardware and device issues on your computer, including the problem with the keyboard. To run the troubleshooter, do the following:
@@ -59,12 +59,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. In the Settings menu, click**System > Troubleshoot** .
 3. Click**Other troubleshooters** on the next page.  
 ![Run the Keyboard Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-keyboard-troubleshooter.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Scroll down to locate the Keyboard and then click**Run** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you complete the above steps, try using the brightness function key again to see if the issue is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Update the Keyboard Driver
 
@@ -77,10 +82,12 @@ To update the keyboard driver, follow these steps:
 3. Expand**Keyboards** , then right-click on your current keyboard driver and select**Update driver** .  
 ![Update the Keyboard driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/update-the-keyboard-driver.jpg)
 4. Next, click**Search automatically for drivers** .  
-![Search automatically for drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/search-automatically-for-drivers.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Search automatically for drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/search-automatically-for-drivers.jpg)
 
  Follow the on-screen instructions to complete the process. Once you've done this, restart your computer and check if the issue is resolved.
 
@@ -89,12 +96,13 @@ To update the keyboard driver, follow these steps:
 1. Open Device Manager and expand the**Keyboards** section.
 2. Right-click on your keyboard driver and select**Uninstall device** .  
 ![Uninstall device in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-device-in-device-manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click**Uninstall** again to confirm and follow the on-screen instructions.
 
  After performing the above steps, restart your computer to reinstall the drivers. Once you power up again, check if the function key works now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Turn Off the Filter Keys
 
@@ -107,16 +115,14 @@ To update the keyboard driver, follow these steps:
 3. Then click**Ease of Access Center** and select**Make the keyboard easier to use** .
 4. Uncheck the box next to**Turn on Filter Keys** .  
 ![Turn on Filter Keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-on-filter-keys.jpg)
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 5. Click**Apply** and then**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now check if your keyboard is working properly.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Scan for Malicious Programs
 
  If you downloaded any suspicious file or program, then the chances are that your keyboard is experiencing interference due to malware, spyware, or other malicious programs.
@@ -133,21 +139,15 @@ Now check if your keyboard is working properly.
 
  If you find that your keyboard is the issue, then it’s time to replace it with a new one or get it repaired.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Make Use of the Function Key Again on Windows
 
  It's important to keep your device's brightness settings adjusted to a comfortable level. However, if your brightness function key is not working, here are some quick solutions to make your computer's function keys work again. All in all, these are simple yet powerful tricks for restoring malfunctioning function keys.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -156,8 +156,24 @@ Now check if your keyboard is working properly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-easy-to-follow-plan-for-5-effective-windows-11-audio-techniques/"><u>[New] Easy-to-Follow Plan for 5 Effective Windows 11 Audio Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-discovering-potential-youtubes-role-in-modern-education-strategies/"><u>[Updated] 2024 Approved Discovering Potential YouTube's Role in Modern Education Strategies</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-maximizing-social-sharing-uploading-360-degree-images-on-mobile-platforms/"><u>[Updated] Maximizing Social Sharing Uploading 360-Degree Images on Mobile Platforms</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-honor-v-purse-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/approach-recall-the-definitions-and-symptoms-of-reversible-and-irreversible-pulpitis/"><u>Approach: Recall the Definitions and Symptoms of Reversible and Irreversible Pulpitis.</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/easy-methods-how-to-transfer-pictures-from-apple-iphone-13-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Easy Methods How To Transfer Pictures From Apple iPhone 13 to PC | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-unresponsive-menu-functions-on-windows-11/"><u>Fixing Unresponsive Menu Functions on Windows 11</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/free-mp3-downloads-top-36-must-hear-turkish-tracks/"><u>Free MP3 Downloads: Top 36 Must-Hear Turkish Tracks</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-addressing-connect-your-device-bluetooth-issue/"><u>Guide to Addressing Connect Your Device Bluetooth Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-clear-virtual-cache-in-windows-11/"><u>Guide to Clear Virtual Cache in Windows 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-infinix-zero-5g-2023-turbo-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Infinix Zero 5G 2023 Turbo Device</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-syma-s111g-remote-control-helicopter-a-wallet-friendly-option-for-indoor-flight-enthusiasts/"><u>In-Depth Analysis of the Syma S111G Remote Control Helicopter: A Wallet-Friendly Option for Indoor Flight Enthusiasts</u></a></li>
+<li><a href="https://windows11.techidaily.com/is-asuss-steam-deck-competitor-rog-ally-game-changer/"><u>Is ASUS's Steam Deck Competitor ROG Ally Game-Changer?</u></a></li>
+<li><a href="https://windows11.techidaily.com/saving-your-clean-sweep-fixing-win11-ccleaner/"><u>Saving Your Clean Sweep: Fixing Win11 CCleaner</u></a></li>
+<li><a href="https://windows11.techidaily.com/secrets-of-opening-windows-disks-win-1011-edition/"><u>Secrets of Opening Windows Disks: Win 10/11 Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/slash-or-swell-the-size-of-taskbar-win11/"><u>Slash or Swell the Size of Taskbar Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-fix-guide-for-windows-restore-issues-13-strategies/"><u>The Ultimate Fix Guide for Windows Restore Issues (13 Strategies)</u></a></li>
+</ul></div>
 

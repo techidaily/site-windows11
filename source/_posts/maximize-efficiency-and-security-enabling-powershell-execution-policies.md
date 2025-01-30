@@ -1,7 +1,7 @@
 ---
 title: "Maximize Efficiency and Security: Enabling PowerShell Execution Policies"
-date: 2025-01-18T16:36:05.838Z
-updated: 2025-01-22T18:17:01.976Z
+date: 2025-01-28T08:21:13.859Z
+updated: 2025-01-30T05:01:37.357Z
 tags:
   - windows10
   - windows11
@@ -25,16 +25,12 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Check Your Existing Execution Policy
 
 ![Powershell set execution policy undefined](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/powershell-set-execcution-policy-undefined.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can use a PowerShell cmdlet to get your current execution policy. Knowing your current execution policy is necessary to know if you need a policy change or not.
@@ -50,6 +46,10 @@ To get your current execution policy for the current user:
 
  You’ll need to change the execution policy to RemoteSigned to run local scripts without the error. You can change the execution policy from the Settings app and PowerShell.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable PowerShell Execution Policy Using the Settings App
 
  You can change and set the PowerShell execution policy to RemoteSigned using the Settings app. All you have to do is tweak the PowerShell settings in the developers' section to change the execution policy to enable PowerShell script execution.
@@ -62,10 +62,6 @@ To change execution policy using Settings:
 ![windows 11 for developers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-for-developers.jpg)
 4. Click to expand the**PowerShell** section.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Toggle the switch to **change the execution policy to allow local PowerShell scripts to run without signing - Require signing for remote scripts** .  
 ![enable powershell script execution windows 11 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-powershell-script-execution-windows-11-settings.jpg)
 6. Once done, open PowerShell, type get**executionpolicy,** and press**Enter** . The execution policy for the current user is now set to**RemoteSigned.**
@@ -75,6 +71,10 @@ To change execution policy using Settings:
 ## How to Allow Scripts to Run in PowerShell using PowerShell
 
 ![Powershell set execcution policy remotesigned](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/powershell-set-execcution-policy-remotesigned.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can use a[PowerShell cmdlet](https://www.makeuseof.com/windows-powershell-commands-cmdlets/) to set the execution policy to RemoteSigned. The command-line interface makes it easy to change execution policy quickly without using the Settings app.
 
@@ -90,10 +90,6 @@ To change the execution policy using PowerShell:
 `Set-ExecutionPolicy RemoteSgined -Scope CurrentUser`
 5. Replace**CurrentUser** in the above command with other users (Scope) as per your requirement.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Remove Script Execution Policy Using PowerShell
 
 ![set-execution-policy-undefined](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-execution-polify-undefined.jpg)
@@ -108,6 +104,10 @@ To disable script execution using PowerShell:
 3. The above command will set the execution policy default (undefined) for all the users. If you want to disable script execution for a specific scope, use the following command:  
 `Set-ExecutionPolicy undefined -Scope CurrentUser`
 4. The above command will disable script execution for**CurrentUser** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Understanding Execution Policies and Scopes
 
@@ -126,7 +126,7 @@ To disable script execution using PowerShell:
 | Unrestricted     | Allow unsigned script execution with a warning for the scripts downloaded from the internet.                   |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Execution Policy Scope
@@ -164,18 +164,18 @@ The below table briefly explains all the execution policy scopes:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/transformez-et-preservez-vos-photos-en-haute-definition-avec-la-technologie-winxvideo-ai/"><u>« Transformez Et Préservez Vos Photos en Haute Définition Avec La Technologie Winxvideo AI »</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-bridging-the-gap-between-classic-and-contemporary-videos/"><u>[Updated] In 2024, Bridging the Gap Between Classic and Contemporary Videos</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-guide-to-updating-your-toshiba-printer-and-scanner-drivers-on-windows/"><u>Easy Guide to Updating Your Toshiba Printer and Scanner Drivers on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-advice-to-tackle-ms-store-hurdle-win1011s-error-0x0/"><u>Expert Advice to Tackle MS Store Hurdle: Win10/11's Error 0X0</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-ai-is-set-to-revolutionize-iot-integration-according-to-abbyy-experts/"><u>How AI Is Set to Revolutionize IoT Integration, According to ABBYY Experts</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-calendar-on-iphone-14-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover lost Calendar on iPhone 14 Plus | Stellar</u></a></li>
-<li><a href="https://windows11.techidaily.com/instantaneous-access-to-the-calculator-in-windows-11-os/"><u>Instantaneous Access to the Calculator in Windows 11 OS</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximize-household-outputs-a-sixfold-guide-to-leveraging-chatgpt/"><u>Maximize Household Outputs: A Sixfold Guide to Leveraging ChatGPT</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/navigating-the-needle-speed-of-videos-in-snapchat/"><u>Navigating the Needle-Speed of Videos in Snapchat</u></a></li>
-<li><a href="https://windows11.techidaily.com/revolutionize-folder-management-selective-move-on-windows-11/"><u>Revolutionize Folder Management: Selective Move on Windows 11</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-tier-performance-meets-savings-with-the-tp-link-archer-a/"><u>Top-Tier Performance Meets Savings with the TP-Link Archer A</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-gpo-details-using-gpresult/"><u>Unveiling GPO Details Using GPResult</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-configurations-simplified/"><u>Windows 11 Configurations Simplified</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-the-key-to-smooth-screencasting-a-macos-guide/"><u>[New] 2024 Approved The Key to Smooth Screencasting A MacOS Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-navigating-legal-aspects-of-recording-whatsapp-talks/"><u>[New] In 2024, Navigating Legal Aspects of Recording WhatsApp Talks</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-a-producers-path-to-procuring-cost-free-tunes/"><u>[Updated] 2024 Approved A Producer's Path to Procuring Cost-Free Tunes</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-music-video-shoot-estimated-financial-outlay-for-2024/"><u>[Updated] Music Video Shoot - Estimated Financial Outlay for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/download-directx-direct3d-fast-simple-and-speedy-solution/"><u>Download DirectX Direct3D Fast - Simple and Speedy Solution</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-tips-for-opening-wordpad-on-windows-os/"><u>Essential Tips for Opening WordPad on Windows OS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/gratuit-wegomschrijvingen-van-tiff-naar-jpeg-onlinereis-met-movavi/"><u>Gratuit Wegomschrijvingen Van TIFF Naar JPEG - Onlinereis Met Movavi</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-on-eliminating-windows-error-0x800700e1/"><u>Guide on Eliminating Windows Error 0X800700E1</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-cs2-optimization-strategies-to-eliminate-lag-and-increase-frames-per-second-fps/"><u>Mastering CS2 Optimization: Strategies to Eliminate Lag and Increase Frames Per Second (FPS)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/professional-audio-blending-mastering-the-art-of-combining-tracks-using-top-rated-no-cost-music-mixers/"><u>Professional Audio Blending: Mastering the Art of Combining Tracks Using Top-Rated, No-Cost Music Mixers</u></a></li>
+<li><a href="https://windows11.techidaily.com/quickly-locate-new-windows-files-and-folders/"><u>Quickly Locate New Windows Files and Folders</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-file-corruption-mystery-in-windows-11/"><u>Unraveling the File Corruption Mystery in Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Three Tech-Savvy Tactics to Remove Microsoft Store
-date: 2025-01-21T20:24:13.870Z
-updated: 2025-01-22T17:48:45.910Z
+date: 2025-01-26T06:50:25.423Z
+updated: 2025-01-29T19:29:28.644Z
 tags:
   - windows10
   - windows11
@@ -25,18 +25,26 @@ thumbnail: https://thmb.techidaily.com/87eef5cf587ac33a0581d68baadab4d33ca4c311a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Should You Uninstall the Microsoft Store App?
 
  Microsoft Store houses all the useful and popular applications for Windows devices. Moreover, it guarantees safe and malware-free application downloads. But if the app fails to start or doesn’t work properly, removing it makes sense.
 
  But don’t worry. You can remove the app and then reinstall it if you want. Reinstallation can fix persistent issues with the current version of the Microsoft Store app. It will remove the current app installation and all its related files and corrupt data. After that, you can reinstall the Microsoft app with a single command.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Uninstall Microsoft Store App From Windows 11
 
  You can remove the Microsoft Store app from Windows 11 using the winget tool and run it using the command prompt. In addition, you can use the PowerShell cmdlet to remove the Microsoft Store application package from your system or use a batch file.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Using Winget
@@ -51,14 +59,6 @@ winget uninstall Microsoft.WindowsStore_8wekyb3d8bb
 5. Press enter to execute the command and wait for it to execute successfully.  
 ![Uninstall Microsoft Store App using winget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-microsoft-store-app-using-winget.jpg)
 6. Type**exit** in the command prompt window and press enter to close it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Using PowerShell
 
@@ -76,7 +76,7 @@ winget uninstall Microsoft.WindowsStore_8wekyb3d8bb
 4. Click on the**Save** button. Close the Notepad window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Press**Win + D** to switch to the desktop again. Right-click on the batch file and select the**Run as administrator** option from the context menu.
@@ -84,7 +84,7 @@ winget uninstall Microsoft.WindowsStore_8wekyb3d8bb
 7. Open the Start menu and search for Microsoft Store. You won’t find any matching app on your system.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Easily Remove the Microsoft Store From Windows
@@ -106,24 +106,24 @@ winget uninstall Microsoft.WindowsStore_8wekyb3d8bb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-compilation-of-ultimate-gratuitous-lut-downloads-for-2024/"><u>[New] Compilation of Ultimate, Gratuitous LUT Downloads for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-google-meet-username-transformation-guide/"><u>[New] Google Meet Username Transformation Guide</u></a></li>
-<li><a href="https://fox-links.techidaily.com/best-3d-model-suites-for-animation-artists/"><u>Best 3D Model Suites for Animation Artists</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/comparing-refs-and-ntfs-advantages-disadvantages-and-key-distinctions/"><u>Comparing ReFS and NTFS: Advantages, Disadvantages, and Key Distinctions</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/experience-perfection-with-apples-latest-innovation-series-4-unleashed/"><u>Experience Perfection with Apple's Latest Innovation: Series 4 Unleashed</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-to-reversing-customized-search-in-windows-11/"><u>Guide to Reversing Customized Search in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-stop-the-license-will-expire-warning-in-win11/"><u>How to Stop the License Will Expire Warning in Win11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-reno-8t-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Reno 8T 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/instant-notify-shutdown-in-windows-11/"><u>Instant Notify Shutdown in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/methods-to-retrieve-unseen-razer-devices-on-windows-11/"><u>Methods to Retrieve Unseen Razer Devices on Windows 11</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-what-is-an-ai-video-generator/"><u>New What Is an AI Video Generator?</u></a></li>
-<li><a href="https://windows11.techidaily.com/priority-accessibility-attach-google-mail-taskbar-ready/"><u>Priority Accessibility: Attach Google Mail Taskbar-Ready</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-steps-to-resolve-steams-internet-connectivity/"><u>Quick Steps to Resolve Steam's Internet Connectivity</u></a></li>
-<li><a href="https://windows11.techidaily.com/securely-expanding-windows-volume-no-deletion-compatible/"><u>Securely Expanding Windows Volume, No Deletion Compatible</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-repair-corrupt-excel-file-2000-stellar-by-stellar-guide/"><u>Solutions to Repair Corrupt Excel File 2000 | Stellar</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/step-by-step-tutorial-enhancing-your-hp-screen-recordings/"><u>Step-by-Step Tutorial Enhancing Your HP Screen Recordings</u></a></li>
-<li><a href="https://windows11.techidaily.com/system-snooze-button-unlocking-windows-top-8-resets/"><u>System Snooze Button: Unlocking Windows' Top 8 Resets</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshoot-missing-camera-in-device-manager/"><u>Troubleshoot Missing Camera In Device Manager</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/yl-computings-ultimate-troubleshooting-techniques-for-a-damaged-notebook-screen-fixes/"><u>YL Computing's Ultimate Troubleshooting Techniques for a Damaged Notebook Screen Fixes</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-the-ultimate-guide-to-earning-through-youtubing-enabling-monetization-on-mobile-devices/"><u>[Updated] 2024 Approved The Ultimate Guide to Earning Through YouTubing Enabling Monetization on Mobile Devices</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-discovering-top-notch-hdr-cameras-an-expedition/"><u>[Updated] Discovering Top-Notch HDR Cameras An Expedition</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-how-to-make-a-fortune-on-reddit-without-experience-top-13-methods/"><u>[Updated] In 2024, How to Make a Fortune on Reddit Without Experience - Top 13 Methods</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-the-role-of-workspace-dynamics-in-employee-output/"><u>[Updated] In 2024, The Role of Workspace Dynamics in Employee Output</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-masterful-tools-for-youtube-text-extraction-online-for-2024/"><u>[Updated] Masterful Tools for YouTube Text Extraction Online for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/all-you-need-to-know-about-the-upcoming-samsung-galaxy-z-flip-6-cost-and-exclusive-specs/"><u>All You Need to Know About the Upcoming Samsung Galaxy Z Flip 6: Cost and Exclusive Specs!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-huion-h420-functionality-on-windows-os/"><u>Effortless Huion H420 Functionality on Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-manage-smartscreen-on-modern-windows-systems/"><u>How to Manage SmartScreen on Modern Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-revert-customized-windows-settings-after-reboot/"><u>How to Revert Customized Windows Settings After Reboot</u></a></li>
+<li><a href="https://windows11.techidaily.com/ideal-weather-utilities-for-w10w11/"><u>Ideal Weather Utilities for W10/W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/improving-asana-load-times-on-your-pc/"><u>Improving Asana Load Times on Your PC</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/iphone-guide-to-achieving-stunning-hdr-photos-for-2024/"><u>IPhone Guide to Achieving Stunning HDR Photos for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/lifecast-your-show-a-basic-podcast-streaming-strategy-for-2024/"><u>Lifecast Your Show A Basic Podcast Streaming Strategy for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/lifting-the-curtain-on-windows-11s-secret-spotlight/"><u>Lifting the Curtain on Windows 11'S Secret Spotlight</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-pcs-performance-hurdles-for-excel/"><u>Overcome PC's Performance Hurdles for Excel</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-hdcp-limitations-on-your-display-unit-a-guide-to-enhanced-performance/"><u>Overcoming HDCP Limitations on Your Display Unit - A Guide to Enhanced Performance</u></a></li>
+<li><a href="https://windows11.techidaily.com/smarter-batch-jobs-utilizing-windows-task-scheduler/"><u>Smarter Batch Jobs: Utilizing Windows Task Scheduler</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-7-best-note-taking-apps-for-windows-pen-tablet-users/"><u>The 7 Best Note-Taking Apps for Windows Pen Tablet Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/upgrade-your-experience-top-alternatives-to-default-software/"><u>Upgrade Your Experience: Top Alternatives to Default Software</u></a></li>
 </ul></div>
 

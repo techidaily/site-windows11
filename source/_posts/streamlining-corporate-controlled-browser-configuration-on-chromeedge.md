@@ -1,7 +1,7 @@
 ---
 title: Streamlining Corporate Controlled Browser Configuration on Chrome/Edge
-date: 2025-01-21T18:30:37.586Z
-updated: 2025-01-22T18:24:02.722Z
+date: 2025-01-27T16:32:15.817Z
+updated: 2025-01-29T19:48:49.813Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Causes the "Your Browser is Managed By Your Organization" Error?
 
  If you use a work computer, this message indicates that your organization controls some settings and behavior of the Edge or Chrome browser. You can ignore the message if you are using a work computer and contact your IT admin to verify the cause.
@@ -37,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 
  To remove the message, first, verify if your antivirus is responsible for the message. If not, search and remove malicious extensions, programs, and policies hijacking your Chrome or Edge browser.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check Your Antivirus Settings
 
 ![avg web shield off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/avg-web-shield-off.jpg)
@@ -48,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
  Next, launch Task Manager (see[how to launch Task Manager](https://www.makeuseof.com/how-to-access-task-manager-on-windows-11/) ) and end services associated with the Chrome or Edge browser. If the message vanishes upon relaunch, it is safe to assume that your antivirus web protection is responsible for the message. You can turn on your antivirus and the web protection feature now.
 
  If the issue persists, it is likely malware or adware triggering the message on your browser. To fix the problem, check the Registry Editor policies for the browser and remove any suspicious policies.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Remove Chrome or Edge Registry Editor Policies
 
@@ -75,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 8. Close Registry Editor and restart your computer to see if the message is removed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Remove All the Group Policies for the Users Using Command Prompt
@@ -113,22 +117,18 @@ To reset Microsoft Edge:
 
 ![Reset Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/reset-edge-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Click the**three-dots menu** and select**Settings** .
 2. Open the**Reset settings** tab in the left pane, and click on**Restore settings to their default values** .
 3. Click**Reset** to confirm the action.
 4. You’ll need to enable your extensions after the reset is complete.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Run MalwareBytes AdwCleaner
 
 ![malwarebytes adwcleaner windows](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/malwarebytes-adwcleaner-windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Malwarebytes AdwCleaner is a free adware scanning and cleaning utility for Windows. Use the tool to scan your computer for PUP and other malware and remove them with a click.
 
@@ -139,10 +139,6 @@ To remove adware using MalwareBytes:
 3. Once the scan is complete, click**Next** to quarantine selected items.
 4. Next, it will show the pre-installed apps. You can leave them unchecked and click**Quarantine** . This should remove any and all adware on your computer.
 5. Close the app and relaunch your browser to check for any improvements.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Perform a Windows Reset
 
@@ -160,6 +156,10 @@ To perform a Windows system reset:
 4. Next, choose**Keep my Files** to perform a reset without removing your personal files. This will, however, remove apps and settings.
 5. Next, select**Cloud Download** . This option requires an active Internet connection to download and reinstall the latest version of Windows operating system. If not, select**Local** **Reinstall** .
 6. Wait for the reset to complete, and your PC will restart. After the restart, you’ll need to reinstall the browser and other apps to get started.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Remove the "Your Browser is Managed By Your Organization" Message on Windows
 
@@ -180,21 +180,18 @@ To perform a Windows system reset:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-how-to-make-instagram-slow-motion-video/"><u>[New] How to Make Instagram Slow Motion Video</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-how-to-seamlessly-convert-vimeo-media-to-mp3/"><u>[New] In 2024, How to Seamlessly Convert Vimeo Media to MP3</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-tomtom-actioncam-review-innovations/"><u>[New] TomTom Actioncam Review Innovations</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-flashflicker-artist/"><u>[Updated] FlashFlicker Artist</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-top-rated-free-tools-to-extract-youtube-text-tracks/"><u>2024 Approved Top-Rated Free Tools to Extract YouTube Text Tracks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/best-practices-for-uploading-and-distributing-conversations-with-chatgpt/"><u>Best Practices for Uploading and Distributing Conversations with ChatGPT</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-oneplus-ace-2-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from OnePlus Ace 2 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Oppo Find X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-printer-laptop-connections-your-comprehensive-guide-to-wireless-and-direct-cable-methods/"><u>Mastering Printer-Laptop Connections: Your Comprehensive Guide to Wireless and Direct Cable Methods</u></a></li>
-<li><a href="https://windows11.techidaily.com/real-time-speech-conversion-using-whisper-desktop/"><u>Real-Time Speech Conversion: Using Whisper Desktop</u></a></li>
-<li><a href="https://windows11.techidaily.com/reawakening-windows-hibernate-a-practical-guide/"><u>Reawakening Windows Hibernate: A Practical Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/reducing-the-overwhelming-impact-of-ntoskrnlexe/"><u>Reducing the Overwhelming Impact of Ntoskrnl.exe</u></a></li>
-<li><a href="https://windows11.techidaily.com/restoring-order-7-solutions-for-lost-windows-server-time/"><u>Restoring Order: 7 Solutions for Lost Windows Server Time</u></a></li>
-<li><a href="https://windows11.techidaily.com/surge-speed-settings-preventing-unexpected-download-plunges/"><u>Surge Speed Settings: Preventing Unexpected Download Plunges</u></a></li>
-<li><a href="https://windows11.techidaily.com/techniques-to-disable-discord-auto-updates-at-bootup/"><u>Techniques to Disable Discord Auto-Updates at Bootup</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-common-errors-in-microsoft-office-windows/"><u>Troubleshooting Common Errors in Microsoft Office Windows</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-digital-artists-10-favorite-background-switchers/"><u>[Updated] In 2024, Digital Artists' 10 Favorite Background Switchers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-vanguard-20-top-anime-song-starters/"><u>2024 Approved Vanguard 20 Top Anime Song Starters</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95893388-9780917849633-encouraging-words/"><u>Encouraging Words . . . | Free Book</u></a></li>
+<li><a href="https://windows11.techidaily.com/fine-tune-your-pointers-response-time-and-visibility-on-windows-11/"><u>Fine-Tune Your Pointer's Response Time and Visibility on Windows 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-a25-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy A25 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-rhythmic-revelations-adding-audio-to-your-vimeo-videos/"><u>In 2024, Rhythmic Revelations Adding Audio to Your Vimeo Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/invisible-exit-command-secreting-windows-11-power-off/"><u>Invisible Exit Command: Secreting Windows 11 Power Off</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-the-ipvanish-vpn-landscape-an-in-depth-review-by-zdnet-reveals-rich-functionality-options/"><u>Navigating the IPVanish VPN Landscape: An In-Depth Review by ZDNet Reveals Rich Functionality Options</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-defenders-barrier-on-third-party-av-software/"><u>Overcoming Defender's Barrier on Third-Party AV Software</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/er-youtube-standards-for-all-viewers-for-2024/"><u>Premier YouTube Standards for All Viewers for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/transition-to-new-background-in-winterminal/"><u>Transition to New Background in WinTerminal</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-the-win32-exception-error-code-0xc0000098-in-windows/"><u>Troubleshooting Guide: Resolving the Win32 Exception Error (Code 0xC0000098) in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-windows-wonders-creating-and-interpreting-reports/"><u>Unveiling Windows Wonders: Creating & Interpreting Reports</u></a></li>
 </ul></div>
 

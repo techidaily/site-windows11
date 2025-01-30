@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Windows' CAB Files and Their Setup Process
-date: 2025-01-20T20:55:48.669Z
-updated: 2025-01-22T18:25:38.356Z
+date: 2025-01-23T22:06:04.404Z
+updated: 2025-01-29T21:33:41.894Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f6602
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is a Windows CAB File?
 
  A CAB file or Cabinet file is a common archive file format used by Microsoft. It contains the compressed version of different files, folders, and even other cabinet files. Microsoft uses these files to distribute Windows, drivers, and UWP app updates. However, you can also use it to store other forms of data, such as images, videos, and documents.
@@ -38,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f6602
  CAB files are recognized by their first four bytes, which are the [ASCII characters](https://www.makeuseof.com/what-is-ascii-text/) MSCF. You can store up to 65,535 folders in a CAB file, with each folder having a storage capacity of 65,535 files.
 
  Now that you have a brief understanding of CAB files, let's check out how you can install it on Windows 11\.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Install a CAB File on Windows 11
 
@@ -49,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f6602
 2. Right-click the CAB file, and choose **Copy as path**.  
 ![Copy as path option in context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/copy-as-path-option.jpg)
 3. Press **Win** key to open the **Start Menu**, type **Command Prompt** in the search bar, and choose **Run as administrator** from the right pane.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. In the elevated Command Prompt window, type the following command and press Enter. Make sure to replace "**CAB location**" with the copied path.  
 `dism /Online /Add-Package /PackagePath:"CAB location"`  
@@ -68,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f6602
 `  
 ![Powershell window with command to install a CAB file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/powershell-window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That's it. PowerShell will install the content of the CAB file on your computer.
 
 ## How to Install Driver Updates From a CAB File
@@ -79,24 +79,20 @@ thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f6602
 ![Extract option in context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/extract-option.jpg)
 3. Choose the location where you want to extract the contents of the CAB file and click **Extract**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Press **Win + X** hotkey to open the Power User menu and choose **Device Manager**.
 5. Right-click the device for which you have downloaded the driver update and choose **Update driver**.  
 ![Update driver option in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/update-driver.jpg)
 6. Click **Browse my computer for drivers**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Browse my computer for drivers in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/browse-my-computer-for-drivers.jpg)
 7. Click **Browse** and navigate to the location where you have extracted the CAB file.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Select the folder that contains the extracted file and click **OK**.  
@@ -106,6 +102,10 @@ thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f6602
 ![Next option in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/next-option.jpg)
 
  The Device Manager will now install the driver update on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## CAB Files: Everything You Need to Know
 
@@ -123,24 +123,20 @@ thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f6602
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-techniques-for-interpreting-video-reactions-on-youtube/"><u>[New] Techniques for Interpreting Video Reactions on YouTube</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-ultimate-free-switch-console-simulations/"><u>[Updated] In 2024, Ultimate Free Switch Console Simulations</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-samsung-galaxy-f15-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Samsung Galaxy F15 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-htc-u23-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of HTC U23?</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/free-mp4-converter-transform-mp3-to-mp4-file-format-online-with-movavi/"><u>Free MP4 Converter - Transform MP3 to MP4 File Format Online with Movavi</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-to-conquering-unexplained-obs-recordings-glitches/"><u>Guide to Conquering Unexplained OBS Recordings Glitches</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-camera-apps-0xa00f429f-error-in-windows-10-and-11/"><u>How to Fix the Camera App’s 0xA00F429F Error in Windows 10 & 11</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-onedrive-files-on-pc-without-internet/"><u>Mastering OneDrive Files on PC without Internet</u></a></li>
-<li><a href="https://windows11.techidaily.com/outdated-pcs-needing-an-alternative-to-windows/"><u>Outdated PCs Needing an Alternative to Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/secure-your-system-mastering-the-art-of-expanded-pins-in-win1011/"><u>Secure Your System: Mastering the Art of Expanded Pins in Win10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/start-menu-no-more-unwanted-advertisements/"><u>Start Menu, No More Unwanted Advertisements!</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/taking-flight-simulation-to-new-heights-a-closer-look-at-x-planes-latest-release-with-exceptional-graphics/"><u>Taking Flight Simulation to New Heights: A Closer Look at X-Plane's Latest Release with Exceptional Graphics</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-art-of-unfreezing-the-windows-update-troubleshooter/"><u>The Art of Unfreezing the Windows Update Troubleshooter</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-keyboard-quest-6-ways-to-find-out-your-pcs-model/"><u>The Ultimate Keyboard Quest - 6 Ways to Find Out Your PC's Model</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-rated-movavi-video-transcoder-and-editor-for-macos-supports-multiple-file-types/"><u>Top Rated Movavi Video Transcoder & Editor for macOS - Supports Multiple File Types</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/twitch-revival-tactics-for-forgotten-sessions/"><u>Twitch Revival Tactics for Forgotten Sessions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-advantages-why-choosing-chatgpts-app-beats-browsing-its-site/"><u>Unveiling Advantages: Why Choosing ChatGPT's App Beats Browsing Its Site</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-tickout-restoring-clock-consistency/"><u>Windows Tickout: Restoring Clock Consistency</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-dissecting-the-yuneec-typhoon-hs-aerial-capabilities/"><u>[New] Dissecting the Yuneec Typhoon H's Aerial Capabilities</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-leading-workspace-cloud-storage-hub/"><u>[Updated] Leading Workspace Cloud Storage Hub</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-faces-in-picsart-applying-motion-blur-effects/"><u>2024 Approved Mastering Faces in Picsart Applying Motion Blur Effects</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/how-to-increase-ram-in-a-personal-computing-device/"><u>How to Increase RAM in a Personal Computing Device</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-how-to-build-circles-and-spheres-in-minecraft/"><u>In 2024, How to Build Circles and Spheres in Minecraft</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/in-depth-review-evaluating-the-performance-of-western-digital-datalynx-diagnostic-utility/"><u>In-Depth Review: Evaluating the Performance of Western Digital DataLynx Diagnostic Utility</u></a></li>
+<li><a href="https://windows11.techidaily.com/modifying-webcam-activity-alert-settings-for-win11/"><u>Modifying Webcam Activity Alert Settings for Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-the-maze-of-windows-security-faults/"><u>Navigating Through the Maze of Windows Security Faults</u></a></li>
+<li><a href="https://windows11.techidaily.com/reawaken-your-computers-usb-a-quick-fix-guide-windows/"><u>Reawaken Your Computer's USB: A Quick Fix Guide, Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-java-not-installing-issues-on-windows-systems/"><u>Remedying Java Not Installing Issues on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-nostalgic-pathway-transform-windows-11-to-98/"><u>The Nostalgic Pathway: Transform Windows 11 to '98</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-your-pc-graphics-with-optimal-vram-settings/"><u>Transform Your PC Graphics with Optimal VRAM Settings</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-guide-to-directors-success-powerdirector-2024/"><u>Ultimate Guide to Directors' Success - PowerDirector 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-conversion-wizardry-from-youtube-to-igtv-for-2024/"><u>Video Conversion Wizardry From Youtube to IGTV for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-rebirth-techniques-three-simple-resets/"><u>Windows Rebirth Techniques: Three Simple Resets</u></a></li>
 </ul></div>
 

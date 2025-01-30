@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Revive Your Black Screen Windows 11
-date: 2024-08-15T15:23:54.969Z
-updated: 2024-08-16T15:23:54.969Z
+date: 2025-01-23T07:17:23.339Z
+updated: 2025-01-30T02:34:50.994Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/8d3e36af5d5a0091c440dec8233de5f6c2799ee80
 
  Finding yourself stuck with a Windows 10/11 black screen with a cursor is frustrating, but this article is here to help you with this issue. But how can you [fix Windows stuck on a black screen with just a cursor](https://www.passfab.com/windows-repair/how-to-fix-windows-11-black-screen-with-cursor.html) ?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Is My Windows 10/11 Stuck on a Black Screen With Cursor?
 
  This issue is characterized by a blank black screen with nothing but a cursor on display. You can’t use your PC, you can’t log in, and may not be able to shut down your device.
@@ -28,15 +32,6 @@ thumbnail: https://thmb.techidaily.com/8d3e36af5d5a0091c440dec8233de5f6c2799ee80
 
  Windows updates, driver updates, and other glitches can all be responsible for causing your screen to turn black, and this is why there are multiple solutions to the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## Method 1: PassFab FixUWin
 
  This first method is the easiest on this list, enabling you to rely on third-party tools to handle the job for you. You can download and use [PassFab FixUWin](https://www.passfab.com/products/fix-windows.html) for free, enabling you to try it out and get started without having to commit to purchasing a copy for yourself.
@@ -50,22 +45,28 @@ thumbnail: https://thmb.techidaily.com/8d3e36af5d5a0091c440dec8233de5f6c2799ee80
  Launch the executable file and click on**Install** once it opens, and wait for the install to finish before clicking on**Start** .
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 2: Create a New Windows Boot Disk/Drive
 
 ![fixuwin create boot disk window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/fixuwin-create-boot-disk.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  You need a black CD/DVD or a USB drive to use PassFab FixUWin to fix Windows 10/11 black screen with a cursor. Insert your disk or drive into your computer and select**Create Boot Disk Now** .
 
 ![fixuwin select drive and windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/fixuwin-select-drive-and-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Choose the version of Windows that matches the machine you are trying to fix and select the drive or disk you want to turn into a boot device before clicking**Next** and accepting the prompt that comes up.
 
 ![fixuwin creating boot drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/fixuwin-creating-boot-drive.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 It will take a few minutes to create your new boot device.
 
@@ -75,9 +76,6 @@ It will take a few minutes to create your new boot device.
 
  You may need to try a few times before your boot menu launches. Once it does, select your recovery disk or USB from the list and restart the machine to boot from it.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 4: Start the PassFab FixUWin Automated Repair Process
 
  Rather than trying to boot back into Windows and triggering a black screen with a cursor, the PassFab FixUWin automatic repair tool will open. Click**Automated Repair** and choose the drive partition that holds Windows before hitting Start Repair.
@@ -86,11 +84,6 @@ It will take a few minutes to create your new boot device.
 
  PassFab is currently offering discounts of up to 80% across its range of software tools and utilities to celebrate Thanksgiving and Black Friday 2022\. This makes it possible to get your hands on a copy of [PassFab FixUWin](https://www.passfab.com/products/fix-windows.html) for just $39.95 per year.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## Method 2: Reset Your PC
 
  Windows 10 and 11 both come with a feature to enable you to reset the operating system and all of its features. Open the Start Menu, type Reset This PC, and choose the first option from the list. Click**Get Started** in the Reset PC section and follow the prompts to reset your machine.
@@ -102,20 +95,18 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  Once inside the winRE menu, click**Troubleshoot** and select**Advanced Options** from the next window. Click**Startup Settings** and select**Restart** to boot the machine into safe mode. From here, you can work on solving the problem causing your black screen with a cursor.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Use PassFab FixUWin to Fix Windows Black Screen With a Cursor
 
 [PassFab FixUWin](https://www.passfab.com/products/fix-windows.html) is a simple tool that can fix an array of Windows issues with ease. You just need to press the button to get the software started, and it can fix problems like blank screens without any work on your part. What’s best, though, is that all of PassFab’s excellent tools are available at incredible discounts to celebrate Black Friday.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -124,8 +115,21 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-combine-power-tweeting-and-snapping-with-snapchat/"><u>[New] Combine Power Tweeting and Snapping with Snapchat</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-holistic-motion-comprehensiveness-review/"><u>[New] Holistic Motion Comprehensiveness Review</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-accelerating-expertise-in-social-media-strategies-with-reddit-guidance/"><u>[New] In 2024, Accelerating Expertise in Social Media Strategies with Reddit Guidance</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-top-10-capture-cards-for-youtube-you-should-know-for-2024/"><u>[Updated] The Top 10 Capture Cards for YouTube You Should Know for 2024</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/rammpg-movavi/"><u>完全免费在线将硬盘上的RAM文件转换为高效MPG视频 - 利用Movavi工具</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-tips-finding-installed-programs-locations/"><u>Essential Tips: Finding Installed Programs' Locations</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-in-depth-insights-perfecting-the-craft-of-screen-recording-on-macbooks/"><u>In 2024, In-Depth Insights Perfecting the Craft of Screen Recording on MacBooks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-latest-evga-gpu-drivers-on-windows-computers/"><u>Install Latest EVGA GPU Drivers on Windows Computers</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-space-in-windows-without-data-loss/"><u>Maximizing Space in Windows Without Data Loss</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-the-game-pass-network-issue-a-guide-for-windows-users/"><u>Mending the Game Pass Network Issue: A Guide for Windows Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revolutionizing-film-production-how-the-latest-features-of-final-cut-pro-for-ipad-transform-filmmakers-workflow/"><u>Revolutionizing Film Production: How the Latest Features of Final Cut Pro for iPad Transform Filmmakers' Workflow</u></a></li>
+<li><a href="https://windows11.techidaily.com/secrets-of-the-system-customizing-your-window-11-actions/"><u>Secrets of the System: Customizing Your Window 11 Actions</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-why-you-shouldnt-turn-off-wins-11s-alerts/"><u>Unveiling Why You Shouldn’t Turn Off Wins 11'S Alerts</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-pinpointing-5-disturbing-design-traits/"><u>Windows 11: Pinpointing 5 Disturbing Design Traits</u></a></li>
+</ul></div>
 

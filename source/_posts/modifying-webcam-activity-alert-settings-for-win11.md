@@ -1,7 +1,7 @@
 ---
 title: Modifying Webcam Activity Alert Settings for Win11
-date: 2025-01-21T18:46:09.169Z
-updated: 2025-01-22T17:52:37.927Z
+date: 2025-01-27T22:39:39.241Z
+updated: 2025-01-29T22:37:12.324Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Turn On Camera On and Off Notifications
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 ![Enable camera notifications in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/notify-camera-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the**NoPhysicalCameraLED** value is missing, you can create it. Right-click on the empty space in the right pane, and click**New > Dword(32-bit) value** . Set its name and**Value data** to**1** . Then, save the new changes and restart your computer for the changes to take place.
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
  Once your computer boots up access the camera and test if Windows is showing the camera notification.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Check Camera History
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
  Also, it might be worth it to take a look at your Privacy settings and[check which apps can access your camera](https://www.makeuseof.com/how-to-change-app-permissions-in-windows-10/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Know When Your Camera Starts on Windows
@@ -87,21 +87,21 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-crafting-professionally-recorded-audio-via-audacity/"><u>[New] In 2024, Crafting Professionally Recorded Audio via Audacity</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-perfecting-instagram-stories-adding-and-sharing-custom-emojis-for-2024/"><u>[Updated] Perfecting Instagram Stories Adding & Sharing Custom Emojis for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-shoppers-list-select-box-personalization-sites/"><u>2024 Approved Ultimate Shopper's List Select Box Personalization Sites</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/6kej5rg65lin6laz5oyh5y2x77ya57ix5l25piv6kqk5yik5a6a55qe5li76auu56ob5y2a5yig5ymy77ym5lmf6io95oiq5yqf6ycp6ygo56gs56kf5yig5ymy5pwr5oplus05pa55rov/"><u>解決不足指南：縱使是誤判定的主體磁區分割，也能成功透過硬碟分割救援方法</u></a></li>
-<li><a href="https://techtrends.techidaily.com/winxvid-ai/"><u>如何利用WinxVid AI提高影片品質，達到最佳效果</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-apple-iphone-6s-plus-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On Apple iPhone 6s Plus without Password?</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-perfect-your-content-with-top-tier-title-tactics/"><u>In 2024, Perfect Your Content with Top-Tier Title Tactics</u></a></li>
-<li><a href="https://windows11.techidaily.com/lost-features-a-step-by-step-guide-to-find-windows-11s-enhancement/"><u>Lost Features? A Step-by-Step Guide to Find Windows 11'S Enhancement</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-oppo-a79-5g-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Oppo A79 5G</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-failed-task-runner-in-windows/"><u>Overcoming Failed Task Runner in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/python-server-setup-for-effective-windows-based-data-sharing/"><u>Python Server Setup for Effective Windows-Based Data Sharing</u></a></li>
-<li><a href="https://windows11.techidaily.com/reversing-the-access-entry-corrupted-windows-malfunction/"><u>Reversing the 'Access Entry Corrupted' Windows Malfunction</u></a></li>
-<li><a href="https://windows11.techidaily.com/reviving-the-obscured-off-screen-window-techniques-in-win10win11/"><u>Reviving the Obscured: Off-Screen Window Techniques in Win10/Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/shut-down-internal-keyboard-for-pcs-running-windows/"><u>Shut Down Internal Keyboard for PCs Running Windows</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/unveiling-top-10-destinations-for-high-end-vectors-for-2024/"><u>Unveiling Top 10 Destinations for High-End Vectors for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/why-your-windows-workstation-needs-specific-encoding-tech/"><u>Why Your Windows Workstation Needs Specific Encoding Tech</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-efficiently-add-youtube-playlists-to-your-website-interface/"><u>[Updated] 2024 Approved Efficiently Add YouTube Playlists to Your Website Interface</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-uniting-your-favorite-sounds-a-complete-walkthrough-for-making-youtube-playlists-onlinemobile/"><u>[Updated] Uniting Your Favorite Sounds A Complete Walkthrough for Making YouTube Playlists Online/Mobile</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unveiling-our-exclusive-package-of-free-youtube-adornments-in-2024/"><u>[Updated] Unveiling Our Exclusive Package of Free YouTube Adornments, In 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-windows-aggregatorhostexe-functions-risks-and-safety-concerns/"><u>Decoding Windows' AggregatorHost.exe: Functions, Risks, and Safety Concerns</u></a></li>
+<li><a href="https://windows11.techidaily.com/free-media-titans-for-effortless-windows-experience/"><u>Free Media Titans for Effortless Windows Experience</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/how-can-you-locate-and-open-the-device-manager-on-your-pc-tips-from-yl-computing/"><u>How Can You Locate and Open the Device Manager on Your PC - Tips From YL Computing</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-editorsuite-showcase-video-editor-features-and-reviews/"><u>In 2024, EditorSuite Showcase – Video Editor Features & Reviews</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/insight-into-online-media-distribution-and-fb-copyright-policies/"><u>Insight Into Online Media Distribution and FB Copyright Policies</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-to-reverse-windows-enter-input-failure/"><u>Methods to Reverse Windows Enter Input Failure</u></a></li>
+<li><a href="https://windows11.techidaily.com/reverse-frozen-wow-post-update-blocks/"><u>Reverse Frozen WoW Post-Update Blocks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/samsung-delays-vr-headset-release-eyes-late-2024-launch-after-project-vision-pro-led-advancements/"><u>Samsung Delays VR Headset Release, Eyes Late 2024 Launch After Project Vision Pro LED Advancements</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719217852527-solve-low-brightness-woes-in-windows-11-easily/"><u>Solve Low-Brightness Woes in Windows 11 Easily!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/strong-ai-vs-weak-ai-whats-the-difference/"><u>Strong AI Vs. Weak AI: What's the Difference?</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-function-and-significance-of-vcplusplus-packages/"><u>The Function and Significance of VC++ Packages</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-window-wizardry-how-to-reactivate-off-screen-apps/"><u>Windows 11 Window Wizardry: How to Reactivate Off-Screen Apps</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Accelerating Windows 11 App Launches
-date: 2024-08-15T15:21:45.889Z
-updated: 2024-08-16T15:21:45.889Z
+date: 2025-01-28T04:22:31.698Z
+updated: 2025-01-30T02:12:18.956Z
 tags:
   - windows10
   - windows11
@@ -30,18 +30,16 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 
 ![Access the File Explorer location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/start-menu-programs-startup.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you have made the changes in the folder, restart your computer and check if you notice any difference in the boot time.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Delay Item Start
 
  Windows allows you to prevent apps from booting at startup but if you do not want to take the extreme route, you can simply delay the startup time of the targeted program. We have listed two methods of delaying the load time in Windows. Proceed with the method that suits your situation the best.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.1 Use the Task Scheduler Utility
 
  In this method, we will first disable the program from the Startup list and then use the Task Scheduler utility to delay the boot time.
@@ -52,12 +50,18 @@ Here is all that you need to do:
 2. Type**msconfig** in the text field of Run and press**Enter** .
 3. Head over to the**Startup** tab and click on**Open the Task Manager** .  
 ![Open the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/startup-open-task-manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Go to the**Startup** tab in the following window and click on the targeted program.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click on the**Disable** button as shown below.  
 ![Click on the Startup button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/task-manager-startup-disable.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once done, search for**Task Scheduler** using the Windows Search utility and launch it.
 
@@ -65,29 +69,34 @@ Here is all that you need to do:
 ![Click on the Create Task button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/task-scheduler-create-task.jpg)
 2. Now, head over to the**Trigger** tab and click on the**New** button.  
 ![Click on the New button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/task-scheduler-create-task-triggers-new.jpg)
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Expand the dropdown for**Begin the task** and choose**At log on** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Checkmark the box associated with**Delay task for** .  
 ![Delay the task](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/new-trigger-delay-task-time.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 5. Expand the dropdown and choose your preferred time.
 
 1. Click**OK** to save the changes.
 2. Now, navigate to the**Action** tab and select**New** .  
 ![task-scheduler-create-task-actions-new](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/task-scheduler-create-task-actions-new.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. In the dropdown for**Action** , choose**Start a program** \>**Browse** option.  
 ![Click on the Browse button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/start-a-program-browse.jpg)
 4. Next, navigate to the EXE file of the application and click**Open** \>**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Go to the**Conditions** tab and uncheck the box associated with**Start the task only if the computer is on AC power** .  
 ![Change the startup settings of the computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/conditions-start-the-task-only-if-the-computer-is-on-ac-power.jpg)
 6. Finally, click**OK** and close the Task Scheduler.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.2 Use a Third-Party App
 
@@ -102,23 +111,23 @@ Here is how you can proceed:
 4. After the program is installed, launch it.
 5. Enter your preferred delay time under**Delay time** .  
 ![Set a delay time in the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-startup-helper-delay-time.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 6. Now, click on the**Add New Item** button under the second step.  
 ![Click on the Add New button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-startup-helper-add-new-item.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 7. Enter the program name, its path, and the parameters.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Enter the name and path of the targeted program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-startup-helper-add-edit-dialog.jpg)
 8. Once done, click on the**Start** button.  
 ![Click on the Start button in the Startup Helper utility](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-startup-helper-start.jpg)
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The targeted app will now launch after the time you selected on the app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Run a Startup Cleaner Utility
 
@@ -135,17 +144,16 @@ Follow these steps to proceed:
 3. Click on the Tool icon in the left pane.  
 ![Click on the Tools option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ccleaner-tools.jpg)
 4. Choose**Startup** in the following window.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ccleaner-tools-startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ccleaner-tools-startup.jpg)
 5. In the following four sections, you will be able to see all the components that run when you boot into Windows. Locate the unnecessary ones, click on them, and choose**Disable** or**Delete** .  
 ![Disable or delete the uneeded apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ccleaner-tools-startup-disable-delete.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 6. Once done, restart your computer and check if you notice any difference.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Uninstall Any Unnecessary Programs
 
  The unnecessary programs installed on the system can also slow down the overall performance and load times.
@@ -166,14 +174,11 @@ Follow these steps to proceed:
 
  One way to maintain a good system is by optimizing the startup programs. The methods mentioned above should help you do this, in detail. Keeping the startup folder clean will help you avoid startup programs interfering with the system's functioning in the future.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -182,8 +187,20 @@ Follow these steps to proceed:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-key-top-5-agile-camcorders-for-adventure-selections/"><u>[New] In 2024, Key Top 5 Agile Camcorders for Adventure Selections</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-streamline-storage-solutions-the-20-finest-free-online-spaces/"><u>[New] Streamline Storage Solutions The 20 Finest FREE Online Spaces</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-sound-savvy-mastering-podcast-playback-on-iphones-for-2024/"><u>[New] The Sound Savvy Mastering Podcast Playback on iPhones for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/1-comprehensive-tutorial-disabling-auto-sync-feature-in-itunes/"><u>1. Comprehensive Tutorial: Disabling Auto-Sync Feature in iTunes</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-installation-guide-geforce-gtx-460-graphics-card-drivers-for-windows/"><u>Easy Installation Guide: GeForce GTX 460 Graphics Card Drivers for Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/five-keys-to-unlock-frozen-windows-hibernate/"><u>Five Keys to Unlock Frozen Windows Hibernate</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-for-correcting-absence-of-rockalldll-in-windows/"><u>Guide for Correcting Absence of Rockalldll in Windows</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-15-pro-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 15 Pro</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-mute-chrome-prompts-on-windows/"><u>Guide to Mute Chrome Prompts on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-redo-installation-of-unavailable-windows-add-ons/"><u>How to Redo Installation of Unavailable Windows Add-Ons</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-2022-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE (2022) to other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/revising-chromes-erroneous-security-warnings-tips-and-tricks/"><u>Revising Chrome's Erroneous Security Warnings: Tips & Tricks</u></a></li>
+<li><a href="https://windows11.techidaily.com/unwrapping-the-mystery-of-windows-store-error-code-0x80072efd/"><u>Unwrapping the Mystery of Windows Store Error Code 0X80072EFD</u></a></li>
+</ul></div>
 

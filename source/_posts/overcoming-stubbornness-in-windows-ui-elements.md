@@ -1,7 +1,7 @@
 ---
 title: Overcoming Stubbornness in Windows UI Elements
-date: 2025-01-18T19:36:29.266Z
-updated: 2025-01-22T16:15:52.786Z
+date: 2025-01-27T03:52:36.264Z
+updated: 2025-01-30T00:25:34.762Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run System File and Image Repair Commands
 
  Many users have confirmed running system file and image repair commands can fix the Task Manager not working. So, that’s one of the first things you should try for fixing Task Manager when it’s not opening.
@@ -36,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sfc-scannow-command2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Disable the Remove Task Manager Policy
@@ -53,12 +57,16 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 5. Click **Apply** to set the new option for enabling Task Manager.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Then close the Remove Task Manager window by clicking **OK**.
 
  If this policy is not enabled, try turning it on and off. Click **Enabled** and **Apply** to activate the policy. Then select **Disabled**/**Not configured** to disable it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Initiate an Antivirus Scan
 
@@ -77,10 +85,6 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 ![The New > Key options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/new-key-options.jpg)
 4. Enter **System** in the new key’s text box.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Right-click **System** and select **New** \> **DWORD**.
 
 1. Input **DisableTaskMgr** inside the DWORD’s text box.
@@ -88,13 +92,13 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 ![The DisableTaskMgr DWORD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disabletskmgr-dword.jpg)
 3. The value for the **DisableTaskMrg** DWORD should be **0**. If it’s set any differently, erase the number in the **Value** box and input **0**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click **OK** to set the **DisableTaskMgr** value.  
 ![The Edit DWORD (32-bit) Value window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-edit-dword-window.jpg)
 5. Now close the Registry Editor. To ensure the changes take effect, [restart your Windows PC](https://www.makeuseof.com/windows-restart-methods/) after editing the registry.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Run the PowerShell Command for Re-Registering Apps
 
@@ -108,6 +112,10 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 ![The PowerShell command that can fix Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-reinstall-apps-command.jpg)
 5. Press **Enter** to execute the command and wait for it to finish before exiting PowerShell.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Change Your User Account
 
  Windows user account issues can also cause Task Manager to stop working. For example, your user account might be corrupted in some way. In this case, you can try to repair the corrupted user account or set up an entirely new one. Task Manager might work fine in a new user account.
@@ -115,14 +123,6 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
  First, set up a new user account and sign into it to see if Task Manager works there. If it does, transfer all the user files from your old Windows account to the new one. Our guide to [fixing Windows issues by creating new accounts](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) includes instructions for applying this troubleshooting method.
 
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/add-account-button.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Restore Windows to an Earlier Time
 
@@ -132,6 +132,10 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 
 ![The System Restore window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/system-restore-window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Reset Your Window PC
 
  This final resolution for the Task Manager not working is the most nuclear of the lot. Resetting Windows 11/10 will restore the platform to factory default settings by reinstalling it, which will obliterate malware and repair system file issues. It’s recommended as a last resort since resetting Windows will wipe out all the software you’ve installed.
@@ -139,10 +143,6 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
  You can apply this potential resolution with the Reset this PC tool, as covered in this article about [resetting Windows 10 or 11](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/#:~:text=To%20access%20this%20Windows%20reinstall,this%20PC%20to%20get%20started.). There’s no need to back up user files since you can select a **Keep my files** option within the Reset this PC window. Make sure the **Reinstall preinstalled apps** option is selected to retain the software bundled with your PC.
 
 ![The Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/reset-this-pc-tool.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Use Task Manager Within Windows Again
 
@@ -160,24 +160,24 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-expedite-vimeo-video-playback-for-2024/"><u>[New] Expedite Vimeo Video Playback for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-premium-screen-capturer-non-lagging-efficiency/"><u>[New] Premium Screen Capturer Non-Lagging Efficiency</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-navigating-the-digital-landscape-mastery-of-video-filter-techniques/"><u>[Updated] In 2024, Navigating the Digital Landscape Mastery of Video Filter Techniques</u></a></li>
-<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/come-eseguire-il-ripristino-di-un-sistema-con-nessun-punto-di-ripristino-in-windows-7/"><u>Come Eseguire Il Ripristino Di Un Sistema Con Nessun Punto Di Ripristino in Windows 7</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-poco-x6-pro-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Poco X6 Pro Device SIM</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-the-ultimate-guide-to-screen-casting-on-your-phone/"><u>In 2024, The Ultimate Guide to Screen Casting on Your Phone</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-windows-task-scheduler-for-file-batch-execution/"><u>Mastering Windows Task Scheduler for File Batch Execution</u></a></li>
-<li><a href="https://win-community.techidaily.com/navigating-cryptocurrency-prices-in-real-time-with-expert-insights-from-yl-software/"><u>Navigating Cryptocurrency Prices in Real-Time with Expert Insights From YL Software</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-through-two-users-shared-ms-login-fails/"><u>Navigating Through Two Users' Shared MS Login Fails</u></a></li>
-<li><a href="https://windows11.techidaily.com/reinvigorate-discolored-volume-settings-in-win/"><u>Reinvigorate Discolored Volume Settings in Win</u></a></li>
-<li><a href="https://windows11.techidaily.com/rejuvenating-win11-drive-non-destructive-freeing-methods-max-156-chars/"><u>Rejuvenating Win11 Drive: Non-Destructive Freeing Methods (Max 156 Chars)</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-problematic-windows-protection-protocol/"><u>Resolving Problematic Windows Protection Protocol</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/review-of-onyx-boox-note-air3-exceptional-reading-and-writing-experience-with-color-e-ink-display/"><u>Review of Onyx Boox Note Air3 - Exceptional Reading and Writing Experience with Color E-Ink Display</u></a></li>
-<li><a href="https://windows11.techidaily.com/steering-users-clear-of-disconnection-hurdles-from-nvidia/"><u>Steering Users Clear of Disconnection Hurdles From Nvidia</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-entering-windows-11-home-settings/"><u>Step-by-Step: Entering Windows 11 Home Settings</u></a></li>
-<li><a href="https://windows11.techidaily.com/uncovering-and-correcting-cant-access-mail-errors-in-windows-11-mail-app/"><u>Uncovering and Correcting Can't Access Mail Errors in Windows 11 Mail App</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-secrets-of-chatgpts-code-interpretation-tool-why-does-it-matter/"><u>Unveiling the Secrets of ChatGPT's Code Interpretation Tool – Why Does It Matter?</u></a></li>
-<li><a href="https://windows11.techidaily.com/winning-windows-timers-for-efficient-pomodoros/"><u>Winning Windows Timers for Efficient Pomodoros</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-a-step-by-step-approach-to-discard-youtube-watch-later-items/"><u>[New] 2024 Approved A Step-by-Step Approach to Discard YouTube Watch Later Items</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-craft-powerpoint-to-interactive-movie-scripts/"><u>[New] 2024 Approved Craft PowerPoint to Interactive Movie Scripts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevating-success-channel-ideas-to-spark-momentum/"><u>[Updated] 2024 Approved Elevating Success Channel Ideas to Spark Momentum</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-chucklechips-studio-laughlens-lab/"><u>[Updated] ChuckleChips Studio LaughLens Lab</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-honor-x7b-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Honor X7b Fingerprint Lock</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cant-play-vanguard-boosting-cpu-capabilities-might-be-the-answer/"><u>Can't Play Vanguard? Boosting CPU Capabilities Might Be the Answer</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-solutions-overcome-windows-aturbidity-and-pair-your-devices-tips-and-tricks/"><u>Expert Solutions: Overcome Windows Aturbidity and Pair Your Devices (Tips & Tricks)</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-techniques-to-resolve-your-steam-update-download-conundrums/"><u>Expert Techniques to Resolve Your Steam Update Download Conundrums</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tips-for-fixing-iphone-not-showing-up-error-in-itunes-on-windows-10-pcs/"><u>Expert Tips for Fixing 'iPhone Not Showing Up' Error in Itunes on Windows 10 PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-avoid-lag-extra-monitor-usage-in-windows-laptops/"><u>How to Avoid Lag: Extra Monitor Usage in Windows Laptops</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-search-tool-in-windows-10-and-11-not-displaying-results/"><u>How to Fix the Search Tool in Windows 10 & 11 Not Displaying Results</u></a></li>
+<li><a href="https://windows11.techidaily.com/no-pretenders-allowed-steps-for-selecting-real-windows-apps/"><u>No Pretenders Allowed: Steps for Selecting Real Windows Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fix-for-windows-update-failure-error-code-0x80070003/"><u>Quick Fix for Windows' Update Failure (Error Code 0X80070003)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/safeguarding-your-information-with-tailored-ai-tools/"><u>Safeguarding Your Information with Tailored AI Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/shortcuts-how-to-skip-ongoing-password-prompts-on-pc/"><u>Shortcuts: How to Skip Ongoing Password Prompts on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-compatibility-problems-with-intel-hd-graphics-hardware/"><u>Solutions for Compatibility Problems with Intel HD Graphics Hardware</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-10-virtual-backdrops-swap-effortlessly-with-picsmagic-for-2024/"><u>Top 10 Virtual Backdrops Swap Effortlessly with PicsMagic for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-print-settings-access-windows-11s-print-tools-max-70-chars/"><u>Unlocking Print Settings: Access Windows 11'S Print Tools (Max 70 Chars)</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-screener-customization-guide/"><u>Win11 Screener Customization Guide</u></a></li>
 </ul></div>
 

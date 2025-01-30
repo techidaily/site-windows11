@@ -1,7 +1,7 @@
 ---
 title: How to Change What the Fn Keys Do in Windows 10 and 11
-date: 2025-01-16T17:46:58.702Z
-updated: 2025-01-22T18:29:40.572Z
+date: 2025-01-25T07:23:34.690Z
+updated: 2025-01-30T07:08:44.147Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Are the Function Keys, and Why Do You Need Them?
@@ -52,16 +52,12 @@ Here is how to proceed:
 4. In the following window, look for the Fn key row section and expand the drop-down under it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. If you wish to choose the F keys for basic functions, choose**Function key** .
 6. Select**Multimedia key** if you want to use the F keys to perform functions that typically require pressing the Fn key.  
 ![Multimedia key in Windows Mobility Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/windows-mobility-center-multimedia-key-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you own other devices, then you might want to look for similar options in the System or keyboard settings. You can also search the manufacturer’s official website for information regarding such customizations.
 
@@ -84,10 +80,6 @@ Similarly, if you have an Acer device, follow these steps:
 1. Hold the F2 key and the Power button simultaneously.
 2. Once you reach the BIOS screen, head over to the System Configuration Menu and click Enter in the Action Keys Mode option.
 3. Pick the desired mode and hit Exit.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. How to Change the Function Key Settings Using the UEFI Settings
 
@@ -116,12 +108,16 @@ If you are a Windows 11 user, follow these steps:
 ![UEFI Firmware settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/advanced-options-startup.jpg)
 3. In the following window, head over to the**Configuration** tab.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Select the**Hotkey Mode** and click on**Enabled** or**Disabled** .  
 ![hotkey-mode-disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/hotkey-mode-disabled.jpg)
 5. Click**Save** and then press**Exit** to sign out of BIOS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Enable the Fn Lock
@@ -131,6 +127,10 @@ If you are a Windows 11 user, follow these steps:
  In most keyboards, the Fn lock is associated with the Esc key, but it can be different in your device. Typically, these keys have a lock icon on them. You can use the manufacturer’s website to find the lock on your device if you cannot locate a key with a lock icon.
 
  Once you have found the key, hold the Fn key and press the lock key. This will enable the function. You can follow the same steps for disabling it in the future.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is It a Good Idea To Change Fn Key Settings?
 
@@ -165,19 +165,18 @@ If you are a Windows 11 user, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-essential-guidelines-for-choosing-the-right-podcast-name/"><u>[New] 2024 Approved Essential Guidelines for Choosing the Right Podcast Name</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-dynamic-contrasts-and-curved-edges-in-ps-for-2024/"><u>[New] Dynamic Contrasts and Curved Edges in PS for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-efficient-backup-of-camera-roll-to-share-via-snapchat/"><u>[New] Efficient Backup of Camera Roll to Share via Snapchat</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-transforming-facebook-videos-steps-to-high-definition/"><u>[New] Transforming Facebook Videos Steps to High Definition</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/1728504571008-usb/"><u>全功能USB對拖軟體：高效複製及輸送作業系統文件的最佳選擇</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-windows-11-simultaneous-folder-creation-techniques/"><u>Mastering Windows 11: Simultaneous Folder Creation Techniques</u></a></li>
-<li><a href="https://windows11.techidaily.com/minimizing-cpu-overuse-a-practical-approach/"><u>Minimizing CPU Overuse: A Practical Approach</u></a></li>
-<li><a href="https://windows11.techidaily.com/pivot-points-in-pc-os-history-w10-and-w11s-distinct-traits/"><u>Pivot Points in PC OS History: W10 and W11's Distinct Traits</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-zoom-discrepancies-on-windows-11-error-1132/"><u>Resolving Zoom Discrepancies on Windows 11: Error 1132</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-for-fixing-unrecognized-device-camera-on-win11/"><u>Tips for Fixing Unrecognized Device: Camera on Win11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/unlock-full-access-to-premium-macxdvd-suite-for-a-complimentary-membership/"><u>Unlock Full Access to Premium MacXDVD Suite for a Complimentary Membership</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-exceptional-savings-your-guide-to-premier-samsung-promotions-for-early-spring-2023/"><u>Unlocking Exceptional Savings: Your Guide to Premier Samsung Promotions for Early Spring 2023</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/voice-from-images-turning-instagram-into-mp3s/"><u>Voice From Images Turning Instagram Into MP3s</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-security-10-leading-software-sites/"><u>Window's Security: 10 Leading Software Sites</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-demystifying-the-mechanics-of-youtube-studio/"><u>[New] Demystifying the Mechanics of YouTube Studio</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-essential-free-apps-for-youtube-to-wav-transformation-for-2024/"><u>[Updated] Essential Free Apps for YouTube to WAV Transformation for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-immersions-analyzing-google-and-samsung-rvr/"><u>2024 Approved Innovative Immersions Analyzing Google and Samsung RVR</u></a></li>
+<li><a href="https://games-able.techidaily.com/achievement-arenas-champion-clusters/"><u>Achievement Arenas: Champion Clusters</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-limitations-for-power-use-in-winos/"><u>Bypassing Limitations for Power Use in WinOS</u></a></li>
+<li><a href="https://win-docs.techidaily.com/defining-retention-rate-in-the-digital-age-insights-and-top-seo-practices-to-boost-your-online-presence/"><u>Defining Retention Rate in the Digital Age: Insights & Top SEO Practices to Boost Your Online Presence</u></a></li>
+<li><a href="https://windows11.techidaily.com/discovering-devhome-the-essential-guide-to-win11/"><u>Discovering DevHome: The Essential Guide to Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-rejuvenate-your-windows-11-with-a-fresh-reboot/"><u>How to Rejuvenate Your Windows 11 with a Fresh Reboot</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-palette-perfection-a-guide-to-grading-filmmaking/"><u>In 2024, Palette Perfection A Guide to Grading Filmmaking</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sky-high-tech-talk-the-mavic-pro-showcase/"><u>In 2024, Sky High Tech Talk The Mavic Pro Showcase</u></a></li>
+<li><a href="https://windows11.techidaily.com/real-time-resource-management-tracking-cpu-memory-and-graphics/"><u>Real-Time Resource Management: Tracking CPU, Memory & Graphics</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-windows-fatal-error-code-0x800f0831/"><u>Resolving Windows' Fatal Error: Code 0X800F0831</u></a></li>
+<li><a href="https://windows11.techidaily.com/when-should-you-consider-purging-pagefilesys/"><u>When Should You Consider Purging Pagefile.sys?</u></a></li>
 </ul></div>
 

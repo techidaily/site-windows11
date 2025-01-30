@@ -1,7 +1,7 @@
 ---
 title: Overcoming Greyed-Out Remove PIN Feature on Windows 11
-date: 2025-01-17T19:43:38.051Z
-updated: 2025-01-22T20:48:41.573Z
+date: 2025-01-26T20:43:52.054Z
+updated: 2025-01-30T06:08:50.414Z
 tags:
   - windows10
   - windows11
@@ -51,7 +51,7 @@ To remove PIN using forgot my PIN:
 4. Click on**I forgot my PIN** next **to Related links.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click**Continue** when the confirmation dialog appears.  
@@ -61,22 +61,14 @@ To remove PIN using forgot my PIN:
 ![set up a pin cancel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/set-up-a-pin-cancel.jpg)
 7. When the**Set up a PIN** dialog appears, click on**Cancel** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![close your account requires windows hello pin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/close-your-account-requires-windows-hello-pin.jpg)
 8. Next, click the**Close** button to exit the**Your account requires a Windows Hello PIN** dialog.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 That's it! You have successfully removed the Windows Hello PIN.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Turn Off the Passwordless Login Feature for Your Microsoft Account
 
@@ -86,6 +78,10 @@ That's it! You have successfully removed the Windows Hello PIN.
 2. Open the**Accounts** tab and click on**Your Info.**  
 ![windows 11 account manage my accounts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-account-manage-my-accounts.jpg)
 3. Scroll down to the**Related setting** s section and click on**Accounts** (Manage my account). This will open the Microsoft account security page online.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Sign in to your Microsoft account.
 5. Next, open the**Security** tab.
@@ -100,12 +96,16 @@ That's it! You have successfully removed the Windows Hello PIN.
 4. Next, follow the on-screen instruction to disable the features.
 5. Once done, you should be able to use the Remove PIN option in Settings.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Remove the PIN on Your Windows 11 PC
 
 ![windows 11 remove pin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-remove-pin.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once the option is restored, follow these steps to remove Windows Hello PIN from the Settings app:
@@ -136,24 +136,22 @@ That's it! You have successfully removed the Windows Hello PIN.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-correct-facebook-status-update-delays-for-2024/"><u>[New] Correct Facebook Status Update Delays for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-the-lg-bp350-monitors-unique-features/"><u>[New] Exploring the LG BP350 Monitor's Unique Features</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-shots-to-screens-the-importance-of-camera-lenses-in-vlogs/"><u>[Updated] 2024 Approved From Shots to Screens The Importance of Camera Lenses in Vlogs</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-cutting-edge-approaches-to-mov-file-recordings-on-windows-10-for-2024/"><u>[Updated] Cutting-Edge Approaches to MOV File Recordings on Windows 10 for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-zero-cost-frame-perfection-on-youtube-video-viewing/"><u>[Updated] Zero-Cost Frame Perfection on YouTube Video Viewing</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-innovative-ideas-for-snapad-success-in-business/"><u>2024 Approved Innovative Ideas for SnapAd Success in Business</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/best-3-iphone-music-organizers-top-picks-for-seamless-tunes-management/"><u>Best 3 iPhone Music Organizers: Top Picks for Seamless Tunes Management</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ng-edge-techniques-to-upgrade-channel-descriptions/"><u>Cutting-Edge Techniques to Upgrade Channel Descriptions</u></a></li>
-<li><a href="https://windows11.techidaily.com/invisible-file-handling-sneaking-zips-into-picture-files-on-windows/"><u>Invisible File Handling: Sneaking Zips Into Picture Files on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-closed-folder-woes-on-double-click-in-winxpxo11/"><u>Overcoming Closed Folder Woes on Double-Click in WinXP/XO11</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-the-most-dangerous-javascript-crash-in-windows-10plusdiscord-users/"><u>Overcoming the Most Dangerous Javascript Crash in Windows 10+Discord Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/proactive-device-management-in-windows-11-essential-uptime-verification-steps/"><u>Proactive Device Management in Windows 11: Essential Uptime Verification Steps</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-access-keys-the-artists-best-friend-in-3d-paint/"><u>Quick-Access Keys: The Artist's Best Friend in 3D Paint</u></a></li>
-<li><a href="https://fox-that.techidaily.com/stop-airpod-connection-woes-tips-to-keep-them-paired-with-one-device-only/"><u>Stop AirPod Connection Woes: Tips to Keep Them Paired with One Device Only</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-5-gratis-car-performance-enhancers-for-windows-pcs/"><u>Top 5 Gratis Car Performance Enhancers for Windows PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/unleashing-typing-efficiency-reviving-the-tab-functionality/"><u>Unleashing Typing Efficiency: Reviving the Tab Functionality</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlock-the-potential-creating-custom-lock-patterns-for-windows-11/"><u>Unlock the Potential: Creating Custom Lock Patterns for Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/whats-new-in-july-2024-windows-update-schedule-and-latest-service-pack-releases/"><u>What's New in July 2024: Windows Update Schedule & Latest Service Pack Releases</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-storage-explained-c-and-d-distinctions/"><u>Windows Storage Explained: C & D Distinctions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-full-screen-mastery-for-premier-pro-users-for-2024/"><u>[New] Full Screen Mastery for Premier Pro Users for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-samsungs-picture-editing-app/"><u>[New] The Ultimate Guide to Samsung's Picture Editing App</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-elevate-your-broadcast-screen-share-techniques-for-the-modern-broadcaster/"><u>2024 Approved Elevate Your Broadcast Screen-Share Techniques for the Modern Broadcaster</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/advanced-camera-techniques-for-iphone-and-ipad-users-looking-to-capture-stunning-shots/"><u>Advanced Camera Techniques for iPhone & iPad Users Looking to Capture Stunning Shots</u></a></li>
+<li><a href="https://techidaily.com/enhance-website-analytics-with-cookiebots-advanced-monitoring-technology/"><u>Enhance Website Analytics with Cookiebot's Advanced Monitoring Technology</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-the-lost-renderer-phenomenon-in-ow2/"><u>Fixing the 'Lost Renderer' Phenomenon in OW2</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-on-resolving-roblox-error-403-in-windows-environment/"><u>Guide on Resolving Roblox Error 403 in Windows Environment</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-convert-cr2-images-to-jpgs-on-windows/"><u>How to Convert CR2 Images to JPGs on Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Tecno Spark 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722992899580-iphone-connectivity-problems-with-itunes-for-windows-10-users-solved/"><u>IPhone Connectivity Problems with iTunes for Windows 10 Users – Solved!</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-11-unveiling-rarely-used-functions/"><u>Mastering Windows 11: Unveiling Rarely Used Functions</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-windows-11-installation-hurdles-for-uncomplicated-clipchamp-use/"><u>Navigate Windows 11 Installation Hurdles for Uncomplicated ClipChamp Use</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/newest-geforce-rtx-3080-ti-drivers-compatible-with-win-10-8-and-7-systems/"><u>Newest GeForce RTX 3080 Ti Drivers: Compatible with Win 10, 8 & 7 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-your-lockscreen-experience-through-spotlight-settings/"><u>Optimize Your Lockscreen Experience Through Spotlight Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-write-restrictions-in-steam-libraries-on-windows-11/"><u>Overcoming Write Restrictions in Steam Libraries on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-razer-device-functionality-in-windows-11/"><u>Restoring Razer Device Functionality in Windows 11</u></a></li>
 </ul></div>
 

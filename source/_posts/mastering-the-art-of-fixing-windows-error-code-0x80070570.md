@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Fixing Windows Error Code 0X80070570
-date: 2025-01-20T20:50:03.595Z
-updated: 2025-01-22T17:09:53.008Z
+date: 2025-01-29T02:11:52.519Z
+updated: 2025-01-29T22:04:26.725Z
 tags:
   - windows10
   - windows11
@@ -25,19 +25,11 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Repair System Files With an SFC Scan
 
  Some users have confirmed repairing system files resolved error 0x80070570 on their PCs. System File Checker is a command-line tool with which you can check for and repair corrupted system files that might be causing file operation issues. Check out our guide to [utilizing System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/) for details about how to run an SFC scan within the Command Prompt.
 
 ![The SFC command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sfc-scannow-command2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Utilize the Check Disk Tool
 
@@ -45,9 +37,17 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
 
 ![The chkdsk scan command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chkdsk-scan-command.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Our [guide to running CHKDSK on Windows](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/#:~:text=In%20Command%20Prompt%2C%20type%20chkdsk,let%20it%20do%20its%20work.) tells you how to initiate a Check Disk scan. You’ll need to run the Check Disk scan for the drive that includes the files you can’t delete or copy to. If that’s an external drive, you’ll need to connect the storage device to the PC and specify its letter within the command. For example, a CHKDSK command for scanning an external E: drive would be:
 
 `chkdsk /r E:`
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Try Moving Files to a Different Location
 
@@ -60,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/real-time-protection-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you don’t have third-party security software, turn off Windows Security’s real-time antivirus shield, as covered in our article about [disabling Microsoft Defender](https://www.makeuseof.com/permanently-disable-microsoft-defender-windows-11/). .
@@ -68,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
  Users with third-party antivirus utilities will need to turn off their antivirus shields via the apps’ system tray context menus. Right-click the antivirus app’s icon in the system tray and select a disable or turn off shield protection setting.
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Perform a Startup Repair
 
@@ -77,10 +81,6 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
 2. Select **Startup Repair** within the Advanced options menu.  
 ![The Start-up Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/start-up-repair.jpg)
 3. Next, select your Windows user account.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Input your user account password.
 5. Select **Continue** to initiate the repair.
@@ -92,7 +92,7 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
 ![The format drive utility](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-format-tool.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can format an external drive with the Windows Disk Management utility or in File Explorer. Connect the drive to your PC, and then follow the steps in this guide on [how to format a USB drive](https://www.makeuseof.com/tag/format-usb-drive/) to do this within File Explorer.
@@ -113,24 +113,16 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-twitterscape-treasury-your-one-stop-shop-for-tweeted-gifs-for-2024/"><u>[Updated] Twitterscape Treasury Your One-Stop Shop for Tweeted GIFs for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/comment-exclure-un-dossier-de-la-synchronisation-sur-onedrive-guide-detaille/"><u>Comment Exclure Un Dossier De La Synchronisation Sur OneDrive - Guide Détaillé</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/dont-get-left-behind-how-the-iphone-15-revolutionizes-your-experience-and-what-you-miss-by-holding-on-gadgetpulse/"><u>Don't Get Left Behind: How the iPhone 15 Revolutionizes Your Experience & What You Miss by Holding On | GadgetPulse</u></a></li>
-<li><a href="https://windows11.techidaily.com/getting-to-know-you-your-pc-unveiling-the-brand-and-model/"><u>Getting to Know You (Your PC): Unveiling the Brand and Model</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-carry-out-a-thorough-sfc-scan-in-windows/"><u>How to Carry Out a Thorough SFC Scan in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-reroute-malwarebytes-database-access-post-error/"><u>How to Reroute Malwarebytes' Database Access Post Error</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Honor V Purse? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/optimal-free-cam-viewer-with-snatch-feature/"><u>Optimal Free Cam Viewer with Snatch Feature</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-obstacles-with-windows-safeguard-issues/"><u>Overcoming Obstacles with Windows Safeguard Issues</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-zte-axon-40-lite-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best ZTE Axon 40 Lite Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/personalized-scheduling-in-outlook-for-windows-enthusiasts/"><u>Personalized Scheduling in Outlook for Windows Enthusiasts</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedying-zero-error-in-the-windows-store/"><u>Remedying Zero-Error in the Windows Store</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackle-clipchamps-windows-11-setup-obstacles-with-precision/"><u>Tackle ClipChamp's Windows 11 Setup Obstacles with Precision</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/tech-savvy-ways-to-record-mac-lectures/"><u>Tech-Savvy Ways to Record Mac Lectures</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/top-rated-free-iphone-video-flipper-tools-updated-2023-for-2024/"><u>Top-Rated Free iPhone Video Flipper Tools (Updated 2023) for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-and-rectifying-the-401-unauthorized-http-response-problems/"><u>Understanding & Rectifying the 401 Unauthorized HTTP Response Problems</u></a></li>
-<li><a href="https://windows11.techidaily.com/what-does-microsoft-copilot-offer-programmers/"><u>What Does Microsoft Copilot Offer Programmers?</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-10-steps-to-rectify-defective-usb-hardware/"><u>Windows 10: Steps to Rectify Defective USB Hardware</u></a></li>
+<li><a href="https://common-error.techidaily.com/conquer-windows-11-update-code-0x800f0922-your-ultimate-guide-to-8-solutions/"><u>Conquer Windows 11 Update Code 0X800f0922 - Your Ultimate Guide to 8 Solutions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Samsung Galaxy A05? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-revitalize-your-footage-mastering-window-11-photos-and-storyremix-integration/"><u>In 2024, Revitalize Your Footage Mastering Window 11 Photos and StoryRemix Integration</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-admin-access-unlocking-windows-control-panel/"><u>Mastering Admin Access: Unlocking Windows Control Panel</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-guide-to-picture-in-picture-video-editing-in-final-cut-pro-for-2024/"><u>New The Ultimate Guide to Picture-in-Picture Video Editing in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/pathfinders-guide-unveiling-the-sixest-steps-for-copying-windows-11-file-and-folders/"><u>Pathfinder's Guide: Unveiling the Sixest Steps for Copying Windows 11 File & Folders</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-user-profile-issues-steps-for-pcs/"><u>Resolving User Profile Issues: Steps for PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/synchronize-your-files-collective-directory-creation-in-win11plus11/"><u>Synchronize Your Files: Collective Directory Creation in Win11+11</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-your-photos-innovative-erase-on-windows/"><u>Transform Your Photos: Innovative Erase on Windows</u></a></li>
 </ul></div>
 

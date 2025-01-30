@@ -1,7 +1,7 @@
 ---
 title: "Unravel Complex Windows Issues: Help at Hand"
-date: 2024-08-15T15:23:21.499Z
-updated: 2024-08-16T15:23:21.499Z
+date: 2025-01-25T19:18:16.889Z
+updated: 2025-01-29T17:12:55.056Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
 
  In this guide, we're going to highlight some of the best ways to get help with your Windows PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use Windows Search With Bing Chat
 
  Microsoft has improved the Windows Search tool tremendously over the years. As long as you know [how to use Windows Search](https://www.makeuseof.com/windows-search-use-guide/), it's easy to find the app, program, file, or resource you need.
@@ -31,6 +35,11 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
 2. This will open a Microsoft Edge tab with Bing Chat open. To use it, enter what you need help with in the search box at the bottom, and then hit the **Enter** key on your keyboard.  
 ![bing-chat-in-edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/bing-chat-in-edge.jpg)
 3. The AI will take a moment to look for a solution, and if it finds one, it will display the steps you need to take to solve your problem. You just need to try them out and see if they work out for you.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![bing-chat-results-in-edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/bing-chat-results-in-edge.jpg)
 
  After outlining the solutions for you, it will list the resources it has used at the bottom so you can learn more about how to fix the problem you've encountered.
@@ -46,13 +55,11 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
 ![launching-the-get-help-app-through-Windows-search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/launching-the-get-help-app-through-windows-search.jpg)
 3. In the text box, type the help you need (make sure it's 80 characters or less) and hit the **Enter** key on your keyboard.  
 ![searching-for-help-in-the-get-help-app-on-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/searching-for-help-in-the-get-help-app-on-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. The app will search for self-help articles online and display the steps or information you need to solve the problem you're experiencing.  
 ![search-results-in-the-get-help-app-on-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/search-results-in-the-get-help-app-on-windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the Get Help app doesn't have a solution, there's another app you can use.
@@ -66,20 +73,11 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
 1. Press **Win + S** to bring up Windows Search.
 2. Type **quick assist** in the Search box and click on the **Quick Assist** app in the results to launch it.  
 ![launching-the-quick-assist-app-through-Windows-search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/launching-the-quick-assist-app-through-windows-search.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Enter the security code you got from the helper in the **Get help** section and click **Submit**.  
 ![entering-the-security-code-in-the-quick-assist-app-on-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/entering-the-security-code-in-the-quick-assist-app-on-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Once the helper is able to connect to your PC, you can sit back and let them do their thing.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Use the Built-In Windows Troubleshooters
 
  Windows has several built-in troubleshooters that help you diagnose and fix specific problems on your computer. All you have to do is [run the desired troubleshooter on Windows](https://www.makeuseof.com/run-troubleshooter-windows-10-11/) and you'll be well on your way to fixing what's wrong. If you're using Windows 11, you can [learn about the different types of Windows Troubleshooters](https://www.makeuseof.com/run-troubleshooter-windows-10-11/) so you know which ones to use.
@@ -92,24 +90,32 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
 
 1. Go to the [Microsoft Support page](https://support.microsoft.com/contactus?ContactUsExperienceEntryPointAssetId=S.HP.windows) and, in the **Select the product you need help with** section, click on **Windows**.  
 ![the-microsoft-support-page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-microsoft-support-page.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 2. In the pop-up, click **Get Home support** to access the self-help tool.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![the-pop-up-to-get-support-on-the-microsoft-support-page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-pop-up-to-get-support-on-the-microsoft-support-page.jpg)
 3. Once it loads, enter the problem you need help with in the text box and click on **Get Help** so it can find self-help articles for you (yes, this is similar to using the Get Help app).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![searching-for-help-on-the-microsoft-support-page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/searching-for-help-on-the-microsoft-support-page.jpg)
 
  If you want other Windows users to help you, you can [reach out to the Microsoft Community for assistance](https://www.makeuseof.com/how-to-use-the-microsoft-community-to-solve-your-windows-problem/). You can also drop [the MicrosoftHelps Twitter account](https://twitter.com/MicrosoftHelps) a message, or if you're using a Surface or Xbox device, book an appointment with a support professional on the [Microsoft Answer Desk page](https://www.microsoft.com/en-us/store/locations/answer-desk).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get Help When Solving Problems on Windows
 
  Your computer and the World Wide Web are full of ways to help you fix problems on Windows, and you can find them if you know where to look. Of course, there are more ways than these to get help with Windows problems. However, with these methods under your tool belt, you hopefully won't have to look far when you encounter issues.
 
  In this guide, we're going to highlight some of the best ways to get help with your Windows PC.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -118,5 +124,18 @@ The ultimate burning program for all your needs!</a>
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-adobe-premiere-pro-101-for-youtube-clips-and-edits-for-2024/"><u>[New] Adobe Premiere Pro 101 for YouTube Clips and Edits for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-expert-advice-on-itunes-video-capturing/"><u>[New] In 2024, Expert Advice on iTunes Video Capturing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-exciting-updates-dive-into-the-best-of-apples-ios-18-public-beta-highlights-zdnet/"><u>Discover Exciting Updates: Dive Into the Best of Apple's iOS 18 Public Beta Highlights - ZDNet</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/keyboard-commands-for-optimal-windows-photo-editing/"><u>Keyboard Commands for Optimal Windows Photo Editing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-aquatic-cinematography-with-these-7-essential-strategies/"><u>Mastering Aquatic Cinematography with These 7 Essential Strategies</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-empty-directory-issue-windows-1011-error-x80070091/"><u>Resolving Empty Directory Issue - Windows 10/11 Error X80070091</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/speedy-video-and-audio-transformations-by-winxvideo-ai-using-powerful-gpu-boost/"><u>Speedy Video & Audio Transformations by WinxVideo AI Using Powerful GPU Boost</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-your-defenses-choose-just-one-antivirus-on-windows/"><u>Streamline Your Defenses: Choose Just One Antivirus on Windows</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-acer-xfa240-review-balancing-usefulness-with-style/"><u>Unveiling the Acer XFA240 Review: Balancing Usefulness with Style</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-windows-remote-problem-invisible-screen/"><u>Unveiling Windows Remote Problem: Invisible Screen</u></a></li>
+</ul></div>
 

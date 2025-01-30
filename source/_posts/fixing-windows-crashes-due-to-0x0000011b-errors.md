@@ -1,7 +1,7 @@
 ---
 title: Fixing Windows Crashes Due to 0X0000011B Errors
-date: 2025-01-17T20:32:21.406Z
-updated: 2025-01-22T17:30:14.421Z
+date: 2025-01-25T05:43:26.624Z
+updated: 2025-01-30T06:57:11.645Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Restart the Print Spooler Service
@@ -42,17 +42,21 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
 4. Next, right-click on the service and select**Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![print spooler service startup type automatic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/print-spooler-service-startup-type-automatic.jpg)
 5. In the**Properties** dialog, open the**General** tab.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![restart print spooler service 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restart-print-spooler-service-1.jpg)
 6. Click the**Startup type** drop-down and set it to**Automatic** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Click**Apply** and**OK** to save the changes.
@@ -86,24 +90,16 @@ To check and install Windows updates:
 5. In the**Add Printer** dialog, select **Add a local printer or network printer with manual settings.**  
 ![add local printer network printer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/add-local-printer-network-printer.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Under**Choose a printer por** t, select**Create a new port.**  
 ![create new port local port add printer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-port-local-port-add-printer.jpg)
 2. Click the drop-down for**Type of port** and select**Local Port.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Click**Next** .  
 ![enter port name printer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/enter-port-name-printer.jpg)
 4. Type your network printer file path and the network printer name in the**Enter a port name** field. You can use the username or the IP address for the computer name and then the printer name you want to share.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click**OK** to save the printer.
@@ -143,6 +139,10 @@ Next, follow these steps to disable CVE-2021-1678 mitigation:
 
 9. After the restart, try to use your shared printer and check if the error is resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Uninstall Recently Installed Updates
 
  Assuming the issue is triggered after you installed a Windows security update, uninstalling the update should undo the changes and fix the error. You can uninstall some individual updates from the Windows updates section. This feature is specifically available to undo issues that may have occurred after installing an update.
@@ -156,15 +156,15 @@ To uninstall Windows updates:
 ![control panel uninstall programs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/control-panel-uninstall-programs.jpg)
 3. Next, click on**Programs** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![control panel uninstall programs view installed updatges](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/control-panel-uninstall-programs-view-installed-updatges.jpg)
 4. Click on**View installed updates** under**Programs and Features** . This will open the**Uninstall updates** section in the**Settings** app. Alternatively, go to **Settings > Windows Update > Update history > Uninstall updates** to access the same.  
 
 ![uninstall windows updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/uninstall-windows-updates.jpg)
 5. Locate the problematic update (**KB5005565**) and click on**Uninstall** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Click**Uninstall** again to confirm the action. Wait for the update to uninstall and restart your PC to apply the changes.
 
@@ -187,20 +187,21 @@ To uninstall Windows updates:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-capturing-in-action-a-screen-recorders-journey/"><u>[New] Capturing in Action A Screen Recorder's Journey</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-dominating-desktops-secrets-to-viral-tiktok-videos/"><u>[New] Dominating Desktops Secrets to Viral TikTok Videos</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-mastering-in-video-narrations-a-step-by-step-guide/"><u>[Updated] In 2024, Mastering In-Video Narrations A Step-by-Step Guide</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/all-the-best-ways-to-say-thank-you-in-greek/"><u>All the Best Ways to Say Thank You in Greek</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtubes-transformation-blueprint-for-igtv-adaptation/"><u>In 2024, YouTube's Transformation Blueprint for IGTV Adaptation</u></a></li>
-<li><a href="https://windows11.techidaily.com/key-steps-for-entering-windows-11s-system32/"><u>Key Steps for Entering Windows 11'S System32</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Xiaomi 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/redefining-where-you-keep-your-files-onedrive-move-in-windows-10/"><u>Redefining Where You Keep Your Files: OneDrive Move in Windows 10</u></a></li>
-<li><a href="https://win-dash.techidaily.com/roccat-mousedeck-installer-where-to-find-and-download-the-latest-version/"><u>Roccat Mousedeck Installer: Where to Find and Download the Latest Version</u></a></li>
-<li><a href="https://windows11.techidaily.com/sd-card-vanishing-act-solutions-for-windows-explore/"><u>SD Card Vanishing Act: Solutions for Windows Explore</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/songsyncing-simplified-your-guide-to-turning-tamil-music-into-alerts/"><u>SongSyncing Simplified Your Guide to Turning Tamil Music Into Alerts</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-for-uninstalling-win11s-official-app/"><u>Strategies for Uninstalling Win11's Official App</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-curtail-chromes-unintended-tab-creation/"><u>Strategies to Curtail Chrome's Unintended Tab Creation</u></a></li>
-<li><a href="https://windows11.techidaily.com/transform-your-file-management-with-powerrename/"><u>Transform Your File Management with PowerRename</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-the-secrets-to-using-netstat-within-windows-11/"><u>Unveiling the Secrets to Using Netstat Within Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tailoring-content-for-snapchats-luminaries/"><u>[New] Tailoring Content for Snapchat's Luminaries</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-inside-the-world-of-screencasts-understanding-fundamental-principles/"><u>[Updated] 2024 Approved Inside the World of Screencasts Understanding Fundamental Principles</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-essential-iphone-applications-for-clearing-photos-of-obstacles-for-2024/"><u>[Updated] Essential iPhone Applications for Clearing Photos of Obstacles for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/bring-forth-the-lost-frames-off-screen-recovery-in-edge-os/"><u>Bring Forth the Lost Frames: Off-Screen Recovery in Edge OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/dism-mastery-in-windows-11-system-image-repair/"><u>Dism Mastery in Windows 11 System Image Repair</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/how-to-fix-a-bios-level-corruption-causing-whea-uncorrectable-errors-on-windows-11/"><u>How to Fix a BIOS-Level Corruption Causing WHEA Uncorrectable Errors on Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-remove-onedrive-from-file-explorer-on-windows-10-solved/"><u>How to Remove OneDrive From File Explorer on Windows 10 [Solved]</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-vivo-y56-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Vivo Y56 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/merging-video-clips-seamlessly-using-google-photos-editor-on-your-computer/"><u>Merging Video Clips Seamlessly Using Google Photos Editor on Your Computer</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-freeze-fixes-in-win-photoshop-setup/"><u>Navigating Freeze Fixes in Win-Photoshop Setup</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-net-error-0x800704b3-on-windows-devices/"><u>Navigating Through Net Error 0X800704B3 on Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/prioritizing-page-notes-on-pc-windows/"><u>Prioritizing Page Notes on PC Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/reversing-the-tide-fixing-xbox-11-stranded-app-issue/"><u>Reversing the Tide: Fixing Xbox 11 Stranded App Issue</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-perfect-match-freestyle2-blue-review-tailored-for-mac-users/"><u>Unveiling the Perfect Match: Freestyle2 Blue Review Tailored for Mac Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-is-and-isnt-allowed-in-windows-11-s-mode/"><u>What Is and Isn’t Allowed in Windows 11 S Mode</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Reactivating Silenced PC Speakers – Easy Fixes Ahead!
-date: 2024-08-15T15:23:24.773Z
-updated: 2024-08-16T15:23:24.773Z
+date: 2025-01-23T03:57:47.572Z
+updated: 2025-01-29T18:19:51.854Z
 tags:
   - windows10
   - windows11
@@ -31,8 +31,9 @@ thumbnail: https://thmb.techidaily.com/6f4cdd66eb80d6b11b40dd91cdc2954ad9c9332b6
  Using a laptop? The mute function is typically found by pressing**Fn** and the corresponding**F** key.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Check the Speaker Jack
 
  Next, check the speaker jack on your PC (a laptop will typically have its own audio).
@@ -49,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/6f4cdd66eb80d6b11b40dd91cdc2954ad9c9332b6
 
  If the card is correctly attached to the motherboard, and its power LED appears when the PC is powered up, everything should be fine. However, if you have been using the front audio jack on your PC case, check this is internally attached to the sound card. If you want to dive deep to look into jack issues, then make sure to check [how to fix an unresponsive audio jack on Windows](https://www.makeuseof.com/windows-fix-unresponsive-audio-jack/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Still No Sound From Your Speakers? Check the Power
 
  If you're using external speakers, be sure to check that these are powered on. A small red or green LED should indicate that the speakers are receiving power. Make sure they're connected to the mains electricity, too (or a USB connection, if that's how they receive power).
@@ -56,8 +61,9 @@ thumbnail: https://thmb.techidaily.com/6f4cdd66eb80d6b11b40dd91cdc2954ad9c9332b6
  If everything is okay here and there is still no sound, it's worth connecting the speakers to another device. This might be a different PC or even a phone or tablet. As long as it has a suitable audio port, you should be able to connect your PC speakers or headphones.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Confirm That the HDMI Audio Is Selected
 
  Some HD displays don't support audio over an HDMI cable, even when the cable does. As such, there could be a scenario in which you're using an HDMI display that won't play audio.
@@ -71,8 +77,9 @@ thumbnail: https://thmb.techidaily.com/6f4cdd66eb80d6b11b40dd91cdc2954ad9c9332b6
 Audio should now play on your HDMI TV.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Check Your Windows Audio Device Drivers
 
  Made all the checks to your hardware and cabling, and still getting no sound from your computer speakers? Then it's time to try a software solution. Remember the last time you did a driver update? If not, now might be the right time.
@@ -88,9 +95,6 @@ Audio should now play on your HDMI TV.
  But if your driver really has become corrupted, then the only way out is a reinstallation. In the Device Manager, find the audio driver,**right-click** on it, and select**Uninstall device** .
 
 ![uninstall audio drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/uninstall-audio-drivers.png)
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After the uninstallation is complete, perform a system reboot. Your computer will install the latest driver on its own at the next boot-up.
 
@@ -108,9 +112,6 @@ Audio should now play on your HDMI TV.
 
  The exact procedure to do this will vary depending on the manufacturer. So, it would be a good idea to check out the manufacturer's website.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Ensure the Speaker Volume Is Turned On
 
  This isn't the same as having your computer set to mute. We are talking about your audio driver software here.
@@ -119,7 +120,15 @@ Audio should now play on your HDMI TV.
 
 ![manage the speakers sound](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/manage-the-speakers-sound-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Right-click** on the speaker icon that you'll find in the bottom-right corner of your taskbar. From there, select**Sounds** and click on the**Speaker/Headphone** option. Adjust the sound of the speaker in the**Levels** tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Check for Corruption of Windows System Files
 
@@ -129,17 +138,11 @@ Audio should now play on your HDMI TV.
 2. Now, type**sfc/ scannow** and hit**Enter** .
 
 ![sfc command execution to fix speakers that are not working](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/run-sfc-command.png)
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The SFC will scan the system and fix any errors that it finds. If there really was a corruption issue with system files, it'll be resolved by the end of this scan.
 
  If you're interested in keeping Windows working smoothly, check out how to repair corrupt Windows files with built-in tools.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 10\. Disable Audio Enhancements
 
  At times, having audio enhancements enabled can lead to audio issues. To make sure that's not the case, it's better that you turn them off.
@@ -150,9 +153,6 @@ Audio should now play on your HDMI TV.
 4. Finally, select either the**Disable all enhancements** or the**Disable** option in the Enhancements tab and select**OK** .
 
 ![disabling enhancements from control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/disable-enhancements.png)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 
  This will turn off all enhancements that could be the cause of your speakers not working.
 
@@ -174,8 +174,6 @@ Audio should now play on your HDMI TV.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,8 +181,24 @@ Audio should now play on your HDMI TV.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/nnovative-and-inexpensive-the-best-free-youtube-name-generators-for-2024/"><u>[New] Innovative & Inexpensive The Best Free YouTube Name Generators for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-mastering-the-art-of-buying-cutting-edge-360cams-for-2024/"><u>[New] Mastering the Art of Buying Cutting-Edge 360Cams for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-bend-and-shape-your-text-with-3d-effects-in-illustrator/"><u>[Updated] Bend and Shape Your Text with 3D Effects in Illustrator</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-exploring-every-aspect-of-vitas-complete-editing-app-for-2024/"><u>[Updated] Exploring Every Aspect of Vita's Complete Editing App for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/erasing-your-instagram-identity-step-by-step-guidebook/"><u>Erasing Your Instagram Identity Step-by-Step Guidebook</u></a></li>
+<li><a href="https://techidaily.com/experience-the-future-microsofts-ai-powered-desktop-pc-with-inbuilt-1080p-touch-display/"><u>Experience the Future: Microsoft's AI-Powered Desktop PC with Inbuilt 1080P Touch Display</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-correct-gl-error-3-with-nvidia-on-windows-oses/"><u>How to Correct GL Error 3 with Nvidia on WIndows OSes</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-prevent-auto-restart-events-on-win11/"><u>How to Prevent Auto-Restart Events on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-troubleshoot-high-cpu-usage-with-the-windows-resource-monitor/"><u>How to Troubleshoot High CPU Usage With the Windows Resource Monitor</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-tecno-camon-20-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Tecno Camon 20 Phone Now with These Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-non-working-escape-keys-on-your-windows-system/"><u>Navigating Non-Working Escape Keys on Your Windows System</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-maze-of-chrome-profile-disruptions-on-desktop/"><u>Navigating the Maze of Chrome Profile Disruptions on Desktop</u></a></li>
+<li><a href="https://windows11.techidaily.com/precise-control-setup-adjusting-shortcut-locations-on-windows-11s-power-icon/"><u>Precise Control Setup: Adjusting Shortcut Locations on Windows 11'S Power Icon</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-cut-down-energy-use-of-wlanextexe/"><u>Strategies to Cut Down Energy Use of Wlanext.EXE</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/stream-to-stardom-mastering-live-with-xsplit-or-obs-in-2024/"><u>Stream to Stardom Mastering Live with XSplit or OBS, In 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-windows-ignoring-local-lsa-warning/"><u>Troubleshooting Windows: Ignoring Local LSA Warning</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-how-do-i-tell-if-psn-is-offline-or-its-a-local-connection-error/"><u>Troubleshooting: How Do I Tell if PSN Is Offline or It's a Local Connection Error?</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Tactics for Mending Fatal Discord Javascript Crashes on Windows 10/11
-date: 2025-01-18T18:02:49.271Z
-updated: 2025-01-22T18:23:09.943Z
+date: 2025-01-25T22:23:39.542Z
+updated: 2025-01-30T08:27:27.275Z
 tags:
   - windows10
   - windows11
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 ![The Run this program in compatibility mode checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-this-program-as-administrator-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Uninstall BetterDiscord
@@ -47,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 6. Select the**Uninstall BetterDiscord** option, and click**Next** again.  
 ![The Uninstall BetterDiscord option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-betterdiscord-option.jpg)
 7. Choose a**Discord** version.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 8. Click**Uninstall** to finish.
 
@@ -63,20 +67,16 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 ![A Discord-related processes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/discord-related-process.jpg)
 5. Open Windows Explorer with**Win + E** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Type**%appdata%** inside Explorer’s address bar and press**Return** .
 7. Then select the Discord data folder and click Explorer's**Delete** option on the**Home** tab or command bar.  
 ![A discord folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/discord-folder.jpg)
 8. Input**%LocalAppData%** in Explorer’s address bar and press**Enter** .
 
-9. Next, click the Discord folder with the mouse’s right button and select**Delete** .
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+9. Next, click the Discord folder with the mouse’s right button and select**Delete** .
 
 ## 4\. Reinstall Discord
 
@@ -93,10 +93,6 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 7. Click**Download** **for Windows** to get the Discord setup wizard.  
 ![The Download for Windows option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/download-for-windows-button.jpg)
 8. Next, double-click**DiscordSet.exe** in whatever file your browser downloaded it in.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 9. Go through Discord’s installation wizard to reinstall the software.
 
@@ -119,7 +115,7 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/real-time-protection-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Check the Quality Windows Audio Video Experience Service is Enabled
@@ -140,13 +136,17 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 ![The Log On tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/this-account-radio-button.jpg)
 8. Click**Browse** for the**This account** radio button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 9. Input your user account within the**Enter** object name box.
 10. Click**OK** to close out of the Select user window.
 11. To save the service’s new settings, select its**Apply** option.
 12. Then exit the window by selecting**OK** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Start Chatting in Discord Again on Windows
@@ -168,24 +168,16 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-seamlessly-transition-media-formats-with-free-downloader/"><u>[New] 2024 Approved Seamlessly Transition Media Formats with Free Downloader</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-dynamic-imagery-achieving-balanced-colors-in-gopro-footage/"><u>[New] Dynamic Imagery Achieving Balanced Colors in GoPro Footage</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-elite-photography-narrative-assembler-kit/"><u>2024 Approved Elite Photography Narrative Assembler Kit</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/advanced-techniques-for-ultimate-iphone-hdr-for-2024/"><u>Advanced Techniques for Ultimate iPhone HDR for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-steps-for-deleting-temporary-iso-files-on-winx-dvd-duplication-software/"><u>Effective Steps for Deleting Temporary ISO Files on WinX DVD Duplication Software</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ek-unveils-advanced-custom-water-block-technology-to-keep-your-delidded-amd-ryzen-am5-at-peak-temperatures/"><u>EK Unveils Advanced Custom Water Block Technology to Keep Your Delidded AMD Ryzen AM5 at Peak Temperatures</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-scripts-to-discover-your-computers-ip-and-mac-addresses/"><u>Essential Scripts to Discover Your Computer's IP & MAC Addresses</u></a></li>
-<li><a href="https://windows11.techidaily.com/festive-fizzles-yule-time-apps-from-microsofts-hub/"><u>Festive Fizzles: Yule-Time Apps From Microsoft's Hub</u></a></li>
-<li><a href="https://windows11.techidaily.com/guidance-for-overcoming-indexer-service-start-up-issues/"><u>Guidance for Overcoming Indexer Service Start-Up Issues</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-motorola-moto-e13-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Motorola Moto E13</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-a70-phone-without-google-account-by-drfone-android/"><u>How to Unlock Itel A70 Phone without Google Account?</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-accelerated-sizing-youtube-content-for-macs/"><u>In 2024, Accelerated Sizing YouTube Content for MACs</u></a></li>
-<li><a href="https://fox-http.techidaily.com/master-the-art-of-micro-focusing-in-virtual-gatherings-for-2024/"><u>Master the Art of Micro-Focusing in Virtual Gatherings for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/resetting-and-recovering-lost-steam-icons/"><u>Resetting and Recovering Lost Steam Icons</u></a></li>
-<li><a href="https://windows11.techidaily.com/sharpen-windows-keystrokes-seven-tactics-to-decrease-delay/"><u>Sharpen Windows' Keystrokes: Seven Tactics to Decrease Delay</u></a></li>
-<li><a href="https://windows11.techidaily.com/solving-overlapping-icons-on-pc/"><u>Solving Overlapping Icons on PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/stepwise-installation-of-dolby-atmos-audio-on-windows-devices/"><u>Stepwise Installation of Dolby Atmos Audio on Windows Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-the-sticky-note-access-code-for-windows-11/"><u>Unveiling the Sticky Note Access Code for Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/what-users-dislike-in-windows-11-most/"><u>What Users Dislike in Windows 11 Most</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-mastering-unique-tiktok-personalities-through-creative-pfp-designs/"><u>[Updated] In 2024, Mastering Unique TikTok Personalities Through Creative PFP Designs</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-heres-everything-you-should-know-about-pokemon-stops-in-detail-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Heres Everything You Should Know About Pokemon Stops in Detail On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-12-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone 12</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-step-by-step-starting-a-skype-call-on-android/"><u>In 2024, Step-by-Step Starting a Skype Call on Android</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-the-challenge-of-unacceptable-connections-on-pcs/"><u>Overcoming the Challenge of Unacceptable Connections on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/stops-on-self-launched-new-chrome-tabs-on-your-desktop/"><u>Stops on Self-Launched New Chrome Tabs on Your Desktop</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-eradicating-endless-teams-login-alerts/"><u>Strategies for Eradicating Endless Teams Login Alerts</u></a></li>
+<li><a href="https://windows11.techidaily.com/tactics-for-extracting-hidden-windows-product-codes/"><u>Tactics for Extracting Hidden Windows Product Codes</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-essential-techniques-for-boosting-pc-wake-up-time/"><u>The Essential Techniques for Boosting PC Wake-Up Time</u></a></li>
+<li><a href="https://review-topics.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-itel-p55t-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unforeseen-risks-6-reasons-for-careful-engagement-with-ai/"><u>Unforeseen Risks: 6 Reasons for Careful Engagement With AI</u></a></li>
 </ul></div>
 

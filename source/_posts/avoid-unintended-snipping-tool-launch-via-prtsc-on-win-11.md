@@ -1,7 +1,7 @@
 ---
 title: Avoid Unintended Snipping Tool Launch via PrtSc on Win 11
-date: 2024-08-15T15:21:02.901Z
-updated: 2024-08-16T15:21:02.901Z
+date: 2025-01-29T05:47:24.816Z
+updated: 2025-01-30T06:18:44.999Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
  If you're not a fan of the Snipping tool, here's how to reclaim the Print Screen key on Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Did Windows 11 Claim the Print Screen Key?
 
  Microsoft recently released a new Insider Preview build of Windows 11, announced via the [Windows Blog](https://blogs.windows.com/windows-insider/2023/04/07/announcing-windows-11-insider-preview-build-22621-1546-and-22624-1546/) , that changes the way the Print Screen button functions by default. Earlier, the key would screenshot your entire screen and save it to the clipboard. You’d then have the option of importing this copied image data into a program such as a photo editor or even a word processor.
@@ -29,8 +33,9 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
  If you update to the latest Windows 11 build, pressing the Print Screen key will open the Windows Sipping tool instead. But that’s only if you haven’t previously changed this setting. If you have it set up to do something else, your preference will be preserved, Microsoft says.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Reset Print Screen Functionality to Default
 
  If your Print Screen key opens the Snipping tool and you’d like to go back to the way things were, a simple settings change will turn back the clock.
@@ -39,26 +44,25 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 2. Click on**Accessibility** on the left pane.
 3. Scroll down to the**On-screen keyboard, access keys, and Print screen** section.  
 ![Change how Windows print screen button works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/toggle-print-screen-button-snipping-tool.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Toggle the print screen button option off.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Take Screenshots Easily in Windows 11
 
  There are many ways to take a screenshot in Windows 11\. Using the Print Screen key is just one of them. And if you want to reclaim the old functionality of the Print Screen key, it's easy to do so.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -67,8 +71,23 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-all-app-analysis-comprehensible-by-az-capture-for-2024/"><u>[New] All-App Analysis Comprehensible by AZ Capture for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-how-to-convert-a-spotify-playlist-to-youtube-music/"><u>[Updated] In 2024, How to Convert A Spotify Playlist To YouTube Music</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-top-8-android-visionaries-for-speedy-videos-for-2024/"><u>[Updated] Top 8 Android Visionaries for Speedy Videos for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-unveiling-the-layers-intricate-analysis-of-vegas-pro-21/"><u>2024 Approved Unveiling the Layers Intricate Analysis of Vegas Pro '21</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-the-benefits-of-arm-based-copilotplus-computers-why-theyre-perfect-for-me/"><u>Exploring the Benefits of ARM-Based Copilot+ Computers: Why They're Perfect for Me</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-the-evolution-a-compelling-overview-of-windows-wallpaper-developments/"><u>Exploring the Evolution: A Compelling Overview of Windows Wallpaper Developments</u></a></li>
+<li><a href="https://windows11.techidaily.com/further-issues-discovered-new-windows-updates-causing-devastating-bluescreens/"><u>Further Issues Discovered: New Windows Updates Causing Devastating Bluescreens</u></a></li>
+<li><a href="https://techtrends.techidaily.com/hottest-apple-watch-promotions-for-this-week/"><u>Hottest Apple Watch Promotions for This Week!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-samsung-galaxy-a15-4g-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Samsung Galaxy A15 4G Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-windows-10-mastering-photo-and-video-importation/"><u>In 2024, Unveiling Windows 10 Mastering Photo & Video Importation</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209862600-9789081991056-jesus-the-untold-story/"><u>Jesus, the untold story | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-file-syncs-aoemi-guide-for-dual-windows-systems/"><u>Mastering File Syncs: AOEMi Guide for Dual Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-microsoft-edge-by-disabling-redundant-features-techniques-and-tips/"><u>Streamlining Microsoft Edge by Disabling Redundant Features - Techniques and Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-7-linux-qualities-deserving-a-spot-in-the-next-windows-update/"><u>Top 7 Linux Qualities Deserving a Spot in the Next Windows Update</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-lifespan-extension-continuity-and-microsoft/"><u>Windows 11, Lifespan Extension, Continuity, and Microsoft.</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-at-gaming-on-windows-11-a-step-by-step-performance-optimization-tutorial/"><u>Winning at Gaming on Windows 11: A Step-by-Step Performance Optimization Tutorial</u></a></li>
+</ul></div>
 

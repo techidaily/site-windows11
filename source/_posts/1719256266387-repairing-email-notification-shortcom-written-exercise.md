@@ -1,7 +1,7 @@
 ---
 title: Repairing Email Notification Shortcom Written Exercise
-date: 2024-08-15T15:23:08.833Z
-updated: 2024-08-16T15:23:08.833Z
+date: 2025-01-29T03:55:11.787Z
+updated: 2025-01-29T16:41:43.565Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/9ad9147e4fbb8c24ccda197a0486be5c1d9c044a4
  Mail is a built-in Windows application that supports all popular accounts, including Outlook, Hotmail, Yahoo, Gmail, and iCloud. It also keeps you up to date with your most recent emails by sending you timely notification alerts. However, when those notifications stop working, you could miss out on important or urgent mail.
 
  If this happens to you, here are some effective troubleshooting tips that will help you fix the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Check the In-App Notification Settings
 
@@ -38,8 +42,9 @@ To access notification settings in the Mail app:
  Once you complete the above steps, the Mail app should start showing notifications on Windows.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Enable Mail App Notifications From Windows Settings
 
  Windows includes numerous notification management options, including the ability to enable or disable notifications for specific apps. If you’ve previously learned [how to customize your notifications on Windows 11](https://www.makeuseof.com/windows-11-customize-notifications/) and turned off notifications for the Mail app, you won't get any alerts.
@@ -50,8 +55,9 @@ To access notification settings in the Mail app:
 2. In the**System** tab, click on**Notifications** .
 3. Under**Notifications from apps and other senders** , enable the switch next to**Mail** if it isn’t already.  
 ![Enable Windows Mail App Notifications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Enable-Windows-Mail-App-Notifications.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Check Mailbox Sync Settings
@@ -66,13 +72,15 @@ To access notification settings in the Mail app:
 6. Under**Download new content** , select**as items arrive** .
 7. Under**Sync options** , enable the toggle for**Email** .  
 ![Check Mail App Sync Settings Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Check-Mail-App-Sync-Settings-Windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Allow the Mail App to Run in the Background
 
  Windows lets you decide which apps and programs can run in the background. If you have denied the Mail app permission to run in the background, you will not receive notifications unless the app is open.
@@ -87,9 +95,6 @@ To access notification settings in the Mail app:
 6. Click the drop-down menu under**Background apps permissions** and choose**Always** .  
 ![Allow Windows Mail App to Run in the Background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Allow-Windows-Mail-App-to-Run-in-the-Background.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Remove and Re-Add Your Email Account
 
  If the Mail app still fails to show notifications, you can try removing your email account from the app and adding it again. This should reconnect your account to the app and resolve any issues.
@@ -102,14 +107,6 @@ To access notification settings in the Mail app:
 
 Once removed, restart the Mail app and add your account again.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## 6\. Turn Off Focus Assist
 
  Focus Assist is a handy Windows feature that mutes notifications for all apps unless specified otherwise. If you’ve enabled this feature, you will not receive notifications from any apps, including the Mail app.
@@ -121,17 +118,14 @@ Once removed, restart the Mail app and add your account again.
 3. Set the Focus Assist to**Off** , so you get all notifications.  
 ![Turn Off Focus Assist](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Turn-Off-Focus-Assist.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Further, check the**Automatic rules** section to make sure Focus Assist is not set to enable itself automatically.
 
  If you're interested in Focus Assist, be sure to check out [how to silence notifications in Focus Assist for Windows](https://www.makeuseof.com/tag/windows-focus-assist/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## 7\. Disable Battery Saver Mode
 
  When you enable battery saver mode, Windows limits various background app activities in order to extend battery life. This can prevent apps like Mail from syncing in the background and displaying notifications. To avoid this, you should disable battery saver mode on Windows. Here's how:
@@ -161,23 +155,17 @@ No advertising on the website.
 
  Head over to the Microsoft Store on your PC. Search for**Mail and calendar** app and click the**Update** button. If you do not see the Update option, then the app is already up-to-date.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## Fixing Mail App Notifications on Windows
 
  The Mail app notification issues can occur due to various factors, ranging from incorrectly configured settings to a faulty app update. In any case, going through the above-mentioned fixes should get the Mail app notifications to work again on Windows.
 
  If you’ve gotten tired of such issues with the default Windows Mail app, there are plenty of third-party email apps you may want to try.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -186,8 +174,20 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-ultimate-companion-for-podcast-name-crafting-top-10-tools/"><u>[New] In 2024, The Ultimate Companion for Podcast Name Crafting Top 10 Tools</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-syncing-your-pre-recording-with-real-time-facebook-broadcasts-for-2024/"><u>[Updated] Syncing Your Pre-Recording with Real-Time Facebook Broadcasts for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-safeguarding-your-conversations-securely-backing-up-whatsapp-chats-on-samsung-devices/"><u>Complete Guide: Safeguarding Your Conversations - Securely Backing up WhatsApp Chats on Samsung Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-savings-on-a-high-tech-affordable-hands-free-robot-vac-unveiled-by-zdnet-today/"><u>Discover the Ultimate Savings on a High-Tech, Affordable Hands-Free Robot Vac | Unveiled by ZDNET Today!</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-unresponsive-windows-11-search-engine/"><u>Fixing Unresponsive Windows 11 Search Engine</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-unlock-hidden-bluetooth-clients-in-device-hub/"><u>Guide: Unlock Hidden Bluetooth Clients in Device Hub</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-does-microsoft-make-money-from-windows-11/"><u>How Does Microsoft Make Money From Windows 11?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-constant-fuser-app-errors-and-stabilizing-your-desktop-experience/"><u>Overcoming Constant Fuser App Errors and Stabilizing Your Desktop Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-file-access-barriers-on-windows-11/"><u>Overcoming File Access Barriers on Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-opengl32dll-errors-a-comprehensive-guide/"><u>Resolving OpenGL32.dll Errors: A Comprehensive Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-your-approach-to-fixing-installer-error-in-win11/"><u>Streamlining Your Approach to Fixing Installer Error in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-peculiar-path-to-a-plain-start-menu/"><u>The Peculiar Path to a Plain Start Menu</u></a></li>
+</ul></div>
 

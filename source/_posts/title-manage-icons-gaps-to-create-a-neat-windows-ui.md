@@ -1,7 +1,7 @@
 ---
 title: "Title: Manage Icons Gaps to Create a Neat Windows UI"
-date: 2025-01-20T18:12:04.412Z
-updated: 2025-01-22T16:02:01.278Z
+date: 2025-01-25T06:31:54.408Z
+updated: 2025-01-30T02:39:28.401Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Change Desktop Icon Spacing By Manually Editing the Registry
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 4. Select the**WindowMetrics** key.  
 ![The WindowMetrics key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/windowsmetrics-key.jpg)
 5. Double-click the**WindowMetrics** key's**IconSpacing** string, which changes the horizontal spacing for desktop icons.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Then erase the current**\-1125** number from the Value data box.
 2. Enter a replacement value with a minus (-) sign in front of it. For example, entering**\-1180** will slightly increase the horizontal spacing.  
@@ -57,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 
 ![New desktop icon spacing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/new-icon-spacing.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now you might wonder how you can restore the default desktop icon spacing. The default spacing value for both the strings is**\-1125** , which amounts to 75 pixels. So, return to the WindowMetric registry key and enter**\-1125** for both the**IconString** and**IconVerticalSpacing** string values. Thereafter, restart your PC to restore the default spacing.
 
 ## How to Change Desktop Icon Spacing With Winaero Tweaker
@@ -75,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 5. Select the checkbox for the**Show extracted files when complete** setting on the Extract Compressed (Zipped) Folders window.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Extract Compressed window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/the-extract-compressed-window3.jpg)
@@ -87,16 +87,16 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 ![The Winaero Tweaker setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/setup-winaero-tweaker-window2.jpg)
 5. All the other default installation options selected are fine. Keep clicking**Next** and then Install to finish.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Select the**Run Winaero Tweaker** checkbox after installing, and then click**Finish** .
 2. Double-click the**Advanced Appearance Settings** category in Winaero.
 3. Click the**Icons** option shown directly below.
 4. Drag the**Horizontal spacing** bar’s slider right or left to increase or decrease the space width between icons.  
 ![The Icons option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/icons-option.jpg)
 5. Then drag the slider for the**Vertical spacing** bar left or right to adjust the amount of vertical space for desktop icons.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Press the**Apply changes** button.
 7. Click the**Sign out now** option to restart your PC and apply the icon spacing changes.
@@ -108,6 +108,10 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
  You might also notice that Winaero Tweaker’s Icon option has an additional**Change icons font** setting. That option enables you to choose a different font for your desktop icons. Press the**Change Font icon** button to bring up the window shown below.
 
 ![The Font window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/font-window.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  There you can select a different icon font from a wide variety of alternatives in the**Font** menu. The**Font style** menu there includes 12 different styles for icon fonts to choose from. Input a higher or lower value in the**Size** box to increase or decrease the font size. You can also select**Strikeout** and**Underline** text effect options there.
 
@@ -127,10 +131,6 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 2. Click**Tools** on the DesktopOK window.  
 ![The Windows-Metrics option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-metrics-option.jpg)
 3. Select**Windows-Metrics** on the**Tools** menu.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Click**Yes** on the confirmation dialog prompt.
 5. Drag the**Horizontal Space** bar’s slider to change horizontal desktop icon spacing.  
@@ -158,20 +158,20 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-exclusive-list-the-best-websites-for-ringtone-grabs/"><u>[New] 2024 Approved Exclusive List The Best Websites for Ringtone Grabs</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-skyrocket-your-twitter-presence-through-livestreaming/"><u>[New] Skyrocket Your Twitter Presence Through Livestreaming</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-your-banner-game-mastering-visual-branding-techniques/"><u>[Updated] 2024 Approved Elevate Your Banner Game Mastering Visual Branding Techniques</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-the-science-behind-time-warp-visuals/"><u>[Updated] In 2024, The Science Behind Time Warp Visuals</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-vs-hugtingchat-an-in-depth-analysis-of-two-leading-llms/"><u>ChatGPT Vs. HugtingChat: An In-Depth Analysis of Two Leading LLMs</u></a></li>
-<li><a href="https://windows11.techidaily.com/fortify-your-files-embrace-weekly-windows-data-saves/"><u>Fortify Your Files: Embrace Weekly Windows Data Saves</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/mapmyride-reviewed-a-detailed-breakdown/"><u>MapMyRide Reviewed: A Detailed Breakdown</u></a></li>
-<li><a href="https://windows11.techidaily.com/maximizing-efficiency-shortcut-placement-in-win11-menu-bar/"><u>Maximizing Efficiency: Shortcut Placement in Win11 Menu Bar</u></a></li>
-<li><a href="https://windows11.techidaily.com/precision-setup-integrating-latest-network-drivers-from-intel-in-fedora/"><u>Precision Setup: Integrating Latest Network Drivers From Intel in Fedora</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reviving-the-hp-laptop-camera-in-windows-10-expert-tips-and-fixes/"><u>Reviving the HP Laptop Camera in Windows 10: Expert Tips & Fixes</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamless-audio-transmission-phones-and-windows-integration/"><u>Seamless Audio Transmission: Phones & Windows Integration</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/smooth-transition-upgrading-your-dell-alienware-drive-without-losing-a-bit-of-data/"><u>Smooth Transition: Upgrading Your Dell Alienware Drive Without Losing a Bit of Data</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-for-reestablishing-functionality-after-failed-ccleaner-on-windows-1011/"><u>Strategies for Reestablishing Functionality After Failed CCleaner on Windows 10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/tailoring-the-start-page-for-task-manager-windows-11/"><u>Tailoring the Start Page for Task Manager (Windows 11)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-ultimate-instagram-photography-guide-for-crafting-perfect-covers-for-2024/"><u>[New] The Ultimate Instagram Photography Guide for Crafting Perfect Covers for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-elite-camcorders-with-direct-facing-screens/"><u>[Updated] In 2024, Elite Camcorders with Direct Facing Screens</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/airdrop-fehlerbehebung-fur-iphone-modelle-ab-version-14-lernen-sie-hier-6-tipps-kennen/"><u>AirDrop Fehlerbehebung Für iPhone-Modelle Ab Version 14 - Lernen Sie Hier 6 Tipps Kennen!</u></a></li>
+<li><a href="https://windows11.techidaily.com/keeping-taskmanager-visible-above-others/"><u>Keeping TaskManager Visible Above Others</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726226605936-movavi-vob/"><u>Movavi 提供免費網路下載VOB檔 - 全球可用!</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-systems-blocked-app-barrier/"><u>Overcoming System's Blocked App Barrier</u></a></li>
+<li><a href="https://fox-info.techidaily.com/professional-secrets-to-flawless-photo-cropping-online-for-2024/"><u>Professional Secrets to Flawless Photo Cropping Online for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/remediation-of-sound-device-not-stopped-in-windows-os/"><u>Remediation of Sound Device Not Stopped in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/selective-deactivation-the-path-to-efficient-windows-11-performance/"><u>Selective Deactivation: The Path to Efficient Windows 11 Performance</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-balanced-choice-in-smartphones-our-in-depth-review-on-the-iphone-se-2020/"><u>The Balanced Choice in Smartphones: Our In-Depth Review on the iPhone SE (2020)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-complete-fix-overcoming-no-sound-glitches-in-playerunknowns-battlegrounds-pubg/"><u>The Complete Fix: Overcoming No Sound Glitches in PlayerUnknown's Battlegrounds (PUBG)</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-key-trackers/"><u>Top Rated Key Trackers</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-false-alarms-in-chrome-security-alert/"><u>Troubleshooting False Alarms in Chrome Security Alert</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-and-resolving-win10win11-security-faults/"><u>Understanding & Resolving Win10/Win11 Security Faults</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-sign-in-option-post-fail/"><u>Unlocking Windows Sign-In Option Post-Fail</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Approach to DotNet Repair on PCs (Max 156)
-date: 2024-08-15T15:20:09.108Z
-updated: 2024-08-16T15:20:09.108Z
+date: 2025-01-23T23:24:20.319Z
+updated: 2025-01-30T05:24:51.339Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,17 @@ thumbnail: https://thmb.techidaily.com/9e54865f3f57ec57dc69d69631538169245afb52f
 
  If the repair tool doesn’t work, you can use other workarounds to try and fix the framework errors. So, here are a few ways you can repair .NET Framework on your Windows computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run the .NET Framework Repair Tool
 
 ![microsoft dot net framework repair tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/microsoft-dot-net-framework-repair-tool.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  An easy way to repair your .NET Framework is to use the official .NET Framework Repair Tool provided by Microsoft on its official website. It is a handy utility that can check for common issues affecting the .NET Framework setup or updates and recommend fixes accordingly.
 
@@ -48,8 +56,17 @@ To run the .NET Framework Repair Tool
 4. In the left pane, click on**Turn Windows features On or Off.**  
 ![control panel turn windows features on or off 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/control-panel-turn-windows-features-on-or-off-1.jpg)
 5. Here, uncheck**.NET Framework 3.5** and**.NET Framework 4.8 Advanced Services** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click**OK** .  
 ![turn windows features on or off disable NET framework 3_5 4_8](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/turn-windows-features-on-or-off-disable-net-framework-3_5-4_8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Windows will disable**.NET Framework** from your PC and show**Windows completed the requested changes** message. Click**Restart Now** to apply the changes.
 
@@ -61,14 +78,8 @@ After the restart:
 ![turn windows features on or off enable NET framework 3_5 4_8](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/turn-windows-features-on-or-off-enable-net-framework-3_5-4_8.jpg)
 4. Next, click on**Let Windows update download the files for you** . This process may take some time, depending on your Internet connection speed.  
 ![turn windows features on or off enable NET framework 3_5 4_8 let windows update download files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/turn-windows-features-on-or-off-enable-net-framework-3_5-4_8-let-windows-update-download-files.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Once the feature is enabled, click**Restart** to apply the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. How to Repair .NET Framework Using PowerShell
 
  If the issue persists, try reinstalling .NET Framework on your Windows PC using [PowerShell](https://www.makeuseof.com/what-is-windows-powershell/) . You can use the shell application to perform a clean install of the .NET Framework and other associated tools. Here’s how to do it.
@@ -79,23 +90,17 @@ After the restart:
 `Get-Package -Name &ldquo;Microsoft .Net*&rdquo; | Uninstall-Package`
 4. PowerShell may prompt you to install**NuGet** – a packet manager necessary to perform this action. So, type**Y** and press**Enter** .  
 ![uninstall dot net framework powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/uninstall-dot-net-framework-powershell.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 5. PowerShell will now start to uninstall the .NET Framework from your PC.  
 ![install microsoft dot net framework powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-microsoft-dot-net-framework-powershell.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 6. Next, type the following command to install the latest version of Microsoft .NET Framework:  
 `winget install Microsoft.dotNetFramework`
 7. PowerShell will download and extract the package. You will see a successfully installed message once the process is complete.
 8. Restart your PC to apply the changes and check for any improvements.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. How to Manually Install an Older .NET Framework Version
 
  You can install only the latest version of .NET Framework using PowerShell. However, an app may sometimes require an older version of the .NET Framework to work. If reinstalling from the Optional Features dialog didn't help, you can manually install the framework from the .NET Framework download page.
@@ -112,11 +117,6 @@ To manually install older versions of the .NET Framework:
 ## 5\. Run the System File Checker Tool
 
 ![run system file check dism windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/run-system-file-check-dism-windows-11.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 
  The System File Checker tool is a built-in system repair utility that finds and fixes missing or corrupted system files. You can use the tool to fix any system issues that may conflict with the .NET Framework.
 
@@ -136,14 +136,11 @@ To run the System File Checker tool:
 
  The .NET framework in the Windows operating system is required to run some critical applications. When it runs into an error, some apps may ask you to install a specific version of .NET Framework to continue using the app. If you think you have the required version of .NET Framework installed, performing a repair can help you fix any .NET framework issues.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -152,8 +149,22 @@ To run the System File Checker tool:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-redefining-cinematic-exploration-via-vr/"><u>[New] 2024 Approved Redefining Cinematic Exploration via VR</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-unlocking-the-art-of-pc-games-screen-capture/"><u>[New] In 2024, Unlocking the Art of PC Games Screen Capture</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-2023-guide-to-excellent-waterproof-video-gadgets/"><u>[Updated] 2024 Approved 2023 Guide to Excellent Waterproof Video Gadgets</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-unleash-potential-discovering-free-onlineoffline-animations/"><u>[Updated] In 2024, Unleash Potential Discovering Free Online/Offline Animations</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/comment-retrouver-des-videos-mp4-effacees-de-votre-pc/"><u>Comment Retrouver Des Vidéos MP4 Effacées De Votre PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-absent-mfc71udll-steps-for-windows-users/"><u>Fixing Absent Mfc71u.dll: Steps for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-disable-hyper-v-in-windows-11/"><u>Guide to Disable Hyper-V in Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-after-deleting-from-recently-deleted-on-iphone-14-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to recover deleted photos after deleting from Recently Deleted on iPhone 14 | Stellar</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-repair-auto-detection-failure-in-windows-proxies/"><u>How to Repair Auto-Detection Failure in Windows Proxies</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/innovative-techniques-for-lecture-to-audio-conversion-in-education/"><u>Innovative Techniques for Lecture to Audio Conversion in Education</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-normal-operations-for-deleted-characters/"><u>Restoring Normal Operations for Deleted Characters</u></a></li>
+<li><a href="https://windows11.techidaily.com/tactics-to-conceal-windows-11s-task-control-icon/"><u>Tactics to Conceal Windows 11'S Task Control Icon</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-best-ways-to-record-and-preserve-internet-radio-for-2024/"><u>The Best Ways to Record and Preserve Internet Radio for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-repairing-disp-settings-missing-error/"><u>Tips for Repairing Disp Settings Missing Error</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-creative-potential-with-filmora-answers-for-2024/"><u>Unlocking Creative Potential with Filmora Answers for 2024</u></a></li>
+</ul></div>
 

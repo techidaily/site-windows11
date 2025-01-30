@@ -1,7 +1,7 @@
 ---
 title: Streamline the Prime Viewing Experience on Windows 11 Devices
-date: 2025-01-15T19:06:07.667Z
-updated: 2025-01-22T19:08:11.087Z
+date: 2025-01-26T16:16:18.187Z
+updated: 2025-01-29T23:28:28.707Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
 ![Subtitles off option in Prime Video](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/subtitles-off-option.jpg)
 3. Wait for a few seconds. Then, turn on the subtitles of your preferred language.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Another quick way to fix Prime Video subtitles not working is to sign out and then back into your Prime Video account. To do that, click on your account name in the bottom left corner, and choose**Sign out** from the context menu.
 
 ![Sign Out option in Prime Video](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sign-out.jpg)
@@ -45,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
 ![Sign in option of Prime Video](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sign-in-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Eliminate Browser Issues
@@ -57,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
  The problem can also occur due to an issue in the current version of your browser. In this case, you can[update your browser](https://www.makeuseof.com/how-to-update-chrome-firefox-edge-desktop-mobile/) to fix the issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Repair and Reset the Prime Video App
@@ -71,12 +75,16 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
 ![Repair option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait till Windows repairs the app. You will see a checkmark next to the repair button when it's done.
 
  If repairing the app wasn't helpful, you can use the reset option, which will clear all its data. Doing this will be helpful if corrupt Prime Video files are causing the issue. To reset the Prime Video app, click the**Reset** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Reinstall the Prime Video App
 
@@ -84,15 +92,7 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
 
 ![Prime Video for Windows in the Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/prime-video-for-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After the download is complete, log in with your credentials, and you'll see that you are no longer facing the subtitles not working issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixing the Prime Video Subtitles on Windows 11
 
@@ -113,16 +113,21 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-harnessing-multiple-windows-learn-pip-in-microsoft-edge/"><u>[Updated] Harnessing Multiple Windows Learn PIP in Microsoft Edge</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-simple-steps-modify-windows-speech-of-sea-creatures/"><u>[Updated] Simple Steps Modify Windows Speech of Sea Creatures</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-subtle-techniques-make-unwanted-backgrounds-disappear-in-videos-for-2024/"><u>[Updated] Subtle Techniques Make Unwanted Backgrounds Disappear in Videos for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-aspect-ratio-conversion-techniques-online/"><u>2024 Approved Aspect Ratio Conversion Techniques Online</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-step-by-step-guide-to-writing-captivating-docu-scripts/"><u>2024 Approved Step-By-Step Guide to Writing Captivating Docu-Scripts</u></a></li>
-<li><a href="https://extra-information.techidaily.com/comprehensive-insights-streamlined-iphone-podcast-downloads-for-2024/"><u>Comprehensive Insights Streamlined iPhone Podcast Downloads for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-the-lenovo-thinkpad-x12-detachable-a-fantastic-hybrid-with-an-excellent-keyboard/"><u>Comprehensive Review of the Lenovo ThinkPad X12 Detachable: A Fantastic Hybrid with an Excellent Keyboard</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-through-intel-hd-error-in-meeting-minimum-requirements/"><u>Navigating Through Intel HD Error in Meeting Minimum Requirements</u></a></li>
-<li><a href="https://windows11.techidaily.com/win-11-setting-up-microsoft-pc-manager/"><u>Win 11: Setting Up Microsoft PC Manager</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-stop-intelligent-assistant/"><u>Windows 11: Stop Intelligent Assistant</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-tricks-bringing-off-screen-apps-back-to-life-with-6-tips/"><u>Windows Tricks: Bringing Off-Screen Apps Back to Life with 6 Tips</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-complete-obs-toolkit-for-flawless-instagram-streams-for-2024/"><u>[New] The Complete OBS Toolkit for Flawless Instagram Streams for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-unlock-hand-tracker-potential-guide-for-2024/"><u>[Updated] Unlock Hand Tracker Potential Guide for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-honor-90-by-drfone-android-unlock-android-unlock/"><u>Device unlock Honor 90</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ating-viewers-spaces-channel-empire-rules/"><u>Dominating Viewers' Spaces Channel Empire Rules</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-reminders-in-every-window-of-your-pc/"><u>Efficient Reminders in Every Window of Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-steam-login-errors-on-windows-via-rust-coding/"><u>Eliminating Steam Login Errors on Windows via Rust Coding</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-hardware-with-toms-gear-guides-in-depth-analysis-and-reviews/"><u>Exploring Hardware with Tom's Gear Guides - In-Depth Analysis and Reviews</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-legally-stream-the-movie-spider-man-no-way-home-anywhere-anytime/"><u>How to Legally Stream the Movie ‘Spider Man: No Way Home’ Anywhere, Anytime!</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-the-labyrinth-of-updater-0x800f080a-on-windows/"><u>Navigating Through the Labyrinth of Updater 0X800F080A on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-recurrent-enter-to-bios-in-windows-boot-cycle/"><u>Overcoming Recurrent Enter To BIOS in Windows Boot Cycle</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-directx-download-problems-in-os/"><u>Remedying DirectX Download Problems in OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/revolutionize-how-you-use-the-mouse-worldwide-through-powertoys/"><u>Revolutionize How You Use the Mouse Worldwide Through PowerToys</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-premier-list-of-cable-modems-find-the-perfect-match/"><u>The Premier List of Cable Modems - Find the Perfect Match</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-samsung-galaxy-xcover-6-pro-tactical-edition-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Samsung Galaxy XCover 6 Pro Tactical Edition Phone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/transforming-mobile-computing-the-ultimate-review-of-the-m1-chip-powered-ipad-pro/"><u>Transforming Mobile Computing: The Ultimate Review of the M1 Chip-Powered iPad Pro</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-1011-printer-uninstallation-a-quick-and-direct-guide/"><u>Win 10/11 Printer Uninstallation: A Quick & Direct Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Powerful Tools to Simultaneously Release Numerous Zip Archives
-date: 2025-01-17T16:29:42.586Z
-updated: 2025-01-22T18:56:47.563Z
+date: 2025-01-22T22:15:09.403Z
+updated: 2025-01-29T20:01:41.142Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Simultaneously Extract Multiple ZIP Archives With 7-Zip
 
  7-Zip is one of the [best file compression and extraction tools](https://www.makeuseof.com/tag/the-top-3-file-compression-extraction-softwares/) for Windows. That software is freely available and widely compatible with Windows platforms dating back to 2000\. You can batch extract multiple archives to different folders with that software as follows.
@@ -39,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
 3. Click the pinned taskbar shortcut for [opening Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) and go to the folder your browser downloaded 7-Zip to.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Double-click the **7z2301-x64** file.
@@ -55,16 +51,20 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
 ![The Extract button in 7-Zip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/extract-button.jpg)
 5. If you want to change the folder that includes the extracted subfolders, click the **ellipsis** button. Then choose a different directory and click **OK**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Extract window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-extract-window.jpg)
 6. Select **OK** to extract the selected ZIP archives.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This will extract all the selected ZIP archives to different subfolders. Those extracted subfolders will have the same names as the ZIP files you extracted. Close out of 7-Zip and then bring up the directory you selected to extract the archives in to open the extracted folders from there.
 
  The "**\*\\**" in 7-Zip’s **Extract** window means the archives get extracted to new folders. If you prefer to extract all selected archives to the same subfolder, delete the "**\*\\"** from the text box. Input a new folder name at the end of the chosen path. Then 7-Zip will batch extract all the ZIP files to the new folder added in the **Extract to** box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Simultaneously Extract Multiple ZIP Archives With ExtractNow
 
@@ -79,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
 6. Click **Close** to open ExtractNow.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now it's time to use the app:
@@ -88,13 +88,13 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
 ![The Add archives option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/add-archives-option.jpg)
 2. Select multiple ZIP archives by holding the **Ctrl** key and clicking **Open**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click **Extract** to unzip the ZIP files.  
 ![The Extract option in ExtractNow](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/extract-button4.jpg)
 4. Then click **OK** **to All** to extract the selected archives to subfolders with titles that match the ZIP files within the same directory. Alternatively, you can manually select a different destination to extract each file within the Browse for Folder window and click **OK**.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![The Browse for Folder window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/browse-for-folder.jpg)
 
@@ -122,20 +122,24 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-the-ultimate-metaverse-meme-compendium-ideas-galore/"><u>[New] In 2024, The Ultimate Metaverse Meme Compendium Ideas Galore</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-utilizing-zoom-services-directly-from-your-inbox-gmail-edition/"><u>[New] Utilizing Zoom Services Directly From Your Inbox - Gmail Edition</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/complete-your-dragon-ball-journey-a-comprehensive-watching-order/"><u>Complete Your Dragon Ball Journey - A Comprehensive Watching Order</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/gratis-conversione-mov-a-mp4-guida-passo-passo-per-mac-e-windows/"><u>Gratis Conversione MOV a MP4: Guida Passo-Passo per Mac E Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-disabled-lock-screen-pause-timer/"><u>How to Fix Disabled Lock Screen Pause Timer</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-3dr-a-singular-perspective-on-3d-printing-revolution/"><u>In 2024, '3DR' A Singular Perspective on 3D Printing Revolution</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-oneplus-11-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your OnePlus 11 5G Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8, Apples New iPhone | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/initiating-playback-with-windows-media-player-guide/"><u>Initiating Playback with Windows Media Player Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastery-over-mishaps-conquering-11-windows-11-glitches/"><u>Mastery Over Mishaps: Conquering 11 Windows 11 Glitches</u></a></li>
-<li><a href="https://windows11.techidaily.com/modifying-metadata-in-windows-files-timestamp-tweaks-guide/"><u>Modifying Metadata in Windows Files: Timestamp Tweaks Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigate-to-sound-mastery-with-windows-11-volume-control/"><u>Navigate to Sound Mastery with Windows 11 Volume Control</u></a></li>
-<li><a href="https://howto.techidaily.com/restore-missing-app-icon-on-realme-c67-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Realme C67 5G Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-for-seamless-slideshow-creation-and-image-spot-repair-in-win11-photos/"><u>Tips for Seamless Slideshow Creation and Image Spot Repair in Win11 Photos</u></a></li>
-<li><a href="https://windows11.techidaily.com/win11-expertise-required-for-successfully-repairing-directdraw-faults/"><u>Win11: Expertise Required for Successfully Repairing DirectDraw Faults</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-game-on-unlock-the-secrets-of-effective-lol-recording/"><u>[New] 2024 Approved Game-On! - Unlock the Secrets of Effective LOL Recording</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-dominating-the-youtube-sphere-key-strategies-for-top-tier-presence/"><u>[New] Dominating the YouTube Sphere Key Strategies for Top-Tier Presence</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-masterful-mac-capturing-techniques-explored-for-2024/"><u>[New] Masterful Mac Capturing Techniques Explored for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-secrets-to-excellent-screen-recordings-on-lenovo-for-2024/"><u>[New] Secrets to Excellent Screen Recordings on Lenovo for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-proven-tactic-for-weaving-gopro-content-in-cohesive-virtual-spherical-films-for-2024/"><u>[Updated] Proven Tactic for Weaving GoPro Content in Cohesive Virtual Spherical Films for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/advanced-resource-utilization-monitors/"><u>Advanced Resource Utilization Monitors</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-revival-mastering-the-explore-ui-reset/"><u>Effortless Revival: Mastering the Explore UI Reset</u></a></li>
+<li><a href="https://windows11.techidaily.com/erase-secure-questions-a-guide-to-altering-local-account-in-win-11/"><u>Erase Secure Questions: A Guide to Altering Local Account in Win 11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/from-tracking-steps-to-stress-why-the-fitbit-sense-is-your-ultimate-health-companion-over-the-apple-watch/"><u>From Tracking Steps to Stress: Why the Fitbit Sense Is Your Ultimate Health Companion Over the Apple Watch</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/have-programs-for-youtube-video-downloads/"><u>Must-Have Programs for YouTube Video Downloads</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-a-disconnected-printer-issue/"><u>Navigating a Disconnected Printer Issue</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-switch-key-inquiries-before-committing-to-an-electric-vehicle-purchase/"><u>Navigating the Switch: Key Inquiries Before Committing to an Electric Vehicle Purchase</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-top-10-premiere-pro-transition-effects-to-elevate-your-videos-for-2024/"><u>New Top 10 Premiere Pro Transition Effects to Elevate Your Videos for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-battlenet-access-issues-in-windows-1011/"><u>Overcoming Battle.net Access Issues in Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-win-network-unreachable-issue/"><u>Overcoming WIN Network Unreachable Issue</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restore-the-magic-of-bluetech-with-this-quick-guide-fixed-bluescreen-issue-for-latest-os-update-guide-inside/"><u>Restore The Magic of BlueTech With This Quick Guide- Fixed Bluescreen Issue for Latest OS Update [Guide Inside!]</u></a></li>
+<li><a href="https://windows11.techidaily.com/slowing-down-windows-10-shutdown-keep-programs-open/"><u>Slowing Down Windows 10 Shutdown: Keep Programs Open</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-steam-content-restricted-on-pc-a-step-by-step-guide/"><u>Solving Steam Content Restricted on PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-5-windows-pc-boosters-for-speed-and-efficiency/"><u>Top 5 Windows PC Boosters for Speed and Efficiency</u></a></li>
 </ul></div>
 

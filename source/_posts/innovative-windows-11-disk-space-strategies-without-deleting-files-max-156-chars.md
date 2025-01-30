@@ -1,7 +1,7 @@
 ---
 title: Innovative Windows 11 Disk Space Strategies Without Deleting Files (Max 156 Chars)
-date: 2025-01-21T16:48:05.682Z
-updated: 2025-01-22T16:01:22.018Z
+date: 2025-01-27T04:59:59.490Z
+updated: 2025-01-29T19:07:08.237Z
 tags:
   - windows10
   - windows11
@@ -25,15 +25,15 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use NTFS Drive Compression
 
  Windows 11 includes a compression option for NTFS drives. Selecting that setting applies compression to user files on a drive by removing redundant data. You can select to apply NTFS compression for your whole C: drive or a single folder. Our guide to [enabling NTFS compression on Windows 11](https://www.makeuseof.com/enable-disable-ntfs-file-compression-windows-11/) tells you how to select the **Compress contents to save disk space** option.
 
 ![The Compress this drive to save disk space checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/compress-this-drive-to-save-space-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Exactly how much drive space NTFS compression will free up can be variable. If you have many uncompressed user document files on your drive, then NTFS will likely free up at least a few gigabytes of storage space. However, this compression won’t free up so much space if there aren’t many user files on your PC’s drive. The only way to find out is to try it on at least one large folder.
 
@@ -48,16 +48,16 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 ![The Configure button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-configure-button.jpg)
 5. Click the **Disable system protection** option.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Disable system protection radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-system-protection-option.jpg)
 6. Select **Apply** to save the system protection settings.
 
 7. Click the System Protection window’s **OK** option.
 
  If you prefer to keep **System Restore** on, you can still at least reduce that utility’s disk usage. To do so, drag the **Max Usage** bar’s slider left on the System Protection window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Convert Your Saved Video Files Into the MP4 Format
 
@@ -75,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 5. Press **Open** to add the selected videos.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Click **Start** to convert the video to MP4\.
@@ -92,7 +92,7 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 ![The image format conversion web app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/image-format-conversion-tool.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Reduce the Recycle Bin’s Size
@@ -107,6 +107,10 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 ![The Custom size radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-custom-size-option.jpg)
 4. Click **Apply** and **OK** in the Recycle Bin Properties window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Create ZIP Archives for Storing Files
 
  ZIP is an archive format that compresses files included in it. ZIP archives are like compressed folders from which you can easily access their contents when needed. Archiving lots of user files lying around on your hard drive within ZIPs will free up drive space. Creating ZIP archives with many videos and images in them could free up lots of drive space.
@@ -116,7 +120,7 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 ![The Compress to ZIP file option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/compress-to-zip-file-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Save Files to a Cloud Storage Service
@@ -128,11 +132,7 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 ![Google Drive cloud storage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/google-drive-storage.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Utilize Third-Party Web Apps and Portable Programs
@@ -165,24 +165,24 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-mastery-in-monitoring-adding-time-based-events-to-obs/"><u>[Updated] Mastery in Monitoring Adding Time-Based Events to OBS</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/boost-your-computers-speed-with-key-adjustments-a-comprehensive-guide-from-experts-at-yl-software/"><u>Boost Your Computer's Speed with Key Adjustments: A Comprehensive Guide From Experts at YL Software</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-evaluation-of-the-razer-blade-stealth-nix-redefining-ultp-innovation/"><u>Comprehensive Evaluation of the Razer Blade Stealth Nix: Redefining ULTP Innovation</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/dealing-with-dll-errors-how-to-recover-from-msstfmtdll-is-unavailable-issues/"><u>Dealing with DLL Errors: How to Recover From 'msstfmt.dll' Is Unavailable Issues</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/explore-the-premier-wearable-tech-top-smartwatches/"><u>Explore the Premier Wearable Tech: Top Smartwatches</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-gionee-f3-pro-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Gionee F3 Pro using Video Repair Utility on Mac?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/1716389373457-in-2024-360-degree-cameras-vs-3d-cameras-what-are-the-differences/"><u>In 2024, 360 Degree Cameras Vs 3D Cameras What Are the Differences?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-capturing-instantly-with-iphone-timelapse-techniques/"><u>In 2024, Capturing Instantly with iPhone Timelapse Techniques</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-updated-epson-wf-3620-drivers-for-seamless-printing-on-windows-1187-computers/"><u>Install Updated Epson WF-3620 Drivers for Seamless Printing on Windows 11/8/7 Computers</u></a></li>
-<li><a href="https://windows11.techidaily.com/is-enhancement-or-extra-cost-justified-for-win-11s-add-ons/"><u>Is Enhancement or Extra Cost Justified for Win 11'S Add-Ons?</u></a></li>
-<li><a href="https://windows11.techidaily.com/making-the-right-windows-11-call-home-vs-premium-features/"><u>Making the Right Windows 11 Call: Home Vs. Premium Features</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastery-over-keeping-windows-time-unchanged/"><u>Mastery over Keeping Windows Time Unchanged</u></a></li>
-<li><a href="https://windows11.techidaily.com/methods-to-prevent-windows-pc-from-booting-into-bios/"><u>Methods to Prevent Windows PC From Booting Into BIOS</u></a></li>
-<li><a href="https://windows11.techidaily.com/move-your-onedrive-step-by-step-for-windows-11/"><u>Move Your OneDrive: Step-by-Step for Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/restoring-taskbar-button-image-rendering/"><u>Restoring Taskbar Button Image Rendering</u></a></li>
-<li><a href="https://windows11.techidaily.com/reversing-operation-failure-0x709-on-pc/"><u>Reversing Operation Failure 0X709 on PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/securely-resetting-dns-on-the-latest-windows-version/"><u>Securely Resetting DNS on the Latest Windows Version</u></a></li>
-<li><a href="https://windows11.techidaily.com/skyrocket-success-in-windows-11-with-these-top-5-apps/"><u>Skyrocket Success in Windows 11 With These Top 5 Apps</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-how-to-take-a-screencast-on-an-android-smartphone-or-tablet/"><u>Step-by-Step Tutorial: How to Take a Screencast on an Android Smartphone or Tablet</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-first-steps-in-vector-art-exploring-kinds-applications/"><u>[Updated] First Steps in Vector Art Exploring Kinds, Applications</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-precise-obs-settings-for-inexpensive-hardware/"><u>[Updated] Precise OBS Settings for Inexpensive Hardware</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-funnygenius-create-and-share-memes/"><u>2024 Approved FunnyGenius Create and Share Memes</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/diving-into-the-world-of-elder-scrolls-an-intense-skyrim-gaming-experience-on-the-switch-unveiled/"><u>Diving Into the World of Elder Scrolls: An Intense Skyrim Gaming Experience on the Switch Unveiled</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/1715860219507-effortlessly-create-a-cross-platform-conversation-space-on-skype-a-detailed-manual-for-users-of-all-os-platforms-for-2024/"><u>Effortlessly Create a Cross-Platform Conversation Space on Skype A Detailed Manual for Users of All OS Platforms. For 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabledarkinterfacefornotepad/"><u>EnableDarkInterfaceForNotepad</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-steps-for-activating-windows-11s-system-restore-feature/"><u>Essential Steps for Activating Windows 11'S System Restore Feature</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-overcome-windows-software-initiation-failures/"><u>How to Overcome Windows Software Initiation Failures</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-tecno-pop-8-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Tecno Pop 8 Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/llama-3-vs-microsofts-gpt-4-a-comprehensive-comparison/"><u>Llama 3 Vs. Microsoft's GPT-4: A Comprehensive Comparison</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-auto-shutdown-on-windows-11-for-idleness/"><u>Mastering Auto-Shutdown on Windows 11 for Idleness</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-connection-stability-fixed-windows-lol-issues/"><u>Mastering Connection Stability: Fixed Windows LoL Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-directx-setup-failures-on-pc/"><u>Mending DirectX Setup Failures on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixes-4-ways-to-stop-pc-update-notifications/"><u>Quick Fixes: 4 Ways to Stop PC Update Notifications</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/samsung-m2020-fresh-drivers-download-for-optimal-performance/"><u>Samsung M2020 - Fresh Drivers Download for Optimal Performance</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-best-of-the-best-top-mts-video-editing-software/"><u>Updated 2024 Approved The Best of the Best Top MTS Video Editing Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-network-overview-understanding-arp-caches/"><u>Windows Network Overview: Understanding ARP Caches</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-reimagined-analyzing-the-core-upgrades-of-windows-11/"><u>Windows Reimagined: Analyzing the Core Upgrades of Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Can’t Insert New Cells in Microsoft Excel for Windows? Try These Fixes
-date: 2024-08-15T15:21:03.945Z
-updated: 2024-08-16T15:21:03.945Z
+date: 2025-01-27T19:59:23.568Z
+updated: 2025-01-30T06:06:18.201Z
 tags:
   - windows10
   - windows11
@@ -43,24 +43,19 @@ thumbnail: https://thmb.techidaily.com/227bd0353ed763348ef514468bae7b22e2b22e010
 3. Click the **Freeze Panes** option.
 4. Select **Unfreeze Panes** from the resulting menu.  
 ![Unfreeze Pane in Microsoft Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/unfreeze-pane-in-microsoft-excel.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you unfreeze the panes, Excel should let you insert new cells.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## 3\. Unmerge the Cells
 
  Excel might not allow you to insert cells if you are trying to add them into cells that have been merged. To resolve this, you will need to [unmerge the cells in your Excel worksheet](https://www.makeuseof.com/find-unmerge-merged-excel-cells/).
 
  Excel will unmerge all the selected cells and you should be able to add new cells after that.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Delete Entries From the Last Row and Column
 
  Another reason why you might not be able to insert new cells in an Excel sheet is if the last column or row of your sheet contains data. If that’s the case, you may encounter the "Microsoft Excel can’t insert new cells because it would push non-empty cells off the end of the worksheet" error.
@@ -72,8 +67,9 @@ thumbnail: https://thmb.techidaily.com/227bd0353ed763348ef514468bae7b22e2b22e010
  To clear entries from the last row, select any cell in the first column and press the **Ctrl + Down arrow** key to quickly navigate to the last row of your sheet. Click the row number to select the entire last row. Then, switch to the **Home** tab and select **Editing > Clear > Clear All**.
 
 ![Clear Excel Last Row](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/clear-excel-last-row.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Repair the Corrupted Excel Workbook
@@ -86,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/227bd0353ed763348ef514468bae7b22e2b22e010
 4. Click the arrow beside the **Open** button and select **Open and Repair**.  
 ![Repair Excel File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/repair-excel-file.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait for Excel to fix any issues with your worksheet and then open it. After that, check if the issue is still there.
 
 ## 6\. Copy Your Data to a New Workbook
@@ -97,15 +97,13 @@ thumbnail: https://thmb.techidaily.com/227bd0353ed763348ef514468bae7b22e2b22e010
 3. Press **Ctrl + N** to open a new Excel workbook.
 4. In the **Home** tab, click the **Paste** button and select your preferred option from the resulting menu.  
 ![Paste Option in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/paste-option-in-excel.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After completing the above steps, you should be able to insert new rows and columns without any errors.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Update Microsoft Excel
 
  Have you [disabled automatic updates for Office apps on Windows](https://www.makeuseof.com/windows-stop-automatic-office-updates/)? If so, you may be using an outdated version of Excel, which can sometimes cause problems. Try updating Microsoft Excel manually on your PC and see if that fixes the problem.
@@ -117,11 +115,12 @@ thumbnail: https://thmb.techidaily.com/227bd0353ed763348ef514468bae7b22e2b22e010
 3. Click **Update Options > Update Now**.  
 ![Update Microsoft Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-microsoft-excel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait for Microsoft Office to update Excel along with other Office apps and check if that fixes the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Run the Office Repair Tool
 
  If none of the above solutions help, you can consider running the Office Repair tool as a last resort. Here's how to run it.
@@ -137,13 +136,15 @@ thumbnail: https://thmb.techidaily.com/227bd0353ed763348ef514468bae7b22e2b22e010
 
  Wait for the tool to repair your Office apps and then check if you can insert cells in Excel. If you still get errors, repeat the above steps and select the **Online Repair** option. This will allow the tool to perform a thorough repair operation and download any missing files from the internet.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Insert Cells in Your Excel Spreadsheet Without Errors
 
  It is annoying when Microsoft prevents you from performing basic tasks such as inserting cells. Hopefully, one of the suggestions above has resolved your issue and you are now able to insert cells in your Excel workbook.
 
  If you are facing a similar problem, don’t fret. This guide will walk you through some effective solutions that should fix the problem in no time.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -152,5 +153,26 @@ thumbnail: https://thmb.techidaily.com/227bd0353ed763348ef514468bae7b22e2b22e010
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-bring-clarity-to-your-feed-a-guide-to-crafting-square-videos-in-imovie/"><u>[New] Bring Clarity to Your Feed A Guide to Crafting Square Videos in iMovie</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-viral-ventures-from-likes-to-lore-in-the-facebook-landscape/"><u>[New] Viral Ventures From Likes to Lore in the Facebook Landscape</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-disconnect-wisely-guidelines-for-exiting-discords-for-2024/"><u>[Updated] Disconnect Wisely Guidelines for Exiting Discords for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-premium-mac-programming-solutions-excluded-from-bandicam/"><u>[Updated] Premium Mac Programming Solutions Excluded From Bandicam</u></a></li>
+<li><a href="https://windows11.techidaily.com/2-seamless-integration-how-wsl-is-becoming-more-user-friendly-on-windows-pcs/"><u>2. Seamless Integration: How WSL Is Becoming More User-Friendly on Windows PCs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expansive-movement-assessment-2023/"><u>2024 Approved Expansive Movement Assessment 2023</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/building-brand-buzz-the-power-of-instagram-story-quizzes/"><u>Building Brand Buzz The Power of Instagram Story Quizzes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1724467304371-fix-this-platform-is-not-supported-while-installing-intel-serial-io-driver/"><u>Fix “This Platform Is Not Supported.” While Installing Intel Serial IO Driver</u></a></li>
+<li><a href="https://windows11.techidaily.com/get-superior-performance-for-windows-apps-on-macoslinux-with-crossover-24-at-promo-rates/"><u>Get Superior Performance for Windows Apps on macOS/Linux with CrossOver 24 at Promo Rates!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-failed-to-launch-lunar-client-error-on-windows/"><u>How to Fix the “Failed to Launch Lunar Client” Error on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/leveraging-microsoft-code-companion-for-programmers/"><u>Leveraging Microsoft Code Companion for Programmers</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-customization-in-windows-11s-settings/"><u>Mastering Customization in Windows 11'S Settings</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-from-glitch-to-glory-how-to-reset-final-cut-pro-x-for-error-free-video-editing/"><u>New In 2024, From Glitch to Glory How to Reset Final Cut Pro X for Error-Free Video Editing</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-major-windows-11-webcam-glitches-a-comprehensive-guide/"><u>Resolving Major Windows 11 Webcam Glitches: A Comprehensive Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-your-gaming-experience-how-microsofts-directsr-api-is-revolutionizing-pc-game-graphics/"><u>Transform Your Gaming Experience: How Microsoft's DirectSR API Is Revolutionizing PC Game Graphics</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/ultimate-guide-how-to-retrieve-lost-data-on-your-windows-system-with-yls-file-restoration-methods/"><u>Ultimate Guide: How to Retrieve Lost Data on Your Windows System with YL's File Restoration Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-your-potential-the-best-three-tools-to-track-and-optimize-your-pc-gaming-experience/"><u>Unleash Your Potential: The Best Three Tools to Track and Optimize Your PC Gaming Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-xp-a-timeless-operating-system-with-unparalleled-longevity/"><u>Windows XP: A Timeless Operating System with Unparalleled Longevity</u></a></li>
+</ul></div>
 

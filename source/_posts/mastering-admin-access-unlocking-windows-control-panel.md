@@ -1,7 +1,7 @@
 ---
 title: "Mastering Admin Access: Unlocking Windows Control Panel"
-date: 2025-01-20T18:51:32.649Z
-updated: 2025-01-22T17:24:45.761Z
+date: 2025-01-28T22:12:49.738Z
+updated: 2025-01-30T01:11:00.433Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to open the Control Panel as an Administrator through Run Command
@@ -36,12 +36,16 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 2. Type**control** or**control panel** in the search box and press**Ctrl + Shift + Enter** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. If User Account Control (UAC) pops up on your screen, click**Yes** to allow access.
 
  This will open up the Control Panel with elevated privileges so that you can make changes effectively and safely. And while we're at it, did you know there are many[ways to open the Control Panel on Windows](https://www.makeuseof.com/windows-11-open-control-panel/) ?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Open the Control Panel as an Administrator With a Desktop Shortcut
 
@@ -53,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 C:\WINDOWS\system32\control.exe
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. You now need to name your shortcut (Control Panel) and click**Finish** . Once you’ve created the shortcut, it will be placed on your desktop.  
@@ -61,7 +65,7 @@ C:\WINDOWS\system32\control.exe
 4. Next, right-click on the shortcut and select**Properties** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. On the Shortcut tab, click on**Advanced** .
@@ -69,10 +73,6 @@ C:\WINDOWS\system32\control.exe
 7. Also, click**Apply > OK** in the Properties window.
 
  Now, whenever you need to access an elevated Control Panel, simply double-click on it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get the Most Out of Elevated Control Panel
 
@@ -93,20 +93,24 @@ C:\WINDOWS\system32\control.exe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-boost-your-brand-with-masterful-looped-videos-on-instagram/"><u>[Updated] In 2024, Boost Your Brand with Masterful Looped Videos on Instagram</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-pioneering-sound-showcase-on-youtube-space/"><u>[Updated] Pioneering Sound Showcase on YouTube Space</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-revolutionizing-your-viewing-the-zoom-effectiveness/"><u>2024 Approved Revolutionizing Your Viewing The Zoom Effectiveness</u></a></li>
-<li><a href="https://win-studio.techidaily.com/aomei-image-deployment-common-issues-and-effective-solutions/"><u>AOMEI Image Deployment: Common Issues & Effective Solutions</u></a></li>
-<li><a href="https://windows11.techidaily.com/guaranteeing-presence-of-startup-applications/"><u>Guaranteeing Presence of Startup Applications</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-start-and-sustain-an-indie-podcast-hit-for-2024/"><u>How to Start & Sustain an Indie Podcast Hit for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/ifas-premier-laptop-showcase-the-ultimate-finds/"><u>IFA's Premier Laptop Showcase - The Ultimate Finds</u></a></li>
-<li><a href="https://win-dash.techidaily.com/installing-aoc-graphics-card-drivers-on-your-windows-pc-win11win10win8-guide/"><u>Installing AOC Graphics Card Drivers on Your Windows PC: Win11/Win10/Win8 Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/lost-thumbnail-images-on-windows-11-a-step-by-step-resolution/"><u>Lost Thumbnail Images on Windows 11: A Step-by-Step Resolution</u></a></li>
-<li><a href="https://windows11.techidaily.com/personalizing-permanent-trash-settings-in-windows-1011/"><u>Personalizing Permanent Trash Settings in Windows 10/11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>Spoofing Life360 How to Do it on Apple iPhone SE? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-overcoming-loadlibrary-failure-due-to-erroneous-parameters-error-code-87-explained/"><u>Step-by-Step Solutions for Overcoming 'Loadlibrary Failure Due to Erroneous Parameters' - Error Code 87 Explained</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-hidden-value-in-preserving-your-windows-11-notification-alerts/"><u>The Hidden Value in Preserving Your Windows 11 Notification Alerts</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/form-ideas-into-images-access-free-banner-resources-for-2024/"><u>Transform Ideas Into Images - Access Free Banner Resources for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-windows-1110-stop-pin-connection-hurdle/"><u>Troubleshooting Windows 11/10: Stop PIN Connection Hurdle</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/levate-your-channel-studio-upgrade-vs-beta-shift/"><u>[New] Elevate Your Channel Studio Upgrade Vs. Beta Shift</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pro-cloud-storage-guide-optimal-options-highlighted/"><u>[Updated] Pro-Cloud Storage Guide Optimal Options Highlighted</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-revolutionizing-action-video-with-polaroid-xs-100i/"><u>[Updated] Revolutionizing Action Video with Polaroid XS 100I</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-chromes-non-downloading-problems-on-windows/"><u>Addressing Chrome's Non-Downloading Problems on Windows</u></a></li>
+<li><a href="https://win-info.techidaily.com/captivating-moon-imagery-for-desktop-enhancement-hd-background-scenes-from-yl-softwares-celestial-archive/"><u>Captivating Moon Imagery for Desktop Enhancement: HD Background Scenes From YL Software's Celestial Archive</u></a></li>
+<li><a href="https://windows11.techidaily.com/combat-apex-crashes-effective-solutions-for-windows-11-users/"><u>Combat Apex Crashes: Effective Solutions for Windows 11 Users</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/comment-contacter-avec-ease-chez-digiarty/"><u>Comment Contacter Avec Ease Chez Digiarty ?</u></a></li>
+<li><a href="https://windows11.techidaily.com/controlling-winoss-priority-setting-for-hardware-acceleration/"><u>Controlling WinOS's Priority Setting for Hardware Acceleration</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/explore-the-finest-mp4-consolidators-your-step-by-step-tutorial-for-merging-several-mp4-clips/"><u>Explore the Finest MP4 Consolidators - Your Step-by-Step Tutorial for Merging Several MP4 Clips</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-nexiq-usb-link-2-drivers-step-by-step-installation-tutorial/"><u>Get the Latest Nexiq USB Link 2 Drivers - Step-by-Step Installation Tutorial</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-demystifying-facebooks-off-page-activity-review/"><u>In 2024, Demystifying Facebook's Off-Page Activity Review</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Xiaomi Redmi A2+? | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-unraveling-the-secrets-to-gently-fading-audio-in-audacity/"><u>In 2024, Unraveling the Secrets to Gently Fading Audio in Audacity</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-avoiding-frequent-sign-ins-on-ms-teams-platform/"><u>Solutions for Avoiding Frequent Sign-Ins on MS Teams Platform</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-solve-no-device-camera-error-in-win11/"><u>Steps to Solve No Device: Camera Error in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-tweaking-mouse-speeds-in-win-1011/"><u>The Ultimate Guide to Tweaking Mouse Speeds in Win 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-unresponsive-spotify-on-windows-11/"><u>Troubleshooting Unresponsive Spotify on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719346558796-why-your-pc-needs-only-one-guardian-antivirus-software/"><u>Why Your PC Needs Only One Guardian - Antivirus Software!</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-vigilance-understanding-and-monitoring-device-uptime/"><u>Windows 11 Vigilance: Understanding and Monitoring Device Uptime</u></a></li>
 </ul></div>
 

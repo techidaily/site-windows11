@@ -1,7 +1,7 @@
 ---
 title: "From 4 to 16GB: The Evolution in Windows Computing Power"
-date: 2025-01-21T18:30:25.348Z
-updated: 2025-01-22T17:01:07.440Z
+date: 2025-01-28T17:30:04.021Z
+updated: 2025-01-30T06:25:23.699Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 * [Is Setting 16GB RAM as the New Standard Good News for You?](#is-setting-16gb-ram-as-the-new-standard-good-news-for-you)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -44,23 +44,19 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 
  As operating systems become more complex, the minimum specifications for new PCs rise to meet them. Recent reports claim that Microsoft is pushing to have 16GB of RAM become the minimum amount of memory for new devices. But why would it make that change, and is this good for you?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is RAM?
 
 ![Inside of computer with ram sticks and cpu cooler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/inside-of-computer-with-ram-sticks-and-cpu-cooler.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Pexels](https://www.pexels.com/photo/interior-of-computer-15109653/)
 
  For anyone unsure what RAM is: it's short for "random access memory." You can imagine it like the size of your computer's work table; the more room it has to work with, the more programs it can run simultaneously without encountering any problems.
 
  Be sure to check out our [explainer on RAM](https://www.makeuseof.com/tag/quick-dirty-guide-ram-need-know/) that everyone can understand.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Is Happening With RAM in Windows Computers?
 
@@ -74,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 
 ![The Microsoft Copilot logo](https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f48662a5ae5f051ec41bdae27.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Unsplash](https://unsplash.com/photos/blue-and-pink-light-illustration-LeG68PrXA6Y)
 
  You may have noticed an interesting term in TrendForce's quote: "AI PCs." While it may sound insignificant, this is why Microsoft is pushing for more RAM.
@@ -85,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
  At the time of writing, we don't know exactly what an "AI PC" is. We know that many companies are developing them, and as you would expect, they will feature artificial intelligence in some form.
 
  An "AI PC" could be a machine where AI powers the operating system itself. It might also be a flashy marketing term for a regular PC with some simple AI tools pre-installed. Regardless of how AI PCs go, those special processing tools will need more memory to run properly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The Potential Set Up for Windows 12
 
@@ -97,6 +93,10 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 [Copilot is Microsoft's personal AI assistant](https://www.makeuseof.com/what-is-microsoft-365-copilot/), powered by ChatGPT. Right now, you can find a dedicated Copilot button on Windows 10 and 11, Microsoft Edge, and Office. The company has already released a standalone Copilot app for Android, too.
 
  Windows 12 is currently believed to have a 2025 release date, which gives Microsoft a lot of time to work on implementing artificial intelligence into its operating system. And for people to make the most of Windows 12, Microsoft needs new PCs to have enough RAM to support it; hence the 16GB suggestion.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is Setting 16GB RAM as the New Standard Good News for You?
 
@@ -118,21 +118,21 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-a-beginners-guide-to-instagram-story-feature-for-2024/"><u>[New] A Beginner's Guide to Instagram Story Feature for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-best-overlay-strategies-for-videographers/"><u>[New] Best Overlay Strategies for Videographers</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-comparing-top-free-players-vlc-or-mpc/"><u>2024 Approved Comparing Top Free Players VLC or MPC?</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-insights-selecting-the-right-os-for-gaming-glory/"><u>Expert Insights: Selecting the Right OS for Gaming Glory</u></a></li>
-<li><a href="https://windows11.techidaily.com/festive-glamour-unveiled-in-decorative-windows/"><u>Festive Glamour Unveiled in Decorative Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-windows-error-lost-access-to-ubisoft-game-launcher/"><u>Fixing Windows Error: Lost Access to Ubisoft Game Launcher</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-whats-behind-tiktoks-mysterious-pfp-an-in-depth-guide/"><u>In 2024, What's Behind TikTok's Mysterious PFP? An In-Depth Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/launching-wordpad-windows-users-handbook/"><u>Launching WordPad: Windows User's Handbook</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastery-over-muted-powershell-scripts-four-tactics-to-counter-error-message/"><u>Mastery Over Muted PowerShell Scripts: Four Tactics to Counter Error Message</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-xiaomi-redmi-a2plus-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Xiaomi Redmi A2+ – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-glance-at-recent-files-in-windows/"><u>Quick Glance at Recent Files in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/solving-disappearing-results-from-windows-1011-search-tool/"><u>Solving Disappearing Results From Windows 10/11 Search Tool</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-complete-windows-11-system-restore-using-a-factory-reset/"><u>Step-by-Step Guide: Complete Windows 11 System Restore Using a Factory Reset</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ounds-for-video-creators-royalty-free-options/"><u>Top Sounds for Video Creators Royalty-Free Options</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/unleashing-new-horizons-in-email-recovery-the-atomic-email-hunters-revolutionary-approach-for-extracting-contacts-from-facebook/"><u>Unleashing New Horizons in Email Recovery: The Atomic Email Hunter's Revolutionary Approach for Extracting Contacts From Facebook</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-taking-lower-thirds-to-the-next-level-in-final-cut-pro-x-for-2024/"><u>Updated Taking Lower Thirds to the Next Level in Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-capturing-every-corner-our-top-picks-for-best-11-bridge-cameras/"><u>[New] In 2024, Capturing Every Corner Our Top Picks for Best 11 Bridge Cameras</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-reinstate-missing-watch-thumbnail/"><u>[Updated] In 2024, Reinstate Missing Watch Thumbnail</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-shocking-news-summary-craftsman/"><u>[Updated] In 2024, Shocking News Summary Craftsman</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-the-windows-photo-interface-with-keys/"><u>Master the Windows Photo Interface with Keys</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimal-settings-where-to-store-your-games-on-xbox/"><u>Optimal Settings: Where to Store Your Games on Xbox</u></a></li>
+<li><a href="https://windows11.techidaily.com/reducing-memory-waste-with-microsoft-edges-webview2/"><u>Reducing Memory Waste with Microsoft Edge's WebView2</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-need-old-password-warning-on-win11win11-os/"><u>Resolving “Need Old Password” Warning on Win11/Win11 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/revolutionize-desktop-top-5-clock-saver-software/"><u>Revolutionize Desktop - Top 5 Clock Saver Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-the-win-11-challenge-reversing-the-operation-elevation-mistake/"><u>Tackling the Win 11 Challenge: Reversing the Operation Elevation Mistake</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-complete-tutorial-to-achieving-a-professional-look-with-background-blur-feature-in-google-meet/"><u>The Complete Tutorial to Achieving a Professional Look with Background Blur Feature in Google Meet</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-enhanced-visuals-xbox-series-x/"><u>The Ultimate Guide to Enhanced Visuals - Xbox Series X</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-made-simple-overcome-your-disappointing-discord-install-failure/"><u>Troubleshooting Made Simple: Overcome Your Disappointing Discord Install Failure</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-to-prevent-frostpunk-from-freezing-on-your-pc/"><u>Ultimate Guide to Prevent Frostpunk From Freezing on Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-11s-blanked-outspots-how-to-replace-them/"><u>Win 11'S Blanked Outspots: How to Replace Them</u></a></li>
 </ul></div>
 

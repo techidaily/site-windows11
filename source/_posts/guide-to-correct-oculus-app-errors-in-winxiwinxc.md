@@ -1,7 +1,7 @@
 ---
 title: Guide to Correct Oculus App Errors in WinXI/WinXC
-date: 2025-01-15T18:46:44.666Z
-updated: 2025-01-22T17:20:41.675Z
+date: 2025-01-23T08:01:34.087Z
+updated: 2025-01-30T06:07:41.403Z
 tags:
   - windows10
   - windows11
@@ -30,16 +30,12 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
  Some users have said they resolved the “we encountered an error” installation issue by disconnecting their VR headsets before running the Oculus installer. So, make sure your Rift or Quest 2 headset isn’t connected to your PC. Then try installing the Oculus software without the VR headset connected to your PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Run the Oculus Installer File With Administrative Rights
 
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/run-as-administrator.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Some Windows programs require admin permission for installation. So, try running the Oculus installer file as an administrator to give it full system access. You can do that by right-clicking the **OculusSetup.exe** file and selecting **Run as administrator**.
 
@@ -48,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 ![The Use a proxy server checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/use-a-proxy-server-option-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Disabling proxy servers is another fix a few Oculus app users confirm can fix the “we encountered an error” installation issue. You can deselect the **Use a proxy server** checkbox within Internet Properties. Our [guide to disabling proxy settings in Windows](https://www.makeuseof.com/windows-11-disable-proxy/) includes step-by-step instructions for how you can deselect that setting.
@@ -61,14 +57,22 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 
  If you utilize third-party antivirus software, turn off that app’s antivirus shield. Right-click a system tray icon for the antivirus software and select an option that will turn off its real-time antivirus shield (preferably for no longer than 30-60 minutes). Then try installing Oculus with your antivirus protection turned off.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Turn Off the Windows Firewall
 
 ![The Turn off Windows Defender Firewall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/turn-off-windows-defender-firewall-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Windows firewall can disrupt the Oculus server connection required for the software installation. So, temporarily disable the Microsoft Defender Firewall before installing the Oculus app. Check out this [how-to turn off Microsoft Defender Firewall guide](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) for instructions about how to do so. Then have another go at installing the Oculus software with the firewall disabled.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Install .NET Framework 4.6.1
@@ -101,10 +105,6 @@ C:\Users\<User Folder>\AppData`
 
  You can also utilize a third-party uninstaller utility like IObitUninstaller to clear away leftover Oculus folders and registry keys. When you’ve eradicated all leftover Oculus subfolders, open this [Meta download page](https://www.meta.com/us/en/quest/setup/). Then click **Download Software** to get the latest Windows Oculus app for your VR headset and try installing it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Install the Oculus Windows Software
 
  Many users have resolved the “we encountered an error” Oculus app installation issue by applying those potential solutions. So, there’s a good chance one will fix the Oculus app not installing on your Windows PC. Then you get back to playing all your favorite Rift PC VR games again.
@@ -121,22 +121,19 @@ C:\Users\<User Folder>\AppData`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-interactive-realities-compared-metaverse-and-multiverse-for-2024/"><u>[New] Interactive Realities Compared Metaverse and Multiverse for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-sierras-icloud-drive-accessibility/"><u>[New] Mastering Sierra’s iCloud Drive Accessibility</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-pros-and-cons-delving-into-the-world-of-video-downloading-methods/"><u>[New] Pros and Cons Delving Into the World of Video Downloading Methods</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-three-budget-friendly-strategies-for-audio-amplification-in-ios-films/"><u>[Updated] Three Budget-Friendly Strategies for Audio Amplification in iOS Films</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/cyberpunk-2077-audio-issues-resolved-a-guide-to-restoring-game-sound-on-windows-10/"><u>Cyberpunk 2077 Audio Issues Resolved? A Guide to Restoring Game Sound on Windows 10</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/digiarty-winx-dvdfaq/"><u>Digiarty WinX DVDソフトウェアの最新FAQ:一般的な疑問に答えます</u></a></li>
-<li><a href="https://windows11.techidaily.com/expanding-external-devices-in-explorers-side/"><u>Expanding External Devices in Explorer's Side</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-non-working-windows-performance-indicator/"><u>Fixing Non-Working Window's Performance Indicator</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/guide-to-reactivating-multiple-silent-audio-streams-easily/"><u>Guide to Reactivating Multiple Silent Audio Streams Easily</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Motorola G54 5G | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/identify-and-secure-open-tcpip-in-windows/"><u>Identify and Secure Open TCP/IP in Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-voicemail-on-an-iphone-a-comprehensive-tutorial/"><u>Mastering the Art of Voicemail on an iPhone: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedying-unreadable-messages-in-discord-chat/"><u>Remedying Unreadable Messages in Discord Chat</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-for-swiftly-eradicating-windows-steams-e84-error/"><u>Strategies for Swiftly Eradicating Windows Steam's E84 Error</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-8-personalization-hacks-for-windows-1011-via-bubbleui/"><u>Top 8 Personalization Hacks for Windows 10/11 via BubbleUI</u></a></li>
-<li><a href="https://windows11.techidaily.com/two-email-systems-together-merging-gmail-and-outlook-in-windows/"><u>Two Email Systems Together: Merging Gmail and Outlook in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-customized-windows-power-schemes/"><u>Unlocking Customized Windows Power Schemes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-taking-screen-grabs-compliance-on-youtube/"><u>[New] Taking Screen Grabs Compliance on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-structure-youtube-videos/"><u>[Updated] How to Structure YouTube Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/immediate-solution-to-system-call-error-on-win11/"><u>Immediate Solution to System Call Error on Win11</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/iosandroid-tips-attaching-audio-posters-on-facebook-for-2024/"><u>IOS/Android Tips Attaching Audio Posters on Facebook for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-disabling-integrated-graphics-on-pcs/"><u>Mastering Disabling Integrated Graphics on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/mobile-devices-enhancing-windows-microphone-use/"><u>Mobile Devices Enhancing Windows Microphone Use</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-privileges-a-guide-to-modifying-standard-users-access-in-windows/"><u>Optimizing Privileges: A Guide to Modifying Standard Users' Access in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/reclaiming-control-how-to-reactivate-non-responsive-keys/"><u>Reclaiming Control: How to Reactivate Non-Responsive Keys</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-reopening-of-battlenet-on-windows-computers/"><u>Seamless Reopening of Battle.net on Windows Computers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-ultimate-watch-list-top-10-music-clips-on-facebook/"><u>The Ultimate Watch List Top 10 Music Clips on Facebook</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-7-pitfalls-in-utilizing-generative-ai-technologies/"><u>Top 7 Pitfalls in Utilizing Generative AI Technologies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-the-tpm-chip-essential-for-windows-11-compatibility-insights-from-zdnet/"><u>Understanding the TPM Chip: Essential for Windows 11 Compatibility - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unexpectedly-powerful-and-compact-the-amazing-features-of-an-affordable-8-in-1-adapter-reviewed-by-tech-expert/"><u>Unexpectedly Powerful & Compact: The Amazing Features of an Affordable 8-in-1 Adapter Reviewed by Tech Expert</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Honor Play 40C? | Dr.fone</u></a></li>
 </ul></div>
 

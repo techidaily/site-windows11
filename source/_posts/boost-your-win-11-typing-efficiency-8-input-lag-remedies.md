@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Win 11 Typing Efficiency: 8 Input Lag Remedies"
-date: 2024-08-15T15:19:59.305Z
-updated: 2024-08-16T15:19:59.305Z
+date: 2025-01-29T05:12:16.083Z
+updated: 2025-01-30T04:24:29.897Z
 tags:
   - windows10
   - windows11
@@ -28,11 +28,17 @@ thumbnail: https://thmb.techidaily.com/5e974938dbb660ea80a93e16c035b60b79b360106
 2. Click **Enter**. This will open the keyboard properties window, where you will see the option to adjust the **Repeat delay** and **Repeat rate**. The Repeat delay allows you to set the delay between you press-holding a key and the initiation of the repeated output of the key. The Repeat rate allows you to adjust the speed at which this output is repeated.  
 ![changing keyboard settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/keyboard-settings.jpg)
 3. Shorten the **Repeat delay** and increase the **Repeat rate** to eliminate the input lag. This may require some experimentation before you find the sweet spot, but there's a convenient test box built right into the Keyboard properties window to help you find the right balance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. When you've found an ideal Repeat delay and Repeat rate, press **OK** at the bottom to save and exit.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Update or Reinstall the Keyboard Driver
 
  Your system's driver tells your PC how to handle external hardware like your keyboard. If your keyboard's driver is outdated, your computer will struggle to communicate with the hardware. As such, an outdated driver is a possible cause of your keyboard input lag.
@@ -45,8 +51,9 @@ thumbnail: https://thmb.techidaily.com/5e974938dbb660ea80a93e16c035b60b79b360106
 4. Click on **Search automatically for drivers**. If your system has an updated version available, it will notify you, and you can proceed with installing it. .
 5. Otherwise, you can choose **Search for updated drivers on Windows Update** and install the updated version if available.  
 ![Searching for updated drivers using Windows update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/search-for-updated-drivers.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Alternatively, you can download the latest available version of the driver manually from the manufacturer's website. Then, follow these steps:
@@ -54,9 +61,6 @@ thumbnail: https://thmb.techidaily.com/5e974938dbb660ea80a93e16c035b60b79b360106
 1. Repeat steps 1-3 from above and choose **Browse my computer for drivers**.
 2. Locate and select the updated version you just downloaded and install it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Disable Filter Keys
 
  Filter keys is an accessibility feature that instructs Windows to ignore brief or repeated keystrokes. This could potentially be a reason for the delayed output of your keyboard. You can fix this by disabling Filter keys from the keyboard settings.
@@ -66,13 +70,14 @@ thumbnail: https://thmb.techidaily.com/5e974938dbb660ea80a93e16c035b60b79b360106
 3. Click on **Keyboard** and look for **Use Filter Keys**.
 4. Under this head, you will find a toggle button. If it's enabled, disable it and close the Settings app.  
 ![Turning off the Use Filter Keys button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/turning-off-the-use-filter-keys-button.jpg)
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you're running Windows 11, you'll find the option to disable Filter Keys in **Settings > Accessibility > Keyboard > Filter Keys**.
 
 ![disabling filter keys on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then, try typing something into your text editor and see if it still lags.
 
@@ -83,17 +88,14 @@ thumbnail: https://thmb.techidaily.com/5e974938dbb660ea80a93e16c035b60b79b360106
 1. Open the Settings app and navigate to **Update & Security** \> **Troubleshoot**.
 2. You'll now see a list of recommended troubleshooters. If there are none, simply click on **Additional troubleshooters** and look for **Keyboard**. Click on it and select **Run the troubleshooter**.  
 ![Run the keyboard troubleshooter in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/keyboard-troubleshooter-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you're running Windows 11, you'll find the Keyboard troubleshooter in **Settings > System > Troubleshoot > Other Troubleshooter > Keyboard**.
 
 ![running the keyboard troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/keyboard-troubleshooter.jpg)
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 
  The troubleshooter will look for potential issues. If it finds something to fix, go ahead and follow the directions. When you're done, see if the issue has been resolved.
 
@@ -109,15 +111,17 @@ DISM /Online /Cleanup-Image /CheckHealth
 DISM /Online /Cleanup-Image /RestoreHealth`
 
 ![RestoreHealth command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/dism-online-restore-health.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Let the process finish, then verify if this trick solved the keyboard input lag.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Perform Specific Fixes for Wireless Keyboards
 
  The above issues apply to keyboards in general. However, some issues are specific to wireless keyboards. If your keyboard is wireless, try the following fixes.
@@ -152,8 +156,6 @@ DISM /Online /Cleanup-Image /RestoreHealth`
 
  Before you troubleshoot the issue, ensure that it really is the keyboard that's causing the problem. Sometimes, you may be inadvertently doing things that cause your Windows PC to slow down, which can also be a reason for keyboard input lag. However, if that's not the case, here are some easy fixes you can try to rid yourself of the annoying keyboard input lag.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -161,5 +163,18 @@ DISM /Online /Cleanup-Image /RestoreHealth`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-step-by-step-method-for-altering-youtube-style-thumbnails-on-twitter/"><u>[New] 2024 Approved Step-by-Step Method for Altering YouTube-Style Thumbnails on Twitter</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-top-7-best-drone-gimbals-in-the-market/"><u>[Updated] Top 7 Best Drone Gimbals in the Market</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-riches-in-pixels-identifying-the-best-12-sites-with-free-stock-photos/"><u>In 2024, Riches in Pixels Identifying the Best 12 Sites with Free Stock Photos</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-lsasuxcomplision-error-on-windows-systems/"><u>Resolving LSASUX_COMPLISION ERROR on Windows Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/revamp-your-computer-performance-with-this-simple-cpu-driver-update-technique-for-windows-users/"><u>Revamp Your Computer Performance with This Simple CPU Driver Update Technique for Windows Users</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ing-shots-capturing-culinary-magic-for-2024/"><u>Sizzling Shots Capturing Culinary Magic for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailor-your-workflow-perfecting-the-use-of-window-11s-search-box/"><u>Tailor Your Workflow: Perfecting the Use of Window 11'S Search Box</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/tig-welding-is-characterized-by-its-control-which-allows-for-precise-and-clean-welds/"><u>TIG Welding Is Characterized by Its Control, Which Allows for Precise and Clean Welds.</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-3-mais-eficientes-ferramentas-de-extracao-de-dvd-para-windows-10-e-11-download-totalmente-livre/"><u>Top 3 Mais Eficientes Ferramentas De Extração De DVD Para Windows 10 E 11 - Download Totalmente Livre</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleashing-winmcs-potential-solving-wi-fi-issues/"><u>Unleashing WinMC's Potential: Solving Wi-Fi Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-nextgen-access-mastering-upcoming-features-with-vivetool/"><u>Windows NextGen Access: Mastering Upcoming Features with ViVeTool</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Repairing Windows 11'S ISDone.dll File Failure
-date: 2025-01-21T18:30:23.732Z
-updated: 2025-01-22T17:53:56.848Z
+date: 2025-01-27T02:46:55.386Z
+updated: 2025-01-30T05:33:59.841Z
 tags:
   - windows10
   - windows11
@@ -25,15 +25,15 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run the Game’s Installer With Admin Rights
 
  First, run the game’s setup file with elevated rights to ensure admin restrictions can’t cause the issue. As you’ll only need to install the game once, it’s not necessary to set the installer to[always run as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) . Open the folder that includes the game’s setup.exe. Right-click the game’s installer (setup) file and select its**Run as administrator** context menu option.
 
 ![The Run as administrator context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-run-as-administrator-context-menu-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Run the Game’s Installer in Compatibility Mode
 
@@ -48,7 +48,15 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 ![The Run this program in compatibility mode for option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-run-this-program-in-compatibility-mode-setting.jpg)
 7. Click**Apply** to save the compatibility settings.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Select**OK** to close the setup properties window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Set the Game’s Setup Wizard at High Priority
 
@@ -57,11 +65,7 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 ![The Set priority option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-set-priority-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Run System File and Image Scans
@@ -82,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 
 ![The Virtual Memory window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/custom-radio-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For example, a PC with four GB RAM would have 4096 megabytes of memory. Then you would need to multiply 1.5 by 4096 to input a value of 6144 in the**Initial** box. Three times 4096 amounts to 12288, which would be the value to enter the**Maximum size** box.
 
 ## 6\. Install Any Missing Visual C++ Redistributables
@@ -97,10 +105,6 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 ![The Microsoft Visual C++ 2015-2022 runtime installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-visual-c-installer-window.jpg)
 5. Click the Visual C++**Install** option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If the ISDone.dll installation issue arises for an old game, you might need to install missing Visual C++ runtimes that predate 2015\. In this case, you’ll need to repeat the above steps for older Visual C++ packs. Try downloading the 64-bit Visual Studio 2013 and 2012 packs from the same Microsoft page to install older missing runtime libraries.
 
 ## 7\. Re-Register the Referenced ISDone DLL File
@@ -114,22 +118,22 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 `regsvr32 isdone.dll`  
 ![The regsvr32 command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-regsvr-command.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Temporarily Switch Off Your PC’s Antivirus Shield
 
  It’s not entirely unusual for antivirus apps to cause installation issues like the ISDone.dll error. You can ensure your antivirus tool isn’t interfering with the installation process by temporarily disabling its shield before attempting to install the game. Our[guide to disabling Microsoft Defender](https://www.makeuseof.com/how-to-turn-off-microsoft-defender-windows-11/) explains how to turn off the antivirus shield for the default Windows Security app.
 
 ![The Real-time protection option in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-real-time-protection-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Users who’ve installed alternative security software packages on PCs will need to disable the third-party antivirus shields. To do that, click a system tray icon for an antivirus app to bring up its context menu. Then, select an option for turning off (or disabling) the antivirus shield.
 
  However, don’t leave your antivirus software disabled. Instead, turn it off and then try to install whatever game the ISDone.dll error occurs for. Then make sure you re-enable the antivirus shield afterward.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Clean Boot the Windows PC
@@ -137,10 +141,6 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
  To minimize potential conflicting processes, try clean booting your PC. Setting a clean boot involves disabling all third-party startup apps and services. That will reduce the number of background services and apps that start with Windows, which could eliminate a process causing the ISDone.dll error.
 
 ![The Services tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-services-tab.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Our guide to[configuring a clean boot](https://www.makeuseof.com/clean-boot-windows-11/) tells you how to disable third-party startup apps and services with Task Manager and MSConfig. When you’ve set the clean boot and restarted Windows, try installing the game the ISDone.dll error occurs for. Then you can restore the original boot configuration afterward.
 
@@ -163,14 +163,22 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-choosing-prime-top-8-budget-friendly-srt-translator-tools/"><u>[Updated] 2024 Approved Choosing Prime Top 8 Budget-Friendly SRT Translator Tools</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-hasty-habits-presentation-file-recording/"><u>[Updated] In 2024, Hasty Habits Presentation File Recording</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-savvy-scribblers-selection-the-top-compiler-of-twitter-animation/"><u>[Updated] Savvy Scribbler's Selection - The Top Compiler of Twitter Animation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723864254546-discover-unmatched-storage-and-speed-nextorage-releases-ultimate-8tb-ssd-at-just-849-for-gaming-enthusiasts/"><u>Discover Unmatched Storage and Speed: Nextorage Releases Ultimate 8TB SSD at Just $849 for Gaming Enthusiasts</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/master-the-battery-configuration-in-windows-10-using-yl-computing-solutions/"><u>Master the Battery Configuration in Windows 10 Using YL Computing Solutions</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-the-soon-to-end-license-alert-in-winoses/"><u>Overcoming the Soon-to-End License Alert in WinOSes</u></a></li>
-<li><a href="https://windows11.techidaily.com/syncing-apples-calendars-to-your-windoze-1011-pc/"><u>Syncing Apple’s Calendars to Your Windoze 10/11 PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-windows-11s-swift-access-shortcuts/"><u>Unlocking Windows 11'S Swift Access Shortcuts</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-the-full-potential-of-windows-snip-and-sketch-capabilities/"><u>Unveiling the Full Potential of Windows' Snip and Sketch Capabilities.</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-masterful-monitoring-with-the-latest-asus-proart-4k-display/"><u>[New] Masterful Monitoring with the Latest ASUS ProArt 4K Display</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-heroic-duel-noir-knights-vs-aurora-guardians/"><u>[Updated] In 2024, Heroic Duel Noir Knights Vs Aurora Guardians</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-lead-the-way-in-the-metaverse-your-tech-checklist/"><u>[Updated] In 2024, Lead the Way in the Metaverse Your Tech Checklist</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-training-harnessing-the-power-of-adobe-captivates-screen-record-feature/"><u>[Updated] Ultimate Training Harnessing the Power of Adobe Captivate's Screen Record Feature</u></a></li>
+<li><a href="https://windows11.techidaily.com/guaranteeing-your-printers-access-in-win11/"><u>Guaranteeing Your Printer's Access in Win11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-20-word-formula-to-skyrocket-your-business-reach/"><u>In 2024, The 20-Word Formula to Skyrocket Your Business Reach</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-tv-for-virtual-concerts/"><u>In 2024, Ultimate TV for Virtual Concerts</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-stealth-concealing-drives-on-windows-11-and-10/"><u>Mastering Stealth: Concealing Drives on Windows 11 & 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-compliance-of-non-functional-windows-batches/"><u>Restoring Compliance of Non-Functional Windows Batches</u></a></li>
+<li><a href="https://windows11.techidaily.com/revive-lost-space-a-windows-technique-for-storage-recovery/"><u>Revive Lost Space: A Windows Technique for Storage Recovery</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/samsung-unleashes-innovation-behind-the-scenes-of-their-latest-phone-debut/"><u>Samsung Unleashes Innovation: Behind The Scenes Of Their Latest Phone Debut</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-handling-constant-edge-activity-on-win11-devices/"><u>Strategies for Handling Constant Edge Activity on Win11 Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-your-code-with-jdk-on-windows-11/"><u>Streamlining Your Code with JDK on Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/ultimate-windows-audio-solution-by-amd/"><u>Ultimate Windows Audio Solution by AMD</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/unleashing-performance-the-toms-hardware-scoop/"><u>Unleashing Performance: The Tom's Hardware Scoop</u></a></li>
+<li><a href="https://windows11.techidaily.com/unzipping-and-zipping-made-easy-windows-command-line-guidebook/"><u>Unzipping & Zipping Made Easy: Windows Command Line Guidebook</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-skirmish-fixing-sse-in-skyrim-games/"><u>Win Skirmish: Fixing SSE in Skyrim Games</u></a></li>
 </ul></div>
 

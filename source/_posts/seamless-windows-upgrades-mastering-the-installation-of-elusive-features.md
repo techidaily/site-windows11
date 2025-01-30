@@ -1,7 +1,7 @@
 ---
 title: "Seamless Windows Upgrades: Mastering the Installation of Elusive Features"
-date: 2025-01-16T18:32:02.371Z
-updated: 2025-01-22T17:54:49.743Z
+date: 2025-01-24T06:29:37.581Z
+updated: 2025-01-30T04:33:02.282Z
 tags:
   - windows10
   - windows11
@@ -38,17 +38,9 @@ To use the DISM tool, follow these steps:
 3. Type**dism /online /cleanup-image /restorehealth** and press**Enter** .  
 ![DISM Windows Utility Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/dism-windows-utility.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This will start the DISM tool and begin scanning your system for any corrupt or missing files. If it finds any issues with your computer, it will automatically repair them.
 
  Once the process is complete, you can restart your computer and try installing the optional feature again. If DISM does not work or throws an error code, make sure to go through the[DISM not working fixes](https://www.makeuseof.com/windows-11-dism-error-2-fix/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Run the System File Checker or SFC Utility
 
@@ -62,10 +54,6 @@ To check your system using SFC, follow these steps:
 2. Type**sfc /scannow** and press**Enter** .  
 ![SFC Utility In Windows Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-utility-in-windows.jpg)
 3. Once SFC scans for errors, make sure to restart your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Want to know the best part?
 
@@ -97,6 +85,10 @@ net start msiserver`
 
  While the commands may look intimidating, you don't need to worry, as all the commands mentioned above will not cause any harm to your system.​​​​
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Run the Windows Update Troubleshooter
 
  If the Command Prompt method did not work for you, you can use the Windows Update Troubleshooter to reset update components. This tool can help identify and fix problems with the update process, including issues that might be preventing optional features from installing.
@@ -107,10 +99,6 @@ Follow these steps to run the update troubleshooter on Windows:
 2. Scroll down and click**Troubleshoot > Other troubleshooters.**  
 ![Troubleshooter Settings In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/troubleshooter-settings-in-windows.jpg)
 3. Click**Run** next to**Windows Update** to run the troubleshooter.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Other Troubleshooters In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/other-troubleshooters-in-windows.jpg)
 4. Follow the prompts to complete the troubleshooting process.
@@ -131,9 +119,17 @@ Here's how you can update Windows to the latest version:
 2. Click on**Windows** **Update > Check for updates** on Windows 11\. For Windows 10, click on **Update & Security > Windows Update > Check for Updates** .  
 ![Windows Update In Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-update-in-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That's it. Now, you can install any update that is available for your computer.
 
  By default, Windows automatically downloads and installs updates, but you can also check for updates manually by following the steps above.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Restart the Windows Module Installer Service
 
@@ -148,7 +144,7 @@ Here's how you can update Windows to the latest version:
 ![Windows Modules Installer Service In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-modules-installer-service.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When you reset the module installer service, Windows tries to stop it and then start it again, which can help reset the installation process of optional features and fix any issues that might be causing problems.
@@ -168,20 +164,24 @@ Get-WindowsOptionalFeature -Online
 ![Get Optional Feature Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/get-optional-feature-command.jpg)  
  This command will show you the**FeatureName** and**State** of every optional Windows feature that you can use. Make sure to copy the "**FeatureName** " of the feature that you want to enable on Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. To turn on a certain feature, use the following command and replace "**FEATURENAME** " with the feature's name that you copied earlier:  
 Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME  
 ![Enable Optional Feature Command In PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/optional-feature-in-powershell.jpg)
 5. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This will add the feature back to your system and should make it available for you to enable or disable in the features window.
 
  This method only allows you to restore a specific feature and, not all the features at once. So, you need to copy and paste the same command and edit the**FEATURENAME** every time.
 
  If these steps don't fix the problem, you may need to ask Microsoft or a technical support professional for more help.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get Back the Windows Optional Features
 
@@ -202,18 +202,17 @@ Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-navigating-the-world-of-hashtags-to-boost-your-gaming-video-yields/"><u>[New] Navigating the World of Hashtags to Boost Your Gaming Video Yields</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-premiere-ready-text-configurations/"><u>[New] Premiere-Ready Text Configurations</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-top-10-firefox-video-capture-packages/"><u>[New] Top 10 Firefox Video Capture Packages</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boosting-performance-in-onlyoffice-docspace-by-leveraging-chatgpt-technology/"><u>Boosting Performance in ONLYOFFICE DocSpace by Leveraging ChatGPT Technology</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-windows-strategies-for-device-id-discovery/"><u>Essential Windows Strategies for Device ID Discovery</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-unreachable-error-connecting-to-game-servers-on-windows/"><u>How to Fix Unreachable Error: Connecting to Game Servers on Windows</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/is-it-possible-to-remove-pre-installed-ios-applications-from-your-iphone/"><u>Is It Possible to Remove Pre-Installed iOS Applications From Your iPhone?</u></a></li>
-<li><a href="https://windows11.techidaily.com/lowering-cpuram-in-windows-w11-news-apps/"><u>Lowering CPU/RAM in Windows W11 News Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-intrusive-windows-store-operations/"><u>Overcoming Intrusive Windows Store Operations</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/pioneering-pc-advice-with-toms-electronics/"><u>Pioneering PC Advice with Tom's Electronics</u></a></li>
-<li><a href="https://windows11.techidaily.com/regain-classic-text-bar-with-icons-for-windows-11s-search/"><u>Regain Classic Text Bar with Icons for Windows 11'S Search</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/safeguarding-against-risks-in-chatgpt-use/"><u>Safeguarding Against Risks in ChatGPT Use</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-gpu-potentials-on-pc-the-ultimate-6-windows-apps/"><u>Unlocking GPU Potentials on PC: The Ultimate 6 Windows Apps</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-mp4-player-guide-top-selections/"><u>[New] In 2024, MP4 Player Guide Top Selections</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-frame-your-cinematic-tales-three-paths-for-instagram-borders-for-2024/"><u>[Updated] Frame Your Cinematic Tales Three Paths for Instagram Borders for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-navigating-the-world-of-webcams-for-high-quality-streams/"><u>[Updated] Navigating the World of Webcams for High-Quality Streams</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-understanding-googles-ar-sticker-innovation/"><u>[Updated] Understanding Google's AR Sticker Innovation</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/comment-supprimer-le-lecteur-c-en-mode-prive-sur-windows-nk-strategies-flexibles-pour-une-navigation-sans-probleme/"><u>Comment Supprimer Le Lecteur C en Mode Privé Sur Windows Nk - Stratégies Flexibles Pour Une Navigation Sans Problème</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/creating-impactful-youtube-thumbnails-and-ads/"><u>Creating Impactful YouTube Thumbnails & Ads</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-podcasts-versus-video-based-platforms-who-wins/"><u>In 2024, Podcasts versus Video-Based Platforms – Who Wins?</u></a></li>
+<li><a href="https://windows11.techidaily.com/reconciling-windows-1110-error-0x80070522-client-privileges/"><u>Reconciling Windows 11/10 Error 0X80070522: Client Privileges</u></a></li>
+<li><a href="https://windows11.techidaily.com/skyrocketing-virtual-workspace-with-6-effective-windows-methods/"><u>Skyrocketing Virtual Workspace with 6 Effective Windows Methods</u></a></li>
+<li><a href="https://games-able.techidaily.com/solo-to-squad-transitioning-to-xboxs-future-console/"><u>Solo to Squad: Transitioning to Xbox's Future Console</u></a></li>
+<li><a href="https://windows11.techidaily.com/taming-the-0x80860010-error-streamlining-windows-app-functionality/"><u>Taming the 0X80860010 Error: Streamlining Windows App Functionality</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-hidden-magic-effortless-image-editing-on-your-pc/"><u>The Hidden Magic: Effortless Image Editing on Your PC</u></a></li>
 </ul></div>
 

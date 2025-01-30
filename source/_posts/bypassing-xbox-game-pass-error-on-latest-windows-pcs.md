@@ -1,7 +1,7 @@
 ---
 title: Bypassing Xbox Game Pass Error on Latest Windows PCs
-date: 2024-08-15T15:20:40.325Z
-updated: 2024-08-16T15:20:40.325Z
+date: 2025-01-25T07:08:25.704Z
+updated: 2025-01-30T00:54:38.561Z
 tags:
   - windows10
   - windows11
@@ -30,7 +30,16 @@ thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd
 4. Now press the**Run** button for launching the Windows Store App.  
 ![The Run option for Windows Store Apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-option-for-windows-store-apps.jpg)
 5. The troubleshooter may apply some fixes automatically. If it suggests any potential solutions, select to apply them.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-store-apps-troubleshooter.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To access the same troubleshooter in Windows 10, click**Update & Security** \>**Troubleshoot** . You can bring up the troubleshooting tool list by clicking**Additional troubleshooters** . Then click Windows Store Apps’**Run the troubleshooter** option.
 
@@ -39,19 +48,13 @@ thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd
  The Xbox, Microsoft Store, and Game Services apps are three that can feasibly cause error 0x00000001 when they’re corrupted. Repairing and resetting all those apps via Settings could clear any issues with them and resolve 0x00000001 with that. You can clear all those apps’ data as instructed in our guide to [resetting apps on Windows 10 and 11](https://www.makeuseof.com/windows-reset-app/) .
 
 ![The Reset button for the Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-reset-repair-options.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 
  However, it’s better to try repairing an app before clearing its data. You’ll find a**Repai** r option for the Xbox, Microsoft Store, and Game Services apps just above their**Reset** buttons. So, select**Repair** first, and if that option doesn’t make a difference go for a reset.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Reinstall the Microsoft Gaming Service Package
 
  Reinstalling Microsoft Gaming Services is among the more widely confirmed error 0x00000001 solutions. Doing so will fix the Gaming Service package if it’s corrupted. You can reinstall Microsoft Gaming Service with PowerShell like this:
@@ -62,10 +65,6 @@ No advertising on the website.
 4. Input and execute this command for removing Gaming Services:  
 `get-appxpackage Microsoft.GamingServices | remove-Appxpackage -allusers`  
 ![The uninstall Gaming Services command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-remove-app-command.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 5. To reinstall Gaming Services, enter the following PowerShell command and press**Return** :  
 `start ms-windows-store://pdp/?productid=9MWPM2CQNLHN`  
 ![The start MS Store command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-start-ms-store-command.jpg)
@@ -80,15 +79,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Enter**Services** to find that app and select its result.  
 ![The Services app window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-services-window.jpg)
 3. Double-click**Xbox Live Auth Manager** to access the properties window for that service.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Set the service’s startup type to**Automatic** by selecting that option on the**Startup type** menu.  
 ![The Automatic startup option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-automatic-startup-type-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 5. Click Xbox Live Auth Manager’s**Start** button.
 6. To save the settings, select**Apply** .
 7. Close the Xbox Live Auth Manager window by clicking**OK** .
 8. Repeat steps four to eight for the Xbox Live Networking Service and Xbox Live Game Save services.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Flush the Domain Name System (DNS) Cache
 
@@ -97,8 +102,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![The flush DNS command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-flush-dns-command.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Run the Windows Image and System File Scans
 
  System file corruption affecting the Xbox app's dependencies could be causing the 0x00000001 error on your PC. If other resolutions here haven’t worked for you, try running scans for repairing the Windows image and system files.
@@ -109,10 +115,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. First, run the Deployment Image Servicing and Management tool by executing this command:  
 `DISM.exe /Online /Cleanup-image /Restorehealth`  
 ![The Deployment Image and Servicing Management command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-image-repair-command.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Then start a System File Checker scan by inputting this text and hitting**Enter** :  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `sfc /scannow`  
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/sfc-command.jpg)
 4. The SFC scan will take maybe 20-30 minutes to finish. Don’t exit Command Prompt until that tool has completed scanning and shown a Windows Resource Protection outcome message.
@@ -129,13 +137,7 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 5. Click the**Get in Store** and**Open Microsoft Store** options.
 6. Reinstall Xbox by clicking its**Get** button.  
 ![The Get button for the Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-get-button-for-xbox-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ## Install and Play Your Xbox Game Pass Titles Again
 
  You’ll probably be able to install Game Pass titles via the Xbox app again after applying the potential error 0x00000001 fixes above. That doesn’t mean they’re guaranteed error 0x00000001 solutions, but they have worked for many users.
@@ -148,8 +150,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,8 +157,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-expert-guide-to-premiere-pro-fs-preview/"><u>[New] Expert Guide to Premiere Pro FS Preview</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-a-list-nintendo-switch-fighter-titles-max-156/"><u>[New] In 2024, A-List Nintendo Switch Fighter Titles (Max 156)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-proven-strategies-to-capture-and-archive-ps3-games/"><u>[New] In 2024, Proven Strategies to Capture and Archive PS3 Games</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-10-stellar-tools-that-amplify-your-videos-youtube-presence/"><u>[Updated] 2024 Approved 10 Stellar Tools That Amplify Your Video's YouTube Presence</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-silence-issue-fixing-audio-absence-in-obs/"><u>[Updated] 2024 Approved Silence Issue Fixing Audio Absence in OBS</u></a></li>
+<li><a href="https://windows11.techidaily.com/1-mastering-image-to-excel-conversion-a-step-by-step-guide-for-microsoft-windows/"><u>1. Mastering Image-to-Excel Conversion: A Step-by-Step Guide for Microsoft Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/1-seamless-integration-microsoft-office-and-libreoffice-working-together-smoothly/"><u>1. Seamless Integration: Microsoft Office and LibreOffice Working Together Smoothly</u></a></li>
+<li><a href="https://windows11.techidaily.com/effective-strategies-for-tracking-edits-and-modifications-in-real-time-with-excel-online/"><u>Effective Strategies for Tracking Edits and Modifications in Real-Time with Excel Online</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211399938-9798330259335-hearing-and-heeding/"><u>Hearing and Heeding | Free Book</u></a></li>
+<li><a href="https://windows11.techidaily.com/honesty-required-secure-your-exclusive-50-discount-on-microsoft-365-today/"><u>Honesty Required: Secure Your Exclusive 50% Discount on Microsoft 365 Today!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-lava-agni-2-5g-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Lava Agni 2 5G Without PUK Codes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-secure-your-free-lut-resources-top-ten-list/"><u>In 2024, Secure Your Free LUT Resources - Top Ten List</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ring-view-counts-by-upholding-youtubes-cc-license-for-2024/"><u>Mastering View Counts by Upholding YouTube's CC License for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/no-more-surprises-how-microsoft-excel-stops-forcing-dates-on-you/"><u>No More Surprises: How Microsoft Excel Stops Forcing Dates on You</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-adding-images-to-your-microsoft-excel-spreadsheet/"><u>Step-by-Step Guide: Adding Images to Your Microsoft Excel Spreadsheet</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-properly-formatting-telephone-digits-in-excel-spreadsheets/"><u>Step-by-Step Guide: Properly Formatting Telephone Digits in Excel Spreadsheets</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-removing-a-pivottable-from-your-microsoft-excel-spreadsheet/"><u>Step-by-Step Guide: Removing a PivotTable From Your Microsoft Excel Spreadsheet</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-successfully-downloading-the-epson-xp-830-printer-drivers/"><u>Step-by-Step Guide: Successfully Downloading the Epson XP-830 Printer Drivers</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-secrets-of-locating-data-positions-with-excel-match-function-a-comprehensive-guide/"><u>Unveiling the Secrets of Locating Data Positions with Excel MATCH Function: A Comprehensive Guide</u></a></li>
+</ul></div>
 

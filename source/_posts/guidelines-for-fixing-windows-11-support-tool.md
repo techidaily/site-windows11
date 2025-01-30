@@ -1,7 +1,7 @@
 ---
 title: Guidelines for Fixing Windows 11 Support Tool
-date: 2025-01-21T19:33:14.953Z
-updated: 2025-01-22T18:07:21.635Z
+date: 2025-01-24T23:02:33.426Z
+updated: 2025-01-30T03:01:22.634Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Begin With Some General Fixes
 
@@ -48,14 +52,14 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 ![Windows Settings Search Results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-settings-search-results.jpg)
 3. Search for **Get Help** in the list of apps and click on the three-dot menu. Then click on **Advanced options**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Get Help In Installed Apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-in-installed-apps.jpg)
 4. Now, scroll to the bottom and click **Repair**. If the repair fails, you can use the **Reset** option.  
 
 ![Get Help Repair Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-repair-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Here's the best part: This process isn't exclusive to the Get Help app. So, you can also apply the above steps to other malfunctioning Windows apps
 
@@ -69,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 * Connecting to a different network, as specific network configurations might disrupt certain apps.
 * Contacting your Internet Service Provider (ISP) to inquire about potential network maintenance.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Disable VPN or Proxy Temporarily
 
  If you're still facing issues with the Get Help app, it seems to be due to your VPN or proxy configuration. You can disable your connected VPN or proxy for a quick test.
@@ -84,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 2. Choose the **Disconnect** button to turn off the VPN.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Similarly, you must [temporarily disable your proxy](https://www.makeuseof.com/windows-11-disable-proxy/) to troubleshoot the cause of your Get Help failing to work.
@@ -92,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
  Remember to re-enable your VPN or proxy once you're done to ensure your online activities remain private and secure.
 
  Now you can open the Get Help app and check whether the content loads correctly. Try the following troubleshooting method if the Get Help app still displays a blank screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Restart Windows Services
 
@@ -104,7 +108,7 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 2. Now press **Enter** to launch the Services app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. You'll see a list of all the services currently available in your system. Locate the **Diagnostic Policy Service** and right-click on its name.
@@ -113,7 +117,7 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 5. Similarly, repeat the steps to restart the **Windows Management Instrumentation** service.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Install the Microsoft Edge WebView2 Runtime
@@ -143,10 +147,6 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 
  A fresh installation should resolve all the issues with the app. And now, you can go back to troubleshooting without any hassle.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## No More Blank Screen in the Get Help App
 
  Whenever you come across a web app that is not working, the first thing is to check your internet connection. In addition, installing the Microsoft Edge WebView2 Runtime could come in handy for troubleshooting.
@@ -165,21 +165,22 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/thical-approaches-to-extract-mp4-from-youtube-for-2024/"><u>[New] Ethical Approaches to Extract MP4 From YouTube for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-full-page-capture-on-device/"><u>[New] Full Page Capture on Device</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-highpoint-artist-toolkit-review/"><u>[New] Highpoint Artist Toolkit Review</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-boosting-your-youtube-shorts-profits-key-requirements-and-earning-potential/"><u>[Updated] In 2024, Boosting Your Youtube Shorts Profits Key Requirements & Earning Potential</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-unlocking-videos-with-a-click-ios-apps-rising-in-the-rankings-on-fb-downloader-list-for-2024/"><u>[Updated] Unlocking Videos with a Click IOS Apps Rising in the Rankings on FB Downloader List for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/detailed-methodology-to-masterboard-use-in-desktopiosandroid-zoom-sessions/"><u>Detailed Methodology to Masterboard Use in Desktop/iOS/Android Zoom Sessions</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-honor-play-8t-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Honor Play 8T</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-guide-to-streamline-program-access-via-context-menu/"><u>Expert Guide to Streamline Program Access via Context Menu</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-video-edits-easy-techniques-on-your-windows-pc/"><u>In 2024, The Art of Video Edits Easy Techniques on Your Windows PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/making-windows-easier-personalized-text-transcription-using-ahk-and-whisper/"><u>Making Windows Easier: Personalized Text Transcription Using AHK & Whisper</u></a></li>
-<li><a href="https://windows11.techidaily.com/pinpointing-your-internet-ip-using-terminal-commands/"><u>Pinpointing Your Internet IP Using Terminal Commands</u></a></li>
-<li><a href="https://windows11.techidaily.com/pioneering-the-future-running-windows-11-on-legacy-pcs-through-to-go-and-rufus/"><u>Pioneering the Future: Running Windows 11 on Legacy PCs Through To Go & Rufus</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-guide-preventing-windows-dwarf-fortress-crashes/"><u>Quick Guide: Preventing Windows-Dwarf Fortress Crashes</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/selfie-validation-is-it-essential-for-instagram-users-for-2024/"><u>Selfie Validation Is It Essential for Instagram Users for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-quintessence-of-productivity-win-11s-top-7-widgets/"><u>The Quintessence of Productivity: Win 11’S Top 7 Widgets</u></a></li>
-<li><a href="https://windows11.techidaily.com/tutorial-empowering-end-task-capability-on-windows-11/"><u>Tutorial: Empowering End Task Capability on Windows 11</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-maintain-your-memories-android-plus-mac-video-preservation/"><u>[New] 2024 Approved Maintain Your Memories Android + Mac Video Preservation</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-camera-cuts-quality-is-splitcam-best/"><u>[New] Camera Cuts Quality Is SplitCam Best?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-premium-5-filters-boosting-oceanic-imaging/"><u>[Updated] 2024 Approved Premium 5 Filters Boosting Oceanic Imaging</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-initiate-impact-a-strategic-blueprint-for-setting-up-a-tech-reviews-channel/"><u>[Updated] In 2024, Initiate Impact A Strategic Blueprint for Setting Up a Tech Reviews Channel</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-tricks-to-faster-and-smoother-instagram-media-for-2024/"><u>[Updated] Tricks to Faster and Smoother Instagram Media for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-superb-online-stores-where-to-find-and-purchase-youtube-ringtones/"><u>2024 Approved Superb Online Stores Where to Find & Purchase YouTube Ringtones?</u></a></li>
+<li><a href="https://windows11.techidaily.com/altering-winterrals-visual-theme/"><u>Altering WinTerral's Visual Theme</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-discovering-your-macos-version/"><u>Comprehensive Guide: Discovering Your MacOS Version</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-ways-to-revert-personalized-settings-on-windows-11s-search/"><u>Easy Ways to Revert Personalized Settings on Windows 11'S Search</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-self-shutdowns-steps-for-windows-11-users/"><u>Fix Self-Shutdowns: Steps for Windows 11 Users</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/mastering-the-art-of-instagram-post-scheduling-for-2024/"><u>Mastering the Art of Instagram Post Scheduling for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-disconnected-windows-printer-linkup/"><u>Restoring Disconnected Windows Printer Linkup</u></a></li>
+<li><a href="https://windows11.techidaily.com/show-your-connection-status-update-windows-icon-bar/"><u>Show Your Connection Status: Update Windows Icon Bar</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-samsung-galaxy-f54-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Samsung Galaxy F54 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/solve-icloud-download-issues-with-these-helpful-steps/"><u>Solve iCloud Download Issues with These Helpful Steps</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-frozen-windows-handbraked-vaults/"><u>Unlock Frozen Windows-Handbraked Vaults</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11s-high-dynamic-range-mastered-for-the-modern-user/"><u>Windows 11'S High Dynamic Range Mastered for the Modern User</u></a></li>
 </ul></div>
 

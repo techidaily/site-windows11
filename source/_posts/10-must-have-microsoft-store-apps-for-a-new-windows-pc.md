@@ -1,7 +1,7 @@
 ---
 title: 10 Must-Have Microsoft Store Apps for a New Windows PC
-date: 2024-08-15T15:23:17.206Z
-updated: 2024-08-16T15:23:17.206Z
+date: 2025-01-23T02:39:31.892Z
+updated: 2025-01-29T18:25:40.898Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/a29b3ac6ca9f187aecdc1d4dbdad5d59450793de0
 
 ![quick look windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/quick-look-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  QuickLook is a lightweight and handy utility that lets you view a preview of file content using Spacebar. Useful if you need to quickly view an image or document without opening the content in an image or PDF viewer.
 
  You can install the app from Microsoft Store. Next, highlight the file you want to view and press the Spacebar on your keyboard. Press Spacebar again to close the preview window. Furthermore, you can use the option in the preview window toolbar to pin the preview window on top of other apps or view it in fullscreen.
@@ -40,9 +44,17 @@ thumbnail: https://thmb.techidaily.com/a29b3ac6ca9f187aecdc1d4dbdad5d59450793de0
 
 **Download** :[Firefox](https://apps.microsoft.com/store/detail/mozilla-firefox/9NZVDKPMR9RD) (Free)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. aText
 
 ![atext windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/atext-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  aText is a popular text expansion and automation app now available on Microsoft Store. If you type emails or documents with repetitive words, names, and signatures or use complex words frequently, you can use aText to assign abbreviations to individual or multiple words.
 
@@ -52,12 +64,13 @@ thumbnail: https://thmb.techidaily.com/a29b3ac6ca9f187aecdc1d4dbdad5d59450793de0
 
 **Download** :[aText](https://apps.microsoft.com/store/detail/atext/9N68HC1SRR0K) (Free, premium version available for $29.99)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. WhatsApp Desktop
 
 ![whatsapp desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/whatsapp-desktop.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  If you use WhatsApp for instant messaging and work frequently, the desktop version lets you interact with notifications, send messages, make calls, and more directly from your desktop.
 
@@ -67,15 +80,9 @@ thumbnail: https://thmb.techidaily.com/a29b3ac6ca9f187aecdc1d4dbdad5d59450793de0
 
 **Download** :[WhatsApp Desktop](https://apps.microsoft.com/store/detail/whatsapp/9NKSQGP7F2NH) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Microsoft PowerToys
 
 ![microsoft powertoys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microsoft-powertoys.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Microsoft PowerToys is a collection of useful utilities that lets you customize your Windows PC. It features a bunch of productivity tools to enhance your Windows experience.
 
@@ -85,29 +92,9 @@ thumbnail: https://thmb.techidaily.com/a29b3ac6ca9f187aecdc1d4dbdad5d59450793de0
 
 **Download** :[Microsoft PowerToys](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ## 6\. Files App
 
 ![files app file explorer alternative](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/files-app-file-explorer-alternative.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Files App is an alternative to Windows File Explorer. It is an excellent file manager utility offering just enough additional features to edge out the built-in file manager app on Windows.
 
@@ -120,15 +107,12 @@ Key features:
 **Download** :[Files App](https://apps.microsoft.com/store/detail/files-app/9NGHP3DX8HDX?) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. ShareX
 
 ![sharex image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/sharex-image.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The rudimentary screenshot utility in Windows lacks advanced features. If you need to capture scrolling screenshots, annotate, or edit captured screenshots, you’ll have to rely on third-party software.
 
@@ -141,8 +125,9 @@ Key features:
 **Download** :[ShareX](https://getsharex.com/) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Microsoft To Do
 
 ![microsoft to do](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microsoft-to-do.jpg)
@@ -155,9 +140,6 @@ Key features:
 
 **Download** :[Microsoft To Do](https://apps.microsoft.com/store/detail/microsoft-to-do-lists-tasks-reminders/9NBLGGH5R558?hl=en-in&gl=in&rtc=1) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Duplicate Cleaner
 
 ![duplicate cleaner windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/duplicate-cleaner-windows.jpg)
@@ -176,6 +158,10 @@ Key features:
 
 ![lively wallpaper windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/lively-wallpaper-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lively Wallpaper is not a productivity tool, but it is a must-have if you like customizing your desktop’s look with live wallpapers and screensavers.
 
  It is an open-source, free utility that lets you use 3D applications, interactive webpages, and other backgrounds as wallpaper. You can choose from the built-in library or add your own wallpaper from the local drive or URL.
@@ -190,14 +176,11 @@ Key features:
 
  However, it still doesn’t have some great third-party apps, such as WinAeroTweaker, Microsoft’s own Windows PC Manager, Rambox, etc., on its listing yet. Fortunately, you can easily get this app on the developer’s website and install them like any other third-party app on your Windows computer.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -206,8 +189,24 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-joining-flv-files-a-step-by-step-guide/"><u>[New] Joining FLV Files A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-novice-networking-necessities-affordable-monetized-platforms/"><u>[New] Novice Networking Necessities Affordable Monetized Platforms</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-capturing-your-xbox-playtime-for-sharing/"><u>[Updated] In 2024, Capturing Your Xbox Playtime for Sharing</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-hourly-video-footage-gb-needed-per-day/"><u>[Updated] In 2024, Hourly Video Footage GB Needed Per Day</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-intels-ai-visionary-wei-li-speaks-on-democratizing-supercomputing-ai-for-everyday-use-insights-from-zdnet/"><u>1. Intel's AI Visionary Wei Li Speaks on Democratizing Supercomputing AI for Everyday Use - Insights From ZDNet</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-poco-x5-pro-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Poco X5 Pro Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/effective-techniques-preserving-iphone-snapshots-by-migrating-them-onto-a-separate-storage-device/"><u>Effective Techniques: Preserving iPhone Snapshots by Migrating Them Onto a Separate Storage Device</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oneplus-ace-3-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from OnePlus Ace 3 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-downloads-weighing-choco-against-wm/"><u>Mastering Windows Downloads: Weighing Choco Against WM</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-delete-temp-files-easily/"><u>Mastering Windows: Delete Temp Files Easily</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-services-woes-a-guide-to-fixing-the-non-operational-tool/"><u>Overcoming Windows Services Woes: A Guide to Fixing the Non-Operational Tool</u></a></li>
+<li><a href="https://windows11.techidaily.com/reverse-webp-images-in-chrome-for-windows-users/"><u>Reverse WebP Images in Chrome for Windows Users</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-nokia-c300-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/unclutter-your-windows-desktop-space/"><u>Unclutter Your Windows Desktop Space</u></a></li>
+<li><a href="https://windows11.techidaily.com/update-mail-and-calendars-style-them-with-fav-photos/"><u>Update Mail & Calendars: Style Them with Fav Photos</u></a></li>
+<li><a href="https://windows11.techidaily.com/why-your-wi-fi-mouse-isnt-working-quick-fixes-for-windows/"><u>Why Your Wi-Fi Mouse Isn't Working? Quick Fixes for Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/your-route-to-a-maps-integrated-windows-experience/"><u>Your Route to a Maps-Integrated Windows Experience</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastery in Mending Windows Update Failures: 0X712"
-date: 2025-01-18T18:44:23.343Z
-updated: 2025-01-22T16:22:29.207Z
+date: 2025-01-23T01:50:35.734Z
+updated: 2025-01-30T01:01:43.279Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use the Windows Troubleshooter
 
  Before jumping onto major fixes, leverage the in-built troubleshooter on Windows 10 and 11\. It tries to find out existing problems with Windows Update and try to fix them. Repeat the following steps:
@@ -38,10 +42,14 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
 6. Wait for the Windows Update troubleshooter to identify problems. Click on the**Next** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Close the troubleshooter window and reattempt the Windows update installation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Perform a Complete system shutdown
 
@@ -55,10 +63,6 @@ Here’s how to perform a complete system shutdown:
 4. Your system will power off. It will take a tad bit longer that a normal shutdown procedure.
 5. Now, restart your Windows PC and try to install the Windows update.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Restart Windows Update services
 
  Windows Update uses a bunch of background services to fetch and download updates. If these services aren’t running automatically, you will encounter an error. These include**Windows Update Service** ,**Windows Installer Service** ,**Cryptographic Services** , and**Background Intelligent Transfer Service** .
@@ -71,8 +75,16 @@ Repeat the following steps to start the necessary services:
 ![Disabling Windows Update Services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disabling-windows-update-services.jpg)
 4. Click on the**OK** button and close the Properties windows. Now, right-click on the service and select the**Start** option from the context menu.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Similarly, set all the services as automatic and manually start them.
 6. **Close** the Services window and reattempt the Windows update.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Run the Disk Cleanup Tool
 
@@ -99,28 +111,20 @@ Repeat the following steps:
 ![Rename the SoftwareDistribution Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-the-softwaredistribution-folder.jpg)
 3. Once these services stop running, type**cls** in the command prompt windows. Then enter the following commands:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  ren C:\\Windows\\SoftwareDistribution SoftwareDistribution.old ren C:\\Windows\\System32\\catroot2 Catroot2.old  
 ![Rename the SoftwareDistribution Folder 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-the-softwaredistribution-folder-2.jpg)
 4. Both the above commands rename the**SoftwareDistribution** folder and**Catroot2** folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Now, you need to restart all the Windows services you stopped in step 3\. Enter the following commands:  
 net start wuauserv net start cryptSvc net start bits net start msiserver  
 ![Rename the SoftwareDistribution Folder 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-the-softwaredistribution-folder-3.jpg)
 6. Lastly,**restart** your system and visit the following folder location:**C:\\Windows** . You will notice that there is a new SoftwareDistribution folder in that location.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Open the Windows update in Settings and try to download and install updates.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Delete the Pending.xml file
 
@@ -139,10 +143,6 @@ Retrace the following steps to delete the pending.xml file:
  If you are unable to download a specific Windows update using the Settings page, consider a direct download and install approach. Visit the Microsoft Update Catalog website and search for the KB update you want to download. However, you first have to check the corresponding update number which is failing to download and install on your system.
 
 ![Manually Download Windows Updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/manually-download-windows-updates.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Reset Windows
 
@@ -167,22 +167,22 @@ Retrace the following steps to delete the pending.xml file:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-the-essentials-of-navigating-ez-grabber-interface/"><u>[New] 2024 Approved The Essentials of Navigating EZ Grabber Interface</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-expert-strategies-to-master-the-instagram-query-tag/"><u>[Updated] 2024 Approved Expert Strategies to Master the Instagram Query Tag</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-quality-upgrade-switch-codecs-to-av1-for-youtube-viewing/"><u>2024 Approved Quality Upgrade Switch Codecs to AV1 for YouTube Viewing</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-step-by-step-guide-to-3d-text-effects-in-photos/"><u>2024 Approved Step-by-Step Guide to 3D Text Effects in PHOTOS</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-subtlety-matters-fading-out-sounds-in-logic-pro/"><u>2024 Approved Subtlety Matters Fading Out Sounds in Logic Pro</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/essential-laugh-out-loud-flicks-featuring-hollywoods-finest-talent/"><u>Essential Laugh-Out-Loud Flicks Featuring Hollywood's Finest Talent</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-meizu-21-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Meizu 21? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-xiaomi-redmi-note-13-proplus-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Xiaomi Redmi Note 13 Pro+ 5G Device</u></a></li>
-<li><a href="https://windows11.techidaily.com/locating-open-tcp-ports-in-windows-os/"><u>Locating Open TCP Ports in Windows OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-the-challenge-interrupt-exception-in-windows-os/"><u>Overcoming the Challenge: Interrupt Exception in Windows OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-guide-how-to-correct-windows-11s-keyboard-type-trouble-code-0x80049dd3/"><u>Quick Guide: How to Correct Windows 11'S Keyboard Type Trouble (Code: 0X80049DD3)</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-resurrect-your-disconnected-controller/"><u>Steps to Resurrect Your Disconnected Controller</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/tips-for-reducing-unsteady-shots/"><u>Tips for Reducing Unsteady Shots</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-overcoming-windows-terminal-access-issues/"><u>Troubleshooting: Overcoming Windows Terminal Access Issues</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-and-fixing-windows-roblox-code-403-issue/"><u>Understanding & Fixing Windows Roblox Code 403 Issue</u></a></li>
-<li><a href="https://windows11.techidaily.com/visual-illusion-blending-image-and-archive-data-without-notice-win1011/"><u>Visual Illusion: Blending Image and Archive Data without Notice WIN10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/win11-offline-the-essential-manual/"><u>Win11 Offline: The Essential Manual</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/pex-artists-among-online-video-titans-for-2024/"><u>[New] Apex Artists Among Online Video Titans for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-window-capture-suite-pro-xp-for-2024/"><u>[New] Window Capture Suite Pro XP for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-sony-s6500-review-latest-improvements/"><u>[Updated] Sony S6500 Review Latest Improvements</u></a></li>
+<li><a href="https://techtrends.techidaily.com/affordable-texting-solutions-on-your-apple-device-top-apps-for-iphone-and-ipod-touch/"><u>Affordable Texting Solutions on Your Apple Device: Top Apps for iPhone and iPod Touch</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/colors-unveiled-the-comprehensive-tutorial/"><u>Colors Unveiled The Comprehensive Tutorial</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-secrets-the-best-dronescopic-stabilizers-reviewed/"><u>In 2024, Unveiling Secrets The Best Dronescopic Stabilizers Reviewed</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-erased-typing-on-windows-systems/"><u>Mending Erased Typing on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-0x80072af9-error-in-windows-os/"><u>Overcoming 0X80072AF9 Error in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-reduce-cpu-and-ram-overuse-from-unrealcefsubprocess-on-pcs/"><u>Strategies to Reduce CPU and RAM Overuse From UnrealCEFSubprocess on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-fixes-for-eliminating-windows-error-code-0xc00000f/"><u>Swift Fixes for Eliminating Windows Error Code: 0Xc00000f</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-windows-update-malfunction-code-0x80246007-on-w10w11/"><u>Tackling Windows Update Malfunction: Code 0X80246007 on W10/W11</u></a></li>
+<li><a href="https://fox-info.techidaily.com/telegram-for-novices-an-easy-path-to-effective-advertising/"><u>Telegram for Novices An Easy Path to Effective Advertising</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-motorola-moto-g04-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Motorola Moto G04 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/unbeatable-downloaders-for-youtube-and-fb-vids-mp4/"><u>Unbeatable Downloaders for YouTube & FB Vids (MP4)</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-mystery-of-edges-additional-taskers/"><u>Unraveling the Mystery of Edge's Additional Taskers</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-windows-10-and-11s-isdonedll-dilemmrances/"><u>Unraveling Windows 10 & 11'S ISDone.dll Dilemmrances</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-icon-evolution-a-look-at-the-taskbar/"><u>Windows' Icon Evolution - A Look at the Taskbar</u></a></li>
 </ul></div>
 

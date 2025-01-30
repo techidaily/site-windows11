@@ -1,7 +1,7 @@
 ---
 title: Fixing the Puzzling Problem of Error Code C0000005 in Win-OS
-date: 2025-01-16T16:45:58.901Z
-updated: 2025-01-22T17:54:59.420Z
+date: 2025-01-25T02:49:11.572Z
+updated: 2025-01-30T06:11:45.630Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/f3ddbfc1319d06192a1f603baf76c1f6dea1578ed
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Deactivate Data Execution Prevention (DEP)
 
 [Data Execution Prevention](https://www.makeuseof.com/data-execution-prevention-explained/) is a security feature on Windows that prevents damage to your PC from malware and other malicious attacks on your PC. It does this by blocking out specific memory regions so that code cannot be executed from those locations, which in the absence of DEP, would be used for buffer attacks.
@@ -42,7 +46,7 @@ bcdedit.exe /set {current} nx AlwaysOff
 ![cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/cmd.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In this case, you will first have to[disable the Windows secure boot](https://www.makeuseof.com/tag/disable-secure-uefi-dual-boot/) , and then repeat the above steps again.
@@ -50,7 +54,7 @@ bcdedit.exe /set {current} nx AlwaysOff
  That's it—the DEP will be disabled from here on. Now, give your PC a quick reboot and see if the error 0xc0000005 persists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Check Your App's and PC Version and Compatibility
@@ -75,14 +79,10 @@ Similarly, to check the app's version, follow the steps below:
 ![installed apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/installed-apps.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now check if the app and your operating system are compatible with each other.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Apply Some Generic Fixes for Fixing Errors on Windows
 
@@ -98,7 +98,7 @@ Let's go over all of them one by one.
 6. [Perform a Factory Reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) : A Factory reset is, as I sometimes like to call it, the "all pulverizer" all Windows problems. It removes your operating system and reinstalls it so you can start again with a clean slate. It's a drastic measure, but sometimes it's the only way to get a Windows error fixed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixing the Error Code 0xc0000005 on a Windows PC
@@ -122,17 +122,24 @@ Let's go over all of them one by one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-premium-capture-suite-chromebook-focus/"><u>2024 Approved Premium Capture Suite Chromebook Focus</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlocking-profit-the-step-by-step-guide-to-assess-your-youtube-earnings/"><u>2024 Approved Unlocking Profit The Step-by-Step Guide to Assess Your YouTube Earnings</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-steps-for-recognizing-and-fixing-disabled-hard-drives-in-windows-11/"><u>Essential Steps for Recognizing and Fixing Disabled Hard Drives in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-tips-for-windows-11-drive-connection/"><u>Essential Tips for Windows 11 Drive Connection</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nubia-red-magic-8s-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nubia Red Magic 8S Pro to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/lenovos-yoga-book-ninespot-transforming-the-future-of-multi-functional-devices-with-its-revolutionary-dual-screens-insights/"><u>Lenovo's Yoga Book Ninespot: Transforming the Future of Multi-Functional Devices with Its Revolutionary Dual Screens | Insights</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/mastering-screen-capture-for-google-meet-talks/"><u>Mastering Screen Capture for GooGle Meet Talks</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/preparing-your-smart-home-theater-for-the-ultimate-super-bowl-party/"><u>Preparing Your Smart Home Theater for the Ultimate Super Bowl Party</u></a></li>
-<li><a href="https://fox-within.techidaily.com/question/"><u>Question</u></a></li>
-<li><a href="https://windows11.techidaily.com/reversing-webp-formats-in-google-chrome-for-pc-folks/"><u>Reversing WebP Formats in Google Chrome, for PC Folks</u></a></li>
-<li><a href="https://windows11.techidaily.com/trusting-websites-in-windows-11-a-quick-guide/"><u>Trusting Websites in Windows 11: A Quick Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-evolution-the-remarkable-journey-of-7-ancient-traits-into-11/"><u>Windows Evolution: The Remarkable Journey of 7 Ancient Traits Into 11</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-accelerate-engagement-the-best-12-ways-to-increase-video-popularity/"><u>[New] In 2024, Accelerate Engagement - The Best 12 Ways to Increase Video Popularity</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-the-ultimate-seventh-selection-of-aquatic-cameras/"><u>[Updated] 2024 Approved The Ultimate Seventh Selection of Aquatic Cameras</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-locating-your-own-playlists-on-youtube/"><u>[Updated] In 2024, Locating Your Own Playlists on Youtube</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-snapshot-showdown-youtube-shorts-challenge-to-the-titans-of-tiktok/"><u>[Updated] In 2024, Snapshot Showdown YouTube Shorts Challenge to the Titans of TikTok</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-shining-spotlight-on-luminous-hdr-techniques/"><u>[Updated] Shining Spotlight on Luminous HDR Techniques</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-youtube-to-audio-gold-prime-10-converter-hits-for-2024/"><u>[Updated] YouTube to Audio Gold Prime 10 Converter Hits for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-compact-tablet-picks-for-2ver-2024-in-depth-analysis-and-expert-opinions-zdnet/"><u>Best Compact Tablet Picks for 2veR 2024: In-Depth Analysis and Expert Opinions | ZDNET</u></a></li>
+<li><a href="https://windows11.techidaily.com/function-keys-not-working-in-windows-10-heres-what-to-do/"><u>Function Keys Not Working in Windows 10? Here's What to Do</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-disable-auto-open-of-search-menu-on-windows-11/"><u>How To Disable Auto-Open of Search Menu on Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-a2-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo A2 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-techniques-for-downloading-twitter-videos-and-creating-mp3s/"><u>In 2024, Techniques for Downloading Twitter Videos and Creating MP3s</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-comic-files-on-win11-a-step-by-step-guide/"><u>Navigating Comic Files on Win11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-eliminating-common-anydesk-hurdles-on-windows/"><u>Quick Guide: Eliminating Common AnyDesk Hurdles on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/regain-control-over-your-wobbling-windows-arrows/"><u>Regain Control Over Your Wobbling Windows Arrows</u></a></li>
+<li><a href="https://windows11.techidaily.com/transformative-ui-update-command-line-in-windows-11s-taskbar/"><u>Transformative UI Update: Command Line in Windows 11'S TaskBar</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-realme-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Realme .</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-windows-11s-hidden-mac-pathways/"><u>Unraveling Windows 11'S Hidden MAC Pathways</u></a></li>
+<li><a href="https://windows11.techidaily.com/unwanted-file-explorer-freezes-try-these-quick-fixes-on-win11/"><u>Unwanted File Explorer Freezes? Try These Quick Fixes on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-tutorial-enable-tablet-taskbar/"><u>Windows 11 Tutorial: Enable Tablet Taskbar</u></a></li>
 </ul></div>
 

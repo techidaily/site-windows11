@@ -1,7 +1,7 @@
 ---
 title: 5 Clever CMD Gimmicks to Spice Up Your Day
-date: 2024-08-15T15:19:57.198Z
-updated: 2024-08-16T15:19:57.198Z
+date: 2025-01-26T06:28:18.451Z
+updated: 2025-01-29T19:35:37.890Z
 tags:
   - windows10
   - windows11
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/e0a34c7a81fb8279e0e4f8e61ff399b11932a0b05
 
  Command Prompt holds almost endless possibilities, and it's doubtful many know the full extent of what a few lines of code can accomplish. Whether you're a Command Prompt expert or you just like to pull it up to show off, here are 5 fun or interesting things you can see in Command Prompt, right now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Customize Your Look
 
 ![screenshot of a customized command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_customized_cmd.jpg)
@@ -32,14 +36,12 @@ thumbnail: https://thmb.techidaily.com/e0a34c7a81fb8279e0e4f8e61ff399b11932a0b05
 
  You can make some pretty ridiculous Command Prompts this way, or further refine the window to your exact needs. The features are so extensive that it might be worth brushing up on [customizing the command prompt](https://www.makeuseof.com/windows-customize-command-prompt/) if it's something that interests you.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Watch Star Wars on Command Prompt
 
 ![screenshot of the cmd telnet star wars recreation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_cmd_telnet_starwars_recreation.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This one has the potential to lead to a lot of fun, and even some curious looks from anyone who might not be privy to how Command Prompt works.
@@ -50,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/e0a34c7a81fb8279e0e4f8e61ff399b11932a0b05
 
 ![screenshot of the windows features window showing telnet client selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_windows_features_telnet_client.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, here's the fun part. Run the following commands, hitting **Enter** after each one:
 
 1. **telnet telehack.com**
@@ -57,24 +63,9 @@ thumbnail: https://thmb.techidaily.com/e0a34c7a81fb8279e0e4f8e61ff399b11932a0b05
 
  Lean back and enjoy a bizarre recreation of Star Wars!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. More Telnet Fun: Command Prompt Aquarium
 
 ![screenshot of a cmd window showing telnet aquarium](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_cmd_telnet_aquarium.jpg)
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You may have noticed other fun options when running the **telnet telehack.com** command.
 
@@ -87,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/e0a34c7a81fb8279e0e4f8e61ff399b11932a0b05
 ## 4\. Change the Window Title
 
 ![screenshot of the title command renaming a command prompt window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_cmd_renamed_title.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Let's move away from the weirdness of ASCII recreations and look at something more low-key.
 
@@ -107,8 +102,9 @@ thumbnail: https://thmb.techidaily.com/e0a34c7a81fb8279e0e4f8e61ff399b11932a0b05
 [Consider reading more about Traceroute](https://www.makeuseof.com/traceroute-what-is-it/), as it can be helpful in network troubleshooting as well.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Shut Down Your Computer Without the Mouse or Power Button
 
 ![screenshot of the shutdown command in the command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_shutdown_command_cmd.jpg)
@@ -119,16 +115,11 @@ thumbnail: https://thmb.techidaily.com/e0a34c7a81fb8279e0e4f8e61ff399b11932a0b05
 
  Is there much purpose to this command? If you're working with batch files, maybe, but the average user might just prefer to shut down their computer the usual way. This command might not have much practical use, but it's a fun trick all the same.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fun With Command Prompt
 
  Despite being one of the most plain-looking interfaces imaginable, a user can still very easily have some fun with the Command Prompt. The items listed here don't even scratch the surface of the hacks and tricks you can pull off with Command Prompt.
 
  Regardless, fun is important, and if you can find it in the most unlikely places, why not?
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -137,5 +128,26 @@ thumbnail: https://thmb.techidaily.com/e0a34c7a81fb8279e0e4f8e61ff399b11932a0b05
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-efficient-routines-for-video-game-screening/"><u>[New] 2024 Approved Efficient Routines for Video Game Screening</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-chill-vibes-top-idle-pc-experiences/"><u>[New] In 2024, Chill Vibes Top Idle PC Experiences</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-capture-android-speech-4-simple-no-root-methods/"><u>[Updated] 2024 Approved Capture Android Speech 4 Simple No-Root Methods</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-boosting-your-browser-lightning-speed-profile-hunts/"><u>[Updated] In 2024, Boosting Your Browser Lightning Speed Profile Hunts</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-tecno-spark-20-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Tecno Spark 20</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-windows-blue-screen-0x8007007e-problems/"><u>Fixing Windows Blue Screen 0X8007007E Problems</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-xiaomi-redmi-13c-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Xiaomi Redmi 13C 5G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-oneplus-nord-3-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset OnePlus Nord 3 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-use-the-diskusage-command-to-analyze-drive-space-on-windows/"><u>How to Use the DiskUsage Command to Analyze Drive Space on Windows</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-huawei-p60-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Huawei P60 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-9-ways-to-engage-windows-11s-volume-management/"><u>Master 9 Ways to Engage Windows 11'S Volume Management</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/optimize-clarity-mastering-close-up-techniques-in-videoleap-for-2024/"><u>Optimize Clarity Mastering Close-Up Techniques in Videoleap for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-grayed-extended-volume-options-in-windows/"><u>Overcome Grayed Extended Volume Options in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfect-window-dimensions-win11s-configurability/"><u>Perfect Window Dimensions: Win11's Configurability</u></a></li>
+<li><a href="https://windows11.techidaily.com/secretive-windows-11-aesthetic-designs/"><u>Secretive Windows 11 Aesthetic Designs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/separating-medical-truths-fact-checking-techniques-with-chatgpt/"><u>Separating Medical Truths: Fact-Checking Techniques with ChatGPT</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-resolving-efail-0x80004005-error-in-windows-virtualbox/"><u>Strategies for Resolving E_FAIL (0X80004005) Error in Windows Virtualbox</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-recovery-plan-from-0x800713f-disruption-in-windows-email-sphere/"><u>Swift Recovery Plan From 0X800713F Disruption in Windows' Email Sphere</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-synonym-searches-in-windows-11/"><u>Swift Synonym Searches in Windows 11</u></a></li>
+</ul></div>
 

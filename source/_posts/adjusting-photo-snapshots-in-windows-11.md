@@ -1,7 +1,7 @@
 ---
 title: Adjusting Photo Snapshots in Windows 11
-date: 2024-08-15T15:22:13.891Z
-updated: 2024-08-16T15:22:13.891Z
+date: 2025-01-28T20:30:40.187Z
+updated: 2025-01-30T03:02:34.918Z
 tags:
   - windows10
   - windows11
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 
  Have you ever had trouble identifying your images in Windows because their thumbnail size was too small? If so, you've come to the right place. In this article, we'll share two efficient ways to change the image thumbnail size, allowing you to easily organize and locate your files.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Change Image Thumbnail Size Using the File Explorer
 
  Whether you need to perform simple tasks like viewing images or more complex operations like managing [Folder options](https://www.makeuseof.com/windows-folder-options-guide/), the Windows File Explorer has you covered. And if you want to adjust image thumbnail sizes to your liking, you can do that too using File Explorer.
@@ -31,8 +35,13 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 ![View option in the File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/view-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Change the Image Thumbnail Size Using the Registry Editor
 
  The Registry Editor is a crucial Windows utility that allows you to configure various system settings. However, it's important to note that editing the registry can be risky, as one mistake could cause your system to become unstable. Therefore, it's essential to [back up the registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) and [create a restore point](https://www.makeuseof.com/windows-11-create-restore-point/) before proceeding with any changes.
@@ -44,25 +53,23 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 `Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer`
 3. Right-click the blank space in the right pane, hover the cursor to **New**, and select **DWORD (32-bit) Value**.  
 ![DWORD (32-bit) Value in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/dword-32-bit-value-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Name the value **ThumbnailSize**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Double-click on ThumbnailSize, and enter the value between **32** and **256**. The higher the number, the larger the image thumbnail.  
 ![Value data in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/value-data-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Click **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Everything Is Large and Clear on Windows
 
  Thumbnails are small representations of the original image, allowing you to identify and organize your images easily. However, if the image thumbnail size is too small, identifying and organizing your images can be challenging. Fortunately, the above methods can help you change the image thumbnail size according to your preference, making it easier to manage your files.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -71,5 +78,21 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-obs-tutorial-for-instagram-live-streams-your-ultimate-reference/"><u>[New] 2024 Approved OBS Tutorial for Instagram Live Streams Your Ultimate Reference</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-the-ultimate-path-to-perfecting-adobe-capture-screen-recordings/"><u>[Updated] In 2024, The Ultimate Path to Perfecting Adobe Capture Screen Recordings</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-sprint-showcase-short-track-22-glory/"><u>[Updated] Sprint Showcase Short Track '22 Glory</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-2023s-best-device-compatible-entry-editor-solutions/"><u>2024 Approved 2023'S Best Device-Compatible Entry Editor Solutions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-tecno-spark-10-4g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Tecno Spark 10 4G is off? | Dr.fone</u></a></li>
+<li><a href="https://win-net.techidaily.com/complete-guide-to-duplicating-your-hard-drive-on-windows-11-using-two-effective-methods/"><u>Complete Guide to Duplicating Your Hard Drive on Windows 11 Using Two Effective Methods</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Honor 90 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-elevate-your-digital-artistry-with-these-free-tools/"><u>In 2024, Elevate Your Digital Artistry with These Free Tools</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-xiaomi-14-pro-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Xiaomi 14 Pro Phones with/without a PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-failed-disk-readwrites-on-windows/"><u>Overcoming Failed Disk Read/Writes on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-resolve-inadequate-access-rights-in-win-1110-errors/"><u>Steps to Resolve Inadequate Access Rights in Win 11/10 Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-your-workspace-unveiling-5-advanced-window-folder-methods/"><u>Transform Your Workspace: Unveiling 5 Advanced Window Folder Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-powerful-techniques-for-managing-packages-on-windows-11/"><u>Unveiling Powerful Techniques for Managing Packages on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-users-guide-to-transcribing-with-ais-whisper/"><u>Windows Users Guide to Transcribing with AI's Whisper</u></a></li>
+</ul></div>
 

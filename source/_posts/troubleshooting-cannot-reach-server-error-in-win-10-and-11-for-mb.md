@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Cannot Reach Server Error in Win 10 & 11 for MB
-date: 2025-01-15T17:08:19.524Z
-updated: 2025-01-22T17:39:14.628Z
+date: 2025-01-24T00:37:42.402Z
+updated: 2025-01-29T17:07:36.417Z
 tags:
   - windows10
   - windows11
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/ef0c500c1ff8cdea11d6b2ce7132e969a27a23353
 ![The Run this program as an administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-this-program-as-an-administrator-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Check That the Malwarebytes Service Is Enabled and Running
@@ -60,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/ef0c500c1ff8cdea11d6b2ce7132e969a27a23353
 ![The Windows Management Instrumentation service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-management-instrumentation-service.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Repair Malwarebytes With Its Dedicated Support Tool
@@ -90,15 +90,11 @@ Here is how you can repair Malwarebytes with its support tool:
 ![The Scan options navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/scan-options.jpg)
 3. Click the radio button labeled**Full Scan** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Scan now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/scan-now-button.jpg)
 4. Press**Scan now** to start a Microsoft Defender scan.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Reinstall Malwarebytes
@@ -112,13 +108,17 @@ Here is how you can repair Malwarebytes with its support tool:
 4. Select**OK** to restart the PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click**Yes** in the window that pops up after the restart.
 6. Select**Yes** in the Reinstall Malwarebytes for Windows popup dialog box that opens.
 7. Click the**Personal Computer** option.
 8. Finally, select**Yes** to reinstall Malwarebytes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Now You Can (Probably) Utilize Malwarebytes
 
@@ -141,20 +141,19 @@ Here is how you can repair Malwarebytes with its support tool:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-maximize-your-laptops-dvd-potential-easily/"><u>[New] In 2024, Maximize Your Laptop's DVD Potential Easily</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-quick-fixes-for-storing-vimeo-video-files-for-2024/"><u>[New] Quick Fixes for Storing Vimeo Video Files for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-avoid-high-costs-buying-budget-friendly-gopros/"><u>[Updated] 2024 Approved Avoid High Costs Buying Budget-Friendly GoPros</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/advanced-tips-for-zoom-meetings-on-chromebooks-for-2024/"><u>Advanced Tips for Zoom Meetings on ChromeBooks for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/enhancing-your-online-visibility-profile-pics-that-attract-more-engagement/"><u>Enhancing Your Online Visibility: Profile Pics That Attract More Engagement</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/1722559476754-going-beyond-price-tag-diving-into-the-world-of-tp-link-archer-c9-reviews/"><u>Going Beyond Price Tag: Diving Into the World of TP-Link Archer C9 Reviews</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-nullify-windows-aural-overdrive/"><u>How To Nullify Windows Aural Overdrive</u></a></li>
-<li><a href="https://windows11.techidaily.com/legacys-latest-look-instructions-for-windows-11-using-to-go-and-rufus-technology/"><u>Legacy's Latest Look: Instructions for Windows 11, Using To Go & Rufus Technology</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-unyielding-mode-switches-on-win11/"><u>Overcoming Unyielding Mode Switches on Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/reclaim-missing-flight-copilot-on-new-os-ws11/"><u>Reclaim Missing Flight Copilot on New OS WS11</u></a></li>
-<li><a href="https://fox-links.techidaily.com/strategies-for-combining-the-best-of-zoom-and-skype-video-calls-for-2024/"><u>Strategies for Combining the Best of Zoom and Skype Video Calls for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-and-techniques-for-windows-11-diagnostic-rehabilitation/"><u>Tips and Techniques for Windows 11 Diagnostic Rehabilitation</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-unavailable-roblox-due-to-user-configs-on-windows/"><u>Troubleshooting Unavailable Roblox Due to User Configs on WINDOWS</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/unlock-your-apple-iphone-13-mini-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>Unlock Your Apple iPhone 13 mini in Minutes with ICCID Code Everything You Need to Know</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-file-past-mastering-windows-11s-history-access/"><u>Unlocking File Past: Mastering Windows 11'S History Access</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-essential-guide-9-cost-free-editing-tools-for-creatives/"><u>[New] In 2024, Essential Guide 9 Cost-Free Editing Tools for Creatives</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-effortless-steps-to-blur-distractions-in-google-meets/"><u>[Updated] 2024 Approved Effortless Steps to Blur Distractions in Google Meets</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-7-essential-tips-for-flawless-underwater-filming/"><u>[Updated] 7 Essential Tips for Flawless Underwater Filming</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-ultimate-list-7-indispensable-devices-in-the-metaverse-for-2024/"><u>[Updated] The Ultimate List 7 Indispensable Devices in the Metaverse for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-unleash-potential-in-online-engagement-through-zoom-screenshares/"><u>[Updated] Unleash Potential in Online Engagement Through Zoom Screenshares</u></a></li>
+<li><a href="https://techtrends.techidaily.com/apple-watch-troubles-dealing-with-the-frustration-of-phantom-touches/"><u>Apple Watch Troubles: Dealing with the Frustration of 'Phantom Touches'</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-system-stability-automatic-windows-and-amd-driver-shift/"><u>Elevate System Stability: Automatic Windows & AMD Driver Shift</u></a></li>
+<li><a href="https://windows11.techidaily.com/guiding-users-through-fixing-nvidias-unreachable-error/"><u>Guiding Users Through Fixing NVIDIA's 'Unreachable' Error</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-oppo-a78-easily-by-drfone-android/"><u>How To Unlock a Oppo A78 Easily?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/os-melhores-editores-video-para-estabilizacao-e-correcoes-em-202-opcoes-gratuitas-and-pagas/"><u>Os Melhores Editores Vídeo Para Estabilização E Correções Em 202([!]): Opções Gratuitas & Pagas</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-notepad-abrupt-closures/"><u>Overcoming Windows Notepad Abrupt Closures</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-windows-taskbar-recovery/"><u>Strategies for Windows Taskbar Recovery</u></a></li>
+<li><a href="https://windows11.techidaily.com/systematic-approach-to-eliminate-flashing-on-windows/"><u>Systematic Approach to Eliminate Flashing on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-essential-guide-to-brightening-the-windows-11-pointer/"><u>The Essential Guide to Brightening the Windows 11 Pointer</u></a></li>
 </ul></div>
 

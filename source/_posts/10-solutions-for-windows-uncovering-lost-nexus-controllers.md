@@ -1,7 +1,7 @@
 ---
 title: "10 Solutions for Windows: Uncovering Lost Nexus Controllers"
-date: 2024-08-15T15:23:38.059Z
-updated: 2024-08-16T15:23:38.059Z
+date: 2025-01-26T02:13:43.568Z
+updated: 2025-01-30T06:00:24.775Z
 tags:
   - windows10
   - windows11
@@ -27,8 +27,9 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
  Another thing you can do is test your controller with another PC and see if it works. If it does, it's time for some more complicated fixes.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Make Sure Windows Recognizes Your Controller
 
  Next, you need to ensure that Windows recognizes your controller. This should help rule out any issues caused by improper setup.
@@ -36,9 +37,6 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
  Press **Win + R** to [open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/). Type **joy.cpl** in the text box and hit **Enter**. In the Game Controllers window that appears, check if your controller shows up. If it does, make sure its **Status** reads **OK**.
 
 ![Game Controllers on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/game-controllers-on-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Exit and Re-Enter Steam’s Big Picture Mode
 
@@ -57,15 +55,13 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 5. Switch to the **Controller** tab.
 6. Under **External Gamepad Settings**, use the toggles to enable configuration support for the controller you are using.  
 ![Steam Controller Settings Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/steam-controller-settings-menu-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  After completing the above steps, unplug your controller and plug it back in to check if Steam recognizes it.
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Enable Steam Overlay
 
  Another workaround to get Steam to recognize your controller is to enable Steam Overlay. This feature makes the in-game interface accessible while playing games and helps enhance controller compatibility within Steam.
@@ -77,9 +73,6 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 3. Select the **In Game** tab from the left sidebar.
 4. Turn on the toggle next to the **Enable Steam Overlay while in-game** option.  
 ![Enable Steam Overlay](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/enable-steam-overlay.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Restart the Steam client after this and check if the issue is still there.
 
@@ -90,6 +83,10 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 ![Run Steam as Administrator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-steam-as-administrator.jpg)
 
  If doing this finally allows Steam to detect your controller, you can configure Steam to [always run as an administrator on Windows](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) as a more permanent solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Configure the Steam Controller Application Options
 
@@ -105,25 +102,10 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 8. Click **OK** to save your changes.  
 ![Steam Input Per-Game Setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/steam-input-per-game-setting.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Update Your Controller Drivers
 
  Outdated or malfunctioning drivers on your PC can also hinder Steam's ability to recognize your gaming controller. If that’s the case, updating the controller drivers should help. Fortunately, we have a guide on [how to find and replace outdated Windows drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) if you need help.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 9\. Check for Steam Client Updates
 
  There’s a chance that Steam is unable to detect your controller on Windows due to a bug within the app. Fortunately, Steam regularly receives updates that address such issues and enhance performance. Hence, it's a good idea to ensure you are running the most recent version of Steam on Windows.
@@ -131,8 +113,9 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
  To check for Steam updates, click the **Steam** menu in the top-left corner and select **Check for Steam Client Updates**.
 
 ![Check for Steam Updates on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/check-for-steam-updates-on-windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 10\. Opt Out of the Steam Beta
@@ -145,7 +128,15 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 4. Click **OK** to save changes.  
 ![Opt out of Steam Beta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/steam-beta-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Restart Steam after this, and it should automatically install the necessary updates to switch to the stable version of the app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Navigate the Steam Universe With Your Controller Once Again
 
@@ -155,8 +146,6 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
  Don’t worry though, it’s possible to get Steam to detect your controller with a few quick and easy troubleshooting tips. Let’s check them out.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -164,5 +153,24 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-from-passive-to-profitable-8-beginners-revenue-hacks-for-youtube/"><u>[New] 2024 Approved From Passive to Profitable 8 Beginner's Revenue Hacks for YouTube</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/oosting-channel-success-scaling-for-a-million-viewers/"><u>[New] Boosting Channel Success Scaling for a Million Viewers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-splitcam-breakdown-best-or-not-amongst-recorders/"><u>[Updated] In 2024, SplitCam Breakdown Best or Not Amongst Recorders?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-survival-housing-in-minecraft-6-10-guide/"><u>2024 Approved Survival Housing in Minecraft #6-10 Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/harmonizing-your-win-key-with-microsoft-profile-access/"><u>Harmonizing Your WIN Key with Microsoft Profile Access</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oneplus-nord-n30-se-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from OnePlus Nord N30 SE to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-honor-magic-5-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Honor Magic 5 online without jailbreak</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-14-pro-max-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone 14 Pro Max In Different Conditionsin</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-itel-p55plus-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Itel P55+ Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/insights-into-ftdibussys-windows-memory-safeguard-breach/"><u>Insights Into ftdibus.sys: Windows' Memory Safeguard Breach</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-quick-settings-with-ease-on-your-win-11-pc/"><u>Master Quick Settings with Ease on Your Win 11 PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-security-activating-tpm-and-secure-boot-for-windows-11-upgrades/"><u>Maximizing Security: Activating TPM & Secure Boot for Windows 11 Upgrades</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-unexpected-errors-in-windows-security-fixes/"><u>Navigating Unexpected Errors in Windows Security Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/setting-default-read-only-mode-for-words-email-attachments/"><u>Setting Default Read-Only Mode for Word's Email Attachments</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-dfs-sudden-shutdown-issue-on-pc/"><u>Troubleshooting DF's Sudden Shutdown Issue on PC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-nubia-red-magic-8s-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Nubia Red Magic 8S Pro Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-11-resetting-how-to-bring-back-microsoft-store-apps/"><u>Win 11 Resetting: How to Bring Back Microsoft Store Apps</u></a></li>
+</ul></div>
 

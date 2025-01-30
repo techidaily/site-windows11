@@ -1,7 +1,7 @@
 ---
 title: Rectifying 'Device Not Initialized' Warning in Win 11
-date: 2025-01-21T20:17:48.278Z
-updated: 2025-01-22T17:43:18.614Z
+date: 2025-01-22T21:21:11.451Z
+updated: 2025-01-29T17:00:10.674Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/857cad2a82232e03f92aad9809b4a548e4964a8c9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Causes the Unknown USB Device, Port Reset Failed Error in Windows 11?
 
  USB devices are generally easy to use with computers. But sometimes, you might face different errors upon connecting them to your computer. One of these errors is the Unknown USB Device, Port Reset Failed error that appears due to the following reasons:
@@ -35,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/857cad2a82232e03f92aad9809b4a548e4964a8c9
 * Outdated BIOS
 
  Knowing the reasons behind the error message, let's get into all the working fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Try the Basic Repairs
 
@@ -52,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/857cad2a82232e03f92aad9809b4a548e4964a8c9
 2. Choose**Device Manager** from the list at crops up.
 3. Right-click on the**Universal Serial Bus controllers** node and select the**Scan for hardware changes** option.  
 ![Scan for hardware changes option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/scan-for-hardware-changes-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  That's it. Now, wait until the scan is complete. Once done, check if the issue continues.
 
@@ -75,7 +79,7 @@ Here's how to use the Hardware and Devices troubleshooter:
  The Hardware and Devices troubleshooter will now look for and automatically fix any available hardware issues on your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Disable Fast Startup
@@ -105,6 +109,10 @@ Next, restart your computer and check for the problem.
 ![Update driver option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/update-driver-option.jpg)
 4. In the new window that crops up, select the**Search automatically for drivers** option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, wait until Windows searches for any available driver update online and install it on your computer.
 
 ## 6\. Reinstall All the USB Controllers
@@ -117,7 +125,7 @@ Next, restart your computer and check for the problem.
  Next, restart your computer and plug in the USB device again. Check if you still see the error message. If yes, continue with the guide.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Disable the USB Selective Suspend Setting
@@ -131,19 +139,11 @@ Next, restart your computer and check for the problem.
 ![Disable USB Selective Setting in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-usb-selective-setting.jpg)
 5. Click**Apply** \>**OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Update Your BIOS
 
  Are you still facing the problem? If yes, then probably outdated BIOS is the culprit.
 
  An outdated BIOS can cause issues like low system performance and stability, and incompatibility with certain devices. It can also cause the Unknown USB Device, Port Reset Failed error. So, update your BIOS to fix the issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixing the Unknown USB Device, Port Reset Failed Error
 
@@ -166,19 +166,24 @@ Next, restart your computer and check for the problem.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-discovering-the-top-tools-for-engaging-video-beginnings/"><u>[New] 2024 Approved Discovering the Top Tools for Engaging Video Beginnings</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-compact-content-leading-5-services-to-compress-video-urls/"><u>[Updated] 2024 Approved Compact Content Leading 5 Services to Compress Video URLs</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-vivo-y27-4g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Vivo Y27 4G? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Honor X9b | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/harnessing-the-power-of-linux-inside-a-windows-os/"><u>Harnessing the Power of Linux Inside a Windows OS</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-sync-google-photographs-with-icloud-for-enhanced-cloud-integration/"><u>How to Sync Google Photographs with iCloud for Enhanced Cloud Integration</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Infinix Note 30 5G | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-fixes-for-non-terminable-tasks-on-windows-pcs/"><u>Quick Fixes for Non-Terminable Tasks on Windows PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/reactivating-frozen-discord-widgets-on-windows-desktop/"><u>Reactivating Frozen Discord Widgets on Windows Desktop</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedying-absence-of-files-alerts-in-windows-11/"><u>Remedying Absence of Files Alerts in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-screen-not-responsive-in-windows-11-and-11/"><u>Resolving Screen Not Responsive in Windows 11 & 11</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/step-by-step-tutorial-saving-and-downloading-ustudio-videos-as-mp4-avi-and-wmv-for-offline-viewing/"><u>Step-by-Step Tutorial: Saving and Downloading uStudio Videos as MP4, AVI & WMV for Offline Viewing</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-oneplus-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost OnePlus Device</u></a></li>
-<li><a href="https://windows11.techidaily.com/tutorial-activating-and-launching-ms-paint-in-windows-11/"><u>Tutorial: Activating and Launching MS Paint in Windows 11</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-superb-phone-video-and-photo-capturing-with-best-apps-list/"><u>[New] In 2024, Superb Phone Video & Photo Capturing with Best Apps List</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-from-amateur-to-expert-iphones-audio-recording-journey/"><u>[Updated] From Amateur to Expert IPhone's Audio Recording Journey</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-altering-your-voice-for-stories-and-reels-on-instagram/"><u>[Updated] In 2024, Altering Your Voice for Stories & Reels on Instagram</u></a></li>
+<li><a href="https://windows11.techidaily.com/from-screenless-to-seen-effective-methods-for-re-emerging-off-screen-windows-in-win-10/"><u>From Screenless To Seen: Effective Methods for Re-Emerging Off-Screen Windows in Win 10</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-latest-corsair-h80i-v2-gpu-fan-driver-here/"><u>Get Your Latest Corsair H80i V2 GPU Fan Driver Here</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-past-insights-from-the-paris-games-can-drive-energy-efficiency-in-future-olympics-zdnet/"><u>How Past Insights From the Paris Games Can Drive Energy Efficiency in Future Olympics - ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-razer-synapse-not-working-in-windows-1110/"><u>How to Fix Razer Synapse Not Working in Windows 11/10</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instagrams-close-up-secrets-mastering-the-magnify-technique-for-2024/"><u>Instagram's Close-Up Secrets Mastering the Magnify Technique for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/interpreting-storage-identities-c-drive-and-d-drive-tale/"><u>Interpreting Storage Identities: C Drive & D Drive Tale</u></a></li>
+<li><a href="https://windows11.techidaily.com/keeping-task-management-programs-in-order/"><u>Keeping Task Management Programs In Order</u></a></li>
+<li><a href="https://windows11.techidaily.com/launch-your-windows-11-pc-into-wireless-broadcast-mode/"><u>Launch Your Windows 11 PC Into Wireless Broadcast Mode</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-audio-device-irq-balancing/"><u>Mastering Audio Device IRQ Balancing</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-win1011s-corrupted-recycle-bin-woes/"><u>Resolving WIN10/11's Corrupted Recycle Bin Woes</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-the-entry-to-wordpad-on-pc/"><u>Streamlining the Entry to WordPad on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tackling-crashing-bugs-in-total-war-warhammer-ii-comprehensive-guide-to-stability-fixes/"><u>Tackling Crashing Bugs in Total War: WARHAMMER II – Comprehensive Guide to Stability Fixes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-poco-x6-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-fundamentals-of-exceptional-interviewing/"><u>The Fundamentals of Exceptional Interviewing</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-game-changer-in-tablet-tech-a-deep-dive-into-ipados-and-its-effects-on-the-new-ipads-performance/"><u>The Game Changer in Tablet Tech - A Deep Dive Into IPadOS and Its Effects on the New iPad's Performance</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-to-disable-game-proposals-on-w11-home-system/"><u>Tips to Disable Game Proposals on W11 Home System</u></a></li>
 </ul></div>
 

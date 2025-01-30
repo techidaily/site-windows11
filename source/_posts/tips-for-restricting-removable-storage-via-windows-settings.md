@@ -1,7 +1,7 @@
 ---
 title: Tips for Restricting Removable Storage via Windows Settings
-date: 2025-01-21T16:39:16.934Z
-updated: 2025-01-22T16:00:43.766Z
+date: 2025-01-27T19:12:46.757Z
+updated: 2025-01-29T20:18:35.136Z
 tags:
   - windows10
   - windows11
@@ -25,13 +25,13 @@ thumbnail: https://thmb.techidaily.com/6bec6b49ef7ec1e5a2c1ba4a21123755124d462c6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Prevent Others From Installing Any Removable Storage Devices
 
  Let's start by checking out how you can prevent others from installing any removable storage device into your PC. You can do this using either the Local Group Policy Editor or the Registry Editor.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Using the Local Group Policy Editor
 
@@ -49,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/6bec6b49ef7ec1e5a2c1ba4a21123755124d462c6
 ![Clicking the prevent installation of removable devices option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Clicking-the-prevent-installation-of-removable-devices-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Select **Enabled** on the next screen to prevent others from installing removable storage devices into your PC. Alternatively, select **Disabled** or **Not Configured** to restore the default settings.
@@ -59,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/6bec6b49ef7ec1e5a2c1ba4a21123755124d462c6
  Struggling to access the LGPE on Windows Home? There are a few tricks you can apply to [access the LGPE on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/). But if that sounds complicated to you, then skip to the Registry Editor method.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Using the Registry Editor
@@ -67,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/6bec6b49ef7ec1e5a2c1ba4a21123755124d462c6
 ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Registry Editor is another reliable tool you can use for tweaking system settings and troubleshooting PC issues.
@@ -91,7 +91,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows
 ![Clicking the DenyRemovableDevices value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Clicking-the-DenyRemovableDevices-value.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, follow these steps:
@@ -119,20 +119,22 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-the-art-of-visual-storytelling-with-iphone-xs-new-lens/"><u>[New] 2024 Approved The Art of Visual Storytelling with iPhone X's New Lens</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-the-roadmap-to-fandom-10-secrets-for-rampant-fb-engagement/"><u>[New] The Roadmap to Fandom 10 Secrets for Rampant FB Engagement</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-skyrocketing-view-figures-by-sustaining-youtubes-creative-commons-license/"><u>[Updated] Skyrocketing View Figures by Sustaining YouTube's Creative Commons License</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-srt-file-accessibility-across-computers/"><u>[Updated] SRT File Accessibility Across Computers</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-t-view-mov-movies-content-on-samsung-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can’t view MOV movies content on Samsung </u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-emulate-macos-layout-in-windows-top-5-strategies/"><u>How to Emulate macOS Layout in Windows: Top 5 Strategies</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-erase-an-apple-iphone-xs-max-without-apple-id-by-drfone-ios/"><u>How to Erase an Apple iPhone XS Max without Apple ID?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-fine-tuning-frames-a-comprehensible-approach-to-iphone-editing/"><u>In 2024, Fine-Tuning Frames A Comprehensible Approach to iPhone Editing</u></a></li>
-<li><a href="https://common-error.techidaily.com/msdia80dll-explained-why-its-essential-for-your-pc/"><u>MSDIA80.DLL Explained: Why It's Essential for Your PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-fixes-for-reducing-excessive-requests-in-win-based-software/"><u>Quick Fixes for Reducing Excessive Requests in Win-Based Software</u></a></li>
-<li><a href="https://windows11.techidaily.com/repairing-broken-windows-11-taskbar/"><u>Repairing Broken Windows 11 Taskbar</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-for-restarting-windows-default-settings/"><u>Steps for Restarting Windows Default Settings</u></a></li>
-<li><a href="https://windows11.techidaily.com/unraveling-secure-settings-governed-by-windows-admins/"><u>Unraveling Secure Settings Governed by Windows Admins</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-the-best-4-windows-compatible-webp-image-vendors/"><u>Unveiling The Best 4 Windows-Compatible WebP Image Vendors</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-fingerprint-scanners-hacked-security-advisory-needed/"><u>Windows Fingerprint Scanners Hacked – Security Advisory Needed</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-pictureprecision-the-ultimate-guide-to-adjusting-post-dimensions-in-instagram/"><u>[Updated] 2024 Approved PicturePrecision The Ultimate Guide to Adjusting Post Dimensions in Instagram</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-dealing-with-event-id-1000-in-windows-operating-systems-7-8-and-10/"><u>Comprehensive Guide to Dealing with Event ID 1000 in Windows Operating Systems: 7, 8 & 10</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ary-connoisseurs-must-watch-food-content/"><u>Culinary Connoisseurs Must-Watch Food Content</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/global-phone-rankings-shaken-as-iphone-captures-top-seven-positions-for-the-first-time-ever-gizmoworld-update/"><u>Global Phone Rankings Shaken as iPhone Captures Top Seven Positions for the First Time Ever | GizmoWorld Update</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-end-steadicam-selections-for-superior-dslr-cinematography-for-2024/"><u>High-End Steadicam Selections for Superior DSLR Cinematography for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-overcome-ms-store-setbacks-in-win-11-edition/"><u>How to Overcome MS Store Setbacks in Win 11 Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-basics-of-windows-pe-format/"><u>Navigating the Basics of Windows PE Format</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-pcs-pink-screens-a-step-by-step-guide/"><u>Overcoming PC's Pink Screens: A Step-by-Step Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-gt-5-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from GT 5</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-motorola-edge-40-pro-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Motorola Edge 40 Pro Screen | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-fix-frequent-anydesk-windows-issues/"><u>Steps to Fix Frequent AnyDesk Windows Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/surmounting-ram-barriers-in-the-windows-environment/"><u>Surmounting RAM Barriers in the Windows Environment</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-nokia-g42-5g-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Nokia G42 5G Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-automatic-downtime-on-windows-11-pcs/"><u>The Ultimate Guide to Automatic Downtime on Windows 11 PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-winning-formula-for-stunning-images-and-engaging-slide-shows-on-windows-11s-photo-app/"><u>The Winning Formula for Stunning Images and Engaging Slide Shows on Windows 11'S Photo App</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-snipviewer-non-responsive-shortcuts/"><u>Troubleshooting SnipViewer Non-Responsive Shortcuts</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-transforms-mastering-the-art-of-amd-card-driver-updates/"><u>Windows 11 Transforms: Mastering the Art of AMD Card Driver Updates</u></a></li>
 </ul></div>
 

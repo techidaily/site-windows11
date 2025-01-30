@@ -1,7 +1,7 @@
 ---
 title: Aging Gracefully with Your Gran’s Windows Machine
-date: 2024-08-15T15:21:36.201Z
-updated: 2024-08-16T15:21:36.201Z
+date: 2025-01-22T22:38:21.211Z
+updated: 2025-01-29T16:33:57.840Z
 tags:
   - windows10
   - windows11
@@ -43,8 +43,9 @@ thumbnail: https://thmb.techidaily.com/45fa216ed9179ff239c54a97ced9b6daebc95dcdc
 ## 3\. Rename Programs and Apps With an Accurate Description
 
 ![Make your grandparents PC accessible with large desktop items](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/make-your-grandparents-pc-accessible-with-large-desktop-items.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There’s a high chance that your grandparents won’t associate “Chrome” with the internet, “Outlook” with their email service provider, or find it easy to differentiate between each visual icon. Brand names and icon designs of various programs will seem nonsensical to your elderly relatives, so it’s best to rename desktop icons to something more descriptive that they will understand.
@@ -53,12 +54,13 @@ thumbnail: https://thmb.techidaily.com/45fa216ed9179ff239c54a97ced9b6daebc95dcdc
 
  To change the name of program shortcuts, simply right-click each icon and either click **Rename** or press **F2** to enter a personalized label.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Set Up Email Filters to Avoid Message Overloads
 
 ![Create email filters to help your grandparent's autonomy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/create-email-filters-to-help-your-grandparent-s-autonomy.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 
  If your grandparents value their autonomy and independence, they may enjoy or want to be in charge of their email accounts. However, as spam and junk emails are so common now, it’s a good idea to set up some email filters to reduce unnecessary items from confusing their inbox.
 
@@ -73,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/45fa216ed9179ff239c54a97ced9b6daebc95dcdc
 
  Once inbox rules are set in Outlook, all new emails will be redirected to your chosen folder. This should declutter your grandparents' inbox and make it less confusing for them to access.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Enable Remote Desktop
 
  Even with all your efforts to make your grandparents' computer as accessible as possible, it’s likely they’ll still run into difficulties. While they may attempt to explain to you what they see on their screen over the phone, enabling remote desktop access can make the fixing process much easier when you’re not around.
@@ -84,29 +83,24 @@ thumbnail: https://thmb.techidaily.com/45fa216ed9179ff239c54a97ced9b6daebc95dcdc
 
 **Download:**[TeamViewer](https://www.teamviewer.com/en/download/windows/) (Free)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Write Basic Instructions in Word and Save the Files to Desktop
 
  One way to empower your senior relative to take control of their computer is to give them some basic instructions that they can refer to at their disclosure. That way, they won’t need to call you up for advice or remote access any time they encounter PC issues.
 
  An easy way to do this is to write up some basic instructions in their preferred document program (such as Word, Google Docs, or Notes if their PC is really old school!) and add a shortcut to the desktop. That way your grandparents will be able to preserve their sense of independence by troubleshooting and fixing their problems without your help.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Uninstall All Bloatware and Unnecessary Programs
 
 ![Remove bloatware from your grandparent's PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/remove-bloatware-from-your-grandparent-s-pc.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 [Bloatware](https://www.makeuseof.com/what-is-bloatware/)—or Potentially Unwanted Programs (PUP)— are programs that you don’t want, that take up hardware space, and often slow down your computer. When it comes to your grandparents' computer, their bloatware is likely to come as pre-installed software. It’s unlikely that your grandparents will want or benefit from any bloatware, so it’s best to remove it for them.
 
  Luckily, you can [easily remove bloatware from Windows](https://www.makeuseof.com/tag/easily-remove-bloatware-windows-10/) and other computers. Simply navigate to **Settings > Apps >** **Installed apps** to identify and uninstall any unwanted programs.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Disable Automatic Updates
 
  While computer updates can be important when new versions are released, automatic updates can confuse, disrupt, or even worry senior family members. If they’re using an ancient piece of hardware or if their computer use is very basic, automatic updates might not even be necessary for them to use their PC for their intended purposes.
@@ -115,11 +109,19 @@ thumbnail: https://thmb.techidaily.com/45fa216ed9179ff239c54a97ced9b6daebc95dcdc
 
  Make sure you manually check available updates and implement any appropriate changes when necessary when you visit your grandparents.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Create Templates for Letters
 
  If your grandparents write letters or emails often, it can be useful for them to have a template with the correct formatting ready to use when needed. Being able to send correspondence—whether by post or electronically—can help preserve their sense of independence as they continue to handle their own affairs.
 
  Consider creating letter templates in Word (or their preferred word processor) and save the document to the desktop so that they can easily access it. You can also [create email templates in Outlook](https://www.makeuseof.com/how-to-make-and-use-email-template-outlook/) and Gmail so that your elderly relative can just focus on the content of their messages on their computer without worrying about any technicalities.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Making Your Grandparents' Computer More Accessible Can Preserve Their Sense of Independence
 
@@ -129,8 +131,6 @@ thumbnail: https://thmb.techidaily.com/45fa216ed9179ff239c54a97ced9b6daebc95dcdc
 
  Here are ways you can make your older relatives' computer more accessible to boost their sense of independence.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -138,5 +138,20 @@ thumbnail: https://thmb.techidaily.com/45fa216ed9179ff239c54a97ced9b6daebc95dcdc
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-unlocking-the-full-capabilities-of-morphvox-voice-alteration/"><u>[New] 2024 Approved Unlocking the Full Capabilities of MorphVOX Voice Alteration</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-cutting-edge-capture-tips-for-professional-sound-recording/"><u>[Updated] 2024 Approved Cutting Edge Capture Tips for Professional Sound Recording</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cloud-haven-discovering-the-quintessential-savers-for-your-files/"><u>Cloud Haven Discovering the Quintessential Savers for Your Files</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/does-chatgpt-evolve-based-on-user-input-and-discussions/"><u>Does ChatGPT Evolve Based on User Input and Discussions?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-huawei-nova-y91-phone-without-password-by-drfone-android/"><u>How To Unlock Huawei Nova Y91 Phone Without Password?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-redefining-the-greatest-movies-2023-edition/"><u>In 2024, Redefining The Greatest Movies 2023 Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/proactive-defense-7-steps-to-thwart-windows-hackers/"><u>Proactive Defense: 7 Steps to Thwart Windows Hackers</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamlessly-incorporate-gallery-view-into-file-explorer/"><u>Seamlessly Incorporate Gallery View Into File Explorer</u></a></li>
+<li><a href="https://windows11.techidaily.com/sidestep-w11s-onedrive-error-code-def5/"><u>Sidestep W11's OneDrive Error Code DEF5</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-qbittorrent-transfer-from-one-windows-to-another/"><u>Steps for qBittorrent Transfer From One Windows to Another</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/top-7-essential-metaverse-tech-for-your-arsenal-for-2024/"><u>Top 7 Essential Metaverse Tech for Your Arsenal for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Bypassing the Error 9999 Hurdle in Win OSes & Audacity
-date: 2024-08-15T15:20:31.811Z
-updated: 2024-08-16T15:20:31.811Z
+date: 2025-01-26T17:33:36.581Z
+updated: 2025-01-29T18:52:15.107Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,11 @@ thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9f
 3. To see all Control Panel items, click the**Large icons** option that’s on the**View by** menu.  
 ![The Large icons option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/large-icons-option.jpg)
 4. Select**Troubleshooting** to open up that applet.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click**View all** to see the full list of troubleshooting tools.  
 ![The View all option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/view-all-option.jpg)
 6. Select**Recording Audio** to bring up that troubleshooter.  
@@ -44,10 +49,12 @@ thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9f
 3. Select any messaging software listed under**Apps** and click**End task** .
 4. Then go through the**Background processes** section to see if there are any messaging apps there. Right-click messaging app processes there and select**End task** .  
 ![The End task option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/end-task-option-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Also, look in your system tray to see if that includes an icon for a messaging app like Skype or Zoom. Right-click any messaging app icon there and select a context menu option that closes the software.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Quit option for Teams](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/quit-option.jpg)
 6. Then open Audacity and try recording something again.
 
@@ -60,15 +67,18 @@ thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9f
 3. Select**Microphone** to access those app permission settings.  
 ![The Microphone navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microphone-navigation-option2.jpg)
 4. Toggle on the**Microphone access** option if it’s disabled. In Windows 10, turn on the**Allow apps to access your microphone** setting.  
-![The Microphone access option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-microphone-access-option.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![The Microphone access option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-microphone-access-option.jpg)
 5. Then scroll through the list of apps below that setting and click Audacity’s toggle button to enable microphone access.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Reinstall the Microphone Driver
 
  Another possible cause for error 9999 is a faulty microphone driver. Reinstalling your microphone‘s driver will address that potential cause. These are the steps for reinstalling a microphone driver in Windows:
@@ -78,22 +88,21 @@ thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9f
 3. Right-click your microphone and select**Uninstall** **device** .  
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-device-option.jpg)
 4. Click the confirmation dialog’s**Uninstall** option.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Uninstall Device confirmation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-uninstall-device-option.jpg)
 5. Select**Action** \>**Scan for hardware changes** to reinstall the microphone driver.  
 ![The Action menu in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-action-menu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Turn Off Host Intrusion Protection in Kaspersky Security Software
 
  Audacity users have confirmed disabling Host Intrusion Protection in Kaspersky antivirus (security) software fixes error 9999\. Host Intrusion Protection is a feature that regulates apps’ activities in Windows 11/10\. That component is enabled by default in Kaspersky security software.
 
  Do you have Kaspersky security software installed on your PC? If so, look for and disable a**Host Intrusion Protection** setting in that software. This [Kaspersky online help page](https://support.kaspersky.com/KESWin/11.5.0/en-US/128217.htm) tells you how to disable that feature in Endpoint Security for Windows. Or move Audacity to a Trusted app group in that software.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## 6\. Disable Third-Party Antivirus Shields
 
  Other third-party antivirus software packages can also feasibly conflict with Audacity. If you’ve installed a third-party antivirus utility in Windows 11/10, try disabling its shield before running Audacity. You can usually do that by right-clicking an antivirus tool’s icon in the system tray and selecting a context menu option to turn off its shield.
@@ -105,15 +114,13 @@ thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9f
  Clean booting is a troubleshooting method for disabling third-party apps and services that start with Windows. Performing a clean boot is a potential error 9999 resolution because it might eliminate a background program or service interfering with Audacity. Our guide on [how to clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/) tells you how to apply this potential error 9999 resolution with MSConfig and Task Manager.
 
 ![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-services-tab.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When you’ve set a clean boot and restarted Windows, try recording in Audacity. If recording works thereafter, you can leave the boot configuration as it is. However, users who prefer to re-enable startup apps and services will need to identify what one is causing error 9999.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## 8\. Reinstall Audacity
 
  Reinstalling Audacity is the last resort if none of the potential error 9999 solutions work for you. In this case, that sound editor app could have corrupted or missing files. You can remove Audacity within the Control Panel as instructed for method one in our guide to [uninstalling software in Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
@@ -123,8 +130,9 @@ thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9f
  To reinstall the software, open the [Audacity](https://www.audacityteam.org/download/) download page. Click the**Download for Windows** option there.[Open Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) and double-click the**audacity-win-3.2.4-x64.exe** file in whatever folder includes it. Then you can go through the setup wizard to reinstall Audacity.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Record Audio in Audacity Again
 
  Those potential fixes for error 9999 are widely confirmed to work by Audacity users who’ve resolved that issue. So, it’s likely that one of those solutions will fix Audacity’s recording on your Windows PC. Then you can record audio to your heart’s content with that sound-editing software.
@@ -135,8 +143,6 @@ thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,8 +150,21 @@ thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-boost-viewership-cost-effectively-with-subscriber-purchase/"><u>[New] In 2024, Boost Viewership Cost-Effectively with Subscriber Purchase</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-the-best-free-srt-translator-tools-expert-insight/"><u>[New] Navigating the Best Free SRT Translator Tools – Expert Insight</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-designing-dramatic-beginnings-in-podcasts/"><u>[Updated] 2024 Approved Designing Dramatic Beginnings in Podcasts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-spreading-twitter-vid-facebook-integration-methods/"><u>[Updated] 2024 Approved Spreading Twitter Vid Facebook Integration Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/1-mastering-excel-a-step-by-step-guide-on-implementing-the-less-than-or-equal-to-operator/"><u>1. Mastering Excel: A Step-by-Step Guide on Implementing the 'Less than or Equal To' Operator</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-snapchats-highlighted-stories/"><u>2024 Approved Mastering Snapchat's Highlighted Stories</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-y200e-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo Y200e 5G</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/best-free-tools-for-editing-wmv-videos-online-and-offline-solutions/"><u>Best Free Tools for Editing WMV Videos - Online & Offline Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/ditch-the-expensive-software-mastering-project-management-with-just-excel/"><u>Ditch the Expensive Software - Mastering Project Management with Just Excel</u></a></li>
+<li><a href="https://extra-information.techidaily.com/future-frameworks-exclusive-list-of-top-cameras/"><u>Future Frameworks Exclusive List of Top Cameras</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-cell-references-seamlessly-linking-data-across-excel-workbooks/"><u>Mastering Cell References: Seamlessly Linking Data Across Excel Workbooks</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-number-formatting-how-to-precisely-add-prefixes-like-zeroes-in-excel-cells/"><u>Mastering Number Formatting: How To Precisely Add Prefixes Like Zeroes in Excel Cells</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-old-data-in-excel-a-step-by-step-guide/"><u>Restoring Old Data in Excel: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-insights-in-numbers-a-guide-to-excel-quick-analysis-for-impactful-data-graphs-and-charts/"><u>Unlocking Insights in Numbers: A Guide to Excel Quick Analysis for Impactful Data Graphs and Charts</u></a></li>
+</ul></div>
 

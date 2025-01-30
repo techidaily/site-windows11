@@ -1,7 +1,7 @@
 ---
 title: Advance Work Efficiency with Windows' Smart Launcher Tool
-date: 2024-08-15T15:19:49.982Z
-updated: 2024-08-16T15:19:49.982Z
+date: 2025-01-22T19:47:38.446Z
+updated: 2025-01-30T06:17:40.022Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad62
 
 Here's how to get the most from this popular productivity tool.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Install Flow Launcher
 
  You will need to download and install Flow Launcher from [GitHub](https://github.com/Flow-Launcher/Flow.Launcher/releases/tag/v1.9.5) , rather than through the Microsoft Store. You can choose between an installed version and a portable one. We have used the installed version for this guide.
@@ -35,6 +39,10 @@ Here's how to get the most from this popular productivity tool.
 
 ![Editing the flow launcher settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/flowlauncher-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also change the number of results shown in the search box when you begin typing. Ranging from the default 5 to as many as 17\. Showing 8-10 search results should be the most efficient amount for most people.
 
  And if you prefer your apps in dark mode, you can change how Flow Launcher looks in the**Theme** tab. You can also use the slider to alter the width of the search/results window.
@@ -43,9 +51,6 @@ Here's how to get the most from this popular productivity tool.
 
  If you are looking for even more ways to [improve productivity in Windows](https://www.makeuseof.com/set-up-windows-pc-maximum-productivity/) , we have some helpful ideas.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Launch Apps With Flow Launcher
 
  Flow Launcher makes it easy to search for and open almost anything, including apps. No need to hunt through the Start Menu apps list; just search, click, and open.
@@ -55,13 +60,11 @@ Here's how to get the most from this popular productivity tool.
 3. As soon as you see the required app in the list, you can click it to open it or press the displayed shortcut, e.g.**Alt + 2** .
 
 ![launching an app with Flow Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/flowlauncher-searchapp.jpg)
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Search Files More Effectively
 
  Flow Launcher is brilliant for searching your PC. It manages to find everything Windows Search can find, but displays results in a much less cluttered and much more efficient way.
@@ -80,15 +83,9 @@ Here's how to get the most from this popular productivity tool.
 * If you want to search in a specific directory, type the directory name between percentage symbols, e.g.**%programfiles%\\** . You will also need to include a trailing backslash.
 
 ![searching for directories in flowlauncher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/flowlauncher-searchdirectory.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 
  When you start using Flow Launcher, you might see a result such as**Allow Web Searches Plugin** . This will activate an existing plugin available within Flow Launcher. You can also download and install extra plugins from the store.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ## How to Add Extra Features With Flow Launcher Plugins
 
  There are several plugins already installed and activated in Flow Launcher. You can enable and disable these whenever you like in the settings. You can also easily add extra plugins to further increase the scope of the utility.
@@ -100,26 +97,28 @@ Here's how to get the most from this popular productivity tool.
 5. The plugin will be added to the plugin list, where you can enable and disable it as required.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Uninstalling Flow Launcher
 
  If you installed Flow Launcher onto your PC, you can uninstall it in the same way you would any other app. Check out our guide on [how to uninstall programs on Windows](https://www.makeuseof.com/tag/how-to-uninstall-programs-on-windows-10/) if you need some help with this.
 
  Of course, if you decided to use Flow Launcher in portable mode, you won't need to uninstall it. If you are using the utility in this mode, it is worth enabling the**Portable Mode** option in the settings. This ensures that all search data and settings are stored in a single folder, making this data equally portable.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Improve Productivity in Windows With Flow Launcher
 
  Flow Launcher is an outwardly simple tool that might have you wondering why you need another search box. But dig a little deeper, and you should quickly see how powerful and helpful it can be. If you are looking for ways to improve your productivity in Windows 10 or 11 this is a brilliant place to start.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -128,8 +127,26 @@ Here's how to get the most from this popular productivity tool.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-capturing-every-viewpoint-11-superior-bridging-cameras-reviewed-for-2024/"><u>[New] Capturing Every Viewpoint 11 Superior Bridging Cameras Reviewed for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevate-your-content-with-insightful-channel-descriptions/"><u>[Updated] 2024 Approved Elevate Your Content with Insightful Channel Descriptions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-securing-your-ps4-adventures-with-advanced-recording-for-2024/"><u>[Updated] Securing Your PS4 Adventures with Advanced Recording for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-to-stunning-timelapses-a-comprehensive-guide-using-gopro/"><u>2024 Approved Step-By-Step to Stunning Timelapses A Comprehensive Guide Using GoPro</u></a></li>
+<li><a href="https://win11.techidaily.com/beating-blue-screens-a-guide-to-system-recovery/"><u>Beating Blue Screens: A Guide to System Recovery</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722169534466-bypass-typical-slip-ups-in-your-chatgpt-prompts-learn-what-to-avoid/"><u>Bypass Typical Slip-Ups in Your ChatGPT Prompts – Learn What to Avoid!</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/evaluating-effectiveness-of-german-and-french-in-communication/"><u>Evaluating Effectiveness of German & French in Communication</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>How to Hide/Fake Snapchat Location on Your Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-over-window-colors-and-style-in-terminal/"><u>Mastery over Window Colors & Style in Terminal</u></a></li>
+<li><a href="https://windows11.techidaily.com/method-to-detach-onedrive-from-microsoft-id-in-windows/"><u>Method to Detach OneDrive From Microsoft ID in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-maze-fixing-windows-11-access-issues/"><u>Navigating the Maze: Fixing Windows 11 Access Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-windows-0x80072af9-obstacle/"><u>Navigating Through Windows' 0X80072AF9 Obstacle</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-11-install-quick-keyboard-shortcuts/"><u>Navigating Windows 11: Install Quick Keyboard Shortcuts</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-common-hurdles-in-launching-obs-windows/"><u>Overcoming Common Hurdles in Launching OBS (Windows)</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-glitches-in-windows-system-insights-tracker/"><u>Overcoming Glitches in Windows System Insights Tracker</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-address-non-definable-values-in-winos/"><u>Strategies to Address Non-Definable Values in WinOS</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-mystery-unveiled-how-and-why-cant-chatgpt-detect-its-writing-errors/"><u>The Mystery Unveiled: How and Why Can't ChatGPT Detect Its Writing Errors?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/the-ultimate-list-of-outstanding-storytelling-youtubers-this-year/"><u>The Ultimate List of Outstanding Storytelling YouTubers This Year</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-to-avoid-vscode-crashing-on-new-os/"><u>Tips to Avoid VSCode Crashing on New OS</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Browser Breakdowns? Here's How to Get Past the Roadblocks in WIN OS
-date: 2024-08-15T15:22:11.733Z
-updated: 2024-08-16T15:22:11.733Z
+date: 2025-01-27T22:49:55.231Z
+updated: 2025-01-30T04:47:03.826Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/f8511b1b508552460f630419c51d2d616ebcbf19d
 
  Aside from that, Windows Defender Firewall restrictions or adding URL addresses to the Windows Hosts file can also prevent websites from opening. If you are tired of this issue and wish to access your favorite sites again, here are a few fixes you can try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Perform Some Preliminary Checks
 
  You should perform the following preliminary checks first, as they may help you resolve the issue quickly:
@@ -32,11 +36,16 @@ thumbnail: https://thmb.techidaily.com/f8511b1b508552460f630419c51d2d616ebcbf19d
 
  If the above checks don't work and some websites fail to load, begin applying the remaining fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Use a Different Device
 
 ![two laptops placed side by side on a wooden table](https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00df3f1d4defd5e8c6891f82cb.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you are using a managed device, quite possibly at work or school, and some websites aren't opening, your device administrator may have blocked access to these websites. So, it's essential to rule out this possibility.
@@ -45,14 +54,6 @@ thumbnail: https://thmb.techidaily.com/f8511b1b508552460f630419c51d2d616ebcbf19d
 
  In this case, you can ask your administrator to unblock those websites. However, if the same websites don't open on your other device, or if you're experiencing this issue on a personal device, your ISP might have blocked those sites.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## 3\. Use a Different Internet Connection
 
 ![Wi-Fi Router Symbol With a Good Looking Background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/wifi-routers-versus-wireless-access-points-explained-1.jpg)
@@ -65,9 +66,6 @@ thumbnail: https://thmb.techidaily.com/f8511b1b508552460f630419c51d2d616ebcbf19d
 
 ##
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ## 4\. Disable VPN or Windows Proxy Settings
 
 ![a user using vpn on windows laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/vpn-usage.jpg)
@@ -76,16 +74,22 @@ thumbnail: https://thmb.techidaily.com/f8511b1b508552460f630419c51d2d616ebcbf19d
 
  However, if some websites are blocked in a particular region, and you use a proxy server of that region, the websites won't open on your computer. Therefore, you should [disable the proxy server on Windows](https://www.makeuseof.com/windows-11-disable-proxy/) and/or turn off your VPN to ensure the problem doesn't come from them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Run a Netsh Command in the Windows Command Prompt
 
  If none of the above fixes have worked, you should clear the piled-up DNS cache, reset the misconfigured Winsock catalog, and remove and reinstall the TCP/IP stack. For all of this, you need to run some simple commands in the Windows Command Prompt. Here's how:
 
 1. Type**"Command Prompt"** in Windows Search and open the**Command Prompt** app.  
 ![Running Command Prompt as an Administrator on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Running-Command-Prompt-as-an-Administrator-on-Windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 2. Enter the following commands one by one, pressing**Enter** after each:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `netsh winsock reset  
 netsh int ip reset  
 ipconfig /release  
@@ -102,9 +106,6 @@ ipconfig /flushdns`
 
  The best way to exclude this possibility is to [change your DNS server on Windows](https://www.makeuseof.com/change-dns-settings-windows-11/) , especially if you haven't changed it since you got your current device. Changing the DNS bypasses the restrictions imposed by your ISP, so you'll be able to access the blocked websites.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Ensure The Website Isn't Blocked in the Windows Hosts File
 
  Windows users can block access to certain websites by editing the [Windows Hosts file](https://www.makeuseof.com/windows-hosts-file-guide/) . Blocking a URL prevents users from accessing it from any browser on the same device. If you share your computer with someone else, that person might have blocked some websites in the Hosts file. Follow these steps to ensure that's not the case:
@@ -117,28 +118,19 @@ ipconfig /flushdns`
 4. If websites have been blocked using the Hosts file, the domain names of these websites would have probably been added at the end of this file.
 5. If you find those websites added here, delete them all.  
 ![Tweaking the Hosts File by Deleting the Address Blocked in Windows 11 Hosts File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Image-3-Tweaking-the-Hosts-File-by-Deleting-the-Address-Blocked-in-Windows-11-Hosts-File.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 6. After that, save the document by pressing**CTRL + S.**
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Roam Around the Internet Freely Again on Windows
 
  It can be frustrating to see some websites not open on a device. If the managed device's administrator or ISP has blocked the inaccessible websites, either change the device or switch to another internet connection or ask the relevant person to unblock them.
 
  If the administrator hasn't blocked websites or you are experiencing this problem on a personal device, the above fixes will likely resolve the issue. Consequently, you will be able to access those websites again.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -147,8 +139,26 @@ ipconfig /flushdns`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-driveease-expert-review/"><u>[New] DriveEase Expert Review</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-crafters-guide-to-crafting-a-unique-tiktok-keyphrase/"><u>[Updated] Crafters' Guide to Crafting a Unique TikTok Keyphrase</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-create-an-individualistic-meme-masterpiece/"><u>2024 Approved Create an Individualistic Meme Masterpiece</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-from-speedy-to-steady-on-iphone-a-compreomed-guide-for-slowed-down-visuals/"><u>2024 Approved From Speedy to Steady on iPhone A Compreomed Guide for Slowed-Down Visuals</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/easy-tutorial-transforming-films-into-playable-dvds-across-windows-macos/"><u>Easy Tutorial: Transforming Films Into Playable DVDs Across Windows, macOS</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-windows-updater-faulty-error-0xca00a009/"><u>Fixing Windows Updater Faulty Error 0xCA00A009</u></a></li>
+<li><a href="https://windows11.techidaily.com/get-started-with-hyper-v-windows-11-homes-edition-setup-guide/"><u>Get Started with Hyper-V: Windows 11 Homes Edition Setup Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-on-your-iphone-6s-plus-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card on Your iPhone 6s Plus Apple ID and Apple Pay</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-resolve-the-no-hardware-detected-error-in-windows/"><u>How to Resolve the ‘No Hardware Detected’ Error in Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Vivo Y17s? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-iphone-6-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock on Apple iPhone 6 or iPad?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-streamline-your-viewing-capturing-hulu-on-windows-mac-ios/"><u>In 2024, Streamline Your Viewing Capturing Hulu on Windows, Mac, iOS</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-through-the-maze-of-windows-temporary-folder-issues/"><u>Navigate Through the Maze of Windows Temporary Folder Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-functionality-to-a-malfunctioning-win11-media-player/"><u>Restoring Functionality to a Malfunctioning Win11 Media Player</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-directly-modifying-windows-installer-controls/"><u>Steps for Directly Modifying Windows Installer Controls</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-your-browser-skills-with-gesture-controls-in-microsoft-edge-windows-11/"><u>Transform Your Browser Skills with Gesture Controls in Microsoft Edge (Windows 11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/turn-back-time-transforming-windows-11s-search-icon-style/"><u>Turn Back Time: Transforming Windows 11'S Search Icon Style</u></a></li>
+<li><a href="https://windows11.techidaily.com/unblocking-and-fixing-windows-11-search-errors/"><u>Unblocking and Fixing Windows 11 Search Errors</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unveiled-the-most-affordable-mini-desktop-with-snapdragon-x-elite-chipset-secure-yours-today-through-preorder/"><u>Unveiled! The Most Affordable Mini Desktop with Snapdragon X Elite Chipset - Secure Yours Today Through Preorder!</u></a></li>
+</ul></div>
 

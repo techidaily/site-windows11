@@ -1,7 +1,7 @@
 ---
 title: Addressing Graphics Problem #3 for Windows 11 Users
-date: 2024-08-15T15:20:13.344Z
-updated: 2024-08-16T15:20:13.344Z
+date: 2025-01-26T19:09:58.792Z
+updated: 2025-01-29T20:17:05.083Z
 tags:
   - windows10
   - windows11
@@ -37,9 +37,6 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 
  Alternatively, you can set maximum performance specifically for an affected app instead. To do so, click the**Programs Settings** tab in NVIDIA Control Panel. Select the software for which error code 3 arises within the**Select a program to customize** drop-down menu. Then select**Prefer maximum performance** in the program settings and click**Apply** .
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Select the 3D App Visual Simulation Option
 
  Some users have fixed OpenGL error code 3 by selecting a**Visual Simulation** preset option within the NVIDIA Control Panel. However, note that option is only available for NVIDIA Quadro graphics adapters. So, you can’t see and select that setting if your PC doesn’t have a Quadro GPU. This is how to select the**3D App Visual Simulation** setting in the NVIDIA Control Panel:
@@ -49,9 +46,6 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 3. Then click the**Global Preset** drop-down menu to open it.
 4. Select the**3D App – Visual Simulation** setting on the menu.  
 ![The Visual Simulation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/visual-simulation-setting-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Click**Apply** to set the selected preset option.
 
 ## 3\. Roll Back an NVIDIA Graphics Driver Update
@@ -72,37 +66,45 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 
 ![The Repair and Reset options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-repair-and-reset-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Reinstall the Affected Software
 
  The software for which error code 3 occurs might have corrupted DLL files. Reinstalling the affected software will repair corrupted files by replacing them with fresh new ones. You can remove desktop software or UWP apps via Settings or the Control Panel (Programs and Features) as outlined in our [article about uninstalling programs within Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
 
 ![The Programs and Features Control Panel applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/programs-and-features3.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then reinstall the uninstalled program in Windows. First, download the latest software version, preferably from the publisher’s website. Open the folder containing the downloaded installer and double-click that setup wizard to reinstall its software.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Cleanly Reinstall the NVIDIA Graphics Driver
 
  The OpenGL error code 3 message suggests an issue with your PC’s graphics (GPU) driver. Reinstalling the NVIDIA display driver could fix such an issue. We recommend that you cleanly reinstall your graphics card’s driver as covered in our guide to [cleanly reinstalling GPU drivers on Windows](https://www.makeuseof.com/how-to-cleanly-install-and-reinstall-gpu-drivers-on-windows/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Reset Windows
 
  The last resort for fixing error code 3 (and many other Windows issues) is to reset the OS. Resetting Windows 11 or 10 reinstalls the platform, which restores it to a default factory configuration. Alas, the reset also wipes all third-party Windows software you’ve installed.
 
 ![The Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reset-this-pc-tool.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Therefore, resetting Windows is a drastic troubleshooting method, but it's also one that often works. Our guide on [how to reset Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/#:~:text=If%20you're%20on%20Windows,Windows%2011%20and%20Windows%2010.) tells you how to apply this potential resolution with the Reset this PC tool. You can at least select to preserve all your user files by resetting your PC with that utility.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stop Error Code 3 Crashing Your Software on Windows
 
@@ -114,8 +116,6 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,8 +123,22 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-cutting-ties-with-instagram-navigating-a-permanent-exit-strategy/"><u>[New] 2024 Approved Cutting Ties with Instagram Navigating a Permanent Exit Strategy</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-enhancing-productivity-with-efficient-nvidia-capture/"><u>[Updated] Enhancing Productivity with Efficient NVIDIA Capture</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/samsung-ssdssdhdd/"><u>効率的なSamsung SSD移動：容量が少ないSSDへの大きなHDDの複製手順</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effective-strategies-to-fix-broken-airplay-on-your-apple-devices/"><u>Effective Strategies to Fix Broken AirPlay on Your Apple Devices</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fallout-4-troubleshooting-how-to-resolve-the-black-display-problem/"><u>Fallout 4 Troubleshooting: How to Resolve the Black Display Problem</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-restore-windows-network-access/"><u>How To Restore Windows Network Access</u></a></li>
+<li><a href="https://windows11.techidaily.com/is-the-windows-aggregatehostexe-system-process-safe-an-analysis/"><u>Is the Windows AggregateHost.exe System Process Safe? An Analysis</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-blue-screen-chaos-a-systematic-approach/"><u>Navigating Blue Screen Chaos: A Systematic Approach</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-start-enabling-and-customizing-sandbox-in-win-11/"><u>Quick Start: Enabling and Customizing Sandbox in Win 11</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/remove-unwanted-elements-top-video-blur-apps-for-mobile-for-2024/"><u>Remove Unwanted Elements Top Video Blur Apps for Mobile for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-disk-errors-on-windows-1011-a-step-by-step-guide/"><u>Tackling Disk Errors on Windows 10/11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-to-elevate-task-prominence-and-reduce-window-chaos-on-win-11/"><u>Tips to Elevate Task Prominence and Reduce Window Chaos on Win 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-tablets-for-students-in-depth-review-by-professionals-zdnet/"><u>Top-Ranked Tablets for Students: In-Depth Review by Professionals | ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-microsofts-error-code-0x8007251d-on-windows/"><u>Troubleshooting Microsoft's Error Code 0X8007251d on Windows</u></a></li>
+</ul></div>
 

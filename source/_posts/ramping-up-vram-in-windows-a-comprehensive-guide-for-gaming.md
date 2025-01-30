@@ -1,7 +1,7 @@
 ---
 title: Ramping Up VRAM in Windows - A Comprehensive Guide for Gaming
-date: 2025-01-16T20:27:44.313Z
-updated: 2025-01-22T20:53:24.115Z
+date: 2025-01-29T02:19:43.725Z
+updated: 2025-01-30T05:10:41.885Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is Dedicated Video RAM (VRAM)?
@@ -52,16 +52,12 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 ![Windows 10 Video RAM Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/Windows-10-Video-RAM-Information.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To reach this menu on Windows 11, go to**Settings > System > Display > Advanced display** . Then choose a display and click**Display adapter properties** .
 
  Under**Adapter Type** , you'll see the name of your**Nvidia** or**AMD** graphics card, depending on what device you have. If you see**AMD Accelerated Processing Unit** or**Intel HD Graphics** (more likely), you're[using integrated graphics](https://www.makeuseof.com/tag/can-shared-graphics-finally-compete-with-a-dedicated-graphics-card/) . We cover more on this below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Increase VRAM in Windows
 
@@ -76,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
  These should contain an option to adjust how much memory you allocate to the GPU. The default is usually**128MB** ; try upping this to**256MB** or**512MB** if you have enough to spare.
 
  Not every CPU or BIOS has this option, though. If you can't change it, there's a workaround that might help you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Faking a VRAM Increase in Windows
 
@@ -99,6 +99,10 @@ Head to the following location:
 
  Like with most hardware tasks, upgrading your RAM or video card is often difficult on a laptop but simple to do on a desktop.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Kinds of Tasks Need Video RAM?
 
  Before we talk about specific values for video memory, we should mention what aspects of games and other graphics-intensive apps use the most VRAM.
@@ -119,10 +123,6 @@ Head to the following location:
 
  Even if you're not interested in gaming, some popular software requires a fair amount of VRAM too. 3D design software like AutoCAD, particularly intense edits in Photoshop, and editing high-quality video will all suffer if you don't have enough video RAM.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How Much VRAM Do I Need?
 
  It's clear that there's no perfect amount of VRAM for everyone. However, we can provide some basic guidelines about how much VRAM you should aim for in a graphics card.
@@ -137,6 +137,10 @@ Head to the following location:
 
  Extremes aren't the concern with VRAM. You don't need an $800, top-of-the-line card with 12GB of VRAM to play 2D indie platformers. Really, you only need to worry about how much VRAM to get when a card you want to buy is available in multiple VRAM configurations. VRAM isn't the only[factor that should go into your GPU decision](https://www.makeuseof.com/tag/5-things-know-buying-graphics-card/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Common Video RAM Concerns
 
  Remember that just like normal RAM, more VRAM doesn't always mean better performance. If your card has 4GB of VRAM and you're playing a game that only uses 2GB, upgrading to an 8GB card isn't going to do anything noticeable.
@@ -146,10 +150,6 @@ Head to the following location:
  Remember that VRAM is only one factor in performance. If you don't have a powerful enough CPU, rendering 4K video will take forever. A lack of system RAM prevents you from running many programs at once, and using a mechanical hard drive will severely limit your system performance too. And some cheaper graphics cards use slow DDR3 VRAM, which is inferior to DDR6 and DDR5 used in modern cards.
 
  The best way to find out which specific graphics card and amount of video RAM is right for you is to talk to someone knowledgeable. Ask a friend who knows about the latest graphics cards, or post on a forum like Reddit or Tom's Hardware asking if a specific card would work for your needs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Understanding VRAM With Integrated Graphics
 
@@ -184,14 +184,15 @@ Head to the following location:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/he-breakdown-of-youtubes-shorts-initiative/"><u>[New] The Breakdown of YouTube's Shorts Initiative</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-captivating-cinematic-experiences-exploring-top-6-genres/"><u>[Updated] 2024 Approved Captivating Cinematic Experiences Exploring Top 6 Genres</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-setting-up-your-first-livestream-successfully-for-2024/"><u>[Updated] Setting Up Your First Livestream Successfully for 2024</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/a-beginners-guide-editing-videos-with-final-cut-pro-on-windows/"><u>A Beginner's Guide: Editing Videos with Final Cut Pro on Windows</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exploring-elgoog-your-complete-guide-to-the-revolutionary-mirror-website/"><u>Exploring elgooG: Your Complete Guide to the Revolutionary Mirror Website</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedying-unpredictable-printer-selections/"><u>Remedying Unpredictable Printer Selections</u></a></li>
-<li><a href="https://windows11.techidaily.com/restoring-harmony-fixing-sticky-notebooks-in-w11/"><u>Restoring Harmony: Fixing Sticky Notebooks in W11</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlock-hidden-functionality-essential-fixes-for-missing-windows-features/"><u>Unlock Hidden Functionality: Essential Fixes for Missing Windows Features</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-microsoft-services-by-linking-windows-product-key/"><u>Unlocking Microsoft Services by Linking Windows Product Key</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-cutting-edge-6-tools-for-video-language-shift-for-2024/"><u>[Updated] Cutting-Edge 6 Tools for Video Language Shift for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-outperform-competitors-youtube-visibility-tactics/"><u>[Updated] In 2024, Outperform Competitors YouTube Visibility Tactics</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-iphoneipad-masterclass-crafting-engaging-interview-and-exploration-podcasts/"><u>2024 Approved IPhone/iPad Masterclass Crafting Engaging Interview and Exploration Podcasts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-update-for-your-hp-deskjet-ink-advantage-3050a-driver-on-windows-download-now/"><u>Free Update for Your HP Deskjet Ink Advantage 3050A Driver on Windows: Download Now</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-windows-upgrades-mastering-the-installation-of-elusive-features/"><u>Seamless Windows Upgrades: Mastering the Installation of Elusive Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/switching-off-geforce-ui-in-windows-settings/"><u>Switching Off GeForce UI in Windows Settings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-openai-transition-from-basic-to-advanced-ai-gpt-14/"><u>The OpenAI Transition: From Basic to Advanced AI (GPT-1–4)</u></a></li>
+<li><a href="https://windows11.techidaily.com/title-manage-icons-gaps-to-create-a-neat-windows-ui/"><u>Title: Manage Icons Gaps to Create a Neat Windows UI</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/whats-trending-on-tiktok-and-twittersphere/"><u>What's Trending on TikTok and Twittersphere</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-woes-no-more-essential-fixers-ranked/"><u>Windows Woes No More: Essential Fixers Ranked</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Remedying Data Corruption in Win11 OS
-date: 2025-01-16T20:00:05.502Z
-updated: 2025-01-22T17:37:16.268Z
+date: 2025-01-26T06:11:14.127Z
+updated: 2025-01-29T20:34:02.424Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Run the SFC and DISM Command Line Tools
 
  File system errors can often be related to system file corruption. Windows 11 and 10 have the same SFC and DISM command-line tools for repairing system files and Windows system image. Running those utilities in the Command Prompt could feasibly resolve numerous file system errors.
@@ -36,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
  Our guide on[how to run the System File Checker tool](https://www.makeuseof.com/system-file-checker-sfc-windows/) tells you how to initiate an SFC scan. You can also run a Deployment Image Servicing Management scan in the Command Prompt before or after running the SFC tool. To do so, you’ll need to execute the following command:
 
 `DISM.exe /Online /Cleanup-image /Restorehealth`
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Scan Your Hard Drive
 
@@ -51,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 
 6. Click**Start > Power** to select**Restart** . The CHKDSK scan will start after the restart.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Run the Windows Store App Troubleshooter
 
  If a file system error occurs when you try launching MS Store apps or opening files with them, the Windows Store App troubleshooter might be useful for fixing it. That troubleshooter is there to resolve issues that stop UWP apps from working as they should. These are the steps for opening the Windows Store App troubleshooter:
@@ -66,11 +62,11 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 ![The troubleshooter list in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-store-apps-troubleshooter1.jpg)
 5. Apply any suggestions the troubleshooter provides.  
 
-![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-store-app-window.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-store-app-window.jpg)
 
 ## 4\. Check That the Windows License Manager Service Is Running
 
@@ -81,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 3. Double-click**Windows License Manager Service** to access its properties window.  
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-services-window2.jpg)
 4. Click on the**Startup type** menu to open it and select**Automatic** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![The Windows License Manager server window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-license-service-manager.jpg)
 5. If the service isn’t running, press**Start** within the properties window.
@@ -98,10 +98,6 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 
  When you’ve uninstalled the app, reinstall it from the MS Store. Bring up the Microsoft Store, and input the app’s title in its search box. Then select the app to reinstall in the search results, and click the**Get** button for it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Set Up a New Local User Account on Windows
 
  File system errors can arise because of user account issues. Such errors might not arise if you set up and utilize a new local user account in Windows 11\. That might not be the most ideal resolution, but you can migrate user files to a newly established account.
@@ -109,6 +105,14 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
  Our guide on[how to fix Windows issues by creating new accounts](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) includes full instructions for how to apply this solution.
 
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-account-button.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Restore Windows to an Earlier Date
 
@@ -118,21 +122,17 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 
 ![The System Restore tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/system-restore-window.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  However, restoring Windows to a previous time removes software not installed on the restoration point’s date. So, it’s likely you’ll have to reinstall some apps after rolling back Windows. Clicking**Scan for affected programs** in System Restore provides an overview of software that will be removed for a restore point.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Reset Windows
 
  This final system file error solution is the most drastic of all since it amounts to reinstalling Windows 10 or 11\. Factory resetting restores Windows to a default system state, which can fix many errors caused by registry, third-party software, and system file issues. If you can’t fix a system file error with any other potential fix in this guide, then resetting is the last thing to try.
 
  Windows 11 and 10 have a Reset this PC tool that makes it easy to factory reset the platform. That tool also includes an option that enables you to keep user files in the process. Our guide on[how to factory reset Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) includes instructions for applying this potential resolution with this tool.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get File System Errors Sorted in Windows
 
@@ -153,24 +153,17 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-vintage-voices-where-to-download-classical-ringtones/"><u>[New] 2024 Approved Vintage Voices Where to Download Classical Ringtones</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-emoji-essentials-top-twitter-tools-with-perfect-gifs-2024/"><u>[Updated] Emoji Essentials - Top Twitter Tools with Perfect GIFs, 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-which-ios-video-editor-excels-more-cameo-or-filmorago-for-2024/"><u>[Updated] Which iOS Video Editor Excels More Cameo or FilmoraGo for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-giggle-guide-quick-tips-for-meme-artistry/"><u>2024 Approved Giggle Guide Quick Tips for Meme Artistry</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/expert-advice-by-yl-software-retrieving-lost-documents-in-windows-with-ease/"><u>Expert Advice by YL Software: Retrieving Lost Documents in Windows with Ease</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-a-twitchy-pointer-in-your-desktop-environment/"><u>Fixing a Twitchy Pointer in Your Desktop Environment</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigate-and-compute-file-sizes-an-in-depth-look-at-powershell/"><u>Navigate and Compute File Sizes: An In-Depth Look at PowerShell</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-powertoys-to-tailor-snap-layouts/"><u>Navigating PowerToys to Tailor Snap Layouts</u></a></li>
-<li><a href="https://windows11.techidaily.com/proactive-approach-to-prevent-dwarven-woes-on-win/"><u>Proactive Approach to Prevent Dwarven Woes on WIN</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedying-microsofts-0x800713f-mail-glitch-in-win11/"><u>Remedying Microsoft's 0X800713F Mail Glitch in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/reviving-slow-or-inactive-windows-downloads-directory/"><u>Reviving Slow or Inactive Windows Downloads Directory</u></a></li>
-<li><a href="https://windows11.techidaily.com/steam-deck-ready-instructions-for-windows-installation/"><u>Steam Deck Ready: Instructions for Windows Installation</u></a></li>
-<li><a href="https://windows11.techidaily.com/swift-strategies-for-re-booting-windows-explorer-11/"><u>Swift Strategies for Re-Booting Windows Explorer 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-proven-method-for-stepsigning-in-steam-titles/"><u>The Proven Method for Stepsigning in Steam Titles</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-ultimate-tutorial-for-file-deletion-via-command-prompt-on-windows-11/"><u>The Ultimate Tutorial for File Deletion via Command Prompt on Windows 11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-asus-rog-phone-7-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Asus ROG Phone 7 Phone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/ultimate-android-screen-recorder-options-list/"><u>Ultimate Android Screen Recorder Options List</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-how-to-do-automatic-audio-ducking-in-final-cut-pro-x/"><u>Updated How to Do Automatic Audio Ducking in Final Cut Pro X</u></a></li>
-<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-mastering-youtube-autoplay-on-mobile-devices/"><u>[New] 2024 Approved Mastering YouTube Autoplay on Mobile Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-free-to-paid-the-transition-to-youtubes-elite-service/"><u>[Updated] 2024 Approved From Free to Paid The Transition to YouTube's Elite Service</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-ethical-practices-for-accumulating-over-a-million-video-engagements-for-2024/"><u>[Updated] Ethical Practices for Accumulating Over A Million Video Engagements for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/demystifying-error-code-0x8007251d-in-microsofts-os-activation/"><u>Demystifying Error Code 0X8007251d in Microsoft's OS Activation</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/engineer-eliciting-gags-for-2024/"><u>Engineer Eliciting Gags for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-best-chrome-os-tts-tools-top-5-online-speech-converters/"><u>In 2024, Best Chrome OS TTS Tools Top 5 Online Speech Converters</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209973634-9781503612129-intimate-alien/"><u>Intimate Alien | Free Book</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-0xc0000142-problems-on-win11win7/"><u>Overcoming 0XC0000142 Problems on Win11/Win7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/setup-wi-fi-extender-just-like-that-for-w7/"><u>Setup Wi-Fi Extender, Just Like That for W7</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-restore-playback-from-black-screen/"><u>Steps to Restore Playback From Black Screen</u></a></li>
+<li><a href="https://windows11.techidaily.com/strip-onedrive-of-microsoft-id-integration-in-windows/"><u>Strip OneDrive of Microsoft ID Integration in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-clear-pin-lockouts-with-ease/"><u>Windows 11: Clear PIN Lockouts with Ease</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Ping: Usage & Timing on Windows Systems"
-date: 2025-01-18T17:47:04.991Z
-updated: 2025-01-22T18:23:57.682Z
+date: 2025-01-28T17:07:17.646Z
+updated: 2025-01-30T07:08:58.084Z
 tags:
   - windows10
   - windows11
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 * [How to Use the Ping Command on Windows](#how-to-use-the-ping-command-on-windows)
 * [What Can the Ping Command Do for You?](#what-can-the-ping-command-do-for-you)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * The ping command tests the availability of a host by sending data packets and checking for a response from the server.
@@ -34,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 * The ping command can help resolve domain names, check an internet connection, and assess connection stability.
 
  The ping command is commonly used to troubleshoot network problems and assess the health of a network connection. Learn how the ping command works, how to use it on Windows, and examples of a few scenarios you can use it for.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Does the Ping Command Do?
 
@@ -62,24 +70,24 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 ![Opening the Windows PowerShell utility from the Run dialogue box in Windows.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/opening-the-windows-powershell-utility-from-the-run-dialogue-box-in-windows.jpg)
 3. Type the following command after entering the IP address or domain name of the server you wish to ping: Ping <targetname>
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Press **Enter** and let your device ping the server four times. Then, it will compile the results.  
 ![Running the ping command in Windows PowerShell.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/running-the-ping-command-in-windows-powershell.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Alternatively, you can perform the test in Command Prompt. Simply press **Win + R,** type **“cmd**,**”** and click **OK**. Then, type the command and press Enter.
 
 ![Running the Command Prompt app from the Run dialog box in Windows.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/running-the-command-prompt-app-from-the-run-dialog-box-in-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you are an administrator of a locked corporate-owned PC, you might need to run PowerShell or Command Prompt with administrative privileges to run the ping test. To do so, type **"Command Prompt"** or **"PowerShell"** in Windows Search, right-click on the utility, and select **"Run as administrator**.**"**
 
 ![Running the Windows PowerShell as an administrator on Windows.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/running-the-windows-powershell-as-an-administrator-on-windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then, click **"Yes"** in the **UAC (User Account Control)** window.
 
@@ -90,7 +98,7 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 ![Running the ping command in Windows PowerShell.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/running-the-ping-command-in-windows-powershell.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The **TTL** (Time to Live) value is the lifespan of the packet in the network, after which it's discarded after a certain number of hops through routers. The common benchmark is 64, but TTL can be higher if the data packet is sent through a complex network. But a drastically longer one deserves a closer look to ensure your network is functioning smoothly.
@@ -102,14 +110,6 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
  The ping command supports a "/t" parameter that specifies that it should continue sending echo requests to the destination server until interrupted. If you use this parameter when running the ping test, your device keeps pinging the specified server until you manually stop the test. To stop an ongoing ping test, you can press **Ctrl + C** or press **Ctrl + Enter** to stop and display the data.
 
 ![Stopping the ping test to analyze results in Windows Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3-stop-the-ping-test-by-pressing-ctrl-c-keys-in-windows-command-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Can the Ping Command Do for You?
 
@@ -131,20 +131,17 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/kof-xv-on-pc-how-to-enjoy-seamless-gameplay-after-fixing-the-notorious-bugs/"><u>'KOF XV on PC': How to Enjoy Seamless Gameplay After Fixing the Notorious Bugs</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-capturing-continuity-a-detailed-manual-for-screen-recordings-on-windows-pcs/"><u>[New] In 2024, Capturing Continuity A Detailed Manual for Screen Recordings on Windows PCs</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-y55s-5g-2023-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo Y55s 5G (2023)</u></a></li>
-<li><a href="https://win-great.techidaily.com/easy-steps-to-create-and-manage-zip-archives-a-guide-by-yl-computing/"><u>Easy Steps to Create and Manage ZIP Archives: A Guide by YL Computing</u></a></li>
-<li><a href="https://windows11.techidaily.com/exiting-others-user-sessions-on-win-11/"><u>Exiting Others' User Sessions on Win 11</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-livestream-leap-backwards-twenty-efficient-ways-for-twitch-enthusiasts/"><u>In 2024, Livestream Leap Backwards Twenty Efficient Ways for Twitch Enthusiasts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/instant-download-brother-hl-3170cdw-printer-drivers/"><u>Instant Download: Brother HL-3170CDW Printer Drivers</u></a></li>
-<li><a href="https://windows11.techidaily.com/reflect-on-one-misconception-about-cultural-relativism-mentioned-in-class-then-describe-how-you-would-address-this-misunderstanding-with-someone-from-a-diff21/"><u>Reflect on One Misconception About Cultural Relativism Mentioned in Class, Then Describe How You Would Address This Misunderstanding with Someone From a Different Culture</u></a></li>
-<li><a href="https://windows11.techidaily.com/solutions-to-reduce-cpu-consumption-fixing-dropbox-on-windows/"><u>Solutions to Reduce CPU Consumption: Fixing Dropbox on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-methodology-for-full-uninstallation-of-wsl/"><u>Step-by-Step Methodology for Full Uninstallation of WSL</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-pin-verification-hurdles-for-windows-1011-systems/"><u>Tackling PIN Verification Hurdles for Windows 10/11 Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/unleashing-peak-performance-why-choose-windows-for-gaming/"><u>Unleashing Peak Performance: Why Choose Windows for Gaming</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-the-power-of-the-hidden-finders-panel-a-step-by-step-guide/"><u>Unlocking the Power of the Hidden Finders Panel: A Step-by-Step Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-the-windows-odbc-command-center/"><u>Unveiling the Windows ODBC Command Center</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-best-weather-app-picks-compiled/"><u>Window's Best Weather App Picks, Compiled</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-airdrop-not-working-how-to-fix-it-on-iphone-ipad-and-mac/"><u>[New] Airdrop Not Working? How to Fix It on iPhone, iPad, & Mac</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-unlock-the-power-of-fb-conversation-capture-tools-for-2024/"><u>[Updated] Unlock the Power of FB Conversation Capture Tools for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-guide-to-mspcm-bar-functionality-on-w11/"><u>Essential Guide to MSPCM Bar Functionality on W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-non-responsive-windows-11-troubleshooters/"><u>Fixing Non-Responsive Windows 11 Troubleshooters</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/how-to-convert-videos-from-chomikuj-to-common-formats-like-mp4-mov-and-avi-with-ease/"><u>How to Convert Videos From Chomikuj to Common Formats Like MP4, MOV & AVI with Ease</u></a></li>
+<li><a href="https://win-lab.techidaily.com/how-to-fix-a-non-spinning-gpu-cooling-fan-expert-advice-from-yl-computing/"><u>How to Fix a Non-Spinning GPU Cooling Fan: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ring-privacy-in-media-cutting-out-unwanted-visibility-for-2024/"><u>Mastering Privacy in Media Cutting Out Unwanted Visibility for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-pooch-pulses-and-vocalizations-a-comprehensive-collection-for-creatives/"><u>New Pooch Pulses & Vocalizations A Comprehensive Collection for Creatives</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-address-cannot-link-with-nvidia-error-on-microsofts-latest-os/"><u>Steps to Address Cannot Link with NVIDIA Error on Microsoft's Latest OS</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/top-5-chromebook-sniping-apps-essential-clients-reviewed/"><u>Top 5 Chromebook Sniping Apps Essential Clients Reviewed</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ate-buyers-guide-top-gpus-for-youtube-streamers-for-2024/"><u>Ultimate Buyer's Guide Top GPUs for YouTube Streamers for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-secrets-of-successful-installer-fixes/"><u>Unlocking the Secrets of Successful Installer Fixes</u></a></li>
 </ul></div>
 

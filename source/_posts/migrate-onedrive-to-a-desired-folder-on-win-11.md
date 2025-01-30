@@ -1,7 +1,7 @@
 ---
 title: Migrate OneDrive to a Desired Folder on Win 11
-date: 2025-01-16T16:06:14.827Z
-updated: 2025-01-22T20:56:53.507Z
+date: 2025-01-28T07:20:04.035Z
+updated: 2025-01-29T23:11:05.250Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Change the Location of Your OneDrive Folder
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
  If you’re new to the concept, check out our articles on[what OneDrive is](https://www.makeuseof.com/what-is-onedrive/) and[why you should use it](https://www.makeuseof.com/microsoft-onedrive-personal-benefits/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Unlinking OneDrive
@@ -56,24 +56,20 @@ With that done, you can now relocate your OneDrive folder.
 4. From the drop-down that appears, click on the**Choose location** option.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Move your OneDrive folder to new location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/02-move-onedrive-folder-to-location.jpg)
 5. A pop-up will appear. Browse to the location you want your new OneDrive folder to reside, and click on the**Move** button on the bottom of the pop-up.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Move OneDrive folder to a new location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/03-choose-new-local-onedrive-location.jpg)
 6. Windows will start to move your OneDrive folder and all of its contents to the new location you’ve selected. This may take a while depending on the size of the folder.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  That’s it! You’ve moved your OneDrive folder to a new location on your Windows PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Re-Linking OneDrive
 
@@ -88,6 +84,10 @@ With that done, you can now relocate your OneDrive folder.
 5. You’ll be presented with a warning screen, telling you that files already exist in this folder. Click on the**Use this folder** button.  
 ![Choose where OneDrive saves files on your PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/07-choose-onedrive-location.jpg)
 6. Verify that the location you’ve selected is the correct one, and click on**Next** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. You’ll be presented with a welcome screen. Scroll through it and close the setup window.
 
@@ -114,19 +114,19 @@ With that done, you can now relocate your OneDrive folder.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-is-minimizing-unstable-movement-in-photoshop-beneficial/"><u>[New] 2024 Approved Is Minimizing Unstable Movement in Photoshop Beneficial?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-discovering-8-prime-video-advancement-aids-for-2024/"><u>[New] Discovering 8 Prime Video Advancement Aids for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-streamline-webcam-use-on-modern-devices/"><u>[New] In 2024, Streamline Webcam Use on Modern Devices</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-discover-the-ultimate-blend-of-mind-body-and-spirit-in-yoga/"><u>2024 Approved Discover the Ultimate Blend of Mind, Body, and Spirit in Yoga</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-total-kinetic-analysis-exploration/"><u>2024 Approved Total Kinetic Analysis Exploration</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/abbyy-flexicapture-integration-tool-for-pegasystems-enterprise-solutions/"><u>ABBYY FlexiCapture Integration Tool for Pegasystems' Enterprise Solutions</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-realme-gt-neo-5-se-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Realme GT Neo 5 SE Phone | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-immediately-stop-windows-iomap64-bsod/"><u>How To Immediately Stop Windows IOMap64 BSOD</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimizing-startup-routine-creating-shortcuts-near-power-button-for-win11/"><u>Optimizing Startup Routine: Creating Shortcuts Near Power Button for Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/rectifying-winrar-summation-errors-a-sixfold-approach/"><u>Rectifying WinRAR Summation Errors: A Sixfold Approach</u></a></li>
-<li><a href="https://extra-information.techidaily.com/social-metaverse-titles-top-10-multiplayer-classics/"><u>Social Metaverse Titles Top 10 Multiplayer Classics</u></a></li>
-<li><a href="https://windows11.techidaily.com/swiftly-tackling-windows-application-issues-with-7-solutions/"><u>Swiftly Tackling Windows Application Issues with 7 Solutions</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-connect-now-message-in-windows-bluetooth/"><u>Troubleshooting Connect Now Message in Windows Bluetooth</u></a></li>
-<li><a href="https://windows11.techidaily.com/virtual-readiness-confirm-your-webcammic-functionality-windows/"><u>Virtual Readiness: Confirm Your Webcam/Mic Functionality (Windows)</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/astering-youtube-short-troubleshooting/"><u>[New] Mastering YouTube Short Troubleshooting</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/teps-to-skyrocket-your-youtube-subscribers-count-for-2024/"><u>[New] Steps to Skyrocket Your YouTube Subscribers Count for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-thriving-in-the-digital-world-multiplatform-studio-strategies/"><u>[Updated] In 2024, Thriving in the Digital World Multiplatform Studio Strategies</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-motorola-moto-g-stylus-5g-2023-by-drfone-android/"><u>Full Guide to Unlock Your Motorola Moto G Stylus 5G (2023)</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-oneplus-open-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your OnePlus Open</u></a></li>
+<li><a href="https://windows11.techidaily.com/leap-into-productivity-windows-11s-multiple-folder-creation-tricks/"><u>Leap Into Productivity: Windows 11'S Multiple Folder Creation Tricks</u></a></li>
+<li><a href="https://windows11.techidaily.com/pinpointing-your-pcs-drive-type-with-windows/"><u>Pinpointing Your PC's Drive Type with Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-unresponsive-windows-11-activation-codes/"><u>Resolving Unresponsive Windows 11 Activation Codes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/storage-without-spending-the-comprehensive-list-of-best-30-budget-friendly-cloud-services-with-1tbplus-for-2024/"><u>Storage Without Spending The Comprehensive List of Best 30 Budget-Friendly Cloud Services with 1TB+ for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/streamline-and-enhance-your-filmmaking-an-intro-to-final-cut-pro/"><u>Streamline and Enhance Your Filmmaking An Intro to Final Cut Pro</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tesla-robotaxi-unveiled-anticipated-pricing-launch-timeline-and-technical-details-revealed/"><u>Tesla Robotaxi Unveiled: Anticipated Pricing, Launch Timeline & Technical Details Revealed</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ideo-finance-tutorials-for-savvy-traders-for-2024/"><u>Top Video Finance Tutorials for Savvy Traders for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-windows-permissions-violation-during-setup/"><u>Troubleshooting Windows Permissions Violation During Setup</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-resurrecting-old-folder-tools/"><u>Windows 11: Resurrecting Old Folder Tools</u></a></li>
 </ul></div>
 

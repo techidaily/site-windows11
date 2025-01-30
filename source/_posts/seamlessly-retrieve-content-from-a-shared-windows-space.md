@@ -1,7 +1,7 @@
 ---
 title: Seamlessly Retrieve Content From a Shared Windows Space
-date: 2025-01-16T17:18:49.124Z
-updated: 2025-01-22T17:55:48.228Z
+date: 2025-01-26T20:26:18.134Z
+updated: 2025-01-29T18:42:56.817Z
 tags:
   - windows10
   - windows11
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Check Your Internet Connection
 
  The first thing you should do is make sure your internet connection is working properly. If your internet connection is too slow, you might not be able to open the shared folder.
@@ -54,20 +50,20 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
 ![Shared Folder Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/shared-folder-context-menu.jpg)
 3. In the**Properties** window, click on**Sharing > Advanced Sharing** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Sharing Folder Sharing Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sharing-folder-sharing-options.jpg)
 4. Click**Permissions** to edit all the sharing permissions. If you have not allowed**Everyone** to access the files, make sure to click**Add...** and add the user manually.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Edit the permissions as needed, and then click**OK** to apply the changes.
 
  By giving your friend or teammate the right access permissions, they should now be able to easily access the files. However, if the problem persists, move on to some advanced troubleshooting steps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Restart the Networking Services
 
@@ -81,6 +77,10 @@ Follow this step-by-step guide to restart the networking services:
 ![Services App In Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/services-app-in-windows-search.jpg)
 2. Choose**Open** to launch the Services app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Find the**Function Discovery Provider Host** service and right-click on it.
 4. Select**Restart** from the context menu that appears.  
 ![Services App On Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/services-app-on-windows.jpg)
@@ -89,7 +89,7 @@ Follow this step-by-step guide to restart the networking services:
  These services are responsible for various networking functions on Windows. Restarting them can help resolve issues that may be causing problems with accessing shared folders.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Turn on Network Discovery in Windows Settings
@@ -107,16 +107,12 @@ To turn on Network discovery, follow these steps:
 ![Windows Advanced Sharing Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-advanced-sharing-settings.jpg)
 5. Turn**On** the**File and printer sharing** option as well.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you want to disable login abilities for accessing the shared folder, toggle**Password protected sharing** to**Off** .
 
  Once you change these settings, you should have no trouble getting access to shared folders.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Check the Windows Firewall Settings
@@ -132,6 +128,10 @@ Here's how you can fix all the firewall issues on your computer:
 3. Click**Public network** .  
 ![Windows Security App Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-security-preview.jpg)
 4. Uncheck or disable the option saying**Block all incoming connections** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Perform the same step with**Domain network** and**Private network** as well.
 6. Restart your PC to make sure the firewall is not blocking any Internet connections now.
@@ -175,20 +175,20 @@ Here's how to reset the network settings on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-superb-video-connections-adventures/"><u>[New] 2024 Approved Superb Video Connections Adventures</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-streamlining-cross-platform-communication-via-skype-chat-rooms/"><u>[Updated] Streamlining Cross-Platform Communication via Skype Chat Rooms</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-expertise-in-spotify-advertising-a-playbook-guide/"><u>2024 Approved Expertise in Spotify Advertising A Playbook Guide</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ctical-pathway-for-profit-tracking-the-straightforward-steps-to-analyze-youtube-earnings/"><u>A Practical Pathway for Profit Tracking The Straightforward Steps to Analyze YouTube Earnings</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-to-implementing-rgb-in-windows-11/"><u>Guide to Implementing RGB in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-to-turning-msi-on-or-off-through-group-policy/"><u>Guide to Turning MSI On or Off Through Group Policy</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Motorola Edge+ (2023) | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/membership-misconceptions-the-true-cost-of-games/"><u>Membership Misconceptions: The True Cost of Games</u></a></li>
-<li><a href="https://windows11.techidaily.com/microsoft-woes-solutions-to-ease-your-way/"><u>Microsoft Woes? Solutions to Ease Your Way!</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimize-command-line-interface-use-set-as-primary-app/"><u>Optimize Command Line Interface Use: Set As Primary App</u></a></li>
-<li><a href="https://win-lab.techidaily.com/reviving-your-broken-gpu-techniques-and-tips-provided-by-professionals-at-yl-computings-software-division/"><u>Reviving Your Broken GPU: Techniques and Tips Provided by Professionals at YL Computing's Software Division</u></a></li>
-<li><a href="https://windows11.techidaily.com/securing-and-streamlining-user-and-group-management-on-win1110-home/"><u>Securing & Streamlining User and Group Management on WIN11/10 Home</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/supera-le-barriere-geografiche-con-un-dvd-multi-regione-ecco-il-metodo/"><u>Supera Le Barriere Geografiche Con Un DVD Multi-Regione: Ecco Il Metodo!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-list-accessing-windows-preferences/"><u>The Ultimate List: Accessing Windows Preferences</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-8-microsoft-syncs-for-android-from-a-windows-pc/"><u>Top 8 Microsoft Syncs for Android From a Windows PC</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ighest-rated-smartphone-camera-and-recording-apps-iphone-vs-android-for-2024/"><u>[New] Highest Rated Smartphone Camera & Recording Apps IPhone vs Android for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-showcasing-design-brilliance-best-10-text-setups-in-ae/"><u>[New] In 2024, Showcasing Design Brilliance Best 10 Text Setups in AE</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-vidma-redefining-standard-practices-in-video-capture/"><u>[Updated] Vidma Redefining Standard Practices in Video Capture</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/exploring-file-saving-strategies-understanding-microsoft-words-autorecover-functionality/"><u>Exploring File Saving Strategies: Understanding Microsoft Word's AutoRecover Functionality</u></a></li>
+<li><a href="https://windows11.techidaily.com/hacked-scans-halt-evaluating-windows-biometric-security-now/"><u>Hacked Scans Halt: Evaluating Window's Biometric Security Now</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209634834-9781547573028-la-meditazione-come-affrontare-stress-e-ansia/"><u>La Meditazione come affrontare stress e ansia | Free Book</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-gpresult-creating-gpo-reports-effortlessly/"><u>Mastering GPResult: Creating GPO Reports Effortlessly</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-setup-snags-clipchamp-on-the-latest-of-windows-11/"><u>Overcoming Setup Snags: ClipChamp on the Latest of Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinstating-absent-system-temperature-policy-on-windows/"><u>Reinstating Absent System Temperature Policy on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/repairing-windows-11s-isdonedll-file-failure/"><u>Repairing Windows 11'S ISDone.dll File Failure</u></a></li>
+<li><a href="https://windows11.techidaily.com/set-up-wi-fi-cost-meter-on-windows-11/"><u>Set Up Wi-Fi Cost Meter on Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solution-reactivating-your-frozen-airpod-devices/"><u>Step-by-Step Solution: Reactivating Your Frozen AirPod Devices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-ios-gif-tools-for-iphones/"><u>The Ultimate Guide to iOS GIF Tools for iPhones</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-restricting-removable-storage-via-windows-settings/"><u>Tips for Restricting Removable Storage via Windows Settings</u></a></li>
 </ul></div>
 

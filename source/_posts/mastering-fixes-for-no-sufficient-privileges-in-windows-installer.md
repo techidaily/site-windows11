@@ -1,7 +1,7 @@
 ---
 title: Mastering Fixes for No Sufficient Privileges in Windows Installer
-date: 2025-01-19T19:54:26.861Z
-updated: 2025-01-22T18:24:37.428Z
+date: 2025-01-24T18:51:51.631Z
+updated: 2025-01-30T08:11:23.040Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Run the Affected Software’s Setup File With Admin Rights
 
@@ -56,12 +52,20 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 ![The Take Ownership option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/take-ownership-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Try Installing it in a Different Folder
 
  You might be able to bypass the “installer has insufficient privileges” error by selecting to install the software in a different directory. Many users install software packages in the Program Files folder. So, try selecting to install a program at a completely different folder path from the one specified in the error message.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Start or Restart Windows Installer
 
@@ -73,10 +77,6 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 3. If Windows Installer is running, select its **Restart** context menu option.
 
  Alternatively, you can double-click the **Windows Installer** service to view its properties window and restart it from there. Click **Start** if the service is already stopped, or, select **Stop > Start** to restart.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Disable UAC Before Installing
 
@@ -97,20 +97,16 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 4. Select **Disabled** to turn off that policy setting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click **Apply** \> **OK** to save the policy setting you’ve selected.  
 ![The Enabled radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-enabled-radio-button.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once done, repeat steps three to five above for all the User Account Control policy settings. Exit Group Policy Editor and restart your PC after disabling all UAC policy settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Turn Off Third-Party Security Apps
@@ -126,7 +122,7 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Try Installing Software After Clean Booting
@@ -144,6 +140,10 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
  If there’s an older version of the software you can’t install already on your PC, then try uninstalling the preceding version first. This guide on [uninstalling software in Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) includes various methods for removing programs.
 
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-uninstall-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get Your Windows 11/10 Software Installed
 
@@ -163,22 +163,20 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-exclusive-list-top-business-vault/"><u>[New] Exclusive List Top Business Vault</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-precision-screensaver-for-chromebooks-for-2024/"><u>[New] Precision Screensaver for Chromebooks for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-power-of-words-enhancing-viewer-count-with-impressive-description-templates/"><u>[New] The Power of Words Enhancing Viewer Count with Impressive Description Templates</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-affordable-minecraft-video-graphics-for-2024/"><u>[Updated] Affordable Minecraft Video Graphics for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-infinite-space-top-10-external-hard-drives-for-ps5/"><u>[Updated] Infinite Space Top 10 External Hard Drives for PS5</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-superior-panzoid-constructs-guide/"><u>2024 Approved Superior Panzoid Constructs Guide</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/como-hacer-una-copia-de-seguridad-completa-de-tu-pc-windows-10-sin-coste-dos-metodos-eficaces/"><u>Cómo Hacer Una Copia De Seguridad Completa De Tu PC Windows 10 Sin Coste: Dos Métodos Eficaces</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-framework-not-initializing/"><u>Graphics Framework Not Initializing</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-maintain-notebook-visibility-on-win-1011/"><u>How to Maintain Notebook Visibility on Win 10/11</u></a></li>
-<li><a href="https://fox-http.techidaily.com/how-to-seamlessly-incorporate-video-tracks-in-youtube-lists-for-2024/"><u>How to Seamlessly Incorporate Video Tracks in YouTube Lists for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/launch-successfully-guiding-through-startup-services-in-windows-11/"><u>Launch Successfully: Guiding Through Startup Services in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-wake-on-lid-closure-in-windows-devices/"><u>Mastering Wake on Lid Closure in Windows Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-fix-for-disabling-audio-playback-errors/"><u>Quick Fix for Disabling Audio Playback Errors</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-restore-active-window-defense-system/"><u>Strategies to Restore Active Window Defense System</u></a></li>
-<li><a href="https://windows11.techidaily.com/techniques-to-reinstate-lost-mcuicnt-file-in-windows/"><u>Techniques to Reinstate Lost McUICnt File in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-for-switching-offon-windows-11s-smartscreen/"><u>Tips for Switching Off/On Windows 11'S SmartScreen</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-photos-clever-trick-for-image-renewal/"><u>Windows Photos' Clever Trick for Image Renewal</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-instagrams-video-chatting-techniques-a-complete-resource/"><u>[Updated] In 2024, Instagram’s Video Chatting Techniques A Complete Resource</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/adjusting-the-lock-screen-interval-on-windows-11-made-easy/"><u>Adjusting the Lock Screen Interval on Windows 11 Made Easy</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-camon-20-premier-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Camon 20 Premier 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-savings-apples-m2-macbook-air-available-at-discounted-price-of-749-during-amazon-prime-day-zdnet/"><u>Experience Savings: Apple's M2 MacBook Air Available at Discounted Price of $749 During Amazon Prime Day - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-picks-leading-3d-printing-filaments-to-watch/"><u>Expert Picks: Leading 3D Printing Filaments to Watch</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-drive-unformatted-notice-in-windows-os/"><u>Fixing Drive Unformatted Notice in Windows OS</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-15-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix iPhone 15 Unavailable Issue With Ease</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-and-rectifying-steam-installation-issues-win11-edition/"><u>Navigating and Rectifying Steam Installation Issues, Win11 Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-issues-with-touchpad-gestures-in-windows-systems/"><u>Overcoming Issues with Touchpad Gestures in Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-the-net-runtime-issue-on-your-system/"><u>Overcoming the .NET Runtime Issue on Your System</u></a></li>
+<li><a href="https://windows11.techidaily.com/pathway-to-correcting-windows-backup-settings/"><u>Pathway to Correcting Windows Backup Settings</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-solution-for-your-printing-needs-downloading-epson-xp-830-drivers-made-simple/"><u>Quick Solution for Your Printing Needs: Downloading Epson XP-830 Drivers Made Simple</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamlessly-integrate-windows-11-into-your-routine/"><u>Seamlessly Integrate Windows 11 Into Your Routine</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-itel-p40plus-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Itel P40+ FRP Bypass</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-risks-in-mobile-gpt-downloads/"><u>Understanding Risks in Mobile GPT Downloads</u></a></li>
 </ul></div>
 

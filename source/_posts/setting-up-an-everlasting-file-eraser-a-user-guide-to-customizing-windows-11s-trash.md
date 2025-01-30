@@ -1,7 +1,7 @@
 ---
 title: "Setting up an Everlasting File Eraser: A User Guide to Customizing Windows 11'S Trash"
-date: 2025-01-19T20:12:24.666Z
-updated: 2025-01-22T21:00:35.062Z
+date: 2025-01-26T19:54:41.560Z
+updated: 2025-01-30T01:36:30.606Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Standard Deletion vs. Permanent Erasure: What's Wrong With the Default Recycle Bin?
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 6. Double-click**Free\_File\_Wiper.exe** in its extracted directory to run the app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. You’ll see a help window for the app when you first start it. Deselect the**Show this help at startup** checkbox if you don’t want the info to appear again.  
@@ -92,26 +92,26 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 8. Double-click the Multi Trash gadget, which will probably be on page two of that window, to add it to the desktop.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Multi Trash gadget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-button.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Multi Trash is set to its Recycle Bin by default. However, you can change its function by clicking the arrows on that gadget. Click that gadget’s**left arrow** to turn it into a Shred bin.
 
 ![The Multi Trash Recycle bin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-multi-trash-recycle-bin.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Shred bin will permanently erase files dragged onto it. So, go ahead and drag some files from Explorer’s window onto the Shred bin. A confirmation prompt will open that asks if you’re sure about permanently deleting the file. Click**Yes** to confirm as such.
 
 ![The Shred bin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-shred-bin.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This gadget has a few customization settings. Click its**Options** button to view them on the Multi Trash window. You can change the bin’s color by clicking the**Shredder Glass Color** option on the**Appearance** tab and selecting an alternative one on the palette. To change the bin’s size, select the**Large** or**Small** options on the**Size of bin** drop-down menus within the**Function** tab. Click**OK** to apply new gadget settings.
 
@@ -140,18 +140,17 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-easy-paths-to-profitable-youtube-business-channels-top-10-list/"><u>[Updated] 2024 Approved Easy Paths to Profitable YouTube Business Channels, Top 10 List</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-how-to-access-government-recorded-content-for-free-online/"><u>[Updated] How to Access Government-Recorded Content for Free Online</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-pushing-boundaries-spotlight-on-top-6-digital-innovators/"><u>[Updated] Pushing Boundaries Spotlight on Top 6 Digital Innovators</u></a></li>
-<li><a href="https://windows11.techidaily.com/expedite-foreign-speech-hotkey-mastery-for-windows-language-switching/"><u>Expedite Foreign Speech: Hotkey Mastery for Windows Language Switching</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-xiaomi-redmi-k70e-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Xiaomi Redmi K70E Phone</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-troubleshoot-apex-legends-crashing-on-windows-11/"><u>How to Troubleshoot Apex Legends Crashing on Windows 11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Infinix Note 30 Pro | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/mitigating-error-code-0x80300024-on-a-pc/"><u>Mitigating Error Code: 0X80300024 on a PC</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/premium-stabilization-solutions-for-iphoneandroiddslr-for-2024/"><u>Premium Stabilization Solutions for iPhone/Android/DSLR for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-steps-to-fresh-drivers-for-your-amd-ryzen-5-2500u-processor/"><u>Quick Steps to Fresh Drivers for Your AMD Ryzen 5 지구맥스 2500U Processor</u></a></li>
-<li><a href="https://windows11.techidaily.com/restoring-default-settings-for-system-backups-in-windows/"><u>Restoring Default Settings for System Backups in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-package-could-not-be-registered-errors-in-windows-photos/"><u>Tackling 'Package Could Not Be Registered' Errors in Windows Photos</u></a></li>
-<li><a href="https://windows11.techidaily.com/taming-technology-troubles-fixing-absentee-tab-functionality/"><u>Taming Technology Troubles: Fixing Absentee Tab Functionality</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-becoming-a-metaverse-veteran-top-7-gadgets-for-the-experts/"><u>[New] 2024 Approved Becoming a Metaverse Veteran Top 7 Gadgets for the Experts</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-mirrorless-challenge-to-dslr-who-wins-in-video/"><u>[New] Mirrorless Challenge to DSLR Who Wins in Video?</u></a></li>
+<li><a href="https://windows11.techidaily.com/boost-text-entry-learning-from-typingaid/"><u>Boost Text Entry: Learning From TypingAid</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-latest-epson-workforce-ds-30-printer-driver-for-windows-10-8-and-e/"><u>Download the Latest Epson WorkForce DS-30 Printer Driver for Windows 10, 8 & E</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-yuzu-emulation-speed-in-windows/"><u>Elevating Yuzu Emulation Speed in Windows</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-clip-content-wizard-for-2024/"><u>Flash Clip Content Wizard for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/getting-acquainted-with-the-windows-odbc-system/"><u>Getting Acquainted with the Windows ODBC System</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-tecno-spark-20-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Tecno Spark 20 Users</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>Life360 Circle Everything You Need to Know On Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/solving-usb-connection-issues-a-step-by-nstep-guide-to-diagnosing-non-detected-devices-by-yl-software-specialists/"><u>Solving USB Connection Issues: A Step-by-nStep Guide to Diagnosing Non-Detected Devices by YL Software Specialists</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-undetectable-file-hiding-technique-on-windows-systems/"><u>The Undetectable File Hiding Technique on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/visual-notetaking-revolution-unlocking-with-obsidian-canvas/"><u>Visual Notetaking Revolution: Unlocking with Obsidian Canvas</u></a></li>
 </ul></div>
 

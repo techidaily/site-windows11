@@ -1,7 +1,7 @@
 ---
 title: "Taming the Digital Canvas: Making Magic with Paint Tool SAI & Win11 for AI Art"
-date: 2025-01-16T16:46:42.102Z
-updated: 2025-01-22T18:46:11.871Z
+date: 2025-01-28T17:43:01.551Z
+updated: 2025-01-29T17:20:42.843Z
 tags:
   - windows10
   - windows11
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/5bfb2b2f01975a3eebb8a0b131dcc5bf0873594ba
 ![Joining Paint cocreator waitlist](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/joining-paint-cocreator-waitlist.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After that, launch the Paint app, and you will see a Cocreator feature icon in the app. Click on it to open the feature in the side pane. Now, click on the **Join waitlist** button. You will receive an email from the company in your official Microsoft account about getting access to the feature.
@@ -55,21 +55,25 @@ thumbnail: https://thmb.techidaily.com/5bfb2b2f01975a3eebb8a0b131dcc5bf0873594ba
 ![creating an image prompt in Paint cocreator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/creating-an-image-prompt-in-paint-cocreator.jpg)
 6. Wait for the feature to generate the images based on the prompt you provided. It can take a while to create the images and fetch them from the server. It will produce three sets of images for each prompt.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Generated images in Paint cocreator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/generated-images-in-paint-cocreator.jpg)
 7. Once the images are generated, you can click on them to add to the image or empty canvas.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 8. To save the generated image, click on the **ellipses** icon of the image and select the **Save image** option.  
 ![saving the generated image in Paint](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/saving-the-generated-image-in-paint.jpg)
 9. Name the image and click on the **Save** button to save it in a PNG format.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Similarly, you can try more combinations and styles to generate different images based on the same prompt. Remember that creating an image consumes one credit at a time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Paint Cocreator Any Good?
@@ -83,11 +87,7 @@ thumbnail: https://thmb.techidaily.com/5bfb2b2f01975a3eebb8a0b131dcc5bf0873594ba
 ![Generating image using Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/generating-image-using-copilot.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Generate AI Images in Paint
@@ -104,20 +104,22 @@ thumbnail: https://thmb.techidaily.com/5bfb2b2f01975a3eebb8a0b131dcc5bf0873594ba
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-10-secrets-to-flawless-live-broadcasts-of-cricket-for-2024/"><u>[New] 10 Secrets to Flawless Live Broadcasts of Cricket for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-picdistort-a-comprehensive-guide-to-image-alteration/"><u>[New] PicDistort A Comprehensive Guide to Image Alteration</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-stealthy-stroll-through-facebook-episodes-for-2024/"><u>[Updated] Stealthy Stroll Through Facebook Episodes for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-digital-dawnings-of-insight-augmented-metaverse-mantras/"><u>2024 Approved Digital Dawnings of Insight Augmented Metaverse Mantras</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/essential-tips-for-simple-hdr-mastery/"><u>Essential Tips for Simple HDR Mastery</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-windows-compatible-art-tools-alike-procreate/"><u>Essential Windows-Compatible Art Tools Alike Procreate</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-in-technology-with-toms-hardware-top-gadgets-reviewed/"><u>Exploring the Latest in Technology with Tom's Hardware - Top Gadgets Reviewed</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-package-could-not-be-registered-photos-error-in-windows-11-and-11/"><u>How to Fix the “Package Could Not Be Registered” Photos Error in Windows 11 & 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-update-windows-offline-with-portable-update/"><u>How to Update Windows Offline With Portable Update</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-starting-vlogging-right-the-top-equipmentsoftware/"><u>In 2024, Starting Vlogging Right The Top Equipment/Software</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-unbeatable-bike-sims-showcase/"><u>In 2024, Unbeatable Bike Sims Showcase</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-the-exception-has-been-reached-on-windows-devices/"><u>Resolving “The Exception Has Been Reached” On Windows Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/resurrect-your-invisible-wi-fi-connection-on-windows-11/"><u>Resurrect Your Invisible Wi-Fi Connection on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/shielding-operations-mastering-uac-security-measures/"><u>Shielding Operations: Mastering UAC Security Measures</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-solutions-to-side-by-side-error-on-win10/"><u>Unveiling Solutions to Side-by-Side Error on Win10</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-crafting-attention-a-look-at-the-best-15-video-intro-plans/"><u>[New] In 2024, Crafting Attention A Look at the Best 15 Video Intro Plans</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-facebooks-unique-media-the-top-ios-downloader-tools-revealed-today/"><u>[New] In 2024, Facebook's Unique Media The Top iOS Downloader Tools Revealed Today</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premium-timers-at-no-cost-to-you/"><u>[New] Premium Timers at No Cost to You</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-visual-mastery-redefined-the-z32x-dreamcolor-edition-for-2024/"><u>[New] Visual Mastery Redefined The Z32X DreamColor Edition for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-elevate-your-profile-the-best-30-tiktok-handle-choices/"><u>[Updated] Elevate Your Profile The Best 30 TikTok Handle Choices</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/discover-these-5-excellent-video-editing-programs-that-outshine-lumafusion-on-windows/"><u>Discover These 5 Excellent Video Editing Programs That Outshine LumaFusion on Windows!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-dandd-experience-with-the-power-of-chatgpt-for-interactive-quests/"><u>Elevate Your D&D Experience with the Power of ChatGPT for Interactive Quests</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-windows-11-taskbar-malfunction/"><u>Fixing Windows 11 Taskbar Malfunction</u></a></li>
+<li><a href="https://windows11.techidaily.com/getting-acquainted-with-windows-11-controls/"><u>Getting Acquainted with Windows 11 Controls</u></a></li>
+<li><a href="https://windows11.techidaily.com/pinpointing-where-windows-stores-new-software/"><u>Pinpointing Where Windows Stores New Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/prioritize-prerequisites-to-boost-virtualbox-integration/"><u>Prioritize Prerequisites to Boost VirtualBox Integration</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-backward-typing-glitches-on-windows/"><u>Resolving Backward Typing Glitches on Windows</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ving-the-mystery-of-missing-shorts-thumbnails-on-youtube/"><u>Resolving the Mystery of Missing Shorts Thumbnails on YouTube</u></a></li>
+<li><a href="https://driver-download.techidaily.com/seamless-connection-the-best-way-to-download-and-install-new-rndis-drivers-for-windows-systems/"><u>Seamless Connection: The Best Way to Download & Install New RNDIS Drivers for Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-uninstall-routine-for-wsl-in-windows-11/"><u>The Ultimate Uninstall Routine for WSL in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-intel-unison-non-operational-status-in-windows-11/"><u>Troubleshooting Intel Unison Non-Operational Status in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-driver-reset-guide-for-clear-images/"><u>Windows 11 Driver Reset Guide for Clear Images</u></a></li>
 </ul></div>
 

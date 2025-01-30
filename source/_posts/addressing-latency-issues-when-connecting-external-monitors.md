@@ -1,7 +1,7 @@
 ---
 title: Addressing Latency Issues When Connecting External Monitors
-date: 2024-08-15T15:22:41.868Z
-updated: 2024-08-16T15:22:41.868Z
+date: 2025-01-26T06:38:36.049Z
+updated: 2025-01-30T00:43:21.924Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,17 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 
  Below, we will explore several effective troubleshooting tips that can help resolve performance issues with your Windows laptop when it is connected to an external display.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Make Sure Your Laptop Is Compatible With the External Monitor
 
  One of the most common reasons why your Windows laptop may lag is if it lacks the minimum hardware requirements to support the monitor. This usually happens when your laptop's graphics card isn't powerful enough to handle the monitor's resolution. Try [lowering the resolution of the external monitor](https://www.makeuseof.com/windows-11-change-screen-resolution/) to see if that resolves the lag.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Change the Screen Refresh Rate
 
@@ -36,13 +44,11 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 4. Switch to the **Monitor** tab and click the drop-down menu under **Screen refresh rate** to select **60 Hertz**.
 5. Hit **Apply** followed by **OK**.  
 ![Change Monitor Refresh Rate on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/change-monitor-refresh-rate-on-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Run the Hardware and Devices Troubleshooter
 
  Windows’ Hardware and Devices troubleshooter can help fix all kinds of issues with your external devices. It can scan your system for any irregularities and attempt to resolve them.
@@ -55,8 +61,9 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 4. In the Hardware and Devices window, click **Advanced** and tick the **Apply repairs automatically** checkbox.
 5. Click **Next** to run the troubleshooter.  
 ![Hardware and Devices Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hardware-and-devices-troubleshooter-on-windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Allow the troubleshooter to detect any issues and fix them. After that, check if your Windows laptop still lags when connected to an external monitor.
@@ -68,13 +75,11 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
  Press **Ctrl + Shift + Esc** to open the Task Manager. In the **Processes** tab, locate and select the program you don’t need and click the **End task** option at the top. Close all unwanted apps and programs and check if you still experience lag.
 
 ![Close Programs Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/close-programs-using-task-manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Try Some Generic Fixes
 
  Still having problems? Don't fret, you can try the following generic solutions to solve the problem.
@@ -83,16 +88,11 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 * **Try a Clean Boot:**[Performing a clean boot](https://www.makeuseof.com/how-perform-clean-boot-windows-10/) can help you determine if a third-party program or service is causing your Windows laptop to lag. If you do not experience any lag while in a clean boot state, you will need to uninstall any suspicious apps or programs to fix the problem.
 * **Install Windows Updates:** A buggy Windows build can also cause such anomalies. As a last resort, try [installing any pending Windows updates](https://www.makeuseof.com/update-windows-manually/) to see if they resolve the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## No More Lag When Using an External Monitor With Your Windows Laptop
 
  As with most Windows problems, there’s no single fix that will work for everyone. That said, applying the above tips should resolve any issues that may have been causing your Windows laptop to lag or slow down when you connect an external monitor.
 
  Below, we will explore several effective troubleshooting tips that can help resolve performance issues with your Windows laptop when it is connected to an external display.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -101,5 +101,24 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-the-ten-pillars-of-meme-creation/"><u>[New] The Ten Pillars of Meme Creation</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-a-journey-through-the-landscape-of-human-computer-interaction-for-2024/"><u>[Updated] A Journey Through the Landscape of Human-Computer Interaction for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-melodic-lenswork-capturing-soundscapes-on-ios/"><u>[Updated] Melodic Lenswork Capturing Soundscapes on iOS</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-understanding-facebook-story-algorithms-how-to-optimize-for-success/"><u>2024 Approved Understanding Facebook Story Algorithms How to Optimize for Success</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/1728504965122-windows-11windows-10/"><u>轻松指南：两种方法将电脑从Windows 11升格为Windows 10。</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/app-accuracy-check-through-the-lens-of-vll/"><u>App Accuracy Check Through the Lens of VLL</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-lock-down-your-pcs-external-hard-drive-access/"><u>How To Lock Down Your PC's External Hard Drive Access</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-final-cut-pro-like-a-pro-5-expert-tips-to-elevate-your-edits/"><u>In 2024, Final Cut Pro Like a Pro 5 Expert Tips to Elevate Your Edits</u></a></li>
+<li><a href="https://windows11.techidaily.com/modernize-your-tech-consider-alternatives-to-windows/"><u>Modernize Your Tech: Consider Alternatives to Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/mute-non-met-requirement-notifications-on-windows/"><u>Mute Non-Met Requirement Notifications on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategic-steps-launching-your-admin-privileged-powershell-console/"><u>Strategic Steps: Launching Your Admin Privileged PowerShell Console</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-fix-system-call-failures-in-windows/"><u>Strategies to Fix System Call Failures in Windows</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/techniques-for-text-overlays-in-igtv-content/"><u>Techniques for Text Overlays in IGTV Content</u></a></li>
+<li><a href="https://windows11.techidaily.com/unblocking-steams-access-issue-for-games-on-win11/"><u>Unblocking Steam's Access Issue for Games on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-ios-calendar-in-your-windows-environment/"><u>Unlocking iOS Calendar in Your Windows Environment</u></a></li>
+<li><a href="https://windows11.techidaily.com/unravel-the-power-of-windows-redos-using-hotkey-keys/"><u>Unravel the Power of Windows Redos Using Hotkey Keys</u></a></li>
+</ul></div>
 

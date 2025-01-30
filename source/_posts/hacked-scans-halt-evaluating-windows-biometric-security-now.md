@@ -1,7 +1,7 @@
 ---
 title: "Hacked Scans Halt: Evaluating Window's Biometric Security Now"
-date: 2025-01-20T20:06:19.289Z
-updated: 2025-01-22T19:10:59.924Z
+date: 2025-01-29T05:05:11.661Z
+updated: 2025-01-29T22:47:47.382Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/de25cad762d1b1da1023e95cc7ce6ed0cc716ab65
 
  As part of research into Windows Hello's strength, two [white-hat hackers](https://www.makeuseof.com/white-hat-hacker/), Jesse D'Aguanno and Timo Teräs, posted a report on their website, [Blackwing HQ](https://blackwinghq.com/blog/posts/a-touch-of-pwn-part-i/). The report details how they breached three popular devices: the Dell Inspiron 15, Lenovo ThinkPad T14, and the Microsoft Surface Pro Type Cover.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How the Hackers Breached Windows Hello on the Dell Inspiron 15
 
  For the Dell Inspiron 15, the hackers noticed they could boot into Linux on the laptop. Once logged into Linux, they can register their fingerprints in the system and give it the same ID as the Windows user they want to log into.
@@ -41,45 +45,33 @@ thumbnail: https://thmb.techidaily.com/de25cad762d1b1da1023e95cc7ce6ed0cc716ab65
 
  To dodge Windows Hello, the hackers uploaded their fingerprints to the Linux database, assigned it the same ID as the user on Windows, and then tried to log into Windows with their fingerprints. During the authentication process, they redirected the packet to the Linux database, which told Windows that the user at the specified ID was ready to log in.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How the Hackers Breached Windows Hello on the Lenovo ThinkPad T14
 
  For the Lenovo ThinkPad, the hackers discovered that the laptop used a custom encryption method to verify fingerprints. With some work, the hackers managed to decrypt it, giving them a way into the fingerprint verification process.
 
  Once done, the hackers could force the fingerprint database to accept their fingerprint as the user's. Then, all they had to do was scan their fingerprint to access the Lenovo ThinkPad.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How the Hackers Breached Windows Hello on the Microsoft Surface Pro Type Cover
 
  The hackers believed the Surface Pro would be the hardest device to crack, but they were surprised to find the Surface Pro lacked a lot of security measures for checking valid fingerprints. In fact, they discovered that they only had to dodge past one defense, then tell the Surface Pro that the fingerprint scan was successful, and the device let them in.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Do These Hacks Mean for You?
 
 ![Professional Thinking With Laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/professional-thinking-with-laptop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  These hacks may sound pretty scary if you use fingerprints to log into your laptop. However, it's essential to remember some crucial things before you forgo fingerprint scans entirely.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. The Attacks Were Performed by Skilled Hackers
 
  The reason threats like [ransomware as a service](https://www.makeuseof.com/what-is-ransomware-as-a-service/) are so deadly is that anyone with minimal cybersecurity can use them. However, the above hacks require a high level of expertise, with a deep understanding of how devices authenticate fingerprints and how to avoid them.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. The Attacks Require the Attacker to Physically Interact With the Device
 
@@ -91,9 +83,17 @@ thumbnail: https://thmb.techidaily.com/de25cad762d1b1da1023e95cc7ce6ed0cc716ab65
 
  While these hacks may sound scary, they'll be challenging to perform against actual targets. The hacker will likely have to steal the device to perform these hacks, which would undoubtedly alert the previous owner.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Stay Safe From Fingerprint Hacking
 
 ![The face of a man wearing a hoodie](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hacher-hat.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  As stated above, the discovered hacks are complicated to perform and may require the hacker to remove the device to hack into it physically. As such, there's an extremely low chance that these attacks will personally target you.
 
@@ -121,20 +121,24 @@ thumbnail: https://thmb.techidaily.com/de25cad762d1b1da1023e95cc7ce6ed0cc716ab65
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-quick-start-to-youtube-success-creating-business-and-personal-channels-on-phone/"><u>[New] In 2024, Quick Start to YouTube Success Creating Business & Personal Channels on Phone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-3-easy-ways-to-record-overwatch-gameplay/"><u>[Updated] 3 Easy Ways to Record Overwatch Gameplay</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-smoothly-record-time-lapse-on-your-ipad/"><u>[Updated] In 2024, Smoothly Record Time-Lapse on Your iPad</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-seamless-integration-share-confidential-youtube-videos-on-gmail/"><u>[Updated] Seamless Integration Share Confidential YouTube Videos on Gmail</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-streamline-your-media-workflow-a-complete-srt-to-other-file-format-handbook-for-2024/"><u>[Updated] Streamline Your Media Workflow A Complete SRT-to-Other File Format Handbook for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-professionals-playbook-refined-gopro-video-production-techniques/"><u>2024 Approved The Professional's Playbook Refined GoPro Video Production Techniques</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-non-starting-windows-indexing-service/"><u>Fixing Non-Starting Windows Indexing Service</u></a></li>
-<li><a href="https://windows11.techidaily.com/reimagining-your-windows-11-search-experience/"><u>Reimagining Your Windows 11 Search Experience</u></a></li>
-<li><a href="https://windows11.techidaily.com/santa-skims-but-you-need-depth-discover-how-copernic-transforms-your-data-check-with-precision-and-ease/"><u>Santa Skims, But You Need Depth - Discover How Copernic Transforms Your Data Check with Precision and Ease!</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-snapshot-navigating-newly-active-windows-items/"><u>The Snapshot: Navigating Newly Active Windows Items</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-5-tracking-apps-to-track-apple-iphone-7-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>Top 5 Tracking Apps to Track Apple iPhone 7 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-5-ways-copernic-enhances-your-work-from-home-experience/"><u>Top 5 Ways Copernic Enhances Your Work-From-Home Experience</u></a></li>
-<li><a href="https://windows11.techidaily.com/tracing-the-blue-screen-footsteps-in-windows-xp7/"><u>Tracing the Blue Screen Footsteps in Windows XP/7</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-best-video-highlight-makers-for-pc-mac-android-and-ios/"><u>Updated 2024 Approved Best Video Highlight Makers for PC, Mac, Android, and iOS</u></a></li>
-<li><a href="https://blog-min.techidaily.com/jpegpef-movavi/"><u>お使いワザ！JPEGファイルをPEFに自由変換 -Movavi</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/treamlined-processes-for-swift-comment-removal-on-youtube-for-2024/"><u>[New] Streamlined Processes for Swift Comment Removal on YouTube for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-exclusive-selections-best-virtual-reality-titles-for-cardboard/"><u>[Updated] In 2024, Exclusive Selections Best Virtual Reality Titles for Cardboard</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1-winxvideo-ai/"><u>1. WinxVideo AI: 最常聞的技術疑問及其解決方式</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dark-souls-3-resolved-problems-with-game-freezing-and-crashes/"><u>Dark Souls 3: Resolved Problems with Game Freezing & Crashes</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/enhancing-speech-clarity-on-skype/"><u>Enhancing Speech Clarity on Skype</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-techniques-to-rectify-critical-discord-javascript-hiccup-in-w10w11/"><u>Essential Techniques to Rectify Critical Discord JavaScript Hiccup in W10/W11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-realme-c55-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Realme C55 Phone?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96179881-9781634242271-liber-420/"><u>Liber 420 | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-sound-levels-windows-11s-volume-mixer-guide/"><u>Mastering Sound Levels: Windows 11'S Volume Mixer Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/my-top-pick-from-ces-the-unique-laptop-pen-that-writes-like-magic-a-must-see-at-the-tech-showcase/"><u>My Top Pick From CES: The Unique Laptop Pen That Writes Like Magic - A Must-See at the Tech Showcase</u></a></li>
+<li><a href="https://windows11.techidaily.com/no-more-confusion-selecting-ideal-drives-for-gameplay/"><u>No More Confusion: Selecting Ideal Drives for Gameplay</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-recovery-resolving-common-rpc-errors-on-windows/"><u>Quick Recovery: Resolving Common RPC Errors on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/realigning-windows-group-policies-for-organizational-needs/"><u>Realigning Windows Group Policies for Organizational Needs</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-logins-epic-games-fix-guide-for-win-users/"><u>Restoring Logins: Epic Games Fix Guide for Win Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-transition-of-imessage-from-ios-to-windows-os/"><u>Seamless Transition of iMessage From iOS to Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplify-win-11-repairs-with-custom-buttons/"><u>Simplify Win 11 Repairs with Custom Buttons</u></a></li>
+<li><a href="https://win-trending.techidaily.com/solving-the-icloud-backup-problem-a-step-by-step-guide-to-restoring-your-greyed-out-feature/"><u>Solving the iCloud Backup Problem: A Step-by-Step Guide to Restoring Your Greyed-Out Feature</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-windows-1111-store-error-0x800704cf/"><u>Solving Windows 11/11 Store Error 0X800704CF</u></a></li>
+<li><a href="https://windows11.techidaily.com/transformative-windows-11-the-finest-replacements-guide/"><u>Transformative Windows 11: The Finest Replacements Guide</u></a></li>
 </ul></div>
 

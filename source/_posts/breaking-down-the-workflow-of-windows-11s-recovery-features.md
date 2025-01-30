@@ -1,7 +1,7 @@
 ---
 title: Breaking Down the Workflow of Windows 11'S Recovery Features
-date: 2024-08-15T15:22:59.885Z
-updated: 2024-08-16T15:22:59.885Z
+date: 2025-01-25T18:29:31.272Z
+updated: 2025-01-30T06:04:04.884Z
 tags:
   - windows10
   - windows11
@@ -20,17 +20,26 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 
  Instead of manually copying every file or creating a gigantic system image, you can manage backups of most of the personal data of your Windows PC within a single app. Wondering how the app works and what data it can back up? Let's find out.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the New Windows Backup App?
 
  Windows 11 already has a backup section in the Settings app that offers the option to save all your device preferences, remember your apps and settings, and store all your personal files in [OneDrive](https://www.makeuseof.com/link-onedrive-microsoft-account-windows-10/). The Windows Backup app brings all these options under one shed as an app. So, it becomes easier for users to select what to back up without opening the Settings app.
 
 ![Windows Backup page in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-backup-page-in-the-settings-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After backing up all the necessary files and settings, you can restore it using the OOBE experience page. It appears after you sign in to your Microsoft Account while installing or resetting your Windows PC.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use the Windows Backup App
 
  Windows Backup App was previously available in the [Canary](https://www.makeuseof.com/what-is-windows-insider-canary-channel/) and Dev Insider channels. But now it is available for the Beta channel as well. You must update to the Insider build 22631.2262 to get access to the Windows Backup app if you have enrolled your PC in the Dev channel. Just check for the latest Windows update and install it on your PC.
@@ -45,37 +54,27 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 2. You will see four options namely, **Folders**, **Apps**, **Settings**, and **Credentials**.
 3. Click on the **arrow** icon next to the Folders option. Enable the **toggles** of all the folders that you want to select for backup.  
 ![Configuring Windows Backup app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/configuring-windows-backup-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. After that, you can pick the types of settings, credentials, and apps to back up using the rest of the options listed in the app.
 5. Lastly, click on the **Backup** button to start the process. It will take a while to upload all the files and settings.  
 ![Windows Backup in progress](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-backup-in-progress.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 6. Click on the **Close** button to terminate the app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The backup part is complete now. Whenever you reset your PC or install Windows on a new PC, you can import this backup in one go. The setup page will ask you to sign in to your account while installing Windows 11\.
 
  After you sign in, you will see an option to restore data from your older PC. If you use your Microsoft Account on other PCs and have enabled backups on them, you will see the option to restore data from those devices too. Complete the device setup and then log in to your PC.
 
 ![Install Old Apps Using Microsoft Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-old-apps-using-microsoft-account.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You will see all the pinned app icons in the Start menu, and Taskbar, and can click on the icon to restore the app. Windows will direct you to the official website to download and install the apps that aren’t available on the Microsoft Store. You can even restore all the Store apps by launching the Microsoft Store app and selecting the Restore All option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## The Windows Backup App vs. Legacy Backup Options
 
  The Windows Backup app relies on cloud storage to store all your data. It makes it more convenient to access files via OneDrive and restore all your personal settings and apps.
@@ -86,16 +85,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  But you may have to upgrade to the paid tier of OneDrive if your personal files take up too much space. Another caveat is that is super easy to restore the Microsoft Store apps but all the third-party software will still be missing from the picture. After restoring the data, you will have to install all these apps manually.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## Your Windows Backup Made Easy
 
  You can use the Windows Backup app or hop into the Settings app and configure the backup settings from there. Transitioning to a new PC is significantly easy with the cloud backup and Microsoft Account linking approach. However, you will need to upgrade storage (in some cases) and reinstall third-party software manually.
 
  Instead of manually copying every file or creating a gigantic system image, you can manage backups of most of the personal data of your Windows PC within a single app. Wondering how the app works and what data it can back up? Let's find out.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -104,5 +98,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-comprehensive-guide-to-embedding-multiple-youtube-playlists-in-websites-for-2024/"><u>[New] Comprehensive Guide to Embedding Multiple YouTube Playlists in Websites for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-mastering-itunes-archives-in-3-easy-steps/"><u>2024 Approved Mastering iTunes Archives in 3 Easy Steps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/can-your-iphone-15-survive-a-splash-uncovering-its-water-resistance-secrets/"><u>Can Your iPhone 15 Survive a Splash? Uncovering Its Water Resistance Secrets</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-strategies-for-winning-back-defective-windows-apps/"><u>Essential Strategies for Winning Back Defective Windows Apps</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Motorola Moto G24? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-app-glitch-x80131500/"><u>Overcoming Windows App Glitch X80131500</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/premium-philips-somneo-alarm-clock-reviews/"><u>Premium Philips Somneo Alarm Clock Reviews</u></a></li>
+<li><a href="https://windows11.techidaily.com/resetting-lost-web-interfaces-of-router-on-windows/"><u>Resetting Lost Web Interfaces of Router on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/stalled-opera-install-windows-fix-guide/"><u>Stalled Opera Install? Windows Fix Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-permanently-start-windows-terminal-as-admin/"><u>Steps to Permanently Start Windows Terminal as Admin</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-chrome-cookie-and-cache-issues-for-download-problems-windows/"><u>Troubleshooting Chrome’ Cookie & Cache Issues for Download Problems, Windows</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-kinemaster-for-mac-download-guide-for-you/"><u>Updated In 2024, KineMaster for Mac Download Guide for You</u></a></li>
+</ul></div>
 

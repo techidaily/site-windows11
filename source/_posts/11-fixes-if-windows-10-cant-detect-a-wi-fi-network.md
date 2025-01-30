@@ -1,7 +1,7 @@
 ---
 title: 11 Fixes if Windows 10 Can’t Detect a Wi-Fi Network
-date: 2024-08-15T15:23:31.186Z
-updated: 2024-08-16T15:23:31.186Z
+date: 2025-01-27T22:05:02.583Z
+updated: 2025-01-29T18:02:18.178Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/94567bf4df3b715033d93123bd31d8eb4bb0ab79d
 
  No matter the problem, we will walk you through the Wi-Fi troubleshooting process so you can get back online as quickly as possible.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Turn Off Airplane Mode
 
  If your Windows 10 laptop can't connect to Wi-Fi network but your phone can, the first thing you need to check is if your [computer is stuck in Airplane mode](https://www.makeuseof.com/windows-10-stuck-in-airplane-mode-fix/). You might’ve turned it on involuntarily from **Action Center** or pressed a key or button that toggles Airplane mode on or off.
@@ -32,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/94567bf4df3b715033d93123bd31d8eb4bb0ab79d
 4. Check **Wireless devices** and make sure **Wi-Fi** is turned on.  
 ![Airplane mode settings in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/airplane-mode-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Run the Internet Connections Troubleshooter
 
  Fortunately, you can [run built-in Windows troubleshooters](https://www.makeuseof.com/run-troubleshooter-windows-10-11/) you can use to solve a variety of problems, including issues with your internet connection. Follow these steps to run the Windows 10 internet troubleshooter:
@@ -48,9 +49,6 @@ thumbnail: https://thmb.techidaily.com/94567bf4df3b715033d93123bd31d8eb4bb0ab79d
 
  If this didn’t fix the issue, you can try running the **Network Adapter** troubleshooter. Follow the first two steps above to access the troubleshooter list. Then, scroll down to **Network Adapter** and select **Run the troubleshooter**.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Forget the Current Wi-Fi Network
 
  This may seem odd, but sometimes Windows will detect a network if you make it forget the network's settings and re-add them. If you are using this method, make sure you know the Wi-Fi password, or you won't be able to reconnect to it again.
@@ -62,13 +60,11 @@ thumbnail: https://thmb.techidaily.com/94567bf4df3b715033d93123bd31d8eb4bb0ab79d
 3. Select the Wi-Fi network you want to use and click **Forget**.
 
 ![Forget Wi-Fi network in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/forget-wifi-network-1-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Check Your Wi-Fi Network Adapter's Properties
 
  If you've tried [multiple ways to connect to Wi-Fi on a Windows device](https://www.makeuseof.com/windows-ways-to-connect-to-wifi/) and had no luck, you should take a look at your network adapter properties. When your laptop has a low battery and turns on Battery Saver mode, Windows 10 will turn off certain features to save energy.
@@ -83,9 +79,6 @@ thumbnail: https://thmb.techidaily.com/94567bf4df3b715033d93123bd31d8eb4bb0ab79d
 5. Click **OK** to save the new changes.
 6. Restart your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Update the Wireless Network Driver
 
  If your computer can’t connect to the Wi-Fi but other devices can, there might be something wrong with your wireless network driver. An outdated or corrupted driver might cause all sorts of issues, including the inability to detect a Wi-Fi network. In this case, you should update the driver.
@@ -93,9 +86,6 @@ thumbnail: https://thmb.techidaily.com/94567bf4df3b715033d93123bd31d8eb4bb0ab79d
  Launch Device Manager (see [how to open the Device Manager](https://www.makeuseof.com/windows-open-device-manager/)) and extend the **Network adapters** list. There, right-click the wireless adapter and select **Update driver**. In the pop-up window, choose the **Search automatically for drivers** option, then **Search for updated drivers on Windows Update**.
 
 ![How to update the network driver in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/update-driver-1-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 
  If Windows fails to find any drivers, search online for your wireless network device's manufacturer and download them from there.
 
@@ -111,8 +101,13 @@ thumbnail: https://thmb.techidaily.com/94567bf4df3b715033d93123bd31d8eb4bb0ab79d
 ![Disable network interface card in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/disable-network-interface-card-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Enable the Dynamic Host Configuration Protocol
 
  In Windows 10, the Dynamic Host Configuration Protocol (or DHCP) is a process used to customize and assign an IP address to a suitable wireless device, which includes your computer. If the process is turned off, you can’t connect to a Wi-Fi network on your PC.
@@ -123,10 +118,11 @@ thumbnail: https://thmb.techidaily.com/94567bf4df3b715033d93123bd31d8eb4bb0ab79d
 2. Right-click your Wi-Fi network.
 3. Select **Diagnose**.  
 ![DHCP in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/host-configuration-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Wait until Windows finishes the process. This will enable DHCP and fix your network issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Set the Wi-Fi Channel Width to Auto
 
@@ -142,9 +138,6 @@ thumbnail: https://thmb.techidaily.com/94567bf4df3b715033d93123bd31d8eb4bb0ab79d
 
  If the **Auto** option is missing, you can try other options and see what works for you. Before making any changes, take a screenshot or write down the default settings, so you can revert to them if something goes wrong.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Restart Your Router
 
  If your computer won’t connect to the Wi-Fi but other devices can, there’s a chance you might be dealing with router issues. By rebooting your router, you give it a chance to clear its memory, end running tasks, and reload its firmware.
@@ -159,6 +152,10 @@ thumbnail: https://thmb.techidaily.com/94567bf4df3b715033d93123bd31d8eb4bb0ab79d
 
  After Windows 10 removes your wireless profile, it will create a new profile and you can connect to the Wi-Fi network as long as you are in range.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 11\. Enable WLAN AutoConfig
 
 **WLAN AutoConfig** is responsible for configuring, discovering, connecting, and disconnecting from a wireless area network. If it stops functioning properly, you will experience all sorts of network issues. Here is how you turn on **WLAN AutoConfig**:
@@ -170,8 +167,9 @@ thumbnail: https://thmb.techidaily.com/94567bf4df3b715033d93123bd31d8eb4bb0ab79d
 5. Click **Apply > OK** to save the new changes.
 
 ![WLAN service in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/wlan-service-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Windows 10 needs more than one service for the Wi-Fi networks to work properly. Here is a list of services you need to check and make sure they are running:
@@ -194,6 +192,10 @@ thumbnail: https://thmb.techidaily.com/94567bf4df3b715033d93123bd31d8eb4bb0ab79d
 
  If you decide to set a new number of DHCP users, you will have to check the manufacturer’s site for detailed instructions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## No More Undetectable Wi-Fi Networks on Windows
 
  While this is a frustrating problem, you can easily fix it by following our guide. As we discussed, you can start by checking the settings on your computer. If this didn’t work, you can move on to configuring the settings on your Wi-Fi router.
@@ -204,8 +206,6 @@ thumbnail: https://thmb.techidaily.com/94567bf4df3b715033d93123bd31d8eb4bb0ab79d
 
  No matter the problem, we will walk you through the Wi-Fi troubleshooting process so you can get back online as quickly as possible.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -213,5 +213,23 @@ thumbnail: https://thmb.techidaily.com/94567bf4df3b715033d93123bd31d8eb4bb0ab79d
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-decoding-the-underlying-messages-in-snapchats-symbolic-language-for-2024/"><u>[New] Decoding the Underlying Messages in Snapchat's Symbolic Language for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/deal-free-resources-to-start-a-youtube-channel/"><u>[New] Ideal Free Resources to Start a YouTube Channel</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-universal-synchronization-zoom-on-phones-tablets-pcs-all/"><u>[New] Universal Synchronization Zoom on Phones, Tablets, PCs All</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-from-your-apple-iphone-11-pro-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password From your Apple iPhone 11 Pro</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-process-of-fixing-disabled-hard-drive-on-your-windows-11-pc/"><u>Mastering the Process of Fixing Disabled Hard Drive on Your Windows 11 PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfecting-papyrus-best-note-taking-tabs-in-windows/"><u>Perfecting Papyrus: Best Note-Taking Tabs in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/personalize-window-11s-system-monitor-screen/"><u>Personalize Window 11'S System Monitor Screen</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-access-to-windows-photos-functions-via-shortcuts/"><u>Quick Access to Windows Photos Functions via Shortcuts</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinvigorating-deactivated-alerts-of-phone-link-app-in-windows/"><u>Reinvigorating Deactivated Alerts of Phone Link App in Windows</u></a></li>
+<li><a href="https://win-tips.techidaily.com/revamp-your-evenings-with-cutting-edge-karaoke-subscriptions-dive-into-a-world-of-virtual-performances-and-cloud-dj-picks/"><u>Revamp Your Evenings with Cutting-Edge Karaoke Subscriptions – Dive Into a World of Virtual Performances & Cloud DJ Picks!</u></a></li>
+<li><a href="https://windows11.techidaily.com/taking-control-a-comprehensive-guide-to-touchpad-adjustment-on-windows-11/"><u>Taking Control: A Comprehensive Guide to Touchpad Adjustment on Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-definitive-guide-to-biometrics-and-its-revolutionary-applications/"><u>The Definitive Guide to Biometrics and Its Revolutionary Applications</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-role-and-design-of-instagram-story-segments/"><u>The Role and Design of Instagram Story Segments</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-harnessing-powertoys-10-must-knows/"><u>The Ultimate Guide to Harnessing PowerToys' 10 Must-Knows</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-lenovo-keyboard-issues-solutions-and-fixes/"><u>Troubleshooting Lenovo Keyboard Issues: Solutions and Fixes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mova-vi-avi/"><u>オンラインでのストレートフォルダ MOVA VI AVIコンバーター - 無料版</u></a></li>
+</ul></div>
 

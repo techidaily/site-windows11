@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting LSA Problem in Windows XP/Vista
-date: 2025-01-18T18:35:32.504Z
-updated: 2025-01-22T17:30:15.480Z
+date: 2025-01-24T03:06:11.831Z
+updated: 2025-01-30T04:22:30.068Z
 tags:
   - windows10
   - windows11
@@ -31,13 +31,13 @@ thumbnail: https://thmb.techidaily.com/2df210d64d34d4b3dc09759541c3c9d53d18577f1
 
  This error is usually triggered when Windows attempts to enable Local Security Authority (LSA) protection and fails. In some cases, the error may also appear after you enabled LSA protection and restarted your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart Your PC
 
  As the error message suggests, you first restart your Windows system. This minor step can fix several system-level errors and is worth a try. Restarting your computer involves shutting down all running programs and starting it up again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Scan for Malicious Programs
 
@@ -52,14 +52,10 @@ thumbnail: https://thmb.techidaily.com/2df210d64d34d4b3dc09759541c3c9d53d18577f1
 ![Full Scan Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/full-scan-windows-security.jpg)
 5. Select **Full scan** and click **Scan now**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now wait for the scan to finish. If malicious programs are detected, Windows Security will remove them from your system automatically.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Change the Group Policy Settings
@@ -78,12 +74,16 @@ Administrative Templates > System > Local Security Authority
 6. Now, in the window that appears, alter the settings from **Not Configured** to **Enabled**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Under the Options section, click the drop-down menu for **Configure LSASS to run as a protected process** and select **Enabled with UEFI Lock**.  
 ![Set as Enabled with UEFI Lock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-as-enabled-with-uefi-lock.jpg)
 8. Now click **Apply > OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After making the above changes, restart your computer and check if the error is resolved.
 
@@ -107,7 +107,7 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
  Once you're done, close the Registry Editor and restart your computer. This should fix the problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Reset the Windows Security App
@@ -147,24 +147,15 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-virtual-realms-at-your-fingertips-the-1-list-of-immersive-vr-streamers-for-pc/"><u>[Updated] In 2024, Virtual Realms at Your Fingertips The #1 List of Immersive VR Streamers for PC</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-the-art-of-bulk-video-import-on-tiktok/"><u>[Updated] Mastering the Art of Bulk Video Import on TikTok</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-video-production-pro-tips-incorporating-audio-into-youtube-content/"><u>[Updated] Video Production Pro Tips Incorporating Audio Into YouTube Content</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-absence-of-file-notifications-in-windows-11/"><u>Fixing Absence of File Notifications in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-adobe-photoshop-2021-2023-not-opening-on-windows-10-and-11/"><u>How to Fix Adobe Photoshop 2021-2023 Not Opening on Windows 10 & 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/leveraging-powershell-to-gauge-file-sizes-in-os/"><u>Leveraging PowerShell to Gauge File Sizes in OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/lockscreen-bypass-for-projector-mode-in-windows-11/"><u>Lockscreen Bypass for Projector Mode in WIndows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/procurement-primer-essential-considerations-for-laptop-shoppers/"><u>Procurement Primer: Essential Considerations for Laptop Shoppers</u></a></li>
-<li><a href="https://windows11.techidaily.com/proven-methods-to-uncover-the-hidden-mac-addresses-on-windows-11/"><u>Proven Methods to Uncover the Hidden MAC Addresses on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-start-windows-os-on-your-playstation-steam-device/"><u>Quick Start: Windows OS on Your PlayStation Steam Device</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/quick-steps-installing-snapchat-on-macos/"><u>Quick Steps Installing Snapchat on macOS</u></a></li>
-<li><a href="https://win11.techidaily.com/reinstating-the-classic-windows-photo-viewer-in-windows-1111-os/"><u>Reinstating the Classic Windows Photo Viewer in Windows 11/11 OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/stability-in-app-placement-for-task-manager-users/"><u>Stability in App Placement for Task Manager Users</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-art-of-drafting-alluring-vlog-show-content-for-2024/"><u>The Art of Drafting Alluring Vlog Show Content for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/omplete-blueprint-for-exceptional-asmr-production-value/"><u>The Complete Blueprint for Exceptional ASMR Production Value</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-directx-installation-issues/"><u>Troubleshooting DirectX Installation Issues</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Apple iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/unleash-administrative-potential-with-advanced-task-management-in-win11/"><u>Unleash Administrative Potential with Advanced Task Management in Win11</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-stop-motion-like-a-pro-expert-tips-and-techniques-for-instagram-success/"><u>Updated 2024 Approved Stop Motion Like a Pro Expert Tips and Techniques for Instagram Success</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-mastery-guide-downloading-windows-movie-maker-6/"><u>[New] Mastery Guide Downloading Windows Movie Maker 6</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-w10-quick-recording-software/"><u>[Updated] In 2024, W10 Quick Recording Software</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/choosing-google-pixel-music-matches-online/"><u>Choosing Google Pixel Music Matches Online</u></a></li>
+<li><a href="https://windows11.techidaily.com/disregard-met-not-fulfilled-emblem-on-win11/"><u>Disregard Met Not Fulfilled Emblem on Win11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-incompatible-drivers-can-cause-ftdi-memory-verification-failure/"><u>How Incompatible Drivers Can Cause FTDI Memory Verification Failure</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-uninstall-oneself-avoiding-admin-restrictions-in-windows/"><u>How To Uninstall Oneself: Avoiding Admin Restrictions in WINDOWS</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/navigating-your-literary-journey-with-amazon-kindle-paperwhite-7th-gen-a-complete-review-for-book-enthusiasts/"><u>Navigating Your Literary Journey with Amazon Kindle Paperwhite (7Th Gen): A Complete Review for Book Enthusiasts</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-create-intro-with-legend-intro-maker/"><u>New In 2024, How to Create Intro with Legend Intro Maker</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-lessening-high-cpu-demand-from-tiworkerexe-tasks/"><u>Strategies for Lessening High CPU Demand From TiWorker.exe Tasks</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-essential-gratis-tools-for-windows-11-enthusiasts/"><u>Top Essential Gratis Tools for Windows 11 Enthusiasts</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Transform Your Photos: Innovative Erase on Windows"
-date: 2025-01-15T16:02:49.910Z
-updated: 2025-01-22T16:03:10.126Z
+date: 2025-01-25T21:02:00.600Z
+updated: 2025-01-29T20:44:23.214Z
 tags:
   - windows10
   - windows11
@@ -21,18 +21,10 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * ![Screenshot highlighting the Edit button in the Windows Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/edit-button-on-the-windows-photos-app-1.jpg)  
  Windows Photos' Generative Erase easily removes objects from images for free on Windows PCs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * The Erase tool is available on the Windows Photos app in version 2024.11020.21001.0 or higher.
 * While Google's Magic Eraser is more lenient with object selection, Windows Photos did better at replicating and adjusting the background.
@@ -40,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
  Removing objects from photos is easier than ever on a smartphone, but that's largely limited to Pixels, Samsung flagships, or a Google One subscription. While you might think doing so requires expensive software on desktop, the Photos app on Windows is all you need to remove unwanted elements from an image. It's easily accessible, free, and is pretty great!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is Windows Photos Generative Erase?
@@ -56,22 +48,30 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
 ![Screenshot highlighting the Edit button in the Windows Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/edit-button-on-the-windows-photos-app-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click the **Edit** button in the top bar and select **Erase**. If you want to get granular with your edit, you can adjust the brush size and zoom in on the picture.
 
 ![Erase button in the Edit tool in the Windows Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/erase-button-in-the-edit-tool.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The **Auto Erase** toggle is enabled by default and erases objects as you go. To erase multiple objects, toggle off **Auto Erase**, use the brush to highlight everything you want to remove, and then tap **Erase**.
 
 ![Using the Erase tool on Windows Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/using-the-erase-tool-on-windows-photos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You have to be precise with the brush tool, but the option to adjust the size makes highlighting objects relatively easy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is Generative Erase on Windows Photos Any Good?
 
@@ -104,18 +104,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-a-symphony-of-streams-harmonizing-your-multiple-youtube-views/"><u>[New] 2024 Approved A Symphony of Streams Harmonizing Your Multiple YouTube Views</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-filmmakers-choice-selecting-perfect-lenses-for-youtube-creation/"><u>2024 Approved Filmmaker's Choice Selecting Perfect Lenses for YouTube Creation</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mp3m4a-movavi/"><u>在线MP3到M4A无偿转换：如何利用 Movavi 编解码器</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/getting-started-with-pokemon-unite-for-windowsmac-users-a-detailed-walkthrough/"><u>Getting Started with Pokémon Unite for Windows/Mac Users: A Detailed Walkthrough</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-deskjet-2700-inkjet-printer-driver-software-latest-version-free-download/"><u>HP DeskJet 2700 Inkjet Printer Driver Software - Latest Version Free Download</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-zero-cost-mp3-the-skype-recording-method/"><u>In 2024, Zero-Cost MP3 The Skype Recording Method</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-repair-of-windows-hyper-v-error-0x8009030e/"><u>Mastering the Repair of Windows Hyper-V Error 0X8009030E</u></a></li>
-<li><a href="https://windows11.techidaily.com/record-games-like-a-pro-with-windows-and-intels-command-center/"><u>Record Games Like a Pro with Windows & Intel's Command Center</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedy-for-color-discrepanenas-of-store-interface/"><u>Remedy for Color Discrepanenas of Store Interface</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-honor-x50-gt-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Honor X50 GT Phone Pattern Lock</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-obs-errors-unknown-failure-recorded/"><u>Troubleshooting OBS Errors: Unknown Failure Recorded</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-microsoft-store-app-in-windows-11-os/"><u>Unlocking Microsoft Store App in Windows 11 OS</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/webm-mp4/"><u>오독으로 WebM Mp4 파일 구조를 제거하는 방법 - 무료 안내서</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-complete-beginners-guide-to-utilizing-look-up-tables-luts/"><u>[New] The Complete Beginner’s Guide to Utilizing Look-Up Tables (LUTs)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-method-to-identify-recent-instagram-unfollows-for-2024/"><u>[Updated] Method to Identify Recent Instagram Unfollows for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-discover-ultra-hd-mastering-the-art-of-buying-a-4k-monitor/"><u>2024 Approved Discover Ultra HD Mastering the Art of Buying a 4K Monitor</u></a></li>
+<li><a href="https://blog-min.techidaily.com/comparing-avi-and-mp4-formats-which-one-is-superior-discover-the-key-differences/"><u>Comparing AVI and MP4 Formats: Which One Is Superior? Discover the Key Differences</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/convert-your-collections-of-photos-or-graphics-into-a-single-pdf-for-free-efficient-image-to-pdf-conversion-by-expert-software/"><u>Convert Your Collections of Photos or Graphics Into a Single PDF for Free - Efficient Image to PDF Conversion by Expert Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/cure-for-hidden-second-display-on-w11/"><u>Cure for Hidden Second Display on W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-inoperative-drive-not-detected-by-os/"><u>Fixing Inoperative Drive Not Detected by OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-for-fixing-nvidia-gui-sharing-glitches/"><u>Guide for Fixing NVIDIA GUI Sharing Glitches</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-samsung-galaxy-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-mend-the-destructive-js-error-in-discord-on-win-11-pcs/"><u>How to Mend the Destructive JS Error in Discord on Win 11 PCs</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-xr-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone XR to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-iphone-15-5-ways-to-get-into-a-locked-iphone-15-drfone-by-drfone-ios/"><u>In 2024, Locked Out of iPhone 15? 5 Ways to get into a Locked iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-troubleshooting-overcoming-error-e84-on-steam/"><u>Mastering the Art of Troubleshooting: Overcoming Error E84 on Steam</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-steam-setup-obstacles-on-windows-11-devices/"><u>Overcoming Steam Setup Obstacles on Windows 11 Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-offline-errors-for-windows-11s-printer-port/"><u>Resolving Offline Errors for Windows 11'S Printer Port</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/social-media-snipping-an-easy-method-for-capturing-twitters-gifs-for-2024/"><u>Social Media Snipping An Easy Method for Capturing Twitter’s GIFs for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-to-open-adobe-ps-in-w11-after-updates/"><u>Step-by-Step to Open Adobe PS in W11 After Updates</u></a></li>
+<li><a href="https://windows11.techidaily.com/swiftly-overcoming-disruptions-after-a-windows-update/"><u>Swiftly Overcoming Disruptions After a Windows Update</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Vivo S18? | Dr.fone</u></a></li>
 </ul></div>
 

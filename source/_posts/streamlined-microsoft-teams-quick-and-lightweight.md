@@ -1,7 +1,7 @@
 ---
 title: "Streamlined Microsoft Teams: Quick & Lightweight"
-date: 2025-01-15T16:10:54.684Z
-updated: 2025-01-22T16:19:31.906Z
+date: 2025-01-26T17:06:20.750Z
+updated: 2025-01-29T23:33:25.999Z
 tags:
   - windows10
   - windows11
@@ -25,13 +25,13 @@ thumbnail: https://thmb.techidaily.com/3b3b313aac4422406d268b9ec86a52f71522ac5df
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s New in the Microsoft Teams Desktop App?
 
 ![new teams Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/new-teams-windows-11.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The new Teams app for the desktop comes with a minor design overhaul. It features a new color scheme and some modifications to the UI, making it easier to navigate. The header features a toggle switch to seamlessly switch between the Classic and new Teams interface.
 
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/3b3b313aac4422406d268b9ec86a52f71522ac5df
  Another significant change is the introduction of the new architecture. Microsoft Teams has now fully transitioned from AngularJS to React for its web development framework needs. Where Fluent UI’s UX controls provide standardized common component support, WebView2 replaces Electron as the rendering engine for the app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other Features That Boost Collaboration and Productivity in Teams
@@ -54,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/3b3b313aac4422406d268b9ec86a52f71522ac5df
  Apart from these, Microsoft also plans to bring some new features later this year, including third-party and Line-of-Business(LOB) apps support and advanced calling and meeting feature.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Try the Teams Public Preview
@@ -62,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/3b3b313aac4422406d268b9ec86a52f71522ac5df
 ![Microsoft teams update policies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microsoft-teams-update-policies.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The new Teams is only available as a public preview build and is available for commercial users now. While the company plans to bring it to Education and platforms like VDI and web later this year, here’s how to set an Update policy and enable Teams public preview for organizations.
@@ -82,7 +82,7 @@ To set the Update policy and enable public preview:
  To enable new Teams, launch the app and toggle the**new Teams** switch to starting using the latest iteration of Teams. You can switch between the classic and new Teams app without restrictions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Teams is Now More Efficient and Faster
@@ -106,24 +106,17 @@ To set the Update policy and enable public preview:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-your-vlogging-mastering-tripod-angles-and-positions/"><u>[New] In 2024, Elevate Your Vlogging Mastering Tripod Angles and Positions</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-top-5-mac-voice-capture-apps-compiling-peak-performances/"><u>[New] In 2024, Top 5 Mac Voice Capture Apps Compiling Peak Performances</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-reigning-over-micro-drones-the-dji-spark-breakdown-for-selfies/"><u>[Updated] 2024 Approved Reigning Over Micro Drones The DJI Spark Breakdown for Selfies</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-unlocking-the-mysteries-of-proper-youtube-channel-monetization/"><u>[Updated] 2024 Approved Unlocking the Mysteries of Proper YouTube Channel Monetization</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-brief-cinematic-chronicle/"><u>[Updated] In 2024, Brief Cinematic Chronicle</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-strategies-to-fix-x3daudiodll-missing-from-your-system/"><u>Expert Strategies to Fix x3daudio.dll Missing From Your System</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-honor-play-8t-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Honor Play 8T | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/less-is-more-compact-view-strategies-for-windows-11/"><u>Less Is More: Compact View Strategies for Windows 11</u></a></li>
-<li><a href="https://driver-download.techidaily.com/protect-your-system-trustworthy-canon-mg3620-printer-driver-downloads/"><u>Protect Your System - Trustworthy Canon MG3620 Printer Driver Downloads</u></a></li>
-<li><a href="https://windows11.techidaily.com/resetting-and-restoring-sync-in-the-microsoft-to-do-application/"><u>Resetting & Restoring Sync in the Microsoft To-Do Application</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-visual-problems-with-windows-graphics-driver/"><u>Resolving Visual Problems with Windows Graphics Driver</u></a></li>
-<li><a href="https://windows11.techidaily.com/speed-up-task-managers-dynamic-display-in-windows-11/"><u>Speed up Task Manager's Dynamic Display in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-sticky-notebook-convergence-on-win11/"><u>Streamlining Sticky Notebook Convergence on Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/techniques-to-address-unresponsive-back-space-button/"><u>Techniques to Address Unresponsive Back Space Button</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-8-methods-for-accessing-iis-manager/"><u>Top 8 Methods for Accessing IIS Manager</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-how-runtime-brokers-affect-system-performance/"><u>Understanding How Runtime Brokers Affect System Performance</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlock-a-fresh-start-with-these-steam-game-tips/"><u>Unlock a Fresh Start with These Steam Game Tips</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlock-android-gameplay-on-windows-11-with-googles-platform/"><u>Unlock Android Gameplay on Windows 11 with Google's Platform</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-melody-matters-device-reviews/"><u>[New] 2024 Approved Melody Matters Device Reviews</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-key-to-cinematic-excellence-mastering-the-art-of-shooting-stunning-slow-motion-media-on-instagram/"><u>[New] 2024 Approved The Key to Cinematic Excellence Mastering the Art of Shooting Stunning Slow-Motion Media on Instagram</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-sliding-to-victory-celebrating-the-best-in-snowboard-cross-winter-games-22/"><u>[New] In 2024, Sliding to Victory Celebrating the Best in Snowboard Cross, Winter Games '22</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-aimp-pro-streaming-enhancer-without-wmsp/"><u>[Updated] In 2024, AIMP Pro Streaming Enhancer Without WMSP</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fast-track-fixes-swift-update-process-for-wacom-intuos-graphics-device/"><u>Fast-Track Fixes: Swift Update Process for Wacom Intuos Graphics Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixed-your-input-not-recognized-windows-vlc-error/"><u>Fixed: Your Input Not Recognized – Windows VLC Error</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-5-ways-to-download-facebook-story-on-desktop-and-mobile/"><u>In 2024, 5 Ways to Download Facebook Story on Desktop and Mobile</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-memetic-masterpieces-behind-the-photo/"><u>In 2024, Memetic Masterpieces Behind the Photo</u></a></li>
+<li><a href="https://windows11.techidaily.com/leverage-full-power-of-windows-11-today/"><u>Leverage Full Power of Windows 11 Today</u></a></li>
+<li><a href="https://windows11.techidaily.com/new-assistant-horizons-after-cortanas-exit/"><u>New Assistant Horizons After Cortana's Exit</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-executable-and-linker-format-a-brief-guide/"><u>Windows' Executable & Linker Format: A Brief Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnet-reviews-how-the-ecoflow-river-3-stands-out-as-an-exceptional-portable-battery-for-newcomers-in-power-storage-technology/"><u>ZDNet Reviews: How the EcoFlow River 3 Stands Out as an Exceptional Portable Battery for Newcomers in Power Storage Technology</u></a></li>
 </ul></div>
 

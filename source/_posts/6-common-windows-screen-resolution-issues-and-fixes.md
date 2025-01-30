@@ -1,7 +1,7 @@
 ---
 title: 6 Common Windows Screen Resolution Issues and Fixes
-date: 2024-08-15T15:20:55.274Z
-updated: 2024-08-16T15:20:55.274Z
+date: 2025-01-27T18:34:55.899Z
+updated: 2025-01-29T18:21:38.601Z
 tags:
   - windows10
   - windows11
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
  Press **Win + I** to launch Settings and navigate to **System > Display**. Click on the drop-down menu next to **Display Resolution** and select the recommended option from the list.
 
 ![changing resolution from settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/settings-resolution.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Incorrect App-Specific Settings
 
@@ -58,20 +62,19 @@ msdt.exe -id DeviceDiagnostic
 ![The Hardware and Devices troubleshooter command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hardware-troubleshooter-command.jpg)
 5. In the following dialog, click **Next** and wait for the troubleshooter to scan the system. If it finds an issue, it will notify you and suggest a fix. In that case, click on **Apply this fix**.  
 ![Run the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-hardware-and-devices-troubleshooter.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Faulty or Corrupt Display Drivers
 
  Drivers are necessary for your hardware to function properly. If your display driver is corrupt or outdated, it could lead to a problem with your display. Fortunately, it's easy to update the display or graphics driver. Below, we walk you through the steps of both updating and reinstalling drivers in detail.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Update Drivers
 
  Press **Win + R**, type **devmgmt.msc**, and press **Enter** to launch Device Management. Expand the category called **Display adapters** by clicking on the tiny arrow to its left. Right-click on the display adapter you want to update and select **Update driver**.
@@ -83,9 +86,6 @@ msdt.exe -id DeviceDiagnostic
  To use the second option, you'll need to first download driver installation files from the manufacturer's website. When you're done, add the driver folder's location in the wizard and follow the wizard's prompts.
 
 ![updating the drivers manually](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/update-manual.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ### Rollback or Reinstall Drivers
 
@@ -94,6 +94,10 @@ msdt.exe -id DeviceDiagnostic
  You'll first need to check if the option to roll back is available. You can do this by clicking on the relevant device and selecting properties. Switch to the **Driver** tab and select **Roll Back Driver**. If the option isn't grayed out, it's available. Click on it and follow the on-screen prompts to roll back the driver.
 
 ![rolling back the driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/roll-back-driver.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Finally, if updating the driver or rolling it back to a previous version has not worked for you, you can consider reinstalling the driver using the manufacturer's website. Follow the steps in our guide on [cleanly installing and reinstalling GPU drivers on Windows](https://www.makeuseof.com/how-to-cleanly-install-and-reinstall-gpu-drivers-on-windows/) for step-by-step instructions on this.
 
@@ -108,8 +112,9 @@ msdt.exe -id DeviceDiagnostic
 ![changing the display mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/display-mode.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Incorrect Font and Icon Sizes
 
  If you've set the correct resolution, but the text and icons on your screen appear too small, you might consider [tweaking the DPI](https://www.makeuseof.com/how-to-configure-display-scaling-windows-10/) (Dots Per Inch). Usually, this happens on small-sized high-resolution screens, like a 4K screen 15.6-inch.
@@ -119,20 +124,16 @@ msdt.exe -id DeviceDiagnostic
  You can change DPI scaling by going to Settings and navigating to **System > Display**. Click on the right arrow next to Custom scaling. On the next screen, you'll see a box where you need to enter a number between 100 and 500\. That's the percentage for DPI scaling you'd like to use.
 
 ![changing DPI scaling on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/custom-scaling.jpg)
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Windows Resolution Issues Resolved
 
  Hopefully, you were able to identify the issue and fix it. If you're facing a resolution issue while gaming, you might be tempted to choose the highest resolution from within the game. However, for you to be able to run the game at that resolution, your hardware will need to support it. It's best to get a basic idea of the best gaming resolution for your PC before you change it.
 
  Regardless of the reason for your viewing perils, we're going to help troubleshoot the display issue, so you can go back to enjoying high-quality viewing. We'll talk about the problems that can lead to a screen resolution issue and how you can fix them.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -141,5 +142,26 @@ msdt.exe -id DeviceDiagnostic
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-directly-embedding-google-meet-in-youtubes-video-library/"><u>[New] In 2024, Directly Embedding Google Meet in YouTube's Video Library</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-zoom-excellence-key-steps-to-maximize-video-format-shifts/"><u>[New] In 2024, Zoom Excellence Key Steps to Maximize Video Format Shifts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-mindful-moments-elite-yoga-routines-for-serenity/"><u>[Updated] In 2024, Mindful Moments Elite Yoga Routines for Serenity</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/assessing-if-sns-hdr-deserves-your-investment-time-for-2024/"><u>Assessing If SNS HDR Deserves Your Investment Time for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/best-practices-for-documenting-ps4-gameplay-for-2024/"><u>Best Practices for Documenting PS4 Gameplay for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-solutions-for-dealing-with-total-disk-use-saturation-on-windows-11-systems/"><u>Effective Solutions for Dealing with Total Disk Use Saturation on Windows 11 Systems</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/essential-list-critical-6-fb-lite-downloads-for-2024/"><u>Essential List Critical 6 FB Lite Downloads for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-meizu-21-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Meizu 21 Phone without Any Data Loss</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-quickest-photo-scanner-in-windows-land/"><u>In 2024, Quickest Photo Scanner in Windows Land</u></a></li>
+<li><a href="https://windows11.techidaily.com/microsoft-launches-advanced-ai-driven-search-tool-comprehensive-guide-and-recall-details/"><u>Microsoft Launches Advanced AI-Driven Search Tool: Comprehensive Guide and Recall Details</u></a></li>
+<li><a href="https://windows11.techidaily.com/my-top-pick-the-understated-notepad-application-for-windows-users/"><u>My Top Pick: The Understated Notepad Application for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/nvidias-leap-into-the-future-my-5-anticipated-benefits-of-their-innovative-arm-chip/"><u>NVIDIA's Leap Into the Future: My 5 Anticipated Benefits of Their Innovative ARM Chip</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-file-explorer-from-windows-10-on-your-new-windows-11-pc/"><u>Reviving File Explorer From Windows 10 on Your New Windows 11 PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-correcting-your-laptopmonitor-displays-persistent-yellow-discoloration/"><u>Step-by-Step Guide: Correcting Your Laptop/Monitor Display's Persistent Yellow Discoloration</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-tutorial-for-restoring-functionality-of-a-nonworking-wireless-mouse-on-windows-11-systems/"><u>Step-by-Step Tutorial for Restoring Functionality of a Nonworking Wireless Mouse on Windows 11 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-tutorial-how-to-extract-music-from-cds-using-windows-software/"><u>Step-by-Step Tutorial: How to Extract Music From CDs Using Windows Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-creative-process-behind-developing-the-famous-3d-pipes-windows-screensaver/"><u>The Creative Process Behind Developing the Famous 3D Pipes Window's Screensaver</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-enduring-legacy-of-windows-xp-why-theres-no-successor/"><u>The Enduring Legacy of Windows XP - Why There's No Successor</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/wowowpc/"><u>WOWOWオンデマンド対象番組PCで記録・安全に保管する詳しい手順</u></a></li>
+</ul></div>
 

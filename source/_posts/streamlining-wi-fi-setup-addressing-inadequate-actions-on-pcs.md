@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Wi-Fi Setup: Addressing Inadequate Actions on PCs"
-date: 2025-01-20T17:35:00.540Z
-updated: 2025-01-22T18:48:02.527Z
+date: 2025-01-28T04:22:13.379Z
+updated: 2025-01-29T17:13:38.969Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/0244557d86d8e1a27dc054dedba4a1385b1696e50
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Disable the NCSI Probe From Windows Registry
@@ -54,6 +54,10 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 4. Choose **New** \> **DWORD (32-bit) Value** and rename it as **NoActiveProbe**.  
 ![NoActiveProbe key in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/no-active-probe.jpg)
 5. Double-click on this newly created value and change its value data to 1\.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Now, create another value the same way and name it as DisablePassivePolling.
 7. Double-click on **DisablePassivePolling** and change its value data to 1 as well.  
@@ -84,7 +88,7 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 9. Choose **Enabled** and click **Apply** \> **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 10. Close the Group Policy Editor and restart your computer.
@@ -92,7 +96,7 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
  Hopefully, upon reboot, the issue will no longer appear.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Run the Internet Connection Troubleshooter
@@ -107,10 +111,6 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 4. You should now be able to see a list of troubleshooters offered by Windows. Locate the Internet connection troubleshooter and click on the **Run** button for it.  
 ![Internet Connection Troubleshooter in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/internet-connection-troubleshooter.jpg)
 5. Wait for the troubleshooter to complete its scan and once done, check if a problem is identified. If it is, click on the **Apply this fix** option. You can also apply a solution manually.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. In case the troubleshooter fails to identify the culprit, click on **Close the troubleshooter** option and move to the next method below.
 
@@ -127,13 +127,13 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 ![Choose what the power button does option of Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/choose-what-the-power-button-does.jpg)
 5. Choose **Change settings that are currently unavailable** and navigate to the Shutdown settings option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Uncheck the box associated with **Turn on fast startup (recommended)**.  
 ![Disable Fast Startup on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disable-fast-startup-on-windows.jpg)
 7. Click on the **Save changes** button and exit Control Panel. Check if the issue is now resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Try These Additional Generic Fixes
 
@@ -159,16 +159,16 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-sequence-length-in-seconds-of-20mb-media/"><u>[New] 2024 Approved Sequence Length in Seconds of 20MB Media</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-ais-pioneering-role-in-generating-podcast-names/"><u>[Updated] 2024 Approved AI's Pioneering Role in Generating Podcast Names</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/data-recovery-recover-lost-data-from-redmi-12-by-fonelab-android-recover-data/"><u>Data Recovery – recover lost data from Redmi 12</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Honor X8b? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/exclusive-w10w11-climate-software-roundup/"><u>Exclusive W10/W11 Climate Software Roundup</u></a></li>
-<li><a href="https://windows11.techidaily.com/five-key-insights-into-how-win11-tracks-your-life/"><u>Five Key Insights Into How Win11 Tracks Your Life</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-oppo-a78-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Oppo A78 FRP In 3 Different Ways</u></a></li>
-<li><a href="https://windows11.techidaily.com/quelling-the-flashing-phenomenon-windows-guide/"><u>Quelling the Flashing Phenomenon: Windows Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/realigning-disabled-menu-items-on-windows-10-and-11-pcs/"><u>Realigning Disabled Menu Items on Windows 10 & 11 PCs</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/sparkle-in-the-spotlight-personalized-logos-made-easy-and-free/"><u>Sparkle in the Spotlight Personalized Logos Made Easy & Free</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/1716464797054-the-essential-guide-to-early-success-on-youtube-steer-clear-of-these-top-8-pitfalls/"><u>The Essential Guide to Early Success on YouTube Steer Clear of These Top 8 Pitfalls!</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-speedy-tiktok-video-performance-a-step-by-step-plan-for-2024/"><u>[New] Speedy TikTok Video Performance A Step-by-Step Plan for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-social-media-broadcast-battle-facebook-vs-youtube-and-twitvision/"><u>[Updated] In 2024, Social Media Broadcast Battle FACEbook Vs. YOUTube & TWITVision</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-and-job-hunting-top-10-linkedin-techniques-to-improve-your-career-prospects/"><u>ChatGPT & Job Hunting: Top 10 LinkedIn Techniques to Improve Your Career Prospects</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-free-computing-eliminate-cannot-access-device-path-in-windows/"><u>Error-Free Computing: Eliminate 'Cannot Access Device Path' In Windows</u></a></li>
+<li><a href="https://win-tips.techidaily.com/guia-paso-a-paso-para-actualizarreparar-windows-10-o-11-usando-el-simbolo-del-sistema/"><u>Guía Paso a Paso Para Actualizar/Reparar Windows 10 O 11 Usando El Símbolo Del Sistema</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Gionee F3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinstating-windows-print-management-after-a-failure/"><u>Reinstating Windows Print Management After a Failure</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-enabling-grammarly-offline-mode-windows/"><u>Steps for Enabling Grammarly Offline Mode Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/subtle-security-concealing-archives-inside-digital-images/"><u>Subtle Security: Concealing Archives Inside Digital Images</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-oneplus-11r-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any OnePlus 11R Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/validate-your-devices-compatibility-with-win11/"><u>Validate Your Device's Compatibility with Win11</u></a></li>
 </ul></div>
 

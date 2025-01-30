@@ -1,7 +1,7 @@
 ---
 title: "Avoid Errors: Manage Deps for VirtualBox on Windows"
-date: 2024-08-15T15:21:19.845Z
-updated: 2024-08-16T15:21:19.845Z
+date: 2025-01-26T18:55:30.384Z
+updated: 2025-01-30T00:10:15.076Z
 tags:
   - windows10
   - windows11
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/d4b0aeca5fbcd6a1a79d8f267934da7fc9e25344d
 
 ![VirtualBox download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/01-virtualbox-download-page.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Before you install VirtualBox, you must install these packages:
 
 * Microsoft Visual C++ 2019 Redistributable Package
@@ -35,13 +39,25 @@ thumbnail: https://thmb.techidaily.com/d4b0aeca5fbcd6a1a79d8f267934da7fc9e25344d
 
 ![Popup window in VirtualBox asks for Visual C++ Redistributable Package](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/02-popup-window-in-virtualbox-asks-for-visual-c-redistributable-package-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![VirtualBox window displays the need for Missing Dependencies Python Core win32api](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/03-virtualbox-window-displays-the-need-for-missing-dependencies-python-core-win32api.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  If you try to continue the installation of VirtualBox without meeting the dependencies, the installation will end up in an error and show the following error message:
 
 ![VirtualBox Installation failed! Fatal error during installation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/04-virtualbox-installation-failed-fatal-error-during-installation.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Install Visual C++ Redistributable on Windows
 
@@ -50,34 +66,23 @@ Close
 ![Microsoft Visual C++ Redistributable download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/05-microsoft-visual-c-redistributable-download-page.jpg)
 
 ![Microsoft Visual C++ Redistributable download choose architechture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/06-microsoft-visual-c-redistributable-download-choose-architechture.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ![Microsoft Visual C++ Redistributable installation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/07-microsoft-visual-c-redistributable-installation.jpg)
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## How to Install and Configure Python / win32api on Windows
 
  Python is another dependency for VirtualBox. You can download it from the official [Python website](https://www.python.org/downloads/).
 
 ![Download Python win32api for Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/08-download-python-win32api-for-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 
  Once downloaded, start the installation. You need to check **Add python.exe to PATH**, and complete the installation. When added to PATH, Python packages and scripts can be accessed from any directory. Complete the installation.
 
 ![Install Python win32api for Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/09-install-python-win32api-for-windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, configure Python for Win32 extensions. It provides access to Windows APIs from Python. To do this, open the Command Prompt or PowerShell as administrator and run the command:
@@ -85,16 +90,13 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 `pip install pywin32`
 
 ![Command to install pywin32 in WIndows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/10-command-to-install-pywin32-in-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 
  Your computer has now met all the dependencies to install VirtualBox.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Error Free Installation of VirtualBox on Windows
 
  Start the installation of VirtualBox, and it will complete without any errors. Browse the following images for reference:
@@ -102,14 +104,8 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Install VirtualBox in WIndows using the wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/11-install-virtualbox-in-windows-using-the-wizard.jpg)
 
 ![Install VirtualBox in WIndows custom setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/12-install-virtualbox-in-windows-custom-setup.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ![Install VirtualBox in WIndows network interfaces warning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/13-install-virtualbox-in-windows-network-interfaces-warning.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Install VirtualBox in WIndows ready to install](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/14-install-virtualbox-in-windows-ready-to-install.jpg)
 
@@ -119,6 +115,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 Close
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Run a Guest Operating System of Your Choice via VirtualBox
 
  With its simple interface and impressive features, VirtualBox is a strong contender among virtualization applications.
@@ -127,8 +127,6 @@ Close
 
  Visual C++ Redistributable is a straightforward installation, it is not the same case with Python as it requires configuring as well. The good thing is it is easy to do.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -136,5 +134,16 @@ Close
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/everaging-youtubes-profit-potential-the-500-subscribers-gateway/"><u>[New] Leveraging YouTube's Profit Potential The 500 Subscribers Gateway</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-ride-safely-leading-helmet-cams-reviewed-for-motorcycling/"><u>[Updated] In 2024, Ride Safely Leading Helmet Cams Reviewed for Motorcycling</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-update-or-reinstall-drivers-for-your-samsung-evo-850-ssd-step-by-step-instructions/"><u>How to Update or Reinstall Drivers for Your Samsung EVO 850 SSD – Step-by-Step Instructions</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/os-principais-programas-de-gravacao-fora-do-padrao-uma-comparacao-detalhada/"><u>Os Principais Programas De Gravação Fora Do Padrão: Uma Comparação Detalhada</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-common-windows-key-problems-including-the-enter-key/"><u>Overcoming Common Windows Key Problems, Including the Enter Key</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-app-malfunctions-7-effective-strategies/"><u>Overcoming Windows App Malfunctions: 7 Effective Strategies</u></a></li>
+<li><a href="https://windows11.techidaily.com/return-to-simplicity-using-icons-for-the-windows-11-search-bar/"><u>Return to Simplicity: Using Icons for the Windows 11 Search Bar</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/streamlined-playback-controlling-youtube-video-delivery-speeds/"><u>Streamlined Playback Controlling YouTube Video Delivery Speeds</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-beginners-guide-to-old-championship-manager/"><u>The Ultimate Beginner's Guide to Old Championship Manager</u></a></li>
+</ul></div>
 

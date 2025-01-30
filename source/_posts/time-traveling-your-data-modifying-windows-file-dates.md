@@ -1,7 +1,7 @@
 ---
 title: "Time Traveling Your Data: Modifying Windows File Dates"
-date: 2025-01-20T19:23:08.823Z
-updated: 2025-01-22T17:20:52.599Z
+date: 2025-01-23T17:52:41.503Z
+updated: 2025-01-29T21:08:26.640Z
 tags:
   - windows10
   - windows11
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/ecc3916e90aab64f99ff84f9c45d036bcf1e08682
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Change the Date Created, Date Accessed, and Date Modified Attributes Using PowerShell
 
  File Explorer doesn't allow changing critical attributes, such as the date a document was created, accessed, or modified. With [PowerShell, a command-line interface utility built into Windows](http://www.makeuseof.com/what-is-windows-powershell/), you can modify them.
@@ -43,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/ecc3916e90aab64f99ff84f9c45d036bcf1e08682
 
 ![Run windows powershell as administrator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/run-windows-powershell-as-administrator.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then, navigate to the directory where the file or folder you want to change the attributes of is located. Type **cd..** to move back one folder in the given path, and **cd folder\_name** to move to the next folder.
 
  For example, our desired folder is located at the following location:
@@ -52,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/ecc3916e90aab64f99ff84f9c45d036bcf1e08682
  However, in PowerShell, we were in the **"System 32"** subfolder of the main folder **"Windows**.**"** Therefore, to return to the main directory **"C**,**"** we've executed **cd..** twice. Then, we used the **cd folder\_name** command three times to get to the directory where we wanted to be.
 
 ![changing the directories in PowerShell on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/changing-directories.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Therefore, use both commands to reach the folder you want to modify attributes for. After landing in your desired directory, type the following command after inserting the file name and your preferred date of creation:
 
@@ -77,7 +73,7 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
 ![Showing dates of a file we are about to change in the properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/dates-of-a-file-we-are-about-to-change.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After changing them with PowerShell, here are the updated dates:
@@ -85,10 +81,6 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
 ![Date created and date modified of a file successfully changed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/date-created-and-date-modified-of-a-file-successfully-changed.jpg)
 
  Windows makes real-time changes to attributes. Therefore, don't modify or access the file after making changes since it will change the modified and accessed dates again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Modify the Date Created, Date Accessed, and Date Modified Using Attribute Changer
 
@@ -109,7 +101,7 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
 4. Once you've made your changes, click **Apply** to make them permanent.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click **Yes** in the confirmation pop-up, and the file attributes will be changed successfully.
@@ -117,6 +109,10 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
  In the same way that we changed the attributes of a file, you can also change the attributes of a folder using Attribute Changer.
 
  Using third-party tools to modify attributes requires you to grant apps permission to access the file. Therefore, if the documents you want to modify the dates for are confidential, don't use third-party apps to change the attributes; instead, use the official methods offered by Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Remove Other File Attributes Using File Explorer
 
@@ -131,6 +127,10 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
 
 ![Removing possible file attributes in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/removing-possible-file-attributes-in-file-explorer.jpg)
 6. To remove selected properties, check the circle beside **Remove the following properties from this file**, select the attributes you want to remove, and click **OK**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Modify Your File's Attributes With Ease
 
@@ -152,24 +152,18 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-step-by-step-guide-to-3d-text-effects-in-photos/"><u>[New] 2024 Approved Step-by-Step Guide to 3D Text Effects in PHOTOS</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-comprehensive-breakdown-vsco-photography-tools/"><u>[New] Comprehensive Breakdown VSCO Photography Tools</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-diminishing-excessive-encoding-obs-for-2024/"><u>[Updated] Diminishing Excessive Encoding (OBS) for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-airborne-awe-the-ultimate-list-of-staying-power-drones/"><u>2024 Approved Airborne Awe The Ultimate List of Staying Power Drones</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-vivid-storytelling-through-these-top-7-graders-strategies/"><u>2024 Approved Vivid Storytelling Through These Top 7 Graders' Strategies</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-windows-update-error-message-error-id-0x8007001f/"><u>Effective Fixes for Windows Update Error Message (Error ID: 0X8007001f)</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/t-roundup-of-platforms-for-video-intro-acquisition-for-2024/"><u>Expert Roundup of Platforms for Video Intro Acquisition for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-apple-airplay-is-revolutionizing-in-room-entertainment-for-guests-at-select-hotels-a-complete-breakdown/"><u>How Apple AirPlay Is Revolutionizing In-Room Entertainment for Guests at Select Hotels - A Complete Breakdown</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-reactivate-a-non-operational-lunar-client-in-os/"><u>How to Reactivate a Non-Operational Lunar Client in OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/keeping-calculator-top-displayed-in-windows/"><u>Keeping Calculator Top-Displayed in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-the-world-of-remote-device-collaboration-googlewindows/"><u>Navigating the World of Remote Device Collaboration: Google/Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/reestablishing-active-slack-signals-in-windows-11/"><u>Reestablishing Active Slack Signals in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/setting-up-microsofts-defender-on-edge-win-11-guide/"><u>Setting Up Microsoft's Defender on Edge: Win 11 Guide</u></a></li>
-<li><a href="https://article-posts.techidaily.com/sleek-60-second-fades-for-2024/"><u>Sleek 60-Second Fades for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/solo-system-imaging-techniques-for-win-users/"><u>Solo System Imaging Techniques for Win Users</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-nokia-c02-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Nokia C02 with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamline-your-browsing-with-mouse-gestures-in-microsoft-edge/"><u>Streamline Your Browsing with Mouse Gestures in Microsoft Edge</u></a></li>
-<li><a href="https://windows11.techidaily.com/subtlety-shifts-concealing-win-11s-control/"><u>Subtlety Shifts: Concealing Win 11'S Control</u></a></li>
-<li><a href="https://windows11.techidaily.com/tech-refresh-3000-revolutionary-windows-rebooting/"><u>Tech Refresh 3000: Revolutionary Windows Rebooting</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-elite-4-covert-content-retrievers/"><u>[New] In 2024, Elite 4 Covert Content Retrievers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-step-by-step-guide-mastering-zoom-on-a-windows-10-device/"><u>[New] Step-by-Step Guide Mastering Zoom on a Windows 10 Device</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pro-level-clarity-top-8k-cameras-for-the-ultimate-picture/"><u>[Updated] Pro-Level Clarity Top 8K Cameras for the Ultimate Picture</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-filmmakers-pathway-to-youtube-success-with-professional-360-video-edits/"><u>[Updated] The Filmmaker's Pathway to YouTube Success with Professional 360 Video Edits</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-guide-selecting-the-ideal-sites-and-techniques-for-trimming-tamil-melodies/"><u>2024 Approved Expert Guide Selecting the Ideal Sites & Techniques for Trimming Tamil Melodies</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/diminishing-volume-fl-masterclass-for-2024/"><u>Diminishing Volume FL Masterclass for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-conversion-tutorial-how-to-change-m4a-audio-to-mp3-via-google-search-engine-ffmpeg-cmd-line-instructions-included/"><u>Easy Conversion Tutorial: How to Change M4A Audio to MP3 via Google Search Engine - FFmpeg Cmd Line Instructions Included!</u></a></li>
+<li><a href="https://windows11.techidaily.com/insiders-guide-to-overlooked-windows-11-aesthetics/"><u>Insider's Guide to Overlooked Windows 11 Aesthetics</u></a></li>
+<li><a href="https://windows11.techidaily.com/instant-access-enabling-windows-11-writable-search-box/"><u>Instant Access: Enabling Windows 11’ Writable Search Box</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/movavi-video-editor-plus-2024-review/"><u>Movavi Video Editor Plus 2024 Review</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-repair-for-windows-store-faults-resolve-error-x80072f30/"><u>Swift Repair for Windows Store Faults: Resolve Error X80072F30</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-network-issue-code-0x800704b3-in-windows/"><u>Unraveling Network Issue Code: 0X800704B3 in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-decorations-monitors-wallpaper-differentiation-guide/"><u>Windows 11 Decorations: Monitors Wallpaper Differentiation Guide</u></a></li>
 </ul></div>
 
