@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 at Your Fingertips: Crafting Unique Shortcuts"
-date: 2025-01-29T04:11:30.635Z
-updated: 2025-01-29T18:51:41.808Z
+date: 2025-02-09T18:45:40.931Z
+updated: 2025-02-11T05:18:36.771Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Download and Install WinHotKey
 
  WinHotKey is a freely available app for setting up new keyboard shortcuts. That software is compatible with most Windows desktop platforms as well. It has a quick and easy setup and takes up very little drive storage space. You can download and install WinHotKey as follows.
@@ -42,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 8. Select the **Next** option to install the software.
 
 9. After installing, select the option to set up a WinHotKey desktop shortcut. Then you can click that shortcut to launch the software.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Set Up Software Hotkeys
 
@@ -65,16 +65,12 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 ![Along with the key drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/along-with-the-key-drop-down-menu.png)
 3. You can also select additional keys for the hotkey by clicking the **Alt**, **Shift**, and **Ctrl** checkboxes. The Windows checkbox is selected by default, but you can deselect that option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. To further configure the keyboard shortcut, click the **Advanced** button. You can enter additional parameters and change how the software window opens on the Launch: Advanced window.  
 ![The Launch: Advanced window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/launch-advanced-window.png)
 5. Click the **OK** button to exit the Launch: Advanced window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Then press the **OK** button on the New Hotkey window to add the keyboard shortcut.
@@ -104,6 +100,14 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 
 ![Make the Current Windows drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/make-the-current-window-drop-down-menu.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Create Custom Keyboard Shortcuts With HotkeyP
 
  HotkeyP is a decent alternative third-party app to WinHotKey for creating custom Windows keyboard shortcuts. Like WinHotKey, it’s a freely available and lightweight app for utilizing on most Windows platforms. It enables you to set up custom keyboard shortcuts for opening user files and folders, running programs, and activating many functions. This is how you can download and run HotkeyP:
@@ -114,25 +118,21 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 ![The Extract Compressed tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/extract-compressed-zip-folder.jpg)
 4. Double-click **HotkeyP.exe** file inside the extracted **hotkeyp\_64bit** directory.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now you’ll see an empty HotkeyP window. You can fill that window by adding some new custom hotkeys. First, try setting up a hotkey that opens software on your PC like this:
 
 1. Click the **Add** button.  
 ![The HotkeyP window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/hotkeyp-window.jpg)
 2. Press the **…** (ellipses) button for the **Command** box.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Select a program’s EXE (application) file for the hotkey to open.
 4. Then click inside the empty box beside those checkboxes and press a key on your keyboard to include it within the hotkey.
 5. Next, select one of the **Ctrl**, **Shift**, **Alt**, and **Win** checkboxes to set a modifier key for the hotkey.  
 ![The Hot Key window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-hot-key-window.jpg)
 6. Select **OK** to add the new custom hotkey.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Now you’ll see the new hotkey you’ve created included within the all and programs categories on the HotkeyP window. Press the new hotkey you just set up to launch the selected program.
 
@@ -149,7 +149,7 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 ![The Start automatically checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-start-automatically-checkbox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Set Up All the Windows Software HotKeys You Need With WinHotKey
@@ -168,24 +168,14 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-funimate-essentials-for-the-avid-gamer/"><u>[New] Funimate Essentials for the Avid Gamer</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-behind-the-brand-pewdiepies-financial-figures-unveiled/"><u>[Updated] Behind the Brand PewDiePie’s Financial Figures Unveiled</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-fostering-collaborations-building-partnerships-to-promote-videos/"><u>[Updated] Fostering Collaborations Building Partnerships to Promote Videos</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-budget-friendly-webinar-strategies-for-youtube/"><u>[Updated] In 2024, Budget-Friendly Webinar Strategies for YouTube</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-the-leading-free-online-screencasting-solutions/"><u>[Updated] In 2024, The Leading Free Online Screencasting Solutions</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-vimeo-profits-unleashed-strategies-for-creative-entrepreneurs/"><u>[Updated] In 2024, Vimeo Profits Unleashed Strategies for Creative Entrepreneurs</u></a></li>
-<li><a href="https://windows11.techidaily.com/configuring-prints-with-microsoft-defender-smartscreen-edge/"><u>Configuring Prints with Microsoft Defender SmartScreen Edge</u></a></li>
-<li><a href="https://windows11.techidaily.com/deciphering-permission-restrictions-on-windows/"><u>Deciphering Permission Restrictions on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-reactivate-muted-system-sound-output-quickly/"><u>How to Reactivate Muted System Sound Output Quickly</u></a></li>
-<li><a href="https://windows11.techidaily.com/immediate-actions-for-windows-interface-crashing/"><u>Immediate Actions for Windows Interface Crashing</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-a-step-by-step-guide-to-instagrams-premier-status-6-practical-steps-for-enthusiasts/"><u>In 2024, A Step-by-Step Guide to Instagram's Premier Status 6 Practical Steps For Enthusiasts</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-tips-and-hacks-for-using-instagram-filters-effectively/"><u>In 2024, Tips & Hacks for Using Instagram Filters Effectively</u></a></li>
-<li><a href="https://windows11.techidaily.com/launching-windows-file-explorer-directly-via-onedrive/"><u>Launching Windows File Explorer Directly via OneDrive</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/navigating-excellence-with-samsung-galaxy-tab-s7plus-an-elite-tablets-journey-through-our-rigorous-review-process/"><u>Navigating Excellence with Samsung Galaxy Tab S^7+: An Elite Tablet's Journey Through Our Rigorous Review Process</u></a></li>
-<li><a href="https://windows11.techidaily.com/securely-store-and-view-onedrive-data-locally/"><u>Securely Store and View OneDrive Data Locally</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-code-0xc0000142-on-windows-devices/"><u>Tackling Code 0XC0000142 on Windows Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-windows-techniques-for-enjoying-high-definition-adventures-with-scummvm/"><u>Top Windows Techniques for Enjoying High-Definition Adventures with ScummVM</u></a></li>
-<li><a href="https://windows11.techidaily.com/uncovering-digital-shadows-sid-extraction-in-win11/"><u>Uncovering Digital Shadows: SID Extraction in Win11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/wolcen-lords-of-mayhem-release-delayed-what-gamers-need-to-know/"><u>Wolcen: Lords of Mayhem Release Delayed – What Gamers Need to Know</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-echoes-of-exploration-your-step-by-step-blueprint-to-becoming-a-travel-vlogger/"><u>[Updated] Echoes of Exploration Your Step-by-Step Blueprint to Becoming a Travel Vlogger</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-bite-sized-content-on-youtube/"><u>2024 Approved Bite-Sized Content on YouTube</u></a></li>
+<li><a href="https://windows11.techidaily.com/begin-your-media-adventure-windows-media-player/"><u>Begin Your Media Adventure: Windows Media Player</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-free-slo-mo-camera-apps-for-iphone-and-android-phones/"><u>Best Free Slo-Mo Camera Apps for iPhone and Android Phones</u></a></li>
+<li><a href="https://windows11.techidaily.com/defensive-operations-mastering-windows-unauthorized-prevention/"><u>Defensive Operations: Mastering Windows Unauthorized Prevention</u></a></li>
+<li><a href="https://windows11.techidaily.com/direct-guide-to-reactivate-print-spool/"><u>Direct Guide to Reactivate Print Spool</u></a></li>
+<li><a href="https://windows11.techidaily.com/dissecting-distinctions-between-microsoft-and-standard-windows-accounts/"><u>Dissecting: Distinctions Between Microsoft & Standard Windows Accounts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-get-your-corsair-void-mic-back-on-track/"><u>Troubleshooting Steps: Get Your Corsair Void Mic Back on Track</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/understanding-libor-changeover-with-artificial-intelligence-perspectives-by-abbyy-experts/"><u>Understanding LIBOR Changeover with Artificial Intelligence: Perspectives by ABBYY Experts</u></a></li>
 </ul></div>
 

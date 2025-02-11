@@ -1,7 +1,7 @@
 ---
 title: "Solving Windows Update Failures: 0X800736CC Issue"
-date: 2024-08-15T15:25:14.801Z
-updated: 2024-08-16T15:25:14.801Z
+date: 2025-02-05T05:47:06.776Z
+updated: 2025-02-10T19:28:20.427Z
 tags:
   - windows10
   - windows11
@@ -18,11 +18,19 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
 
  Windows Update keeps your computer safe and secure with the latest security patches. However, you might encounter errors while installing these updates, like 0x800736cc. This error code stops you from deploying critical security updates, leaving your computer vulnerable. In this guide, we’ll show you some troubleshooting steps to fix this error.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart Your PC
 
  The first thing you need to do is [restart your computer](https://www.makeuseof.com/windows-restart-methods/). Although it may seem too simplistic, you'd be surprised how often this resolves various issues. When your computer reboots, it clears temporary files and processes that could cause problems. This includes incomplete Windows updates that failed to install or encountered installation errors.
 
  A quick reboot can bypass the error and complete the update, so it should be your primary course of action before delving into more intricate troubleshooting methods.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Run the Windows Update Troubleshooter
 
@@ -34,14 +42,8 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
 2. Type in **Troubleshoot** and select **Troubleshoot Settings** from the results list.
 3. On the right sidebar, click **Other troubleshooters**.  
 ![Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/other-troubleshooters.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Under **Most frequent**, locate **Windows Update** and click **Run**.  
 ![Run Windows Update Troubleshooter-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-windows-update-troubleshooter-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  Follow the on-screen instructions to complete the troubleshooting process. It may take a few minutes for the tool to finish its job.
 
@@ -58,16 +60,14 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
 `C:\Windows\SoftwareDistribution`
 5. In the SoftwareDistribution folder, delete all files and folders. This is just temporary data, so removing it won't affect your computer.  
 ![Clear SoftwareDistribution Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/clear-softwaredistribution-folder.jpg)
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. After deleting the files, head back to the Services window, right-click on the **Windows Update** service, and select **Start**. This step restarts the Windows Update service.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now restart your computer. It will allow Windows Update to recreate cache files from scratch.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Disable your Antivirus Temporarily
 
  Security software interferes with Windows Update and causes errors. To avoid this issue, [temporarily disable your security program](http://www.makeuseof.com/how-to-turn-off-windows-defender/) before running updates. Once you have disabled it, restart the computer and install the update again. If it works, it was your security software that caused the issue.
@@ -75,8 +75,9 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
  Remember that disabling security software leaves your computer vulnerable to malware attacks, so enable it immediately.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Reset Windows Update Components
 
  Windows Update components include files and processes crucial to the update process. If these components become corrupted or damaged, Windows Update cannot run correctly. In this case, you must reset the components to their original state.
@@ -163,13 +164,12 @@ net start cryptsvc`
 * [Manually Install the Update](https://www.makeuseof.com/update-windows-manually/) \- If Windows Update fails to install or is stuck, you can download and install it manually
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fixing Windows Update Error 0x800736cc
 
  As you can see, multiple ways exist to fix the Windows Update error. We hope one of these methods has solved your problem, and you can now successfully install Windows Update. If nothing else works, you can restore your computer to a previous state or reinstall Windows.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -178,5 +178,21 @@ net start cryptsvc`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-account-alert-regaining-lost-access-on-facebook/"><u>[New] Account Alert! Regaining Lost Access on Facebook</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-final-step-guide-free-yourself-from-youtube-shorts/"><u>[Updated] 2024 Approved Final Step Guide Free Yourself From YouTube Shorts</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-unveiling-the-best-for-screens-a-deep-dive-into-obs-studio-and-fraps/"><u>[Updated] 2024 Approved Unveiling the Best for Screens A Deep Dive Into OBS Studio & Fraps</u></a></li>
+<li><a href="https://windows11.techidaily.com/brain-benefits-and-heartbeats-the-joint-impact-of-mindfulness/"><u>Brain Benefits and Heartbeats: The Joint Impact of Mindfulness</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/cinematic-basics-unveiled-fundamental-shots-explained-clearly-for-2024/"><u>Cinematic Basics Unveiled Fundamental Shots Explained Clearly for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquering-the-challenge-0x80072af9-errors/"><u>Conquering the Challenge: 0X80072AF9 Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-advanced-windows-startup-techniques/"><u>Exploring Advanced Windows Startup Techniques</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-echoes-of-engagement-writing-powerful-podcast-dialogues/"><u>In 2024, Echoes of Engagement Writing Powerful Podcast Dialogues</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-iphone-7-plus-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect iPhone 7 Plus and iPad</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-file-and-folder-integration-in-windows-1011/"><u>Mastering File & Folder Integration in Windows 10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/omzetten-mmf-bestandjes-online-zonder-mijotoen-movavi/"><u>Omzetten MMF-Bestandjes Online Zonder Mijotoen - Movavi</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-error-0x80072f8f-0x20000-in-windows/"><u>Troubleshooting Error 0X80072f8f - 0X20000 in Windows</u></a></li>
+<li><a href="https://win-great.techidaily.com/tutti-i-modi-per-trasferire-fotografie-dalliphone-al-computer-utilizzando-soluzioni-wireless-innovative/"><u>Tutti I Modi per Trasferire Fotografie Dall'iPhone Al Computer Utilizzando Soluzioni Wireless Innovative</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/video-privacy-made-easy-best-blur-apps-for-iphone-and-android-for-2024/"><u>Video Privacy Made Easy Best Blur Apps for iPhone and Android for 2024</u></a></li>
+</ul></div>
 

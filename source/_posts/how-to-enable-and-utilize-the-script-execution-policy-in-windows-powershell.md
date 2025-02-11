@@ -1,7 +1,7 @@
 ---
 title: How to Enable and Utilize the Script Execution Policy in Windows PowerShell
-date: 2025-01-24T06:35:30.056Z
-updated: 2025-01-29T16:39:46.923Z
+date: 2025-02-06T05:09:06.821Z
+updated: 2025-02-11T03:02:28.894Z
 tags:
   - windows10
   - windows11
@@ -25,13 +25,13 @@ thumbnail: https://thmb.techidaily.com/6612d7a6b7e8b44ce845a24c9c71af5e69ea9f37b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Check Your Existing Execution Policy
 
 ![Powershell set execution policy undefined](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/powershell-set-execcution-policy-undefined.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can use a PowerShell cmdlet to get your current execution policy. Knowing your current execution policy is necessary to know if you need a policy change or not.
 
@@ -47,7 +47,7 @@ To get your current execution policy for the current user:
  You’ll need to change the execution policy to RemoteSigned to run local scripts without the error. You can change the execution policy from the Settings app and PowerShell.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Enable PowerShell Execution Policy Using the Settings App
@@ -62,6 +62,10 @@ To change execution policy using Settings:
 ![windows 11 for developers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-for-developers.jpg)
 4. Click to expand the**PowerShell** section.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Toggle the switch to **change the execution policy to allow local PowerShell scripts to run without signing - Require signing for remote scripts** .  
 ![enable powershell script execution windows 11 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-powershell-script-execution-windows-11-settings.jpg)
 6. Once done, open PowerShell, type get**executionpolicy,** and press**Enter** . The execution policy for the current user is now set to**RemoteSigned.**
@@ -69,12 +73,16 @@ To change execution policy using Settings:
 7. If you need to disable the execution policy, toggle the PowerShell switch and set it to**Off** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Allow Scripts to Run in PowerShell using PowerShell
 
 ![Powershell set execcution policy remotesigned](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/powershell-set-execcution-policy-remotesigned.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can use a[PowerShell cmdlet](https://www.makeuseof.com/windows-powershell-commands-cmdlets/) to set the execution policy to RemoteSigned. The command-line interface makes it easy to change execution policy quickly without using the Settings app.
 
@@ -90,10 +98,6 @@ To change the execution policy using PowerShell:
 `Set-ExecutionPolicy RemoteSgined -Scope CurrentUser`
 5. Replace**CurrentUser** in the above command with other users (Scope) as per your requirement.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Remove Script Execution Policy Using PowerShell
 
 ![set-execution-policy-undefined](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-execution-polify-undefined.jpg)
@@ -108,10 +112,6 @@ To disable script execution using PowerShell:
 3. The above command will set the execution policy default (undefined) for all the users. If you want to disable script execution for a specific scope, use the following command:  
 `Set-ExecutionPolicy undefined -Scope CurrentUser`
 4. The above command will disable script execution for**CurrentUser** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Understanding Execution Policies and Scopes
 
@@ -164,18 +164,20 @@ The below table briefly explains all the execution policy scopes:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-leading-cloud-services-with-best-price/"><u>[New] 2024 Approved The Leading Cloud Services with Best Price</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-top-quality-sd-card-for-sony-alpha-7s-ii/"><u>[New] Top-Quality SD Card for Sony Alpha 7S II</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unveiling-carryminatis-channel-economics-ajey-for-2024/"><u>[Updated] Unveiling CarryMinati's Channel Economics (Ajey) for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-access-encrypted-sd-memory-cards-and-retrieve-your-lost-data-successfully/"><u>How To Access Encrypted SD Memory Cards & Retrieve Your Lost Data Successfully</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-itel-a70-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Itel A70? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 6 to other iPhone 11 devices? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Google Pixel 7a | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-motorola-moto-g-stylus-5g-2023-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Motorola Moto G Stylus 5G (2023) Lock Screen Password?</u></a></li>
-<li><a href="https://windows11.techidaily.com/is-split-screen-not-working-on-windows-heres-what-to-do/"><u>Is Split Screen Not Working on Windows? Here's What to Do</u></a></li>
-<li><a href="https://windows11.techidaily.com/key-techniques-for-windowsapps-file-reveal/"><u>Key Techniques for WindowsApps File Reveal</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-to-protected-windowsapps-directory/"><u>Navigating to Protected WindowsApps Directory</u></a></li>
-<li><a href="https://windows11.techidaily.com/powerful-tools-to-simultaneously-release-numerous-zip-archives/"><u>Powerful Tools to Simultaneously Release Numerous Zip Archives</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/the-powerful-path-to-stellar-videos-top-free-intro-makers/"><u>The Powerful Path to Stellar Videos Top Free Intro Makers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-how-do-youtube-channels-get-paid-regularly/"><u>[New] In 2024, How Do YouTube Channels Get Paid Regularly?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-the-market-with-them-best-video-for-stocks/"><u>[New] In the Market with Them Best Video for Stocks</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/hy-are-your-video-shorts-thumbnails-not-showing-for-2024/"><u>[New] Why Are Your Video Shorts' Thumbnails Not Showing for 2024</u></a></li>
+<li><a href="https://discover-community.techidaily.com/1-assessing-your-computers-hardware-and-software-efficiency-a-comprehensive-guide-by-yl-computing/"><u>1. Assessing Your Computer's Hardware & Software Efficiency: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-blackwhite-displays-in-windows-store-app/"><u>Addressing Black/White Displays in Windows Store App</u></a></li>
+<li><a href="https://windows11.techidaily.com/bridging-the-gap-top-6-ways-to-solve-network-hardware-issues-in-windows-systems/"><u>Bridging the Gap - Top 6 Ways to Solve Network Hardware Issues in Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-chrome-block-strategies-for-w11-users/"><u>Bypassing Chrome Block: Strategies for W11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/chkdsk-vs-scan-disk-delving-into-dissects-function-in-system-repairing/"><u>Chkdsk Vs. Scan Disk: Delving Into Dissect's Function in System Repairing</u></a></li>
+<li><a href="https://windows11.techidaily.com/decades-of-taskbars-windows-journey-19852023/"><u>Decades of Taskbars: Windows' Journey (1985–2023)</u></a></li>
+<li><a href="https://windows11.techidaily.com/dive-into-deeper-game-experience-incorporating-achievements-in-vintage-titles-through-retroarch/"><u>Dive Into Deeper Game Experience: Incorporating Achievements in Vintage Titles Through Retroarch</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigate-and-organize-your-files-like-a-pro-with-these-file-explorer-hacks-for-widows-11/"><u>Navigate and Organize Your Files Like a Pro with These File Explorer Hacks for Widows 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-recording-your-slack-meetings-on-desktop-and-smartphones/"><u>Step-by-Step Guide: Recording Your Slack Meetings on Desktop & Smartphones</u></a></li>
+<li><a href="https://win-able.techidaily.com/team-fortress-2-stabilization-strategies-for-an-uninterrupted-gaming-experience/"><u>Team Fortress 2 Stabilization Strategies for an Uninterrupted Gaming Experience</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-game-changing-m1-chip-in-the-latest-imac-in-depth-evaluation-and-benchmark-results/"><u>The Game-Changing M1 Chip in the Latest iMac – In-Depth Evaluation and Benchmark Results</u></a></li>
 </ul></div>
 

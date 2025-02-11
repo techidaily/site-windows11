@@ -1,7 +1,7 @@
 ---
 title: Swift Remedies for Fixing Microsoft Store Crash Code 0X80072EFD
-date: 2025-01-25T23:55:16.321Z
-updated: 2025-01-29T20:44:02.264Z
+date: 2025-02-09T04:55:53.137Z
+updated: 2025-02-10T19:38:28.937Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/7e377b50c4e513bd18b3a4caf17d4fa401f54e28d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run the Windows Store App Troubleshooter
 
  Running the Windows Store App troubleshooter is a straightforward potential resolution for the 0x80072EFD error to start with. That troubleshooting tool might detect issues and give you a fix. You can open and run the Windows Store App troubleshooter like this:
@@ -36,19 +40,15 @@ thumbnail: https://thmb.techidaily.com/7e377b50c4e513bd18b3a4caf17d4fa401f54e28d
 ![The troubleshooter list in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/troubleshooter-list-in-windows-11.jpg)
 5. Go through and apply any suggestions the troubleshooter offers.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-store-apps.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Internet Connections** is another troubleshooter that may be useful for fixing the Microsoft Store's 0x80072EFD error. So, consider running that troubleshooter if the Windows Store Apps option doesn't help.
 
  Note that the troubleshooting tools are accessible in the**Update & Security** category in the Settings app if you use Windows 10\. Click the**Troubleshoot** tab and**Additional troubleshooters** option to access them from there. Then press the**Run this troubleshooter** buttons for Windows Store Apps or Internet Connections.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Refresh the SoftwareDistribution Folder
 
@@ -67,15 +67,27 @@ net stop msiserver`
 ![The rename SoftwareDistribution.old folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/rename-softwaredistribution-old-folder.jpg)
 6. Also, rename a catroot2 directory with this command:  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `ren C:\Windows\System32\catroot2 catroot2.old`  
 ![The rename catroot2 command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/rename-catroot2-command.jpg)
 7. Restart the turned-off services by inputting and executing the following commands:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 `net start wuaserv  
 net start cryptSvcc  
 net start bits  
 net start msiserver`
 8. Then bring up your Start menu to select**Restart** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Reset the Microsoft Store's Cache
 
@@ -84,7 +96,7 @@ net start msiserver`
 ![The Reset button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-button.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Turn Off Proxy Server
@@ -101,10 +113,6 @@ net start msiserver`
 ![The Use a proxy server for your LAN checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/use-a-proxy-server-option.jpg)
 6. Select the Local Area Network window's**OK** option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Double-Check the Time Settings in Windows
 
  An incorrect region time on your PC is another potential cause for error 0x80072EFD. Users have confirmed they've fixed error 0x80072EF by adjusting time settings on their PCs. The Microsoft Store's time tracking needs to sync with the PC's set regional time. So, have a look through your time settings as follows:
@@ -120,10 +128,6 @@ net start msiserver`
 
 ![The Sync now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sync-now-button.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Alternatively, you can manually set the time by disabling the Set the time automatically option. Press the**Change** button for the**Set the date and time manually** option. Check the date and exact time for your location via online sources, and then enter it inside the**Change date & time** box.
 
 ## 6\. Enable TLS Protocols
@@ -137,14 +141,10 @@ net start msiserver`
 ![The Advanced tab in Internet Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-advanced-tab.jpg)
 5. Click**Apply** to set the protocol options.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Select**OK** to exit the Internet Options window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Reregister Microsoft Store
@@ -159,11 +159,11 @@ net start msiserver`
 ![The reregister MS Store command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reregister-ms-store-command.jpg)
 5. Wait until you're sure the command has finished.
 
-6. Then exit PowerShell, and select the**Restart** option.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+6. Then exit PowerShell, and select the**Restart** option.
 
 ## 8\. Reset Your Network
 
@@ -190,18 +190,14 @@ net start msiserver`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-speak-with-elegance-on-chrome-top-picks-for-web-based-voice-transformers/"><u>[Updated] In 2024, Speak with Elegance on Chrome Top Picks for Web-Based Voice Transformers</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-step-up-your-game-expert-tips-on-producing-compelling-slow-motion-photos-and-videos-for-instagram/"><u>[Updated] In 2024, Step Up Your Game Expert Tips on Producing Compelling Slow Motion Photos and Videos for Instagram</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-solve-the-wslregisterdistribution-failed-with-error-0x80370102-issue-in-windows/"><u>How to Solve the WslRegisterDistribution Failed With Error 0X80370102 Issue in Windows</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Realme C67 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-curating-the-best-video-game-openers-on-yt-no-money-max-impact/"><u>In 2024, Curating the Best Video Game Openers on YT No Money, Max Impact?</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-through-error-code-windows-0x80242016/"><u>Navigating Through Error Code: Windows 0X80242016</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/soundwave-shift-step-by-step-mp3-to-mp4-audio-file-transformation-for-2024/"><u>Soundwave Shift Step-by-Step MP3 to MP4 Audio File Transformation for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-your-file-sending-routine-on-dual-systems/"><u>Streamlining Your File Sending Routine on Dual Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-gamers-blueprint-to-resolve-steam-display-failures/"><u>The Gamer’s Blueprint to Resolve Steam Display Failures</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-optimal-video-coders-on-windows/"><u>The Ultimate Guide to Optimal Video Coders on Windows</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/toms-computing-review-in-depth-analysis-of-tech-gear/"><u>Tom's Computing Review - In Depth Analysis of Tech Gear</u></a></li>
-<li><a href="https://windows11.techidaily.com/transitioning-to-windows-11-escape-the-common-pitfalls-top-8/"><u>Transitioning to Windows 11: Escape the Common Pitfalls (Top 8)</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-and-enabling-powershell-script-security/"><u>Understanding & Enabling PowerShell Script Security</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-real-time-recording-prowess-without-any-delays/"><u>[New] 2024 Approved Real-Time Recording Prowess Without Any Delays</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-how-to-start-a-product-review-channel/"><u>[New] How to Start a Product Review Channel</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-mastery-of-safaris-picture-in-picture-for-ios-and-macos/"><u>[Updated] Mastery of Safari's Picture-in-Picture for iOS & macOS</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/conseils-rapides-comment-remettre-en-place-votre-partition-ou-volume-sur-votre-pc/"><u>Conseils Rapides: Comment Remettre en Place Votre Partition Ou Volume Sur Votre PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/create-a-convenient-windows-environment-portable-software-icons/"><u>Create a Convenient Windows Environment: Portable Software Icons</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/reimagining-fn-key-usage-within-windows-11-platform/"><u>Reimagining FN Key Usage Within Windows 11 Platform</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-unraveling-failed-system-call-issues-in-win1011/"><u>Steps to Unraveling 'Failed System Call' Issues in Win10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-storage-type-ssd-vs-hdd/"><u>Unveiling Storage Type: SSD vs HDD</u></a></li>
 </ul></div>
 

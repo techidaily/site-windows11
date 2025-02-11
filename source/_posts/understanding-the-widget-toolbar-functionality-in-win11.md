@@ -1,7 +1,7 @@
 ---
 title: Understanding the Widget Toolbar Functionality in Win11
-date: 2024-08-15T15:26:22.253Z
-updated: 2024-08-16T15:26:22.253Z
+date: 2025-02-03T18:26:21.612Z
+updated: 2025-02-11T07:44:52.201Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/5e5b9ce0dc07e3f4c01f086c082ef2c0bbdb4ea2b
 
  In this guide, we'll explore how to enable the Widgets Toolbar so that you can reap its benefits.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable the Widgets Toolbar in Windows 11
 
  In order to enable and use the widget's toolbar, you will need to [download ViveTool from GitHub](https://github.com/thebookisclosed/ViVe/releases). Once the zip file has been downloaded, extract its contents into the folder **C:/ViVeTool** on your computer.
@@ -32,6 +36,10 @@ c:\vivetool\vivetool /enable /id:40772499
 
 ![Enable Toolbar for Widgets in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-toolbar-for-widgets-in-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once the command is executed on your computer, you will see a message saying "Successfully set feature configuration (s)". After executing the above command, restart your device for the changes to take effect.
 
  So that's it. You have now enabled the new toolbar in Windows 11\. It provides various useful features, including maps, news, and other options that you can find through its popular services.
@@ -42,25 +50,25 @@ c:\vivetool\vivetool /disable /id:40772499
 
 ![Disable Widgets Toolbar in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-widgets-toolbar-in-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After executing the program, you should restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Windows 11 Now Has a New Toolbar for Widgets
 
  With Windows 11 build 25227, there is a new toolbar that provides quick access to critical services on the Widgets menu. Hopefully, we have helped you enable and disable the Widgets Toolbar to access these Microsoft services easily.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -69,8 +77,18 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-snaptwit-sucker-snatch-social-media-vids-with-ease/"><u>[Updated] 2024 Approved SnapTwit Sucker Snatch Social Media Vids with Ease</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-insignia-bluetooth-adapter-driver-software-for-windows-pcs/"><u>Get the Latest Insignia Bluetooth Adapter Driver Software for Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-apply-local-group-policies-to-a-specific-user-account-in-windows-11-and-11/"><u>How to Apply Local Group Policies to a Specific User Account in Windows 11 and 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-discord-app-lag-on-windows/"><u>How to Fix Discord App Lag on Windows</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/how-to-retrieve-lost-files-from-an-unseen-d-drive-on-your-pc/"><u>How to Retrieve Lost Files From an Unseen D Drive on Your PC</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-expand-your-viewing-realm-on-youtube-platforms/"><u>In 2024, Expand Your Viewing Realm on YouTube Platforms</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-siri-problems-a-step-by-step-guide-for-iphoneipad-owners/"><u>Overcoming Siri Problems: A Step-by-Step Guide for iPhone/iPad Owners</u></a></li>
+<li><a href="https://windows11.techidaily.com/revitalize-your-services-explorer-effective-solutions-for-7-common-issues/"><u>Revitalize Your Services Explorer: Effective Solutions for 7 Common Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/swapping-windows-11s-standard-programs-best-choices/"><u>Swapping Windows 11'S Standard Programs: Best Choices</u></a></li>
+<li><a href="https://windows11.techidaily.com/title-managing-icons-alignment-and-separation-on-win-oss/"><u>Title: Managing Icons' Alignment and Separation on WIN OSs</u></a></li>
+</ul></div>
 

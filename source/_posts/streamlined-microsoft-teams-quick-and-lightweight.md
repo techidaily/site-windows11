@@ -1,7 +1,7 @@
 ---
 title: "Streamlined Microsoft Teams: Quick & Lightweight"
-date: 2025-01-26T17:06:20.750Z
-updated: 2025-01-29T23:33:25.999Z
+date: 2025-02-05T03:47:24.992Z
+updated: 2025-02-10T17:47:18.755Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/3b3b313aac4422406d268b9ec86a52f71522ac5df
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s New in the Microsoft Teams Desktop App?
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/3b3b313aac4422406d268b9ec86a52f71522ac5df
  Another significant change is the introduction of the new architecture. Microsoft Teams has now fully transitioned from AngularJS to React for its web development framework needs. Where Fluent UI’s UX controls provide standardized common component support, WebView2 replaces Electron as the rendering engine for the app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other Features That Boost Collaboration and Productivity in Teams
@@ -54,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/3b3b313aac4422406d268b9ec86a52f71522ac5df
  Apart from these, Microsoft also plans to bring some new features later this year, including third-party and Line-of-Business(LOB) apps support and advanced calling and meeting feature.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Try the Teams Public Preview
@@ -62,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/3b3b313aac4422406d268b9ec86a52f71522ac5df
 ![Microsoft teams update policies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microsoft-teams-update-policies.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The new Teams is only available as a public preview build and is available for commercial users now. While the company plans to bring it to Education and platforms like VDI and web later this year, here’s how to set an Update policy and enable Teams public preview for organizations.
@@ -82,7 +82,7 @@ To set the Update policy and enable public preview:
  To enable new Teams, launch the app and toggle the**new Teams** switch to starting using the latest iteration of Teams. You can switch between the classic and new Teams app without restrictions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Teams is Now More Efficient and Faster
@@ -106,17 +106,14 @@ To set the Update policy and enable public preview:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-melody-matters-device-reviews/"><u>[New] 2024 Approved Melody Matters Device Reviews</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-key-to-cinematic-excellence-mastering-the-art-of-shooting-stunning-slow-motion-media-on-instagram/"><u>[New] 2024 Approved The Key to Cinematic Excellence Mastering the Art of Shooting Stunning Slow-Motion Media on Instagram</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-sliding-to-victory-celebrating-the-best-in-snowboard-cross-winter-games-22/"><u>[New] In 2024, Sliding to Victory Celebrating the Best in Snowboard Cross, Winter Games '22</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-aimp-pro-streaming-enhancer-without-wmsp/"><u>[Updated] In 2024, AIMP Pro Streaming Enhancer Without WMSP</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/fast-track-fixes-swift-update-process-for-wacom-intuos-graphics-device/"><u>Fast-Track Fixes: Swift Update Process for Wacom Intuos Graphics Device</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixed-your-input-not-recognized-windows-vlc-error/"><u>Fixed: Your Input Not Recognized – Windows VLC Error</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-5-ways-to-download-facebook-story-on-desktop-and-mobile/"><u>In 2024, 5 Ways to Download Facebook Story on Desktop and Mobile</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-memetic-masterpieces-behind-the-photo/"><u>In 2024, Memetic Masterpieces Behind the Photo</u></a></li>
-<li><a href="https://windows11.techidaily.com/leverage-full-power-of-windows-11-today/"><u>Leverage Full Power of Windows 11 Today</u></a></li>
-<li><a href="https://windows11.techidaily.com/new-assistant-horizons-after-cortanas-exit/"><u>New Assistant Horizons After Cortana's Exit</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-executable-and-linker-format-a-brief-guide/"><u>Windows' Executable & Linker Format: A Brief Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/zdnet-reviews-how-the-ecoflow-river-3-stands-out-as-an-exceptional-portable-battery-for-newcomers-in-power-storage-technology/"><u>ZDNet Reviews: How the EcoFlow River 3 Stands Out as an Exceptional Portable Battery for Newcomers in Power Storage Technology</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-your-video-voyage-navigating-the-world-of-youtube-links/"><u>[Updated] 2024 Approved Elevate Your Video Voyage Navigating the World of YouTube Links</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-depth-strategies-for-organizing-your-windows-mov-collection/"><u>[Updated] In-Depth Strategies for Organizing Your Windows .mov Collection</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-shooting-spectacle-top-9-strategies-for-panoramic-videos/"><u>2024 Approved Shooting Spectacle Top 9 Strategies for Panoramic Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/6-methods-for-reviving-windows-command-line-interface/"><u>6 Methods for Reviving Windows' Command Line Interface</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-error-0xc00000f-by-implementing-proper-fixes/"><u>Avoiding Error 0xC00000F by Implementing Proper Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-the-uninitialized-drive-message-on-pc/"><u>Dealing with the 'Uninitialized Drive' Message on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-change-the-default-pdf-reader-on-windows/"><u>How to Change the Default PDF Reader on Windows</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-samsung-galaxy-m34-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Samsung Galaxy M34 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-reactivating-adobe-on-windows-os/"><u>Mastering the Art of Reactivating Adobe on Windows OS</u></a></li>
 </ul></div>
 

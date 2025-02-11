@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows Hotkeys: Rapid Text Copy and Paste"
-date: 2025-01-29T07:15:00.449Z
-updated: 2025-01-30T03:27:32.575Z
+date: 2025-02-03T21:53:12.951Z
+updated: 2025-02-10T21:31:16.549Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Set Up Hotkeys for Pasting Pre-Defined Text With QuickTextPaste
@@ -56,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
  QuickTextPaste needs to be running in the background for its hotkeys to work. You can set the program to run automatically by clicking**Action** \>**Start** **with Windows** . Select the**Always start minimized (ToTray)** option to set the program to appear only in the system tray area when started.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Set up Hotkeys for Pasting Pre-Defined Text With HotkeyP
 
  HotkeyP is a lightweight app with which you can set up a wide variety of system, display, multimedia, window, and macro hotkeys. As it’s a portable program, you can utilize it on most Windows platforms with no installation necessary. These are the steps for setting up a custom paste hotkey for pre-defined text with HotkeyP:
@@ -77,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 3. Next, press the arrow (**<**) button for the**Command** box.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Select**Macro** and the**Paste text** option.  
@@ -90,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 ![The Hot Key window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hot-key-window.jpg)
 9. Select**OK** to add the new custom paste hotkey.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now you’ll see the hotkey you’ve just set listed within the HotkeyP window. Press**Esc** to hide the HotkeyP in the system tray. Then open WordPad, Notepad, or another text editor to try out the hotkey. Press the custom hotkey you’ve set up to paste in its pre-defined text.
 
  When you need to modify a hotkey or its text, select it in HotkeyP and click**Edit** . Then you can adjust the parameter and key configuration within the Hot Key window again. To remove a hotkey, select a keyboard shortcut and click**Delete** .
@@ -103,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 ![The General tab in HotkeyP's Options window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-general-tab.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Creating Other Hotkeys With HotkeyP
@@ -112,9 +104,17 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
 ![The System hotkey options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/system-hotkey-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or you can set up some custom window control hotkeys. Select**Window** on the command menu to view the various window keyboard shortcut options. There you can select**Always on Top** ,**Maximize window** ,**Minimize others** ,**Window snapshot,** **Close window** , and**Opacity** hotkey options, to name a few.
 
  You can set up a program keyboard shortcut by selecting an app’s path within the Hot Key window. Click the**ellipses (…)** button for the**Command** box to select a program for a keyboard shortcut to open. Then you can also select additional**Process priority** and**Run as administrator** settings for the software the hotkey launches.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Create Handy Hotkeys for Pasting Pre-Defined Text in Windows
 
@@ -135,20 +135,18 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-numbers-that-shook-youtube-facts-in-visual-form-2017/"><u>[New] In 2024, Numbers that Shook! YouTube Facts in Visual Form (2017)</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-money-saving-heavens-storage-service-big-file-batches-for-2024/"><u>[Updated] Money-Saving Heavens Storage Service - Big File Batches for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-revealing-hidden-social-exchanges-in-yt-discussions/"><u>[Updated] Revealing Hidden Social Exchanges in YT Discussions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-intricacies-of-enhanced-digital-worlds/"><u>[Updated] The Intricacies of Enhanced Digital Worlds</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-channel-name-inspiration-strategies-for-success/"><u>2024 Approved Channel Name Inspiration Strategies for Success</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-recover-from-network-not-found-error-windows/"><u>How to Recover From 'Network Not Found' Error Windows</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-nokia-c12-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Nokia C12 using Video Repair Utility on Windows? </u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-elevate-your-photos-decoding-the-best-canva-tips/"><u>In 2024, Elevate Your Photos Decoding the Best Canva Tips</u></a></li>
-<li><a href="https://windows11.techidaily.com/inside-look-windows-executable-and-linker-format-pe/"><u>Inside Look: Windows' Executable & Linker Format (PE)</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-expert-picks-top-speech-transcription-tools-for-android-and-ios-users-for-2024/"><u>New Expert Picks Top Speech Transcription Tools for Android and iOS Users for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/rapid-rendezvous-initiating-startup-unlocking-notepad/"><u>Rapid Rendezvous: Initiating Startup, Unlocking Notepad</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamless-way-to-refresh-your-windows-update-system/"><u>Seamless Way to Refresh Your Windows Update System</u></a></li>
-<li><a href="https://windows11.techidaily.com/solutions-to-microsoft-error-code-x00000000/"><u>Solutions to Microsoft Error Code X00000000</u></a></li>
-<li><a href="https://windows11.techidaily.com/unblock-file-uploads-mastering-chromes-sync-on-a-win-os/"><u>Unblock File Uploads: Mastering Chrome's Sync on a Win OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/updating-old-pcs-think-beyond-windows/"><u>Updating Old PCs? Think Beyond Windows</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-awaken-the-artist-within-selective-shots-for-inspiration/"><u>[New] In 2024, Awaken the Artist Within Selective Shots for Inspiration</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-roadmap-to-thriving-in-digital-advertising/"><u>[New] In 2024, The Roadmap to Thriving in Digital Advertising</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-lighten-up-your-digital-presence-kapwing-maker/"><u>[New] Lighten Up Your Digital Presence - Kapwing Maker</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-perfecting-visuals-on-instagram-a-video-guide/"><u>[Updated] In 2024, Perfecting Visuals on Instagram A Video Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-unveiling-fb-instream-ad-strategies-from-configuration-to-evaluation/"><u>2024 Approved Unveiling FB Instream Ad Strategies From Configuration to Evaluation</u></a></li>
+<li><a href="https://windows11.techidaily.com/automate-peaceful-rest-for-your-windows-11-desktop/"><u>Automate Peaceful Rest for Your Windows 11 Desktop</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-disable-the-built-in-laptop-keyboard-in-windows/"><u>How to Disable the Built-In Laptop Keyboard in Windows</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-factory-unlock-your-telstra-iphone-se-2020-by-drfone-ios/"><u>In 2024, How To Factory Unlock Your Telstra iPhone SE (2020)</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-find-n3frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo Find N3FRP Lock</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-boot-sector-problems-on-pc/"><u>Navigating Through Boot Sector Problems on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/sidestep-windows-11-surveillance-measures/"><u>Sidestep Windows 11 Surveillance Measures</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-creativity-free-animation-techniques/"><u>Unlocking Creativity Free Animation Techniques</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-powerhouse-detailed-examination-of-the-huion-kamvas-gt-191-pen-display-for-professional-artists/"><u>Unveiling the Powerhouse: Detailed Examination of the Huion Kamvas GT-191 Pen Display for Professional Artists</u></a></li>
 </ul></div>
 

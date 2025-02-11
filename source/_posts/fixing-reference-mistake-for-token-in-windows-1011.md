@@ -1,7 +1,7 @@
 ---
 title: Fixing Reference Mistake for Token in Windows 10/11
-date: 2025-01-24T03:54:03.723Z
-updated: 2025-01-29T17:29:53.074Z
+date: 2025-02-09T03:55:15.263Z
+updated: 2025-02-11T07:24:04.915Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. End and Restart File Explorer
 
  If the “reference a token” error occurs when you try to access File Explorer or folders, try restarting the Explorer process. Some users who’ve needed to fix the token reference error have said ending that Windows Explorer process and starting it again worked for them. You can end and restart Explorer as follows:
@@ -35,13 +39,13 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 ![The End task option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/end-task-option.jpg)
 4. Select **End process** to confirm. The background Windows desktop will go blank when you do that, and restarting Explorer will restore it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Click **File** at the top of Task Manager.  
 ![The Run new task option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-new-task.jpg)
 6. Select **Run new task** to access a Create new task box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. Input **Explorer.exe** inside the **Open** text box.  
 ![The Create new task window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/create-new-task.jpg)
@@ -59,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 ![The reregister DLL command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/reregister-dll-commands.jpg)
 5. Wait for the command to finish reregistering DLLs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Close your Command Prompt app, bring up the Start menu, and select **Restart**.
 
 ## 3\. Try Some More Generic Windows Fixes
@@ -76,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 ![The sfc /scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sfc-scannow-command5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Go Back to a Previous Windows Build Version
@@ -88,11 +88,11 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 3. Click the **Go back** or **Get started** button for restoring the previous Windows version.  
 ![The Get started button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/get-started-button.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If that option is grayed out, you can also try restoring the previous Windows build from the **Advanced options** menu. Open recovery options in Settings as outlined in steps one and two above and click **Restart** **now**. Then select **Troubleshoot** \> **Advanced** options and the **Go back** **to previous build** option if available.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Go Back to a Previous Restore Point
 
@@ -102,13 +102,13 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 
  To apply this resolution, check out our [article about creating and utilizing restore points](https://www.makeuseof.com/windows-11-create-restore-point/). Choose a restore point that will roll Windows back to when you didn’t need to fix the token reference error. However, note that a system restore point will remove software packages installed after its date.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Reset Windows
 
  Resetting Windows 11/10 is a last resort for fixing the “reference a token” error that will probably work. It’s best to save this probable resolution until last because you’ll need to reinstall all third-party UWP and desktop apps installed before the reset. You can apply this possible resolution as instructed within method one of our [how to factory reset Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/#:~:text=To%20run%20a%20Windows%20factory,%3E%20Update%20%26%20Security%20%3E%20Recovery.) guide.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get the “Reference a Token” Error Sorted Out
 
@@ -126,24 +126,22 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-powerpoint-persona-establishing-your-presentations-voice/"><u>[New] In 2024, PowerPoint Persona Establishing Your Presentation's Voice</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-winters-chill-and-your-videos-selecting-heated-backdrops/"><u>[Updated] 2024 Approved Winter's Chill & Your Videos Selecting Heated Backdrops</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-mastering-screen-capture-io-screener-guide/"><u>[Updated] In 2024, Mastering Screen Capture IO Screener Guide</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-next-gen-webcams-a-deep-dive-into-live-videography-gear/"><u>[Updated] In 2024, Next-Gen WebCams A Deep Dive Into Live Videography Gear</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-skew-it-right-a-step-by-step-guide-for-photo-warping/"><u>2024 Approved Skew It Right A Step-by-Step Guide for Photo Warping</u></a></li>
-<li><a href="https://windows11.techidaily.com/command-guide-win11-starting-high-privilege-powershell/"><u>Command Guide: Win11 - Starting High-Privilege PowerShell</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-the-edge-how-pcs-beat-macs-in-9-aspects/"><u>Decoding the Edge: How PCs Beat Macs in 9 Aspects</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhance-your-pcs-performance-dispose-of-bloatware/"><u>Enhance Your PC's Performance: Dispose of Bloatware</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-unify-your-cloud-storage-onedrive-plus-microsoft-service/"><u>How to Unify Your Cloud Storage: OneDrive + Microsoft Service</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-fast-forwarding-in-netflix-playback-speed-tweaks/"><u>In 2024, Fast-Forwarding in Netflix - Playback Speed Tweaks</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/leveraging-dual-screen-capabilities-to-boost-your-facebook-presence-for-2024/"><u>Leveraging Dual-Screen Capabilities to Boost Your Facebook Presence for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigate-to-user-management-settings-in-windows-11-and-10/"><u>Navigate to User Management Settings in Windows 11 & 10</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedy-absent-bluetooth-devices-manager/"><u>Remedy Absent Bluetooth Devices Manager</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-error-0x80d03801-on-microsoft-store-pcs/"><u>Resolving Error 0X80D03801 on Microsoft Store PCs</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Vivo V27 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-for-integrating-alternative-antiviruses-with-ms-defender/"><u>Tips for Integrating Alternative Antiviruses with MS Defender</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-the-ultimate-os-x-mavericks-video-editing-crash-course/"><u>Updated 2024 Approved The Ultimate OS X Mavericks Video Editing Crash Course</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-8-best-multi-subtitles-translators-you-shouldnt-miss-for-2024/"><u>Updated 8 Best Multi-Subtitles Translators You Shouldnt Miss for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-second-shuffle-solved/"><u>Windows Second Shuffle Solved</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-comparing-m1-powered-laptops-to-videographers-needs/"><u>[New] 2024 Approved Comparing M1-Powered Laptops to Videographers' Needs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-behind-the-scenes-mastering-cinematic-techniques-in-24/"><u>[Updated] Behind the Scenes Mastering Cinematic Techniques in '24</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-discover-how-to-craft-videos-flawlessly-in-8-tools/"><u>[Updated] Discover How to Craft Videos Flawlessly in 8 Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-step-by-step-solution-for-spotify-connectivity-fails/"><u>A Step-by-Step Solution for Spotify Connectivity Fails</u></a></li>
+<li><a href="https://windows11.techidaily.com/altering-windows-11-identity-new-username-guide/"><u>Altering Windows 11 Identity: New UserName Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-enhances-icloud-support-on-windows-discover-the-latest-updates-and-improvements/"><u>Apple Enhances iCloud Support on Windows: Discover the Latest Updates and Improvements</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-sound-service-reboot-hurdles-at-system-ignition/"><u>Avoiding Sound Service Reboot Hurdles at System Ignition</u></a></li>
+<li><a href="https://windows11.techidaily.com/boost-productivity-with-these-5-essential-windows-folder-practices/"><u>Boost Productivity with These 5 Essential Windows Folder Practices</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-windows-xc0f1103f-geforce-not-working/"><u>Correcting Windows' XC0F1103F GeForce Not Working</u></a></li>
+<li><a href="https://windows11.techidaily.com/custom-menus-on-windows-1111-with-psoft-tools/"><u>Custom Menus on Windows 11/11 with PSoft Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/demystifying-the-meaning-behind-windows-folders-x-marks/"><u>Demystifying: The Meaning Behind Windows' Folders X-Marks</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-realme-11x-5g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Realme 11X 5G online without jailbreak</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-asus-proart-review-pushing-boundaries-in-color-accuracy/"><u>In 2024, ASUS ProArt Review Pushing Boundaries in Color Accuracy</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-xiaomi-13-ultra-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Xiaomi 13 Ultra Screen | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/lenovo-x1-carbon-driver-updates-for-smooth-operation-on-windows-11-and-earlier-versions/"><u>Lenovo X1 Carbon Driver Updates for Smooth Operation on Windows 11 and Earlier Versions</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719265109241-master-google-chromes-filesync-on-your-windows-device-now/"><u>Master Google Chrome's Filesync on Your Windows Device Now</u></a></li>
 </ul></div>
 

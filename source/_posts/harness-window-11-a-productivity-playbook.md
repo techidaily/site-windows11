@@ -1,7 +1,7 @@
 ---
 title: "Harness Window 11: A Productivity Playbook"
-date: 2024-08-15T15:25:47.068Z
-updated: 2024-08-16T15:25:47.068Z
+date: 2025-02-10T04:54:36.192Z
+updated: 2025-02-10T20:31:23.294Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/5d0cffeef3a457f6d646442a32f08e24ee51602aa
 
  You can snap up to four windows on your Windows 11 PC. If you have a large screen and want to arrange more windows, you can get the PowerToys app from Microsoft.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Open Files Directly From Start
 
 ![The Windows 11 Start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-start-menu-1.jpg)
@@ -44,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/5d0cffeef3a457f6d646442a32f08e24ee51602aa
 
 ![Screenshot showing Windows 11 Battery stats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/battery-stats.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It's critical to have a comprehensive understanding of what's draining your laptop battery the most. Thanks to Windows 11's detailed report on battery usage, you get a clear picture of which apps consume more power and which consume less.
 
  Moreover, you can view screen on and screen off time from the Settings app. Also, you can change the time period of battery levels from the **Last 24 hours** to the **Last 7 days**. If you choose the seven days time period, your PC will show which apps consumed the most power in the last seven days alongside the screen off and screen on time.
@@ -51,27 +59,23 @@ thumbnail: https://thmb.techidaily.com/5d0cffeef3a457f6d646442a32f08e24ee51602aa
  You can also sort by to see the battery stats of apps currently in use and the ones running in the background. Overall, the **Power & battery** page in the Settings app provides you with all kinds of information required to understand your laptop's battery usage.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Customize the Quick Settings Panel
 
 ![Enable or Disable Battery Saver in via Quick Settings Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-or-disable-battery-saver-in-via-quick-settings-panel.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 
  You get quick access to commonly used settings like WiFi, Bluetooth, battery saver, and Airplane mode via the Quick Settings panel in Windows 11\. You can click the WiFi, speaker, and battery to open the panel. You can customize the panel to add or remove menu items like mobile hotspot, night light, WiFi, battery saver, and more.
 
  The option to customize the Quick Settings panel is in the bottom-right corner of the Quick Settings panel.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Run Android Apps in Windows 11
 
 ![Android apps on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/top-windows-11-features-3.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Microsoft's Windows Phone platform always suffered from a lack of apps, eventually leading to its demise. However, Microsoft does not want to make the same mistake with Windows 11 desktop.
@@ -81,8 +85,9 @@ thumbnail: https://thmb.techidaily.com/5d0cffeef3a457f6d646442a32f08e24ee51602aa
  While not every Android app is available on the Amazon Appstore, you can check out a sizeable amount of well-known and famous names. Also, you can [install Google Play Store on your Windows 11 PC](https://www.makeuseof.com/windows-11-install-google-play-store/).
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Chat With Friends Using the Built-In Teams App
 
 ![Microsoft Teams integration in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/top-windows-11-features-4.jpg)
@@ -91,9 +96,6 @@ thumbnail: https://thmb.techidaily.com/5d0cffeef3a457f6d646442a32f08e24ee51602aa
 
  However, it is worth pointing out that what you see on the Windows 11 taskbar is not the full-fledged Teams experience with all the features and benefits. If that is what you want, you need to get the Teams app and remove the chat icon from the taskbar.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## 7\. Use Widgets to Stay Updated With Topics
 
 ![Full View Widgets Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/full-view-widgets-panel.jpg)
@@ -108,8 +110,6 @@ thumbnail: https://thmb.techidaily.com/5d0cffeef3a457f6d646442a32f08e24ee51602aa
 
  While we do not know what the next version of Windows has in store for us, there are plenty of functionalities in Windows 11 that are fun and useful at the same time. In this article, we are putting together a list of such Windows 11 capabilities.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -117,5 +117,24 @@ thumbnail: https://thmb.techidaily.com/5d0cffeef3a457f6d646442a32f08e24ee51602aa
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-unleash-potential-making-your-vids-go-viral/"><u>[New] 2024 Approved Unleash Potential Making Your Vids Go Viral</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-camera-mastery-expert-tips-for-selecting-best-iphone-views-for-2024/"><u>[New] Camera Mastery Expert Tips for Selecting Best iPhone Views for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-real-value-of-selfie-verifications/"><u>[New] The Real Value of Selfie Verifications?</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-absent-msvcr110dll-in-windows/"><u>Correcting Absent msvcr110.dll in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-wins-system-alert-messages-in-windows-1011/"><u>Correcting WINS System Alert Messages in Windows 10/11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Xiaomi 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/instant-permadelete-configuring-your-desktop-trash-bin-on-windows-11-devices/"><u>Instant PermaDelete: Configuring Your Desktop Trash Bin on Windows 11 Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-powershell-to-break-free-from-windows-file-blocks/"><u>Mastering PowerShell to Break Free From Windows File Blocks</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-setup-guide-for-launching-windows-media-player/"><u>Quick Setup Guide for Launching Windows Media Player</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/step-into-fantasy-with-these-samsung-gear-vr-titles/"><u>Step Into Fantasy with These Samsung Gear VR Titles</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-creative-processes-with-these-8-windows-best-apps/"><u>Streamline Creative Processes With These 8 Window's Best Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-for-winerror-x80780119-resolution/"><u>Techniques for WinError X80780119 Resolution</u></a></li>
+<li><a href="https://win-special.techidaily.com/top-rated-programs-for-boosting-pc-efficiency-insights-by-yl-software-experts/"><u>Top-Rated Programs for Boosting PC Efficiency: Insights by YL Software Experts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-your-non-responsive-laptop-trackpad-issues/"><u>Troubleshooting Guide: Fixing Your Non-Responsive Laptop Trackpad Issues</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-filmora-13-free-download-professional-video-editing-software-for-2024/"><u>Updated Filmora 13 Free Download Professional Video Editing Software for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-telnet-enablement-steps-explained/"><u>Windows 11 Telnet Enablement Steps Explained</u></a></li>
+</ul></div>
 

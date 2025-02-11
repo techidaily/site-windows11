@@ -1,7 +1,7 @@
 ---
 title: Accessing Windows 11 Homespace Options
-date: 2024-08-15T15:25:29.616Z
-updated: 2024-08-16T15:25:29.616Z
+date: 2025-02-09T03:12:14.157Z
+updated: 2025-02-11T01:10:17.772Z
 tags:
   - windows10
   - windows11
@@ -26,20 +26,18 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
 
 ![Current Settings app-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/current-settings-app-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Microsoft noticed this issue and created a new Home section in the revamped Settings app. At the time of writing, you can only find this new Settings app in the Windows Insider program.
 
  The new Home section brings all the common settings under one roof, so the users don't have to dive deep into the Settings app to change a network or personalization setting.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Enable the Home Section in the Settings App
 
  Repeat the following steps to enable and use the Home section in the Settings App:
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. Download the Latest Insider Build and ViveTool
 
  The new Settings app with a Home section is available in the Windows Insider Dev build 23493\. So, you must update your PC enrolled in the Dev channel to the build version 23493 or above. If you don't want to enroll your PC into the Windows Insider program or want to try out the build in a virtual machine, there’s an easy way.
@@ -61,18 +59,21 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
 5. Type **vivetool** and press the **Enter** key to check if the tool runs perfectly or not.  
 ![Enable the New Home Section in the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-the-new-home-section-in-the-settings-app.jpg)
 6. Now, type the following commands and press the **Enter** key to execute them one by one:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `vivetool /enable /id:42058345  
 vivetool /enable /id:42058313`
 7. **Close** the Command Prompt window.  
 ![Enable the New Home Section in the Settings App 2-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-the-new-home-section-in-the-settings-app-2-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8. **Restart** your PC to apply the changes made by the Vivetool in the Settings app.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Does the Enhanced Settings App Look Like?
 
  We compared the experimental and the old Settings app, and there are a few noticeable changes. For example, you automatically land on the Home section every time you open the enhanced Settings app.
@@ -80,8 +81,9 @@ vivetool /enable /id:42058313`
  As a result, it is easier to access commonly uses settings. For instance, the top section shows your current internet connection, alongside a Windows Update check button.
 
 ![New and old settings app side by side-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/new-and-old-settings-app-side-by-side-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Below that, there is a card that displays the recommended settings. You also get a bird’s eye view of the total available storage space in your Outlook account. There’s also a much-needed personalization card that you can use to change the themes and color mode of your Windows PC.
@@ -93,15 +95,14 @@ vivetool /enable /id:42058313`
  Still, it is a much-needed overhaul from the existing Settings app, which will improve the overall user experience. Microsoft is also trying out a Home section in the File Explorer app.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## A Revamped Settings App on Windows
 
  Microsoft’s take on the new Home section in the Settings app is a change we would definitely want to see in the stable builds in the upcoming months. But there are major changes arriving to the File Explorer and other Windows apps like the Photos app which recently got an update to support the dark mode and some zoom and usability improvements.
 
  However, it isn't just a cosmetic change because many utilities and Control Panel items are migrated to the Settings app. Microsoft also released a different version of the Settings app which incorporates a new Home section and a layout that will help you access the most commonly used settings. Let’s learn how to enable it on your PC.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -110,5 +111,22 @@ vivetool /enable /id:42058313`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-essential-guides-to-the-top-10-student-focused-history-vlogs/"><u>[New] 2024 Approved Essential Guides to the Top 10 Student-Focused History Vlogs</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-the-metaverse-memetic-guide-sparkle-with-satire-and-smiles/"><u>[New] The Metaverse Memetic Guide - Sparkle with Satire and Smiles</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-high-def-streaming-cameras-for-social-media-giants/"><u>[Updated] 2024 Approved High-Def Streaming Cameras for Social Media Giants</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-essential-insights-for-asmr-aficionados-for-2024/"><u>[Updated] Essential Insights for ASMR Aficionados for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-template-hacks-for-building-professional-youtube-intros-for-2024/"><u>[Updated] Template Hacks for Building Professional YouTube Intros for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/a-revolutionary-e-reader-for-book-lovers-the-kobo-forma-committed-to-quality-reading/"><u>A Revolutionary E-Reader for Book Lovers: The Kobo Forma Committed to Quality Reading</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-conquer-common-errors-during-windows-11-rollout/"><u>How to Conquer Common Errors During Windows 11 Rollout</u></a></li>
+<li><a href="https://windows11.techidaily.com/illuminate-with-joy-magical-holiday-window-decor/"><u>Illuminate with Joy: Magical Holiday Window Decor</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/online-vertical-video-editing-made-easy-top-tools-for-2024/"><u>Online Vertical Video Editing Made Easy Top Tools for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-tip-addressing-winscomrsvc-system-crashes/"><u>Quick Tip: Addressing WinscomrsVc System Crashes</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-windows-marketplace-failures-x80131500/"><u>Resolving Windows Marketplace Failures X80131500</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/three-effective-solutions-to-resolve-the-windows-server-post-login-blank-screen-issue/"><u>Three Effective Solutions to Resolve the Windows Server Post-Login Blank Screen Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleashing-text-selection-power-in-windows-pdf-files/"><u>Unleashing Text Selection Power in Windows PDF Files</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-which-software-is-best-for-logo-animation-having-a-great-animated-logo-can-be-a-great-strategy-to-engage-your-audience-here-are-over-11-best/"><u>Updated In 2024, Which Software Is Best for Logo Animation? Having a Great Animated Logo Can Be a Great Strategy to Engage Your Audience. Here Are over 11 Best Logo Animation Makers and Making Tips for You</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-11-revolution-essential-replacement-tools-to-consider/"><u>Win 11 Revolution: Essential Replacement Tools to Consider</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Addressing Windows' Unplayable File Challenge
-date: 2024-08-15T15:25:30.640Z
-updated: 2024-08-16T15:25:30.640Z
+date: 2025-02-08T16:08:31.568Z
+updated: 2025-02-11T08:04:50.391Z
 tags:
   - windows10
   - windows11
@@ -38,11 +38,20 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 5. Then, expand the **Presets** section on the right-hand side and choose an output that is compatible with your media player.  
 ![Choose a preset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/choose-preset.jpg)
 6. If you want to set a Preset as the default preference, click on **Manage Presets**, choose the desired option, and click on **Set as default**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Set a preset as default](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-preset-default.jpg)
 7. Configure additional settings according to your preferences. This is optional, so you can also choose the default preset settings.
 8. Click on the **Start Encode** button and wait for the tool to start re-encoding the media file into the desired format.
 
  Once done, play the converted file and check if the issue is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Run the Relevant Windows Troubleshooters
 
@@ -58,19 +67,18 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 2. Type "control" in Run and click Enter.
 3. Type "Troubleshooting" in the search bar of the Control Panel and click on the most appropriate result.  
 ![Choose Troubleshooting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/click-on-troubleshooting.jpg)
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Move to the right pane and click **View all**.  
 ![Click on the View all option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/click-view-all.jpg)
 5. In the following window, locate **Windows Media Player Settings** and double-click on it.  
 ![Click on the Windows Media Player settings option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-media-player-settings.jpg)
 6. Choose **Advanced** and checkmark the box associated with **Apply repairs automatically**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Now, click on the **Run as administrator** hyperlink to launch the troubleshooter and proceed with the on-screen instructions.  
 ![Choose Apply repairs automatically option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/apply-repairs-automatically.jpg)
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8. If the troubleshooter identifies a problem and suggests a solution, click on **Apply this fix**.
 
  If the Media Player troubleshooter does not help, we suggest running the Video Playback troubleshooter and see if that makes any difference.
@@ -82,15 +90,13 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 3. In the following window, click on **Other troubleshooters**.
 4. Scroll down to the **Other** section to locate the Video Playback troubleshooter and click on the **Run** button for it.  
 ![Run the Video Playback troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/video-playback-troubleshooter-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Wait for the troubleshooter to complete its scan and then check the results. If the troubleshooter suggests fixes, click on **Apply this fix**.
 6. Otherwise, choose **Close the troubleshooter** and move to the next method below.
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Check for File Corruption
 
  There is also a chance that the file you are trying to play is dealing with a corruption error, which has made it unreadable and unusable. Typically, in cases such as this one, the users are able to play other similar files without any problems.
@@ -99,9 +105,6 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 
  It is important to note that not all corrupt files can be repaired or recovered completely, and the extent of damage can influence the chances of recovery. This is why, we highly recommend [backing up your important files](https://www.makeuseof.com/tag/ultimate-windows-10-data-backup-guide/) in Windows to prevent data loss.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## 4\. Use a Different Media Player
 
  You can also try playing the targeted file in a different media player and check if that makes any difference. This is because different media players have different coding algorithms and may also have built-in troubleshooting mechanisms that can handle certain types of file corruptions easily.
@@ -109,8 +112,9 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
  If you don't already have an alternative media player installed, we have a guide on some [highly recommended free media players for Windows](https://www.makeuseof.com/tag/top-5-free-media-players-for-windows/) that can provide a seamless experience without errors.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Different Ways to Fix the 0xc10100bf Error
 
  The media player error 0xc10100bf in Windows can be annoying but hopefully, the solutions listed above will help you fix it for good.
@@ -119,8 +123,6 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 
  Below, we walk you through the different solutions you can try to fix the issue for good, and run your media files without any problems.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -128,5 +130,20 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-boost-your-video-skills-using-adobe-connect-for-editing-techniques-for-2024/"><u>[New] Boost Your Video Skills Using Adobe Connect for Editing Techniques for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-viral-video-vanguard-youtubes-1-24-hours-list/"><u>[Updated] 2024 Approved Viral Video Vanguard YouTube's #1 24 Hours List</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-leading-tools-to-uncover-trending-tags-on-fb-twt-and-ig-sites/"><u>[Updated] Leading Tools to Uncover Trending Tags on FB, Twt & IG Sites</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-expert-guide-to-overcoming-instagrams-video-obstacles/"><u>2024 Approved Expert Guide to Overcoming Instagram's Video Obstacles</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-polaroid-camplus-cube-analysis-when-life-is-on-screen/"><u>2024 Approved Polaroid Cam+ Cube Analysis When Life Is on Screen</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-watch-deleted-youtube-secrets-to-accessing-lost-content/"><u>2024 Approved Watch Deleted YouTube Secrets to Accessing Lost Content</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/brand-collaboration-for-youtube/"><u>Brand Collaboration for YouTube</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminate-loadlibrary-error-87-misconfiguration/"><u>Eliminate LoadLibrary Error 87 Misconfiguration</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-missing-initialization-message-on-windows-pc/"><u>Fixing 'Missing Initialization' Message on Windows PC</u></a></li>
+<li><a href="https://media-tips.techidaily.com/seamless-techniques-for-changing-video-formats-on-macos-and-windows-pcs/"><u>Seamless Techniques for Changing Video Formats on macOS & Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-quickest-quality-nine-fixes-to-enhance-your-video-on-pc/"><u>The Quickest Quality: Nine Fixes to Enhance Your Video on PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-wireless-charging-pads-industry-experts-reviews-pcmag/"><u>Top-Rated Wireless Charging Pads - Industry Experts' Reviews | PCMag</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-wow-steps-to-overcome-error-132/"><u>Win11 WoW: Steps to Overcome Error #132</u></a></li>
+</ul></div>
 

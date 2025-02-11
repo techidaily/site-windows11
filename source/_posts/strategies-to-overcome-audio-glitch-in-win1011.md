@@ -1,7 +1,7 @@
 ---
 title: Strategies to Overcome Audio Glitch in Win10/11
-date: 2024-08-15T15:25:16.903Z
-updated: 2024-08-16T15:25:16.903Z
+date: 2025-02-04T16:07:40.341Z
+updated: 2025-02-10T21:22:38.582Z
 tags:
   - windows10
   - windows11
@@ -31,9 +31,6 @@ thumbnail: https://thmb.techidaily.com/1fa3b9714516519d17cdc00ae160f98cb4b200553
 
  Below, we have listed different troubleshooting methods that can help you fix the problem in no time, regardless of the cause. Choose the solution that is most appropriate for your situation.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Check the File Format of the File You're Playing
 
  Different media players and codecs support different file formats, and if the file you are trying to play is in an unsupported format, the player will fail to play it, leading to the problem at hand.
@@ -52,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/1fa3b9714516519d17cdc00ae160f98cb4b200553
 
  We covered how to use this handy tool in our guide on [fixing no audio on Windows](https://www.makeuseof.com/tag/no-sound-7-tips-fix-audio-issues-windows-10/) , so check that out for further details.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Re-enable Windows Media Player
 
  In some cases, while the Media Player is waiting for a missing codec or a corrupt file to load, it may become unresponsive, triggering the error code 0xc00d36b4\. If this happens, it is best to force close the media player and re-enable it to fix the problem.
@@ -66,16 +67,14 @@ Here is how you can do that:
 5. Now, scroll down and expand the**Media Features** option.
 6. Uncheck the box associated with Windows Media Player and click**OK** to save the changes.  
 ![Disable Windows Media Player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/disable-windows-media-player.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 7. Confirm your action in the User Account Control prompt and restart your computer.
 8. Upon reboot, restart the service by following the same steps mentioned above.
 9. Finally, restart your computer again and check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Uninstall Nero Codecs
 
  As we mentioned above, if you have Nero Codecs installed on your computer, then there is a chance that it is interfering with the processes of Groove Music or the Windows Media Player.
@@ -89,9 +88,6 @@ Here is how you can do that:
 ![Uninstall the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/win11-uninstall-program.jpg)
 5. Once done, restart your computer and check if the issue is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ## 5\. Disable Copy Protection
 
  In some cases, users noticed that the copy protection feature was preventing certain files from being played. This feature is typically used to prevent unauthorized copying and distribution of copyrighted content but can also cause conflicts with the relevant hardware and software.
@@ -103,21 +99,23 @@ Here is how you can do that:
 1. Open the Windows Media Player and click on the**Organize** button in the top-left.
 2. Choose**Options** from the context menu.  
 ![Choose Options in Media Player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/media-player-options.jpg)
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Head over to the**Rip Music** tab and uncheck the box associated with**Copy protect music** .  
 ![Uncheck the Copy protect music option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/copy-protect-music.jpg)
 4. Click**Apply** \>**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Update Audio Drivers
 
  There can be a problem with the audio drivers installed on the system, which is preventing them from communicating with the relevant hardware and leading to the problem.
 
  This typically happens when the drivers are either corrupt or outdated. Fortunately, both of these issues can be fixed by [updating the audio drivers on Windows](https://www.makeuseof.com/update-audio-drivers-windows/) . The easiest way of doing this is by using the Device Manager utility that comes with Windows by default.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Reinstall Windows Media Player
 
@@ -126,22 +124,20 @@ Here is how you can do that:
  Alternatively, you can also consider switching to a third-party media player that offers a similar functionality until Microsoft releases an official fix for this issue. We have discussed some of the [best free media players for Windows](https://www.makeuseof.com/tag/top-5-free-media-players-for-windows/) in our previous guide which you can head over to, to make an informed decision.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Audio Issues in Windows, Resolved
 
  By implementing the troubleshooting methods we've covered in this guide, you should be able to resolve the audio error 0xc00d36b4 on your Windows system once and for all. We highly recommend keeping your system and software up-to-date and ensuring that you have the necessary codecs installed to avoid encountering such issues in the future.
 
  However, if the problem persists, you can always reach out to the official Microsoft support team for further assistance. They will be able to investigate the issue and provide you with a relevant solution.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -150,8 +146,26 @@ Here is how you can do that:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-transform-movie-colors-with-cg-centrals-luts-guide/"><u>[New] Transform Movie Colors with CG Central's Luts Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-stability-essentials-for-online-videography/"><u>[Updated] In 2024, Stability Essentials for Online Videography</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-prime-top-5-virtual-reality-drones/"><u>[Updated] Prime Top 5 Virtual Reality Drones</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-seamless-stream-to-song-transition-with-top-video-mp3-tools/"><u>2024 Approved Seamless Stream-to-Song Transition with Top Video-MP3 Tools</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-the-social-media-sphere-speaking-up-to-fans/"><u>2024 Approved The Social Media Sphere Speaking Up to Fans</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/combining-youtube-harmonies-in-moving-images-for-2024/"><u>Combining YouTube Harmonies in Moving Images for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/decoding-apples-leap-comparing-m1-pro-and-m1-max-capabilities-for-2024/"><u>Decoding Apple's Leap Comparing M1 Pro & M1 Max Capabilities for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elite-selection-of-podcasts-on-googles-shelf/"><u>Elite Selection of Podcasts on Google's Shelf</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-geforce-experiences-unable-to-retrieve-settings-error-in-windows-11-and-11/"><u>How to Fix GeForce Experience’s “Unable to Retrieve Settings” Error in Windows 11 & 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maximizing-loot-strategies-for-optimal-frame-skips-in-mass-effect-le/"><u>Maximizing Loot: Strategies for Optimal Frame Skips in Mass Effect LE</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-window-11-email-app-error-code-0x800713f/"><u>Overcoming Window 11 Email App Error Code 0X800713F</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-camera-error-code-0xa00f425d/"><u>Overcoming Windows Camera Error Code: 0XA00F425D</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-launch-hacks-opening-windows-11-apps-faster/"><u>Quick Launch Hacks: Opening Windows 11 Apps Faster</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-edges-continuous-desktop-appearance/"><u>Resolving Edges' Continuous Desktop Appearance</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-unblock-windows-nvidia-setup-window/"><u>Strategies to Unblock Windows Nvidia Setup Window</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/synologys-stronghold-an-in-depth-look-at-the-accomplished-rt2600ac-mastery-over-range-and-offspring-security/"><u>Synology's Stronghold: An In-Depth Look at the Accomplished RT2600ac - Mastery Over Range & Offspring Security!</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-secure-password-vaults-elevating-windows-11-standards/"><u>Top Secure Password Vaults Elevating Windows 11 Standards</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-error-code-0x80071a90-in-windows/"><u>Unraveling Error Code 0X80071A90 in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/why-microsoft-family-safety-matters-for-parents/"><u>Why Microsoft Family Safety Matters for Parents</u></a></li>
+</ul></div>
 

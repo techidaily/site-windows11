@@ -1,7 +1,7 @@
 ---
 title: How to Fix the NVIDIA Control Panel Not Saving Settings in Windows 11
-date: 2024-08-15T15:27:48.911Z
-updated: 2024-08-16T15:27:48.911Z
+date: 2025-02-08T05:53:36.126Z
+updated: 2025-02-11T02:27:31.311Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/728afd7e20b349094de30222af4ebc05eabd7a8ee
 
  To disable a third-party security program, right-click on its icon present in the system tray area and choose**Disable** from the menu that crops up. Alternatively, you can check the security application user manual to know more about the disabling process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Download the Latest NVIDIA Graphics Driver Update
 
  We cannot stress enough the importance of having the latest graphics driver update installed on your computer. An updated graphics driver ensures that your system performs better with other peripherals and is free from driver-related issues.
@@ -47,23 +51,22 @@ thumbnail: https://thmb.techidaily.com/728afd7e20b349094de30222af4ebc05eabd7a8ee
 ![Uninstall option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/uninstall-option-2.jpg)
 5. Now, wait until the Device Manager uninstalls the NVIDIA graphics driver.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After that, restart your computer and head toward the [NVIDIA driver download website](https://www.nvidia.com/download/index.aspx) . Enter your driver details and search for and download the latest update.
 
 ![NVIDIA Driver download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/nvidia-driver-download.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once the download is complete, launch the installer and follow the on-screen instructions to complete the installation process.
 
 ![NVIDIA Installer to update NVIDIA graphics driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/nvidia-installer.jpg)
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Customize NVIDIA Corporation Folder Settings
 
  The NVIDIA Corporation folder contains all the important files and settings related to the NVIDIA graphics card driver. If you do not have permission to access or make changes to this folder, the NVIDIA Control Panel will fail to save settings.
@@ -74,33 +77,30 @@ thumbnail: https://thmb.techidaily.com/728afd7e20b349094de30222af4ebc05eabd7a8ee
 2. Right-click on the**NVIDIA Corporation** folder and choose**Properties.**
 3. Switch to the**Security** tab and click the**Edit** button.  
 ![Edit option in the NVIDIA Corporation Folder Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/edit-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Select your username from the**Group or user names** section and then check the**Full Control** checkbox.  
-![Full control checkbox in the folder properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/full-control-checkbox.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Full control checkbox in the folder properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/full-control-checkbox.jpg)
 5. Click**Apply** \>**OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  That's it! Restart your system, and you'll see that you can easily save settings in the NVIDIA Control Panel.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Customize Your NVIDIA Experience With the Control Panel Once More
 
  The NVIDIA Control Panel allows you to customize its settings per your preference. However, due to corrupt drivers, security applications, and lack of permissions, the NVIDIA Control Panel will not be able to save settings in Windows 11\. Fortunately, it's a very common issue and can easily be solved using the above solutions.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -109,8 +109,18 @@ thumbnail: https://thmb.techidaily.com/728afd7e20b349094de30222af4ebc05eabd7a8ee
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-leading-edge-top-15-on-the-go-video-gear/"><u>[New] In 2024, Leading Edge Top 15 On-the-Go Video Gear</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-dayz-keeps-crashing-quickly-and-easily/"><u>[Solved] DayZ Keeps Crashing | Quickly & Easily</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-tracker-tools-the-ultimate-6-list-for-windows-users/"><u>Essential Tracker Tools: The Ultimate 6 List For Windows Users</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2039178-9781785350146-i-know-how-to-live-i-know-how-to-die/"><u>I Know How To Live, I Know How To Die | Free Book</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-kids-earning-big-the-success-story-of-young-ryan-kaji/"><u>In 2024, Kids Earning Big The Success Story of Young Ryan Kaji</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-win11-pointer-adjustments-for-access/"><u>Mastering Win11 Pointer Adjustments for Access</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ize-impact-sharing-youtube-videos-on-social-media-fb-for-2024/"><u>Maximize Impact Sharing YouTube Videos on Social Media (FB) for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/rectify-stalling-windows-guard-mechanism-in-win-11/"><u>Rectify Stalling Windows Guard Mechanism in Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-frustrating-apex-legends-crashes-in-win11/"><u>Resolving Frustrating Apex Legends Crashes in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-completely-removing-wsl-in-win-11/"><u>Step-by-Step: Completely Removing WSL in Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-stopping-self-activating-store-app/"><u>Strategies for Stopping Self-Activating Store App</u></a></li>
+</ul></div>
 

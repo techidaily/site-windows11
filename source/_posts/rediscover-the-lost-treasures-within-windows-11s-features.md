@@ -1,7 +1,7 @@
 ---
 title: Rediscover the Lost Treasures Within Windows 11'S Features
-date: 2024-08-15T15:28:06.212Z
-updated: 2024-08-16T15:28:06.212Z
+date: 2025-02-03T21:38:33.257Z
+updated: 2025-02-11T01:48:39.961Z
 tags:
   - windows10
   - windows11
@@ -24,20 +24,18 @@ thumbnail: https://thmb.techidaily.com/43ea76cba9094b7e586764e6bda808f45025f3885
 
  Here are a few features of Windows 11 we think you should know about and use more often:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Get Familiar With Snap Layouts
 
  This is one of the most effective ways to boost your productivity in Windows 11, and frankly, everyone should be using this neat feature. Microsoft introduced a new set of layout options to snap windows side-by-side or in a tiled format on your screen. This tool is so powerful and simple to use—it’s built into the OS—that it seems obvious Microsoft will expand on it in the next iteration of their desktop operating system.
 
 ![windows 11 snap layouts three windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/windows-11-snap-layouts-three-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  We’ve covered [how to use Snap Layouts in Windows 11](https://www.makeuseof.com/how-to-use-snap-layouts-in-windows-11/) in a separate article that also explains customizing them to best suit how you work.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Use Widgets to Your Advantage
 
  We’ve probably all used widgets on our phones. The compact tiles give us information at a glance without having to open apps and perform multiple clicks to get the information we want. And apart from its own widgets, Windows 11 also supports those from third parties.
@@ -45,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/43ea76cba9094b7e586764e6bda808f45025f3885
 ![Enable Widgets from Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-widgets-from-settings.jpg)
 
  They are so easy to use and so terribly useful, that we suggest [getting started with Windows 11 widgets](https://www.makeuseof.com/windows-11-widgets-starter-tips/) right away. And there’s an easy fix if your [Windows 11 widgets are not working](https://www.makeuseof.com/windows-11-widgets-not-working/) —a frustrating situation indeed to find yourself in.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Get More Productive With Focus Sessions
 
@@ -59,33 +61,30 @@ thumbnail: https://thmb.techidaily.com/43ea76cba9094b7e586764e6bda808f45025f3885
  If you found the Windows 10 clipboard somewhat limited in capability, you’ll be pleased to know that the clipboard manager underwent something of an overhaul in Windows 11\. You can copy multiple items to the clipboard and access them easily via clipboard history. The Windows 11 clipboard even has support for emojis and kaomoji.
 
 ![The Clipboard history tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/the-clipboard-history-tab.png)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 
  Even though it may seem overwhelming, there’s nothing complicated about [using the improved clipboard manager in Windows 11](https://www.makeuseof.com/how-to-use-clipboard-manager-in-windows-11/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ### 5\. Quicker Text Capture With Voice Typing
 
  Here’s another feature that you’ve probably been using on mobile already. Voice typing makes it easier for you to send text messages by simply talking into your microphone. The feature is baked into Windows 11 so you don’t have to install third-party software to make your work more productive.
 
 [Microsoft’s voice typing tool on Windows](https://www.makeuseof.com/how-to-start-voice-typing-on-windows-11/) can be powerful if used correctly, and it is not difficult to [set up voice access on Windows 11](https://www.makeuseof.com/windows-11-enable-voice-access/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Use Taskbar Hotkeys for Fast Switching
 
  The Windows 11 taskbar automatically sets up hotkeys when you pin items to it. Not sure what a hotkey is? We’ve got more about them and [how to make your own hotkeys](https://www.makeuseof.com/what-is-a-hotkey-how-to-make-custom/) .
 
 ![Taskbar keyboard shortcut numbers for pinned apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/keyboard-shortcut-numbers-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  You can quickly switch to a specific window or application by using the Windows key in conjunction with a number key that corresponds to the position of the pinned item. Especially for lower numbers, this shaves off seconds when switching between windows and apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7\. Android / Linux Emulators
 
@@ -94,8 +93,9 @@ thumbnail: https://thmb.techidaily.com/43ea76cba9094b7e586764e6bda808f45025f3885
  The process to [install Windows Subsystem for Android](https://www.makeuseof.com/windows-11-sideload-android-apps/) and [for Linux](https://www.makeuseof.com/windows-11-install-run-bash/) isn’t all that straightforward, so it might keep the everyday Windows 11 user away. But keep in mind that [running Android apps on Windows](https://www.makeuseof.com/windows-11-android-system-requirements/) will need a PC with top-notch specs.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## It Would Be Best to Familiarize Yourself With These Windows 11 Features
 
  Windows 11 has a few great features that can help you become more productive. Not all of them are easy to access; some Windows 11 features are quite well-hidden. You owe it to yourself to leverage the capabilities of the OS.
@@ -106,8 +106,6 @@ thumbnail: https://thmb.techidaily.com/43ea76cba9094b7e586764e6bda808f45025f3885
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -115,8 +113,22 @@ thumbnail: https://thmb.techidaily.com/43ea76cba9094b7e586764e6bda808f45025f3885
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/uilding-a-successful-online-presence-wirecast-streaming-to-youtube-for-2024/"><u>[New] Building a Successful Online Presence WireCast Streaming to Youtube for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-boost-your-photography-game-complimentary-basics-plus-expandable-paid-lut-options/"><u>[New] In 2024, Boost Your Photography Game Complimentary Basics + Expandable Paid LUT Options</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-transform-your-content-expert-techniques-for-facebook-lives/"><u>[New] In 2024, Transform Your Content Expert Techniques for Facebook Lives</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-cutting-edge-techniques-for-3d-text-illustration/"><u>[Updated] In 2024, Cutting-Edge Techniques for 3D Text Illustration</u></a></li>
+<li><a href="https://windows11.techidaily.com/automate-your-photo-display-craft-the-ultimate-win11-slideshow/"><u>Automate Your Photo Display - Craft the Ultimate Win11 Slideshow</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-download-velocity-in-steam-fending-off-drops/"><u>Boosting Download Velocity in Steam: Fending Off Drops</u></a></li>
+<li><a href="https://windows11.techidaily.com/chronological-corrections-6-utilities-to-edit-file-timestamps/"><u>Chronological Corrections: 6 Utilities to Edit File Timestamps</u></a></li>
+<li><a href="https://windows11.techidaily.com/from-voice-to-text-in-minutes-harnessing-whispers-potential/"><u>From Voice to Text in Minutes: Harnessing Whisper's Potential</u></a></li>
+<li><a href="https://win-answers.techidaily.com/house-flipper-sstem-how-to-prevent-the-game-from-crashing-while-playing-on-a-desktop/"><u>House Flipper ˈsɪstem: How to Prevent the Game From Crashing While Playing on a Desktop</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-captivating-vlog-narratives/"><u>In 2024, Crafting Captivating Vlog Narratives</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-oneplus-ace-2-pro-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from OnePlus Ace 2 Pro Phones with/without a PC</u></a></li>
+<li><a href="https://win-webster.techidaily.com/mac-command-key-redefinition-a-step-by-step-guide/"><u>Mac Command Key Redefinition: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/supercharging-download-speeds-tips-and-tricks-for-ms-marketplace/"><u>Supercharging Download Speeds: Tips & Tricks for MS Marketplace</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-microsoft-store-error-code-0x80072f30/"><u>Troubleshooting Microsoft Store: Error Code 0X80072F30</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-honor-90-pro-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Honor 90 Pro Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+</ul></div>
 

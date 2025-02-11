@@ -1,7 +1,7 @@
 ---
 title: "Seamless Windows Upgrades: Mastering the Installation of Elusive Features"
-date: 2025-01-24T06:29:37.581Z
-updated: 2025-01-30T04:33:02.282Z
+date: 2025-02-06T23:02:06.091Z
+updated: 2025-02-10T23:22:07.914Z
 tags:
   - windows10
   - windows11
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/a24327de3f954b0afa1a21a400dc142c840e7eb4a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use the DISM Tool
 
  One of the first things you can try is using the Deployment Image Servicing and Management (DISM) tool. This tool is part of Windows, and you can use it to fix corrupt system files, including ones that could be causing problems when installing optional features.
@@ -42,6 +46,10 @@ To use the DISM tool, follow these steps:
 
  Once the process is complete, you can restart your computer and try installing the optional feature again. If DISM does not work or throws an error code, make sure to go through the[DISM not working fixes](https://www.makeuseof.com/windows-11-dism-error-2-fix/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Run the System File Checker or SFC Utility
 
  Another tool you can use to fix issues with optional feature installation is the System File Checker (SFC) utility.
@@ -55,9 +63,17 @@ To check your system using SFC, follow these steps:
 ![SFC Utility In Windows Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-utility-in-windows.jpg)
 3. Once SFC scans for errors, make sure to restart your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Want to know the best part?
 
  The best part is that the System File Checker not only helps you fix the optional features problem but also any other Windows issues. In fact, it's one of the best[ways to repair corrupted Windows files](https://www.makeuseof.com/windows-built-in-repair-tools/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Reset the Windows Update Components
 
@@ -85,10 +101,6 @@ net start msiserver`
 
  While the commands may look intimidating, you don't need to worry, as all the commands mentioned above will not cause any harm to your system.​​​​
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Run the Windows Update Troubleshooter
 
  If the Command Prompt method did not work for you, you can use the Windows Update Troubleshooter to reset update components. This tool can help identify and fix problems with the update process, including issues that might be preventing optional features from installing.
@@ -99,6 +111,10 @@ Follow these steps to run the update troubleshooter on Windows:
 2. Scroll down and click**Troubleshoot > Other troubleshooters.**  
 ![Troubleshooter Settings In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/troubleshooter-settings-in-windows.jpg)
 3. Click**Run** next to**Windows Update** to run the troubleshooter.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Other Troubleshooters In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/other-troubleshooters-in-windows.jpg)
 4. Follow the prompts to complete the troubleshooting process.
@@ -119,17 +135,9 @@ Here's how you can update Windows to the latest version:
 2. Click on**Windows** **Update > Check for updates** on Windows 11\. For Windows 10, click on **Update & Security > Windows Update > Check for Updates** .  
 ![Windows Update In Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-update-in-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  That's it. Now, you can install any update that is available for your computer.
 
  By default, Windows automatically downloads and installs updates, but you can also check for updates manually by following the steps above.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Restart the Windows Module Installer Service
 
@@ -143,13 +151,13 @@ Here's how you can update Windows to the latest version:
 4. Right-click on the service and select**Restart** .  
 ![Windows Modules Installer Service In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-modules-installer-service.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When you reset the module installer service, Windows tries to stop it and then start it again, which can help reset the installation process of optional features and fix any issues that might be causing problems.
 
  Once the service restarts, try installing the optional feature again, and it should work now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Restore Windows Features Using PowerShell
 
@@ -164,18 +172,10 @@ Get-WindowsOptionalFeature -Online
 ![Get Optional Feature Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/get-optional-feature-command.jpg)  
  This command will show you the**FeatureName** and**State** of every optional Windows feature that you can use. Make sure to copy the "**FeatureName** " of the feature that you want to enable on Windows.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. To turn on a certain feature, use the following command and replace "**FEATURENAME** " with the feature's name that you copied earlier:  
 Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME  
 ![Enable Optional Feature Command In PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/optional-feature-in-powershell.jpg)
 5. Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This will add the feature back to your system and should make it available for you to enable or disable in the features window.
 
@@ -202,17 +202,18 @@ Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-mp4-player-guide-top-selections/"><u>[New] In 2024, MP4 Player Guide Top Selections</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-frame-your-cinematic-tales-three-paths-for-instagram-borders-for-2024/"><u>[Updated] Frame Your Cinematic Tales Three Paths for Instagram Borders for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-navigating-the-world-of-webcams-for-high-quality-streams/"><u>[Updated] Navigating the World of Webcams for High-Quality Streams</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-understanding-googles-ar-sticker-innovation/"><u>[Updated] Understanding Google's AR Sticker Innovation</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/comment-supprimer-le-lecteur-c-en-mode-prive-sur-windows-nk-strategies-flexibles-pour-une-navigation-sans-probleme/"><u>Comment Supprimer Le Lecteur C en Mode Privé Sur Windows Nk - Stratégies Flexibles Pour Une Navigation Sans Problème</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/creating-impactful-youtube-thumbnails-and-ads/"><u>Creating Impactful YouTube Thumbnails & Ads</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-podcasts-versus-video-based-platforms-who-wins/"><u>In 2024, Podcasts versus Video-Based Platforms – Who Wins?</u></a></li>
-<li><a href="https://windows11.techidaily.com/reconciling-windows-1110-error-0x80070522-client-privileges/"><u>Reconciling Windows 11/10 Error 0X80070522: Client Privileges</u></a></li>
-<li><a href="https://windows11.techidaily.com/skyrocketing-virtual-workspace-with-6-effective-windows-methods/"><u>Skyrocketing Virtual Workspace with 6 Effective Windows Methods</u></a></li>
-<li><a href="https://games-able.techidaily.com/solo-to-squad-transitioning-to-xboxs-future-console/"><u>Solo to Squad: Transitioning to Xbox's Future Console</u></a></li>
-<li><a href="https://windows11.techidaily.com/taming-the-0x80860010-error-streamlining-windows-app-functionality/"><u>Taming the 0X80860010 Error: Streamlining Windows App Functionality</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-hidden-magic-effortless-image-editing-on-your-pc/"><u>The Hidden Magic: Effortless Image Editing on Your PC</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-smooth-iphone-screen-recording-made-simple/"><u>[New] In 2024, Smooth iPhone Screen Recording Made Simple</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-is-active-the-premier-choice-for-tech-enthusiasts/"><u>[Updated] 2024 Approved Is Active the Premier Choice for Tech Enthusiasts?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-ultimate-hash-tracker-list-for-major-social-media-sites-fbtwitterinsta/"><u>[Updated] In 2024, Ultimate Hash Tracker List for Major Social Media Sites (FB/Twitter/Insta)</u></a></li>
+<li><a href="https://windows11.techidaily.com/adjusting-onedrives-abode-in-the-windows-11-ecosystem/"><u>Adjusting OneDrive's Abode in the Windows 11 Ecosystem</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-anarchy-how-to-heal-fractured-win11-registry-elements/"><u>Avoiding Anarchy: How to Heal Fractured Win11 Registry Elements</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-sony-xperia-1-v-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Sony Xperia 1 V</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-your-dream-of-apple-sports-come-true-a-free-and-user-friendly-iphone-app-reviewed-by-experts/"><u>Experience Your Dream of Apple Sports Come True: A Free and User-Friendly iPhone App Reviewed by Experts</u></a></li>
+<li><a href="https://windows11.techidaily.com/from-handheneld-to-hardware-android-titles-on-windows-via-google-service/"><u>From Handheneld to Hardware: Android Titles on Windows via Google Service</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-realme-c67-4g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme C67 4G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-over-lav-filters-a-comprehensive-guide-to-effective-use-in-windows/"><u>Mastery Over LAV Filters: A Comprehensive Guide to Effective Use in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/software-selection-showdown-on-windows-choc-vs-wm/"><u>Software Selection Showdown on Windows: Choc vs WM</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-tasks-in-windows-11-with-a-customized-run-command-setup/"><u>Streamline Tasks in Windows 11 with a Customized Run Command Setup</u></a></li>
 </ul></div>
 

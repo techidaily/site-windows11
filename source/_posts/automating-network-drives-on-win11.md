@@ -1,7 +1,7 @@
 ---
 title: Automating Network Drives on Win11
-date: 2024-08-15T15:24:33.546Z
-updated: 2024-08-16T15:24:33.546Z
+date: 2025-02-07T06:03:34.142Z
+updated: 2025-02-10T18:35:42.178Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,11 @@ Follow the sets below to enable network discovery on Windows:
 3. Next, click on the**Advanced sharing settings** option under**More Settings** .  
 ![Windows Advanced Network Sharing Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-advanced-network-settings.jpg)
 4. Open the**Private networks** settings and set the toggle next to**Network discovery** to**On** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Windows Advanced Sharing Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-advanced-sharing-settings.jpg)
 5. If you're looking to access a printer on the network, make sure to enable**File and printer sharing** .
 
@@ -46,9 +51,6 @@ Follow the sets below to enable network discovery on Windows:
 
  Therefore, it's crucial to ensure that you have a strong password and [customize your default Windows Firewall](https://www.makeuseof.com/windows-firewall-control-guide/) to protect your device in case something goes wrong.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Map a Network Drive Using File Explorer
 
  Once you have turned on network discovery, you can map a network drive in Windows 11 using File Explorer.
@@ -59,22 +61,25 @@ Here's what you need to do to use File Explorer for mapping:
 2. Right-click on**This PC** and select the**Map network drive...** button in the context menu that appears.  
 ![This PC Context Menu In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/this-pc-context-menu-in-windows.jpg)
 3. Choose a unique drive letter in the**Map Network Drive** window. This is the drive you'll use to access the shared folder from your computer. As an example, we've selected**A:** as the drive letter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Enter the path to the shared folder you want to map in the**Folder:** field. This can be a local path on the computer, such as**\\\\YourComputer\\SharedFolder** , or a network path, such as**\\\\ServerName\\SharedFolder** .  
 ![Windows Shared Network Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-shared-network-folder.jpg)
 5. If you need a username and password to access the shared folder, check the**Connect using different credentials** box and enter the required information.
 6. Click**Finish** to complete the mapping process.  
 ![Map Network Drive In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/map-network-drive-in-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Once you have completed these steps, it'll map the folder to the specified drive letter in File Explorer. You can access the shared folder at any time by double-clicking on the drive.
 
  Want to access the shared folder in milliseconds? You can create a shortcut to the mapped network drive on your desktop for quick access.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Use Windows PowerShell for Mapping
 
  Windows PowerShell is a Windows command-line utility that provides a powerful set of tools and commands. One of the tasks you can perform using PowerShell is to map a network drive.
@@ -86,10 +91,6 @@ Follow these instructions to map a drive using Windows PowerShell:
 3. In the PowerShell window, type the following command, replacing**DRIVE** with the drive letter you want to use and**\\** **\\ServerName\\SharedFolder** with the path to the shared folder:  
 New-PSDrive -Name DRIVE -PSProvider FileSystem -Root \\ServerName\SharedFolder  
 ![PowerShell Mapping Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/powershell-mapping-command.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 4. If the shared folder requires a username and password to access, you can add the -Credential parameter to the command, followed by a username and password in the format username and password. For example:  
 New-PSDrive -Name X -PSProvider FileSystem -Root \\ServerName\SharedFolder -Credential username password
 5. Hit**Enter** to allow PowerShell to map the network drive. You can access the mapped drive from File Explorer now.
@@ -113,8 +114,9 @@ net use DRIVE \\ServerName\SharedFolder /user:username pass
  That's it. It'll take a few seconds, and then you can access the mapped drive from File Explorer with one click.
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Disconnect a Mapped Network Drive
 
  Disconnecting the network drive is a no-brainer if you no longer need access to the files on it.
@@ -126,25 +128,23 @@ net use DRIVE \\ServerName\SharedFolder /user:username pass
 ![Disconnect Mapped Drive In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disconnect-mapped-drive.jpg)
 3. In the next window, choose the drive letter or name of the network drive you want to disconnect. Click**OK** to disconnect it from your system.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The mapped network drive will now disappear from File Explorer, and you can no longer access it from the drive letter you created earlier.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Map Network Drives Easily in Windows 11
 
  Mapping a network drive in Windows 11 is a great way to access shared folders on other computers or servers. This can save you time and make managing and organizing your files easier.
 
  While mapping is only useful in the case of network drives, there are many other methods to share files without a network setup. For example, you can use external storage, cloud storage services, a data transfer cable, etc.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -153,8 +153,20 @@ net use DRIVE \\ServerName\SharedFolder /user:username pass
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-dance-of-words-crafting-bouncing-text-effects/"><u>[Updated] 2024 Approved Dance of Words Crafting Bouncing Text Effects</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-perfect-your-playback-implementing-a-countdown-in-obs/"><u>[Updated] 2024 Approved Perfect Your Playback Implementing a Countdown in OBS</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-the-filmmakers-guide-to-masterful-panoramic-videos-9-must-know-tips-for-2024/"><u>[Updated] The Filmmaker's Guide to Masterful Panoramic Videos (9 Must-Know Tips) for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-the-world-of-youtube-building-strong-partner-relationships/"><u>2024 Approved Navigating the World of YouTube Building Strong Partner Relationships</u></a></li>
+<li><a href="https://windows11.techidaily.com/bring-back-color-to-extend-volume-option-in-diskmgmt/"><u>Bring Back Color to Extend Volume Option in DiskMgmt</u></a></li>
+<li><a href="https://windows11.techidaily.com/comprehensive-guide-to-managing-comic-files-in-windows-11/"><u>Comprehensive Guide to Managing Comic Files in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-tips-how-to-activate-intel-wireless-functionality/"><u>Essential Tips: How to Activate Intel Wireless Functionality</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-xiaomi-redmi-note-13-5g-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Xiaomi Redmi Note 13 5G Phone?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-picku-or-better-a-critical-look-at-androids-premier-photo-tool/"><u>In 2024, PickU or Better? A Critical Look at Android's Premier Photo Tool</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-bt-speakers-volume-level-on-windows-11-pcs/"><u>Optimizing BT Speakers Volume Level on Windows 11 PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-windows-error-code-0xc00000f-quickly/"><u>Resolving Windows Error Code 0Xc00000f Quickly</u></a></li>
+<li><a href="https://windows11.techidaily.com/rise-above-ethernet-ceiling-overcome-the-windows-100mbps-limit/"><u>Rise Above Ethernet Ceiling: Overcome the Windows 100Mbps Limit</u></a></li>
+<li><a href="https://facebook.techidaily.com/understanding-the-fbcta-its-impact-on-us/"><u>Understanding the FBCTA: Its Impact on Us</u></a></li>
+</ul></div>
 

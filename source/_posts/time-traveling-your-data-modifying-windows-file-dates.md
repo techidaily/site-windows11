@@ -1,7 +1,7 @@
 ---
 title: "Time Traveling Your Data: Modifying Windows File Dates"
-date: 2025-01-23T17:52:41.503Z
-updated: 2025-01-29T21:08:26.640Z
+date: 2025-02-05T03:01:37.814Z
+updated: 2025-02-11T01:05:18.744Z
 tags:
   - windows10
   - windows11
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/ecc3916e90aab64f99ff84f9c45d036bcf1e08682
 ![Run windows powershell as administrator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/run-windows-powershell-as-administrator.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then, navigate to the directory where the file or folder you want to change the attributes of is located. Type **cd..** to move back one folder in the given path, and **cd folder\_name** to move to the next folder.
@@ -61,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/ecc3916e90aab64f99ff84f9c45d036bcf1e08682
 
 ![successfully changing the creation date of a file in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/creation-date-has-been-changed.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Likewise, you can change the date modified and the date accessed by typing the following two commands:
 
 `$(Get-Item File-Name).lastaccesstime=$(Get-Date "mm/dd/yyyy")  
@@ -73,7 +77,7 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
 ![Showing dates of a file we are about to change in the properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/dates-of-a-file-we-are-about-to-change.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After changing them with PowerShell, here are the updated dates:
@@ -101,7 +105,7 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
 4. Once you've made your changes, click **Apply** to make them permanent.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click **Yes** in the confirmation pop-up, and the file attributes will be changed successfully.
@@ -109,10 +113,6 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
  In the same way that we changed the attributes of a file, you can also change the attributes of a folder using Attribute Changer.
 
  Using third-party tools to modify attributes requires you to grant apps permission to access the file. Therefore, if the documents you want to modify the dates for are confidential, don't use third-party apps to change the attributes; instead, use the official methods offered by Windows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Remove Other File Attributes Using File Explorer
 
@@ -125,12 +125,12 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
 ![Opening the Window to Remove the Personal Information of Text Document in the Details Tab of Document Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/1-Removing-the-Personal-Information-of-Text-Document-in-the-Details-Tab-of-Document-Properties.jpg)
 5. To remove all possible properties automatically, check the circle beside **Create a copy with all possible properties removed**. This will create a duplicate of the file at the exact location after deleting all possible attributes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Removing possible file attributes in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/removing-possible-file-attributes-in-file-explorer.jpg)
 6. To remove selected properties, check the circle beside **Remove the following properties from this file**, select the attributes you want to remove, and click **OK**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Modify Your File's Attributes With Ease
 
@@ -152,18 +152,15 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-elite-4-covert-content-retrievers/"><u>[New] In 2024, Elite 4 Covert Content Retrievers</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-step-by-step-guide-mastering-zoom-on-a-windows-10-device/"><u>[New] Step-by-Step Guide Mastering Zoom on a Windows 10 Device</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pro-level-clarity-top-8k-cameras-for-the-ultimate-picture/"><u>[Updated] Pro-Level Clarity Top 8K Cameras for the Ultimate Picture</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-filmmakers-pathway-to-youtube-success-with-professional-360-video-edits/"><u>[Updated] The Filmmaker's Pathway to YouTube Success with Professional 360 Video Edits</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-guide-selecting-the-ideal-sites-and-techniques-for-trimming-tamil-melodies/"><u>2024 Approved Expert Guide Selecting the Ideal Sites & Techniques for Trimming Tamil Melodies</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/diminishing-volume-fl-masterclass-for-2024/"><u>Diminishing Volume FL Masterclass for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/easy-conversion-tutorial-how-to-change-m4a-audio-to-mp3-via-google-search-engine-ffmpeg-cmd-line-instructions-included/"><u>Easy Conversion Tutorial: How to Change M4A Audio to MP3 via Google Search Engine - FFmpeg Cmd Line Instructions Included!</u></a></li>
-<li><a href="https://windows11.techidaily.com/insiders-guide-to-overlooked-windows-11-aesthetics/"><u>Insider's Guide to Overlooked Windows 11 Aesthetics</u></a></li>
-<li><a href="https://windows11.techidaily.com/instant-access-enabling-windows-11-writable-search-box/"><u>Instant Access: Enabling Windows 11’ Writable Search Box</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/movavi-video-editor-plus-2024-review/"><u>Movavi Video Editor Plus 2024 Review</u></a></li>
-<li><a href="https://windows11.techidaily.com/swift-repair-for-windows-store-faults-resolve-error-x80072f30/"><u>Swift Repair for Windows Store Faults: Resolve Error X80072F30</u></a></li>
-<li><a href="https://windows11.techidaily.com/unraveling-network-issue-code-0x800704b3-in-windows/"><u>Unraveling Network Issue Code: 0X800704B3 in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-decorations-monitors-wallpaper-differentiation-guide/"><u>Windows 11 Decorations: Monitors Wallpaper Differentiation Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-excellence-guild-crafting-photos-plus-sounds-visuals/"><u>[New] In 2024, Excellence Guild Crafting Photos + Sounds, Visuals</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-language-free-top-8-srt-translation-websites/"><u>[Updated] Mastering Language Free, Top 8 SRT Translation Websites</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-the-windows-lsa-disablement-warning/"><u>Bypassing the Windows LSA Disablement Warning</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Nokia 150 (2023) | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/color-coding-in-the-digital-world-srgb-vs-rgb/"><u>Color Coding in the Digital World Srgb vs Rgb</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-realme-v30t-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Realme V30T Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/extend-the-time-windows-11-spends-in-shutdown-with-ongoing-jobs/"><u>Extend the Time Windows 11 Spends in Shutdown with Ongoing Jobs</u></a></li>
+<li><a href="https://windows11.techidaily.com/improve-file-selection-techniques-activating-windows-11-boxes/"><u>Improve File Selection Techniques: Activating Windows 11 Boxes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-sound-shifts-in-free-fire/"><u>Mastering Sound Shifts in Free Fire</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedy-the-already-in-use-local-device-name-mistake-on-pcs/"><u>Remedy the 'Already in Use' Local Device Name Mistake on PCs</u></a></li>
 </ul></div>
 

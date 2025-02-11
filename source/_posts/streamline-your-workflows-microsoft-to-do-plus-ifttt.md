@@ -1,7 +1,7 @@
 ---
 title: "Streamline Your Workflows: Microsoft To-Do + IFTTT"
-date: 2025-01-28T20:43:31.235Z
-updated: 2025-01-29T21:53:45.169Z
+date: 2025-02-10T05:54:23.174Z
+updated: 2025-02-11T06:21:40.477Z
 tags:
   - windows10
   - windows11
@@ -45,11 +45,15 @@ thumbnail: https://thmb.techidaily.com/a0961ee471b397828689bb0499e11bd310468db6e
 ![If This Then That IFTTT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/if-this-then-that-ifttt.jpg)
 3. Type "Google Calendar" in the search bar and click the **Google Calendar** banner once it appears.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Applet creation page IFTTT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/applet-creation-page-ifttt.jpg)
 4. From the list of triggers, select **New event added**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Trigger list in IFTTT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/trigger-list-in-ifttt-1.jpg)
@@ -65,11 +69,16 @@ thumbnail: https://thmb.techidaily.com/a0961ee471b397828689bb0499e11bd310468db6e
 3. Click **Create task in task list**. IFTTT will add your Microsoft To Do account by default**.**  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Trigger list to do add task to list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/trigger-list-to-do-add-task-to-list.jpg)
 4. You can click **Add new account** to switch Microsoft accounts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. From the **Which task list?** dropdown, select the task list that will receive the calendar trigger
 
 1. The **Task body** field contains the ingredients included in the created task; this is the task description. The ingredients are highlighted in gray. You can leave this as default or remove what you don't want to include in your task details.  
@@ -88,14 +97,26 @@ thumbnail: https://thmb.techidaily.com/a0961ee471b397828689bb0499e11bd310468db6e
 ![Trigger list for Gmail IFTTT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/trigger-list-for-gmail-ifttt.jpg)
 6. Type the email addresses of the people you want to notify in the **To address** field. If tagging more than one email address, separate each with a comma. To tag more people, type their email addresses in the **CC** address and **BCC** address fields as required. These serve the [purpose of CC and BCC in regular emails](https://www.makeuseof.com/what-cc-bcc-mean-email/).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![More action IFTTT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/more-action-ifttt.jpg)
 7. Leave the other fields as they are. Then scroll down and click **Create** **action**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 8. Click **Continue.**
 9. Finally, click **Finish** to activate your Applet.  
 ![Applet creation menu final](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/applet-creation-menu-final.jpg)
 
  The created Applet is now running on your IFTTT account. Whenever you add a Google Calendar event, it writes that task to your Microsoft To Do list and emails the listed addresses with the details of the task. This is a great [Google Calendar tip to boost productivity](https://www.makeuseof.com/google-calendar-tips-to-boost-productivity/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Use IFTTT for Task Replication in Microsoft To Do
 
@@ -108,14 +129,14 @@ thumbnail: https://thmb.techidaily.com/a0961ee471b397828689bb0499e11bd310468db6e
 2. Type "Asana" in the search box and click **Asana**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Asana search result IFTTT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/asana-search-result-ifttt.jpg)
 3. Click **New task assigned to you in a project**. Click **Connect** if prompted and follow the onscreen instructions to link IFTTT with Asana.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Asana triggers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/asana-triggers.jpg)
@@ -131,10 +152,6 @@ thumbnail: https://thmb.techidaily.com/a0961ee471b397828689bb0499e11bd310468db6e
 ![To Do in IFTTT search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/to-do-in-ifttt-search-result.jpg)
 3. Click **Create task in task list**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![IFTTT action page for To Do](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ifttt-action-page-for-to-do.jpg)
 4. Select the target Microsoft to Do task list from the **Which task list?** dropdown.  
 
@@ -148,16 +165,12 @@ thumbnail: https://thmb.techidaily.com/a0961ee471b397828689bb0499e11bd310468db6e
 7. Finally, click **Finish** to deploy your Applet.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Asana and Microsoft To Do Applet final step](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/asana-and-microsoft-to-do-applet-final-step.jpg)
 
  Once deployed, your Applet will execute the Asana-Microsoft To Do workflow accordingly. This can be a helpful [Asana hack to boost your productivity](http://www.makeuseof.com/asana-hacks-to-know/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Automate Task Completion Using IFTTT
 
@@ -182,22 +195,10 @@ thumbnail: https://thmb.techidaily.com/a0961ee471b397828689bb0499e11bd310468db6e
 ![Task creation page in IFTTT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/task-creation-page-in-ifttt.jpg)
 8. Click **Continue**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Applet creation page on IFTTT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/applet-creation-page-on-ifttt.jpg)
 9. Finally, click **Finish** to activate your Microsoft To Do task completion Applet.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![IFTTT trigger creation page To Do task completion sample](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ifttt-trigger-creation-page-to-do-task-completion-sample.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Whenever you complete the specified task in Microsoft To Do, your IFTTT Applet will send an email notification to the listed addresses that you've completed it.
 
@@ -219,21 +220,20 @@ thumbnail: https://thmb.techidaily.com/a0961ee471b397828689bb0499e11bd310468db6e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-crafting-a-commercial-channel-youtubes-premium-pathway-guide/"><u>[New] In 2024, Crafting a Commercial Channel YouTube's Premium Pathway Guide</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-mastering-camera-balance-gimbals-for-drones-explained-for-2024/"><u>[New] Mastering Camera Balance Gimbals for Drones Explained for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-next-gen-realities-navigating-vrs-future-trajectory/"><u>[New] Next-Gen Realities Navigating VR's Future Trajectory</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-step-by-step-inverting-iphone-video-order/"><u>[New] Step-by-Step Inverting iPhone Video Order</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-virtualbox-0x80004005-failure-on-windows-pcs/"><u>Addressing VirtualBox 0X80004005 Failure on Windows PCs</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-poco-f5-5g-frp-by-drfone-android/"><u>How Can We Bypass Poco F5 5G FRP?</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-graphic-drivers-issues-in-forza-horizon-5/"><u>How to Resolve Graphic Drivers Issues in Forza Horizon 5</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-microsoft-store-issues-error-code-0x80072f17-fix/"><u>Resolving Microsoft Store Issues: Error Code 0X80072f17 Fix</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/seamless-techniques-for-swift-removal-of-your-youtube-comments-for-2024/"><u>Seamless Techniques for Swift Removal of Your Youtube Comments for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/simplify-composing-hard-to-write-work-emails-using-chatgpt/"><u>Simplify Composing Hard-to-Write Work Emails Using ChatGPT</u></a></li>
-<li><a href="https://windows11.techidaily.com/solving-value-not-found-error-message-in-windows-setups/"><u>Solving 'Value Not Found' Error Message in Windows Setups</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-resurrect-a-dormant-windows-tab-key/"><u>Steps to Resurrect a Dormant Windows Tab Key</u></a></li>
-<li><a href="https://windows11.techidaily.com/tactics-for-curtailing-windows-eyes-on-you/"><u>Tactics for Curtailing Windows' Eyes on You</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-realme-12-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Realme 12 5G FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-pathway-for-effortless-changes-of-file-extensions/"><u>The Pathway for Effortless Changes of File Extensions</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-update-codes-and-version-names-in-windows/"><u>Understanding Update Codes and Version Names in WINDOWS</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-deep-dive-inside-the-dji-inspire-2/"><u>[Updated] 2024 Approved Deep Dive Inside the DJI Inspire 2</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-leading-the-way-in-facebooks-video-exploration/"><u>[Updated] 2024 Approved Leading the Way in Facebook’s Video Exploration</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-peeling-back-layers-of-the-metaverse-with-6-studies/"><u>[Updated] Peeling Back Layers of the Metaverse with 6 Studies</u></a></li>
+<li><a href="https://windows11.techidaily.com/adopting-a-context-menu-toolbar-alert-for-routine-update-checks-on-windows-11plus11/"><u>Adopting a Context Menu Toolbar Alert for Routine Update Checks on Windows 11+11</u></a></li>
+<li><a href="https://windows11.techidaily.com/altering-windows-login-lockout-interval-after-errors/"><u>Altering Windows Login Lockout Interval After Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-verification-barrier-when-installing-non-microsoft-apps/"><u>Bypassing Verification Barrier when Installing Non-Microsoft Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-the-past-updating-decrepit-windows-cards/"><u>Clearing the Past: Updating Decrepit Windows Cards</u></a></li>
+<li><a href="https://windows11.techidaily.com/customize-taskbar-and-menu-on-windows-1011-easily/"><u>Customize Taskbar & Menu on Windows 10/11 Easily</u></a></li>
+<li><a href="https://windows11.techidaily.com/decode-the-code-of-win11-blue-screen-with-essential-fixes/"><u>Decode the Code of Win11 Blue Screen with Essential Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/disabling-inadvertent-launches-of-ms-storeapp/"><u>Disabling Inadvertent Launches of MS StoreApp</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/flip-the-script-crafting-unique-and-shareable-memes-on-social-platforms/"><u>Flip the Script Crafting Unique and Shareable Memes on Social Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-fix-a-ps4-controller-disconnecting-itself-on-windows/"><u>How to Fix a PS4 Controller Disconnecting Itself on Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Tecno Spark 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-routines-to-rearrange-youtube-playlists-effectively/"><u>Rapid Routines to Rearrange YouTube Playlists Effectively</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-rising-stars-of-coding-exploring-the-worlds-favourite-programming-languages-today-and-unpacking-what-popularity-really-means-in-tech/"><u>The Rising Stars of Coding: Exploring the World's Favourite Programming Languages Today and Unpacking What 'Popularity' Really Means in Tech</u></a></li>
 </ul></div>
 

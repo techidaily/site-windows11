@@ -1,7 +1,7 @@
 ---
 title: Getting Acquainted with Windows 11 Controls
-date: 2025-01-16T19:09:47.502Z
-updated: 2025-01-22T18:00:14.223Z
+date: 2025-02-05T16:17:03.538Z
+updated: 2025-02-11T07:23:20.611Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Does the Enhanced Settings Homepage Do on Windows 11?
@@ -38,13 +38,13 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
 ![settings homepage in windows11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/settings-homepage-win11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Additionally, you can manage your Microsoft 365 account settings and even analyze OneDrive usage with a glance. The cards are grouped into different categories: recommended settings, cloud storage, Microsoft 365, and more. We can expect Microsoft to gradually add more cards to the homepage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is It Easier to Manage Windows 11's Settings?
@@ -66,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
  Moreover, the cards or the features aren’t static; they’ll change and update based on how you interact with your device settings. This means the homepage will automatically adjust to your preferences and usage, so it's always relevant to your needs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Get the Windows 11 Enhanced Settings Update
@@ -76,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
  Head over to [how to enable the home section in the Settings app in Windows 11](https://www.makeuseof.com/enable-home-section-settings-app-windows-11/) for more information.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Device Management Made Easy With Windows 11
@@ -95,20 +95,18 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-the-insta-ode-selecting-song-lyrics-and-beats-for-vids/"><u>[New] The Insta-Ode Selecting Song Lyrics and Beats for Vids</u></a></li>
-<li><a href="https://techtrends.techidaily.com/evaluating-the-longevity-of-apples-airpods-pro-a-review-since-their-2022-launch/"><u>Evaluating the Longevity of Apple's AirPods Pro: A Review Since Their 2022 Launch</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-motorola-moto-g24-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Motorola Moto G24 Get Deleted Pictures Back with Ease and Safety?</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-mute-windows-11-monitoring-tools/"><u>How to Mute Windows 11 Monitoring Tools</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-huawei-nova-y91-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Huawei Nova Y91 Screen | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/infographic-top-insights-into-fifa-football-videos-on-youtube/"><u>Infographic - Top Insights Into FIFA Football Videos On YouTube</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210164012-9781645848943-it-is-time/"><u>It Is Time | Free Book</u></a></li>
-<li><a href="https://windows11.techidaily.com/modify-winterrals-theme-picture/"><u>Modify WinTerral's Theme Picture</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-fixes-to-overcome-the-errortoomanypatterns-in-wsl/"><u>Quick Fixes to Overcome the ERROR_TOO_MANY_PATTERNS in WSL</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-unsuccessful-discord-updates-for-windows-users/"><u>Resolving Unsuccessful Discord Updates for Windows Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restore-your-voice-command-functionality-on-csgo-with-these-easy-fixes/"><u>Restore Your Voice Command Functionality on CS:GO with These Easy Fixes</u></a></li>
-<li><a href="https://windows11.techidaily.com/seven-strong-points-that-make-windows-10-preferable-over-win11/"><u>Seven Strong Points That Make Windows 10 Preferable over Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-art-of-note-management-on-obsidian-canvas/"><u>The Art of Note Management on Obsidian Canvas</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-the-ultimate-guide-to-generating-speech-in-different-languages-with-the-best-tools/"><u>Updated The Ultimate Guide to Generating Speech in Different Languages With the Best Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/voice-commands-mastery-keyboard-shortcut-compendium-on-win-11/"><u>Voice Commands Mastery: Keyboard Shortcut Compendium on Win 11</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-quickening-vimeo-video-watch-time/"><u>[New] 2024 Approved Quickening Vimeo Video Watch Time</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-essentials-of-choosing-between-an-independent-or-major-company-status-on-youtube/"><u>[New] The Essentials of Choosing Between an Independent or Major Company Status on YouTube</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-lightweight-travel-bags-with-camera-integration/"><u>2024 Approved Lightweight Travel Bags with Camera Integration</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/debunking-myths-my-journey-into-3d-printing-personal-weapons/"><u>Debunking Myths: My Journey Into 3D Printing Personal Weapons</u></a></li>
+<li><a href="https://windows11.techidaily.com/effective-methods-to-rename-microsoft-account-on-win11-systems/"><u>Effective Methods to Rename Microsoft Account on Win11 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-method-to-engagedisengage-bings-taskbar-assist/"><u>Efficient Method to Engage/Disengage Bing's Taskbar Assist</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-ways-to-handle-lunar-client-not-starting-on-pc/"><u>Efficient Ways To Handle Lunar Client Not Starting on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-your-visual-experience-increasing-vram-capacity/"><u>Elevate Your Visual Experience: Increasing VRAM Capacity</u></a></li>
+<li><a href="https://windows11.techidaily.com/error-busters-for-windows-top-10-must-haves/"><u>Error Busters for Windows: Top 10 Must-Haves</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-vivo-y100t-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-users-interference-with-windows-safescreensaver/"><u>Preventing Users' Interference with Windows SafeScreensaver</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/recipe-revolution-celebrity-cheered-tiktok-meals-for-2024/"><u>Recipe Revolution Celebrity-Cheered TikTok Meals for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ing-hurdles-how-to-triumph-over-ten-common-obstacles-for-2024/"><u>Vlogging Hurdles How to Triumph Over Ten Common Obstacles for 2024</u></a></li>
 </ul></div>
 

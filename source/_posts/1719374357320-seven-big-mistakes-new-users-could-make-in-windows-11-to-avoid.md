@@ -1,7 +1,7 @@
 ---
 title: Seven Big Mistakes New Users Could Make in Windows 11 - To Avoid!
-date: 2024-08-15T15:28:35.328Z
-updated: 2024-08-16T15:28:35.328Z
+date: 2025-02-10T02:13:37.648Z
+updated: 2025-02-11T05:48:10.998Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/276d97c36ad2008d7cfbd98152b79e1acd5c5f1c2
 
  We have a guide on [how to create a complete backup in Windows 11](https://www.makeuseof.com/windows-11-create-complete-backup/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Always Use a Microsoft Account Instead of a Local Account in Windows 11
 
 ![link to sign into windows 11 with a local account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-11-sign-in-local-account.jpg)
@@ -38,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/276d97c36ad2008d7cfbd98152b79e1acd5c5f1c2
 
  You can easily [turn a local Windows account into a Microsoft account](https://www.makeuseof.com/windows-switch-local-account-to-microsoft-account/) to enjoy all the benefits that come with it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## 3\. You Should Not Use the Same Password for Your Microsoft and Local Account
 
  You can have two separate accounts to log in to Windows 11: a Microsoft account and a local one. If, for some reason, you need to use a local account, you should choose a password that is different from the one you use in your Microsoft account. By doing so, you can give someone access to your PC by sharing the password of your local account without revealing your Microsoft account credentials.
@@ -48,49 +49,41 @@ thumbnail: https://thmb.techidaily.com/276d97c36ad2008d7cfbd98152b79e1acd5c5f1c2
  If you need a separate user account on your PC, you can [create a local account in Windows 11](https://www.makeuseof.com/windows-11-create-local-user-account/) by following a few simple steps.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Prevent Windows 11 From Running Unwanted Apps When You Log In
 
 ![Screenshot showing Startup apps in Taskbar ManagerStartup apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/startup-apps.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 
  Startup apps start automatically as soon as you turn on your PC. It might be convenient when Windows 11 opens your most-used apps at startup without user input. But that benefit comes with a cost: auto-start apps ultimately increase the boot time of your PC. And if you have too many apps that start automatically, the slow boot time will be more pronounced.
 
  No matter how advanced your PC specifications PC are, you should never allow apps to auto-start in Windows 11\. You can [disable startup programs in Windows 11 in multiple ways](https://www.makeuseof.com/windows-11-disable-startup-programs/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. You Should Not Disable Windows Updates
 
 ![Windows 11 Update setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-update-edit.jpg)
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  There are solutions available for permanently disabling Windows updates. It is also possible to [temporarily pause or disable automatic updates on Windows 11](https://www.makeuseof.com/windows-11-stop-automatic-updates/) when you do not want Windows to interrupt something. Once you are done with whatever you've been working on, you should update your Windows 11 PC right away.
 
  You should never think of disabling updates on Windows 11, especially if the PC is connected to the internet. When you disable Windows updates, the PC becomes vulnerable to all kinds of security threats. Another downside is that your Windows 11 PC will be deprived of features or changes introduced in every update.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## 6\. Do Not Ignore Windows 11's Privacy Settings
 
 ![Screenshot showing Privacy & security in Windows 11 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/privacy-page-edit.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The**Privacy & security** page in Windows 11 Settings app remains untouched for many people. If you are one of them, it's time for a course correction. Windows 11 collects various types of data, including location, calendar, diagnostics, typing, and more. It does so to give you a more personalized experience.
 
  However, you should not blindly trust the default configuration on the Privacy page. For example, if you keep it unchanged, Windows 11 will track your app and website and expose you to personalized ads. You can turn this off from the**Privacy & security** page. It also lets you tweak search permissions, diagnostic data, and more.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## 7\. Avoid Installing Windows 11 on Unsupported Hardware
 
  If your system is too old for Windows 11 and doesn't meet the OS's minimum system requirements, you should think twice before trying to force install it using several hacks. You may successfully bypass the Windows 11 system requirements and manage to install it on your PC.
@@ -100,6 +93,10 @@ No advertising on the website.
  Moreover, PCs that do not meet Windows 11 minimum hardware requirements will not receive updates from Microsoft. In other words, running Windows 11 on unsupported hardware will leave your PC more vulnerable to threats.
 
  If your PC is too old, try upgrading its hardware or buying a new one to get the whole experience of Windows 11\. But if you want to install it on unsupported hardware just for fun, we have a detailed guide on [installing Windows 11 on unsupported hardware](https://www.makeuseof.com/bypass-windows-11-minimum-installation-requirements/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Avoid Updating Windows 11 Using an Unstable Internet Connection
 
@@ -111,14 +108,11 @@ No advertising on the website.
 
  If changing something does more harm than good, you should think twice before tweaking anything in the operating system.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -127,8 +121,26 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/2024-approved-swiftvideo-pro-accelerate-your-android-content/"><u>2024 Approved SwiftVideo Pro Accelerate Your Android Content</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-empowers-siri-to-outshine-bing-in-the-digital-arena-why-an-innovative-ai-shift-is-overdue-zdnet/"><u>Apple Empowers Siri to Outshine Bing in the Digital Arena - Why an Innovative AI Shift Is Overdue | ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/cutting-edge-solutions-exclusive-windows-systems-for-dsswitch-players/"><u>Cutting-Edge Solutions: Exclusive Windows Systems for DS/Switch Players</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-battle-between-ipad-mini-and-ipad-air-performance-design-and-more/"><u>Decoding the Battle Between iPad Mini and iPad Air – Performance, Design, and More</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-for-repairing-a-malfunctioning-corsair-hs50-mic-step-by-step-solutions/"><u>Expert Advice for Repairing a Malfunctioning Corsair HS50 Mic - Step-by-Step Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-unauthorized-geforce-setting-error-on-modern-windows-versions/"><u>Fixing Unauthorized GeForce Setting Error on Modern Windows Versions</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-winxps-notorious-error-0x80300024/"><u>Fixing WinXP's Notorious Error 0X80300024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-switching-to-a-split-ergonomic-keyboard-upgraded-my-pc-setup-in-just-one-week-zdnet/"><u>How Switching to a Split Ergonomic Keyboard Upgraded My PC Setup in Just One Week | ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-activate-hyper-v-in-the-latest-windows-os/"><u>How To Activate Hyper-V in the Latest Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-overcome-java-vm-not-found-on-pc/"><u>How to Overcome Java VM Not Found On PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-rectify-winscomrssvdll-errors-in-windows-os/"><u>How to Rectify WinscomrssvDLL Errors in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-stubborn-windows-terminals-a-step-by-step-guide/"><u>Overcome Stubborn Windows Terminals: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/premier-windows-tools-through-vivetools-advanced-features/"><u>Premier Windows Tools Through ViVeTool's Advanced Features</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-70-lite-5g-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of 70 Lite 5G</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revival-rendezvous-stellar-and-data-hubs/"><u>Revival Rendezvous: Stellar and Data Hubs</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-decrease-high-cpu-usage-from-dropbox-on-windows-pcs/"><u>Strategies to Decrease High CPU Usage From Dropbox on Windows PCs</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/stylish-selfies-with-iosandroid-the-leading-10-sticker-apps/"><u>Stylish Selfies with iOS/Android The Leading 10 Sticker Apps</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/zero-cost-to-zero-limit-explore-languages-on-black-friday/"><u>Zero Cost to Zero Limit - Explore Languages on Black Friday</u></a></li>
+</ul></div>
 

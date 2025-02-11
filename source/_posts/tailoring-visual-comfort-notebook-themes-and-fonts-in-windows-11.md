@@ -1,7 +1,7 @@
 ---
 title: "Tailoring Visual Comfort: Notebook Themes and Fonts in Windows 11"
-date: 2024-08-15T15:28:21.100Z
-updated: 2024-08-16T15:28:21.100Z
+date: 2025-02-06T03:42:11.995Z
+updated: 2025-02-11T06:21:52.512Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/b4422105d5b201d3b53a4eb264e1f06b970718d58
 
  In Windows 11, the Notepad is redesigned to blend with the visual design of the new OS. You can even set your favorite Notepad theme and font easily through its new Settings.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Set Your Preferred Theme for Notepad
 
  Windows 11 Notepad now has its own Settings page from where you can set the Notepad theme you like.
@@ -28,6 +32,11 @@ thumbnail: https://thmb.techidaily.com/b4422105d5b201d3b53a4eb264e1f06b970718d58
 2. Tap on the**Settings** gear wheel icon on the top right.  
 ![Windows 11 Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows11-notepad.jpg)
 3. In the**Settings** page, tap on**the App theme** to expand the setting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. You'll see the**Light** ,**Dark** , or**Use system setting** options to set as the Notepad**App theme** . Choose and select the one you like.  
 ![App Theme Settings in Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/notepad-app-theme-settings-1.jpg)
 5. If you choose the**Use system setting** , the theme you have set for Windows will reflect in the Notepad. You'll see the theme's colors across the various areas of the Notepad.  
@@ -35,53 +44,41 @@ thumbnail: https://thmb.techidaily.com/b4422105d5b201d3b53a4eb264e1f06b970718d58
  So you can enjoy the colors of a Windows 11 theme or even a favorite movie theme you download while you work on the Notepad. Also, if the system theme you have chosen is in Dark Mode, you can change the Notepad theme to Light mode while enjoying the system theme colors.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Choose Your Preferred Font for Notepad
 
  You can access the Notepad Font settings from the Edit menu or the Settings page.
 
 1. In**Notepad,** click the**Edit** button and choose**Font** from the menu. You directly get to the**Font** settings. Or click on the**Settings** icon on the top right. In the**Settings** page, click**Font** to expand the font settings.  
 ![Use Edit Menu or Settings Icon for Font Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/choose-edit-or-settings-icons.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 2. Select a font by clicking on**Family** . The available fonts will appear in a dropdown list. Choose any font you prefer, like**Candara** , as in the screenshot below. At the bottom of the page, the font of the sentence:**The sound of the ocean waves calms my soul.** will change to your chosen font—you can preview a font before selecting it.  
-![Notepad Font Chosen in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/choose-notepad-font-in-settings.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Notepad Font Chosen in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/choose-notepad-font-in-settings.jpg)
 3. Then select the font**Style** , whether light, dark, or italicized, and set the font**Size** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once set, enjoy using Notepad with your preferred font.
 
  If you ever have problems opening Notepad, check out [how to fix Notepad not opening on Windows](https://www.makeuseof.com/windows-notepad-not-opening/) .
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Enjoy the Windows 11 Notepad With New Themes
 
  If you like using Notepad for its simplicity and uncluttered appeal, the experience of its new settings and themes will undoubtedly make your experience even better. Try it out and enjoy.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -90,8 +87,18 @@ Once set, enjoy using Notepad with your preferred font.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-benq-sw320-monitor-reveal-a-spectacle-in-4k-technology/"><u>[New] BenQ SW320 Monitor Reveal A Spectacle in 4K Technology</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-hot-takes-highlight-twitters-trending-topics-for-2024/"><u>[Updated] Hot Takes Highlight Twitter's Trending Topics for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-mastering-the-use-of-screencastify-app-step-by-step-guide/"><u>[Updated] Mastering the Use of Screencastify App Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-techniques-in-motivating-viewers-with-lifestyle-vlogs/"><u>[Updated] Techniques in Motivating Viewers with Lifestyle Vlogs</u></a></li>
+<li><a href="https://windows11.techidaily.com/achieve-optimal-performance-self-updating-updated-amd-driver/"><u>Achieve Optimal Performance: Self-Updating, Updated AMD Driver</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-data-handling-navigate-4-steps-to-open-disk-management-in-windows-11/"><u>Effortless Data Handling: Navigate 4 Steps to Open Disk Management in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-add-folders-to-the-context-menu-in-windows-11/"><u>How to Add Folders to the Context Menu in Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-immerse-slides-with-audio-harmony/"><u>In 2024, Immerse Slides with Audio Harmony</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-your-device-uninterrupted-revealing-the-top-7-android-adblockers/"><u>In 2024, Your Device, Uninterrupted Revealing the Top 7 Android AdBlockers</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/leveraging-digital-insight-in-the-insurance-sector-insights-from-an-abbyy-specialist/"><u>Leveraging Digital Insight in the Insurance Sector: Insights From an ABBYY Specialist</u></a></li>
+<li><a href="https://windows11.techidaily.com/triumph-over-outdated-updates-winning-strategies-revealed/"><u>Triumph Over Outdated Updates: Winning Strategies Revealed</u></a></li>
+</ul></div>
 

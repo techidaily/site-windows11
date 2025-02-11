@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Power Indicators: Set Up Full Charge Notification in Win11"
-date: 2024-08-15T15:27:14.755Z
-updated: 2024-08-16T15:27:14.755Z
+date: 2025-02-06T17:29:36.821Z
+updated: 2025-02-11T06:50:24.733Z
 tags:
   - windows10
   - windows11
@@ -46,8 +46,9 @@ thumbnail: https://thmb.techidaily.com/8e351a495ce579ab157428c084339d1c33794d9d4
 ![The Battery Notification taskbar icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-battery-notification-taskbar-icon.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Add a Full Battery Charge Alert With Battery Notifier
 
  Battery Notifier is a small app you can utilize from the Windows 11/10 system tray. This app provides low and high-battery charge notifiers and enables you to view the current battery status by clicking its system tray icon. This is how you can add Battery Notifier’s full battery charge alert to Windows 11/10:
@@ -59,11 +60,17 @@ thumbnail: https://thmb.techidaily.com/8e351a495ce579ab157428c084339d1c33794d9d4
 5. Right-click**BatteryNotifier.exe** to select**Run as administrator** .
 6. Next, click the**Battery Notifier** icon in the system to view the app’s panel.  
 ![The Battery Notifier system tray icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/battery-notifier-taskbar-icon.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 7. Make sure the**Full Battery** notification checkbox is set to**On** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Full Battery notification setting in Battery Notifier](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/full-battery-checkbox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To configure the Battery Notifier app, click the**Settings** tab. There you can set the battery percentage level for the full and low battery notifiers to alert you. Drag the**Full Battery** bar’s slider to set it how you wish.
 
@@ -76,8 +83,13 @@ thumbnail: https://thmb.techidaily.com/8e351a495ce579ab157428c084339d1c33794d9d4
  There are also alternative theme options available. Selecting**Dark** makes the app black. If you prefer a white app, click the**Light** radio button.
 
 ![The Light theme option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-white-theme.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add a Full Battery Charge Alert Full Battery & Theft Alarm
@@ -90,15 +102,9 @@ thumbnail: https://thmb.techidaily.com/8e351a495ce579ab157428c084339d1c33794d9d4
 4. Select the**Open** option for Full Battery & Theft Alarm in MS Store.
 5. Turn on the**Charge Alarm** option if it’s off.  
 ![The Charge Alarm option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/charge-alarm-setting.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 6. Click the**Settings** (cog) button at the bottom left of the app.
 7. Set the**Notification Type** option to**Reminder** . Then you can wait for the notification to appear at the bottom right of the desktop when your laptop is charged to the set battery level.  
 ![The Reminder option in Full Battery & Theft Alarm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/reminder-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 
  You can change the charge percentage for the high alert by dragging the bar on the**Battery level to notify** bar. Below that there’s also a**Low battery level to notify** bar you can configure.
 
@@ -119,8 +125,9 @@ thumbnail: https://thmb.techidaily.com/8e351a495ce579ab157428c084339d1c33794d9d4
 ![Notification options for battery apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/app-notification-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Listen Out for Your Full Battery Charge Notifiers in Windows
 
  Battery Notification, Full Battery & Theft Alarm, and Battery Notifier include some good options and features for monitoring battery levels in Windows. You’ll never forget to unplug a fully charged laptop when you’ve added a full battery charge notifier to Windows 11/10 with one of those apps. They’ll help minimize laptop battery degradation by always reminding you when to pull the plug on a fully charged laptop.
@@ -131,8 +138,6 @@ thumbnail: https://thmb.techidaily.com/8e351a495ce579ab157428c084339d1c33794d9d4
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,8 +145,26 @@ thumbnail: https://thmb.techidaily.com/8e351a495ce579ab157428c084339d1c33794d9d4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-clan-the-challenge-best-games-similar-to-ghost-of-tsushima/"><u>[Updated] 2024 Approved Clan the Challenge Best Games Similar to Ghost of Tsushima</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-advanced-tips-for-3d-color-grading/"><u>[Updated] In 2024, Advanced Tips for 3D Color Grading</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-leveraging-social-media-for-increased-video-engagement-on-youtube/"><u>2024 Approved Leveraging Social Media for Increased Video Engagement on YouTube</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-navigating-the-world-of-pc-screencasters-with-ease/"><u>2024 Approved Navigating the World of PC Screencasters with Ease</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/boost-workflow-efficiency-mastering-flow-launcher/"><u>Boost Workflow Efficiency: Mastering Flow Launcher</u></a></li>
+<li><a href="https://windows11.techidaily.com/classic-interface-reclamation-tips/"><u>Classic Interface Reclamation Tips</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/commercial-cloud-repository-standouts-for-2024/"><u>Commercial Cloud Repository Standouts for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-your-online-presence-through-advanced-cookiebot-solutions/"><u>Elevate Your Online Presence Through Advanced Cookiebot Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-connection-issues-6-effective-methods-for-an-unresponsive-apple-watch/"><u>Fixing Connection Issues: 6 Effective Methods for an Unresponsive Apple Watch</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-maze-of-directdraw-fixes-on-modern-microsoft-oses/"><u>Navigating the Maze of DirectDraw Fixes on Modern Microsoft OSes</u></a></li>
+<li><a href="https://windows11.techidaily.com/quash-insufficient-requirement-notice-windows-11/"><u>Quash Insufficient Requirement Notice Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-excessive-ram-allocation-in-connected-devices-interface/"><u>Resolving Excessive RAM Allocation in Connected Devices Interface</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-network-path-with-fixed-ea-server-error-in-os/"><u>Restoring Network Path with Fixed EA Server Error in OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/taming-the-walls-of-windows-icons/"><u>Taming the Walls of Windows Icons</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-windows-11-screens-with-custom-wallpaper-panes/"><u>Transform Windows 11 Screens with Custom Wallpaper Panes</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-optimal-sleep-cycles-for-windows-devices/"><u>Unlocking Optimal Sleep Cycles for Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-power-of-wpm-in-windows-11-environments/"><u>Unveiling the Power of WPM in Windows 11 Environments</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Samsung Galaxy S24 | Dr.fone</u></a></li>
+</ul></div>
 

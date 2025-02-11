@@ -1,7 +1,7 @@
 ---
 title: Effortless Setup of Microsoft's PowerToys (Win11)
-date: 2024-08-15T15:28:50.290Z
-updated: 2024-08-16T15:28:50.290Z
+date: 2025-02-08T16:04:03.350Z
+updated: 2025-02-11T01:15:49.725Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/bed828e860e21f38fd1f019188cab74669ed8a928
 
  To access these features, you need Microsoft PowerToys installed on your PC. Let's look at the different ways you can install it on your Windows computer and walk through the installation process for each.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Install Microsoft PowerToys From the Microsoft Store
 
  Microsoft Store is an online marketplace pre-installed on Windows. It offers a diverse array of free and paid apps, games, and even device updates, all in one place. This gives Windows users access to everything they need under one roof.
@@ -32,16 +36,16 @@ thumbnail: https://thmb.techidaily.com/bed828e860e21f38fd1f019188cab74669ed8a928
 4. If you feel satisfied, click **Install** to begin the downloading & installation process. The process might take a few minutes.  
 ![Installing PowerToys Through Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/installing-powertoys-through-microsoft-store.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once installation is complete, open the Microsoft PowerToys app from the Start menu. All features are ready to use.
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Install Microsoft PowerToys From the GitHub Page
 
  If you don't have access to the Microsoft Store, you can also download and install Microsoft PowerToys from the GitHub page.
@@ -51,18 +55,17 @@ thumbnail: https://thmb.techidaily.com/bed828e860e21f38fd1f019188cab74669ed8a928
 1. [Visit the official Microsoft PowerToys GitHub page](https://github.com/microsoft/PowerToys) and navigate to the **Releases** section. It's usually on the right side of the page.
 2. In the Releases section, click on the most recent stable version. It should be at the top and have the word **Latest** beside it.  
 ![Installing PowerToys From the GitHub Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/installing-powertoys-from-the-github-page.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Now look for a file that is named something like **PowerToysSetup-0.##.#-x64.exe**. Here, the **#** represents the version number. Click on this file to start the download. After that, navigate to your downloads folder and double-click on it. This will start the installation process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. A window might pop up asking for permission to change your device. Click **Yes** to continue. The setup wizard will then open. Here, follow the installation prompts. Typically, you just need to click **Next** a few times and then **Install**.
 5. Once the installation process is completed, you'll be prompted to finish and exit the setup. Click **Finish**. You might be asked to agree to terms and conditions, choose an installation location, and decide whether you want a shortcut created.
 
  After performing the above procedure, you can access Microsoft PowerToys from the Start menu or the shortcut if you created one.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Install Microsoft PowerToys Through the Command Prompt
 
  If you're comfortable using the command prompt, this might be the quickest and most efficient way to install Microsoft PowerToys.
@@ -75,16 +78,14 @@ thumbnail: https://thmb.techidaily.com/bed828e860e21f38fd1f019188cab74669ed8a928
 4. In the Command Prompt window, type the following command:  
 winget install --id Microsoft.PowerToys  
 ![Installing PowerToys Through Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/installing-powertoys-through-command-prompt.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 5. Now hit Enter to execute the command. This will download and install Microsoft PowerToys.
 
  The process might take a few minutes, so be patient. Once it's finished, you'll find Microsoft PowerToys in your Start Menu.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Download Microsoft PowerToys Easily on Windows
 
  If you've made it this far, you now know how to install Microsoft PowerToys on Windows. Try out the Microsoft Store version first, as it's the most user-friendly and least complicated.
@@ -93,8 +94,6 @@ winget install --id Microsoft.PowerToys
 
  To access these features, you need Microsoft PowerToys installed on your PC. Let's look at the different ways you can install it on your Windows computer and walk through the installation process for each.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -102,5 +101,21 @@ winget install --id Microsoft.PowerToys
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/lite-selection-top-9-free-youtube-channel-branding-apps-for-2024/"><u>[New] Elite Selection Top 9 Free YouTube Channel Branding Apps for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-innovative-2023-free-compre-folios-for-2024/"><u>[New] Innovative 2023 Free, Compre Folios for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-professional-obs-edits-the-ultimate-top-5-guide-for-2024/"><u>[New] Professional OBS Edits The Ultimate Top 5 Guide for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/mous-sharing-simplified-blurring-techniques-for-videos/"><u>Anonymous Sharing Simplified Blurring Techniques for Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/boost-hardware-utilization-four-ways-to-open-the-disk-manager-in-windows-11/"><u>Boost Hardware Utilization: Four Ways to Open the Disk Manager in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquering-failed-office-activation-on-pcs-and-laptops/"><u>Conquering Failed Office Activation on PCs and Laptops</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabling-microsoft-store-app-on-win11-pcs/"><u>Enabling Microsoft Store App on Win11 PCs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016706536-jabra-bluetooth-earphones-malfunction-heres-the-ultimate-repair-manual/"><u>Jabra Bluetooth Earphones Malfunction? Here's the Ultimate Repair Manual !</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimize-your-play-with-valorant-strategies-to-combat-stutter-and-raise-frame-rates/"><u>Optimize Your Play with Valorant: Strategies to Combat Stutter & Raise Frame Rates</u></a></li>
+<li><a href="https://windows11.techidaily.com/paramount-procedures-for-wiping-your-windows-installation/"><u>Paramount Procedures for Wiping Your Windows Installation</u></a></li>
+<li><a href="https://fox-links.techidaily.com/revolutionary-process-to-blend-gopro-videos-into-360-degree-panoramas-for-2024/"><u>Revolutionary Process to Blend GoPro Videos Into 360-Degree Panoramas for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/slash-your-budget-snag-a-discounted-razer-blade-15-from-walmart-before-memorial-day-insights-and-deals-by-zdnet/"><u>Slash Your Budget: Snag a Discounted Razer Blade 15 From Walmart Before Memorial Day - Insights & Deals by ZDNet</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/snippet-filmmaker-pro-for-2024/"><u>Snippet Filmmaker Pro for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-mystery-of-yourphoneexe-in-w10/"><u>Unveiling the Mystery of YourPhoneExe in W10</u></a></li>
+</ul></div>
 

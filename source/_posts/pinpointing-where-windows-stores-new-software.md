@@ -1,7 +1,7 @@
 ---
 title: Pinpointing Where Windows Stores New Software
-date: 2025-01-19T20:24:57.251Z
-updated: 2025-01-22T17:45:13.295Z
+date: 2025-02-05T05:46:07.544Z
+updated: 2025-02-10T21:20:06.501Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/2dc71f07a766ca604beda3fe20bd5fd81321c87e0
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Find the Location of a Program Using the Start Menu
@@ -37,12 +37,12 @@ thumbnail: https://thmb.techidaily.com/2dc71f07a766ca604beda3fe20bd5fd81321c87e0
 ![start menu program location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/start-menu-file-location.jpg)
 2. Right-click on the program icon, and click on**Open file location** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. In the folder that opens, right-click the required program’s icon and click on**Open file location** one final time.
 4. You should now be in the installation folder of the program.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Find the Installation Folder of a Program Using Its Desktop Shortcuts
 
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/2dc71f07a766ca604beda3fe20bd5fd81321c87e0
 3. Click on the**Shortcut** tab, and you will find the installation path in the**Target** field.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Locate the Folder Where a Program Is Installed Using Task Manager
@@ -69,12 +69,12 @@ thumbnail: https://thmb.techidaily.com/2dc71f07a766ca604beda3fe20bd5fd81321c87e0
 ![task manager details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/task-manager-details.jpg)
 2. Once the Task Manager is up and running, click on the**Details** tab to get a list of all[currently running background processes](https://www.makeuseof.com/windows-pc-too-many-background-processes/) and applications.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. After locating the program you need, right-click and then click on**Open file location** .
 4. A new File Explorer window will open up, and you will have found the program's installation directory.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Access the Installation Folder of a Program Using File Explorer
 
@@ -90,7 +90,7 @@ To find where a program is located using the File Explorer:
 3. Navigate to**Program Files > Program Files (x86)** and then scroll the list of folders until you find one with the program name you’re looking for.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Finding a Program's Install Location Is Easy
@@ -114,20 +114,22 @@ To find where a program is located using the File Explorer:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-gratitude-gift-selecting-high-quality-otus-freepaid-for-2024/"><u>[New] Gratitude Gift Selecting High-Quality OTUs (Free/Paid) for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-in-depth-look-at-nikons-4k-powerhouse-j5/"><u>[New] The In-Depth Look at Nikon's 4K Powerhouse - J5</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-photographers-secret-to-color-inversion/"><u>[Updated] The Photographer's Secret to Color Inversion</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>Best 10 Mock Location Apps Worth Trying On Apple iPhone 15 Plus | Dr.fone</u></a></li>
-<li><a href="https://win-net.techidaily.com/guide-complet-a-la-migration-des-donnees-entre-ordinateurs/"><u>Guide Complet À La Migration Des Données Entre Ordinateurs</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1722984334379-hp-monitor-troubles-heres-how-to-get-them-up-and-running-again/"><u>HP Monitor Troubles? Here's How to Get Them Up and Running Again!</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/roku-upgrades-perfect-synchronization-of-audio-and-video/"><u>Roku Upgrades: Perfect Synchronization of Audio & Video</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-infinix-hot-40i-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Infinix Hot 40i FRP</u></a></li>
-<li><a href="https://windows11.techidaily.com/taming-the-background-load-a-windows-guide/"><u>Taming the Background Load: A Windows Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-art-of-effective-toolbar-navigation-with-mspcm-on-w11/"><u>The Art of Effective Toolbar Navigation with MSPCM on W11</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-unresponsive-inputs-in-win11s-sleep-mode/"><u>Troubleshooting Unresponsive Inputs in Win11's Sleep Mode</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-unresponsive-programs-in-windows-os/"><u>Troubleshooting Unresponsive Programs in Windows OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveil-sd-card-windows-explorer-fix-guide/"><u>Unveil SD Card: Windows Explorer Fix Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-hidden-gem-discover-the-surprising-creative-potential-of-this-understated-asus-laptop-tech-reviews/"><u>Unveiling the Hidden Gem: Discover the Surprising Creative Potential of This Understated Asus Laptop | Tech Reviews</u></a></li>
-<li><a href="https://windows11.techidaily.com/win11s-ingenious-techniques-for-gathering-info/"><u>Win11's Ingenious Techniques for Gathering Info</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-discover-the-power-of-easy-trimming-with-windows-photos-app/"><u>[New] Discover the Power of Easy Trimming with Windows Photos App</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-obs-setup-guide-for-macos-downloading-and-setting-up-for-2024/"><u>[Updated] OBS Setup Guide for macOS Downloading & Setting Up for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-revolutionizing-videography-with-the-impressive-nikon-j5-for-2024/"><u>[Updated] Revolutionizing Videography with the Impressive Nikon J5 for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficiency-boost-for-winwms-excessive-graphics-use/"><u>Efficiency Boost for WinWM's Excessive Graphics Use</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-security-controlling-user-biometrics-in-windows-11/"><u>Elevating Security: Controlling User Biometrics in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-steams-content-server-unreachable-problem-in-windows/"><u>Eliminating Steam's Content Server Unreachable Problem in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-windows-error-0x80072f8f-0x20000/"><u>Eliminating Windows Error: 0X80072f8f-0x20000</u></a></li>
+<li><a href="https://windows11.techidaily.com/embellishing-windows-tray-adding-number-lock-symbols/"><u>Embellishing Windows Tray: Adding Number Lock Symbols</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-graphics-memory-capability-for-hogwarts-virtual-learning-experience/"><u>Enhancing Graphics Memory Capability for Hogwarts Virtual Learning Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-user-experience-in-windows-11/"><u>Enhancing User Experience in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-visibility-notifications-for-win11-webcam-use/"><u>Enhancing Visibility: Notifications for Win11 WebCam Use</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/from-classroom-to-playlist-a-students-roadmap-to-lowering-spotify-fees/"><u>From Classroom to Playlist: A Student’s Roadmap to Lowering Spotify Fees</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-the-viewer-count-chronicles-mastering-the-math-of-monetizing-moments-in-youtube-space/"><u>In 2024, The Viewer Count Chronicles Mastering the Math of Monetizing Moments in YouTube Space</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/solving-wireless-adapter-connection-issues-expert-guidance-by-yl-software/"><u>Solving Wireless Adapter Connection Issues: Expert Guidance by YL Software</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-ultimate-list-best-animation-software-for-android-and-ios/"><u>Updated In 2024, The Ultimate List Best Animation Software for Android and iOS</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95836291-9781556439520-your-souls-plan/"><u>Your Soul's Plan | Free Book</u></a></li>
 </ul></div>
 

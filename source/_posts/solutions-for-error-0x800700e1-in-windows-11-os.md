@@ -1,7 +1,7 @@
 ---
 title: Solutions for Error 0X800700E1 in Windows 11 OS
-date: 2025-01-28T02:10:37.525Z
-updated: 2025-01-30T04:59:14.264Z
+date: 2025-02-07T00:09:18.682Z
+updated: 2025-02-11T02:23:53.107Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Run a Malwarebytes Scan
 
  The error 0x800700E1 message specifically says the operation didn’t finish because of a file containing malware (a virus). Thus, it could be the case there’s a genuine virus causing this issue. So, run an antivirus scan with the freeware Malwarebytes. You can run a full scan of your PC with Malwarebytes like this:
@@ -41,15 +37,19 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
 ![The Install button for Malwarebytes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/install-option.jpg)
 6. Select **Done** to finish and launch Malwarebytes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Click Malwarebytes’ **Scan** option.  
 ![The Scan option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/scan-option.png)
 8. Select **Quarantine** if anything is detected.
 
- If error 0x800700E1 occurs when you try to transfer some files from a USB drive, scan the folder that includes the files you’re trying to move or copy. To do that, you’ll need to connect the drive to your PC. Then right-click the folder on the external drive within Explorer and select **Scan with Malwarebytes**.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If error 0x800700E1 occurs when you try to transfer some files from a USB drive, scan the folder that includes the files you’re trying to move or copy. To do that, you’ll need to connect the drive to your PC. Then right-click the folder on the external drive within Explorer and select **Scan with Malwarebytes**.
 
 ## 2\. Turn Off Microsoft Defender (or Any Active Third-Party Antivirus Apps)
 
@@ -57,15 +57,7 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
 
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/real-time-protection-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you’ve installed an alternative third-party antivirus app, you must disable that software’s real-time protection instead. Most antivirus apps have context menu settings for disabling antivirus shields. So, look in the system tray area, right-click your antivirus app, and select an option that will temporarily disable its antivirus shield for an hour or two.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Repair File Explorer
 
@@ -77,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
 `sfc /SCANFILE=c:windowsexplorer.exe`  
 ![The sfc scanfile command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sfc-scannow-command-for-file-explorer.jpg)
 4. Then input this SFC command text and hit **Enter**:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 `sfc /SCANFILE=C:WindowsSysWow64explorer.exe`  
 ![An SFC scanfile command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sfc-explorer-command.jpg)
@@ -106,6 +94,10 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
 
  If nothing has worked so far, here are some general Windows fixes you can try:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Add the File to Your Antivirus' Exclusion List
 
  If error 0x800700E1 occurs when you try to move or copy files from an external drive, try adding the folder that includes them to your antivirus utility’s exclusion list. Doing that will ensure your antivirus utility won’t raise any false alarms for the files you’re trying to copy or transfer. Our guide tells you [how to add exclusions within Windows Security](https://www.makeuseof.com/windows-11-security-exclusions/).
@@ -121,7 +113,7 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
 ![A general sfc scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sfc-scannow.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In addition, run a Deployment Image Servicing and Management (DISM) scan to address system image issues. You can run that utility much the same as SFC by inputting a command for it within the Command Prompt. Execute this DISM command:
@@ -129,7 +121,7 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
 `DISM.exe /Online /Cleanup-image /Restorehealth`
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Set Windows to Clean Boot
@@ -138,7 +130,15 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
 
 ![The Startup tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/startup-tab.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We have a guide about [how to clean boot Windows](https://www.makeuseof.com/clean-boot-windows-11/) that includes step-by-step instructions for applying this potential fix. You can disable all non-essential third-party startup apps and services with the Task Manager and MSConfig tools. Then restart Windows to see if error 0x800700E1 persists after clean booting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get Error 0x800700E1 Sorted in Windows
 
@@ -156,18 +156,16 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-instagram-video-magic-templates-and-insights/"><u>[New] 2024 Approved Instagram Video Magic Templates & Insights</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-exquisite-selection-idle-games-with-infinite-play/"><u>[Updated] In 2024, Exquisite Selection Idle Games with Infinite Play</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-advice-on-building-and-upgrading-the-toms-hardware-experience/"><u>Expert Advice on Building and Upgrading: The Tom's Hardware Experience</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixes-for-photocapture-error-on-windows-os/"><u>Fixes for PhotoCapture Error on Windows OS</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/high-quality-sports-car-hd-wallpaper-images-download-and-use-with-yl-computing-software/"><u>High-Quality Sports Car HD Wallpaper Images: Download & Use with YL Computing Software</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-install-and-run-chatgpt-as-a-windows-app/"><u>How to Install and Run ChatGPT as a Windows App</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-oppo-k11-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Oppo K11 5G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-get-ready-to-save-space-with-these-38-exceptional-android-compressor-apps/"><u>In 2024, Get Ready to Save Space with These 38 Exceptional Android Compressor Apps</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-the-ultimate-selection-of-8-instagram-schedulers-for-phones/"><u>In 2024, The Ultimate Selection of 8 Instagram Schedulers for Phones</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-the-marketplace-malfunction-error-0x80073cf3/"><u>Overcoming the Marketplace Malfunction: Error 0X80073CF3</u></a></li>
-<li><a href="https://windows11.techidaily.com/restoring-full-operations-win1011-and-ccleaner-interaction/"><u>Restoring Full Operations: Win10/11 & CCleaner Interaction</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-samsung-galaxy-m54-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Samsung Galaxy M54 5G FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://windows11.techidaily.com/win-the-game-selecting-the-best-5-budget-friendly-software-boosters/"><u>Win the Game: Selecting the Best 5 Budget-Friendly Software Boosters</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-the-ultimate-hand-tracking-reference-guide/"><u>[Updated] 2024 Approved The Ultimate Hand-Tracking Reference Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-precision-engineering-for-dvd-production-in-macos/"><u>[Updated] In 2024, Precision Engineering for DVD Production in macOS</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-the-essentials-of-professional-editing-in-gopro-studio/"><u>[Updated] The Essentials of Professional Editing in GoPro Studio</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-lost-messages-how-to-fix-notifications-that-fail/"><u>Avoiding Lost Messages: How to Fix Notifications That Fail</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-and-correcting-installer-messages-on-pcs/"><u>Decoding and Correcting Installer Messages on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-the-discrepancy-c-drive-vs-d-drive/"><u>Decoding the Discrepancy: C: Drive Vs. D: Drive</u></a></li>
+<li><a href="https://windows11.techidaily.com/discover-where-windows-keeps-snaps/"><u>Discover Where Windows Keeps Snaps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-maximizing-zoom-experience-on-windows-pcs-with-win10/"><u>In 2024, Maximizing Zoom Experience on Windows PCs with Win10</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719327539921-master-the-art-of-microsoft-support-for-problems/"><u>Master the Art of Microsoft Support for Problems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-google-plays-best-of-the-best-top-android-apps/"><u>Updated 2024 Approved Google Plays Best of the Best Top Android Apps</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolving Solo Side Windows Earbud Sound Problems
-date: 2024-08-15T15:28:10.493Z
-updated: 2024-08-16T15:28:10.493Z
+date: 2025-02-05T02:37:53.071Z
+updated: 2025-02-10T16:51:06.716Z
 tags:
   - windows10
   - windows11
@@ -32,13 +32,15 @@ thumbnail: https://thmb.techidaily.com/7a63e0844da70bd2c7ec7a4a482b4a25c9f48b524
  If the above checks don't work, start applying the remaining fixes.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Check for Hardware Issues
 
 ![A person wearing headphones next to a microphone and PC screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/a-person-wearing-headphones-next-to-a-microphone-and-pc-screen.jpeg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  First and foremost, you should ensure it's not a hardware issue that has muted one side of your headphone. The easiest way to check this is to plug the headphones into any other device you own and see whether you hear anything from the problematic side.
@@ -47,15 +49,9 @@ thumbnail: https://thmb.techidaily.com/7a63e0844da70bd2c7ec7a4a482b4a25c9f48b524
 
  In contrast, if you hear audio as usual when connecting your headphones to another device, it's a device-specific issue.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## 3\. Check the Audio Jack or Port for Issues
 
 ![An RCA jack with a broken pin inside](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/an-rca-jack-with-a-broken-pin-inside.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Some PCs still come with separate jacks for microphones and headphones. Each jack supports a similar-looking connector, but the signal flow is different.
 
@@ -75,9 +71,6 @@ thumbnail: https://thmb.techidaily.com/7a63e0844da70bd2c7ec7a4a482b4a25c9f48b524
 2. Go to the **System** tab on the left and navigate to **Sound**.
 3. Under **Advanced**, click **More sound settings**.  
 ![Open More Sound Settings in the Sound Settings of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/1-open-more-sound-settings-in-the-sound-settings-of-the-windows-settings-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Navigate to the **Playback** tab, right-click your headphones device, then select **Properties**.  
 ![Open Properties by Right-clicking on Your Device in the Playback Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/2-open-properties-by-right-clicking-on-your-device-in-the-playback-tab.jpg)
 5. Navigate to the **Levels** tab of the properties window.
@@ -86,11 +79,16 @@ thumbnail: https://thmb.techidaily.com/7a63e0844da70bd2c7ec7a4a482b4a25c9f48b524
 7. Make sure neither the left nor right side is muted. If both sides are at different levels at the moment, balance them.  
 ![Balance the Sound Levels of Both the Right and Left Side of Your Headphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-balance-the-sound-levels-of-both-the-right-and-left-side-of-your-headphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Hopefully you can now hear from both sides of your headphones.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Disable Audio Enhancements
 
  The audio enhancement feature makes the output of audio as clean as possible. By adding additional processing, this feature can create a significant improvement in the quality of your audio.
@@ -120,17 +118,22 @@ thumbnail: https://thmb.techidaily.com/7a63e0844da70bd2c7ec7a4a482b4a25c9f48b524
 ![Open Audio Settings in the Accessibility Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/6-open-audio-settings-in-the-accessibility-tab-of-the-windows-settings-app.jpg)
 4. Turn off the toggle next to **Mono audio** if it's already selected.  
 ![Disable Mono Audio in Audio Settings of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/7-disable-mono-audio-in-audio-settings-of-the-windows-settings-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this doesn't fix the issue, remember to turn the mono audio setting off again before continuing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Check for App-Specific Issues
 
  If you don't hear any voice from one side of your headphones only when running a particular app, chances are that app offers a setting to control the output from each side of your headphones Therefore, check the audio settings and ensure both sides are unmuted, and the volume levels are balanced.
 
  Likewise, third-party audio enhancement apps can sometimes interfere with the audio output, blocking sound from one side of your headset. If you use such an app, try temporarily turning it off. If turning off the app solves the problem, delete the app permanently and find an alternative that does not cause the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Perform Some Windows Fixes
 
@@ -140,16 +143,11 @@ thumbnail: https://thmb.techidaily.com/7a63e0844da70bd2c7ec7a4a482b4a25c9f48b524
 * **Run the audio troubleshooter:** Windows has a handy audio troubleshooter that can automatically diagnose and fix most audio problems. So, run the audio troubleshooter by following the instructions in our guide on [how to run Windows troubleshooters](https://www.makeuseof.com/run-troubleshooter-windows-10-11/).
 * **Update Windows:** Keeping your operating system up-to-date is crucial to get smooth performance. So, [check for pending Windows updates and manually install them](https://www.makeuseof.com/update-windows-manually/).
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Get Your Headphones Working Again
 
  Hearing from one side of your headphones completely ruins our experience. Hopefully, you now better understand why one side of your headphones goes mute and how you can fix it so you can hear from both sides.
 
  Here're a few checks and fixes to find out if the issue is hardware-related or caused by misconfigured settings and resolve it.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -158,5 +156,23 @@ thumbnail: https://thmb.techidaily.com/7a63e0844da70bd2c7ec7a4a482b4a25c9f48b524
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-unveiling-the-shadows-a-systematic-guide-to-hidden-youtube-content/"><u>[New] In 2024, Unveiling the Shadows A Systematic Guide to Hidden YouTube Content</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-top-picks-excellent-fb-lite-video-downloaders-of-2023-for-2024/"><u>[New] The Top Picks Excellent FB Lite Video Downloaders of 2023 for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-collaborative-sing-along-tiktok-feature/"><u>[Updated] Collaborative Sing-Along TikTok Feature</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-masterful-art-in-a-flash-quick-draw-on-windows-10-images/"><u>[Updated] Masterful Art in a Flash Quick Draw on Windows 10 Images</u></a></li>
+<li><a href="https://windows11.techidaily.com/enlighten-your-windows-with-free-handbrake/"><u>Enlighten Your Windows with Free HandBrake</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pondering-the-value-of-intensified-luminosity-in-hdr/"><u>In 2024, Pondering the Value of Intensified Luminosity in HDR</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-credential-vault-hurdles/"><u>Overcoming Credential Vault Hurdles</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfecting-taskbar-setup-in-windows-11/"><u>Perfecting Taskbar Setup in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/procedures-for-upholding-true-windows-time-values/"><u>Procedures for Upholding True Windows Time Values</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-to-resolving-pin-check-errors-on-windows-devices/"><u>Quick Guide to Resolving Pin Check Errors on Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/rejoining-lost-astra-pilot-on-windows-11-machines/"><u>Rejoining Lost Astra Pilot on Windows 11 Machines</u></a></li>
+<li><a href="https://discover-able.techidaily.com/reworking-wi-fi-settings-through-windows-control-center-a-comprehensive-tutorial-with-yl-software-solutions/"><u>Reworking Wi-Fi Settings Through Windows Control Center: A Comprehensive Tutorial with YL Software Solutions</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-art-of-compelling-podcast-summaries-explained/"><u>The Art of Compelling Podcast Summaries Explained</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-complete-guide-to-the-blue-screen-of-death-and-what-it-really-means-for-your-pc/"><u>The Complete Guide to the Blue Screen of Death and What It Really Means for Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-gateway-to-information-conquering-windows-qr-code-scan/"><u>The Gateway to Information: Conquering Windows' QR Code Scan</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ladies-who-code-yts-10-gamers-for-2024/"><u>The Ladies Who Code YT's #10 Gamers for 2024</u></a></li>
+</ul></div>
 

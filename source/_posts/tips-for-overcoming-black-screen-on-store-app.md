@@ -1,7 +1,7 @@
 ---
 title: Tips for Overcoming Black Screen on Store App
-date: 2024-08-15T15:26:19.144Z
-updated: 2024-08-16T15:26:19.144Z
+date: 2025-02-09T20:16:30.820Z
+updated: 2025-02-10T18:20:22.551Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/cec2c63029344d0bb5e1e4c9de0d18ad2dcde0daf
 
 ![Clost Microsoft Store tasks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/end-microsoft-store-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Open Microsoft Store again and check if it’s now working.
 
  If you're encountering a lot of glitches that go away after a restart, you might be leaving your PC on for too long. Check out these [reasons why you should turn off your PC every night](https://www.makeuseof.com/reasons-why-should-shut-down-computer/) for some inspiration.
@@ -52,15 +56,13 @@ Open Microsoft Store again and check if it’s now working.
 4. Click the**Run** button next to**Windows Store Apps** .
 
 ![Run Windows app troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/store-troubleshooter-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Windows will search for any issues and fix them automatically. Once the process is complete, try to launch Microsoft Store again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## 4\. Delete the Microsoft Store Cache
 
  Like most apps, Microsoft Store uses cache to improve performance. But if the app’s cache somehow gets corrupted, you’ll run into all sorts of issues, including Microsoft Store displaying a black or white background every time you open the app. In this case, deleting the cache should fix the problem.
@@ -70,8 +72,9 @@ Open Microsoft Store again and check if it’s now working.
  This should open a blank Command Prompt window for several seconds. Once it deletes the cache, Windows will close Command Prompt and launch the Microsoft Store app.
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Run the SFC Tool
 
  There’s a chance that Microsoft Store isn’t working as usual due to corrupt or damaged system files. To fix the issue, you should run the Windows System File Checker tool.
@@ -81,8 +84,9 @@ Open Microsoft Store again and check if it’s now working.
  Make sure you don’t close the Command Prompt window until the scan is complete. Windows will search and automatically replace any corrupt or damaged system files.
 
 ![Run SFC scan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/sfc-scan-1-3.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Check Your System's Set Time and Region
@@ -98,8 +102,9 @@ Go through the below steps to change the Windows region:
 5. Restart your computer and check if Microsoft Store is working.
 
 ![Change Windows region](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-region-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Also, you can [manually change Windows date and time settings](https://www.makeuseof.com/windows-11-change-date-time/) .
@@ -112,9 +117,6 @@ Go through the below steps to change the Windows region:
 
  Then, copy the **Get-AppXPackage \*WindowsStore\* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($\_.InstallLocation)\\AppXManifest.xml"}** command, and press**Enter** to run it.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Reset Your Windows PC
 
  If Microsoft Store showing a black or white screen isn’t the only problem you noticed, there might be some deep corruption within your system files. In this case, you could try to [factory reset your Windows PC](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) . This will revert it back to its factory settings, so make sure you back up all essential data.
@@ -125,14 +127,11 @@ Go through the below steps to change the Windows region:
 
  But if you can’t find a specific app, there are several websites where you can download apps without compromising your system security.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -141,8 +140,23 @@ Go through the below steps to change the Windows region:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-step-by-step-guide-to-zoom-call-recordings/"><u>[New] In 2024, Step-by-Step Guide to Zoom Call Recordings</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-steps-for-safe-and-cost-free-vlc-downloads-on-apple-machines/"><u>[New] Steps for Safe and Cost-Free VLC Downloads on Apple Machines</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-clarifying-misleading-self-representations-on-fb/"><u>[Updated] In 2024, Clarifying Misleading Self-Representations on FB</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-expert-tips-for-removing-persistent-youtube-channels-mobilepc/"><u>2024 Approved Expert Tips for Removing Persistent Youtube Channels (Mobile/PC)</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-innovative-tactics-to-amplify-game-vids-via-hashtags/"><u>2024 Approved Innovative Tactics to Amplify Game Vids via Hashtags</u></a></li>
+<li><a href="https://windows11.techidaily.com/claim-your-potential-in-windows-11-regain-missing-system-upgrades/"><u>Claim Your Potential in Windows 11: Regain Missing System Upgrades</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-installation-guide-brother-l2700dw-printing-software-for-microsoft-windows/"><u>Easy Installation Guide: Brother L2700DW Printing Software for Microsoft Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-what-constitutes-matter-revolutionizing-smart-homes-with-connected-standards/"><u>Exploring What Constitutes 'Matter': Revolutionizing Smart Homes with Connected Standards</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-elevation-problem-with-error-code-740-on-windows-11/"><u>Fixing Elevation Problem with Error Code 740 on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-display-more-pinned-items-on-the-windows-11-start-menu/"><u>How to Display More Pinned Items on the Windows 11 Start Menu</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reach-windows-11s-account-control-interface/"><u>How to Reach Windows 11'S Account Control Interface</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-from-raw-to-richness-creating-and-merging-impressive-hdr-photos/"><u>In 2024, From Raw to Richness Creating & Merging Impressive HDR Photos</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-nokia-c02-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Nokia C02 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-the-clouds-hurdle-7-ways-to-reconnect-google-drive/"><u>Overcoming the Cloud's Hurdle: 7 Ways to Reconnect Google Drive</u></a></li>
+<li><a href="https://windows11.techidaily.com/securing-ethernet-signal-in-windows-os/"><u>Securing Ethernet Signal in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-xp709-system-failure/"><u>Strategies for XP709 System Failure</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Wi-Fi Setup: Addressing Inadequate Actions on PCs"
-date: 2025-01-28T04:22:13.379Z
-updated: 2025-01-29T17:13:38.969Z
+date: 2025-02-05T03:35:27.425Z
+updated: 2025-02-10T18:58:28.831Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/0244557d86d8e1a27dc054dedba4a1385b1696e50
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Disable the NCSI Probe From Windows Registry
@@ -56,13 +56,17 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 5. Double-click on this newly created value and change its value data to 1\.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Now, create another value the same way and name it as DisablePassivePolling.
 7. Double-click on **DisablePassivePolling** and change its value data to 1 as well.  
 ![DisablePassivePolling key in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-passive-polling.jpg)
 8. Click **OK** to save the changes and exit the Registry Editor.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 9. Finally, restart your computer and upon reboot, check if the problem is resolved.
 
@@ -87,16 +91,12 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 ![Specify passive polling policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/specify-passive-polling-policy.jpg)
 9. Choose **Enabled** and click **Apply** \> **OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 10. Close the Group Policy Editor and restart your computer.
 
  Hopefully, upon reboot, the issue will no longer appear.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Run the Internet Connection Troubleshooter
@@ -127,10 +127,6 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 ![Choose what the power button does option of Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/choose-what-the-power-button-does.jpg)
 5. Choose **Change settings that are currently unavailable** and navigate to the Shutdown settings option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Uncheck the box associated with **Turn on fast startup (recommended)**.  
 ![Disable Fast Startup on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disable-fast-startup-on-windows.jpg)
 7. Click on the **Save changes** button and exit Control Panel. Check if the issue is now resolved.
@@ -140,6 +136,10 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
  If the specific fixes we have listed above have not worked for you, there are some additional fixes related to the network errors in Windows that you can try.
 
  These include updating the network drivers, re-enabling your wireless network adapter, installing the latest system updates, and resetting the network configurations on your computer. Our guide on[how to fix common Windows network errors](https://www.makeuseof.com/not-connected-any-networks-error-windows/) discusses all of these in detail, so you can head over there for step-by-step instructions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixing Network Connections in Windows Made Easy
 
@@ -159,16 +159,18 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-speedy-tiktok-video-performance-a-step-by-step-plan-for-2024/"><u>[New] Speedy TikTok Video Performance A Step-by-Step Plan for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-social-media-broadcast-battle-facebook-vs-youtube-and-twitvision/"><u>[Updated] In 2024, Social Media Broadcast Battle FACEbook Vs. YOUTube & TWITVision</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-and-job-hunting-top-10-linkedin-techniques-to-improve-your-career-prospects/"><u>ChatGPT & Job Hunting: Top 10 LinkedIn Techniques to Improve Your Career Prospects</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-free-computing-eliminate-cannot-access-device-path-in-windows/"><u>Error-Free Computing: Eliminate 'Cannot Access Device Path' In Windows</u></a></li>
-<li><a href="https://win-tips.techidaily.com/guia-paso-a-paso-para-actualizarreparar-windows-10-o-11-usando-el-simbolo-del-sistema/"><u>Guía Paso a Paso Para Actualizar/Reparar Windows 10 O 11 Usando El Símbolo Del Sistema</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Gionee F3 Pro? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/reinstating-windows-print-management-after-a-failure/"><u>Reinstating Windows Print Management After a Failure</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-for-enabling-grammarly-offline-mode-windows/"><u>Steps for Enabling Grammarly Offline Mode Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/subtle-security-concealing-archives-inside-digital-images/"><u>Subtle Security: Concealing Archives Inside Digital Images</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-oneplus-11r-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any OnePlus 11R Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/validate-your-devices-compatibility-with-win11/"><u>Validate Your Device's Compatibility with Win11</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-boost-engagement-on-instagram-stories-mastering-multi-image-techniques/"><u>[New] In 2024, Boost Engagement on Instagram Stories Mastering Multi-Image Techniques</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cracking-the-freezing-problem-effective-solutions-to-overwatch-lag-issues/"><u>Cracking the Freezing Problem: Effective Solutions to Overwatch Lag Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/customizing-window-11-ui-elements-larger-icons/"><u>Customizing Window 11 UI Elements - Larger Icons</u></a></li>
+<li><a href="https://windows11.techidaily.com/epic-backup-strategies-to-avoid-loss/"><u>Epic Backup Strategies to Avoid Loss</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-windows-11-version-22h2-update-not-installing/"><u>How to Fix the Windows 11 Version 22H2 Update Not Installing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-rich-tapestry-of-ajeys-channel-wealth/"><u>In 2024, The Rich Tapestry of Ajey's Channel Wealth</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/mastering-the-art-of-acquiring-facebooks-prestigious-blue-badge-for-2024/"><u>Mastering the Art of Acquiring Facebook's Prestigious Blue Badge for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/navigating-the-dji-phantom-3-pros-innovations-for-2024/"><u>Navigating the DJI Phantom 3 Pro's Innovations for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-access-to-troubleshooters-in-windows-11-with-custom-keys/"><u>Quick Access to Troubleshooters in Windows 11 with Custom Keys</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/transferir-imagen-de-la-tarjeta-microsd-de-una-raspberry-pi-al-clon-en-un-disco-mas-grande-con-windows-11/"><u>Transferir Imagen De La Tarjeta MicroSD De Una Raspberry Pi Al Clon en Un Disco Más Grande Con Windows 11</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-windows-10-dvd-player-showdown-top-10-free-options/"><u>Updated Windows 10 DVD Player Showdown Top 10 Free Options</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-realme-narzo-n53-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Realme Narzo N53? Fixed | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Desktop Aesthetics: Integrate Portable Apps"
-date: 2025-01-27T00:07:52.988Z
-updated: 2025-01-30T02:36:13.587Z
+date: 2025-02-05T05:40:38.050Z
+updated: 2025-02-11T05:43:26.836Z
 tags:
   - windows10
   - windows11
@@ -35,19 +35,11 @@ thumbnail: https://thmb.techidaily.com/8581bfa31a5d038a1f8f5ee676586f0437981f1b9
 ![The exe package option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-exe-package-option.jpg)
 4. Once downloaded, double-click**SyMenuPackage.exe** file to open an archive extraction window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Click the**ellipses** button.
 6. Select your USB drive and a folder to extract it to, and click**OK** .
 7. Add**SyMenu** to the end of the program path to create a separate folder for the software.  
 ![The self-extracting archive for SyMenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/self-extracthing-archive.jpg)
 8. Then click the**Extract** option for the archive.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now it's time to get SyMenu up and running:
 
@@ -59,7 +51,7 @@ Now it's time to get SyMenu up and running:
 ![The menu structure options for SyMenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-menu-options.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use SyMenu on Windows
@@ -72,21 +64,17 @@ Now it's time to get SyMenu up and running:
 
 ![The Item Manager tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-item-manager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then you can launch the added software from the app menu. To view more options for an app, right-click its entry on the menu. You can select**Run elevated** ,**Open folder** , and**Delete item** options from a program’s submenu.
 
 ![An app submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/program-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or you can add new apps to the menu from the**SyMenu** program suite. To do so, select the**Get new apps** option on the menu. Choose portable software in the**SyMenu Suite** tab, and select the**Download** option.
 
 ![The SyMenu app suite](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-symenu-suite.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can customize colors for the menu from the SyMenu options. Select**Tools** \>**Options** to bring up that window. Click**Theme** to view the options shown below. You can change the menu’s colors by clicking the palette boxes and choosing alternatives.
 
@@ -105,10 +93,6 @@ Now it's time to get SyMenu up and running:
 3. Select the**Download LiberKey 5.8** option.  
 ![The Download LiberKey option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/download-liberkay-option.jpg)
 4. Double-click**LiberKey\_5.8.1129.exe** to open a setup wizard for the software.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Click**Next** to select the**I accept software license agreement** option.
 
@@ -132,12 +116,16 @@ Now it's time to get SyMenu up and running:
 ![The Create new menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-delete-current-item-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then you can add software to the new menu tab. Right-click anywhere in the tab and select**New shortcut** \>**Application/file** . Choose a portable app to include on the menu and click**Open** .
 
 ![The New shortcut option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-new-shortcut-submenu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also add categories for grouping software to menu tabs. Right-click a menu tab to select the**New Category** option. Input a title in the name box and select**OK** . Then you can drag app shortcuts on LiberKey into category submenus.
 
@@ -149,11 +137,23 @@ Now it's time to get SyMenu up and running:
 
 ![The Color tab for LiberKey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-liberkey-color-tab.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can reconfigure LiberKey’s effects from the**User Interface** tab on the Configuration window. Select the disable options there to turn off the menu’s animation effects. To add an analog clock to the menu’s LiberKey logo, select the**Displayclock** checkbox. You can also adjust the menu open delay by selecting**Custom** and entering an alternative millisecond value.
 
 ![The User interface settings for LiberKey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-user-interface-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you're a student on the go, be sure to check out the[best free portable apps for students you can take anywhere](https://www.makeuseof.com/free-portable-apps-for-students/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Make Your Portable Apps More Accessible on Windows
 
@@ -174,17 +174,17 @@ Now it's time to get SyMenu up and running:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-the-path-to-artistic-expression-discover-free-tools-for-voice-modification/"><u>[New] The Path to Artistic Expression – Discover Free Tools for Voice Modification</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-comprehensive-guide-to-optimizing-facetime-recording-quality-for-2024/"><u>[Updated] Comprehensive Guide to Optimizing FaceTime Recording Quality for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-crafting-captivating-content-the-power-of-hashtagging-in-gaming-yt-for-2024/"><u>[Updated] Crafting Captivating Content The Power of Hashtagging in Gaming YT for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/end-of-an-era-saying-goodbye-to-iphone-13-and-15-pro-top-picks-for-your-next-smartphone-tech-analysis-by-zdnet/"><u>End of an Era: Saying Goodbye to iPhone 13 and 15 Pro - Top Picks for Your Next Smartphone | Tech Analysis by ZDNet</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-the-freeze-resolving-steam-problems-during-games-on-win-11/"><u>Fixing the Freeze: Resolving Steam Problems During Games on Win 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/key-insights-into-microsoft-family-safety-usage/"><u>Key Insights Into Microsoft Family Safety Usage</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-windows-high-dpi-adjustments-for-better-viewing/"><u>Mastering Window's High DPI Adjustments for Better Viewing</u></a></li>
-<li><a href="https://blog-min.techidaily.com/mxf-vers-mp4-convertisseur-video-gratuit-sur-internet-par-movavi/"><u>MXF Vers MP4 : Convertisseur Vidéo Gratuit Sur Internet Par Movavi</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-driver-verifier-detected-violation-bluescreen-woes-on-your-windows-10-pc-fixed/"><u>Resolving Driver Verifier Detected Violation Bluescreen Woes on Your Windows 10 PC - Fixed</u></a></li>
-<li><a href="https://windows11.techidaily.com/simplify-your-routine-nircmds-command-shortcuts-expertise/"><u>Simplify Your Routine: NirCmd's Command Shortcuts Expertise</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-error-code-0x80070570-and-effective-solutions/"><u>Understanding Error Code 0X80070570 & Effective Solutions</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-windows-safeguards-restricted-by-admins/"><u>Unlocking Windows Safeguards Restricted by Admins</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-how-to-download-igtv-videos-on-windows-pcmac-5-ways-for-2024/"><u>[New] How to Download IGTV Videos on Windows PC/Mac? [5 Ways] for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-examining-performance-of-dji-raptor-eyewear/"><u>[Updated] 2024 Approved Examining Performance of DJI Raptor Eyewear</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-the-high-demand-of-ntoskrnlexe-processes/"><u>Addressing the High Demand of Ntoskrnl.exe Processes</u></a></li>
+<li><a href="https://windows11.techidaily.com/cant-choose-a-drive-to-install-games-on-the-xbox-app-for-windows-try-these-fixes/"><u>Can't Choose a Drive to Install Games on the Xbox App for Windows? Try These Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/clear-the-way-to-privacy-with-simple-steps-for-ms-defender/"><u>Clear the Way to Privacy with Simple Steps for MS Defender</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-motorola-edgeplus-2023-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Motorola Edge+ (2023) Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719366391353-keyboards-on-the-ropes-reclaim-your-arrows/"><u>Keyboards on the Ropes? Reclaim Your Arrows!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/openai-and-meta-face-backlash-from-artists-litigating-for-expression/"><u>OpenAI & Meta Face Backlash From Artists Litigating for Expression</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-dilemma-troubleshooting-a-non-functional-corsair-hs70-microphone/"><u>Solving the Dilemma: Troubleshooting a Non-Functional Corsair HS70 Microphone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-metaverse-and-multi-meva-split-an-exploratory-analysis/"><u>The Metaverse & Multi-Meva Split An Exploratory Analysis</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-high-dpi-display-scaling-on-pcs/"><u>Troubleshooting High DPI Display Scaling on PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-user-guide-fixing-hosted-wi-fi-connection-startup-failures/"><u>Windows 10 User Guide: Fixing Hosted Wi-Fi Connection Startup Failures</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Reviving BIOS Secure Boot: A Step-by-Step Guide for Windows Users"
-date: 2025-01-28T19:09:05.055Z
-updated: 2025-01-29T19:40:51.150Z
+date: 2025-02-08T21:12:30.524Z
+updated: 2025-02-11T05:57:41.250Z
 tags:
   - windows10
   - windows11
@@ -47,6 +47,10 @@ To set an administrator password in BIOS:
 
  You can remove the administrator password after enabling Secure Boot. To do this, open the**Security** tab in BIOS and select**Administrator Password** . Next, enter your administrator password, but leave the**Enter New Password** and**Confirm New Password** fields blank. Press**Enter** again to save the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Disable Fast Boot in BIOS
 
  Fast Boot is a UEFI/BIOS feature. When enabled, it skips the check for a USB device, such as a bootable drive to speed up the boot process. However, the same can also prevent you from enabling secure boot in BIOS.
@@ -65,6 +69,10 @@ To disable fast boot in BIOS:
 6. Press**F10** to save the changes and exit.
 7. After the computer restarts, boot into BIOS to see if you can access Secure Boot.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Restore the BIOS Security Settings to Factory Defaults
 
  You can restore BIOS security settings to factory defaults to enable secure boot. If you have made major changes to the BIOS security settings, a reset will remove the custom configuration and restore the factory default security settings. Most BIOS utilities allow you to perform a restore in the BIOS Security tab.
@@ -77,27 +85,27 @@ To restore BIOS Security settings to factory defaults:
 ![restore bios factory settings default](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restore-bios-factory-settings-default.jpg)
 4. Read the description in the**Security Feature Reset Request** dialog. Here you'll need to enter a pass code to complete the reset request.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. So, enter the shown**pass code** and press**Enter** .  
 ![restore bios factory settings default pass code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restore-bios-factory-settings-default-pass-code.jpg)
 6. Press**F10** to save the changes and exit**BIOS** .
 
 7. Boot into BIOS again and check if the greyed-out secure boot problem is resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Update BIOS
 
 ![system information bios version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-information-bios.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If the issue persists, your problem may be due to outdated BIOS firmware. While you don't need to update your system BIOS as frequently, the newer version tends to bring bug fixes, performance improvements, and newer hardware support.
 
  A BIOS update is recommended if your motherboard or laptop manufacturer recommends it. Any updates will be available via the laptop or motherboard manufacturer's websites.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Prepare Your Computer for a BIOS Update
 
@@ -109,23 +117,19 @@ To restore BIOS Security settings to factory defaults:
 
 ![HP download bios firmware update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hp-download-bios-firmware-update.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Alternatively, you can also manually install BIOS from within Windows. For example, on an HP computer, go to the[HP Drivers page](https://support.hp.com/drivers) . Select your device manually or let the website detect the device for you.
 
  Next, check for the pending drivers and BIOS updates. If detected, download the HP Notebook System BIOS Update (Intel / AMD Processors). Make sure to compare the version with the version installed on your PC. If same or older, you don't need to update your BIOS.
 
  To update BIOS, run the firmware file and follow the on-screen instructions. Your computer will restart into the BIOS Update utility. Select**Apply Update Now** and wait for the update to finish installing. Once done, boot into BIOS and check if the Secure Boot option is available. Make sure to enable your antivirus and BitLocker protection again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Load the BIOS Defaults Settings
 
 ![load BIOS default settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/load-bios-default-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can restore your BIOS to its factory default settings to fix issues occurring due to corrupt BIOS configuration. While loading the default settings will not affect your data, we recommend you back up any and all the important data on your computer before proceeding with a BIOS reset.
 
@@ -136,10 +140,6 @@ To load BIOS defaults settings:
 3. Select**Yes** and press**Enter** . This will load setup default values for all SETUP items.
 4. Select**Save Changes** and**Exit** .
 5. Boot into**BIOS** again and check if the secure boot option is restored.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixing the Grayed Out Secure Boot Option in BIOS
 
@@ -160,21 +160,20 @@ To load BIOS defaults settings:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-comprehending-instagrams-max-video-length/"><u>[New] 2024 Approved Comprehending Instagram's Max Video Length</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-how-to-create-unique-ringtone-experiences-on-iphone/"><u>[New] In 2024, How to Create Unique Ringtone Experiences on iPhone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/aking-dollars-from-skincare-videos-for-2024/"><u>[New] Making Dollars From Skincare Videos for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-smart-tips-for-creating-time-lapses-on-samsung-devices-for-2024/"><u>[New] Smart Tips for Creating Time-Lapses on Samsung Devices for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-mastering-device-independent-techniques-for-capturing-youtube-live-streams-for-2024/"><u>[Updated] Mastering Device-Independent Techniques for Capturing YouTube Live Streams for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-key-to-flawless-shots-using-a-tripod-correctly-in-video-blogging/"><u>[Updated] The Key to Flawless Shots Using a Tripod Correctly in Video Blogging</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/1728509487759-usb/"><u>最終解決説明：USBドライブを修理した後、データはどのように消えていきますか？</u></a></li>
-<li><a href="https://windows11.techidaily.com/guided-techniques-for-tackling-stale-group-policies-on-desktops/"><u>Guided Techniques for Tackling Stale Group Policies on Desktops</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-itel-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Itel A05s | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-pro-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 Pro to other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-the-terrain-of-your-onedrive-savings-in-windows/"><u>Navigating the Terrain of Your OneDrive Savings in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-with-assistance-essential-keybindings-in-windows-11/"><u>Navigating with Assistance: Essential Keybindings in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/predictive-prowess-leading-windows-11-weather-app-selection/"><u>Predictive Prowess: Leading Windows 11 Weather App Selection</u></a></li>
-<li><a href="https://windows11.techidaily.com/recovering-dormant-backup-service-on-os-x/"><u>Recovering Dormant Backup Service on OS X</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-overcome-upgrade-errors-on-windows-11-systems/"><u>Steps to Overcome Upgrade Errors on Windows 11 Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-w11-calendar-and-mail-an-essential-tutorial/"><u>Unlocking W11 Calendar & Mail: An Essential Tutorial</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-discovering-the-joy-of-iphones-vr-video-sphere/"><u>[New] 2024 Approved Discovering the Joy of iPhone's VR Video Sphere</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-photo-cartoony-kick-cross-platform-windows-and-mac-software/"><u>[New] Photo Cartoony Kick Cross-Platform Windows & Mac Software</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-a-swift-journey-to-using-ez-grabber-like-a-pro/"><u>[Updated] 2024 Approved A Swift Journey to Using EZ Grabber Like a Pro</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-innovative-and-inexpensive-the-best-free-youtube-name-generators/"><u>[Updated] 2024 Approved Innovative & Inexpensive The Best Free YouTube Name Generators</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-streamline-your-skype-talks-using-obs-effectively/"><u>[Updated] In 2024, Streamline Your Skype Talks Using OBS Effectively</u></a></li>
+<li><a href="https://windows11.techidaily.com/11-fixes-if-windows-10-cant-detect-a-wi-fi-network/"><u>11 Fixes if Windows 10 Can’t Detect a Wi-Fi Network</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-reasons-to-choose-windows-10-over-windows-11/"><u>7 Reasons to Choose Windows 10 Over Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-comprehensive-overview-using-bluescreenview/"><u>A Comprehensive Overview: Using BlueScreenView</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-step-by-step-approach-for-cleaning-up-ms-audit-records/"><u>A Step-by-Step Approach for Cleaning Up MS Audit Records</u></a></li>
+<li><a href="https://windows11.techidaily.com/analyzing-space-efficiency-of-windows-software/"><u>Analyzing Space Efficiency of Windows Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-up-steam-cloud-errors/"><u>Clearing Up Steam Cloud Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/customizing-home-screen-preferences-on-w11-os/"><u>Customizing Home Screen Preferences on W11 OS</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211010446-9781088250907-el-vuelo-de-la-gaviota/"><u>El Vuelo de la Gaviota | Free Book</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-tecno-spark-20c-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Tecno Spark 20C</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-by-step-tutorial-transforming-vob-content-into-divx-for-windows-10-and-mac-users/"><u>Step-by-Step Tutorial: Transforming VOB Content Into DivX for Windows 10 and Mac Users</u></a></li>
 </ul></div>
 

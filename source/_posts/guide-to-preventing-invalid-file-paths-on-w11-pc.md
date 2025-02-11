@@ -1,7 +1,7 @@
 ---
 title: Guide to Preventing Invalid File Paths on W11 PC
-date: 2025-01-28T01:47:56.714Z
-updated: 2025-01-29T17:30:46.762Z
+date: 2025-02-04T07:07:16.450Z
+updated: 2025-02-11T05:18:09.809Z
 tags:
   - windows10
   - windows11
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
 
  To fix it, check out[how to delete Windows' temporary files](https://www.makeuseof.com/windows-11-delete-temporary-files/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Disable Read-Only Access
 
  Windows usually creates temporary files for programs, including the one that you're trying to install. If the temp folder is set to read-only, Windows can't save files in it and will throw an error.
@@ -59,22 +55,22 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
  Right-click the EXE file and select**Send to > Compressed (Zipped)** . Windows will create a zipped folder with the same name. Open the folder and launch the installer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Run the Windows Memory Diagnostic Tool
 
  The inability to install new software on your Windows 11 computer, might be caused by memory-related issues. If you try to install an app and Windows keeps freezing, you should[run the Windows Memory Diagnostic tool](https://www.makeuseof.com/windows-memory-diagnostic-tool-guide/) to fix the issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Clean Boot Your System
 
  Sometimes, third-party apps can hinder Windows functionality and affect its ability to install new software. Now, if there are too many apps for you to remember which one is allowed to change your system settings, you should[perform a clean boot on Windows 11](https://www.makeuseof.com/clean-boot-windows-11/) .
 
  This way, your system boots up with a minimal number of drivers and startup apps, so you can figure out if a background app is causing you issues. If everything works as usual, check the list of installed apps and remove the ones that may be causing conflict.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Re-Download the App and Install It
 
@@ -83,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
  If you think your PC is infected, be sure to[perform an offline scan with Microsoft Defender](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) to ensure nothing is lurking in your PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Reset Your Computer
@@ -93,7 +89,11 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
 ![Reset Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/reset-windows-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix Windows 11's Temp Files With These Tips
@@ -117,22 +117,21 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-blueprint-for-a-thriving-portfolio-in-graphics/"><u>[Updated] Blueprint for a Thriving Portfolio in Graphics</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-podcast-sharing-instagram-stories-and-posts-tutorial/"><u>[Updated] Podcast Sharing Instagram Stories & Posts Tutorial</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-tutorial-on-restoring-a-broken-micro-sd-card-to-safeguard-your-data/"><u>Complete Tutorial on Restoring a Broken Micro SD Card to Safeguard Your Data</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/ensuring-precision-the-art-of-skype-call-documentation-for-2024/"><u>Ensuring Precision The Art of Skype Call Documentation for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expand-your-workspace-connecting-multiple-monitors-for-enhanced-productivity/"><u>Expand Your Workspace: Connecting Multiple Monitors for Enhanced Productivity</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-flipped-visuals-how-to-adjust-video-display-on-an-asus-device/"><u>Fixing Flipped Visuals: How to Adjust Video Display on an ASUS Device</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-unlock-windows-after-failed-sign-in/"><u>How to Unlock Windows After Failed Sign-In</u></a></li>
-<li><a href="https://windows11.techidaily.com/innovative-windows-11-disk-space-strategies-without-deleting-files-max-156-chars/"><u>Innovative Windows 11 Disk Space Strategies Without Deleting Files (Max 156 Chars)</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-top-5-free-streaming-options-for-watching-mlb-matches/"><u>New 2024 Approved Top 5 Free Streaming Options for Watching MLB Matches</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-non-operative-grammarly-on-your-computer/"><u>Overcoming Non-Operative Grammarly on Your Computer</u></a></li>
-<li><a href="https://windows11.techidaily.com/simplify-storage-management-in-windows-10-and-11-via-context-menu-tool/"><u>Simplify Storage Management in Windows 10 & 11 via Context Menu Tool</u></a></li>
-<li><a href="https://windows11.techidaily.com/speedy-excel-operations-restored-a-guide-for-windows-users/"><u>Speedy Excel Operations Restored: A Guide for Windows Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-decipher-group-policy-on-your-computer/"><u>Strategies to Decipher Group Policy on Your Computer</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamline-the-prime-viewing-experience-on-windows-11-devices/"><u>Streamline the Prime Viewing Experience on Windows 11 Devices</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/the-ultimate-guide-to-preserving-itunes-content-for-2024/"><u>The Ultimate Guide to Preserving iTunes Content for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-oneplus-12r-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your OnePlus 12R Phone Network-Ready</u></a></li>
-<li><a href="https://windows11.techidaily.com/win11-chrome-issues-jumpstart-solution-suggestions/"><u>Win11 Chrome Issues? Jumpstart Solution Suggestions.</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/aster-crafters-fusing-visual-and-acoustic-art-for-2024/"><u>[New] Master Crafters Fusing Visual & Acoustic Art for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-where-to-find-high-quality-pixel-ringers/"><u>[New] Where to Find High-Quality Pixel Ringers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/1715860559002-2024-approved-employing-in-device-recording-for-screen-capture-across-huaweis-mate-and-p-series/"><u>2024 Approved Employing In-Device Recording for Screen Capture Across Huawei’s Mate and P Series.</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-primer-to-installation-of-the-java-sdkjdk-on-windows-11/"><u>A Primer to Installation of the Java SDK/JDK on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/amplifying-security-the-art-of-longer-pin-codes-in-win11/"><u>Amplifying Security: The Art of Longer Pin Codes in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/boost-windows-with-top-2023-ms-store-winners/"><u>Boost Windows with Top 2023 MS Store Winners</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquer-network-analysis-on-windows-11-the-netstat-command-guide/"><u>Conquer Network Analysis on Windows 11: The Netstat Command Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-unilateral-audio-issue-on-win-os-headphones/"><u>Correcting Unilateral Audio Issue on WIN OS Headphones</u></a></li>
+<li><a href="https://windows11.techidaily.com/curtailing-windows-updates-and-restarts/"><u>Curtailing Windows Updates and Restarts</u></a></li>
+<li><a href="https://windows11.techidaily.com/disabling-automatic-shutdown-timer-on-windows/"><u>Disabling Automatic Shutdown Timer on Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhance-digital-marketing-efforts-through-smart-analytics-discover-the-benefits-of-cookiebot-technology/"><u>Enhance Digital Marketing Efforts Through Smart Analytics - Discover the Benefits of Cookiebot Technology</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-honor-magic-5-pro-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Honor Magic 5 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-oppo-a59-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Oppo A59 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/innovative-5-mobile-photo-editing-tools-background-switcher-for-2024/"><u>Innovative 5 Mobile Photo Editing Tools Background Switcher for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-mastering-image-cropping-in-fcpx-advanced-techniques-for-2024/"><u>New Mastering Image Cropping in FCPX Advanced Techniques for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-fine-tuning-your-films-rhythm-synchronizing-soundtracks-with-video-in-final-cut-pro-x/"><u>Updated In 2024, Fine-Tuning Your Films Rhythm Synchronizing Soundtracks with Video in Final Cut Pro X</u></a></li>
 </ul></div>
 

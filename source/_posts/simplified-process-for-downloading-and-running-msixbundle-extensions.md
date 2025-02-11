@@ -1,7 +1,7 @@
 ---
 title: Simplified Process for Downloading and Running MSixbundle Extensions
-date: 2025-01-23T23:40:07.200Z
-updated: 2025-01-29T23:04:45.391Z
+date: 2025-02-09T03:05:27.288Z
+updated: 2025-02-11T08:34:49.194Z
 tags:
   - windows10
   - windows11
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/fd4e779227951f738339902ec6bf865ee57c2e0e8
 ![adguard msixbundle download](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/adguard-msixbundle-download.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Adguard is a third-party web service and an online link generator for Microsoft Store. It makes it easy to download appx and appxbundle files from the Microsoft Store for sideloading them on your Windows computer.
@@ -51,10 +51,6 @@ To download appx, appxbundle or msixbundle using Adguard:
 7. Make sure to check the architecture compatibility (**x64, x86, Arm**) for the files depending on your system architecture.
 8. Next, click on the msixbudle link to download. Microsoft Edge may sometimes block the download as not secure. You can use alternative browsers like Google Chrome and Firefox to compelete the download.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Generate Microsoft Store Apps Direct Download Links Using Fiddler
 
  Fiddler Classic is a network tracking and monitoring tool to log HTTP(s) traffic from web browsers and installed apps. You can use this app to track Microsoft Store network when downloading an app to your computer. Then use the URL as a direct download link to download appx, msixbundle, and appxbundle files using any web browser.
@@ -68,10 +64,6 @@ To generate a Microsoft Store app downloading link using Fiddler:
 
 ![Fiddler app container loopback exception utlility](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fiddler-app-container-loopback-exception-utlility.jpg)
 4. Click on**Save Changes.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Next, click on**Edit** and go to**Remove** , and select**All Sessions** . Alternatively, press**Ctrl + X** to do the same.  
 ![Filddler remove all sessions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/filddler-remove-all-sessions.jpg)
@@ -90,16 +82,24 @@ To generate a Microsoft Store app downloading link using Fiddler:
  To install the downloaded appx, appxbundle, or msixbundle file, you can use PowerShell or the App Installer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Install Appx, Appxbundle and Msixbundle Apps
 
  In an ideal situation, you can double-click on the app file package to install it on your Windows computer. However, if that does not work, you can sideload the apps using PowerShell and the official App Installer. Here are the three ways to install the appxbundle and msixbundle file packages on Windows 10 and 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Install Appx/Appxbundle/Msixbundle App By Running the File
 
 ![install appxbundle double click](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-appxbundle-double-click.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can install some appx, appxbundle, and msixbundle files like you would do with any .exe file. Follow these steps to sideload and install Universal Windows Platform apps.
 
@@ -107,6 +107,10 @@ To generate a Microsoft Store app downloading link using Fiddler:
 2. Next, double-click on the file to open the installation wizard and click on the**Install** button to install the software.
 
  Unfortunately, this installation method does not work always. You are likely to run into errors like[this app package is not support installation](https://www.makeuseof.com/app-package-not-supported-installation-app-installer/) . What you can do instead is try to install the app using the App Installer app or PowerShell. You can use PowerShell to install apps not signed by Microsoft Store.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Install Appx, Appxbundle, and Msixbundle using App Installer
 
@@ -123,6 +127,10 @@ To install App Installer:
 3. Click on Install and wait for it to complete the process.
 4. Once installed, click on the appx, appxbundle, or msixbundle file to open it in**App Installer.**
 5. Click**Install** and wait for the app installation to finish.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Install Appx, Msixbundle, and Appxbundle Using PowerShell
 
@@ -147,17 +155,9 @@ To enable Developer Mode on Windows 11
 
 ![enable developer mode windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-developer-mode-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Press**Win + I** to open**Settings** .
 2. Open the**Privacy & Security** tab in the left pane,
 3. Click on**For Developers** and then toggle the switch for**Developer Mode.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Download and Install Appx, Appxbundle, and Msixbundle from Microsoft Store on Windows
 
@@ -178,24 +178,24 @@ To enable Developer Mode on Windows 11
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-explore-8-inexpensive-virtual-gatherings-mac-and-windows-compatibility/"><u>[New] 2024 Approved Explore 8 Inexpensive Virtual Gatherings Mac & Windows Compatibility</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-golden-grounds-guided-the-finest-treasure-maps/"><u>[Updated] 2024 Approved Golden Grounds Guided The Finest Treasure Maps</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-redefine-video-downloading-pick-from-these-top-ranked-free-and-on-demand-apps-for-youtube-shorts/"><u>[Updated] In 2024, Redefine Video Downloading Pick From These Top-Ranked, Free & On-Demand Apps for YouTube Shorts</u></a></li>
-<li><a href="https://fox-where.techidaily.com/bildanalyse-erkunden-entdecken-sie-die-welt-der-bilder/"><u>Bildanalyse Erkunden - Entdecken Sie Die Welt Der Bilder</u></a></li>
-<li><a href="https://windows11.techidaily.com/dissecting-the-8-anomalies-in-windows-11s-ui/"><u>Dissecting the 8 Anomalies in Windows 11'S UI</u></a></li>
-<li><a href="https://windows11.techidaily.com/fix-it-fast-dealing-with-microsoft-store-errors-in-1011-systems/"><u>Fix It Fast: Dealing with Microsoft Store Errors in 10/11 Systems</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-11-pro-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 11 Pro Lock Screen with Notifications? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/illuminating-text-adopting-notepads-dark-theme-windows/"><u>Illuminating Text: Adopting Notepad's Dark Theme (Windows)</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-15-pro-max-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone 15 Pro Max Without a Passcode</u></a></li>
-<li><a href="https://win-net.techidaily.com/overcoming-challenges-with-microsoft-software-license-activation-expert-tips-from-yl/"><u>Overcoming Challenges with Microsoft Software License Activation - Expert Tips From YL</u></a></li>
-<li><a href="https://windows11.techidaily.com/restoring-lost-functionality-to-windows-netflix/"><u>Restoring Lost Functionality to Windows Netflix</u></a></li>
-<li><a href="https://windows11.techidaily.com/restoring-visibility-of-missing-disk-in-win/"><u>Restoring Visibility of Missing Disk in Win</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/simple-approach-to-getting-clownfish-voice-changer-on-windows/"><u>Simple Approach to Getting Clownfish Voice Changer on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/solving-no-files-available-error-in-windows-11/"><u>Solving 'No Files Available' Error in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/supercharge-your-workday-top-5-win-11-productivity-tools/"><u>Supercharge Your Workday: Top 5 Win 11 Productivity Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/trimming-excessive-load-reducing-the-burden-of-user-mode-services-on-pcs/"><u>Trimming Excessive Load: Reducing the Burden of User-Mode Services on PCs</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723004781764-troubleshooting-stardew-valley-launch-problems-solutions-revealed/"><u>Troubleshooting Stardew Valley Launch Problems - Solutions Revealed</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-unresponsive-downloads-in-windows-explorer/"><u>Troubleshooting Unresponsive Downloads in Windows Explorer</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-step-by-step-freeipodcasts-downloads-on-iphone/"><u>[New] Step-by-Step FreeiPodcasts Downloads on iPhone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-how-to-record-and-save-your-workscreen-on-windows-8/"><u>[Updated] 2024 Approved How to Record and Save Your Workscreen on Windows 8</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-ultimate-fidelity-in-mac-screen-and-audio-recording/"><u>[Updated] Ultimate Fidelity in Mac Screen & Audio Recording</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-voice-customization-leaders-beyond-echo-magic/"><u>[Updated] Voice Customization Leaders Beyond Echo Magic</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-honor-x9b-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Honor X9b to Roku | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/9-ways-to-fix-blurry-screen-issues-on-windows-11/"><u>9 Ways to Fix Blurry Screen Issues on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-limited-it-admin-power-in-security-warning/"><u>Bypassing 'Limited IT Admin Power' In Security Warning</u></a></li>
+<li><a href="https://windows11.techidaily.com/calculate-and-track-power-consumption-for-your-pc-windows-edition/"><u>Calculate and Track Power Consumption for Your PC: Windows Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/clean-windows-search-interface-no-icons/"><u>Clean Windows Search Interface: No Icons</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-resource-unavailable-situations-on-windows-149-chars/"><u>Correcting 'Resource Unavailable' Situations on Windows (149 Chars)</u></a></li>
+<li><a href="https://windows11.techidaily.com/customizing-windows-file-explorer-path-settings/"><u>Customizing Windows File Explorer Path Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-crash-reports-for-flawless-hardware-repairs/"><u>Decoding Crash Reports for Flawless Hardware Repairs</u></a></li>
+<li><a href="https://windows11.techidaily.com/direct-console-connection-joining-win-to-ps3-controller/"><u>Direct Console Connection: Joining Win to PS3 Controller</u></a></li>
+<li><a href="https://windows11.techidaily.com/discover-the-best-4-webp-apps-on-your-windows-laptoppc/"><u>Discover the Best 4 WebP Apps on Your Windows Laptop/PC</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-mastering-video-capture-a-deep-dive-into-tunefab-products/"><u>In 2024, Mastering Video Capture A Deep Dive Into Tunefab Products</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-data-recovery-12-mac-en-getting-familiar-with-user-interface/"><u>Stellar Data Recovery 12 Mac en Getting Familiar with User Interface</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Steps to Mend Windows Network Proxy Errors
-date: 2024-08-15T15:28:15.777Z
-updated: 2024-08-16T15:28:15.777Z
+date: 2025-02-08T06:10:46.883Z
+updated: 2025-02-11T08:07:03.280Z
 tags:
   - windows10
   - windows11
@@ -37,8 +37,9 @@ thumbnail: https://thmb.techidaily.com/0b2657385f18cc859d59520b24816f771e8e749f1
  Here you'll see a list of options related to proxy servers. If you don't use a proxy (as is the case for most home users), make sure that**Use a proxy server** near the bottom is turned off. Leave**Automatically detect settings** on if it is already.
 
 ![Windows 10 Proxy Settings Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Windows-10-Proxy-Settings-Menu.png)
+
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  For those who do connect with a proxy, such as people in a business or school environment, you might want to check with your system administrator to make sure you have the correct proxy details here. They'll be able to speak to any issues specific to your network.
@@ -56,8 +57,9 @@ thumbnail: https://thmb.techidaily.com/0b2657385f18cc859d59520b24816f771e8e749f1
  These are most common in business and school use, where system administrators use them for security and efficiency. It's very unlikely that you would use a proxy server on your home network, unless you specifically set one up. This is why in most home cases, you should clear any proxy settings that might exist when you run into this issue.
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Run the Network Adapter Troubleshooter
 
  When you right-click on the network connection icon in your System Tray and choose to troubleshoot, it runs the**Internet Connections** troubleshooter. This is what results in the "Windows could not detect proxy settings" error. But there's another network troubleshooter you can run that might provide more help.
@@ -66,9 +68,6 @@ thumbnail: https://thmb.techidaily.com/0b2657385f18cc859d59520b24816f771e8e749f1
 
  Choose**Network Adapter** from the list and walk through the troubleshooter. As seasoned Windows users know, these troubleshooters don't always fix your problem, but it's still worth a try.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Auto-Obtain IP Address and DNS Info
 
  As it turns out, there aren't many troubleshooting steps specific to proxy servers. We'll share more tips below, but bear in mind that the troubleshooting for this looks similar to [fixing the "No Internet Access" Windows error](https://www.makeuseof.com/tag/no-internet-access-fix-windows/) from this point on.
@@ -79,11 +78,12 @@ thumbnail: https://thmb.techidaily.com/0b2657385f18cc859d59520b24816f771e8e749f1
 
 ![Windows IP Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/01/Windows-IP-Settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On Windows 11, go to**Settings > Network & internet** and choose**Wi-Fi** or**Ethernet** depending on the connection you're using. Then click your network name. If you don't see**Automatic (DHCP)** next to both**IP assignment** and**DNS server assignment** , click the**Edit** button next to both and set them to this value.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Update or Roll Back Your Network Driver
 
  An outdated network driver may lead to connection problems. Similarly, you might have recently installed a botched update for your network driver. In either case, replacing the driver could clear the proxy message issue.
@@ -93,20 +93,12 @@ thumbnail: https://thmb.techidaily.com/0b2657385f18cc859d59520b24816f771e8e749f1
  Then, on the**Driver** tab, you can choose**Roll Back Driver** to uninstall the latest update and return to the previous one. Use this if you started experiencing this issue after updating—though it might not be available in all cases.
 
 ![Windows 10 Device Manager Update Roll Back](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/04/Windows-10-Device-Manager-Update-Roll-Back.png)
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Choose**Update Driver** and you can check for new updates over the internet. Since this likely won't find anything, you'll need to [manually update your drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) by downloading them from the manufacturer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reset Network Configuration via the Command Prompt
 
@@ -124,9 +116,17 @@ thumbnail: https://thmb.techidaily.com/0b2657385f18cc859d59520b24816f771e8e749f1
 
 `ipconfig /flushdns`
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Review Firewall, VPN, and Antivirus Software
 
 ![Windows 10 firewall settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/firewall-settings.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You should next make sure you don't have a firewall, VPN, or security suite interfering with your network connection. Perhaps your chosen software had an update that changed an option you weren't aware of, or you just installed a new app that changed proxy settings for some reason.
 
@@ -147,18 +147,12 @@ thumbnail: https://thmb.techidaily.com/0b2657385f18cc859d59520b24816f771e8e749f1
  In the resulting**System Properties** dialog box on the**System Protection** tab, click**System Restore** to open a new window. Windows will walk you through choosing a restore point and confirming the operation. Of course, if your computer hasn't created any restore points, you can't use this feature.
 
 ![choose a specific restore point and click on next](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/click-on-a-restore-point.png)
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Note that using a restore point will remove any programs and drivers you've installed since making that restore point. You can click**Scan for affected programs** on a restore point to see what effect it will have. Using a System Restore won't affect any of your personal files.
 
 ## 10\. Reset Your Network Settings
 
 ![Windows 10 Network Reset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/04/Windows-10-Network-Reset.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  After trying everything above, you should resort to a full reset of your network configuration in Windows. You've already spent a lot of time working on this, and a reset should clear whatever persistent problem is blocking your connection with this "cannot detect proxy settings" error.
 
@@ -166,23 +160,17 @@ thumbnail: https://thmb.techidaily.com/0b2657385f18cc859d59520b24816f771e8e749f1
 
  Be aware that this will remove all network information from your computer, so you'll need to reconnect to saved networks again. If you're OK with this, click**Reset now** . Your computer will perform the reset, then restart.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ## Windows Could Not Detect Proxy Settings: Resolved
 
  Now you know what to do when Windows cannot detect proxy settings. All network errors are frustrating, but you should be able to clear this one up without much work. It's most important to make sure that you have a proxy turned off (if you don't use one) or configured properly (if you do use one).
 
  Otherwise, some standard network troubleshooting should have you all patched up and ready to get back online.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -191,8 +179,22 @@ thumbnail: https://thmb.techidaily.com/0b2657385f18cc859d59520b24816f771e8e749f1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-efficiently-capturing-footage-for-ideal-snaps-via-mac/"><u>[New] 2024 Approved Efficiently Capturing Footage for Ideal Snaps via Mac</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-navigating-the-maze-of-online-conflict-your-pathway-to-filing-a-report-on-discord-for-2024/"><u>[Updated] Navigating the Maze of Online Conflict Your Pathway to Filing a Report on Discord for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024-approved-visual-branding-in-youtubes-design-tips/"><u>2024 Approved Visual Branding in YouTubes Design Tips</u></a></li>
+<li><a href="https://fox-http.techidaily.com/a-comprehensive-guide-to-post-processing-colors-for-2024/"><u>A Comprehensive Guide to Post-Processing Colors for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beginners-welcome-to-langchain-llm-your-initial-learning-journey/"><u>Beginners Welcome to LangChain LLM: Your Initial Learning Journey</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-correcting-the-infamous-bsod-glitch-on-helldivers/"><u>Expert Tips: Correcting the Infamous BSOD Glitch on Helldivers ➡️</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-google-pixel-8-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Google Pixel 8 Devices | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-rectify-and-resolve-onedrive-errors-in-os/"><u>How to Rectify and Resolve OneDrive Errors in OS</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-x100-pro-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo X100 Pro Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-desktop-visibility-placing-this-pc-icon-front-and-center/"><u>Maximizing Desktop Visibility: Placing 'This PC' Icon Front and Center</u></a></li>
+<li><a href="https://windows11.techidaily.com/missing-dxgidll-in-win11-heres-what-to-do-now/"><u>Missing Dxgi.dll in Win11? Here's What to Do Now</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-to-activate-rgb-settings-in-windows-11/"><u>Step-by-Step to Activate RGB Settings in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-activities-gain-more-in-less-time-with-flow-launcher/"><u>Streamline Activities: Gain More in Less Time With Flow Launcher</u></a></li>
+<li><a href="https://windows11.techidaily.com/tracing-untapped-functions-within-windows-system-health-tools/"><u>Tracing Untapped Functions Within Windows' System Health Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-windows-control-for-apps-and-browsers/"><u>Unveiling Windows Control for Apps & Browsers</u></a></li>
+</ul></div>
 

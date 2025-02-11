@@ -1,7 +1,7 @@
 ---
 title: Method to Rectify the Zero X Error on Windows 11’S Mail App
-date: 2024-08-15T15:29:05.768Z
-updated: 2024-08-16T15:29:05.768Z
+date: 2025-02-05T20:05:14.179Z
+updated: 2025-02-10T20:17:16.960Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 
  Mail isn’t much good when users can’t add accounts and send emails with it. Does the 0x800713f error occur in your Mail app? If it does, you can resolve error 0x800713f with these potential resolutions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use the Windows Store Apps Troubleshooter
 
  The Windows Store Apps troubleshooter doesn’t fix every app error that occurs. However, that troubleshooting tool is always worth a try whenever a UWP app like Mail throws up an error code. You can give the Windows Store Apps troubleshooter a whirl as follows:
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 5. Go through the troubleshooter and apply all suggestions it makes.  
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-store-apps-troubleshooter2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The same troubleshooter is available in Windows 10, but the steps for accessing it in Settings are a little different. You’ll need to select the**Update & Security** category in Windows 10’s Settings app. Then select the**Troubleshoot** tab and**Additional troubleshooters** to view the list of troubleshooting tools.
 
 ## 2\. Change the Privacy Settings for the Mail App
@@ -42,35 +50,25 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 2. Select**Privacy & security** to view app permission navigation options.
 3. Click the**Email** navigation option.  
 ![The Email navigation option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/email-navigation-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 4. Turn on**Email access** if that option isn’t enabled.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click**Let apps access your email** to expand options.  
 ![The Let apps access your email option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/let-apps-access-your-email.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 6. Toggle the**Mail and Calendar** app on if it’s not already.
 7. Also, turn on the**People** app listed there.
 
  If you find those settings are already turned on, try re-enabling them. Turn off the**Allows apps to access your email** and**Mail and Calendar** options, and click**Restart** on the Start menu. Then return to Settings to turn those settings back on after the restart.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## 3\. Reset and Repair the Mail App
 
  Windows 11 includes**Reset** and**Repair** options that can often fix buggy UWP apps showing error codes. Resetting the Mail app can eradicate corrupted data. Our guide to [resetting apps in Windows](https://www.makeuseof.com/windows-reset-app/) provides further details on how to do that. You can also select an alternative**Repair** option for Mail just above its**Reset** button.
 
 ![The Reset button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-reset-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## 4\. Allow Mail and Calendar Through Windows Defender Firewall
 
  The Windows firewall filters inbound and outbound internet data. That firewall could be causing error 0x800713f by blocking the Mail and Calendar app. First, try temporarily disabling Windows Defender Firewall before opening Mail like this:
@@ -87,11 +85,12 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 
 ![Windows Defender Firewall's allowed apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/allowed-firewall-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Do you have a third-party firewall on your desktop or laptop? If you do, that software could also be causing Mail app issues. Try disabling third-party firewall software to see if that makes a difference. If it does, check the firewall’s permission settings to ensure Mail is allowed through.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Log in to Windows With a Local User Account
 
  Do you log in to Windows 11 with a Microsoft account? If yes, try logging in with a local user account and utilizing Mail from there. To do that, you’ll need to switch to a local one by changing your account settings like this:
@@ -108,11 +107,17 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 ![Local account info boxes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/enter-your-local-account-info.jpg)
 3. Press the**Sign out** **and** **Finish** button.  
 ![The Sign out and finish button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-sign-out-and-finish-button.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Log in to your local user account.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Open**Mail** to check if the 0x800713f error has been fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reinstall Mail and Calendar
 
@@ -126,13 +131,14 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 5. Next, open the Mail and Calendar store page in whatever alternative browser you utilize.
 6. Press the**Get in Store** app button on the Mail and Calendar page.  
 ![The Get in Store app button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-get-in-store-app-button.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 7. Click Open in Microsoft Store to bring up a**Get** option for the app.
 8. Select**Get** to reinstall Mail.
 
  The steps for reinstalling Mail in Windows 10 Settings are similar. You’ll need to select the**Apps** category in Settings. Then select Mail and Calendar in Apps & features, and press its**Uninstall** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Send More Emails With the Mail App
 
@@ -144,8 +150,6 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,8 +157,21 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-crafting-an-apple-powered-athletic-broadcast-platform-for-2024/"><u>[New] Crafting an Apple-Powered Athletic Broadcast Platform for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-diving-into-the-worlds-best-free-online-editing-and-visual-effects-sites/"><u>[New] Diving Into the World's Best Free Online Editing and Visual Effects Sites</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-breaking-down-the-science-of-color-grading-via-3d-lut-in-ps/"><u>2024 Approved Breaking Down the Science of Color Grading via 3D LUT in PS</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-up-blank-login-issues-on-win1011-pcs/"><u>Clearing Up Blank Login Issues on WIN10/11 PCs</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-vivo-x100-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Vivo X100</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experience-next-level-performance-a-thorough-examination-and-rating-of-the-m1-chip-integrated-apple-macbook-air-2020-release/"><u>Experience Next-Level Performance: A Thorough Examination and Rating of the M1 Chip Integrated Apple MacBook Air (2020 Release)</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-strategies-for-effortless-integration-of-directories-win-11/"><u>Expert Strategies for Effortless Integration of Directories, Win 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-tips-for-successfully-downloading-and-updating-your-zebra-zp450-printer-drivers/"><u>Expert Tips for Successfully Downloading & Updating Your Zebra ZP450 Printer Drivers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-vivo-v30-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-terminal-personalize-colors-and-style/"><u>Mastering Terminal: Personalize Colors & Style</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-non-existent-device-alerts-on-windows-1011/"><u>Resolving Non-Existent Device Alerts on Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11s-upcoming-moment-anticipated-new-features/"><u>Windows 11'S Upcoming Moment: Anticipated New Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/winrars-corrected-compression-overcoming-sum-errors/"><u>WinRAR's Corrected Compression: Overcoming Sum Errors</u></a></li>
+</ul></div>
 

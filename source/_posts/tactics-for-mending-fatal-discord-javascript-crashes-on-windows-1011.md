@@ -1,7 +1,7 @@
 ---
 title: Tactics for Mending Fatal Discord Javascript Crashes on Windows 10/11
-date: 2025-01-25T22:23:39.542Z
-updated: 2025-01-30T08:27:27.275Z
+date: 2025-02-03T22:32:56.285Z
+updated: 2025-02-10T16:42:55.978Z
 tags:
   - windows10
   - windows11
@@ -32,7 +32,11 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 ![The Run this program in compatibility mode checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-this-program-as-administrator-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Uninstall BetterDiscord
@@ -47,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 6. Select the**Uninstall BetterDiscord** option, and click**Next** again.  
 ![The Uninstall BetterDiscord option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-betterdiscord-option.jpg)
 7. Choose a**Discord** version.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 8. Click**Uninstall** to finish.
 
@@ -67,16 +67,24 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 ![A Discord-related processes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/discord-related-process.jpg)
 5. Open Windows Explorer with**Win + E** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Type**%appdata%** inside Explorer’s address bar and press**Return** .
 7. Then select the Discord data folder and click Explorer's**Delete** option on the**Home** tab or command bar.  
 ![A discord folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/discord-folder.jpg)
 8. Input**%LocalAppData%** in Explorer’s address bar and press**Enter** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 9. Next, click the Discord folder with the mouse’s right button and select**Delete** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Reinstall Discord
 
@@ -114,10 +122,6 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 4. Toggle off the**Real-time protection** option to disable background antivirus scanning.  
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/real-time-protection-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Check the Quality Windows Audio Video Experience Service is Enabled
 
  Quality Windows Audio Video Experience is a service for improving audio and video streaming performance. That’s an important service to have enabled and running for Discord. So, check that qWave is turned on and running as follows:
@@ -136,17 +140,13 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 ![The Log On tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/this-account-radio-button.jpg)
 8. Click**Browse** for the**This account** radio button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 9. Input your user account within the**Enter** object name box.
 10. Click**OK** to close out of the Select user window.
 11. To save the service’s new settings, select its**Apply** option.
 12. Then exit the window by selecting**OK** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Start Chatting in Discord Again on Windows
@@ -168,16 +168,21 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-mastering-unique-tiktok-personalities-through-creative-pfp-designs/"><u>[Updated] In 2024, Mastering Unique TikTok Personalities Through Creative PFP Designs</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-heres-everything-you-should-know-about-pokemon-stops-in-detail-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Heres Everything You Should Know About Pokemon Stops in Detail On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-12-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone 12</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-step-by-step-starting-a-skype-call-on-android/"><u>In 2024, Step-by-Step Starting a Skype Call on Android</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-the-challenge-of-unacceptable-connections-on-pcs/"><u>Overcoming the Challenge of Unacceptable Connections on PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/stops-on-self-launched-new-chrome-tabs-on-your-desktop/"><u>Stops on Self-Launched New Chrome Tabs on Your Desktop</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-for-eradicating-endless-teams-login-alerts/"><u>Strategies for Eradicating Endless Teams Login Alerts</u></a></li>
-<li><a href="https://windows11.techidaily.com/tactics-for-extracting-hidden-windows-product-codes/"><u>Tactics for Extracting Hidden Windows Product Codes</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-essential-techniques-for-boosting-pc-wake-up-time/"><u>The Essential Techniques for Boosting PC Wake-Up Time</u></a></li>
-<li><a href="https://review-topics.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-itel-p55t-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Itel P55T | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unforeseen-risks-6-reasons-for-careful-engagement-with-ai/"><u>Unforeseen Risks: 6 Reasons for Careful Engagement With AI</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-stepwise-guide-to-travel-back-in-time-with-facebooks-archive-laptop-and-mobile-for-2024/"><u>[New] Stepwise Guide to Travel Back in Time with Facebook's Archive (Laptop & Mobile) for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-enhancing-video-reach-convert-yt-to-igtv-for-2024/"><u>[Updated] Enhancing Video Reach Convert YT to IGTV for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-prime-selection-of-streaming-services-explored/"><u>[Updated] In 2024, Prime Selection of Streaming Services Explored</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-recording-quality-unlocked-best-mics/"><u>[Updated] Recording Quality Unlocked Best Mics</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/audiovisual-excellence-through-narrative-enrichment-for-2024/"><u>Audiovisual Excellence Through Narrative Enrichment for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-political-advertising-strategies-utilize-movavi-for-compelling-voter-outreach-graphics/"><u>Effective Political Advertising Strategies: Utilize Movavi for Compelling Voter Outreach Graphics</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/eliminating-unwanted-straight-line-artifacts-in-image-scans-insights-by-yl-software/"><u>Eliminating Unwanted Straight Line Artifacts in Image Scans - Insights by YL Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/ending-system-crashes-fix-for-code-0x0000011b-errors/"><u>Ending System Crashes: Fix for Code 0X0000011B Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-display-glitch-geforce-experience-x0001/"><u>Fixing Display Glitch: GeForce Experience X0001</u></a></li>
+<li><a href="https://windows11.techidaily.com/minimize-high-usage-windows-11-news-and-media-feats/"><u>Minimize High Usage Windows 11 News & Media Feats</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-intel-unison-app-for-seamless-windows-phone-calls/"><u>Navigating Intel Unison App for Seamless Windows Phone Calls</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-windows-update-pitfalls-0x30017/"><u>Navigating Through Windows Update Pitfalls (0X30017)</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-your-workflow-keep-gmail-pinned-for-easy-viewing/"><u>Optimize Your Workflow: Keep Gmail Pinned for Easy Viewing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-the-empty-directory-claim-in-windows-with-error-0x80070091-resolutions/"><u>Overcome the Empty Directory Claim in Windows with Error 0X80070091 Resolutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/precision-in-picture-editing-eliminating-backgrounds-effectively/"><u>Precision in Picture Editing: Eliminating Backgrounds Effectively</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-discover-the-7-leading-flac-to-mp3-transformers-free-and-premium/"><u>Ultimate Guide: Discover the 7 Leading FLAC To MP3 Transformers (Free and Premium)</u></a></li>
 </ul></div>
 

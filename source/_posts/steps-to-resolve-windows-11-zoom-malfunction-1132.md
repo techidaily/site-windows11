@@ -1,7 +1,7 @@
 ---
 title: Steps to Resolve Windows 11 Zoom Malfunction #1132
-date: 2024-08-15T15:25:15.835Z
-updated: 2024-08-16T15:25:15.835Z
+date: 2025-02-07T23:05:45.639Z
+updated: 2025-02-11T04:24:24.810Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/6f98ed833e99780ec633017bfd02ba19a6f592b21
  Zoom is a video conferencing app many users utilize to keep in touch with colleagues or family with PC webcams. However, some Zoom users can’t join meetings with that app because of error 1132\. When those users try to join meetings, a message with an 1132 code pops up that says, “An unknown error occurred.”
 
  This issue is one that mostly affects the Windows 10 and 11 Zoom app. Are you one of those Zoom users who can’t join meetings in that app because of error 1132? If so, try fixing the issue with the potential Zoom error 1132 resolutions below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Reboot Your Router
 
@@ -40,12 +44,19 @@ thumbnail: https://thmb.techidaily.com/6f98ed833e99780ec633017bfd02ba19a6f592b21
 2. Click the user menu button in the top-right corner of Zoom.
 3. Select the**Check for updates** option.  
 ![The Check for Updates option in Zoom](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/check-for-updates-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 4. If the window says there’s an update available, click the**Update** (or**Install**) option.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Update button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/zoom-update-window.jpg)
 5. Wait for the Zoom updater to finish.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Sign back into Zoom after the update, and try joining a meeting.
 
 ## 3\. Change Windows Defender Firewall Settings
@@ -57,25 +68,25 @@ thumbnail: https://thmb.techidaily.com/6f98ed833e99780ec633017bfd02ba19a6f592b21
 3. Select**Windows Defender Firewall with Advanced Security** to access that app.
 4. Next, click**Inbound Rules** within the left sidebar.  
 ![Inbound rules in Windows Defender Firewall with Advanced Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/inbound-rules.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 5. Double-click any Zoom rule you find listed there.
 6. Select the**Protocols** **and** **Ports** tab shown below.
 7. Click the**Protocol Type** drop-down menu to select**Any** .  
 ![The Protocols and Ports tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/protocols-and-ports-tab.jpg)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 8. Select**Apply** to set the rule’s new protocol option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 9. Click**OK** to exit the rule’s properties window.
 10. Repeat steps five to nine for all Zoom rules within Windows Defender Firewall with Advanced Security.
 
  Aside from that, consider checking if Zoom is permitted to communicate through the firewall. Windows Defender Firewall has an allowed app list in which you can select to authorize or disable Zoom and other software to establish connections through it. Select the**Private** and**Public** checkboxes for Zoom in that allowed app list. See our guide about [allowing apps through the Windows Defender Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) for further details.
 
 ![The allow app list for Windows Defender Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-app-through-firewall.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Disable Third-Party Antivirus/Security Software
@@ -101,9 +112,6 @@ thumbnail: https://thmb.techidaily.com/6f98ed833e99780ec633017bfd02ba19a6f592b21
 7. Navigate to the directory that includes your downloaded files, and double-click the**ZoomInstallerFull.exe** setup wizard.
 8. Go through Zoom’s setup wizard to reinstall the software.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Set Up a New Windows Account
 
  Many Zoom users who’ve needed to fix error 1132 have said setting up a new Windows account works. So, it seems this error can arise because of some kind of user account issue. Try utilizing Zoom in a new Windows account as follows:
@@ -111,9 +119,6 @@ thumbnail: https://thmb.techidaily.com/6f98ed833e99780ec633017bfd02ba19a6f592b21
 1. First, uninstall Zoom in your current Windows user profile, as covered in steps one to three of resolution five.
 2. Then set up the new local Windows user account. You can do that by following the instructions in our guide for [creating a new Windows user account](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) to resolve issues.  
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/add-account-button.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 3. When you’ve set up a new local Windows user account, log out of your current one.
 4. Sign in to the newly created user profile.
 5. Install the Zoom app in the new account.
@@ -122,9 +127,6 @@ thumbnail: https://thmb.techidaily.com/6f98ed833e99780ec633017bfd02ba19a6f592b21
 
  If this solution works, you can sign in to the new Windows account to use Zoom whenever needed. However, some users who need to utilize Zoom regularly may prefer to migrate files from their old accounts to new ones.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Join Your Zoom Meetings Again on Windows
 
  Those potential solutions will likely fix Zoom error code 1132 to enable you to join meetings with that app again. If you’re desperate to resolve that issue, more drastic solutions like resetting Windows to factory settings may also work. Yet, there isn’t a guaranteed error 1132 resolution, and you can submit a help request at the [Zoom support page](https://support.zoom.us/hc/en-us/requests/new) if further fixes are needed.
@@ -135,8 +137,6 @@ thumbnail: https://thmb.techidaily.com/6f98ed833e99780ec633017bfd02ba19a6f592b21
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,8 +144,18 @@ thumbnail: https://thmb.techidaily.com/6f98ed833e99780ec633017bfd02ba19a6f592b21
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-revamp-your-instagram-showcase-with-top-10-insights/"><u>[New] Revamp Your Instagram Showcase with Top 10 Insights</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-streamlining-post-processing-with-effective-use-of-luts-in-pscc/"><u>[New] Streamlining Post-Processing with Effective Use of LUTs in PSCC</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/best-top-xbox-hdds-your-ultimate-list/"><u>Best Top Xbox HDDs Your Ultimate List</u></a></li>
+<li><a href="https://windows11.techidaily.com/eradicating-error-code-xc0f1103f-with-nvidias-geforce-now/"><u>Eradicating Error Code Xc0f1103f with NVIDIA's GeForce Now</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-operation-failure-error-in-win-1011/"><u>Eradicating Operation Failure Error in Win 10/11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-guide-restoring-copy-and-paste-capabilities-in-windows-11-systems/"><u>Expert Guide: Restoring Copy & Paste Capabilities in Windows 11 Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-fearful-to-flourishing-embracing-the-ai-economic-shift/"><u>From Fearful to Flourishing: Embracing the AI Economic Shift</u></a></li>
+<li><a href="https://windows11.techidaily.com/procedures-for-fixing-inoperative-ccleaner-on-windows-os/"><u>Procedures for Fixing Inoperative CCleaner on Windows OS</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/step-by-step-how-to-upscalled-vids-on-instagram-for-2024/"><u>Step-by-Step How to Upscalled Vids on Instagram for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-your-experience-using-w11s-auto-hdr/"><u>Tailoring Your Experience: Using W11's Auto HDR</u></a></li>
+<li><a href="https://windows11.techidaily.com/unsticking-wows-initialization-on-pcs/"><u>Unsticking WoW's Initialization on PCs</u></a></li>
+</ul></div>
 

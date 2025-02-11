@@ -1,7 +1,7 @@
 ---
 title: "Tailoring Group Policies: Focusing on One User at a Time"
-date: 2024-08-15T15:26:15.901Z
-updated: 2024-08-16T15:26:15.901Z
+date: 2025-02-09T02:42:34.283Z
+updated: 2025-02-10T20:28:40.887Z
 tags:
   - windows10
   - windows11
@@ -20,22 +20,18 @@ thumbnail: https://thmb.techidaily.com/fe5fb2202d31ead27c9d026582d857fbe91d9882c
 
  It also makes it easy to apply and modify controls and appearances for individual users, and you’ll get a quick glance at which policies apply to which users. Here’s how to apply local group policy to specific user accounts on Windows 10 and 11\.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the Local Group Policy?
 
  Group Policy is a Windows feature that gives you more control over the things user accounts are able to do and have access to. Changing Group Policy changes how the system works for different sets of users. We’ve covered [what Group Policy is and how you can use it](https://www.makeuseof.com/tag/windows-group-policy/), with examples, in much more detail separately.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Apply a Local Group Policy to a Specific User Account
 
  First off, you must have Windows 10 Pro, Enterprise, or Education editions to access the Local Group Policy Editor. Here’s how to set up what’s called a [Microsoft Saved Console](https://www.makeuseof.com/microsoft-management-console-how-to-use-it/) (MSC) for a specific user.
@@ -44,26 +40,24 @@ thumbnail: https://thmb.techidaily.com/fe5fb2202d31ead27c9d026582d857fbe91d9882c
 2. You will be presented with a UAC prompt. Click on **Yes**.
 3. In the Microsoft Management Console window that opens up, go to **File > Add/Remove Snap-in**.  
 ![Adding a snap-in to the Microsoft Saved Console](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/01-add-remove-snap-in-microsoft-saved-console.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 4. Look for and select **Group Policy Object Editor**; click on the **Add** button to add it to the **Selected snap-ins** pane; and click **OK**.  
 ![Adding Group Policy Object Editor for a specific user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/02-add-group-policy-object-editor-microsoft-saved-console.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 5. Next you will be asked to select a Group Policy Object. Click on **Browse**.  
-![Select the Group Policy Object for a specific user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/03-select-group-policy-object.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Select the Group Policy Object for a specific user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/03-select-group-policy-object.jpg)
 
 1. Switch to the **Users** tab in the window that pops up.  
 ![Select user-specific Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/04-msc-select-user-group-policy.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Select the user account for which you want to create a custom Local Group Policy, then click **OK**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click on the **Finish** button, and then on the **Add or Remove Snap-ins** window, click **OK** on the bottom right.
 4. The Group Policy for the specific user should appear in the console window.
 5. Go to **File > Save As** and select a location you want to save the MSC. You can rename it here.
@@ -72,15 +66,14 @@ thumbnail: https://thmb.techidaily.com/fe5fb2202d31ead27c9d026582d857fbe91d9882c
  You’ve now created a user-specific Local Group Policy MSC. Whenever you need to configure policy settings that apply just to this specific user, double-click the file you just created and make the policy changes you need. Don’t forget to save the console settings when finished.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Easily Control What Windows Users Have Access To
 
  By utilizing Local Group Policy, you have greater control over what functionality you accord to a specific user or set of users. A simple change at this level can make your job much easier when applying restrictions and granting freedoms to Windows users.
 
  It also makes it easy to apply and modify controls and appearances for individual users, and you’ll get a quick glance at which policies apply to which users. Here’s how to apply local group policy to specific user accounts on Windows 10 and 11\.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -89,5 +82,16 @@ thumbnail: https://thmb.techidaily.com/fe5fb2202d31ead27c9d026582d857fbe91d9882c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-essential-insights-into-using-color-grading-luts-with-pscc/"><u>[New] In 2024, Essential Insights Into Using Color Grading LUTs with PSCC</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveil-the-power-leveraging-windows-11-and-zoom-maximum/"><u>[New] Unveil the Power Leveraging Windows 11 and Zoom Maximum</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-from-hd-to-breathtaking-eizos-newest-4k-display/"><u>[Updated] From HD to Breathtaking EIZO's Newest 4K Display</u></a></li>
+<li><a href="https://windows11.techidaily.com/4-ways-to-find-a-programs-install-location-on-windows/"><u>4 Ways to Find a Program's Install Location on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/choosing-between-nas-devices-and-direct-attached-storage-das-systems-a-comprehensive-guide/"><u>Choosing Between NAS Devices and Direct-Attached Storage (DAS) Systems: A Comprehensive Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/disabling-accidental-windows-11-search-menu-trigger/"><u>Disabling Accidental Windows 11 Search Menu Trigger</u></a></li>
+<li><a href="https://windows11.techidaily.com/outperforming-understanding-why-pcs-triumph-over-macs-9/"><u>Outperforming: Understanding Why PCs Triumph over Macs (#9)</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-correct-steam-ui-dll-not-loaded-error/"><u>Steps to Correct Steam UI DLL Not Loaded Error</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unbeatable-4th-of-july-mobile-offers-expert-reviews-and-comparisons/"><u>Unbeatable 4Th of July Mobile Offers: Expert Reviews & Comparisons</u></a></li>
+</ul></div>
 

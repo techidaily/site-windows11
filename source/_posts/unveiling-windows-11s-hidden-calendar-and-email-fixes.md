@@ -1,7 +1,7 @@
 ---
 title: Unveiling Windows 11'S Hidden Calendar & Email Fixes
-date: 2024-08-15T15:28:30.010Z
-updated: 2024-08-16T15:28:30.010Z
+date: 2025-02-09T07:38:02.433Z
+updated: 2025-02-11T02:17:24.513Z
 tags:
   - windows10
   - windows11
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/b461869fdc65b7a58affdd23329a3336b55cdb42a
 
  Fortunately, it's very easy to troubleshoot the problem. Below are all the working fixes you can try in the situation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart and Install Updates
 
  The best thing you can try to eliminate any Windows issue is to restart the computer. If the problem is caused due to a temporary Windows glitch, it will be fixed with a simple restart.
@@ -36,16 +40,14 @@ thumbnail: https://thmb.techidaily.com/b461869fdc65b7a58affdd23329a3336b55cdb42a
 2. Click on**Windows Update** .
 3. Click on**Check for updates** .  
 ![Windows Check for update screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Check-for-updates.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Windows will check for any pending updates and install them if available.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After updating to the latest OS version, check if you can open the app. If not, move on to the next solutions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Download the Latest Updates for Mail and Calendar
 
  Similar to Windows' own updates, an outdated Mail and Calendar app can also cause issues. Try updating the app to see if that fixes your problem.
@@ -56,17 +58,11 @@ Here's how to update Mail and Calendar on Windows 11.
 2. Click on**Library** at the bottom left corner.
 3. Click on**Get updates** .  
 ![Microsoft Store app library](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Get-updates.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 4. Microsoft Store will suggest updates for all the installed UWP apps.
 5. Download the update available for Mail and Calendar.
 
  After updating the application, reboot the system and check for the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Run the Windows Store Apps Troubleshooter
 
  The Windows Store app troubleshooter is a built-in utility that solves issues revolving around UWP apps. It is the go-to option whenever a UWP app becomes inaccessible or crashes randomly.
@@ -78,12 +74,13 @@ Here's how to run the Windows Store Apps Troubleshooter.
 3. Click on**Other troubleshooters** .
 4. Click on**Run** next to Windows Store Apps.  
 ![A screenshot of some of Windows 11's troubleshooters, including one for 'Windows Store Apps.'](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/other-app-troubleshooters-windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 5. The troubleshooting window will pop up and look for the problem.
 
  If any problem is found, follow the onscreen instructions to apply the potential fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Check Mail Sync Settings
 
@@ -96,18 +93,12 @@ Here's how to run the Windows Store Apps Troubleshooter.
 ![Email & accounts option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/email-accounts.jpg)
 3. Click the drop-down icon next to your email account and choose**Manage** from the menu that crops up.  
 ![Manage option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/manage-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Choose the**Change mailbox sync settings** option.
 5. Click the drop-down icon under**Download new content** and choose**as items arrive** option.
 6. Enable the toggle under the**Email, Calendar** and**Contacts** options.  
 ![Gmail sync settings in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gmail-sync-settings.jpg)
 7. Click**Done** to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## 5\. Change Mail and Calendar Privacy Settings
 
  You're likely to face the issue due to misconfigured privacy settings of the Mail and Calendar app. To fix this, follow these steps:
@@ -117,14 +108,12 @@ Here's how to run the Windows Store Apps Troubleshooter.
 ![Calendar option in Privacy & security window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/calendar-option.jpg)
 3. Enable the toggle next to**Mail and Calendar** .  
 ![Mail and Calendar toggle in Calendar window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/mail-and-calendar-toggle.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 4. Next, click on the**Email** option in the App permission section, and enable the toggle next to**Mail and Calendar** in the following window.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Repair the Mail and Calendar App
 
  Repairing the app is a textbook trick that is often recommended to troubleshoot any minor issue. We recommend trying this to fix the Mail and Calendar app as well.
@@ -138,9 +127,6 @@ Here are the steps to repair the Mail and Calendar app.
 5. Choose**Advanced options** .
 6. Under the**Reset** section, click on**Repair.**  
 ![Mail and Calendar repair and reset screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Repair-Mail.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 
  Windows will take a few seconds to repair the app. Once the process is complete, launch the Mail and Calendar, and check if you are still facing the problem.
 
@@ -170,7 +156,15 @@ Here's how to do it.
 ![Windows Firewall allow an app through firewall screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Mail-and-Calendar.jpg)
 7. Click OK to save the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The third-party antivirus program can also cause the issue. Try to disable it and check if you can access the Mail and Calendar app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Re-Register the Mail And Calendar App
 
@@ -203,6 +197,10 @@ Here are the steps to run an SFC scan.
 
 Reboot the system once DISM finishes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 11\. Reinstall Mail and Calendar
 
  If none of the fixes helped solve the issue, you could consider reinstalling the Mail and Calendar app. You can reinstall Mail and Calendar by following the below steps.
@@ -213,18 +211,19 @@ Reboot the system once DISM finishes.
 
  Next, open the Microsoft Store, and download the Mail and Calendar app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Open Mail And Calendar With Ease
 
  It is pretty hard to pinpoint the exact reason behind the problem; thus, you might have to go through all the solutions to make the Mail and Calendar app accessible again. But if none of the solutions was helpful, you can consider using a third-party application.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -233,8 +232,19 @@ Reboot the system once DISM finishes.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-from-hobbyists-to-pros-how-mavic-air-redefines-with-spark/"><u>[New] 2024 Approved From Hobbyists to Pros How Mavic Air Redefines with Spark</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-simplify-your-screen-with-smart-edits-on-heavy-duty-tiktoks/"><u>2024 Approved Simplify Your Screen with Smart Edits on Heavy-Duty TikToks</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-preventing-latency-when-linking-two-monitors/"><u>Guide to Preventing Latency When Linking Two Monitors</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-samsung-galaxy-xcover-6-pro-tactical-edition-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Samsung Galaxy XCover 6 Pro Tactical Edition Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-motorola-moto-g-stylus-5g-2023-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Motorola Moto G Stylus 5G (2023)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-a-beginners-guide-to-installing-videoleap-on-macbook/"><u>New A Beginners Guide to Installing Videoleap on MacBook</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/razer-blade-pro-17-laptop-assessment-ultimate-mobility-meets-performance/"><u>Razer Blade Pro 17 Laptop Assessment: Ultimate Mobility Meets Performance</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-to-address-windows-network-not-found/"><u>Solutions to Address Windows Network Not Found</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-unexpected-wins-system-messages/"><u>Tackling Unexpected WINS System Messages</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>What are Location Permissions Life360 On Apple iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/why-cant-i-install-the-ipogo-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>Why cant I install the ipogo On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-memory-management-understanding-and-flushing-cache/"><u>Windows Memory Management: Understanding and Flushing Cache</u></a></li>
+</ul></div>
 

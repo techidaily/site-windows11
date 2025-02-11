@@ -1,7 +1,7 @@
 ---
 title: "From 4 to 16GB: The Evolution in Windows Computing Power"
-date: 2025-01-28T17:30:04.021Z
-updated: 2025-01-30T06:25:23.699Z
+date: 2025-02-06T04:58:39.745Z
+updated: 2025-02-11T00:09:36.347Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 * [Why Is Microsoft Setting a Baseline of 16GB of RAM?](#why-is-microsoft-setting-a-baseline-of-16gb-of-ram)
 * [Is Setting 16GB RAM as the New Standard Good News for You?](#is-setting-16gb-ram-as-the-new-standard-good-news-for-you)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Microsoft is pushing for 16GB of RAM as the minimum for new devices, possibly to support AI-based processes.
@@ -43,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 * The upcoming Windows 12 is expected to have a strong focus on AI, so having 16GB of RAM will likely be necessary to make the most of it.
 
  As operating systems become more complex, the minimum specifications for new PCs rise to meet them. Recent reports claim that Microsoft is pushing to have 16GB of RAM become the minimum amount of memory for new devices. But why would it make that change, and is this good for you?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Is RAM?
 
@@ -66,9 +58,17 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 
  Right now, you can purchase a new PC with 8GB of RAM minimum. If this report is accurate, these models will eventually be phased out, and 16GB computers will take their place as the baseline.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Is Microsoft Setting a Baseline of 16GB of RAM?
 
 ![The Microsoft Copilot logo](https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f48662a5ae5f051ec41bdae27.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Unsplash](https://unsplash.com/photos/blue-and-pink-light-illustration-LeG68PrXA6Y)
 
@@ -79,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
  An "AI PC" could be a machine where AI powers the operating system itself. It might also be a flashy marketing term for a regular PC with some simple AI tools pre-installed. Regardless of how AI PCs go, those special processing tools will need more memory to run properly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The Potential Set Up for Windows 12
@@ -95,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
  Windows 12 is currently believed to have a 2025 release date, which gives Microsoft a lot of time to work on implementing artificial intelligence into its operating system. And for people to make the most of Windows 12, Microsoft needs new PCs to have enough RAM to support it; hence the 16GB suggestion.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Setting 16GB RAM as the New Standard Good News for You?
@@ -118,21 +118,18 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-capturing-every-corner-our-top-picks-for-best-11-bridge-cameras/"><u>[New] In 2024, Capturing Every Corner Our Top Picks for Best 11 Bridge Cameras</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-reinstate-missing-watch-thumbnail/"><u>[Updated] In 2024, Reinstate Missing Watch Thumbnail</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-shocking-news-summary-craftsman/"><u>[Updated] In 2024, Shocking News Summary Craftsman</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Realme C55 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/master-the-windows-photo-interface-with-keys/"><u>Master the Windows Photo Interface with Keys</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimal-settings-where-to-store-your-games-on-xbox/"><u>Optimal Settings: Where to Store Your Games on Xbox</u></a></li>
-<li><a href="https://windows11.techidaily.com/reducing-memory-waste-with-microsoft-edges-webview2/"><u>Reducing Memory Waste with Microsoft Edge's WebView2</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-need-old-password-warning-on-win11win11-os/"><u>Resolving “Need Old Password” Warning on Win11/Win11 OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/revolutionize-desktop-top-5-clock-saver-software/"><u>Revolutionize Desktop - Top 5 Clock Saver Software</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-the-win-11-challenge-reversing-the-operation-elevation-mistake/"><u>Tackling the Win 11 Challenge: Reversing the Operation Elevation Mistake</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-complete-tutorial-to-achieving-a-professional-look-with-background-blur-feature-in-google-meet/"><u>The Complete Tutorial to Achieving a Professional Look with Background Blur Feature in Google Meet</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-enhanced-visuals-xbox-series-x/"><u>The Ultimate Guide to Enhanced Visuals - Xbox Series X</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-made-simple-overcome-your-disappointing-discord-install-failure/"><u>Troubleshooting Made Simple: Overcome Your Disappointing Discord Install Failure</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-guide-to-prevent-frostpunk-from-freezing-on-your-pc/"><u>Ultimate Guide to Prevent Frostpunk From Freezing on Your PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/win-11s-blanked-outspots-how-to-replace-them/"><u>Win 11'S Blanked Outspots: How to Replace Them</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-advanced-cameras-front-screen-center-stage/"><u>[Updated] Advanced Cameras Front Screen Center Stage</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-nubia-red-magic-9-proplus-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/aoemi-made-simple-unifying-dual-window-desktops/"><u>AOEMi Made Simple: Unifying Dual Window Desktops</u></a></li>
+<li><a href="https://windows11.techidaily.com/best-video-splitters-and-editors-on-windows-systems/"><u>Best Video Splitters & Editors on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-onedrive-failure-in-folder-addition-on-desktop-os/"><u>Bypassing OneDrive Failure in Folder Addition on Desktop OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/digital-dilemma-deciphered-7-strategies-to-reopen-browsers-in-win-os/"><u>Digital Dilemma Deciphered: 7 Strategies to Reopen Browsers in WIN OS</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/easy-steps-to-record-skype-on-both-platforms/"><u>Easy Steps to Record Skype on Both Platforms</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-xiaomi-redmi-k70-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Xiaomi Redmi K70?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-most-effective-ways-to-bypass-apple-iphone-7-plus-activation-lock-by-drfone-ios/"><u>In 2024, The Most Effective Ways to Bypass Apple iPhone 7 Plus Activation Lock</u></a></li>
+<li><a href="https://solve-info.techidaily.com/missing-page-alert-content-doesnt-exist-here/"><u>Missing Page Alert: Content Doesn't Exist Here</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-pinnacle-of-mac-livestream-software-1-5-guide/"><u>The Pinnacle of Mac Livestream Software - #1-5 Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-6s-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 6s i Do? Get Answers here</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/your-entry-level-equipment-checklist-for-youtube-success-for-2024/"><u>Your Entry-Level Equipment Checklist for YouTube Success for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Tactics to Mute Hidden Windows 11 Processes
-date: 2025-01-26T01:37:30.578Z
-updated: 2025-01-30T06:16:46.040Z
+date: 2025-02-03T19:07:55.187Z
+updated: 2025-02-10T21:30:32.645Z
 tags:
   - windows10
   - windows11
@@ -37,13 +37,17 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 5. Scroll down to the **Background apps permissions** section.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![background app permission never](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/background-app-permission-never.png)
 6. Click the drop-down for **Let this app run in background** and select **Never**. This should disable the app from running in the background.
 
  By default, the background permission for the app is set to **Power optimized(recommended)**. This means Windows will decide when the app can run in the background to save more power. If you set it to **Always**, the app will continuously run in the background irrespective of your power status.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Disable Background Apps via Power & Battery Settings
 
@@ -61,13 +65,17 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 5. To change the background app permission, click the **three-dots menu** beside the app name, and click on **Manage background productivity**. This option is only available for Microsoft Store apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Click the **drop-down** (**Power optimized**) under the **Background apps permissions** section and select **Never**. This will disable the app from running in the background.
 7. Repeat the steps for all the apps that can drain your battery or affect system performance.
 
  In addition to disabling background apps, try to create and use [custom Windows power plans to extend your laptop battery life](https://www.makeuseof.com/tag/save-energy-extend-battery-life-custom-windows-power-plans/). With custom power plans, you can tweak your processor and other components to configure low-power modes to achieve an improved battery life.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. How to Disable Background Apps for the Current User
 
@@ -94,7 +102,7 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 6. Click the **Save** button to save the file.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Right-click on the newly created reg file and select **Open.** Click **Yes** to confirm and modify the registry entries to disable background apps.
@@ -128,10 +136,6 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 ![registry editor create new key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/registry-editor-create-new-key.png)
 5. Right-click on the **Windows** key and select **New > Key.** Rename the key as **AppPrivacy.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Right-click on the **AppPrivacy** key and select **New > DWORD (32-bit) Value**. Rename the value as **LetAppsRunInBackground.**  
 ![registry editor create new value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/registry-editor-create-new-value.png)
 7. Right-click on the **LetAppsRunInBackground** value and select **Modify**.  
@@ -159,7 +163,7 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 4. In the new window that appears, select **Enabled**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Next, under the **Options** section, click the drop-down for **Default for all apps** and select **Force Deny**.  
@@ -169,10 +173,6 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
  Alternatively, you can set the Let Windows apps run in the background policy to **Disabled** and apply the changes. However, when set to **Disabled** or **Not Configured**, individual employees in your organization can configure the apps to run in the background.
 
  On the contrary, setting this policy to **Force Deny** will prevent the app from running in the background, with no option for the employees to change the policy.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Disabling Background Apps in Windows 11
 
@@ -192,18 +192,19 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-achieve-youtube-profitability-the-milestone-of-500plus-subscribers-unlocked/"><u>[New] Achieve Youtube Profitability The Milestone of 500+ Subscribers Unlocked</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-the-complete-mac-book-on-srt-file-handling-for-2024/"><u>[New] The Complete Mac Book on SRT File Handling for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-share-videos-directly-on-twitter-via-mobile-devices-only-for-2024/"><u>[Updated] Share Videos Directly on Twitter via Mobile Devices Only for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-amplify-your-voice-on-youtube-mastery-through-tubebuddy/"><u>2024 Approved Amplify Your Voice on YouTube - Mastery Through TubeBuddy</u></a></li>
-<li><a href="https://discover-help.techidaily.com/iphoneavi-iphone/"><u>如何靈活地讓iPhone用戶使用AVI格式視訊 - iPhone影片儲存指南</u></a></li>
-<li><a href="https://windows11.techidaily.com/exploring-the-depths-of-android-and-windows-file-sharing/"><u>Exploring the Depths of Android & Windows File Sharing</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-app-complaint-net-core-install-required-on-windows/"><u>Fixing App Complaint: .NET Core Install Required on Windows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expertise-boost-for-editors-leveraging-story-remix-within-windows-photos/"><u>In 2024, Expertise Boost for Editors Leveraging Story Remix Within Windows Photos</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-plus-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8 Plus with a Mask On</u></a></li>
-<li><a href="https://windows11.techidaily.com/progressive-pathways-mastering-the-art-of-replacing-aged-windows-drivers/"><u>Progressive Pathways: Mastering the Art of Replacing Aged Windows Drivers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-steps-how-to-repair-creative-pebble-speaker-malfunctions/"><u>Solution Steps: How to Repair Creative Pebble Speaker Malfunctions</u></a></li>
-<li><a href="https://windows11.techidaily.com/visual-upgrade-protocols-a-comprehensive-guide-to-theme-alteration-in-win11/"><u>Visual Upgrade Protocols: A Comprehensive Guide to Theme Alteration in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-installation-insight-pinpointing-software-homesteads/"><u>Windows Installation Insight: Pinpointing Software Homesteads</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-understanding-image-validity-on-insta/"><u>[New] 2024 Approved Understanding Image Validity on Insta</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-tactics-to-triumph-secrets-of-successful-social-media-videos/"><u>[New] Tactics to Triumph Secrets of Successful Social Media Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-fuel-the-drive-best-video-ideas-for-channels-success/"><u>[Updated] Fuel the Drive Best Video Ideas for Channels' Success</u></a></li>
+<li><a href="https://windows11.techidaily.com/file-location-artistry-in-windows-11-exploring-best-practices-6-advanced-methods/"><u>File Location Artistry in Windows 11: Exploring Best Practices (6 Advanced Methods)</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/how-to-activate-auto-hdr-setting-in-windows-11-for-2024/"><u>How to Activate Auto HDR Setting in Windows 11 for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-nvidia-control-panel-not-saving-settings-in-windows-11/"><u>How to Fix the NVIDIA Control Panel Not Saving Settings in Windows 11</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-lava-yuva-3-pro-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Lava Yuva 3 Pro</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-realme-gt-neo-5-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Realme GT Neo 5 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-window-terminals-shutdown-procedures-entryexit-tactics/"><u>Mastering Window Terminal's Shutdown Procedures: Entry/Exit Tactics</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/ps3-and-ps4-hdd-cloning-made-easy-a-two-pronged-approach-with-instructions/"><u>PS3 and PS4 HDD Cloning Made Easy - A Two-Pronged Approach with Instructions!</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-mending-non-responsive-windows-network/"><u>Strategies for Mending Non-Responsive Windows Network</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-methods-to-enhance-utorrent-download-speed-win-edition/"><u>Top Methods to Enhance uTorrent Download Speed, WIN Edition</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-streamer-comparison-clash-of-titans-apple-tv-roku-amazon-fire-tv-and-google-tv/"><u>Ultimate Streamer Comparison: Clash of Titans - Apple TV, Roku, Amazon Fire TV & Google TV</u></a></li>
+<li><a href="https://techtrends.techidaily.com/user-friendly-techniques-for-screen-capture-on-asus-devices/"><u>User-Friendly Techniques for Screen Capture on Asus Devices</u></a></li>
 </ul></div>
 

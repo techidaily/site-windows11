@@ -1,7 +1,7 @@
 ---
 title: "Reawaken Your Computer's USB: A Quick Fix Guide, Windows"
-date: 2025-01-27T18:34:56.371Z
-updated: 2025-01-29T21:38:21.012Z
+date: 2025-02-05T07:29:52.204Z
+updated: 2025-02-11T07:15:57.814Z
 tags:
   - windows10
   - windows11
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 
 ![Have your USB ports stopped working?](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/muo-diy-fix-USB-ports.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If there's a problem with your USB port, you'll notice it thanks to either of these things:
 
 * The connected device fails to be detected
@@ -50,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 
  Finally, grab a USB cable (or flash drive) and gently wiggle it around. If the drive is moving and feels loose---typically this will be up and down---then you have a problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix a Broken USB Port on PC and Laptop
 
  We'll look at some software fixes in a moment, but first, what if the USB port is loose?
@@ -61,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
  If you suspect that your motherboard USB ports are not working, replacing them isn't easy. On a desktop computer, you may be able to find a replacement board that can be slotted in without too much effort. Want to know how to fix a USB port on a laptop? It's going to take a soldering iron.
 
  Of course, you could take this to an expert for repair, but there will be associated costs with this. If you want to do it yourself, make sure you [learn how to solder](http://www.makeuseof.com/tag/learn-solder-simple-tips-projects/). If you're not sure, check out the software fixes first.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Can Restarting a Computer Fix Broken USB Ports?
 
@@ -84,13 +80,13 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 ![Open Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/muo-diy-fix-USB-ports-device-mgr.png)
 2. **Browse the list for** **Universal Serial Bus controllers**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Expand this and look for the **USB Host Controller**(your device may have a longer title, but it will feature those three words)  
 ![Find the USB Host Controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/muo-diy-fix-USB-ports-device-mgr-host-controller.png)
 4. Right-click USB Host Controller (and any duplicates) and select **Uninstall**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Uninstall USB Host Controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/muo-diy-fix-USB-ports-device-mgr-host-controller-uninstall.png)
 5. Restart your computer
@@ -100,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
  If you're using a USB mouse and keyboard, it will be disabled while the USB Host Controllers are uninstalled.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Have Power Settings Stopped Your USB Ports Working?
@@ -124,9 +120,17 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 ![Alter USB power settings in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/muo-windows-dead-usb-suspend-bg-2022.jpg)
 7. Click **Apply** and **OK** to confirm
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Finally, reboot your PC to ensure this change is applied
 
  You should find that any USB ports that were not working have now been fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## USB Port Still Not Working? Reset the BIOS/UEFI Settings
 
@@ -135,10 +139,6 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
  It's no wonder, then, that any tampered settings in your BIOS or UEFI will leave a variety of problems in its wake, including a malfunctioning USB port. So if you've reason to believe something has gone wrong with the BIOS/UEFI settings, we suggest resetting its settings.
 
  Check out [how to enter the BIOS settings on Windows](https://www.makeuseof.com/tag/enter-bios-computer/) for instructions. If it was indeed a faulty BIOS/ UEFI stopping your USB port from working properly, then everything will be back to normal after a reset.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## You've Fixed Your Broken USB Port
 
@@ -156,18 +156,18 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-how-to-upgrade-or-install-the-macos-sierra-for-2024/"><u>[New] How to Upgrade or Install the macOs Sierra for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-innovative-no-cost-solutions-for-modern-photography-enhancements/"><u>[Updated] Innovative No-Cost Solutions for Modern Photography Enhancements</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-sync-your-storytelling-iphone-captures-words-and-pictures/"><u>[Updated] Sync Your Storytelling IPhone Captures Words and Pictures</u></a></li>
-<li><a href="https://win11.techidaily.com/8-ways-to-boost-your-studying-on-windows/"><u>8 Ways to Boost Your Studying on Windows</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/approach-explain-the-biological-function-of-rank-ligand-and-its-inhibitors/"><u>Approach: Explain the Biological Function of RANK Ligand and Its Inhibitors</u></a></li>
-<li><a href="https://windows11.techidaily.com/customize-your-experience-altering-device-settings-in-windows-11/"><u>Customize Your Experience: Altering Device Settings in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-endorsed-top-10-for-windows-free-app-safety/"><u>Expert-Endorsed Top 10 for Windows FREE App Safety</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-vivo-x-fold-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Vivo X Fold 2 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-samsung-galaxy-z-flip-5-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Samsung Galaxy Z Flip 5 to Another | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/reclaim-shift-control-with-easy-fixes/"><u>Reclaim Shift Control with Easy Fixes</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamlessly-carry-over-your-custom-powertoys/"><u>Seamlessly Carry Over Your Custom PowerToys</u></a></li>
-<li><a href="https://windows11.techidaily.com/steering-clear-of-windows-11-blunders-top-8-tips/"><u>Steering Clear of Windows 11 Blunders: Top 8 Tips</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlock-the-mac-os-look-in-windows-try-these-5-techniques-first/"><u>Unlock the Mac OS Look in Windows - Try These 5 Techniques First</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-story-stealth-mode-accessible-for-everyone-without-link-sharing/"><u>[New] Instagram Story Stealth Mode Accessible for Everyone without Link Sharing</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-navigating-the-mobile-film-world-thumbnail-creation-essentials/"><u>2024 Approved Navigating the Mobile Film World Thumbnail Creation Essentials</u></a></li>
+<li><a href="https://windows11.techidaily.com/5-great-free-podcast-editing-programs-for-windows/"><u>5 Great Free Podcast Editing Programs for Windows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/birds-eye-view-duel-dji-pro-max-against-gopro-hero6-for-2024/"><u>Bird's Eye View Duel DJI Pro Max Against GoPro HERO6 for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-the-gpsvc-wait-issue-on-pcs/"><u>Bypassing the GPSVC Wait Issue on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/classic-game-storage-integrating-into-the-windows-photos-space/"><u>Classic Game Storage: Integrating Into the Windows Photos Space</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-chrome-display-glitches-on-pc/"><u>Clearing Chrome Display Glitches on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-windows-11s-obstacle-overcoming-error-code-22/"><u>Clearing Windows 11'S Obstacle: Overcoming Error Code 22</u></a></li>
+<li><a href="https://windows11.techidaily.com/crafting-a-user-friendly-guide-for-shortcut-placement-on-desktop/"><u>Crafting a User-Friendly Guide for Shortcut Placement on Desktop</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/discover-unlimited-stories-free-extensions-and-mobile-marvels/"><u>Discover Unlimited Stories – FREE Extensions & Mobile Marvels</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/innovative-techniques-for-stellar-screen-captures-with-adobe-captivity-for-2024/"><u>Innovative Techniques for Stellar Screen Captures with Adobe Captivity for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-privacy-waters-with-gpt-technology/"><u>Navigating Privacy Waters with GPT Technology</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-art-of-deformed-text-display-for-2024/"><u>The Art of Deformed Text Display for 2024</u></a></li>
 </ul></div>
 

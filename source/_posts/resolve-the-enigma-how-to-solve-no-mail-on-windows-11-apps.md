@@ -1,7 +1,7 @@
 ---
 title: "Resolve the Enigma: How to Solve No Mail on Windows 11 Apps"
-date: 2025-01-24T03:35:13.538Z
-updated: 2025-01-29T18:33:23.509Z
+date: 2025-02-05T23:07:04.567Z
+updated: 2025-02-10T16:58:08.231Z
 tags:
   - windows10
   - windows11
@@ -29,22 +29,22 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 
  Before making any significant changes to your computer, try logging out and back into the Mail app. This will eliminate any temporary bugs or glitches that may be causing the error.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Log In and Out of Mail, Then Restart the App
 
  To log out of the Mail app, right-click on your account in the left sidebar and choose**Account settings.** Then, select the**Delete account** **from this device** option and click**Delete** in the following window.
 
 ![Delete account from this device option in the Mail app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/delete-account-from-this-device-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, restart the Mail app and click the**Gear icon** at the bottom right corner of the left sidebar. In the Settings window that crops up, choose**Manage accounts** and then**Add account.** Then, enter the credentials to log in with your account.
 
 ![Add account option in the Mail app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/add-account.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Check the Date and Time on Windows
@@ -54,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 ### Allow Mail Through the Windows Firewall
 
  If the Mail app is blocked under the Windows Firewall settings, it will fail to fetch emails and show the "System error can't get mail" error. To fix this, you'll have to[allow the Mail app to run through the Windows Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Update Windows
 
@@ -76,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
  Next, go through the troubleshooter and apply all suggestions to fix the problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Change the Mail App Privacy Settings
@@ -88,6 +84,10 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 3. Enable the toggle next to**Email access** .  
 ![Email access toggle in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/email-access.jpg)
 4. Click the drop-down icon next to**Let apps access your email** to view its expanded options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Enable the toggle next to**Mail and Calendar** .  
 ![Mail and Calendar toggle in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mail-and-calendar-toggle.jpg)
@@ -103,11 +103,11 @@ Now, restart your system and check for the issue.
 ![Advanced options in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/advanced-options.jpg)
 3. Click the**Repair** button.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Repair option in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/repair-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once the repair process is complete, you'll see a checkmark next to the Repair button. Next, restart your system and check for the issue. If it continues, reset the Mail app as a last resort.
 
@@ -116,7 +116,7 @@ Now, restart your system and check for the issue.
 ![Reset option in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-option-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Use the Mail App to Access Your Emails Again on Windows
@@ -140,16 +140,22 @@ Now, restart your system and check for the issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-iosandroid-tutorial-uploading-audio-to-social-network/"><u>[New] 2024 Approved IOS/Android Tutorial Uploading Audio to Social Network</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-favorites-compiled-top-6-fb-lite-downloads/"><u>[Updated] 2024 Approved Favorites Compiled #Top 6 FB Lite Downloads</u></a></li>
-<li><a href="https://windows11.techidaily.com/boosting-pin-count-on-the-w11-start-screen/"><u>Boosting Pin Count on the W11 Start Screen</u></a></li>
-<li><a href="https://windows11.techidaily.com/breaking-down-the-barrier-of-windows-11-updates/"><u>Breaking Down the Barrier of Windows 11 Updates</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/find-and-update-your-pcs-system-info-through-control-panel-with-easy-steps-by-yl-software-experts/"><u>Find and Update Your PC's System Info Through Control Panel with Easy Steps by YL Software Experts</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-poco-m6-pro-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Poco M6 Pro 5G phone? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-new-horizons-in-graphic-design-post-acid/"><u>In 2024, New Horizons in Graphic Design Post-ACID</u></a></li>
-<li><a href="https://windows11.techidaily.com/resurrect-your-pcs-absent-controllers/"><u>Resurrect Your PC's Absent Controllers</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-the-challenge-of-non-working-win-plus-printer-feature-in-windows/"><u>Tackling the Challenge of Non-Working Win + Printer Feature in Windows.</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-july-2024-laptop-bargains-on-the-market-explore-insights/"><u>Top July 2024 Laptop Bargains on the Market - Explore Insights</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/uncovering-hidden-or-accidentally-erased-emails-on-gmail-platforms/"><u>Uncovering Hidden or Accidentally Erased Emails on Gmail Platforms</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-filming-to-fame-discovering-the-top-10-ladies-on-youtube/"><u>[New] In 2024, From Filming to Fame Discovering the Top 10 Ladies on YouTube</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-binary-divide-metaverse-vs-multiverse-explained/"><u>[New] In 2024, The Binary Divide Metaverse Vs Multiverse Explained</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-diy-audio-excellence-no-mic-necessary/"><u>[Updated] DIY Audio Excellence No Mic Necessary</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2-afosiwsh-a3iobeltista-methods-gia-thn-metatroph-mxf-se-mp4-macwindows/"><u>2 Αφοσίωση Αξιοβέλτιστα Μεθόds Για Την Μετάτροπή MXF Σε MP4: Mac/Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/4-ways-microsoft-is-replacing-cortana-in-windows/"><u>4 Ways Microsoft Is Replacing Cortana in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-peek-into-the-soulful-machine-activating-windows-private-character-analysis-platform/"><u>A Peek Into the Soulful Machine: Activating Windows’ Private Character Analysis Platform</u></a></li>
+<li><a href="https://windows11.techidaily.com/accessible-windows-for-new-users-and-learners/"><u>Accessible Windows for New Users & Learners</u></a></li>
+<li><a href="https://windows11.techidaily.com/batch-processing-excellence-using-task-scheduler/"><u>Batch Processing Excellence Using Task Scheduler</u></a></li>
+<li><a href="https://windows11.techidaily.com/combatting-windows-11s-application-could-not-be-started-error-xc000003e/"><u>Combatting Windows 11'S Application Could Not Be Started Error Xc000003e</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-wintools-functions-what-makes-chkdsk-different/"><u>Decoding Wintools Functions: What Makes CHKDSK Different?</u></a></li>
+<li><a href="https://windows11.techidaily.com/direct-route-out-of-windows-11s-protective-barrier/"><u>Direct Route Out of Windows 11'S Protective Barrier</u></a></li>
+<li><a href="https://app-tips.techidaily.com/efficient-methods-to-unlink-your-iphone-device-from-icloud-accounts/"><u>Efficient Methods to Unlink Your iPhone Device From iCloud Accounts</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-enhance-privacy-and-speed-the-best-7-android-adblocks/"><u>In 2024, Enhance Privacy & Speed The Best 7 Android AdBlocks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Nokia G310? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719256266387-repairing-email-notification-shortcom-written-exercise/"><u>Repairing Email Notification Shortcom Written Exercise</u></a></li>
+<li><a href="https://win-net.techidaily.com/seamless-shift-strategies-decoding-the-insights-from-a-comprehensive-dell-migration-analysis/"><u>Seamless Shift Strategies: Decoding the Insights From a Comprehensive Dell Migration Analysis</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unsticking-standby-mode-a-comprehensive-guide-with-four-essential-tips-for-iphone-users/"><u>Unsticking Standby Mode: A Comprehensive Guide with Four Essential Tips for iPhone Users</u></a></li>
 </ul></div>
 

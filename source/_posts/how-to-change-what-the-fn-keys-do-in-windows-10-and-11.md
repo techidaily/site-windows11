@@ -1,7 +1,7 @@
 ---
 title: How to Change What the Fn Keys Do in Windows 10 and 11
-date: 2025-01-25T07:23:34.690Z
-updated: 2025-01-30T07:08:44.147Z
+date: 2025-02-07T20:13:30.378Z
+updated: 2025-02-11T06:28:13.779Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Are the Function Keys, and Why Do You Need Them?
 
  Function keys, or just "Fn" for short, are used to trigger functions of the F keys (F1, F2, F3, etc.) on the top of the keyboard. In essence, it acts as a shortcut key for basic yet essential functions like changing the volume, brightness, and backlight.
@@ -51,13 +47,13 @@ Here is how to proceed:
 ![Windows mobility center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/hardware-and-sound-windows-mobility-center.jpg)
 4. In the following window, look for the Fn key row section and expand the drop-down under it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. If you wish to choose the F keys for basic functions, choose**Function key** .
 6. Select**Multimedia key** if you want to use the F keys to perform functions that typically require pressing the Fn key.  
 ![Multimedia key in Windows Mobility Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/windows-mobility-center-multimedia-key-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you own other devices, then you might want to look for similar options in the System or keyboard settings. You can also search the manufacturer’s official website for information regarding such customizations.
 
@@ -81,6 +77,10 @@ Similarly, if you have an Acer device, follow these steps:
 2. Once you reach the BIOS screen, head over to the System Configuration Menu and click Enter in the Action Keys Mode option.
 3. Pick the desired mode and hit Exit.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. How to Change the Function Key Settings Using the UEFI Settings
 
  If you cannot boot into BIOS for some reason, try changing the Fn keys using UEFI settings. UEFI is basically BIOS on steroids, as it offers a bunch of additional functions and is more powerful.
@@ -92,6 +92,10 @@ Similarly, if you have an Acer device, follow these steps:
 ![Recovery settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/update-and-security-recovery.jpg)
 3. Choose Restart now.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Restart now button in Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/restart-now.jpg)
 
 If you are a Windows 11 user, follow these steps:
@@ -101,6 +105,10 @@ If you are a Windows 11 user, follow these steps:
 3. Finally, click on**Restart now** associated with Advanced startup.  
 ![Click on Restart now](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/restart-now-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you have booted in the Windows Recovery Environment using these steps, proceed with the following:
 
 1. In the following window, select**Troubleshoot** .
@@ -109,16 +117,12 @@ If you are a Windows 11 user, follow these steps:
 3. In the following window, head over to the**Configuration** tab.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Select the**Hotkey Mode** and click on**Enabled** or**Disabled** .  
 ![hotkey-mode-disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/hotkey-mode-disabled.jpg)
 5. Click**Save** and then press**Exit** to sign out of BIOS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Enable the Fn Lock
 
@@ -127,10 +131,6 @@ If you are a Windows 11 user, follow these steps:
  In most keyboards, the Fn lock is associated with the Esc key, but it can be different in your device. Typically, these keys have a lock icon on them. You can use the manufacturer’s website to find the lock on your device if you cannot locate a key with a lock icon.
 
  Once you have found the key, hold the Fn key and press the lock key. This will enable the function. You can follow the same steps for disabling it in the future.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is It a Good Idea To Change Fn Key Settings?
 
@@ -165,18 +165,22 @@ If you are a Windows 11 user, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-demystifying-the-mechanics-of-youtube-studio/"><u>[New] Demystifying the Mechanics of YouTube Studio</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-essential-free-apps-for-youtube-to-wav-transformation-for-2024/"><u>[Updated] Essential Free Apps for YouTube to WAV Transformation for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-immersions-analyzing-google-and-samsung-rvr/"><u>2024 Approved Innovative Immersions Analyzing Google and Samsung RVR</u></a></li>
-<li><a href="https://games-able.techidaily.com/achievement-arenas-champion-clusters/"><u>Achievement Arenas: Champion Clusters</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-limitations-for-power-use-in-winos/"><u>Bypassing Limitations for Power Use in WinOS</u></a></li>
-<li><a href="https://win-docs.techidaily.com/defining-retention-rate-in-the-digital-age-insights-and-top-seo-practices-to-boost-your-online-presence/"><u>Defining Retention Rate in the Digital Age: Insights & Top SEO Practices to Boost Your Online Presence</u></a></li>
-<li><a href="https://windows11.techidaily.com/discovering-devhome-the-essential-guide-to-win11/"><u>Discovering DevHome: The Essential Guide to Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-rejuvenate-your-windows-11-with-a-fresh-reboot/"><u>How to Rejuvenate Your Windows 11 with a Fresh Reboot</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-palette-perfection-a-guide-to-grading-filmmaking/"><u>In 2024, Palette Perfection A Guide to Grading Filmmaking</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-sky-high-tech-talk-the-mavic-pro-showcase/"><u>In 2024, Sky High Tech Talk The Mavic Pro Showcase</u></a></li>
-<li><a href="https://windows11.techidaily.com/real-time-resource-management-tracking-cpu-memory-and-graphics/"><u>Real-Time Resource Management: Tracking CPU, Memory & Graphics</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-windows-fatal-error-code-0x800f0831/"><u>Resolving Windows' Fatal Error: Code 0X800F0831</u></a></li>
-<li><a href="https://windows11.techidaily.com/when-should-you-consider-purging-pagefilesys/"><u>When Should You Consider Purging Pagefile.sys?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-elevate-zoom-sound-a-guide-to-exceptional-quality/"><u>[New] In 2024, Elevate Zoom Sound A Guide to Exceptional Quality</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-the-hottest-food-challenges-on-tiktok-for-2024/"><u>[New] The Hottest Food Challenges on TikTok for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-transforming-your-videos-first-impression-fb-cover-makeover-techniques/"><u>[New] Transforming Your Videos' First Impression FB Cover Makeover Techniques</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-reign-in-your-posts-the-ultimate-guide-to-choosing-8-best-timers/"><u>[Updated] 2024 Approved Reign in Your Posts The Ultimate Guide to Choosing 8 Best Timers</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-effective-ways-to-reopen-a-hidden-windows-terminal/"><u>7 Effective Ways to Reopen a Hidden Windows Terminal</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-oneplus-nord-ce-3-lite-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring OnePlus Nord CE 3 Lite 5G PC | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719266282483-combatting-common-windows-11-mail-errors-get-your-email-back-now/"><u>Combatting Common Windows 11 Mail Errors - Get Your Email Back Now</u></a></li>
+<li><a href="https://windows11.techidaily.com/comprehensive-guide-rectifying-delayed-folder-upload-in-onedrive-without-hitches/"><u>Comprehensive Guide: Rectifying Delayed Folder Upload in OneDrive without Hitches</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-zoom-anomalies-addressing-error-1132-in-windows-11/"><u>Correcting Zoom Anomalies: Addressing Error 1132 in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/customize-your-pcs-idle-lock-time/"><u>Customize Your PC's Idle Lock Time</u></a></li>
+<li><a href="https://windows11.techidaily.com/dealing-with-windows-update-error-code-0x8024800c/"><u>Dealing with Windows Update: Error Code 0X8024800C</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719354556221-eliminate-troubleshooting-roadblocks-for-compatibility-issues/"><u>Eliminate Troubleshooting Roadblocks for Compatibility Issues.</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-nokia-xr21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-discover-the-ideal-display-comparing-ultrawide-and-uhd-4k-screens/"><u>In 2024, Discover the Ideal Display Comparing UltraWide and UHD 4K Screens</u></a></li>
+<li><a href="https://techidaily.com/solved-excel-2021-spreadsheet-disappears-after-opening-by-stellar-guide/"><u>Solved Excel 2021 Spreadsheet Disappears after Opening</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719241276591-team-chat-freezing-heres-a-fix/"><u>Team Chat Freezing? Here’s a Fix!</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/unveiling-the-secrets-of-efficient-audio-recordings/"><u>Unveiling the Secrets of Efficient Audio Recordings</u></a></li>
 </ul></div>
 

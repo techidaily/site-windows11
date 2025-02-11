@@ -1,7 +1,7 @@
 ---
 title: Mastering Icon Positioning in Windows
-date: 2024-08-15T15:25:52.325Z
-updated: 2024-08-16T15:25:52.325Z
+date: 2025-02-05T07:22:31.382Z
+updated: 2025-02-11T00:08:54.942Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/ccf2cd6688a4adcaeda8d922b0b91ea561ec3cf29
 
  Regardless of what might be causing the problem, the solutions we have discussed below will help you fix the desktop icons overlapping issue for good. Proceed with the method that fits your situation the best.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Change the Icon Size
 
  The first thing that we recommend doing is changing the icon size and seeing if that makes any difference. If your desktop icon size is set to large or medium, consider changing it to small. Similarly, if it is set to small, choose either a medium or large size.
@@ -42,11 +46,12 @@ Here is how you can do that:
 2. Click**View** \>**Small icons** .  
 ![Choose small icons on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/choose-small-icons.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You can now check if the problem is fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ## 2\. Edit the Relevant Registry Keys
 
  As we mentioned above, you might also be facing this problem due to incorrect values of the relevant Registry keys. This is a known bug, and you can fix the problem by simply restoring the default icon spacing in the Registry. However, we recommend [creating a Registry backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before you proceed, just to be safe.
@@ -61,16 +66,14 @@ HKEY_CURRENT_USER\Control Panel\Desktop\WindowMetrics
 5. Move to the right side and double-click on**IconSpacing** .
 6. Under Value data, type -1125 and click**OK** .  
 ![Change the value of Iconspacing key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/iconspacing-value.jpg)
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Change the value of**IconVerticalSpacing** to -1125 in the same way.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you are done, close the Registry Editor and restart your computer. Upon reboot, the desktop icons should be back in their place.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Enable Relevant Features
 
  The two main relevant features, "Align icons to grid" and "Auto-arrange icons" might be disabled, which is causing the desktop icons to overlap.
@@ -84,13 +87,11 @@ HKEY_CURRENT_USER\Control Panel\Desktop\WindowMetrics
 1. Right-click on an empty space on the desktop.
 2. Choose**View** and checkmark both the features in the context menu.  
 ![Enable the icon features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/checkmark-icons-features.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Update Windows
 
  Several issues, such as display problems, system crashes, and app failures can occur if you are using an outdated version of Windows. Most of these problems arise because of the compatibility issues within the system and its processes, while some can also occur due to any corruption errors that may have made their way into the system because of it being vulnerable.
@@ -104,8 +105,9 @@ HKEY_CURRENT_USER\Control Panel\Desktop\WindowMetrics
  To gain a better understanding of which updates are essential for your system, you can refer to our [comprehensive guide on Windows names and numbers](https://www.makeuseof.com/windows-updates-name-number-guide/) . This will enable you to make informed decisions regarding critical updates that your system requires.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Use the System Restore Tool
 
  Another way of fixing the problem is by restoring the system back to a state where this issue was not present. This can be done [using the System Restore utility,](https://www.makeuseof.com/windows-reset-system-restore-difference/) which creates snapshots of the system periodically (also known as restore points).
@@ -118,14 +120,11 @@ HKEY_CURRENT_USER\Control Panel\Desktop\WindowMetrics
 
  Dealing with an unorganized, cluttered desktop can be a real headache and can significantly impede your ability to access apps quickly. However, the solutions we've discussed in this guide can help you overcome the issue of overlapping icons and declutter your desktop for good. Whether you choose to use Windows' built-in features or third-party software, there's an option that can work for you.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -134,8 +133,21 @@ HKEY_CURRENT_USER\Control Panel\Desktop\WindowMetrics
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-eliminating-vibrational-distortion-in-drone-footage-for-2024/"><u>[New] Eliminating Vibrational Distortion in Drone Footage for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-seamless-internet-experience-try-these-7-best-android-apps/"><u>[Updated] 2024 Approved Seamless Internet Experience? Try These 7 Best Android Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-chromes-erroneous-virus-warning-on-pc/"><u>Clearing Chrome's Erroneous Virus Warning on PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-vivo-s17e-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Vivo S17e FRP Locks</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-oppo-a18-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Oppo A18 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-6s-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone 6s</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-precision-in-pro-videos-essential-lighting-insights/"><u>In 2024, Precision in Pro Videos Essential Lighting Insights</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-at-rcas-smart-video-surveillance-doorbell-features/"><u>In-Depth Look at RCA's Smart Video Surveillance Doorbell Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-auto-detection-errors/"><u>Overcoming Windows Auto Detection Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/re-establishing-printer-linkage-in-windows-11-setup/"><u>Re-Establishing Printer Linkage in Windows 11 Setup</u></a></li>
+<li><a href="https://windows11.techidaily.com/turning-on-hyper-v-simplified-your-win11-how-to/"><u>Turning On Hyper-V Simplified - Your Win11 How-To</u></a></li>
+<li><a href="https://change-location.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uncovering-the-top-underappreciated-dual-purpose-device-for-your-workspace-a-2023-review/"><u>Uncovering the Top Underappreciated Dual-Purpose Device for Your Workspace: A 2023 Review</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-caption-troubleshooting-made-simple/"><u>Win11 Caption Troubleshooting Made Simple</u></a></li>
+</ul></div>
 

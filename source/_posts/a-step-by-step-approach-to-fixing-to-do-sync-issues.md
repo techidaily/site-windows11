@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Approach to Fixing To Do Sync Issues
-date: 2024-08-15T15:24:28.315Z
-updated: 2024-08-16T15:24:28.315Z
+date: 2025-02-06T22:59:51.297Z
+updated: 2025-02-11T08:18:09.970Z
 tags:
   - windows10
   - windows11
@@ -28,11 +28,16 @@ thumbnail: https://thmb.techidaily.com/d599dad7b998abdf06ca417d32becc28547b33f18
 
 ![Check Microsoft To Do status on Microsoft website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/microsoft-to-do-status-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Also, [check the internet connection on your Windows computer](https://www.makeuseof.com/check-stability-internet-connection-windows/) as an unstable connection will stop Microsoft To Do from syncing.
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Restart the App
 
  Whenever you’re dealing with a problematic app, the first thing you should do is restart it. The issue might be a temporary glitch or a malfunctioning process that stops Microsoft To Do from syncing.
@@ -48,30 +53,25 @@ thumbnail: https://thmb.techidaily.com/d599dad7b998abdf06ca417d32becc28547b33f18
  On a Windows computer, open the Microsoft Store and check if there’s an update available for Microsoft To Do. You can also click the **Get updates** button to download and install all pending updates for your apps.
 
 ![Update Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/update-microsoft-store-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  For Microsoft To Do on mobile, you can update the app through the [Google Play Store](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2030136/https://play.google.com/store/apps/details?id=com.microsoft.todos&hl=en&gl=US) or [Apple Store](https://apps.apple.com/us/app/microsoft-to-do/id1212616790). If there’s an update available, you’ll see the **Update** button next to the app.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Log Out and Back Into Microsoft To Do
 
  Microsoft To Do might fail to sync if there’s an authentication issue with your account. To fix it, click on your profile icon and head to **Manage accounts**. Then, click on **Sign out**.
 
 ![Sign out of Microsoft To Do](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sign-out-to-do-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Sign back in and check if the problem is now fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Let the App Run in the Background
 
  On Windows, apps can keep running their processes even if you’re not actively in the app’s window. These background apps can stay notified, keep data synchronized, and update themselves. If you’ve changed the app’s settings and [stopped it from running in the background in Windows 11](https://www.makeuseof.com/windows-11-disable-background-apps/), Microsoft To Do will not sync unless you’re actively using it.
@@ -84,11 +84,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 4. Select **Advanced options**.  
 ![Allow Microsoft To Do to run in the background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/to-do-background-1.jpg)
 5. Extend the **Let this app run in background** menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Choose **Always**.  
 ![Give Microsoft To Do permission to run in the background on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/to-do-permissions-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Repair Microsoft To Do
 
@@ -104,8 +106,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Either way, you shouldn’t let Microsoft To Do syncing issues affect your productivity. Here's how to fix it.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -113,5 +113,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-access-exclusive-stock-images-through-vital-4-youtube-sources/"><u>[New] In 2024, Access Exclusive Stock Images Through Vital 4 YouTube Sources</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-muting-background-noise-in-skype-sessions/"><u>[Updated] 2024 Approved Muting Background Noise in Skype Sessions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-circulating-camera-mounts-for-vr/"><u>[Updated] Circulating Camera Mounts for VR</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-the-art-of-pinpointing-perfect-pexels-photographs-for-2024/"><u>[Updated] The Art of Pinpointing Perfect Pexels Photographs for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-taking-flight-to-better-photos-an-intensive-look-at-dji-sparks-miniature-design/"><u>2024 Approved Taking Flight to Better Photos An Intensive Look at DJI Spark's Miniature Design</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/access-chatgpt-anytime-anywhere-new-android-app-update/"><u>Access ChatGPT Anytime, Anywhere: New Android App Update</u></a></li>
+<li><a href="https://windows11.techidaily.com/fine-tuning-taskbars-date-and-time-presentation/"><u>Fine-Tuning Taskbar's Date & Time Presentation</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/gadget-guidance-getting-into-googles-video-conference/"><u>Gadget Guidance Getting Into Google's Video Conference</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-set-up-linux-and-linux-apps-on-a-windows-pc/"><u>How to Set Up Linux and Linux Apps on a Windows PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-through-samsung-flow-connected-life-for-devices/"><u>Navigate Through Samsung Flow - Connected Life for Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-startup-opening-sticky-notes-seamlessly-on-pc/"><u>Streamlining Startup: Opening Sticky Notes Seamlessly on PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-bass-management-an-in-depth-guide/"><u>Understanding Bass Management: An In-Depth Guide</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/unleash-your-phones-potential-effortless-organization-and-math-made-simple-insights-from-the-abbyy-experts/"><u>Unleash Your Phone's Potential: Effortless Organization & Math Made Simple – Insights From the ABBYY Experts</u></a></li>
+</ul></div>
 

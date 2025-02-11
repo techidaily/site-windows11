@@ -1,7 +1,7 @@
 ---
 title: Steps for Resolving Zero X Error in Windows Email App
-date: 2024-08-15T15:27:11.630Z
-updated: 2024-08-16T15:27:11.630Z
+date: 2025-02-04T04:55:18.409Z
+updated: 2025-02-10T21:54:28.179Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/f0b667ebcfe4598116d4b6654429dec8091fa0451
 
  Mail isn’t much good when users can’t add accounts and send emails with it. Does the 0x800713f error occur in your Mail app? If it does, you can resolve error 0x800713f with these potential resolutions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use the Windows Store Apps Troubleshooter
 
  The Windows Store Apps troubleshooter doesn’t fix every app error that occurs. However, that troubleshooting tool is always worth a try whenever a UWP app like Mail throws up an error code. You can give the Windows Store Apps troubleshooter a whirl as follows:
@@ -30,7 +34,16 @@ thumbnail: https://thmb.techidaily.com/f0b667ebcfe4598116d4b6654429dec8091fa0451
 4. Select**Run** beside the Windows Store Apps troubleshooter.  
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-troubleshooter-list.jpg)
 5. Go through the troubleshooter and apply all suggestions it makes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-store-apps-troubleshooter2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The same troubleshooter is available in Windows 10, but the steps for accessing it in Settings are a little different. You’ll need to select the**Update & Security** category in Windows 10’s Settings app. Then select the**Troubleshoot** tab and**Additional troubleshooters** to view the list of troubleshooting tools.
 
@@ -42,15 +55,14 @@ thumbnail: https://thmb.techidaily.com/f0b667ebcfe4598116d4b6654429dec8091fa0451
 2. Select**Privacy & security** to view app permission navigation options.
 3. Click the**Email** navigation option.  
 ![The Email navigation option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/email-navigation-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 4. Turn on**Email access** if that option isn’t enabled.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click**Let apps access your email** to expand options.  
 ![The Let apps access your email option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/let-apps-access-your-email.jpg)
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Toggle the**Mail and Calendar** app on if it’s not already.
 7. Also, turn on the**People** app listed there.
 
@@ -63,8 +75,9 @@ thumbnail: https://thmb.techidaily.com/f0b667ebcfe4598116d4b6654429dec8091fa0451
 ![The Reset button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-reset-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Allow Mail and Calendar Through Windows Defender Firewall
 
  The Windows firewall filters inbound and outbound internet data. That firewall could be causing error 0x800713f by blocking the Mail and Calendar app. First, try temporarily disabling Windows Defender Firewall before opening Mail like this:
@@ -74,24 +87,19 @@ thumbnail: https://thmb.techidaily.com/f0b667ebcfe4598116d4b6654429dec8091fa0451
 ![The Windows Defender Firewall applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-windows-defender-firewall-option.jpg)
 3. Select the two**Turn off Windows Defender Firewall** settings available for public and private networks.  
 ![The Turn off Windows Defender Firewall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-off-windows-defender-firewall-options.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 4. Next, press the**OK** button below the firewall settings.
 5. Then bring up Mail and try adding an email account to it.
 
  If disabling the firewall resolves error 0x800713f, WDF was probably blocking Mail when it was on. We don’t recommend leaving the firewall off. Allow Mail through WDF as outlined within our guide for [allowing apps through the Windows firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) . Then turn the firewall back on.
 
 ![Windows Defender Firewall's allowed apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/allowed-firewall-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Do you have a third-party firewall on your desktop or laptop? If you do, that software could also be causing Mail app issues. Try disabling third-party firewall software to see if that makes a difference. If it does, check the firewall’s permission settings to ensure Mail is allowed through.
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Log in to Windows With a Local User Account
 
  Do you log in to Windows 11 with a Microsoft account? If yes, try logging in with a local user account and utilizing Mail from there. To do that, you’ll need to switch to a local one by changing your account settings like this:
@@ -108,15 +116,13 @@ thumbnail: https://thmb.techidaily.com/f0b667ebcfe4598116d4b6654429dec8091fa0451
 ![Local account info boxes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/enter-your-local-account-info.jpg)
 3. Press the**Sign out** **and** **Finish** button.  
 ![The Sign out and finish button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-sign-out-and-finish-button.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Log in to your local user account.
 5. Open**Mail** to check if the 0x800713f error has been fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Reinstall Mail and Calendar
 
  If nothing else resolves error 0x800713f, maybe you need to reinstall Mail and Calendar. Doing that will give you a fresh and up-to-date Mail app. You can uninstall and reinstall that app like this:
@@ -144,8 +150,6 @@ thumbnail: https://thmb.techidaily.com/f0b667ebcfe4598116d4b6654429dec8091fa0451
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,8 +157,20 @@ thumbnail: https://thmb.techidaily.com/f0b667ebcfe4598116d4b6654429dec8091fa0451
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-step-by-step-guide-for-filming-sims-adventures/"><u>[New] Step-by-Step Guide for Filming Sims Adventures</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-youtube-to-dailymotion-transferring-videos-seamlessly/"><u>[Updated] 2024 Approved YouTube to Dailymotion Transferring Videos Seamlessly</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-augment-your-vfx-arsenal-explore-these-top-8-sites-for-free-eco-backgrounds-for-2024/"><u>[Updated] Augment Your VFX Arsenal - Explore These Top 8 Sites for Free Eco-Backgrounds for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-windows-and-mac-8-best-3d-video-apps-for-free/"><u>2024 Approved Explore Windows & Mac 8 Best 3D Video Apps for FREE</u></a></li>
+<li><a href="https://windows11.techidaily.com/9-ways-to-fix-windows-hello-fingerprint-recognition-not-working/"><u>9 Ways to Fix Windows Hello Fingerprint Recognition Not Working</u></a></li>
+<li><a href="https://windows11.techidaily.com/adjusting-reset-account-lockout-counter-post-failed-sign-in-attempts/"><u>Adjusting Reset Account Lockout Counter Post-Failed Sign-In Attempts</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-window-11-safety-with-best-in-class-password-protectors/"><u>Elevating Window 11 Safety with Best-in-Class Password Protectors</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-keep-windows-full-screen-without-mobility-features/"><u>How To Keep Windows Full Screen without Mobility Features</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-steering-to-your-own-musical-selections-on-youtube/"><u>In 2024, Steering to Your Own Musical Selections on Youtube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/in-2024-your-stepwise-approach-to-uploading-youtube-shorts-on-laptop-phone/"><u>In 2024, Your Stepwise Approach to Uploading YouTube Shorts on Laptop, Phone</u></a></li>
+<li><a href="https://windows11.techidaily.com/installation-essentials-intel-network-adapters-for-windows-users/"><u>Installation Essentials: Intel Network Adapters for Windows Users</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-htc-u23-pro-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your HTC U23 Pro Phone</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-application-startup-hexadecimal-issue-error/"><u>Unraveling The Application Startup Hexadecimal Issue (Error)</u></a></li>
+</ul></div>
 

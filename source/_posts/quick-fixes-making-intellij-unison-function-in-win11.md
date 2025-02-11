@@ -1,7 +1,7 @@
 ---
 title: "Quick Fixes: Making IntelliJ Unison Function in Win11"
-date: 2024-08-15T15:25:05.820Z
-updated: 2024-08-16T15:25:05.820Z
+date: 2025-02-06T07:46:01.289Z
+updated: 2025-02-10T20:42:22.651Z
 tags:
   - windows10
   - windows11
@@ -37,9 +37,6 @@ To run the Windows Store Apps troubleshooter:
 
  Still experiencing Bluetooth issues? Check our guide on [fixing Bluetooth pairing issues on Windows](https://www.makeuseof.com/tag/bluetooth-not-working-windows-10/) and follow the steps outlined there.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## 2\. Allow the Intel Unison App to Run in the Background
 
  If you’ve disabled background app permission for Intel Unison, it may fail to sync your data when you are not using it. To avoid this, you must enable background app permission for the Intel Unison app. Here's how to do it.
@@ -50,9 +47,6 @@ To run the Windows Store Apps troubleshooter:
 4. Click the drop-down menu under**Background apps permissions** and select**Always** .  
 ![Allow Intel Unison to Run in the Background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/allow-intel-unison-to-run-in-the-background.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Allow Intel Unison App Access to Your Phone Calls and Notifications
 
  The Intel Unison app on Windows requires permission to access phone calls and notifications. You need to ensure that these permissions are enabled. Here’s how to check.
@@ -64,13 +58,11 @@ To run the Windows Store Apps troubleshooter:
 5. Further, scroll down to**App notifications** , and use the toggles to enable notification permission for individual apps.
 6. Next, switch to the**Calls** tab and enable the toggle for**Allow phone calls** .  
 ![Intel Unison App Notification Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/intel-unison-app-notification-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Turn Off Battery Saver Mode
 
  When you enable battery saver mode, Windows pauses background app activities on your computer. While this is a great way to [improve battery life on Windows](https://www.makeuseof.com/windows-11-improve-battery-life/) , it may prevent apps like Intel Unison from working efficiently.
@@ -90,6 +82,10 @@ To run the Windows Store Apps troubleshooter:
 
  Once disabled, try using the Intel Unison app again. If this solves your problem, you can go through your antivirus program’s settings and whitelist the Intel Unison app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Disconnect and Reconnect Your Phone
 
  Connection issues between the Intel Unison app and your phone can also cause the app to stop working on Windows. In most cases, you should be able to resolve such issues by disconnecting and reconnecting your phone.
@@ -106,8 +102,9 @@ To run the Windows Store Apps troubleshooter:
 ![Disconnect Phone From Intel Unison App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disconnect-phone-from-intel-unison-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Repair or Reset the Intel Unison App
 
  Both Windows 10 and 11 include a useful repair tool for fixing app-related issues. Check out our guide on [how to repair apps on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) to fix the Intel Unison app without affecting your data.
@@ -115,17 +112,18 @@ To run the Windows Store Apps troubleshooter:
  Wait for the repair process to complete and then try using the app again. If the problem persists, try resetting the app from the same menu. Doing so should delete all the app data and reset the app to its default state.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Reinstall the Intel Unison App
 
  Finally, if none of the above solutions work, you can try uninstalling and reinstalling the app. If you need help with that, check our guide on [how to uninstall apps on Windows](https://www.makeuseof.com/tag/how-to-uninstall-apps-on-windows/) and follow the instructions outlined there.
 
  Once removed, head over to the [Intel Unison page on the Microsoft Store](https://apps.microsoft.com/store/detail/intel%C2%AE-unison%E2%84%A2/9PP9GZM2GN26) to download the Intel Unison app. Hopefully, this should help resolve the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixing Intel Unison App on Windows 11
 
@@ -133,14 +131,11 @@ No advertising on the website.
 
  If you have an Android phone, you can also use Microsoft's Phone Link app to sync it with a Windows computer.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -149,8 +144,22 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-how-can-you-make-outstanding-youtube-outro/"><u>[New] 2024 Approved How Can You Make Outstanding YouTube Outro?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-smart-way-to-scale-and-slash-iphone-videos-for-2024/"><u>[Updated] The Smart Way to Scale & Slash iPhone Videos for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/building-a-personalized-voice-transcription-tool-on-windows-using-ahk/"><u>Building a Personalized Voice Transcription Tool on Windows Using AHK</u></a></li>
+<li><a href="https://windows11.techidaily.com/crafting-a-unique-windows-11-search-interface/"><u>Crafting a Unique Windows 11 Search Interface</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-oppo-reno-11-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Oppo Reno 11 5G</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-pova-5-pro-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Pova 5 Pro to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/master-file-reduction-a-step-by-step-guide-to-zipping-data-on-your-windows-pc-with-yl-software-solutions/"><u>Master File Reduction: A Step-by-Step Guide to Zipping Data on Your Windows PC with YL Software Solutions</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/mp4-video-information-changers-top-editor-options/"><u>MP4 Video Information Changers Top Editor Options</u></a></li>
+<li><a href="https://windows11.techidaily.com/must-use-3d-paint-shortcuts-compiled/"><u>Must-Use 3D Paint Shortcuts Compiled</u></a></li>
+<li><a href="https://windows11.techidaily.com/new-dawn-for-old-gameshells-atlasos/"><u>New Dawn For Old Gameshells - AtlasOS</u></a></li>
+<li><a href="https://windows11.techidaily.com/reclaim-your-slack-notifications-fixes-for-windows-11/"><u>Reclaim Your Slack Notifications: Fixes for Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-system-integration-enable-windows-subsystem-for-linux/"><u>Seamless System Integration: Enable Windows Subsystem for Linux</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-your-day-best-to-do-lists-on-pc/"><u>Streamlining Your Day: Best To-Do Lists on PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-experts-outperform-ai-in-coin-market-analysis/"><u>Why Experts Outperform AI in Coin Market Analysis</u></a></li>
+</ul></div>
 

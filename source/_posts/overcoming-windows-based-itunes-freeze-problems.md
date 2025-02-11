@@ -1,7 +1,7 @@
 ---
 title: Overcoming Windows-Based iTunes Freeze Problems
-date: 2024-08-15T15:28:00.892Z
-updated: 2024-08-16T15:28:00.892Z
+date: 2025-02-04T01:40:26.026Z
+updated: 2025-02-11T00:42:04.513Z
 tags:
   - windows10
   - windows11
@@ -33,8 +33,9 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 4. Look for and disable any other iTunes-related tasks under **Background processes**.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Utilize the Windows Store App Troubleshooter
 
  The Windows Store App troubleshooter can fix UWP apps when they’re not working right. So, that tool could be useful for troubleshooting the iTunes MS Store app.
@@ -43,23 +44,23 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 
 ![The Windows Store Apps window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/windows-store-apps.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## 3\. Set iTunes to Run With Administrator Rights
 
  Some users have said running iTunes with admin rights can help to fix that app when it’s not working. So, that’s another potential resolution worth trying. To do so, right-click iTunes on your Start menu and select **More** \> **Run as administrator**.
 
 ![run-as-administrator-option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/run-as-administrator-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also set the iTunes desktop software to always run as an administrator from its file location. Check out this guide about how to [always run programs with admin rights](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) for further instructions.
 
  However, you can’t set the iTunes UWP app to always run with elevated rights because its installation folder is not accessible.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Run iTunes in Safe Mode
 
@@ -71,9 +72,6 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 
 Note that this potential resolution doesn’t apply to the iTunes UWP app downloaded from Microsoft Store. Holding the **Ctrl** \+ **Shift** keys when clicking the iTunes UWP app will bring up a Restrictions window.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## 5\. Run iTunes in Compatibility Mode
 
  Setting iTunes to run in compatibility mode is a resolution users confirm can fix the “iTunes has stopped working” startup error. However, you can only apply this fix for the iTunes desktop software (version 12.10.11) with an accessible installation folder. These are the steps for running iTunes in compatibility mode:
@@ -84,12 +82,12 @@ Note that this potential resolution doesn’t apply to the iTunes UWP app downlo
 4. Select **Run this program in compatibility** mode to activate the drop-down menu for that setting.
 5. Select the **Windows 7** compatibility setting on the drop-down menu.  
 ![The Compatibility mode setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/compatibility-mode-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 6. Click on the **Apply** button to set your selected options.
 7. Select **OK** to leave the iTunes Properties window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Use Windows' Repair Feature to Fix iTunes
 
@@ -98,8 +96,9 @@ Note that this potential resolution doesn’t apply to the iTunes UWP app downlo
  Our guide to [repairing apps and programs in Windows](https://www.makeuseof.com/windows-repair-apps-programs/) tells you how to repair iTunes using either way.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Reset the iTunes App
 
  The iTunes UWP app has a **Reset** option you can select via Apps & features in Settings. That troubleshooting option clears the app’s data, which is worth trying when iTunes isn’t working right.
@@ -109,8 +108,9 @@ Note that this potential resolution doesn’t apply to the iTunes UWP app downlo
 ![The Repair and Reset options for iTunes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/repair-and-reset-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Turn Off Any Active Third-Party Security Software
 
  Third-party security apps are those that incorporate antivirus shields and firewalls. Those software packages are the most likely ones to cause issues for launching iTunes primarily due to the security restrictions they can enforce on apps.
@@ -118,9 +118,6 @@ Note that this potential resolution doesn’t apply to the iTunes UWP app downlo
  So, try disabling any third-party antivirus, firewall, or more general security app installed on your PC before launching iTunes to see if that helps. Most third-party security apps have context menu options for disabling antivirus shields. You can usually select an option that will temporarily turn off a security app’s antivirus protection by right-clicking its system tray icon.
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 
 ## 9\. Reinstall iTunes
 
@@ -133,10 +130,6 @@ Note that this potential resolution doesn’t apply to the iTunes UWP app downlo
  When you’ve uninstalled iTunes, you can either install the UWP app or older Windows desktop software. To do so, click **Download iTunes for Windows 10 from the Microsoft Store** or **Download iTunes 12.10.11** on the [Apple page](https://support.apple.com/en-gb/HT210384). If you select the 12.10.11 option, you’ll need to open the installation file for iTunes in the folder it downloaded and install the software with that.
 
 ![The download links for iTunes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/itunes-download-options.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 
  Installing iTunes from the Microsoft Store is recommended because you can be sure that it's the Windows-supported app and the latest version. 12.10.11 is the last version of the desktop software Apple hasn’t updated since 2020\.
 
@@ -148,8 +141,6 @@ Note that this potential resolution doesn’t apply to the iTunes UWP app downlo
 
  When iTunes doesn’t work, it throws up messages like “iTunes has stopped working” or “cannot run” and doesn’t launch. Its startup error messages can vary, but the result is the same with iTunes not opening. Users can’t access and utilize iTunes on Windows 11/10 PCs when that software doesn’t start.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -157,5 +148,26 @@ Note that this potential resolution doesn’t apply to the iTunes UWP app downlo
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-discover-efficiency-with-these-5-essential-mac-snippers/"><u>[New] In 2024, Discover Efficiency with These 5 Essential Mac Snippers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-skype-capture-methods-seamless-transition-between-oses/"><u>[New] In 2024, Skype Capture Methods Seamless Transition Between OSes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-maximizing-iphone-hdr-quality-with-post-production-tricks-in-premiere-pro/"><u>[New] Maximizing iPhone HDR Quality with Post-Production Tricks in Premiere Pro</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-migrating-media-from-android-to-iphone/"><u>2024 Approved Migrating Media From Android to iPhone</u></a></li>
+<li><a href="https://windows11.techidaily.com/achieve-peak-productivity-essential-windows-11-and-cmd-commands/"><u>Achieve Peak Productivity: Essential Windows 11 & Cmd Commands</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amazons-october-prime-special-save-250-on-the-latest-apple-m3-macbook-air-full-report/"><u>Amazon's October Prime Special: Save $250 on the Latest Apple M3 MacBook Air - Full Report</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-techniques-to-complete-stalled-steam-game-downloads-successfully/"><u>Effective Techniques to Complete Stalled Steam Game Downloads Successfully</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-performance-reducing-background-processes/"><u>Enhancing Performance: Reducing Background Processes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-tips-for-overcoming-chatgpt-logout-issues/"><u>Essential Tips for Overcoming ChatGPT Logout Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-loss-of-internet-router-webpage-in-windows/"><u>Fixing Loss of Internet Router Webpage in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-windows-11-unstartable-apps-and-error-0xc000003e/"><u>Fixing Windows 11: Unstartable Apps and Error 0xC000003E</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-nine-quick-fixes-for-facebook-live-problems/"><u>In 2024, Nine Quick Fixes for Facebook Live Problems</u></a></li>
+<li><a href="https://windows11.techidaily.com/jump-over-the-endless-update-hurdle-quick-fixes-now/"><u>Jump Over The Endless Update Hurdle: Quick Fixes Now</u></a></li>
+<li><a href="https://windows11.techidaily.com/mitigating-critical-programming-issues-in-roblox/"><u>Mitigating Critical Programming Issues in Roblox</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-repeated-sign-in-requests-for-team-collaboration-software/"><u>Overcoming Repeated Sign-In Requests for Team Collaboration Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-the-process-termination-failure-error-window/"><u>Remedying the 'Process Termination Failure' Error Window</u></a></li>
+<li><a href="https://extra-information.techidaily.com/revolutionary-audio-alteration-for-enhanced-pubg-experience/"><u>Revolutionary Audio Alteration for Enhanced PUBG Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-low-end-system-failures-due-to-intel-graphics-requirements/"><u>Tackling Low-End System Failures Due to Intel Graphics Requirements</u></a></li>
+<li><a href="https://article-files.techidaily.com/unveiling-new-gadgets-a-guide-by-toms-technology-hub/"><u>Unveiling New Gadgets: A Guide by Tom's Technology Hub</u></a></li>
+</ul></div>
 

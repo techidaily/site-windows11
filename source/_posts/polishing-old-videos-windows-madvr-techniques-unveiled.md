@@ -1,7 +1,7 @@
 ---
 title: "Polishing Old Videos: Windows MadVR Techniques Unveiled"
-date: 2024-08-15T15:27:03.974Z
-updated: 2024-08-16T15:27:03.974Z
+date: 2025-02-07T02:53:43.111Z
+updated: 2025-02-11T00:12:04.555Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/f6689b1ce3b098830c1181e612252ff5b928460b4
 
  Welcome to the world of modern high-res displays, where most of our older video files can only cover one-fourth of the screen... at best. To improve the quality of these older videos, you need to use smart filters and upscalers, and madVR is one of the best for Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is MadVR?
 
  MadVR is a powerful post-processing filter "enhancer" for many popular media players. It offers a range of sophisticated algorithms to upscale and improves video quality. Unlike apps like the [top video editors for YouTube](https://www.makeuseof.com/free-video-editors-youtube-2022/) that we've already covered, it works in real-time, "improving" your videos as they play.
@@ -37,11 +41,13 @@ Best of all, it is open-source and free to use.
 1. Start by downloading its latest version from [madVR's official site](https://madvr.com/) . We assume you've downloaded and installed the media player part of the equation from [MPC-HC's official site](https://mpc-hc.org/) .  
 ![madVR Official Site](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/madvr-official-site.jpg)
 2. Extract madVR's downloaded archive into any folder of your choice. You can extract it directly in MPC-HC's installation folder, but if you want to use it in more than one player, it's best to extract it in a folder of its own.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Launch MPC-HC and choose**View** \>**Options** .  
 ![MPC HC Options Menu Entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/mpc-hc-options-menu-entry.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Look for the**External Filters** options page on the list on the left and click on it — it's the fourth entry if viewing the list in fully collapsed view.
 5. Click on**Add Filter** at the top right.  
 ![MPC HC Add Filter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/mpc-hc-add-filter.jpg)
@@ -50,25 +56,14 @@ Best of all, it is open-source and free to use.
 ![MPC HC Select Filter MadVR](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/mpc-hc-select-filter-madvr.jpg)
 2. Click on the newly-added**madVR** entry on the**External Filters** list. Choose**Prefer** from the options on the right.  
 ![MPC HC MadVR Prefer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/mpc-hc-madvr-prefer.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 3. Expand the**Playback** entry from the list on the left and choose**Output** .
 4. Click on the drop-down menu under**DirectShow Video** and select**madVR** .
 5. Press**OK** to save the changes. Close and relaunch MPC-HC to ensure it will be using the madVR renderer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Tweaking the MadVR Settings
 
  After adding and enabling madVR in MPC-HC, if you start playing a video file with it, you'll see a new icon for madVR appear in the Windows tray. Right-click on it and choose**Edit madVR Settings** to configure the renderer according to your gear and preferences.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. Setting Up the Basics With MadVR
 
  Expand the**devices** group from the list on the left, and choose your display device. Change its**device type** to reflect its type. For most, it will probably be**Digital Monitor / TV** . Do the same for your other display devices if you use more than one.
@@ -84,22 +79,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Try enabling the options in this section one by one and, if available, progressively increasing their strength. You can click on**Apply** at any time to check their effect on your video.
 
 ![MadVR Artifact Removal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/madvr-artifact-removal.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When your video starts looking "off", with annoyingly pronounced "edges" around elements, dial your last settings down a notch. If playing a lot of MPEG4/HEVC content (encoded with DivX/XviD/H.264/H.265/NVENC), make sure to try out**reduce compression artifacts** . Setting its quality to**very high** and enabling**process chroma channels, too** come with higher requirements but can also further reduce the annoying "(macro)blocks" on highly-compressed files.
 
 ![MadVR Reduce Compression Artifacts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/madvr-reduce-compression-artifacts.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Do the same for the options in the**image enhancements** section. Since their result depends on both the active video and your perception of what looks best, we'll leave the choice of which you should enable and their values up to you. Remember that you can see their effect in any active video immediately after hitting the**Apply** button on the window.
 
 ![MadVR Image Enhancements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/madvr-image-enhancements.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Performing Upscaling With MadVR
@@ -109,9 +103,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 **Positive** results are marked with**green bars** and**negative** ones with**red bars** . The longer the bar, the more noticeable the effect. Also, enable the**SuperRes** filter and increase its strength to 2 or 3 to take advantage of madVR's scaling chops.
 
 ![MadVR Chroma Upscaling](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/madvr-chroma-upscaling.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Modern GPUs are pretty good at downscaling. Thus, you can choose**DXVA2** from the**image downscaling** page to have the task entirely performed by your GPU. However, the other options also "run" on the GPU, either on its texture units or as pixel shaders, and may offer even crisper visuals. It's worth trying them all out to see which you prefer.
 
@@ -123,29 +114,36 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![MadVR Image Upscaling](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/madvr-image-upscaling.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As before, we won't suggest specific settings for the options on**upscaling refinement** . Enable them one by one, play with their values, and click**Apply** to find what you like. If you see strange artifacts, lines, or elements of your video look "glitchy", change the last option on this page to**Refine the image only once after upscaling is complete** .
 
 ![MadVR Upscaling Refinement](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/madvr-upscaling-refinement.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Adjusting the Quality With MadVR
 
  If your videos look jerky in motion, expand the**Rendering** section, and on the**Smooth Motion** page, place a checkmark on**enable smooth motion frame rate conversion** . This may lead to the "soap opera effect," which refers to how TV shows look compared to movies (because of their higher framerate).
 
 ![MadVR Smooth Motion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/madvr-smooth-motion.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  For the highest quality, you can visit the**Trade Quality for Performance** page and disable some or all of the default settings. However, these will make less of a difference compared to the other options.
 
 ![MadVR Quality Or Performance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/madvr-quality-or-performance.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## A Final Note About MadVR
 
  Keep in mind that not all videos are equal. Your madVR settings will need tweaking depending on the video you're watching. You can use "mild" defaults for general improvement of all videos on your monitor, but madVR is best when you invest a minute in fine-tuning it for each video.
@@ -160,14 +158,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  And that's how madVR can go beyond being just a video renderer and become a full-blown hobby. Don't be alarmed if you find yourself trying to upgrade every video and constantly adjusting madVR's settings. You'll be joining a club of many.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -176,8 +171,23 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/updated-2024-a-new-era-for-elite-camera-technology/"><u>[Updated] 2024 A New Era for Elite Camera Technology</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-essential-platforms-secure-and-reliable-video-services-for-smes/"><u>2024 Approved Essential Platforms Secure & Reliable Video Services for SMEs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/book-trailers-reviewed-top-5-picks-revealed-for-2024/"><u>Book Trailers Reviewed Top 5 Picks Revealed for 2024</u></a></li>
+<li><a href="https://discover-help.techidaily.com/convert-mov-files-to-mp4-free-cross-platform-guide-for-mac-and-windows/"><u>Convert MOV Files to MP4 Free: Cross-Platform Guide for Mac & Windows</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-mp4-play-on-galaxy-a24-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Does MP4 play on Galaxy A24?</u></a></li>
+<li><a href="https://windows11.techidaily.com/file-finder-simplicity-windowed-explorer-reduction-technique/"><u>File Finder Simplicity: Windowed Explorer Reduction Technique</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-zte-nubia-flip-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror ZTE Nubia Flip 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Samsung Galaxy M14 4G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-upload-youtube-shorts-video-from-computer-and-mobile/"><u>In 2024, How to Upload YouTube Shorts Video From Computer and Mobile?</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-potential-of-windows-11s-configurable-fn-keys/"><u>Mastering the Potential of Windows 11'S Configurable FN Keys</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-the-challenge-of-0x8007045d-error-on-windows-11/"><u>Overcoming the Challenge of 0X8007045d Error on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-microsoft-teams-instability-on-ws11ws10-devices/"><u>Preventing Microsoft Teams Instability on WS11/WS10 Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/remediation-techniques-for-resource-occupancy-errors-149-chars/"><u>Remediation Techniques for Resource Occupancy Errors (149 Chars)</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-and-resolving-m365-error-30015-26-on-pcs/"><u>Understanding and Resolving M365 Error 30015-26 on PCs</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/unveiling-whatsapps-call-conversations/"><u>Unveiling WhatsApp's Call Conversations</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-cleanup-stripping-out-microsoft-store/"><u>Win11 Cleanup: Stripping Out Microsoft Store</u></a></li>
+</ul></div>
 

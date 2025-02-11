@@ -1,7 +1,7 @@
 ---
 title: Is Split Screen Not Working on Windows? Here's What to Do
-date: 2025-01-26T20:07:51.104Z
-updated: 2025-01-29T22:56:14.268Z
+date: 2025-02-09T06:40:46.466Z
+updated: 2025-02-10T23:22:27.186Z
 tags:
   - windows10
   - windows11
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Causes Split Screen to Not Work?
 
  Before you troubleshoot, you must understand why the split screen isn't working. Some of the most common reasons include.
@@ -39,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 
  Now that you know the potential causes of the split screen not working, let’s look at how to resolve it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Try Some Generic Fixes
 
  Before we jump into more complicated fixes, it's worth trying out some basic ones that typically fix Windows errors like this.
@@ -47,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 2. There are also some generic solutions you can try that fix Windows-specific errors. These include [System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/) and Deployment Image Servicing and Management. Running these utilities [clears out corrupted or missing system files](https://www.makeuseof.com/windows-built-in-repair-tools/) and replaces them with new ones.
 3. You can also [perform a Clean Boot](https://www.makeuseof.com/clean-boot-windows-11/) to resolve split screen problems. This method starts Windows with a minimum set of drivers and programs. If this works, it means a driver or program you installed recently is causing the problem; uninstall the culprit and try again.
 4. If the split screen still doesn't work, update your graphics driver. Outdated drivers usually cause conflicts and lead to problems such as split screen not working. To do that, check out [how to update your graphics drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Make Sure "Snap Windows" Is Enabled
 
@@ -58,10 +62,14 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 ![Enable Snap windows in Multitasking](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/enable-snap-windows-in-multitasking.jpg)
 4. Now click the down arrow key and ensure all the checkboxes are selected.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After making these changes, close the Settings window and check if it solves the issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Check Your Display Settings
@@ -72,11 +80,11 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 
 ![Display Resolution in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/display-resolution-in-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now click the **Display resolution** drop-down menu and adjust the resolution to fit your connected display. Once you've done that, try using split screen again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Restart Windows Explorer
 
@@ -95,10 +103,6 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 
  After restarting Windows Explorer, try split screen again and see if it works now.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Uninstall Third-Party Software
 
  If you have any third-party software or applications that manage Windows or screen layouts, uninstall them temporarily. Sometimes these programs interfere with Windows split-screen functionality and cause the issue.
@@ -113,10 +117,6 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 6. Select **Uninstall** from the context menu and follow the instructions to complete the process.
 
  Once you're done, try to use split screen to check if the issue is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Use the Built-In Shortcut Keys for Split Screen
 
@@ -140,22 +140,15 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ow-to-use-youtube-enhancements-to-improve-video-quality-for-2024/"><u>[New] How to Use YouTube Enhancements to Improve Video Quality for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-enlightenment-streams-foremost-ed-resources-online/"><u>[Updated] 2024 Approved Enlightenment Streams Foremost Ed Resources Online</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-guide-to-channel-description-perfection/"><u>[Updated] The Ultimate Guide to Channel Description Perfection</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-invent-iconic-image-jokes/"><u>2024 Approved Invent Iconic Image Jokes</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/above-and-beyond-perfecting-your-drone-video-craft-for-2024/"><u>Above and Beyond Perfecting Your Drone Video Craft for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/early-bird-benefits-automatic-open-of-windows-sticky-notes/"><u>Early Bird Benefits: Automatic Open of Windows' Sticky Notes</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/efficient-video-sharing-on-twitter-from-smartphones/"><u>Efficient Video Sharing on Twitter From Smartphones</u></a></li>
-<li><a href="https://windows11.techidaily.com/master-the-art-of-troubleshooting-windows-camera/"><u>Master the Art of Troubleshooting Windows Camera</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-windows-error-correction-techniques/"><u>Mastering Windows Error Correction Techniques</u></a></li>
-<li><a href="https://fox-info.techidaily.com/mystic-modulation-is-this-speech-shifting-software-authentic-or-fiction-discover-substitutes/"><u>Mystic Modulation Is This Speech-Shifting Software Authentic or Fiction? Discover Substitutes</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-file-system-woes-on-windows-11/"><u>Navigating File System Woes on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-non-detected-network-proxy-settings-in-windows/"><u>Overcoming Non-Detected Network Proxy Settings in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/phase-out-announcement-end-for-windows-781-on-microsoft-platforms/"><u>Phase-Out Announcement: End for Windows 7/8.1 on Microsoft Platforms</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/quantifying-complexity-the-level-breakdown-of-royal-match-game/"><u>Quantifying Complexity: The Level Breakdown of ‘Royal Match’ Game</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-windows-update-errors-now-smoothly-fixed/"><u>Resolved: Windows Update Errors Now Smoothly Fixed</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-art-of-unseen-wi-fi-in-windows/"><u>The Art of Unseen Wi-Fi in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/time-travel-tech-windows-7-product-key-for-11-activation/"><u>Time-Travel Tech: Windows 7 Product Key for 11 Activation</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-grasping-the-metaverse-a-look-at-6-in-depth-illustrations/"><u>[New] Grasping the Metaverse A Look at 6 In-Depth Illustrations</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-steps-to-confirm-video-compliance-before-tiktok-posting/"><u>[Updated] In 2024, Steps to Confirm Video Compliance Before TikTok Posting</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-slide-swivel-and-shift-a-step-by-step-manual-to-flipping-images-on-instagram-sites/"><u>[Updated] Slide, Swivel and Shift A Step-by-Step Manual to Flipping Images on Instagram Sites</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-comprehensive-guide-to-tweaking-firewall-security/"><u>A Comprehensive Guide to Tweaking Firewall Security</u></a></li>
+<li><a href="https://windows11.techidaily.com/account-annihilation-simple-ways-to-render-user-non-existent-on-win11/"><u>Account Annihilation: Simple Ways to Render User Non-Existent on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/breaking-down-roblox-error-262s-solutions/"><u>Breaking Down Roblox Error 262'S Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-and-disabling-read-only-properties-in-win11/"><u>Deciphering and Disabling Read-Only Properties in Win11</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/how-to-perform-an-os-and-file-recovery-for-windows-server-2012r2-using-your-latest-backup/"><u>How to Perform an OS and File Recovery for Windows Server #2012R2 Using Your Latest Backup</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-laughter-on-your-phone-humorous-ringtone-sites/"><u>In 2024, Laughter on Your Phone Humorous Ringtone Sites</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-pick-mirari-childrens-alarm-clock-ok-to-wake-in-depth-product-assessment/"><u>Top Pick: Mirari Children's Alarm Clock 'Ok to Wake!' In-Depth Product Assessment</u></a></li>
 </ul></div>
 

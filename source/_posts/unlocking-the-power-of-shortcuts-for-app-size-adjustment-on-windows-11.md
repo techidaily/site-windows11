@@ -1,7 +1,7 @@
 ---
 title: Unlocking the Power of Shortcuts for App Size Adjustment on Windows 11
-date: 2024-08-15T15:24:27.230Z
-updated: 2024-08-16T15:24:27.230Z
+date: 2025-02-08T05:00:57.481Z
+updated: 2025-02-10T18:25:07.342Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,11 @@ thumbnail: https://thmb.techidaily.com/8a7c2713a5a85ee94384e3a403324debf1e357fa3
 3. Press the**Alt** +**Space** hotkey to bring up a window menu.  
 ![A software window menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/a-window-menu.jpg)
 4. Then press the**S** key to activate the move pointer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Now resize the window by pressing the up, down, left, and right arrow key buttons. You can use the arrow keys on a keyboard’s Numpad with**Num Lock** disabled.
 6. Hit**Enter** when you’ve finished resizing.
 
@@ -37,8 +42,9 @@ thumbnail: https://thmb.techidaily.com/8a7c2713a5a85ee94384e3a403324debf1e357fa3
  For example, pressing the down key first selects the window’s bottom border. Then you can move that border up or down or extend or decrease its width with the arrow keys.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Resize Software Using Snap Layout Hotkeys
 
  Snap Layouts is one of Windows 11’s best new features. That feature enables you to resize software windows to preset layout sizes. You can utilize that feature with the mouse by hovering the cursor over a window’s**Maximize** button and selecting an alternative layout on the panel. Those layout options resize windows to halves, thirds, or quarters of the desktop area.
@@ -50,13 +56,11 @@ thumbnail: https://thmb.techidaily.com/8a7c2713a5a85ee94384e3a403324debf1e357fa3
  You can resize windows by snapping them to either side of the desktop with a couple of hotkeys. Press the**Windows** key +**right** arrow button to snap a window to the right side of the desktop. Or snap to the left side by pressing the**Win** +**left** arrow button. A window snapped with those keyboard shortcuts is resized to half the desktop area.
 
 ![Two side-by-side windows resized with Snap Layout hotkeys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/side-by-side-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Resize Software Windows With Custom Hotkeys
 
  Wouldn’t it be great if Windows 11 included options with which you could create hotkeys for resizing software windows to specific sizes? Of course, Microsoft’s flagship OS doesn’t have such a feature; but you can install software that does.
@@ -73,22 +77,22 @@ thumbnail: https://thmb.techidaily.com/8a7c2713a5a85ee94384e3a403324debf1e357fa3
 2. Double-click the Sizer desktop shortcut.
 3. Then select one of the sizes for a hotkey to resize a window to on the**Menu** tab.  
 ![The Menu tab in Sizer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-menu-tab.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Click the**Edit** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select one of the**Shortcut key** checkboxes for the**Alt** ,**Ctrl** ,**Win** , or**Shift** keys.  
 ![The Sizer Menu Entry window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-sizer-menu-entry-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Press a letter to combine with your selected key.
 7. Click**OK** on the Sizer Menu Entry window.
 8. Select**Apply** on the Sizer Configuration window.
 9. Then click the**Hot Keys** tab to check the keyboard shortcut has been added. You should see the hotkey listed on that tab.  
 ![The Hot Keys tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-hot-keys-tab.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now open File Explorer using one of the many [ways to open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) to try out your new hotkey. Press the keyboard shortcut you set for window size. That hotkey will resize your window to the size you assigned it for.
@@ -121,8 +125,6 @@ thumbnail: https://thmb.techidaily.com/8a7c2713a5a85ee94384e3a403324debf1e357fa3
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,8 +132,24 @@ thumbnail: https://thmb.techidaily.com/8a7c2713a5a85ee94384e3a403324debf1e357fa3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-grassroots-video-marketing-strategies/"><u>[New] 2024 Approved Grassroots Video Marketing Strategies</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-top-5-high-definition-4k-gaming-screens-for-2024/"><u>[New] Top 5 High Definition 4K Gaming Screens for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-three-key-strategies-for-acquiring-youtube-srt-files/"><u>[Updated] 2024 Approved Three Key Strategies for Acquiring YouTube SRT Files</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-videopilot-hd-snapshot-guide/"><u>[Updated] In 2024, VideoPilot HD Snapshot Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-uncomplicated-pc-record-functionality/"><u>2024 Approved Uncomplicated PC Record Functionality</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/adding-these-two-expressions-together-gives-us-the-final-expression-xx-n-plus-2x/"><u>Adding These Two Expressions Together Gives Us the Final Expression: ( X(x - N) + 2X ).</u></a></li>
+<li><a href="https://windows11.techidaily.com/advanced-notetaking-for-windows-professionals-win11w10/"><u>Advanced Notetaking for Windows Professionals (Win11/W10)</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reactivate-lost-bluetooth-listings-dmi/"><u>How to Reactivate Lost Bluetooth Listings DMI</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-version-of-m-audio-fast-track-drivers-available-for-windows-users-compatible-with-os-10-7-8-and-81/"><u>Latest Version of M-Audio Fast Track Drivers Available for Windows Users - Compatible with OS: 10, 7, 8 and 8.1</u></a></li>
+<li><a href="https://windows11.techidaily.com/leveling-web-speeds-for-seamless-experience/"><u>Leveling Web Speeds for Seamless Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-app-management-in-windows-the-power-of-winget/"><u>Mastering App Management in Windows: The Power of Winget</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-file-write-permissions-correction-on-win/"><u>Mastering File Write Permissions Correction on Win</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-process-for-ram-recalibration-on-win-11/"><u>Step-by-Step Process for RAM Recalibration on Win 11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/tips-for-effortless-graphics-driver-update-on-toshiba-satellite-models-a-windows-walkthrough/"><u>Tips for Effortless Graphics Driver Update on Toshiba Satellite Models: A Windows Walkthrough</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-windows-operations-formulating-and-scrutinizing-reports/"><u>Understanding Windows Operations: Formulating & Scrutinizing Reports</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-is-a-keygen-examining-its-impacts-and-cleanup-techniques-for-pcs/"><u>What Is a Keygen? Examining Its Impacts and Cleanup Techniques for PCs</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Essential Guide to Clearing Restrictions via PowerShell
-date: 2025-01-24T06:48:05.133Z
-updated: 2025-01-29T21:52:44.122Z
+date: 2025-02-05T01:57:12.196Z
+updated: 2025-02-10T23:34:40.570Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/029b0eb85077c27446243e8d1c815878a76764b76
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do I Unblock Multiple Files Using PowerShell on Windows?
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/029b0eb85077c27446243e8d1c815878a76764b76
  You can easily unblock a file by right-clicking on it and going to**Properties** — If you're on Windows 11, you'll need to click**Show more options** first before you can see the**Properties** option in the context menu. And once you're there, select the**General** tab and tick**Unblock** at the bottom in the**Security** section.
 
 ![unblocking a file in Properties on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/unblock-file-properties-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  But what if you have more than one file you need to unblock? Doing this one by one can get tedious. Alternatively, you can execute a single PowerShell command to unblock multiple files in a directory. Here is the command structure you need to use:
 
@@ -42,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/029b0eb85077c27446243e8d1c815878a76764b76
 ![copying file path on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/copy-as-path-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  With the file path handy, follow the instructions below to use the unblock command in PowerShell:
@@ -54,20 +58,16 @@ thumbnail: https://thmb.techidaily.com/029b0eb85077c27446243e8d1c815878a76764b76
 4. You will be asked to confirm each file you want to unblock, so type either**Y** for**Yes** or**N** for**No** and hit the**Enter** key. This confirmation step is due to the**\-confirm** portion of the command. It is completely optional, and you can omit it or type**A** to confirm all the files in the directory.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![confirming files to unblock in PowerShell on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/power-shell-unblock-files-confirm.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There’s a way you can tell Windows to always trust files you download from the internet. To do that, please read our guide on[how to stop Windows 10 from blocking your downloaded files](https://www.makeuseof.com/stop-windows-10-from-blocking-your-downloaded-files/) . The instructions in the tutorial use the Registry Editor and Local Group Policy Editor, so they should also work on Windows 11.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Now You Know How to Unblock Files You Know Are Safe
 
@@ -88,19 +88,24 @@ thumbnail: https://thmb.techidaily.com/029b0eb85077c27446243e8d1c815878a76764b76
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-mastering-unboxing-expert-tips-and-tricks-for-2024/"><u>[New] Mastering Unboxing Expert Tips and Tricks for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/4k-lg-display-assessment-the-ultimate-31mu97-b/"><u>4K LG Display Assessment The Ultimate 31MU97-B</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/boost-internet-speed-on-mac-the-ultimate-guide-to-flushing-dns-cache/"><u>Boost Internet Speed on Mac: The Ultimate Guide to Flushing DNS Cache</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/easy-methods-for-saving-instagram-footage-to-your-device-windows-mac-iphone-or-android/"><u>Easy Methods for Saving Instagram Footage to Your Device - Windows, Mac, iPhone, or Android</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/expert-iphone-photography-using-hdr-for-2024/"><u>Expert iPhone Photography Using HDR for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-errors-in-windows-discord-query-system/"><u>Fixing Errors in Windows' Discord Query System</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-automatically-shut-down-a-windows-11-and-11-pc-when-its-idle/"><u>How to Automatically Shut Down a Windows 11 and 11 PC When It's Idle</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-htc-u23-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from HTC U23 Pro to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-balancing-act-lowering-audio-levels/"><u>In 2024, Balancing Act Lowering Audio Levels</u></a></li>
-<li><a href="https://windows11.techidaily.com/innovative-ways-to-generate-numerous-folders-on-modern-windows-pcs/"><u>Innovative Ways to Generate Numerous Folders on Modern Windows PCs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722975347403-lenovo-ideapad-100-find-and-install-the-latest-drivers-for-windows-10-systems-easily/"><u>Lenovo IdeaPad 100 - Find and Install the Latest Drivers for Windows 10 Systems Easily</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-inability-to-add-columns-in-ms-excel-windows/"><u>Troubleshooting: Inability to Add Columns in MS Excel (Windows)</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-fix-for-error-afc-windows-11-camera-app-crash/"><u>Unveiling Fix for Error AFC: Windows 11 Camera App Crash</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/your-guide-to-building-stylish-snapchat-filters-for-2024/"><u>Your Guide to Building Stylish Snapchat Filters for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-crafting-content-for-specific-youtube-subsets/"><u>[New] 2024 Approved Crafting Content for Specific Youtube Subsets</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-23-budget-friendly-methods-document-webinars-with-no-cost/"><u>[Updated] In 2024, 23 Budget-Friendly Methods Document Webinars with No Cost</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-superb-culmination-for-vr-journeys/"><u>[Updated] Superb Culmination for VR Journeys</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-box-enthusiasm/"><u>2024 Approved The Ultimate Guide to Box Enthusiasm</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-guide-to-overcoming-windows-resolution-riddles/"><u>A Guide to Overcoming Windows Resolution Riddles</u></a></li>
+<li><a href="https://windows11.techidaily.com/ace-your-win-11-games-with-these-best-fps-tools/"><u>Ace Your Win 11 Games with These Best FPS Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/back-to-basics-windows-11-access-re-establishment-guide/"><u>Back to Basics: Windows 11 Access Re-Establishment Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-control-mastering-local-gpo-access-on-windows-11/"><u>Boosting Control: Mastering Local GPO Access on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypass-bottlenecks-9-fixes-for-rapid-windows-verification/"><u>Bypass Bottlenecks: 9 Fixes for Rapid Windows Verification</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-custom-privileges-in-win11-by-default/"><u>Clearing Custom Privileges in Win11 by Default</u></a></li>
+<li><a href="https://windows11.techidaily.com/command-line-to-admin-initiating-windows-11s-task-manager-with-power/"><u>Command Line to Admin: Initiating Windows 11'S Task Manager with Power</u></a></li>
+<li><a href="https://windows11.techidaily.com/crafting-your-own-windows-voice-transcription-software-using-ahk-and-whisper/"><u>Crafting Your Own Windows Voice Transcription Software Using AHK and Whisper</u></a></li>
+<li><a href="https://windows11.techidaily.com/cutting-the-clutter-soundcard-irq-solutions/"><u>Cutting the Clutter: Soundcard IRQ Solutions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-conversion-from-avs-to-mp4-streamline-video-editing-with-online-tools/"><u>Free Conversion From AVS to MP4: Streamline Video Editing with Online Tools</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-vivo-t2x-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Vivo T2x 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/ring-sound-repeat-a-comprehensible-guide-to-personalization-on-android-devices/"><u>Ring, Sound, Repeat A Comprehensible Guide to Personalization on Android Devices</u></a></li>
+<li><a href="https://fox-http.techidaily.com/soothing-soundscapes-recommended-voice-experts/"><u>Soothing Soundscapes Recommended Voice Experts</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-gamers-guide-to-banishing-stutters-in-your-digital-world-of-high-frame-rates/"><u>The Gamer's Guide to Banishing Stutters in Your Digital World of High Frame Rates</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-influence-of-thumbnail-size-on-viewership-numbers/"><u>The Influence of Thumbnail Size on Viewership Numbers</u></a></li>
 </ul></div>
 

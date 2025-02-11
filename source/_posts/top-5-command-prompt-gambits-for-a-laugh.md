@@ -1,7 +1,7 @@
 ---
 title: Top 5 Command Prompt Gambits for a Laugh
-date: 2024-08-15T15:27:18.999Z
-updated: 2024-08-16T15:27:18.999Z
+date: 2025-02-08T07:32:19.040Z
+updated: 2025-02-10T23:56:09.961Z
 tags:
   - windows10
   - windows11
@@ -22,24 +22,30 @@ thumbnail: https://thmb.techidaily.com/54da0f4f94eef8925e725ad6e5d476f72d3b4dfe3
 
 ![screenshot of a customized command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_customized_cmd.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You may know this one already, as it can be a great tool to play around with for accessibility purposes. Command Prompt can be fully customized, from background and text color, font, opacity, and more.
 
 **Right-click** on the **Command Prompt icon** in the upper left-hand corner. Of the screen. From here, select **Properties.**
 
 ![screenshot of cmd properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_cmd_properties_window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Font**, **Layout** and **Colors** have more immediate options, such as changing text size and colors. Head into **Terminal** to alter some elements of the text cursor.
 
  You can make some pretty ridiculous Command Prompts this way, or further refine the window to your exact needs. The features are so extensive that it might be worth brushing up on [customizing the command prompt](https://www.makeuseof.com/windows-customize-command-prompt/) if it's something that interests you.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Watch Star Wars on Command Prompt
 
 ![screenshot of the cmd telnet star wars recreation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_cmd_telnet_starwars_recreation.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This one has the potential to lead to a lot of fun, and even some curious looks from anyone who might not be privy to how Command Prompt works.
@@ -49,9 +55,6 @@ thumbnail: https://thmb.techidaily.com/54da0f4f94eef8925e725ad6e5d476f72d3b4dfe3
  In Windows 10 or 11, press **Win + Q**, type in **telnet**, and then select **Turn Windows features on or off**. Scroll down to the **Telnet Client** entry, check the box, and click **OK.** Afterward, you can close this window.
 
 ![screenshot of the windows features window showing telnet client selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_windows_features_telnet_client.jpg)
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now, here's the fun part. Run the following commands, hitting **Enter** after each one:
 
@@ -60,12 +63,13 @@ thumbnail: https://thmb.techidaily.com/54da0f4f94eef8925e725ad6e5d476f72d3b4dfe3
 
  Lean back and enjoy a bizarre recreation of Star Wars!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. More Telnet Fun: Command Prompt Aquarium
 
 ![screenshot of a cmd window showing telnet aquarium](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_cmd_telnet_aquarium.jpg)
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You may have noticed other fun options when running the **telnet telehack.com** command.
 
@@ -86,8 +90,9 @@ thumbnail: https://thmb.techidaily.com/54da0f4f94eef8925e725ad6e5d476f72d3b4dfe3
  It's relatively useless outside organizing multiple Command Prompts, but it's a fun detail to keep in mind.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Trace Where Your Data Goes
 
  This one is as fun as it is interesting, and it has legitimate uses in networking and troubleshooting.
@@ -110,16 +115,11 @@ thumbnail: https://thmb.techidaily.com/54da0f4f94eef8925e725ad6e5d476f72d3b4dfe3
 
  Is there much purpose to this command? If you're working with batch files, maybe, but the average user might just prefer to shut down their computer the usual way. This command might not have much practical use, but it's a fun trick all the same.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fun With Command Prompt
 
  Despite being one of the most plain-looking interfaces imaginable, a user can still very easily have some fun with the Command Prompt. The items listed here don't even scratch the surface of the hacks and tricks you can pull off with Command Prompt.
 
  Regardless, fun is important, and if you can find it in the most unlikely places, why not?
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -128,5 +128,20 @@ thumbnail: https://thmb.techidaily.com/54da0f4f94eef8925e725ad6e5d476f72d3b4dfe3
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-green-screen-basics-for-filmmakers-starting-out-for-2024/"><u>[New] Green Screen Basics for Filmmakers Starting Out for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-beat-coffee-stain-effects-with-ioss-complimentary-red-eye-fix-app/"><u>[Updated] 2024 Approved Beat Coffee Stain Effects with iOS's Complimentary Red-Eye Fix App</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-flawless-flow-essential-macos-big-sur-video-editing-tools-for-2024/"><u>[Updated] Flawless Flow Essential MacOS Big Sur Video Editing Tools for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-step-by-step-the-ultimate-guide-to-borders-on-insta-pics-for-2024/"><u>[Updated] Step-By-Step The Ultimate Guide to Borders on Insta Pics for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-and-correcting-windows-security-faults-in-windows-11/"><u>Avoiding and Correcting Windows Security Faults in Windows 11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964475970-get-the-ultimate-cooling-with-lian-lis-lancool-iii-for-only-119-the-best-deal-on-pc-gear-today/"><u>Get the Ultimate Cooling with Lian Li's Lancool III for Only $119 – The Best Deal on PC Gear Today</u></a></li>
+<li><a href="https://windows11.techidaily.com/immediate-actions-for-resolving-directdraw-failures-on-windows-1011/"><u>Immediate Actions for Resolving DirectDraw Failures on Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-windows-11-efficiency-the-5-uptime-test-routines/"><u>Maximizing Windows 11 Efficiency: The 5 Uptime Test Routines</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-screen-disruptions-secure-smooth-play-on-w11-with-sonic-frontiers/"><u>Overcoming Screen Disruptions: Secure Smooth Play on W11 with Sonic Frontiers</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210374748-9781636767864-reclaim-your-power/"><u>Reclaim Your Power | Free Book</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/skyrocket-your-savings-snag-lenovo-ideapad-3i-for-just-300-less-at-walmart-limited-time-offer/"><u>Skyrocket Your Savings: Snag Lenovo IdeaPad 3I for Just $300 Less at Walmart - Limited-Time Offer!</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-fixing-steam-file-connections-issue/"><u>Strategies for Fixing Steam File Connections Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/taking-flight-with-windows-accessibility-novice-style/"><u>Taking Flight with Windows Accessibility, Novice Style</u></a></li>
+</ul></div>
 

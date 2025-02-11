@@ -1,7 +1,7 @@
 ---
 title: "Key Fixes for Creative Block: Photoshop Stuck in Windows 10/11"
-date: 2025-01-24T18:15:43.766Z
-updated: 2025-01-30T04:33:06.106Z
+date: 2025-02-07T19:36:37.713Z
+updated: 2025-02-10T16:51:41.585Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run the Adobe Photoshop App as an Administrator
 
  Some Photoshop users have said running that app with admin rights fixed it not opening. To do that, you’ll either need to temporarily select Photoshop to run with admin rights or set the app to always run as administrator.
@@ -33,13 +37,13 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 
 ![The Run this program as an administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-this-program-as-administrator3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Start Photoshop Without Plugins
 
  Third-party plugins can generate Photoshop startup issues. If you utilize Photoshop with plugins, try disabling them. To do so, hold the **Shift** when you click to run Photoshop. Then select **Yes** to skip the loading of optional plugins.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Terminate Background Adobe Processes
 
@@ -49,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 2. If Adobe Photoshop is within the **Apps** section of the **Processes** tab, right-click on it and select **End task**.  
 ![The End task option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/end-task-context-menu-option.png)
 3. Then scroll down through the **Background processes** section to see if there are any Adobe Photoshop processes there.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Adobe Photoshop processes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/adobe-photoshop-processes.jpg)
 4. Select Adobe Photoshop background processes and click **End task** to terminate them. Disable all Photoshop processes you can find.
@@ -66,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 2. Select the **Virus & threat** (shield) tab on Windows Security’s sidebar.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Next, click **Manage ransomware protection** to reach Windows Security’s Controlled folder access setting.  
@@ -75,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 
 ![The Controlled Folder Access setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/controlled-folder-access-option.jpg)
 5. Then try launching Adobe Photoshop with controlled folder access disabled.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Disable Your PC’s Display Adapter
 
@@ -87,9 +91,17 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 ![The Disable device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disable-device-option.jpg)
 5. Select **Yes** to disable the device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Launch Photoshop with the graphics adapter disabled.
 
  You can always re-enable the graphics adapter when you’re not utilizing Photoshop. To do so, right-click your graphics card in Device Manager and select Enable device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Clear Photoshop’s Font Cache
 
@@ -100,27 +112,15 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 ![The Roaming subfolder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-roaming-subfolder.jpg)
 3. Open the Adobe > Photoshop subfolders from the Roaming directory.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Right-click the CT Font Cache subfolder and select **Delete** (the trash can on Windows 11's context menu).  
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-delete-option4.jpg)
 5. Double-click the Recycle Bin desktop shortcut and select **Empty Recycle Bin**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Reinstall Photoshop
 
  Uninstalling and reinstalling Photoshop will replace that software’s files with fresh ones. So, this resolution could be the one you need if others here don’t work for you. You can remove Adobe Photoshop via Settings or the Control Panel, as covered within our guide for [uninstalling software packages on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/).
 
 ![The Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/uninstall-option-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  When you’ve uninstalled Photoshop, restart your PC. Then open the Adobe Creative Cloud app. Install Adobe Photoshop from the Creative Cloud app.
 
@@ -140,15 +140,24 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-love-in-motion-youtube-and-vimeos-top-9-premium-marriage-films/"><u>[New] Love in Motion YouTube & Vimeo's Top 9 Premium Marriage Films</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-dialogue-dynamics-secrets-to-great-screenwriting/"><u>2024 Approved Dialogue Dynamics Secrets to Great Screenwriting</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dive-into-technology-with-toms-equipment-insights/"><u>Dive Into Technology with Tom's Equipment Insights</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-guide-to-fixing-stereophonic-sound-failures-reconnect-your-audio-dimensions/"><u>DIY Guide to Fixing Stereophonic Sound Failures: Reconnect Your Audio Dimensions</u></a></li>
-<li><a href="https://windows11.techidaily.com/flushing-dns-on-windows-best-practices/"><u>Flushing DNS on Windows: Best Practices</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-y27s-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo Y27s Phones with/without a PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-batch-installs-windows-11-with-winstall/"><u>Mastering Batch Installs: Windows 11 with Winstall</u></a></li>
-<li><a href="https://windows11.techidaily.com/restoring-lost-thermal-management-directive-for-pcs/"><u>Restoring Lost Thermal Management Directive for PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-eliminate-windows-error-xc0f1103f-on-geforce/"><u>Steps to Eliminate Windows Error XC0F1103F on GeForce</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-for-a-smooth-netflix-experience-amidst-ui-800-3-glitches/"><u>Troubleshooting Tips for a Smooth Netflix Experience Amidst UI-800-3 Glitches</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-essential-steps-for-instagram-chat-novices/"><u>[New] 2024 Approved Essential Steps for Instagram Chat Novices</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-peak-visionary-suite-feedback/"><u>[New] 2024 Approved Peak Visionary Suite Feedback</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-exploring-high-dynamic-range-potentials-via-luminance-for-2024/"><u>[Updated] Exploring High Dynamic Range Potentials via Luminance for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-finest-tech-for-streaming-and-saving-your-video-conferences-for-2024/"><u>[Updated] The Finest Tech for Streaming and Saving Your Video Conferences for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/10-overlooked-windows-11-aesthetic-themes/"><u>10 Overlooked Windows 11 Aesthetic Themes</u></a></li>
+<li><a href="https://windows11.techidaily.com/5-ways-to-fix-the-remote-procedure-call-failed-error-in-windows/"><u>5 Ways to Fix the Remote Procedure Call Failed Error in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-practical-approach-to-windows-network-file-transfer-via-python/"><u>A Practical Approach to Windows Network File Transfer via Python</u></a></li>
+<li><a href="https://windows11.techidaily.com/christmas-tech-surprises-through-microsofts-marketplace/"><u>Christmas Tech Surprises Through Microsoft's Marketplace</u></a></li>
+<li><a href="https://windows11.techidaily.com/comprehensive-tutorial-for-extracting-dual-and-multi-archive-files/"><u>Comprehensive Tutorial for Extracting Dual and Multi-Archive Files</u></a></li>
+<li><a href="https://windows11.techidaily.com/converting-oculus-quest-2-to-windows-vr-compatibility-level/"><u>Converting Oculus Quest 2 to Windows VR Compatibility Level</u></a></li>
+<li><a href="https://windows11.techidaily.com/deterring-windows-auto-update-alerts/"><u>Deterring Windows Auto-Update Alerts</u></a></li>
+<li><a href="https://windows11.techidaily.com/disabling-factory-seal-on-windows-11/"><u>Disabling Factory Seal on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/discovery-of-four-cortana-succession-steps/"><u>Discovery of Four Cortana Succession Steps</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/grecian-lexicon-historical-journey-and-modern-day-importance/"><u>Grecian Lexicon: Historical Journey & Modern Day Importance</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-ace-2-pro-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Ace 2 Pro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-understanding-syma-x8c-sensor-technology/"><u>In 2024, Understanding Syma X8C Sensor Technology</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-skagens-falster-2-vs-apple-phones/"><u>In-Depth Analysis of Skagen's Falster 2 Vs. Apple Phones</u></a></li>
+<li><a href="https://facebook.techidaily.com/uncovered-no-more-erasing-your-facebook-trail/"><u>Uncovered No More: Erasing Your Facebook Trail</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Tecno Phantom V Fold? | Dr.fone</u></a></li>
 </ul></div>
 

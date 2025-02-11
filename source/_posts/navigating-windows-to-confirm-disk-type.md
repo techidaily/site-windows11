@@ -1,7 +1,7 @@
 ---
 title: Navigating Windows to Confirm Disk Type
-date: 2025-01-29T01:59:32.853Z
-updated: 2025-01-29T16:07:58.537Z
+date: 2025-02-09T07:44:24.369Z
+updated: 2025-02-11T07:25:00.614Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/59ebf54bbd2728b1cee67f80e126289c9f6737977
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Check if You Have an HDD or SSD Using the Task Manager
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/59ebf54bbd2728b1cee67f80e126289c9f6737977
 ![Check the Type of Drive You Have in the Performance Tab of Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/check-the-type-of-drive-you-have-in-the-performance-tab-of-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To view other details about the selected drive, such as its capacity, write speed, average response time, and more, simply choose **Disk 0** or **Disk 1**—the SSD drive you want to learn more about. Task Manager will show the other details about the drive you selected on the lower side of the screen.
@@ -48,11 +48,11 @@ thumbnail: https://thmb.techidaily.com/59ebf54bbd2728b1cee67f80e126289c9f6737977
 ![Check Other Details of the Storage Drive in the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/check-other-details-of-the-storage-drive-in-the-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Now You Know Which Drive You Have on Windows
@@ -71,15 +71,24 @@ thumbnail: https://thmb.techidaily.com/59ebf54bbd2728b1cee67f80e126289c9f6737977
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-capture-save-and-watch-5-best-pinterest-videos-tools-for-2024/"><u>[New] Capture, Save and Watch 5 Best Pinterest Videos Tools for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-vintage-racing-sims-our-favorite-five/"><u>[New] Vintage Racing Sims Our Favorite Five</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-why-cant-i-see-video-on-sony-a6400/"><u>[Updated] In 2024, Why Can’t I See Video on Sony A6400?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-tips-on-troubleshooting-frozen-obs-fullscreen-problem/"><u>[Updated] Tips on Troubleshooting Frozen OBS Fullscreen Problem</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/380p-hd-con-codici-hevc/"><u>380P- HD Con Codici HEVC</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-correct-the-isdonedll-error-in-windows-11/"><u>How to Correct the ISDone.dll Error in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-mail-error-0x80072746-in-windows/"><u>How to Fix the Mail Error 0X80072746 in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/personalizing-user-access-a-guide-for-standard-windows-accounts/"><u>Personalizing User Access: A Guide for Standard Windows Accounts</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-guide-to-the-synology-rt2600ac-longevity-meets-security/"><u>Ultimate Guide to the Synology RT2600ac - Longevity Meets Security</u></a></li>
-<li><a href="https://windows11.techidaily.com/unleashing-linux-power-within-windows-10/"><u>Unleashing Linux Power Within Windows 10</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-action-seekers-dream-the-ultimate-review-of-sj-cam-s6-for-2024/"><u>[New] Action Seeker's Dream The Ultimate Review of SJ-CAM S6 for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-the-ultimate-guide-to-theta-s-features/"><u>[Updated] In 2024, The Ultimate Guide to Theta S Features</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-virtual-versus-vital-gears-in-the-pursuit-of-perfect-pixels/"><u>[Updated] In 2024, Virtual Versus Vital Gears in the Pursuit of Perfect Pixels</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-exclusive-recording-gadgets-for-windows-10-gamers/"><u>2024 Approved Exclusive Recording Gadgets for Windows 10 Gamers</u></a></li>
+<li><a href="https://windows11.techidaily.com/declutter-your-pc-a-list-of-12-unnecessary-windows-tools/"><u>Declutter Your PC: A List of 12 Unnecessary Windows Tools</u></a></li>
+<li><a href="https://blog-min.techidaily.com/dvdanddvdfab-hd/"><u>DVDコピー&期限切れ対策を学ぶ：DVDFab HDデクリプターのインストールと使い方 - 日本語による詳細ガイド</u></a></li>
+<li><a href="https://windows11.techidaily.com/ensuring-a-smooth-transfer-of-your-windows-qbittorrent-settings/"><u>Ensuring a Smooth Transfer of Your Windows qBittorrent Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-hide-a-zip-archive-within-an-image-file-in-windows-11-and-11/"><u>How to Hide a ZIP Archive Within an Image File in Windows 11 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reactivate-grammarly-on-microsoft-devices/"><u>How To Reactivate Grammarly on Microsoft Devices</u></a></li>
+<li><a href="https://techidaily.com/mastering-the-digital-world-toms-hardware-experts-guide/"><u>Mastering the Digital World: Tom's Hardware Experts Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-to-fix-wins-unhandled-exception-blue-screen-problem/"><u>Methods to Fix Win's Unhandled Exception Blue Screen Problem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/patch-up-the-net-framework-on-windows-efficiently-max-156/"><u>Patch Up the .NET Framework on Windows Efficiently (Max 156)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premium-settings-for-virtual-broadcasts/"><u>Premium Settings for Virtual Broadcasts</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-shutdown-how-to-pause-windows-11/"><u>Quick Shutdown: How to Pause Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/rejuvenate-your-locked-shift-key-in-windows/"><u>Rejuvenate Your Locked Shift Key in Windows.</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-windows-update-error-0x8024800c/"><u>Tackling Windows Update: Error 0X8024800C</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-nokia-c210-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Nokia C210 IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unlocking-viewer-analysis-on-your-instagram-snapshots/"><u>Unlocking Viewer Analysis on Your Instagram Snapshots</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-how-to-reroute-your-onedrive-storage/"><u>Windows 11: How to Reroute Your OneDrive Storage</u></a></li>
 </ul></div>
 

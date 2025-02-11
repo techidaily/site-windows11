@@ -1,7 +1,7 @@
 ---
 title: Navigating Windows Errors in Google Nearby Share App
-date: 2024-08-15T15:26:58.635Z
-updated: 2024-08-16T15:26:58.635Z
+date: 2025-02-09T22:57:30.459Z
+updated: 2025-02-11T06:16:10.388Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/4e339c0438a311f0739fe8dd767b8fe136567e49f
 
  Reopen the app after this, and see if you can send and receive files as before.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Make Sure Bluetooth and Wi-Fi Are Turned On
 
  The Nearby Share app for Windows relies on Bluetooth and Wi-Fi to transfer files between your devices. If you have accidentally turned off either of these functionalities, your transfers will fail.
@@ -45,17 +49,11 @@ thumbnail: https://thmb.techidaily.com/4e339c0438a311f0739fe8dd767b8fe136567e49f
  You can quickly enable Bluetooth and Wi-Fi on your PC [using the Quick Settings panel on Windows](https://www.makeuseof.com/use-quick-settings-on-windows-11/). Additionally, you should connect both your Windows PC and Android phone to the same Wi-Fi network to improve the sharing experience.
 
 ![Quick Settings Panel in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/quick-settings-panel-in-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ## 4\. Bring Both Devices Closer
 
  Another thing you should ensure is that your Android phone is within **16 feet (5 meters)** of your Windows computer. The proximity of your devices directly impacts the quality of the connection. So, if you are experiencing slow transfer speeds or failed transfers, consider bringing the devices closer and try again.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Check the Device Visibility Settings
 
  If your Windows PC is not showing up as an available device when [sharing files from your Android phone](https://www.makeuseof.com/tag/transfer-files-android-pc/), you may have accidentally set your PC as hidden in the Nearby Share app.
@@ -63,9 +61,9 @@ thumbnail: https://thmb.techidaily.com/4e339c0438a311f0739fe8dd767b8fe136567e49f
  To change the device visibility settings in the Nearby Share app, click the **Device is hidden** drop-down menu and select one of the following options: **Receive from everyone**, **Receive from contacts**, or **Receive from your devices**. Following this, your PC should show up as an available device to nearby Android devices.
 
 ![Visibility Setting in Nearby Share App for Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/visibility-setting-in-nearby-share-app-for-windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Change the Default Save Location
@@ -80,11 +78,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 4. Select another location on your PC and click the **Change** button.  
 ![Change Default Save Location in Nearby Share App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/change-default-save-location-in-nearby-share-app-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After completing the above steps, try to receive files from an Android device.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Enable Notifications for the App
 
  Nearby Share for Windows may not alert you about file transfer requests if you have previously [turned off Windows app notifications](https://www.makeuseof.com/tag/selectively-disable-app-notifications-windows-10/). Follow these steps to change that:
@@ -93,8 +96,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Navigate to **System > Notifications**.
 3. Under **Notifications from apps and other senders**, locate the **Nearby Share from Google** and turn on the toggle next to it.  
 ![Enable Notifications for Google Nearby Share on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-notifications-for-google-nearby-share-on-windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Additionally, you should also ensure that the Do Not Disturb mode is turned off on your PC.
@@ -113,12 +117,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 6. Click the **Repair** option at the top.
 7. Select **Yes** if the User Account Control (UAC) prompt appears, and then follow the on-screen prompts to finish the repair.  
 ![Repair Google Nearby Share on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/repair-google-nearby-share-on-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 
  Restart the Nearby Share app after this and see if it works as expected.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Reinstall the Nearby Share App
 
@@ -129,22 +133,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. In the Programs and Features window that opens, locate **Nearby Share** on the list. Right-click on it and select **Uninstall**.
 4. Follow the on-screen instructions to remove the app.  
 ![Uninstall Google Nearby Share on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-google-nearby-share-on-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 
  Once you have uninstalled the app, be sure to remove any residual app files from your computer. If you need help with that, you can learn how to [eradicate leftovers from uninstalled software in Windows](https://www.makeuseof.com/windows-remove-leftovers-uninstalled-software/).
 
  Download Google’s [Nearby Share app](https://android.com/better-together/nearby-share-app/) and install it on your PC. Following that, it should work smoothly on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Start Using Google’s Nearby Share App on Windows Again
 
  Google's Nearby Share app simplifies the process of transferring files between Android and Windows devices. Occasionally, the app may give you problems and fail to work properly, but it’s nothing you can’t fix with the tips mentioned above.
@@ -153,8 +146,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  If Google’s Nearby Share is not working on your Windows PC, here's how you can fix it.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -162,5 +153,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ealthiest-web-workshops-hosts-for-2024/"><u>[New] Wealthiest Web Workshops Hosts for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-comparing-av1-and-vp9-which-is-more-advanced-in-2024/"><u>[Updated] Comparing AV1 & VP9 Which Is More Advanced, In 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-masterful-webcam-hacks-for-creative-sessions-for-2024/"><u>[Updated] Masterful Webcam Hacks for Creative Sessions for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/dealing-with-misentered-characters-in-windows-os/"><u>Dealing with Misentered Characters in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-reliability-of-your-windows-interface/"><u>Enhancing Reliability of Your Windows Interface</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/exploring-windows-11-essential-upgrades-for-2024/"><u>Exploring Windows 11 Essential Upgrades for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-honor-100-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Honor 100 Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-honor-magic-6-lite-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Honor Magic 6 Lite</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-seamless-share-youtube-videos-set-up-autoplay-on-fb/"><u>In 2024, Seamless Share YouTube Videos Set Up Autoplay on FB</u></a></li>
+<li><a href="https://windows11.techidaily.com/microsofts-surface-studio-2-a-step-towards-perfection/"><u>Microsoft's Surface Studio 2 - A Step Towards Perfection?</u></a></li>
+<li><a href="https://windows11.techidaily.com/prtscn-and-snipping-tool-link-in-windows-11-prevent-connection/"><u>PrtScn & Snipping Tool Link in Windows 11: Prevent Connection</u></a></li>
+</ul></div>
 

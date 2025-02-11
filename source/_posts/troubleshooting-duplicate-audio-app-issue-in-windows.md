@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Duplicate Audio App Issue in Windows
-date: 2025-01-29T05:46:18.264Z
-updated: 2025-01-30T01:00:26.285Z
+date: 2025-02-04T19:38:10.388Z
+updated: 2025-02-10T23:56:43.251Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Run the Windows Audio Troubleshooter
 
@@ -52,7 +56,7 @@ To disable Exclusive Mode for the audio device on Windows:
 4. Select the audio device in the**Sound** dialog and click the**Properties** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Open the**Advanced** tab in the**Properties** dialog.  
@@ -60,7 +64,7 @@ To disable Exclusive Mode for the audio device on Windows:
 6. Uncheck the **Allow application to take exclusive control of this device** and**Give exclusive mode application priority** options.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Click**Apply** and**OK** to save the changes.
@@ -85,14 +89,10 @@ To change the Windows Audio service Startup type:
 ![windows audio service startup type automatic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-audio-service-startup-type-automatic.jpg)
 6. If the service is not running, right-click on**Windows Audio** and select**Start** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Close the Services snap-in and restart your PC. After the restart, your audio device should start working again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Disable and Re-Enable the Sound Output Device
@@ -117,10 +117,6 @@ To uninstall your audio device on Windows:
 
  You may see a yellow exclamation mark on the uninstalled audio device. To reinstall the driver, click on**File** and select**Scan for hardware changes** . This should reinstall the sound device and driver. If not, restart your computer. As the system restarts, Windows will reinstall the missing audio device driver and restore sound on your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Perform a Driver Rollback
 
  If you have an external sound card and have installed an update, try a driver rollback. A new driver update can sometimes create more problems than it intends to fix. You can use the device driver rollback feature in Device Manager to undo the changes and reinstall the older version of the driver.
@@ -128,10 +124,6 @@ To uninstall your audio device on Windows:
  You can[roll back a driver using Windows Device Manager](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) . In Device Manager, expand the**Sound, Video, and Game Controllers** section. Next, access your external sound card properties to perform a rollback.
 
  If the Roll Back Driver option is greyed out, it means the option is unavailable for the selected device. In this instance, uninstall the existing audio device driver and download an older version of the driver from your sound card manufacturer's website. Your sound card manufacturer may also have a newer driver version available. If available, install the latest version and check for any improvements.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Install Pending Windows Updates
 
@@ -145,6 +137,10 @@ To uninstall your audio device on Windows:
 
 ![volume mixer windows 11 view audio applications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/volume-mixer-windows-11-view-audio-applications.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the issue persists, check if there is a third-party app conflict. You can use Volume Mixer to view applications accessing the audio devices and close the problematic app to fix the problem. Here’s how to do it.
 
 1. Press**Win + R** to open Run.
@@ -152,6 +148,10 @@ To uninstall your audio device on Windows:
 3. The**Application** column will show all the apps using your audio device.
 
  To close the app, open the system tray, right-click the app icon, and select**Quit** . You can also force close the app using Task Manager. If the issue persists, uninstall the problematic app to restore the audio to your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixing the Audio Device in Use By Another Application Error
 
@@ -172,16 +172,18 @@ To uninstall your audio device on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-cover-video-essentials-for-facebook-professionals/"><u>[New] 2024 Approved Cover Video Essentials for Facebook Professionals</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-the-essence-of-youtubes-new-shorts-investment-scheme/"><u>[New] In 2024, The Essence of YouTube's New Shorts Investment Scheme</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-comprehensive-android-lightroom-assessment/"><u>[Updated] Comprehensive Android Lightroom Assessment</u></a></li>
-<li><a href="https://win-news.techidaily.com/guia-paso-a-paso-para-realizar-copias-de-seguridad-de-tus-aplicaciones-en-windows-11-y-evitar-la-reinstalacion/"><u>Guía Paso a Paso Para Realizar Copias De Seguridad De Tus Aplicaciones en Windows 11 Y Evitar La Reinstalación</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-motorola-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Motorola</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-youtube-shorts-profits-and-content-creator-payments/"><u>In 2024, YouTube Shorts Profits & Content Creator Payments</u></a></li>
-<li><a href="https://windows11.techidaily.com/masterclass-combating-the-winscomrssvc-error-in-windows/"><u>Masterclass: Combating the WinscomrsSvc Error in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-art-of-portable-internet-access-via-windows-11/"><u>Mastering the Art of Portable Internet Access via Windows 11</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-realme-gt-neo-5-se-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Realme GT Neo 5 SE</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-fixers-handbook-for-recurring-rainmeter-glitches/"><u>The Ultimate Fixer's Handbook for Recurring Rainmeter Glitches</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-the-core-of-computer-configurations/"><u>Unlocking the Core of Computer Configurations</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-crafting-video-magic-with-imovie-directed-to-youtube/"><u>[New] 2024 Approved Crafting Video Magic with iMovie, Directed to YouTube</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-unlocking-the-power-of-visual-content-share-vids-on-facebook/"><u>[New] 2024 Approved Unlocking the Power of Visual Content Share Vids on Facebook</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-seamless-integration-facebook-livestream-and-roku-connected-tv-for-2024/"><u>[New] Seamless Integration Facebook Livestream & Roku Connected TV for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-prodigious-picture-editing-speedy-steps-for-windows-photo-app-users/"><u>[Updated] In 2024, Prodigious Picture Editing Speedy Steps for Windows Photo App Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-tempo-manipulating-video-speed-on-instagram/"><u>[Updated] The Art of Tempo Manipulating Video Speed on Instagram</u></a></li>
+<li><a href="https://win-tips.techidaily.com/comprehensive-guide-downloading-various-audio-formats-from-qobuz-mp3-flac-aac-and-more/"><u>Comprehensive Guide: Downloading Various Audio Formats From Qobuz - MP3, FLAC, AAC & More</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-writing-permission-failure-in-windows-10-and-11/"><u>Fixing Writing Permission Failure in Windows 10 & 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/from-megapixels-to-ai-mastery-the-remarkable-journey-and-future-promise-of-smartphone-photography-explored-by-zdnet/"><u>From Megapixels to AI Mastery: The Remarkable Journey and Future Promise of Smartphone Photography | Explored by ZDNET</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-network-error-0x800704b3-in-windows-11-and-11/"><u>How to Fix the Network Error 0X800704b3 in Windows 11 & 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-12t-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Xiaomi Redmi Note 12T Pro PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-efficient-translation-the-top-8-best-apps-reviewed/"><u>In 2024, Free, Efficient Translation The Top 8 Best Apps Reviewed</u></a></li>
+<li><a href="https://windows11.techidaily.com/stepwise-strategy-for-full-removal-of-wsl-on-windows-11/"><u>Stepwise Strategy for Full Removal of WSL on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-hidden-dangers-in-bot-made-win-11-codes/"><u>The Hidden Dangers in Bot-Made Win 11 Codes</u></a></li>
 </ul></div>
 

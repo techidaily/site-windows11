@@ -1,7 +1,7 @@
 ---
 title: "Guide: Adjusting Windows 11'S Safety & Security Filter"
-date: 2025-01-24T02:30:32.595Z
-updated: 2025-01-30T01:36:25.389Z
+date: 2025-02-06T06:47:16.237Z
+updated: 2025-02-11T05:03:35.063Z
 tags:
   - windows10
   - windows11
@@ -57,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/e9d9b71440a916b77a73a65e520d732ec704accfc
 ![App and browser control windows security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/app-and-browser-control-windows-security.jpg)
 5. Open the **App & browser control** tab in the left pane.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Click on **Reputation-based protection settings** under **Reputation-based protection.**  
 ![App and browser control windows security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/app-and-browser-control-windows-security.jpg)
 7. Here, you'll find four different SmartScreen filters you can individually enable or disable. If you want to turn off the filter for files and executables, turn off **Check apps and files** and **Potentially unwanted app blocking** filters. The other two filters are for **Microsoft Edge** and **Microsoft Store apps**.  
@@ -72,17 +68,9 @@ thumbnail: https://thmb.techidaily.com/e9d9b71440a916b77a73a65e520d732ec704accfc
 
  If any of the SmartScreen filters are grayed out with the message "this setting is managed by your administrator," you must contact your administrator or try another method.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. How to Disable SmartScreen for Microsoft Edge
 
 ![turn off smartscreen filter microsoft edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/turn-off-smartscreen-filter-microsoft-edge.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Microsoft Edge has a built-in option to enable and disable Microsoft Defender SmartScreen. Here's how to access it:
 
@@ -159,10 +147,19 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System
 ![create new value enable smartscreen registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/create-new-value-enablesmartscreen-registry-editor.jpg)
 5. To create a new value, right-click on the **System** key and select **New > DWORD (32-bit) Value.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Rename the value as **EnableSmartScreen.**
 2. Next, right-click on the **EnableSmartScreen** value and select **Modify**.  
 ![disable smartscreen registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-smartscreen-registry-editor.jpg)
 3. Type **0** in the **Value data** field and click **OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. To enable the SmartScreen filter, type **1** in the **Value data** field and click **O**K.
 5. Close the **Registry Editor** and restart your PC to apply the changes.
 
@@ -198,7 +195,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System
 7. Click **Apply** and **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Close Group Policy Editor and restart your PC.
@@ -235,6 +232,10 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System
 ![Open Windows Security Windows 11 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Open-Windows-Security-Windows-11-Settings.jpg)
 4. Next, click on **Open Windows Security.**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![App and browser control windows security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/app-and-browser-control-windows-security.jpg)
 5. Open the **App & browser control** tab in the left pane.
 
@@ -248,10 +249,6 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System
  When you have difficulty accessing the Windows Security window, refer to our troubleshooting guide to [fix a blank Windows security screen](https://www.makeuseof.com/windows-10-security-showing-blank-white-screen/).
 
  If any of the SmartScreen filters are grayed out with the message "this setting is managed by your administrator," you must contact your administrator or try another method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. How to Disable SmartScreen for Microsoft Edge
 
@@ -268,10 +265,6 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System
 
  Additionally, you can disable SmartScreen for Microsoft Edge using the Windows Security app and Registry Editor. Here’s how to do it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Disable Microsoft Edge SmartScreen Using Windows Security
 
  Microsoft Edge SmartScreen is for your browsing safety against phishing and malware sites and software you download. Unless an administrator manages it, you can turn it off.
@@ -281,13 +274,13 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System
 ![Run open Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/run-open-windows-security.jpg)
 3. Open the **App & browser control** tab in the left pane.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Next, click the **Reputation-based protection settings** link under **Reputation-based protection**.  
 ![smartscreen disabled Microsoft Edge Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/smartscreen-disabled-microsoft-edge-windows-security.jpg)
 5. Toggle the switch for **SmartScreen for Microsoft Edge** to turn off Microsoft Defender SmartScreen for the Edge browser.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Disable SmartScreen for Microsoft Edge Using Registry Editor
 
@@ -379,6 +372,10 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System
 
 8. Close Group Policy Editor and restart your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Manage the SmartScreen Filter in Windows
 
  While you can easily disable the SmartScreen filter in Windows, it is an extremely useful security tool. It can protect you against malicious files and programs and screen and block suspicious sites. It's an added layer of protection to Windows Defender and helps keep your PC safe. Make sure to enable the SmartScreen filter once the task is finished.
@@ -452,6 +449,10 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System
 ![smartscreen disabled Microsoft Edge Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/smartscreen-disabled-microsoft-edge-windows-security.jpg)
 5. Toggle the switch for **SmartScreen for Microsoft Edge** to turn off Microsoft Defender SmartScreen for the Edge browser.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Disable SmartScreen for Microsoft Edge Using Registry Editor
 
  Editing the registry entry is an alternative (but more complicated) method to disable the SmartScreen for the Edge browser permanently.
@@ -518,10 +519,6 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System
 1. Right-click on the **System** subkey and select **New > String Value**. Rename the value as **ShellSmartScreenLevel**.  
 ![registry editor create New String ShellSmartScreenLevel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/registry-editor-create-new-string-shellsmartscreenlevel.jpg)
 2. Next, right-click on **ShellSmartScreenLevel** and select **Modify**.;  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![registry editor shellsmartscreenlevel warn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/registry-editor-shellsmartscreenlevel-warn.jpg)
 3. Type **Warn** or **Block** depending on what you want the **SmartScreen Level** to do. Click **OK** to save the changes and exit Registry Editor.
@@ -586,12 +583,12 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System
 ![App and browser control windows security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/app-and-browser-control-windows-security.jpg)
 7. Here, you'll find four different SmartScreen filters you can individually enable or disable. If you want to turn off the filter for files and executables, turn off **Check apps and files** and **Potentially unwanted app blocking** filters. The other two filters are for **Microsoft Edge** and **Microsoft Store apps**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![windows security turn off smartscreen filter apps files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/windows-security-turn-off-smartscreen-filter-apps-files.jpg)
 8. If you want to turn off SmartScreen completely, disable all four filters.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you have difficulty accessing the Windows Security window, refer to our troubleshooting guide to [fix a blank Windows security screen](https://www.makeuseof.com/windows-10-security-showing-blank-white-screen/).
 
@@ -694,10 +691,6 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System
 ![registry editor shellsmartscreenlevel warn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/registry-editor-shellsmartscreenlevel-warn.jpg)
 3. Type **Warn** or **Block** depending on what you want the **SmartScreen Level** to do. Click **OK** to save the changes and exit Registry Editor.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. How to Turn the SmartScreen Filter On or Off Using the Group Policy Editor
 
  If you want to manage the SmartScreen filter for multiple computers at your organization, you can use the Group Policy Editor to do this task.
@@ -714,9 +707,18 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System
 ![configure Windows Defender Smartscreen Gpeditor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/configure-Windows-Defender-Smartscreen-Gpeditor.jpg)
 5. To disable **SmartScreen**, select **Disabled**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. If you want to enable SmartScreen, select **Not Configured** or **Enabled**.  
 ![configure Windows Defender Smartscreen Gpeditor disable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/configure-Windows-Defender-Smartscreen-Gpeditor-disable.jpg)
 7. Click **Apply** and **OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Close Group Policy Editor and restart your PC.
 
 ## Manage the SmartScreen Filter in Windows
@@ -738,14 +740,22 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-pioneering-macstreaming-avoiding-common-pitfalls-in-mixer/"><u>[New] 2024 Approved Pioneering MacStreaming Avoiding Common Pitfalls in Mixer</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-transform-your-imagination-into-visual-masterpieces-on-windows-10/"><u>[New] Transform Your Imagination Into Visual Masterpieces on Windows 10</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-spearheading-immersive-worlds-top-vr-minds/"><u>[Updated] Spearheading Immersive Worlds Top VR Minds</u></a></li>
-<li><a href="https://windows11.techidaily.com/change-to-dark-theme-in-the-windows-calculator/"><u>Change to Dark Theme in the Windows Calculator</u></a></li>
-<li><a href="https://article-tips.techidaily.com/cloud-price-wars-best-value-allocation-for-2024/"><u>Cloud Price Wars Best Value Allocation for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-hurry-hoarding-images-and-intonations/"><u>In 2024, Hurry Hoarding Images & Intonations</u></a></li>
-<li><a href="https://windows11.techidaily.com/lost-in-explore-reintroducing-your-sd-card/"><u>Lost in Explore: Reintroducing Your SD Card</u></a></li>
-<li><a href="https://windows11.techidaily.com/methodologies-for-clearing-windows-11s-f429f-app-crashes/"><u>Methodologies for Clearing Windows 11’S F429F APP Crashes</u></a></li>
-<li><a href="https://windows11.techidaily.com/recovering-from-remote-access-denied-issue/"><u>Recovering From Remote Access Denied Issue</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-x-racing-olympics-the-top-sections-of-22/"><u>[New] In 2024, X-Racing Olympics The Top Sections of '22</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-pixelated-persistence-selecting-the-ultimate-cam-for-extended-shots-for-2024/"><u>[New] Pixelated Persistence Selecting the Ultimate Cam for Extended Shots for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-convenient-techniques-for-customizing-your-own-short-videos/"><u>[Updated] Convenient Techniques for Customizing Your Own Short Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-setting-and-changing-personalized-iphone-tones/"><u>[Updated] Setting & Changing Personalized iPhone Tones</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-inaccuracy-of-power-usage-predictor-on-win-11-devices/"><u>Addressing Inaccuracy of Power Usage Predictor on Win 11 Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-the-no-connection-error-with-malwarebytes-in-win-1011/"><u>Addressing the “No Connection” Error with Malwarebytes in Win 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/batch-heic-to-jpeg-images-in-windows-environment/"><u>Batch Heic to Jpeg Images in Windows Environment</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-linux-with-windows-technologies-and-features/"><u>Boosting Linux With Windows Technologies and Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-user-not-valid-issues-in-windows-11-and-11/"><u>Bypassing 'User Not Valid' Issues in Windows 11 & 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capturing-the-moment-advanced-tips-for-iphone-silhouettes-for-2024/"><u>Capturing the Moment Advanced Tips for iPhone Silhouettes for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/check-if-your-computer-meets-new-win11-criteria/"><u>Check if Your Computer Meets New Win11 Criteria</u></a></li>
+<li><a href="https://windows11.techidaily.com/crafting-shortcuts-a-guide-for-winos-users/"><u>Crafting Shortcuts: A Guide for WinOS Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/cryptographic-concealment-stashing-zip-files-undetected-on-windows-pcs/"><u>Cryptographic Concealment: Stashing Zip Files Undetected on Windows PCs</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-xs-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone XS Max Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-ultimate-stardew-ginger-island-playbook/"><u>In 2024, The Ultimate Stardew Ginger Island Playbook</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-best-free-flv-video-editors-for-beginners-and-pros-alike/"><u>New In 2024, Best Free FLV Video Editors for Beginners and Pros Alike</u></a></li>
+<li><a href="https://common-error.techidaily.com/win10-reboots-without-user-input/"><u>Win10 Reboots Without User Input</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Using iCloud Keychain for iOS/Android Network Access
-date: 2025-01-26T21:39:48.473Z
-updated: 2025-01-29T18:30:38.338Z
+date: 2025-02-04T22:03:40.629Z
+updated: 2025-02-11T08:17:35.707Z
 tags:
   - windows10
   - windows11
@@ -23,15 +23,15 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Network File Sharing?
 
  When you want to share a file or folder with someone, sometimes it is faster to share it over your local network, rather than uploading to the cloud or looking for a USB flash drive. This process is called network file sharing. File Transfer Protocol (FTP) is also a valid option for file sharing remotely or on the local network but, it's much more of a hassle to set up than Windows Network Share.
 
  Windows Network Share utilizes the SMB protocol internally to make files, directories, or, entire drives available for read/write access for devices on the local network. While it's super easy and swift to set up, it's also a common target for adversaries. So, it's wise that you learn [how the SMB protocol works and some common SMB vulnerabilities](https://www.makeuseof.com/what-is-smb-protocol-and-what-are-its-risks/) to ensure that your network perimeter isn't breached.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Share a Windows Drive on Your Local Network
 
@@ -47,21 +47,25 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 ![sharing tab open in properties menu of a drive-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sharing-tab-open-in-properties-menu-of-a-drive-1.jpg)
 4. Click on **Advanced Settings** in the new pop-up menu, check the **Share this folder** box, and wait, it's not over yet. Now to prevent unsolicited access to your locally shared drives, click on **Permissions**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. In the new menu that pops up, click on **Add**. Yet another box should pop up. Here, type in the username of your user account. Use a dedicated user account only for network access or use your primary account's username and press **Enter**. You should find your name is present on the list of users with permission to the shared drive.  
 ![Adding a new user in the access group of the shared drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/adding-a-new-user-in-the-access-group-of-the-shared-drive.jpg)
 6. Finally, click on your account name, and in the **Permissions for <account name>** section, check the **Full Control** box and hit **Apply**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Adding permissions to the user account and confimring changes by pressing on Apply](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/adding-permissions-to-the-user-account-and-confimring-changes-by-pressing-on-apply.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That's all the steps to share your drive on the local network. However, if you run into any trouble, it's recommended you check out the [dedicated guide on enabling Windows Network Share](https://www.makeuseof.com/how-network-file-share-windows-10/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Access Your Windows Files From an Android Device
 
@@ -78,17 +82,13 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 
 ![Selecting SMB Protocol](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/selecting-smb-protocol.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Manually adding the device and account details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/manually-adding-the-device-and-account-details.jpg)
 
-![Access established to the drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/access-established-to-the-drive.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Access established to the drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/access-established-to-the-drive.jpg)
 
 Close
 
@@ -108,13 +108,13 @@ Close
 
 ![Connecting to the shared drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/connecting-to-the-shared-drive.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Typing in the IP of the Windows PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/typing-in-the-ip-of-the-windows-pc.jpeg)
 
 ![Typing in user account credentials](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/typing-in-user-account-credentials.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Access established to the drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/access-established-to-the-drive.jpeg)
 
@@ -140,20 +140,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-achieve-clear-and-smooth-video-outputs-with-these-logitech-camera-insights/"><u>[Updated] In 2024, Achieve Clear & Smooth Video Outputs with These Logitech Camera Insights</u></a></li>
-<li><a href="https://win-forum.techidaily.com/advanced-techniques-to-delete-secure-files-and-directories-in-modern-windows-os/"><u>Advanced Techniques to Delete Secure Files and Directories in Modern Windows OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/establishing-system-heat-control-on-windows-os/"><u>Establishing System Heat Control on Windows OS</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/traction-with-effective-video-descriptions-and-tagging/"><u>Gain Traction with Effective Video Descriptions and Tagging</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-bite-size-beats-characters-in-soundscape/"><u>In 2024, Bite-Size Beats Characters in Soundscape</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-samsung-galaxy-s24-ultra-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Samsung Galaxy S24 Ultra Through Google Earth?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-the-potential-of-closeup-cinematography/"><u>In 2024, Unlocking the Potential of Closeup Cinematography</u></a></li>
-<li><a href="https://windows11.techidaily.com/increase-speed-of-task-manager-view-on-windows-11/"><u>Increase Speed of Task Manager View on Windows 11</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/master-playlist-transfers-across-music-hubs-for-2024/"><u>Master Playlist Transfers Across Music Hubs for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-steam-connection-problems-rust-guide-for-windows-users/"><u>Mastering Steam Connection Problems: Rust Guide for Windows Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimizing-user-interaction-with-windows-narrators-shortcuts/"><u>Optimizing User Interaction with Windows Narrator's Shortcuts</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-rejuvenate-stuck-windows-start-button/"><u>Steps to Rejuvenate Stuck Windows Start Button</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/eginners-roadmap-to-free-youtube-intro-videos/"><u>The Beginner's Roadmap to Free YouTube Intro Videos</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-hdd-and-ssd-identification-on-windows/"><u>The Ultimate Guide to HDD & SSD Identification on Windows</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/vulkan-api-gameplay-recorded-a-deep-dive-into-developing-cutting-edge-applications/"><u>Vulkan API Gameplay Recorded: A Deep Dive Into Developing Cutting-Edge Applications</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-discovering-the-best-in-class-9-microphone-recorders-reviewed-for-2024/"><u>[New] Discovering the Best in Class 9 Microphone Recorders Reviewed for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-explore-the-world-of-frames-5-free-youtube-tips-for-you-for-2024/"><u>[Updated] Explore the World of Frames 5 Free YouTube Tips for You for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-secrets-of-filmo/"><u>[Updated] Secrets of Filmo</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-leveraging-free-luts-a-pathway-to-improved-obs-streaming/"><u>2024 Approved Leveraging Free LUTs A Pathway to Improved OBS Streaming</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoid-the-wow-breakdown-cure-windows-error-code-132/"><u>Avoid the WoW Breakdown: Cure Windows Error Code 132</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-your-windows-11-journey-top-6-multitasking-android-apps/"><u>Enhancing Your Windows 11 Journey: Top 6 Multitasking Android Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/missteps-in-ai-conversations-a-critical-look/"><u>Missteps in AI Conversations - A Critical Look</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-to-solving-disk-errors-uninitialized-scenarios/"><u>Quick Guide to Solving Disk Errors: Uninitialized Scenarios</u></a></li>
+<li><a href="https://windows11.techidaily.com/reversing-camera-apps-loss-of-recorded-images/"><u>Reversing Camera App's Loss of Recorded Images</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/the-ultimate-guide-to-vimeo-record-features/"><u>The Ultimate Guide to Vimeo Record Features</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-performance-of-the-netgear-nighthawk-ax8-as-a-next-gen-wi-fi-6-mesh-extender-solution/"><u>Unveiling the Performance of the Netgear Nighthawk AX8 as a Next-Gen Wi-Fi 6 Mesh Extender Solution</u></a></li>
 </ul></div>
 

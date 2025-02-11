@@ -1,7 +1,7 @@
 ---
 title: Lock Screen After How Long on Windows?
-date: 2025-01-28T03:57:05.338Z
-updated: 2025-01-30T07:46:04.808Z
+date: 2025-02-08T03:42:07.101Z
+updated: 2025-02-10T17:16:05.586Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Keep Your Windows PC Inaccessible While Your Gone
 
@@ -54,11 +50,19 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
 ![Machine Inactivity Limit Selected in Security Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/select-machine-inactivity-limit-in-security-options.jpg)
 5. Under the section**Machine will be locked after** , enter the time in seconds after which you want your PC to get locked automatically. This time is the time of machine inactivity or the time when your PC is idle. You can enter the time between**0** to**599940** seconds. For this tutorial, we'll enter**300 seconds** which is five minutes. Now click on**Apply** and then**OK** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Finally, close the Local Security Policy window and restart your computer for the change to take effect.
 
  Now, when you use your PC, you will experience that your PC will lock itself after your custom timer expires. And if someone tries to unlock your PC while you're gone, it'll ask them for your password, which should keep them at bay until you get back.
 
  If you ever want to reverse this action and not have your PC lock automatically, just open the**Interactive logon: Machine inactivity limit** policy in**Local Security Policy** . Then just change the time or seconds to**0** —this is the default setting and will not lock your PC automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Lock Your Windows PC After a Specific Amount of Inactivity via the Registry Editor
 
@@ -75,23 +79,19 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
 4. Click on the**System** key in the left pane and its components will open up in the right pane. Now scroll down to get to the**InactivityTimeoutSecs** DWORD.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Scroll to InactivityTimeoutSecs in System Key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/scroll-to-inactivitytimeoutsecs.jpg)
 5. Double-click on the**InactivityTimeoutSecs** DWORD to modify its value. Select**Decimal** under**Base** , and under**Value data** , enter a number between**0** to**599940** —this is the time in seconds after which your PC will get locked automatically. Like in the Local Security Policy method, we'll give it a time of**300 seconds** or five minutes. Now tap on**OK** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. In case you do not find the**InactivityTimeoutSecs** DWORD in your registry, you can create it. Right-click on the**System** key folder in the left pane or right-click on a space in the right pane of the**System** key. Select**New** , then select**DWORD (32-bit) Value** .  
 ![Create InactivityTimeoutSecs DWORD in System Key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/create-inactivitytimeoutsecs-dword.jpg)  
  A new value will be created in the right pane. Name it**InactivityTimeoutSecs** . Then press**Enter** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Now double-click on**InactivityTimeoutSecs** DWORD, and enter the time after which you want your PC to get locked.
 8. Finally, close the Registry Editor and restart your PC to apply the changes.
@@ -101,7 +101,7 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
  To stop your PC from getting locked automatically, modify the**InactivityTimeoutSecs** DWORD value in the Registry Editor by changing the time to**0** seconds.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Work Worry-Free on Your Windows PC With a Custom Time-Out Lock
@@ -125,20 +125,22 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-gigglesome-footage-downloader/"><u>[New] In 2024, Gigglesome Footage Downloader</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-echo-chambers-advanced-mac-audio-techniques/"><u>[Updated] 2024 Approved Echo Chambers Advanced Mac Audio Techniques</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-top-8-youtube-imagery-techniques-for-higher-engagement/"><u>[Updated] In 2024, Top 8 YouTube Imagery Techniques for Higher Engagement</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-authenticity-avoiding-copyright-infringement/"><u>ChatGPT Authenticity: Avoiding Copyright Infringement</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/crash-free-gaming-top-strategies-to-tackle-state-of-decay-2-bugs-this-year/"><u>Crash-Free Gaming: Top Strategies to Tackle State of Decay 2 Bugs This Year!</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-insights-access-and-customize-your-fax-cover-in-win11/"><u>Essential Insights: Access & Customize Your Fax Cover in Win11</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/farewell-to-frustration-cyberpunk-2077-glitch-fixed/"><u>Farewell to Frustration - Cyberpunk 2077 Glitch Fixed</u></a></li>
-<li><a href="https://windows11.techidaily.com/guidelines-to-fix-windows-alt-key-issues-49-characters/"><u>Guidelines to Fix Windows Alt Key Issues (49 Characters)</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-apple-iphone-6s-plus-could-not-be-activatedreached-issue-by-drfone-ios/"><u>How To Fix Apple iPhone 6s Plus Could Not Be Activated/Reached Issue</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-geforce-now-error-0xc0f1103f-in-windows-11-and-11/"><u>How to Fix the GeForce Now Error 0Xc0f1103f in Windows 11 & 11</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-spreading-smiles-building-a-solid-foundation-in-gif-humor/"><u>In 2024, Spreading Smiles Building a Solid Foundation in GIF Humor</u></a></li>
-<li><a href="https://windows11.techidaily.com/innovating-windows-11-six-imperative-modifications-for-an-enhanced-taskbar-experience/"><u>Innovating Windows 11: Six Imperative Modifications for an Enhanced Taskbar Experience</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-remedy-for-windows-10-print-failure-xffffff/"><u>Mastering the Remedy for Windows 10 Print Failure XFFFFFF</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-active-directory-printer-issues-on-microsofts-latest-os/"><u>Overcoming Active Directory Printer Issues on Microsoft's Latest OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/tailored-visuals-customizing-individual-monitors-with-win-1011-wallpapers/"><u>Tailored Visuals: Customizing Individual Monitors with Win 10/11 Wallpapers</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/comprendre-les-differences-recuperation-dimages-systeme-et-restauration-du-systeme-expliquees/"><u>« Comprendre Les Différences : Récupération D’images Système Et Restauration Du Système Expliquées »</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-best-9-screen-free-adventures-in-mobile-gaming-android-edition/"><u>[Updated] Best 9 Screen-Free Adventures in Mobile Gaming (Android Edition)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-guide-to-unwavering-visual-captures-for-2024/"><u>A Guide to Unwavering Visual Captures for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-the-features-introducing-googles-latest-innovation-a-multi-functional-smart-hub-and-streaming-device/"><u>Explore the Features: Introducing Google's Latest Innovation - A Multi-Functional Smart Hub and Streaming Device</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/fresh-perspectives-on-an-iconic-platformer-revitalized-ratchet-and-clank-examination/"><u>Fresh Perspectives on an Iconic Platformer: Revitalized Ratchet & Clank Examination</u></a></li>
+<li><a href="https://windows11.techidaily.com/gain-control-of-costs-windows-11-pro-key-advantages/"><u>Gain Control of Costs: Windows 11 Pro Key Advantages</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-11-pro-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone 11 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-vivo-x90s-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Vivo X90S</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-troubleshoot-windows-obs-studio-crashes/"><u>How to Troubleshoot Windows OBS Studio Crashes</u></a></li>
+<li><a href="https://windows11.techidaily.com/improve-notepad-on-win11-via-ingenious-sage/"><u>Improve Notepad on Win11 via Ingenious Sage</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-9-techniques-to-modify-windows-audio-interface/"><u>Master 9 Techniques to Modify Windows Audio Interface</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-onedrive-errors-efficient-steps-for-instant-folder-addition/"><u>Overcoming Windows OneDrive Errors - Efficient Steps for Instant Folder Addition</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixed-top-10-windows-glitch-solvers/"><u>Quick Fixed: Top 10 Windows Glitch Solvers</u></a></li>
+<li><a href="https://windows11.techidaily.com/secret-menu-additions-a-step-by-step-guide-in-win-10/"><u>Secret Menu Additions: A Step-by-Step Guide in Win 10</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-to-converting-dvd-media-files-into-mp4m4v-format-on-mac/"><u>Step-by-Step Guide to Converting DVD Media Files Into MP4/M4V Format on Mac</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-filmmakers-blueprint-to-panoramic-perfection-9-key-techniques/"><u>The Filmmaker's Blueprint to Panoramic Perfection 9 Key Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-is-the-windows-portable-executable-file-format/"><u>What Is the Windows Portable Executable File Format?</u></a></li>
 </ul></div>
 

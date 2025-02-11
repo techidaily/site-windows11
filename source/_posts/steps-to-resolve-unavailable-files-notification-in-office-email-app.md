@@ -1,7 +1,7 @@
 ---
 title: Steps to Resolve 'Unavailable' Files Notification in Office Email App
-date: 2025-01-23T01:15:57.104Z
-updated: 2025-01-30T03:07:16.480Z
+date: 2025-02-09T19:58:12.132Z
+updated: 2025-02-10T16:20:05.228Z
 tags:
   - windows10
   - windows11
@@ -43,11 +43,7 @@ thumbnail: https://thmb.techidaily.com/662c307b916403e88dc997e74395824da6bd2c653
 ![Disable Preview Handlers in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disable-preview-handlers-in-powertoys.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Enable Attachment Preview in Outlook
@@ -64,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/662c307b916403e88dc997e74395824da6bd2c653
 ![Attachment Handling in Outlook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/attachment-handling-in-outlook.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Change Outlook User Interface Settings
@@ -76,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/662c307b916403e88dc997e74395824da6bd2c653
 3. In the Outlook Options window, navigate to the**General** tab.
 4. Under the**User Interface Settings** section, select**Optimize for compatibility** option.  
 ![Optimize Outlook for Compatibility](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/optimize-outlook-for-compatibility.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart the Outlook app after this and check if the issue is still there.
 
@@ -105,7 +105,7 @@ To delete Outlook cache data on Windows, use these steps:
 ![Enable Microsoft Defender Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-microsoft-defender-firewall.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Modify Registry Files
@@ -134,7 +134,7 @@ To delete Outlook cache data on Windows, use these steps:
 ![Edit String in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/edit-string-in-registry.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Run the Microsoft Office Repair Tool
@@ -150,7 +150,7 @@ To delete Outlook cache data on Windows, use these steps:
  Wait for the process to finish and check if you can preview files. If you can't, repeat the above steps to perform an**Online Repair** . As suggestive of its name, this process does necessitate an active internet connection on your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Preview Your Outlook Attachments Again on Windows
@@ -174,16 +174,19 @@ To delete Outlook cache data on Windows, use these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-beyond-borders-with-virtual-reality-tours-for-2024/"><u>[Updated] Beyond Borders with Virtual Reality Tours for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-from-novice-to-pro-building-an-insta-highlight-showcase/"><u>2024 Approved From Novice to Pro Building an Insta Highlight Showcase</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/color-correcting-made-simple-with-adobe-ps-for-2024/"><u>Color Correcting Made Simple with Adobe PS for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-do-ai-systems-differ-from-conventional-pcs/"><u>How Do AI Systems Differ From Conventional PCs?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-13-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone 13 Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimizing-gameplay-and-frames-per-second-in-roblox-windows/"><u>Optimizing Gameplay & Frames per Second in Roblox Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-windows-11-hurdles-with-simple-tips/"><u>Overcoming Windows 11 Hurdles with Simple Tips</u></a></li>
-<li><a href="https://windows11.techidaily.com/reflect-on-one-misconception-about-cultural-relativism-mentioned-in-class-then-describe-how-you-would-address-this-misunderstanding-with-someone-from-a-diff22/"><u>Reflect on One Misconception About Cultural Relativism Mentioned in Class, Then Describe How You Would Address This Misunderstanding with Someone From a Different Culture.</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-preserving-original-clarity-in-mp4-conversions-from-f4v/"><u>Step-by-Step Guide: Preserving Original Clarity in MP4 Conversions From F4V</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-fast-launcher-downloads/"><u>The Ultimate Guide to Fast Launcher Downloads</u></a></li>
-<li><a href="https://win-help.techidaily.com/top-seleccion-de-software-para-copiar-windows-10-en-un-ssd-compacto/"><u>Top Seleccion De Software Para Copiar Windows 10 en Un SSD Compacto</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-vivo-x100-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/beyerdynamic-mmx-300-pro-assessment-excellent-audio-quality-with-simple-features/"><u>BeyerDynamic MMX 300 Pro Assessment - Excellent Audio Quality with Simple Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-remote-work-efficiency-expert-strategies-to-optimize-your-home-internet-connection-and-support-distance-learning-guidance-by-zdnet/"><u>Enhance Remote Work Efficiency: Expert Strategies to Optimize Your Home Internet Connection and Support Distance Learning - Guidance by ZDNET</u></a></li>
+<li><a href="https://windows11.techidaily.com/getting-started-terminal-and-quake-mode/"><u>Getting Started: Terminal & Quake Mode</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-unlock-windows-from-stuck-twilight-settings/"><u>How to Unlock Windows From Stuck Twilight Settings</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-proven-strategies-for-smooth-recording-in-google-meethangouts-platforms/"><u>In 2024, Proven Strategies for Smooth Recording in Google Meet/Hangouts Platforms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-the-illusion-exposing-nine-widespinas-misconceptions-about-bots/"><u>Inside the Illusion: Exposing Nine Widespinas Misconceptions About Bots</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/live-streaming-pro-manycam-for-seamless-video-broadcasts-and-remote-camera-functionality/"><u>Live Streaming Pro: ManyCam for Seamless Video Broadcasts and Remote Camera Functionality</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-device-functionality-in-windows-11/"><u>Optimize Device Functionality in Windows 11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/passfab-iphone-12-pro-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab iPhone 12 Pro Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-path-not-found-issue-in-windows-xp7/"><u>Resolving Path Not Found Issue in Windows XP/7</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-security-refreshing-windows-group-policies/"><u>Streamlining Security: Refreshing Windows Group Policies</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ing-tracks-a-list-of-popular-audio-for-cutting-edge-video-shorts/"><u>Trending Tracks A List of Popular Audio for Cutting-Edge Video Shorts</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-overcoming-printer-not-connected-problems/"><u>Win11: Overcoming Printer Not Connected Problems</u></a></li>
 </ul></div>
 

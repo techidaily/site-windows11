@@ -1,7 +1,7 @@
 ---
 title: Mastery of Windows Display Settings
-date: 2025-01-27T17:23:09.823Z
-updated: 2025-01-30T01:39:00.920Z
+date: 2025-02-06T00:17:39.972Z
+updated: 2025-02-11T06:58:54.607Z
 tags:
   - windows10
   - windows11
@@ -30,16 +30,12 @@ thumbnail: https://thmb.techidaily.com/214585cc6f04e9f51b09b50240658d386b443c6b6
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Change the Lock Screen Timeout Settings
 
  Let’s first take a look at how you can configure the Windows 10 lock screen timeout settings.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Use the Windows System Settings
 
@@ -53,10 +49,14 @@ thumbnail: https://thmb.techidaily.com/214585cc6f04e9f51b09b50240658d386b443c6b6
 
 ![Using Windows System Settings to Change the Lock Screen Timeout Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Using-Windows-System-Settings-to-Change-the-Lock-Screen-Timeout-Settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Apply the same settings for the **When plugged** in option on the right-hand side pane. From there, close the **system settings** and restart your device to save these changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Use the Edit Plan Settings (via the Control Panel)
@@ -76,10 +76,6 @@ thumbnail: https://thmb.techidaily.com/214585cc6f04e9f51b09b50240658d386b443c6b6
 
 ![Using the Edit Plan Settings to Change the Lock Screen Timeout Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Using-the-Edit-Plan-Settings-to-Change-the-Lock-Screen-Timeout-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Use the Advanced Power Options (via the Control Panel)
 
  You can also use the Control Panel's advanced power settings to configure the lock screen timeout settings.
@@ -94,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/214585cc6f04e9f51b09b50240658d386b443c6b6
 6. Select the **On battery** option, and then configure the lock screen timeout settings using the **arrow buttons**. From there, apply the same settings for the **Plugged in** option.
 
 ![Using the Advanced Power Options to Change the Lock Screen Timeout Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Using-the-Advanced-Power-Options-to-Change-the-Lock-Screen-Timeout-Settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you're done, click **Apply** and then click **OK**. Finally, close the **Control Panel** and then restart your device to save these changes.
 
@@ -119,13 +119,13 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
  Finally, restart your PC to save these changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Change the Screen Saver Timeout Settings
 
  Now, let's explore how you can change the screen saver timeout settings.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Use the System Settings
 
@@ -148,10 +148,6 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 ![Using the System Settings to Change the Screen Saver Timeout Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Using-the-System-Settings-to-Change-the-Screen-Saver-Timeout-Settings.jpg)
 
  Finally, press **Apply** and then press **OK** to save these changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Use the Local Group Policy Editor
 
@@ -180,6 +176,10 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
 ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Registry Editor can help you tweak the screen-saver timeout settings with ease. But it's quite a sensitive tool, so you should consider [backing up the Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) first before you proceed.
 
  Now, here's how to configure the screen-saver timeout settings with the Registry Editor:
@@ -198,11 +198,11 @@ HKEY_USERS\.DEFAULT\Control Panel\Desktop
 
 ![Clicking the "ScreenSaveTimeOut" value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/clicking-the-screensavetimeout-value.jpg)
 
- Now, type the screen saver timeout duration (in seconds) in the **Value data** box. The default option is usually **900** seconds (15 minutes), but you can enter your desired value. Finally, click **OK** and then restart your device to save these changes.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Now, type the screen saver timeout duration (in seconds) in the **Value data** box. The default option is usually **900** seconds (15 minutes), but you can enter your desired value. Finally, click **OK** and then restart your device to save these changes.
 
 ## Tweak Your Lock Screen Timeout Settings Without a Hassle
 
@@ -225,16 +225,19 @@ HKEY_USERS\.DEFAULT\Control Panel\Desktop
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-cheap-and-effective-action-cam-picks-top-6-list-for-2024/"><u>[Updated] Cheap and Effective ACTION Cam Picks – Top 6 List for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-the-power-of-perception-iconic-podcast-design-tips-for-2024/"><u>[Updated] The Power of Perception Iconic Podcast Design Tips for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-spotlight-strategies-brightening-your-visual-narrative/"><u>2024 Approved Spotlight Strategies Brightening Your Visual Narrative</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-oppo-find-x6-pro-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Oppo Find X6 Pro to PC? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-file-flow-effective-win11-disk-management/"><u>Mastering File Flow: Effective Win11 Disk Management</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-friend-connect-fixes-for-win11s-steam/"><u>Mastering Friend Connect Fixes for Win11's Steam</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-file-archives-cli-mastery-in-windows/"><u>Navigating File Archives: CLI Mastery in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/reclaiming-defaults-in-win11-command-prompt/"><u>Reclaiming Defaults in Win11 Command Prompt</u></a></li>
-<li><a href="https://windows11.techidaily.com/reimagine-windows-task-execution-via-enhanced-run-toolkit-implementation/"><u>Reimagine Windows Task Execution via Enhanced Run Toolkit Implementation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-personal-assistance-how-apples-latest-ai-innovation-will-transform-your-iphone-experience-by-learning-from-the-home-screen-insights-on-googl71/"><u>Revolutionizing Personal Assistance: How Apple's Latest AI Innovation Will Transform Your iPhone Experience by Learning From the Home Screen - Insights on Google</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/the-secret-to-loyal-sing-along-audiences-curating-unforgettable-karaoke-themes-with-pcdj/"><u>The Secret to Loyal Sing-Along Audiences: Curating Unforgettable Karaoke Themes with PCDJ</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-boost-traffic-to-your-videos-top-seo-practices-for-youtube-success-for-2024/"><u>[Updated] Boost Traffic to Your Videos Top SEO Practices for YouTube Success for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-unified-tint-harmonizer/"><u>[Updated] Unified Tint Harmonizer</u></a></li>
+<li><a href="https://windows11.techidaily.com/5-ways-to-fix-the-windows-family-safety-feature-not-working/"><u>5 Ways to Fix the Windows Family Safety Feature Not Working</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-installation-guide-hp-deskjet-3050-series-printer-drivers-for-windows-users/"><u>Easy Installation Guide: HP Deskjet 30,50 Series Printer Drivers for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-your-taskbar-windows-11-edition/"><u>Elevate Your Taskbar: Windows 11 Edition</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-where-to-find-premium-dj-audios-online/"><u>In 2024, Where to Find Premium DJ Audios Online</u></a></li>
+<li><a href="https://extra-information.techidaily.com/luminosity-lift-top-two-in-one-techniques-for-iphone-videos/"><u>Luminosity Lift Top Two-in-One Techniques for iPhone Videos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/r-rapidly-expertise-in-designing-valorant-thumbnails/"><u>Master Rapidly Expertise in Designing Valorant Thumbnails</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-through-windows-sound-settings-9-easy-methods-quickly/"><u>Navigate Through Windows' Sound Settings: 9 Easy Methods, Quickly</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-connectivity-hurdles-spotify-and-windows-11/"><u>Overcoming Connectivity Hurdles: Spotify & Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/revive-slow-windows-apps-ensure-robust-web-linkage/"><u>Revive Slow Windows Apps: Ensure Robust Web Linkage</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solutions-connectivity-issues-with-live-config-servers/"><u>Step-by-Step Solutions: Connectivity Issues with Live Config Servers</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/the-most-popular-anime-themed-tiktok-videos-of-all-time-for-2024/"><u>The Most Popular Anime-Themed TikTok Videos of All Time for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-users-beware-is-yourphoneexe-safe-to-use/"><u>Windows Users Beware: Is YourPhone.exe Safe to Use?</u></a></li>
 </ul></div>
 

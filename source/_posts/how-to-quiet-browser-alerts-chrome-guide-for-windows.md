@@ -1,7 +1,7 @@
 ---
 title: "How to Quiet Browser Alerts: Chrome Guide for Windows"
-date: 2024-08-15T15:26:53.300Z
-updated: 2024-08-16T15:26:53.300Z
+date: 2025-02-05T22:47:41.993Z
+updated: 2025-02-10T21:38:21.502Z
 tags:
   - windows10
   - windows11
@@ -30,13 +30,14 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
 4. Locate**Google Chrome** on the app list and disable the toggle next to it.  
 ![Disable Google Chrome Notifications on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Disable-Google-Chrome-Notifications-on-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Alternatively, you can change the way Chrome notifications appear on your Windows PC. You can disable notification banners, mute the alert sound, or stop them from showing up on the lock screen. To learn more about this, check our guide on [how to customize notifications on Windows](https://www.makeuseof.com/windows-11-customize-notifications/) .
 
 ![Customize Google Chrome Notifications on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Customize-Google-Chrome-Notifications-on-Windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Turn Off Notifications in Google Chrome
 
  You can also enable or disable Google Chrome notifications from its settings menu. Here are the steps for the same.
@@ -48,20 +49,19 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
 5. Scroll down to the**Permissions** section and click on**Notifications** .
 6. Under**Default behavior** , select**Don’t allow sites to send notifications** to disable Chrome notifications.  
 ![Disable Google Chrome Notifications From Browser Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Disable-Google-Chrome-Notifications-From-Browser-Settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Turn Off Notifications for Specific Sites in Google Chrome
 
  Not all notifications are useless. If you don't wish to disable Google Chrome notifications entirely, you can disable them for specific websites. To do so, open Google Chrome and navigate to the website for which you want to disable notifications. Click the**padlock icon** on the left of the website URL at the top. Then, toggle off the switch next to**Notifications** .
 
 ![Disable Google Chrome Notifications for a Specific Site](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Disable-Google-Chrome-Notifications-for-a-Specific-Site.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The method outlined above is ideal if you only want to disable notifications for one or two websites. However, if you want to turn off Chrome notifications for several websites, you can visit the notifications section in Chrome settings. Here are the steps you need to follow.
@@ -72,8 +72,9 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
 4. Click the**Add** button next to**Not allowed to send notifications** .
 5. Enter the URL of the website for which you want to turn off notifications and click on**Add** .  
 ![Disable Google Chrome Notifications for a Specific Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Disable-Google-Chrome-Notifications-for-a-Specific-Website.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you complete the above steps, the website will appear under the**Not allowed to send notifications** section.
@@ -81,8 +82,9 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
  If you've previously enabled notifications for any sites, you’ll find them under the**Allowed to send notifications** section. To disable notifications for those websites, click the**three-dot menu icon** next to the website URL and select**Block** .
 
 ![Block Google Chrome Notifications for a Specific Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Block-Google-Chrome-Notifications-for-a-Specific-Website.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Disabling Google Chrome Notifications on Windows
@@ -91,14 +93,11 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
 
  Like Google Chrome, other apps on your Windows computer can also annoy you with constant notifications. If you don't want to be bothered by those notifications, you can use Focus Assist on Windows to silence them.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -107,8 +106,26 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-the-social-media-marketers-handbook-tiktok-success-story/"><u>[New] In 2024, The Social Media Marketer's Handbook TikTok Success Story</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-the-ultimate-roadmap-to-crafting-memorable-tiktok-videos/"><u>[Updated] 2024 Approved The Ultimate Roadmap to Crafting Memorable TikTok Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-visual-tweets-the-panorama-of-threaded-video/"><u>[Updated] Visual Tweets The Panorama of Threaded Video</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-brand-protection-effective-techniques-for-instagram-watermarks/"><u>2024 Approved Brand Protection Effective Techniques for Instagram Watermarks</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-unlock-zoom-potential-3-secrets-to-superior-video-changes/"><u>2024 Approved Unlock Zoom Potential 3 Secrets to Superior Video Changes</u></a></li>
+<li><a href="https://windows11.techidaily.com/achieving-superior-desktop-images-in-windows-11/"><u>Achieving Superior Desktop Images in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/combatting-dxgierrordeviceremoved-in-modern-win-oses/"><u>Combatting DXGI_ERROR_DEVICE_REMOVED in Modern Win OSes</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-your-windows-security-incorporating-firewalls-into-context-menu/"><u>Enhance Your Windows Security: Incorporating Firewalls Into Context Menu</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-older-software-works-on-contemporary-windows-10/"><u>Ensuring Older Software Works on Contemporary Windows 10</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-honor-magic-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-see-someones-location-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, How to See Someones Location on Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-fixing-windows-11s-5ghz-connectivity/"><u>Mastering the Art of Fixing Windows 11'S 5GHz Connectivity</u></a></li>
+<li><a href="https://windows11.techidaily.com/multiply-your-efforts-mastering-multiple-directory-creation-in-win11plus11/"><u>Multiply Your Efforts: Mastering Multiple Directory Creation in Win11+11</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-failure-to-launch-on-windows-speech-recognition/"><u>Overcoming Failure to Launch on Windows Speech Recognition</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/step-by-step-scan-troubleshooting-for-optimal-performance-with-yl-software-support/"><u>Step-by-Step Scan Troubleshooting for Optimal Performance with YL Software Support</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-windows-backup-configuration-recollection/"><u>Steps for Windows Backup Configuration Recollection</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-the-msvcr110dll-absence-a-solution-walkthrough/"><u>Tackling the Msvcr110.dll Absence: A Solution Walkthrough</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-step-by-step-ebook-mastery-a-comprehensive-calibre-tutorial/"><u>Ultimate Step-by-Step Ebook Mastery: A Comprehensive Calibre Tutorial</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-hello-biometrics-endangered-by-recent-cyberattacks/"><u>Windows Hello Biometrics Endangered by Recent Cyberattacks</u></a></li>
+</ul></div>
 

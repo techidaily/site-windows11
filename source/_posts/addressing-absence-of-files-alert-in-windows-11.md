@@ -1,7 +1,7 @@
 ---
 title: Addressing Absence of Files Alert in Windows 11
-date: 2024-08-15T15:24:30.422Z
-updated: 2024-08-16T15:24:30.422Z
+date: 2025-02-07T17:59:31.765Z
+updated: 2025-02-11T02:53:42.907Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/9452709ea5278a965307bf042e7d92a12b881e1c8
 
  As such, you should run a Check Disk (CHKDSK) scan to check for and address hard disk drive file system errors detected. To do so, follow the guidelines within our [how-to run a CHKDSK scan](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10) article.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Uninstall the ASUS Data Security Manager Software
 
  Uninstalling the ASUS Data Security Manager software is one of the most widely confirmed fixes for the “there are no more files” error.
@@ -39,20 +43,19 @@ thumbnail: https://thmb.techidaily.com/9452709ea5278a965307bf042e7d92a12b881e1c8
 1. Press **Win + R** and type "services.msc" inside Run, then select **OK** to [open and access Services](https://www.makeuseof.com/windows-11-open-services-app/).
 2. If you can find an ADSM service, then ASUS Data Security Manager is probably installed on your PC. Double-click the ADSM (ASUS Data Security Manager) service to access options for it.  
 ![The Services app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-services-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Click **Stop** to turn off the ADSM service.
 4. Save your service settings by clicking **Apply** and **OK**.
 5. Once done, remove the ASUS Data Security Manager using any method in our [ways to uninstall Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) guide.  
 ![The Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-windows-uninstaller.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Perform a Clean Boot
 
 ![The MSConfig app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-system-configuration-app.jpg)
@@ -63,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/9452709ea5278a965307bf042e7d92a12b881e1c8
 
  If it doesn't, it means there is another third-party app on your system causing this error. Try deleting any recent apps you've installed and see if that fixes the problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Roll Back Windows With a System Restore
 
  The adverse effects of some Windows updates have been blamed for causing the “there are no more files” error. In fact, some users report this issue occurring after applying updates. You could try [manually uninstalling your PC’s most recent Windows update](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) to see if that makes a difference.
@@ -72,13 +79,7 @@ thumbnail: https://thmb.techidaily.com/9452709ea5278a965307bf042e7d92a12b881e1c8
  So, try [utilizing System Restore to revert Windows](https://www.makeuseof.com/use-system-restore-windows/) to a restore point that predates the “there are no more files” error on your PC if you can.
 
 ![The System Restore window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/system-restore-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Perform a Windows Factory Reset
 
  This reset solution will restore your Windows PC to its original factory state. If none of the potential solutions suggested above work for you, resetting Windows is the last thing you should try. Users confirm applying a factory reset fixes the “there are no more files” error.
@@ -88,15 +89,14 @@ thumbnail: https://thmb.techidaily.com/9452709ea5278a965307bf042e7d92a12b881e1c8
 ![The Keep my files option in the Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-keep-my-files-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Save Your Files Again on Windows
 
  Try applying one or more of the potential fixes above for the “there are no more files” error to find one that works on your PC. You can also try troubleshooting that issue with some of the best freely available repair tools for Windows. With the “there are no more files” error fixed, you can save all the files as required again on your Windows PC.
 
  The “there are no more files” error is quite a serious issue that users can’t exactly ignore. It typically arises on ASUS Windows PCs but isn’t necessarily restricted to them. If you're facing this error, here is how you can fix the “there are no more files” error.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -105,5 +105,19 @@ thumbnail: https://thmb.techidaily.com/9452709ea5278a965307bf042e7d92a12b881e1c8
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-top-8-premium-and-gratis-mobile-video-mosaic-tools-for-android/"><u>[New] Top 8 Premium & Gratis Mobile Video Mosaic Tools for Android</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-engineering-endgame-echoes/"><u>[Updated] 2024 Approved Engineering Endgame Echoes</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-composing-correspondents-curtains/"><u>[Updated] Composing Correspondents' Curtains</u></a></li>
+<li><a href="https://win11.techidaily.com/10-solutions-when-wifi-detection-fails-in-windows-11/"><u>10 Solutions When Wifi Detection Fails in Windows 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-nokia-g310-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Nokia G310</u></a></li>
+<li><a href="https://facebook.techidaily.com/essential-factors-pre-deletion-reflections-for-a-social-media-break/"><u>Essential Factors: Pre-Deletion Reflections for a Social Media Break</u></a></li>
+<li><a href="https://windows11.techidaily.com/modifying-failed-login-lockout-timer-in-windows-1011/"><u>Modifying Failed Login Lockout Timer in Windows 10/11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mozilla-thunderbird-52/"><u>Mozilla Thunderbird 52</u></a></li>
+<li><a href="https://windows11.techidaily.com/strike-balance-not-conflict-choose-one-antivirus-on-your-windows-pc/"><u>Strike Balance, Not Conflict: Choose One Antivirus on Your Windows PC</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-iphone-x-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled iPhone X Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-your-windows-10-past-insights-on-activity-logs/"><u>Unlocking Your Windows 10 Past: Insights on Activity Logs</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-personalize-with-direct-drawing/"><u>Windows 11: Personalize with Direct Drawing</u></a></li>
+</ul></div>
 

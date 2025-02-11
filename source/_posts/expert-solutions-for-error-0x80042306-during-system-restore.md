@@ -1,7 +1,7 @@
 ---
 title: Expert Solutions for Error 0X80042306 During System Restore
-date: 2024-08-15T15:28:52.402Z
-updated: 2024-08-16T15:28:52.402Z
+date: 2025-02-09T20:22:37.824Z
+updated: 2025-02-10T18:44:08.588Z
 tags:
   - windows10
   - windows11
@@ -36,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/de2b8c65401e9876b1b1a5fbf84a14916f9f22a18
 
  Once the changes are made, check if you can now create a restore point without any issues.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ## 2\. Restart the Volume Shadow Copy Service
 
  You might also be facing the problem if the Volume Shadow Copy service is disabled or simply not functioning properly.
@@ -51,19 +48,17 @@ thumbnail: https://thmb.techidaily.com/de2b8c65401e9876b1b1a5fbf84a14916f9f22a18
 2. Type "services.msc" in Run and click**Enter** .
 3. In the services window, scroll down to locate the**Volume Shadow Copy** service and right-click on it.  
 ![Volume Shadow Copy service in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/volume-shadow-copy.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 4. Choose**Properties** from the context menu.
 5. Now, click on the**Stop** button, wait for a few seconds, and hit**Start** again.
 6. Make sure the Startup type is set to**Automatic** .  
 ![Start the VSS service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/start-vss-service.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 7. Finally, click**Apply** \>**OK** to save the changes.
 
  Do the same for the Windows Backup service and check if the issue is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Re-Register VSS Components
 
@@ -85,8 +80,9 @@ msxml3.dllregsvr32 /s msxml4.dllvssvc /registernet start swprvnet start vss`
  If an issue within the VSS components was causing the problem, restarting the components should fix it.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Create a Restore Point in Safe Mode
 
  In some cases, a conflicting background process can also prevent the System Restore utility from creating a restore point successfully. The best way to ensure there are no applications or programs in the background interrupting the functionality of System Restore, try creating a restore point in Safe Mode.
@@ -100,18 +96,22 @@ Here is how you can boot in Safe Mode:
 3. Choose**Minimal** and click on**Apply** \>**OK** to save the changes.  
 ![Minimal mode of Safe Boot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/msconfig-boot-safe-mode-minimal.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can now restart your computer and upon reboot, you should enter the Safe Mode automatically. Try recreating a restore point and check if the problem is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Scan the System For Corruption Errors
 
 ![Running Sfc scan in CMD window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/running-sfc-scan.jpg)
+
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The System Restore utility itself might be dealing with a corruption error, which is preventing it from functioning properly.
@@ -120,23 +120,17 @@ Here is how you can boot in Safe Mode:
 
  DISM, on the other hand, works by repairing corrupt system images. We have a guide on [how to use SFC and DISM in Windows](https://www.makeuseof.com/windows-built-in-repair-tools/) which you can refer to, to perform the steps correctly.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ## System Restore Back On Track
 
  The System Restore utility in Windows is a powerful tool that can save you from losing important data in case of unexpected system issues. That said, it can be annoying if you cannot create a restore point easily, especially when you are trying to do it before performing a critical action.
 
  By following the methods outlined in this guideline, you can diagnose the error and take necessary steps to resolve it. We recommend making sure all the relevant services stay enabled, and your system is up-to-date to avoid any such issues in the future.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -145,8 +139,22 @@ Here is how you can boot in Safe Mode:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/eme-making-maven-the-tale-of-jake-pauls-youtube-triumph/"><u>[New] Meme-Making Maven The Tale of Jake Paul's Youtube Triumph</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-infinix-hot-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/outlook6/"><u>頻繁にOutlookが固まったり無反応だったりする！これらの状況に対処するための6つの方法を学んでみてはいかが？</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-systematic-approach-to-undoing-windows-programs-changes/"><u>A Systematic Approach to Undoing Windows Programs Changes</u></a></li>
+<li><a href="https://windows11.techidaily.com/configuring-optimal-window-size-on-windows-11/"><u>Configuring Optimal Window Size on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/cutting-edge-windows-photo-management-software/"><u>Cutting-Edge Windows Photo Management Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/guidelines-to-address-missing-windows-1011-search-data/"><u>Guidelines to Address Missing Windows 10/11 Search Data</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-vivo-y77t-frp-by-drfone-android/"><u>How Can We Bypass Vivo Y77t FRP?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-infinix-smart-7-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Infinix Smart 7 Phone Screen?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-logitech-g29-controller-drivers-for-win-108-users/"><u>Latest Logitech G29 Controller Drivers for Win 10/8 Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigate-through-auto-gpts-usual-setup-snags-6-insights-and-remedies/"><u>Navigate Through Auto-GPT's Usual Setup Snags - 6 Insights & Remedies</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-snipeater-glitches-fix-strategies-here/"><u>Navigating SnipEater Glitches: Fix Strategies Here</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-11-for-spatial-aural-enhancement/"><u>Navigating Windows 11 for Spatial Aural Enhancement</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-top-8-masterful-audio-designs-in-film-for-2024/"><u>New Top 8 Masterful Audio Designs in Film for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-makes-users-grumble-in-windows-11/"><u>What Makes Users Grumble in Windows 11?</u></a></li>
+</ul></div>
 

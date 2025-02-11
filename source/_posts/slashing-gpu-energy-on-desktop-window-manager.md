@@ -1,7 +1,7 @@
 ---
 title: Slashing GPU Energy on Desktop Window Manager
-date: 2024-08-15T15:29:17.389Z
-updated: 2024-08-16T15:29:17.389Z
+date: 2025-02-10T02:18:01.977Z
+updated: 2025-02-11T06:44:41.555Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/1441934e237c52f497a6fd0ab6f056661ecffacc0
 
  However, the DWM can occasionally consume significant GPU resources, affecting the overall system performance. If you find that the Desktop Window Manager consumes a lot of GPU resources, try the solutions below to troubleshoot the problem for good.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Causes the Desktop Windows Manager's High GPU Usage on Windows?
 
  Before getting into the solutions, it's crucial to understand the root causes behind this issue. While the Desktop Window Manager (DWM) may consume a significant amount of GPU resources for various reasons, the most common ones are listed below:
@@ -30,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/1441934e237c52f497a6fd0ab6f056661ecffacc0
 
  Now that you know the potential culprits, let's check out the methods to rectify them.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Update Your Graphics Driver
 
  We cannot stress enough the importance of regularly updating your graphics driver. An updated graphics driver ensures your system remains immune to graphics-related issues and provides you access to the latest features from your GPU manufacturer.
@@ -43,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/1441934e237c52f497a6fd0ab6f056661ecffacc0
 
 ![Check for updates option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-for-updates-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Alternatively, you have the option to directly download the latest update for your graphics driver from the manufacturer's website.
 
 * [Download Intel Drivers](https://downloadcenter.intel.com/)
@@ -51,29 +56,18 @@ thumbnail: https://thmb.techidaily.com/1441934e237c52f497a6fd0ab6f056661ecffacc0
 
  Upon successfully updating the graphics driver, restart your computer and check if the DWM GPU consumption is back to normal.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Turn Off Hardware-Accelerated GPU Scheduling
 
 ![GPU Scheduling option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/gpu-scheduling-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hardware-accelerated GPU scheduling is a handy Windows feature that reduces the CPU workload by allocating graphics-intensive tasks to the GPU. While this feature typically operates well, there are instances when it might lead to unintended consequences, particularly on systems with weak GPUs.
 
  Enabling GPU scheduling on a weak GPU could result in latency issues and high GPU consumption by various processes, including the Desktop Window Manager. Consequently, you can [disable GPU scheduling](https://www.makeuseof.com/hardware-accelerated-gpu-scheduling-disable-windows/) if you face graphics-related problems on your PC subsequent to its activation.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Configure the NVIDIA Control Panel Settings
 
  Desktop Windows Manager's high GPU consumption issue also stems from your NVIDIA GPU's incorrect power management settings. To resolve this, you'll need to access the NVIDIA Control Panel and use it to configure your GPU's power consumption. Here’s how to do it:
@@ -84,30 +78,14 @@ thumbnail: https://thmb.techidaily.com/1441934e237c52f497a6fd0ab6f056661ecffacc0
 ![High-performance NVIDIA processor option in NVIDIA control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/high-performance-nvidia-processor-option.jpg)
 4. Click the drop-down icon next to **Power management mode** and choose **Prefer maximum performance**.  
 ![Prefer maximum performance option in NVIDIA Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/prefer-maximum-performance-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 5. Click **Apply.**
 
  Next, restart your computer and check for the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Adjust the Resolution and Scaling Settings
 
  Windows allows you to manually configure your display resolution and scaling settings. But sometimes configuring these settings to more than the recommended value can cause high GPU usage.
@@ -131,11 +109,12 @@ Key features:
 
 ![Use HDR option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/use-hdr.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After that, your display will momentarily go blank. Subsequently, you'll observe a shift in display color, indicating that you've successfully disabled HDR.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Optimize Your Visual Effect Settings
 
  As aforementioned, the Desktop Window Manager oversees the visual aspects of your computer's interface. But, if your computer's visual effects settings are not correctly configured, the Desktop Window Manager might consume a significant amount of GPU resources.
@@ -153,8 +132,9 @@ Key features:
  Now, monitor your computer's GPU consumption. If it remains high, there's a possibility that corruption in important system files is causing the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Run an SFC Scan
 
  It’s common for Windows files to become corrupted due to malware attacks or sudden system crashes. Unfortunately, corruption in these system files not only results in data loss but also disrupts the regular functioning of your computer.
@@ -164,9 +144,6 @@ Key features:
  SFC, or System File Checker, is a Windows built-in utility that looks for and repairs current system files. To run an SFC scan, open Command Prompt as an administrator (see how to [launch Command Prompt with administrative rights](https://www.makeuseof.com/windows-run-command-prompt-admin/)), type **sfc /scannow**, and press **Enter**.
 
 ![Sfc scan in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sfc-scan.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After the scan is complete, restart your computer, and you will see that you’re no longer facing the Desktop Window Manager high GPU consumption issue.
 
@@ -178,8 +155,6 @@ Key features:
 
  However, the DWM can occasionally consume significant GPU resources, affecting the overall system performance. If you find that the Desktop Window Manager consumes a lot of GPU resources, try the solutions below to troubleshoot the problem for good.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -187,5 +162,21 @@ Key features:
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-dash.techidaily.com/update-lenovo-t450-drivers-quickly-and-easily/"><u>[UPDATE] Lenovo T450 Drivers | Quickly & Easily</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-finding-your-ideal-screen-recorder-obs-or-fraps/"><u>[Updated] 2024 Approved Finding Your Ideal Screen Recorder OBS or Fraps?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-heard-words-spoken-ideas-no-price/"><u>[Updated] Heard Words, Spoken Ideas – No Price</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-transform-your-youtube-channel-expert-tips-for-adding-chapter-sections/"><u>2024 Approved Transform Your YouTube Channel Expert Tips for Adding Chapter Sections</u></a></li>
+<li><a href="https://windows11.techidaily.com/breach-ethernet-speed-barriers-past-windows-100mbps-ceiling/"><u>Breach Ethernet Speed Barriers: Past Windows' 100Mbps Ceiling</u></a></li>
+<li><a href="https://win-blog.techidaily.com/diagnosing-and-fixing-lack-of-sound-when-sharing-screens-through-discord/"><u>Diagnosing and Fixing Lack of Sound When Sharing Screens Through Discord</u></a></li>
+<li><a href="https://windows11.techidaily.com/from-oops-to-on-point-8-fixes-for-pink-desktop-displays/"><u>From Oops to On Point: 8 Fixes for Pink Desktop Displays</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-poco-x5-easily-by-drfone-android/"><u>In 2024, How To Unlock a Poco X5 Easily?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/nsv-da-video-a-mp4-in-un-clic-con-lapplicazione-online-di-movavi-disponibile-gratuitamente/"><u>NSV Da Video a MP4 in Un Clic Con L'applicazione Online Di Movavi, Disponibile Gratuitamente!</u></a></li>
+<li><a href="https://windows11.techidaily.com/redefining-user-experience-the-changing-landsinas-of-w10-and-w11/"><u>Redefining User Experience: The Changing Landsinas of W10 & W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-overcome-windows-memory-errors/"><u>Steps to Overcome Windows Memory Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-eliminate-windows-unknown-value-warning/"><u>Strategies to Eliminate Windows Unknown Value Warning</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-comprehensive-handbook-for-recording-calls-for-2024/"><u>The Comprehensive Handbook for Recording Calls for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/ultimate-speech-logging-for-mac-our-top-5-list-unveiled-for-2024/"><u>Ultimate Speech Logging for Mac Our Top 5 List Unveiled for 2024</u></a></li>
+</ul></div>
 

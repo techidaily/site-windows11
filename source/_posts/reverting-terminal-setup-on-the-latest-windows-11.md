@@ -1,7 +1,7 @@
 ---
 title: Reverting Terminal Setup on the Latest Windows 11
-date: 2025-01-28T08:31:52.020Z
-updated: 2025-01-30T05:54:11.620Z
+date: 2025-02-09T21:51:24.481Z
+updated: 2025-02-11T04:50:48.029Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/b55c24263d5a9a2d0075e95ed2cba33cc134d0a45
 
  Let's now move to the below sections and see how it can be reset.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Reset Windows Terminal Settings by Clearing JSON Files
 
  In order to reset the settings back to the original defaults, you will need to delete the settings.json file. Here's how to do it.
@@ -44,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/b55c24263d5a9a2d0075e95ed2cba33cc134d0a45
 4. If you're asked which app to use to open the file, then double-click on**Notepad** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. On the next page, select all the contents and**Delete** them.
@@ -53,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/b55c24263d5a9a2d0075e95ed2cba33cc134d0a45
  Next time you open the app, a new configuration with all the default settings will be created automatically.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Reset Windows Terminal Settings Using Command Prompt
@@ -71,7 +75,7 @@ del /f /s /q /a "%LocalAppData%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe
 4. You can now exit the command prompt.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Reset Windows Terminal Settings Using Windows PowerShell
@@ -85,10 +89,6 @@ Remove-Item -Path "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d
 
 3. Press**Enter** to execute the command.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Reset Windows Terminal Settings From File Explorer
 
  If you don't prefer the command line process, you can use Windows File Explorer to reset the settings. In this way, the Terminal will be reset to its default settings, and you can continue using it. Here's how to do it:
@@ -99,7 +99,7 @@ Remove-Item -Path "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d
 %LocalAppData%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. On the next page, right-click on**settings.json** and select**Delete** from the context menu.
@@ -125,20 +125,22 @@ Remove-Item -Path "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-diy-movie-making-on-youtube-and-comparable-creative-tools/"><u>[New] In 2024, DIY Movie Making on YouTube & Comparable Creative Tools</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-mac-ready-detailed-screenflow-review-with-v4/"><u>[Updated] In 2024, Mac Ready Detailed ScreenFlow Review with V4</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-a-critical-look-at-the-action-focused-polaroid-cubeplus/"><u>2024 Approved A Critical Look at the Action-Focused Polaroid Cube+</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/anticipated-moves-for-apple-to-outshine-competitors-microsoft-and-google-in-next-years-wwdc-showcase/"><u>Anticipated Moves for Apple to Outshine Competitors Microsoft and Google in Next Year's WWDC Showcase</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-steams-read-only-mode-for-library-folders-in-win-11/"><u>Fixing Steam's Read-Only Mode for Library Folders in Win 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-unresponsive-microphone-issue-in-zoom-on-windows-11-and-10/"><u>Fixing the Unresponsive Microphone Issue in Zoom on Windows 11 and 10</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-manage-windows-11s-online-scanning-option/"><u>How to Manage Windows 11'S Online Scanning Option</u></a></li>
-<li><a href="https://windows11.techidaily.com/immersive-soundwaves-dolby-atmos-in-windows-1011/"><u>Immersive Soundwaves: Dolby Atmos in Windows 10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/make-every-day-better-with-these-6-must-have-android-apps-for-window-11/"><u>Make Every Day Better with These 6 Must-Have Android Apps for Window 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-art-of-rectifying-wow-crashes-error-132/"><u>Mastering the Art of Rectifying WoW Crashes: Error 132</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-discover-free-sound-fx-websites-and-integrate-with-final-cut-pro/"><u>New Discover Free Sound FX Websites and Integrate with Final Cut Pro</u></a></li>
-<li><a href="https://article-files.techidaily.com/quintessential-5-filters-for-depth-video/"><u>Quintessential 5 Filters for Depth Video</u></a></li>
-<li><a href="https://windows11.techidaily.com/swiftly-transform-heic-pics-to-jpeg-with-windows-11-tech/"><u>Swiftly Transform HEIC Pics to JPEG with Windows 11 Tech</u></a></li>
-<li><a href="https://windows11.techidaily.com/triumph-in-tpm-deactivation-on-windows-11/"><u>Triumph in TPM Deactivation on Windows 11</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-v30-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo V30 Device</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-bridging-gaps-online-effective-techniques-for-screenshare-on-fb-for-2024/"><u>[New] Bridging Gaps Online Effective Techniques for Screenshare on FB for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-navigate-network-needs-skilled-approaches-to-file-movement-on-computer/"><u>[New] Navigate Network Needs Skilled Approaches to File Movement on Computer</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-jokes-and-puns-iphone-edition/"><u>2024 Approved Jokes and Puns IPhone Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/8-strategies-for-enhancing-windows-11-wi-fi-connectivity/"><u>8 Strategies for Enhancing Windows 11 Wi-Fi Connectivity</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-win-1011s-xc0f1103f-with-geforce-error/"><u>Addressing Win 10/11'S XC0F1103F with GeForce Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/boost-windows-11-notepad-using-ai-mentor/"><u>Boost Windows 11 Notepad Using AI Mentor</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-obstructions-uninstalling-programs-on-win-11/"><u>Clearing Obstructions: Uninstalling Programs on Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-up-dual-users-fixing-their-windows-account-error/"><u>Clearing Up Dual Users: Fixing Their Windows Account Error</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/comment-resoudre-le-probleme-decran-blanc-sur-un-pc-ou-ordinateur-portable-sous-windows-11/"><u>Comment Résoudre Le Problème D'Écran Blanc Sur Un PC Ou Ordinateur Portable Sous Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/concealing-windows-firewall-areas-a-step-by-step-guide/"><u>Concealing Windows Firewall Areas: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/connectivity-problems-windows-solutions/"><u>Connectivity Problems: Windows Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/customizing-interval-for-automatic-logoff/"><u>Customizing Interval for Automatic Logoff</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726028484329-hevc/"><u>HEVCファイルを効率良く無料で再生:選び方と最適なソフトウェア</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-hp-officejet-n-series-5740-driver-download-for-windows-11108-users/"><u>Latest HP OfficeJet N-Series (5740) Driver Download for Windows 11/10/8 Users</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/losung-fur-die-hurde-beim-ubertragen-von-iphone-fotos-auf-mac-os-x/"><u>Lösung Für Die Hürde Beim Übertragen Von iPhone-Fotos Auf Mac OS X</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/superior-image-stabilization-in-action-cams/"><u>Superior Image Stabilization in Action Cams</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-tesla-mobile-device-anticipated-price-launch-timeline-and-potential-features/"><u>Unveiling the Tesla Mobile Device: Anticipated Price, Launch Timeline & Potential Features</u></a></li>
 </ul></div>
 

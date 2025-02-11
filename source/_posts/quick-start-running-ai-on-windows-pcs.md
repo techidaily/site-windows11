@@ -1,7 +1,7 @@
 ---
 title: "Quick Start: Running AI on Windows PCs"
-date: 2025-01-26T06:17:46.624Z
-updated: 2025-01-30T04:25:26.900Z
+date: 2025-02-07T05:30:08.338Z
+updated: 2025-02-11T05:39:39.145Z
 tags:
   - windows10
   - windows11
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Run ChatGPT as a Windows App Using Edge
 
  Microsoft Edge offers an **Install this site as an app** feature. It lets you run web pages as standalone native Windows apps. Since ChatGPT is only available as a web app, you can install the AI chatbot website as an app on your computer. It looks and works similarly to the web version, except you don't see any web elements such as bookmarks, tabs, etc.
@@ -42,8 +38,16 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 ![install this site as an app chatgpt edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-this-site-as-an-app-chatgpt-edge.jpg)
 3. Go to **Apps** and select **Install this site as an app**.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![install chatgpt app windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-chatgpt-app-windows.jpg)
 4. In the **Install App** popup, enter a name for the app. For example, enter **ChatGPT**. Entering a name makes it easy to search for the installed app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. To add a custom icon, click the **Edit** button under **Install App** and select an icon from your local drive. For GPT, you can leave it as default.
 6. Click **Install** and wait for Windows to install the site as an app.
@@ -56,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 
  To pin the ChatGPT app, press the **Win** key and type ChatGPT. Right-click the app icon and select **Pin to Start** or **Taskbar**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Uninstall the ChatGPT Web App on Edge
 
 ![uninstall chatgpt edge app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-chatgpt-edge-app.jpg)
@@ -67,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 1. Press the **Win** key and type **ChatGPT**.
 2. Right-click on the app icon and **Uninstall.**
 3. Click **Uninstall** again to confirm the action.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Add ChatGPT as a Windows App Using Chrome
 
@@ -85,10 +81,6 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 ![chatgpt create chrome shortcut create](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-create-chrome-shortcut-create.jpg)
 5. Select the **Open as window** option. Without this, the ChatGPT shortcut will open the site in a new Chrome window instead of in its standalone window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Click **Create** to finish.
 
  You can open the ChatGPT Chrome shortcut from the Start menu. Right-click on the Shortcut to add it to the Start menu and taskbar.
@@ -96,6 +88,10 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
  If you want to uninstall the Chrome shortcut for ChatGPT, here’s how to do it:
 
 ![uninstall chrome shortcut chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-chrome-shortcut-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Press the **Win** key and type **ChatGPT**.
 2. Right-click on the **ChatGPT** icon and select **Uninstall**.
@@ -107,6 +103,10 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 ## Run ChatGPT Natively Using an Unofficial Project
 
 ![chat gpt github unofficial project running on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chat-gpt-github-unofficial-project-running-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A developer on GitHub has posted an unofficial ChatGPT project which runs natively on the Windows computer. To use the app, you need to log in using the ChatGPT credentials. It works similarly to the AI chatbot web app but offers some additional features.
 
@@ -131,15 +131,15 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 
 ![uninstall chatgpt unofficial client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-chatgpt-unofficial-client.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Press **Win + I** to open **Settings**.
 2. Next, open the **Apps** tab and click **Installed Apps**.
 3. Search for the ChatGPT app, click the **three-dots** menu next to the app name and select **Uninstall**.
 
  Once done, you might also want to delete the setup file from the Downloads folder in File Explorer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Install ChatGPT as a Windows App
 
@@ -161,18 +161,19 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-conquer-common-issues-essential-windows-10-fixes/"><u>[Updated] 2024 Approved Conquer Common Issues Essential Windows 10 Fixes</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/1726029239028-wonderfox-dvd-ripper-pro/"><u>最新WonderFox DVD Ripper Proを安全に更新：詳細ガイド</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoiding-in-use-device-naming-5-fixes-for-windows-errors/"><u>Avoiding In-Use Device Naming: 5 Fixes for Windows Errors</u></a></li>
-<li><a href="https://win-info.techidaily.com/beheben-von-partitionsproblemen-im-betriebssystem-windows/"><u>Beheben Von Partitionsproblemen Im Betriebssystem Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-windows-errors-top-10-diagnostic-aids/"><u>Decoding Windows Errors: Top 10 Diagnostic Aids</u></a></li>
-<li><a href="https://windows11.techidaily.com/defining-new-default-for-reading-pdfs-on-pc/"><u>Defining New Default for Reading PDFs on PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-best-free-bootable-antivirus-applications-top-15-recommended-picks/"><u>Discover the Best Free Bootable Antivirus Applications – Top 15 Recommended Picks</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/how-to-match-your-camera-to-its-optimal-gimbal-partner/"><u>How to Match Your Camera to Its Optimal Gimbal Partner</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavi-veeerfotos-schoon-cr2-in-png-codeeren-zonder-kosten-online-instant/"><u>Movavi: Veeërfoto's Schoon CR2 in PNG Codeeren Zonder Kosten, Online-Instant</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/nutritious-food-prep-via-digital-culinary-mentors/"><u>Nutritious Food Prep via Digital Culinary Mentors</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-fix-restarting-resistant-spotify-program/"><u>Quick Fix: Restarting Resistant Spotify Program</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-rectify-win-1011-onedrive-issues/"><u>Steps to Rectify Win 10/11 OneDrive Issues</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-screen-notebook-techniques-for-win-1011/"><u>Top-Screen Notebook Techniques for Win 10/11</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-beneath-the-surface-instagrams-hidden-reality-for-viewers/"><u>[Updated] Beneath the Surface Instagram’s Hidden Reality for Viewers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-unlock-the-power-of-speech-recognition-for-effective-office-documentation-in-microsoft-word/"><u>[Updated] Unlock the Power of Speech Recognition for Effective Office Documentation in Microsoft Word</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-sneak-peeks-into-instagrams-latest-hacks/"><u>2024 Approved Sneak Peeks Into Instagram's Latest Hacks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/dvdwindows-1011/"><u>動画、DVDが再生できない時のWindows 10/11用対処手順</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoid-the-blank-screen-top-techniques-to-recover-vanished-panes-in-windows-11/"><u>Avoid the Blank Screen: Top Techniques to Recover Vanished Panes in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoidance-of-windows-updates-interruptions/"><u>Avoidance of Windows Updates Interruptions</u></a></li>
+<li><a href="https://windows11.techidaily.com/bring-back-your-bandsaw-methods-for-fixing-lost-windows-time/"><u>Bring Back Your Bandsaw: Methods for Fixing Lost Windows Time</u></a></li>
+<li><a href="https://windows11.techidaily.com/command-line-interface-cli-addition-to-task-manager-in-windows-11/"><u>Command Line Interface (CLI) Addition to Task Manager in Windows 11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/comprehensive-razer-blade-17-drivers-upgrade-instructions-for-windows-users-on-oses-from-7-to-11/"><u>Comprehensive Razer Blade 17 Drivers Upgrade Instructions for Windows Users on OSes From 7 to 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/decode-your-digital-identity-how-to-find-out-what-computer-you-have/"><u>Decode Your Digital Identity: How to Find Out What Computer You Have</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-iphone-se-2022-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On iPhone SE (2022)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-photo-editing-in-minutes-pixlr-quick-hacks-for-2024/"><u>Mastering Photo Editing in Minutes Pixlr Quick Hacks for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719297453407-mastery-overprint-how-to-reactivate-the-missing-windows-functionality/"><u>Mastery Overprint: How to Reactivate the Missing Windows Functionality</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/step-by-step-infographic-for-picking-a-stellar-karaoke-number-with-professional-tips-from-top-djs/"><u>Step-by-Step Infographic for Picking a Stellar Karaoke Number with Professional Tips From Top DJs</u></a></li>
 </ul></div>
 

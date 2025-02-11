@@ -1,7 +1,7 @@
 ---
 title: Recovering Dormant Backup Service on OS X
-date: 2025-01-26T20:51:33.542Z
-updated: 2025-01-30T04:19:33.969Z
+date: 2025-02-03T16:20:55.666Z
+updated: 2025-02-11T03:08:04.720Z
 tags:
   - windows10
   - windows11
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Enable and Start Volume Shadow Copy Services
 
  VSS errors can often arise because the Volume Shadow Copy and Microsoft Software Shadow Copy Provider services aren’t enabled or running. For example, many users have confirmed enabling those services can fix VSS error codes 0x81000202 and 0x81000203, which affect the System Restore tool. So, you may be able to resolve numerous Volume Shadow Copy errors by enabling VSS services like this:
@@ -40,15 +36,15 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 ![The Startup type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/startup-type-drop-down-menu.jpg)
 5. Press **Start** in the Volume Shadow Copy Service window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click on the service window’s **Apply** and **OK** buttons to set the changed options.
 7. Repeat steps three to six for the Microsoft Software Shadow Copy Provider service.
 8. Also, check that the RPC Endpoint Mapper and DCOM Server Process dependency services for Volume Shadow Copy are enabled and running.
 
  Restart those shadow copy services if they’re already set as required. You can do that by right-clicking on those services and selecting the Restart context menu options for them.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Repair Your System Files With the SFC and DISM Commands
 
@@ -57,11 +53,7 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 ![The sfc scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/sfc-scannow-error.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Run the Check Disk Utility
@@ -71,7 +63,11 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 ![The CHKDSK command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chkdsk-scan-command.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Disable Antivirus Shields
@@ -81,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
  Don’t leave your antivirus shield permanently disabled. If possible, select to disable it for a few hours before attempting the backup or system restoration operation again. Or manually re-enable your antivirus if you can’t select a temporary option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Disable Any Active Firewalls
 
@@ -114,22 +114,18 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-reimagine-video-narratives-with-windows-10s-story-remix-tool-for-2024/"><u>[Updated] Reimagine Video Narratives with Windows 10'S Story Remix Tool for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-narrative-strategies-for-engaging-docu-films/"><u>2024 Approved Narrative Strategies for Engaging Docu-Films</u></a></li>
-<li><a href="https://win-help.techidaily.com/die-weise-der-automatischen-altbackup-entfernung-im-windows-server-umfeld/"><u>Die Weise Der Automatischen Altbackup-Entfernung Im Windows Server Umfeld</u></a></li>
-<li><a href="https://windows11.techidaily.com/guides-to-reinstate-windows-print-spooler/"><u>Guides to Reinstate Windows Print Spooler</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-samsung-galaxy-a05-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Samsung Galaxy A05 to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-sound-surprises-10-androidios-audio-twisters/"><u>In 2024, Sound Surprises 10 Android/iOS Audio Twisters</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/is-a-133-screen-size-ideal-for-your-new-e-reader-purchase/"><u>Is a 13.3 Screen Size Ideal for Your New E-Reader Purchase?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/lenovos-latest-powerhouse-the-thinkpad-z13-gen-2-with-advanced-amd-chipset-unveiled/"><u>Lenovo's Latest Powerhouse: The ThinkPad Z13 Gen 2 with Advanced AMD Chipset Unveiled!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-oneplus-ace-2-pro-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your OnePlus Ace 2 Pro Phone? Unlock It Now</u></a></li>
-<li><a href="https://windows11.techidaily.com/post-cortana-era-windows-four-changes/"><u>Post-Cortana Era: Windows’ Four Changes</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/resolved-issue-absence-of-bitlocker-feature-on-windows-10/"><u>Resolved Issue: Absence of BitLocker Feature on Windows 10</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamless-workflow-integration-to-do-plus-ifttt/"><u>Seamless Workflow Integration: To-Do + IFTTT</u></a></li>
-<li><a href="https://windows11.techidaily.com/steam-deck-to-windows-os-a-guide/"><u>Steam Deck to Windows OS: A Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-workflow-integrating-a-functional-taskbar-on-slate-devices-windows-11/"><u>Streamlining Workflow: Integrating a Functional Taskbar on Slate Devices (Windows 11)</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-error-0xc00d36b4-on-windows-11-pcs/"><u>Tackling Error 0XC00D36B4 on Windows 11 PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/techniques-to-re-establish-router-page-on-pc/"><u>Techniques to Re-Establish Router Page on PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-modern-standby-demystified-with-pros-and-cons/"><u>Windows Modern Standby Demystified with Pros & Cons</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-tailoring-igtv-titles-and-summaries-for-impact/"><u>[New] In 2024, Tailoring IGTV Titles & Summaries for Impact</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pinnacle-20-anime-songs-to-start-with/"><u>[New] Pinnacle 20 Anime Songs to Start With</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-snap-share-and-save-on-instagram/"><u>2024 Approved Snap, Share, and Save on Instagram</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-toughest-and-most-resilient-laptop-choices-expert-reviews-and-comparisons-pcmag/"><u>2024'S Toughest & Most Resilient Laptop Choices: Expert Reviews & Comparisons | PCMag</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-windows-11-unable-to-load-driver-errors/"><u>Addressing Windows 11: Unable to Load Driver Errors</u></a></li>
+<li><a href="https://win-special.techidaily.com/dont-lose-hope-four-powerful-techniques-for-retrieving-deleted-items-on-your-windows-10-system/"><u>Don't Lose Hope: Four Powerful Techniques for Retrieving Deleted Items on Your Windows 10 System</u></a></li>
+<li><a href="https://facebook.techidaily.com/is-interactive-facebook-essential-for-modern-users/"><u>Is Interactive Facebook Essential for Modern Users?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/is-your-smartphones-data-pace-dragging-you-down-accelerate-with-our-top-10-speed-enhancing-tips/"><u>Is Your Smartphone's Data Pace Dragging You Down? Accelerate with Our Top 10 Speed-Enhancing Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-support-functionality-in-windows-11-help/"><u>Restoring Support Functionality in Windows 11 Help</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-effortlessly-switch-between-windows-terminal-focus-and-normal-states/"><u>Steps to Effortlessly Switch Between Windows Terminal Focus and Normal States</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-your-windows-11-program-choices/"><u>Streamlining Your Windows 11 Program Choices</u></a></li>
+<li><a href="https://windows11.techidaily.com/supercharge-performance-conquering-windows-lag-issues/"><u>Supercharge Performance: Conquering Windows Lag Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-8-different-ways-to-restart-your-windows-computer/"><u>The 8 Different Ways to Restart Your Windows Computer</u></a></li>
 </ul></div>
 

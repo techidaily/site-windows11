@@ -1,7 +1,7 @@
 ---
 title: Quick Fix for Invisible Login Window in Win10/11
-date: 2024-08-15T15:29:08.917Z
-updated: 2024-08-16T15:29:08.917Z
+date: 2025-02-04T21:23:15.286Z
+updated: 2025-02-10T18:18:44.237Z
 tags:
   - windows10
   - windows11
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/9929e26ad232462fb3012e528ec110b36cc8e34a7
 
  Alternatively, temporary glitches, system file corruption, and malfunctioning lock screen behavior can trigger this issue as well. To fix the issue, follow all the steps below in the given order.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Use the Ctrl + Alt + Delete Combo
 
  You can restore your login screen in Windows 11 using the**Ctrl + Alt + Delete** combo. It is a temporary workaround but should help you sign in and perform additional troubleshooting steps if necessary. To do this, make sure your PC is turned on. Next, press the**Ctrl + Alt + Delete** combo on your keyboard. This should force the sign-in screen to appear.
@@ -46,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/9929e26ad232462fb3012e528ec110b36cc8e34a7
 ## 3\. Install Pending Windows Updates
 
 ![check for windows update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/check-for-windows-update-1-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Check and install all the Windows updates available on your computer. Widespread issues likely get a hotfix on a priority basis. So, check if you have any pending updates and install them to see if that fixes the issue.
 
@@ -59,9 +53,6 @@ To check and update Windows 11:
 3. Click on**Check for updates** in the top right corner. Windows will scan for available updates and list them accordingly.
 4. Click on**Download and install.** Wait for the updates to install and restart your PC to apply the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Check and Disable Ctrl + Alt + Delete Secure Sign-In
 
  Windows lets you add an extra layer of security to your computer with its interactive Secure sign-in option. When enabled, the user must press the default**Ctrl + Alt + Delete** key on the lock screen to view the sign-in screen. This helps prevent malicious tools from mimicking the sign-in screen to steal user credentials.
@@ -81,20 +72,28 @@ To check and update Windows 11:
 3. Next, under**Choose an option** , click on**Troubleshoot** .  
 ![Windows Recovery environment troubleshoot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-recovery-environment-troubleshoot.jpg)
 4. Next, click on**Advanced options** .  
-![WinRE-Advanced-Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/winre-advanced-options.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![WinRE-Advanced-Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/winre-advanced-options.jpg)
 5. Click on**System Restore** .  
 ![advanced option system restore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/advanced-option-system-restore.jpg)
 6. Select the most recent restore point in the**System Restore** wizard and click**Next** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Follow on-screen instructions to complete the system restore process.
 
  Once done, your PC will restart. If successful, you should be able to view your sign-in screen. If not, you can try again with a different restore point.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Run Startup Repair
 
  The Startup Repair is a Windows recovery tool that can scan the system for issues interrupting the normal start-up of your computer and try to fix them automatically. It is part of the Windows Recovery Environment, so you’ll need to boot into WinRE to use the option. Follow these steps to run Startup Repair in Windows 11.
@@ -103,23 +102,27 @@ To check and update Windows 11:
 2. Next, under**Choose an option** , click on**Troubleshoot** .  
 ![WinRE-Advanced-Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/winre-advanced-options.jpg)
 3. Next, click on**Advanced options.**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![advanced option startup repair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/advanced-option-startup-repair.jpg)
 4. Click on**Startup Repair.** Now it will start to diagnose your PC to find issues with the start-up.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Next, select a user account and enter the password.
 6. Click**Continue** to begin Startup repair. This process may take some time, so wait till it is complete.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## 7\. Disable the Lock Screen
 
  If the issue occurs after waking your computer from sleep or hibernation, it is likely a Windows glitch that needs fixing. As a temporary measure, you can disable your lock screen completely to prevent the glitch from occurring.
 
  Leaving your computer without a lock screen will make it vulnerable to spoofing and data theft. However, if you are a single user, you can disable the lock screen temporarily until a permanent fix is found. You can [disable the lock screen on Windows 11](https://www.makeuseof.com/disable-lock-screen-windows-11/) using Registry Editor, Group Policy Editor, and a third-party system tweaker.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Fixing the No Login Screen Issue on Windows 11
 
  Most often, the missing lock screen problem on Windows 11 is due to a temporary glitch. First, use the Ctrl + Alt + Delete combo to see if that shows the lock screen. If not, press and hold the power button to perform a forced shutdown and then restart your PC to see if the issue is resolved.
@@ -132,8 +135,6 @@ To check and update Windows 11:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,8 +142,21 @@ To check and update Windows 11:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-eternal-skies-leading-long-duration-flight-drones/"><u>[Updated] 2024 Approved Eternal Skies Leading Long-Duration Flight Drones</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-pro-level-techniques-to-upgrade-your-iphone-photo-game/"><u>2024 Approved Pro-Level Techniques to Upgrade Your iPhone Photo Game</u></a></li>
+<li><a href="https://windows11.techidaily.com/cost-effective-solutions-affordable-windows-11-key-access/"><u>Cost-Effective Solutions: Affordable Windows 11 Key Access</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/craft-the-perfect-livestream-on-youtube-and-twitch-with-obs/"><u>Craft the Perfect Livestream on YouTube & Twitch with OBS</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-remote-access-stability-a-step-by-step-approach/"><u>Enhancing Remote Access Stability: A Step-by-Step Approach</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-poco-x5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/immediate-guide-forcibly-disabledelete-printer-on-pc/"><u>Immediate Guide: Forcibly Disable/Delete Printer on PC</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premier-platforms-for-personalized-present-packaging/"><u>In 2024, Premier Platforms for Personalized Present Packaging</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-visual-fidelity-in-a-box-eizos-cg318-4k/"><u>In 2024, The Ultimate Visual Fidelity in a Box – EIZO's CG318-4K</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-chrome-freeze-windows-edition/"><u>Overcoming Chrome Freeze: Windows Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-invalid-temp-directories-in-windows-11/"><u>Resolving Invalid Temp Directories in Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solution-dealing-with-thaumaturge-game-freezing-on-your-computer/"><u>Step-by-Step Solution: Dealing with Thaumaturge Game Freezing on Your Computer</u></a></li>
+<li><a href="https://windows11.techidaily.com/turbocharging-windows-solid-state-drives-utilizing-fresh-tools/"><u>Turbocharging Windows' Solid State Drives - Utilizing Fresh Tools</u></a></li>
+</ul></div>
 

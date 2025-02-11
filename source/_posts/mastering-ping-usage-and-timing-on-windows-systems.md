@@ -1,7 +1,7 @@
 ---
 title: "Mastering Ping: Usage & Timing on Windows Systems"
-date: 2025-01-28T17:07:17.646Z
-updated: 2025-01-30T07:08:58.084Z
+date: 2025-02-09T22:12:29.425Z
+updated: 2025-02-10T18:52:09.534Z
 tags:
   - windows10
   - windows11
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 * [How to Use the Ping Command on Windows](#how-to-use-the-ping-command-on-windows)
 * [What Can the Ping Command Do for You?](#what-can-the-ping-command-do-for-you)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * The ping command tests the availability of a host by sending data packets and checking for a response from the server.
@@ -39,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 
  The ping command is commonly used to troubleshoot network problems and assess the health of a network connection. Learn how the ping command works, how to use it on Windows, and examples of a few scenarios you can use it for.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Does the Ping Command Do?
 
  The ping command is a network utility tool used to test the availability of a host, usually a server or computer, locally or over the internet.
@@ -50,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
  When you use the ping command, your device periodically sends packets of data (also known as echo request messages) to the specified IP address (or domain name) and waits for a response from the server each time. If your device receives a response back, the server is considered online. If the server fails to respond, the signal is considered lost, indicating a server problem.
 
  Besides checking if a host is reachable, the command keeps track of the round-trip time. This is the time a message takes to go from a source computer to a destination server and then return to the source, along with a response from the destination server. This data can help you analyze how stable your connection to a server is.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Syntax of the Ping Command
 
@@ -74,20 +70,20 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 ![Running the ping command in Windows PowerShell.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/running-the-ping-command-in-windows-powershell.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Alternatively, you can perform the test in Command Prompt. Simply press **Win + R,** type **“cmd**,**”** and click **OK**. Then, type the command and press Enter.
 
 ![Running the Command Prompt app from the Run dialog box in Windows.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/running-the-command-prompt-app-from-the-run-dialog-box-in-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you are an administrator of a locked corporate-owned PC, you might need to run PowerShell or Command Prompt with administrative privileges to run the ping test. To do so, type **"Command Prompt"** or **"PowerShell"** in Windows Search, right-click on the utility, and select **"Run as administrator**.**"**
 
 ![Running the Windows PowerShell as an administrator on Windows.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/running-the-windows-powershell-as-an-administrator-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then, click **"Yes"** in the **UAC (User Account Control)** window.
 
@@ -98,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 ![Running the ping command in Windows PowerShell.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/running-the-ping-command-in-windows-powershell.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The **TTL** (Time to Live) value is the lifespan of the packet in the network, after which it's discarded after a certain number of hops through routers. The common benchmark is 64, but TTL can be higher if the data packet is sent through a complex network. But a drastically longer one deserves a closer look to ensure your network is functioning smoothly.
@@ -110,6 +106,10 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
  The ping command supports a "/t" parameter that specifies that it should continue sending echo requests to the destination server until interrupted. If you use this parameter when running the ping test, your device keeps pinging the specified server until you manually stop the test. To stop an ongoing ping test, you can press **Ctrl + C** or press **Ctrl + Enter** to stop and display the data.
 
 ![Stopping the ping test to analyze results in Windows Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3-stop-the-ping-test-by-pressing-ctrl-c-keys-in-windows-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Can the Ping Command Do for You?
 
@@ -131,17 +131,22 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-airdrop-not-working-how-to-fix-it-on-iphone-ipad-and-mac/"><u>[New] Airdrop Not Working? How to Fix It on iPhone, iPad, & Mac</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-unlock-the-power-of-fb-conversation-capture-tools-for-2024/"><u>[Updated] Unlock the Power of FB Conversation Capture Tools for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-guide-to-mspcm-bar-functionality-on-w11/"><u>Essential Guide to MSPCM Bar Functionality on W11</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-non-responsive-windows-11-troubleshooters/"><u>Fixing Non-Responsive Windows 11 Troubleshooters</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/how-to-convert-videos-from-chomikuj-to-common-formats-like-mp4-mov-and-avi-with-ease/"><u>How to Convert Videos From Chomikuj to Common Formats Like MP4, MOV & AVI with Ease</u></a></li>
-<li><a href="https://win-lab.techidaily.com/how-to-fix-a-non-spinning-gpu-cooling-fan-expert-advice-from-yl-computing/"><u>How to Fix a Non-Spinning GPU Cooling Fan: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ring-privacy-in-media-cutting-out-unwanted-visibility-for-2024/"><u>Mastering Privacy in Media Cutting Out Unwanted Visibility for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-pooch-pulses-and-vocalizations-a-comprehensive-collection-for-creatives/"><u>New Pooch Pulses & Vocalizations A Comprehensive Collection for Creatives</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-address-cannot-link-with-nvidia-error-on-microsofts-latest-os/"><u>Steps to Address Cannot Link with NVIDIA Error on Microsoft's Latest OS</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/top-5-chromebook-sniping-apps-essential-clients-reviewed/"><u>Top 5 Chromebook Sniping Apps Essential Clients Reviewed</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ate-buyers-guide-top-gpus-for-youtube-streamers-for-2024/"><u>Ultimate Buyer's Guide Top GPUs for YouTube Streamers for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-the-secrets-of-successful-installer-fixes/"><u>Unlocking the Secrets of Successful Installer Fixes</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-gopro-hero5-vs-yi-4k-the-ultimate-showdown-in-cam-tech/"><u>[New] 2024 Approved GoPro Hero5 Vs. Yi 4K The Ultimate Showdown in Cam Tech</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-making-classroom-content-video-editing-insights/"><u>[New] Making Classroom Content Video Editing Insights</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-effective-thumbnails-the-secret-to-video-success-for-2024/"><u>[Updated] Effective Thumbnails The Secret to Video Success for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-masterfb-mp4-the-ultimate-downloader-for-vids-for-2024/"><u>[Updated] MasterFB-MP4 The Ultimate Downloader for Vids for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/advanced-techniques-in-windows-photo-editing/"><u>Advanced Techniques in Windows Photo Editing</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/amazing-alexa-experience-in-a-small-package-exploring-the-echo-dot-3rd-gen-review/"><u>Amazing Alexa Experience in a Small Package: Exploring the Echo Dot (3Rd Gen) Review</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquer-ppt-file-saving-challenges-swift-solutions-in-windows-11/"><u>Conquer PPT File Saving Challenges: Swift Solutions in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/engagingnotabledarkthemefornotepadwin/"><u>EngagingNotableDarkThemeForNotepadWin</u></a></li>
+<li><a href="https://windows11.techidaily.com/explore-worldwide-efficient-mouse-skills-via-powertoys/"><u>Explore Worldwide - Efficient Mouse Skills via PowerToys</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-enjoy-fandango-movies-from-home-with-apple-tv/"><u>Guide: Enjoy Fandango Movies From Home with Apple TV</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-get-the-newest-driver-for-your-epson-l3150-on-windows-10-8-and-7-step-by-step/"><u>How to Get the Newest Driver for Your Epson L3150 on Windows 10, 8 & 7 - Step by Step</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-motorola-edge-2023-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Motorola Edge 2023 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-linguistic-landscapes-smoothly-via-keyboard-shortcuts-in-win1011/"><u>Navigate Linguistic Landscapes Smoothly via Keyboard Shortcuts in Win10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-apex-crashes-essential-steps-for-windows-11-gamers/"><u>Overcome Apex Crashes: Essential Steps for Windows 11 Gamers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategic-methods-to-address-steam-logins-delay-rust-and-windows-focus/"><u>Strategic Methods to Address Steam Logins Delay: Rust & Windows Focus</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-essential-techniques-boosting-your-virtual-memory-in-windows-11/"><u>The Essential Techniques: Boosting Your Virtual Memory in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-windows-11s-registry-a-guide-to-its-components/"><u>Unveiling Windows 11'S Registry: A Guide to Its Components</u></a></li>
 </ul></div>
 

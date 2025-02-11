@@ -1,7 +1,7 @@
 ---
 title: Which Browser Takes Up Less Memory and CPU On Windows, macOS?
-date: 2024-08-15T15:28:31.058Z
-updated: 2024-08-16T15:28:31.058Z
+date: 2025-02-04T17:31:30.100Z
+updated: 2025-02-10T16:05:39.932Z
 tags:
   - windows10
   - windows11
@@ -35,9 +35,6 @@ thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f7
  For Windows, we will analyze the resource consumption of Edge, Opera, Firefox, and Chrome browser to determine which one you should use. The following image shows the specifications of the Windows device we are running this test on:
 
 ![Specifications of a Windows Laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/specifications-of-a-windows-laptop.jpg)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 
  Here are the RAM and CPU consumption figures for all browsers on a Windows device when running one YouTube video, WhatsApp Web, a blog site, and a Reddit video:
 
@@ -54,14 +51,15 @@ thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f7
 
  If you use a browser that consumes lots of CPU resources and can't switch to another for some reason, turn on efficiency mode for the browser's processes. It's a feature introduced in Windows 11 that makes the processes low-priority, making the processor allocate fewer resources, thereby limiting their CPU usage.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which Browser Consumes the Least Memory and CPU Resources on ChromeOS?
 
  For [the Chromebook operating system, ChromeOS](https://www.makeuseof.com/what-is-chrome-os/), we will analyze the resource consumption of Opera, Firefox, and Chrome. Microsoft Edge is not available by default, so we'll exclude this browser. The following image shows the specifications of the Chromebook we are running this test on:
 
 ![Lenovo Yoga N23 Chromebook Specifications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/lenovo-yoga-n23-chromebook-specifications.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 
  After running the same processes on ChromeOS as we did on Windows, here's the breakdown of resources consumed by different browsers:
 
@@ -78,15 +76,17 @@ thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f7
 **Verdict:** If your Chromebook's processor isn't powerful, you can choose Opera. Chrome is a good choice for users having limited memory at their disposal.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Which Browser Consumes the Least RAM and CPU on macOS?
 
  For macOS, we will analyze the resource consumption of Safari, Opera, Firefox, and Chrome. In the following image, you can see the specifications of the macOS device we are using for the test:
 
 ![Specifications of Macbook Air 2015](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/specifications-of-macbook-air-2015.jpeg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Below, you can find a breakdown of the resources consumed by each browser when running the same processes on a MacBook:
@@ -103,8 +103,9 @@ thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f7
 **Verdict:** Considering Safari consumes the least CPU and RAM resources, it should be the default browser for all Apple users. As an alternative to it, your next best choice should be Chrome rather than Firefox or Opera.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What About Using Less Popular Browsers?
 
  Although we have tested the resources consumed by popular and mainstream browsers, you can also choose [less popular or private browsers](https://www.makeuseof.com/tag/2-anonymous-web-browsers-completely-private-secure/) if they are more efficient.
@@ -125,9 +126,9 @@ thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f7
 5. To compare this browser's resource consumption with others, run the same processes on other browsers and compare their results.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Use the Most Efficient Browser
 
  Browsers consume the most resources and hinder our user experience the most. Hopefully, our evaluations comparing the resources consumed by different browsers will help you choose the right one for your device. Furthermore, if the less popular browser consumes fewer resources on your device, you might be better off using it.
@@ -136,8 +137,6 @@ thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f7
 
  In this article, we'll compare the RAM and CPU resources consumed by different browsers on Windows, macOS, and ChromeOS; so you can see which browser uses the least resources on your device.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -145,5 +144,24 @@ thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f7
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-capturing-the-world-from-above-in-stunning-hd-mi-drone-deep-dive/"><u>[New] Capturing the World From Above in Stunning HD - Mi Drone Deep Dive</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-essential-screen-recording-software-list-for-vloggers/"><u>2024 Approved Essential Screen Recording Software List for Vloggers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721423315897-beware-phony-chatgpt-programs-potential-threats-ahead/"><u>Beware Phony ChatGPT Programs - Potential Threats Ahead</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-chatgpt-design-safe-and-effective-workout-plans-for-you/"><u>Can ChatGPT Design Safe and Effective Workout Plans for You?</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/easy-steps-to-create-an-alarm-reminder-on-your-android-device/"><u>Easy Steps to Create an Alarm Reminder on Your Android Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-app-instance-identifiers-and-practices/"><u>Exploring App Instance Identifiers and Practices</u></a></li>
+<li><a href="https://windows11.techidaily.com/from-separate-to-shared-android-pc-harmony-guide/"><u>From Separate to Shared: Android-PC Harmony Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-poco-f5-pro-5g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Poco F5 Pro 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Nubia Z50 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/personalize-your-pc-a-guide-to-alomwares-control-options/"><u>Personalize Your PC: A Guide to AlomWare's Control Options</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-issues-with-the-epic-games-launcher-for-win-users/"><u>Preventing Issues with the Epic Games Launcher for Win Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixes-for-file-explorer-crashes-in-newest-windows-11/"><u>Quick Fixes for File Explorer Crashes in Newest Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/reigniting-your-calendars-and-mailboxes-w11-edition/"><u>Reigniting Your Calendars and Mailboxes: W11 Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-snipkey-issues-resetting-windows-keys/"><u>Solving SnipKey Issues: Resetting Windows Keys</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-top-8-tips-for-a-smooth-windows-11-transition/"><u>The Top 8 Tips for a Smooth Windows 11 Transition</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-updated-user-manual-for-navigating-facebook-for-2024/"><u>The Updated User Manual for Navigating Facebook for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/uncover-the-leading-free-online-subtitle-makers-srt/"><u>Uncover the Leading Free Online Subtitle Makers (Srt)</u></a></li>
+</ul></div>
 

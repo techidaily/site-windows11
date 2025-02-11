@@ -1,7 +1,7 @@
 ---
 title: Guidelines for Fixing Windows 11 Support Tool
-date: 2025-01-24T23:02:33.426Z
-updated: 2025-01-30T03:01:22.634Z
+date: 2025-02-06T02:20:01.113Z
+updated: 2025-02-11T00:22:03.892Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Begin With Some General Fixes
 
  Here are some quick tips on how to fix the Get Help app not working issues quickly:
@@ -36,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 * **Restart the Get Help app:**[Open the Task Manager](https://www.makeuseof.com/how-to-access-task-manager-on-windows-11/) and right-click on the Get Help app. Then click on **End task** and start the app again. This simple trick effectively addresses temporary glitches within the application.  
 ![Get Help End Task Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-end-task-option.jpg)
 * **Reboot your computer:** Rebooting a computer often resolves many problems by clearing your system's memory and terminating problematic processes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * **Update your Windows version:** Older versions of Windows may contain bugs that may prevent the Get Help app from functioning correctly. So, always [ensure your Windows version is up-to-date](https://www.makeuseof.com/update-windows-manually/).
 
@@ -52,16 +52,20 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 ![Windows Settings Search Results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-settings-search-results.jpg)
 3. Search for **Get Help** in the list of apps and click on the three-dot menu. Then click on **Advanced options**.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Get Help In Installed Apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-in-installed-apps.jpg)
 4. Now, scroll to the bottom and click **Repair**. If the repair fails, you can use the **Reset** option.  
 
 ![Get Help Repair Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-repair-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Here's the best part: This process isn't exclusive to the Get Help app. So, you can also apply the above steps to other malfunctioning Windows apps
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Troubleshoot Network-Related Issues
 
@@ -83,19 +87,11 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 ![VPN Settings Search Results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/vpn-settings-search-results.jpg)
 2. Choose the **Disconnect** button to turn off the VPN.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Similarly, you must [temporarily disable your proxy](https://www.makeuseof.com/windows-11-disable-proxy/) to troubleshoot the cause of your Get Help failing to work.
 
  Remember to re-enable your VPN or proxy once you're done to ensure your online activities remain private and secure.
 
  Now you can open the Get Help app and check whether the content loads correctly. Try the following troubleshooting method if the Get Help app still displays a blank screen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Restart Windows Services
 
@@ -108,7 +104,7 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 2. Now press **Enter** to launch the Services app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. You'll see a list of all the services currently available in your system. Locate the **Diagnostic Policy Service** and right-click on its name.
@@ -117,7 +113,11 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 5. Similarly, repeat the steps to restart the **Windows Management Instrumentation** service.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Install the Microsoft Edge WebView2 Runtime
@@ -165,22 +165,22 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-maintain-your-memories-android-plus-mac-video-preservation/"><u>[New] 2024 Approved Maintain Your Memories Android + Mac Video Preservation</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-camera-cuts-quality-is-splitcam-best/"><u>[New] Camera Cuts Quality Is SplitCam Best?</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-premium-5-filters-boosting-oceanic-imaging/"><u>[Updated] 2024 Approved Premium 5 Filters Boosting Oceanic Imaging</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-initiate-impact-a-strategic-blueprint-for-setting-up-a-tech-reviews-channel/"><u>[Updated] In 2024, Initiate Impact A Strategic Blueprint for Setting Up a Tech Reviews Channel</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-tricks-to-faster-and-smoother-instagram-media-for-2024/"><u>[Updated] Tricks to Faster and Smoother Instagram Media for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-superb-online-stores-where-to-find-and-purchase-youtube-ringtones/"><u>2024 Approved Superb Online Stores Where to Find & Purchase YouTube Ringtones?</u></a></li>
-<li><a href="https://windows11.techidaily.com/altering-winterrals-visual-theme/"><u>Altering WinTerral's Visual Theme</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-discovering-your-macos-version/"><u>Comprehensive Guide: Discovering Your MacOS Version</u></a></li>
-<li><a href="https://windows11.techidaily.com/easy-ways-to-revert-personalized-settings-on-windows-11s-search/"><u>Easy Ways to Revert Personalized Settings on Windows 11'S Search</u></a></li>
-<li><a href="https://windows11.techidaily.com/fix-self-shutdowns-steps-for-windows-11-users/"><u>Fix Self-Shutdowns: Steps for Windows 11 Users</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/mastering-the-art-of-instagram-post-scheduling-for-2024/"><u>Mastering the Art of Instagram Post Scheduling for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/restoring-disconnected-windows-printer-linkup/"><u>Restoring Disconnected Windows Printer Linkup</u></a></li>
-<li><a href="https://windows11.techidaily.com/show-your-connection-status-update-windows-icon-bar/"><u>Show Your Connection Status: Update Windows Icon Bar</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-samsung-galaxy-f54-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Samsung Galaxy F54 5G with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/solve-icloud-download-issues-with-these-helpful-steps/"><u>Solve iCloud Download Issues with These Helpful Steps</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlock-frozen-windows-handbraked-vaults/"><u>Unlock Frozen Windows-Handbraked Vaults</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11s-high-dynamic-range-mastered-for-the-modern-user/"><u>Windows 11'S High Dynamic Range Mastered for the Modern User</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-melody-match-maker-audio-ambience-for-videos/"><u>[New] Melody Match-Maker Audio Ambience For Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-unbeatable-screen-grabbers-for-modern-windows-pcs/"><u>[New] Unbeatable Screen Grabbers for Modern Windows PCs</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-futureproofing-your-data-with-budgeted-cloud-choices/"><u>[Updated] 2024 Approved Futureproofing Your Data with Budgeted Cloud Choices</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-social-network-showdown-2021-the-battle-between-tiktok-and-snapchat/"><u>[Updated] Social Network Showdown 2021 The Battle Between TikTok and Snapchat</u></a></li>
+<li><a href="https://windows11.techidaily.com/10-ways-to-clean-up-your-firewall-rules/"><u>10 Ways to Clean Up Your Firewall Rules</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-windows-photos-problem-package-not-registered/"><u>Addressing Windows Photos Problem - Package Not Registered</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-unable-to-start-application-error-xc000003e-in-windows-11/"><u>Avoiding Unable to Start Application Error Xc000003e in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/become-a-windows-wizard-learn-essential-shortcut-commands/"><u>Become a Windows Wizard: Learn Essential Shortcut Commands</u></a></li>
+<li><a href="https://windows11.techidaily.com/circumventing-office-activation-barriers-on-desktops/"><u>Circumventing Office Activation Barriers on Desktops</u></a></li>
+<li><a href="https://windows11.techidaily.com/configuring-advanced-windows-index-features/"><u>Configuring Advanced Windows Index Features</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/decoding-androids-editing-elite-is-picku-the-ultimate-choice/"><u>Decoding Android's Editing Elite Is PickU the Ultimate Choice?</u></a></li>
+<li><a href="https://windows11.techidaily.com/dissecting-windows-11s-user-identity-framework/"><u>Dissecting Windows 11'S User Identity Framework</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719299682478-enhancing-productivity-with-cloud-services-dropboxgoogle-on-c/"><u>Enhancing Productivity with Cloud Services: Dropbox/Google on C</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/how-to-permanently-remove-a-desktop-icon-a-six-step-guide/"><u>How to Permanently Remove a Desktop Icon: A Six-Step Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-motorola-moto-g14-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Motorola Moto G14</u></a></li>
+<li><a href="https://some-tips.techidaily.com/qualcomm-samsung-and-google-join-forces-for-groundbreaking-mixed-reality-eyewear-how-i-cheered-from-the-start-zdnet/"><u>Qualcomm, Samsung and Google Join Forces for Groundbreaking Mixed Reality Eyewear – How I Cheered From the Start | ZDNET</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/bes-finest-ranked-by-skyrocketing-subscriber-numbers-for-2024/"><u>YouTube's Finest Ranked by Skyrocketing Subscriber Numbers for 2024</u></a></li>
 </ul></div>
 

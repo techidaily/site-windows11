@@ -1,7 +1,7 @@
 ---
 title: Quick Guide to Eliminate Error 0X0000004E in Win10/11
-date: 2025-01-23T00:02:09.698Z
-updated: 2025-01-30T02:32:58.948Z
+date: 2025-02-06T08:24:08.478Z
+updated: 2025-02-10T19:26:04.208Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/0ec3b3e91ce6c2fd312d0c52b550de8f05b444cc8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Common Causes of the PFN\_LIST\_CORRUPT Error in Windows
 
  The 0x0000004E error, or PFN\_LIST\_CORRUPT error, can be caused by a variety of issues, including both software and hardware problems. Here are some of the most common ones:
@@ -37,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/0ec3b3e91ce6c2fd312d0c52b550de8f05b444cc8
  Before we delve into the troubleshooting methods for the 0x0000004E error, it is recommended that you [switch to an administrator account](https://www.makeuseof.com/windows-standard-adminstrator-account-differences/) if you are currently using a standard user account. This is because most of the solutions for this issue will require administrative access to the system.
 
  Once you have administrative access, you can proceed with the troubleshooting methods to resolve the 0x0000004E error.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Check Your Hard Drive for Issues
 
@@ -54,10 +62,6 @@ chkdsk /f
 ![CHKDSK command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chkdsk-command.jpg)
 5. If prompted, type Y and hit **Enter**. This will schedule a disk check upon the next system restart.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Finally, restart your computer. Upon reboot, Check Disk will run and scan your hard drive for issues.
 
  This process may take a while, so hang in there. We also recommend keeping a backup of your important files and data before you run Check Disk, just to be safe.
@@ -65,7 +69,7 @@ chkdsk /f
  You can also diagnose and fix a faulty RAM or memory-related issues [using the Memory Diagnostic tool in Windows](https://www.makeuseof.com/ways-to-open-windows-memory-diagnostic/). If the Check Disk utility failed to fix the problem, run the Memory Diagnostic tool and check the results in the Event Viewer. You can then take the necessary steps to fix the problem based on the underlying cause.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Disable Your Antivirus
@@ -79,16 +83,12 @@ chkdsk /f
 ![Disable antivirus in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/disable-antivirus-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the error does not appear after disabling the antivirus, then we highly recommend switching to a different, better security program. You can also configure Windows Defender Firewall properly if you do not want to trust a third-party security solution again.
 
  If you're already using Windows Defender, be sure to check out [how to turn off Windows Defender](https://www.makeuseof.com/how-to-turn-off-windows-defender/) and see if that fixes the BSOD.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Other Generic Windows BSOD Fixes to Try
 
@@ -99,7 +99,7 @@ chkdsk /f
  Finally, it's time to pull out the reliable fixes. Windows BSODs are usually due to a common pool of issues, and fixing those problems can fix almost any BSOD, including the 0x0000004E error. As such. be sure to check out our [tips to help you fix a Windows BSOD](https://www.makeuseof.com/tag/4-tips-fix-blue-screen-error/) for all the ways you can fix this issue, and any potential ones you encounter in the future.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## PFN\_LIST\_CORRUPT BSOD, Fixed
@@ -118,22 +118,17 @@ chkdsk /f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-keep-it-real-keep-it-right-tips-for-authentic-daily-videos/"><u>[Updated] Keep It Real, Keep It Right Tips for Authentic Daily Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-pioneering-sci-fi-escapades-10-movies-into-uncharted-realms/"><u>[Updated] Pioneering Sci-Fi Escapades 10 Movies Into Uncharted Realms</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-yourwebcamunlocked-astep-by-steprecordingpath/"><u>[Updated] YourWebcamUnlocked AStep-by-StepRecordingPath</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/1-microsoft-shatters-expectations-with-easily-repairable-latest-laptop-models-a-challenge-to-competitors-like-apple-insights-from-ifixit-featured-on-zdnet.m130/"><u>1. Microsoft Shatters Expectations with Easily-Repairable Latest Laptop Models: A Challenge to Competitors Like Apple - Insights From iFixit Featured on ZDNet</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/boosting-productivity-masterful-windows-shortcuts-guide/"><u>Boosting Productivity: Masterful Windows Shortcuts Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/cease-windows-tally-of-new-software-activities/"><u>Cease Windows' Tally of New Software Activities</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-laptops-screen-with-yellowish-discoloration/"><u>Correcting Laptop's Screen with Yellowish Discoloration</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/discovering-the-highlight-functionality-within-emeditor-your-go-to-advanced-text-editor/"><u>Discovering the Highlight Functionality Within EmEditor, Your Go-To Advanced Text Editor</u></a></li>
-<li><a href="https://windows11.techidaily.com/fine-tuning-windows-11s-online-threat-detection/"><u>Fine-Tuning Windows 11'S Online Threat Detection</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-prevent-your-devices-from-dozing-off-in-windows-11/"><u>How to Prevent Your Devices From Dozing Off in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/introducing-the-widget-toolbar-features-for-win11-users/"><u>Introducing the Widget Toolbar Features for Win11 Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-windows-passcode-alterations-effortlessly/"><u>Navigating Windows Passcode Alterations Effortlessly</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/prime-action-mic-choices-for-clear-videos-for-2024/"><u>Prime Action Mic Choices for Clear Videos for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-and-simple-steps-how-to-download-and-install-drivers-for-your-hp-device/"><u>Quick and Simple Steps: How to Download & Install Drivers for Your HP Device</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/review-of-the-latest-totobay-wake-up-light-is-it-your-best-budget-sleep-solution/"><u>Review of the Latest Totobay Wake-Up Light: Is It Your Best Budget Sleep Solution?</u></a></li>
-<li><a href="https://windows11.techidaily.com/simplify-system-upkeep-automatic-driver-replacement-for-amd/"><u>Simplify System Upkeep: Automatic Driver Replacement for AMD</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-decoding-the-detailed-workings-of-samsung-photo-editor-app/"><u>[Updated] 2024 Approved Decoding the Detailed Workings of Samsung Photo Editor App</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-how-to-create-time-travel-teleportation-effects/"><u>[Updated] In 2024, How to Create Time Travel Teleportation Effects</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-different-view-unique-changes-to-windows-11s-file-explorer/"><u>A Different View: Unique Changes to Windows 11'S File Explorer</u></a></li>
+<li><a href="https://windows11.techidaily.com/accessing-and-running-verifier-manager-in-windows-11/"><u>Accessing and Running Verifier Manager in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/bridging-the-gap-reconnecting-legrl-after-drops/"><u>Bridging the Gap: Reconnecting LeGRL After Drops</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-windows-1011-bluetooth-connect-failure/"><u>Bypassing Windows 10/11 Bluetooth Connect Failure</u></a></li>
+<li><a href="https://win-web3.techidaily.com/comment-recuperer-des-fichiers-supprimes-en-preservant-la-structure-de-dossiers-dorigine/"><u>Comment Récupérer Des Fichiers Supprimés en Préservant La Structure De Dossiers D'origine ?</u></a></li>
+<li><a href="https://windows11.techidaily.com/detecting-7-critical-windows-steps-for-cyber-threats/"><u>Detecting 7 Critical Windows Steps for Cyber Threats</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-rode-procaster-assessment-high-end-audio-performance-at-less-than-200-a-must-read-guide/"><u>Expert Rode PROCaster Assessment: High-End Audio Performance at Less Than $200 - A Must-Read Guide!</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/expert-tips-on-seamless-multisnapping-videos-in-snapchat/"><u>Expert Tips on Seamless Multisnapping Videos in Snapchat</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-nubia-z50s-pro-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Nubia Z50S Pro Phone Now with These Tips</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/is-google-wifi-the-ideal-smart-router-find-out-in-our-detailed-analysis-and-recommendations/"><u>Is Google Wifi The Ideal Smart Router? Find Out in Our Detailed Analysis and Recommendations</u></a></li>
 </ul></div>
 

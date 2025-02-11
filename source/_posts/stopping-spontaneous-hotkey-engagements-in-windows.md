@@ -1,7 +1,7 @@
 ---
 title: Stopping Spontaneous Hotkey Engagements in Windows
-date: 2025-01-28T19:20:55.717Z
-updated: 2025-01-29T22:44:29.353Z
+date: 2025-02-07T21:10:44.128Z
+updated: 2025-02-10T17:02:01.216Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Press Win + Alt to Deactivate the Shortcut Combo
@@ -35,13 +35,13 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 
  While we are unsure of what causes the issue, and there’s much less information on what the **Win + Alt** key combo does, it is an easy fix to resolve this problem.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Turn Off Sticky and Filter Keys
 
 ![turn off filter stickey keys windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/turn-off-filter-stickey-keys-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Sticky Keys and Filter Keys are Windows accessibility features that can be activated by pressing **Shift** repeatedly or for a long period. If you haven’t activated any of these accessibility features intentionally, make sure it is turned off and see if that returns things back to normal.
 
@@ -52,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 3. Scroll down to the Interaction section and click **Keyboard**.
 4. Next, toggle the switch for the **Sticky** and **Filter Keys**.
 5. Close the Settings app and restart your computer. After the system restarts, check if your keyboard is working.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Run the Keyboard Troubleshooter (Windows 10 Only)
 
@@ -85,11 +81,19 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 4. Once uninstalled, restart your computer.
 5. After the restart, Windows will automatically reinstall the necessary driver for the keyboard.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Reconfigure or Disable the Windows Ink Workspace Service
 
  If you use a pen-based or touch device, check if Windows Ink Workspace is enabled. By default, the letter I is a shortcut assigned to open the Windows Ink Workspace app. If so, you may want to disable the app to prevent Windows from accidentally triggering and opening the app when you press the keyboard keys.
 
  Windows 10 comes with the Windows Ink Workspace app built-in to it. Windows 11, by default, may enable the app on only touch-enabled devices. If you want to continue to use the app, you can disable the activation shortcut.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Disable Ink Workspace Activation Shortcut on Windows 11
 
@@ -101,7 +105,7 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 3. Close the **Settings** dialog and check for any improvements.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quit and Disable Auto Startup for Windows Ink Workspace
@@ -132,17 +136,13 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 ![create new key WindowsInkWorkspace for microsoft subkey registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/create-new-key-windowsinkworkspace-for-microsoft-subkey-registry-editor.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Rename the key as **WindowsInkWorkspace**.
 2. Next, right-click on the **WindowsInkWorkspace** key and select **New > DWORD (32-bit) Value**.  
 ![create new value AllowWindowsInkWorkspace for microsoft subkey registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/create-new-value-allowwindowsinkworkspace-for-microsoft-subkey-registry-editor.jpg)
 3. Rename the new values as **AllowWindowsInkWorkspace**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Next, double-click on the **AllowWindowsInkWorkspace** value to open its properties.  
 ![disable windowsinkworkspace registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-windowsinkworkspace-registry-editor.jpg)
@@ -178,17 +178,19 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-unlocking-the-power-of-your-everyday-webcam/"><u>[New] In 2024, Unlocking the Power of Your Everyday Webcam</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-step-by-step-tutorial-capturing-snapchat-moments/"><u>2024 Approved Step-by-Step Tutorial Capturing Snapchat Moments</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/guide-to-reviving-dormant-hp-flexscribe-machines/"><u>Guide to Reviving Dormant HP FlexScribe Machines</u></a></li>
-<li><a href="https://win-premium.techidaily.com/image-fiasco-unraveling-the-reasons-behind-poor-quality-scans-with-yl-software-solutions/"><u>Image Fiasco: Unraveling the Reasons Behind Poor Quality Scans with YL Software Solutions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleash-creativity-10-must-know-tips-for-cover-art/"><u>In 2024, Unleash Creativity 10 Must-Know Tips for Cover Art</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-window-10s-captions-with-minimal-trouble/"><u>Mastering Window 10'S Captions with Minimal Trouble</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-oppo-a56s-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Oppo A56s 5G Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-fix-for-ms-store-crash-error-code-0x0-on-win-1011/"><u>Quick Fix for MS Store Crash: Error Code 0X0 on Win 10/11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-the-ssleay32dll-file-is-missing-windows-issue/"><u>Resolving the 'ssleay32.dll File Is Missing' Windows Issue</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-windows-alt-codes-glitches-50-characters/"><u>Resolving Windows ALT Codes Glitches (50 Characters)</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-ntfs-file-size-reduction/"><u>The Ultimate Guide to NTFS File Size Reduction</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-5-must-have-apps-to-maximize-your-windows-workflow/"><u>Top 5 Must-Have Apps to Maximize Your Windows Workflow</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-how-to-go-live-on-facebook/"><u>[New] 2024 Approved How to Go Live on Facebook?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-mastering-the-art-of-attracting-more-youtube-admirers/"><u>[New] 2024 Approved Mastering the Art of Attracting More YouTube Admirers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Infinix Smart 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capture-tweets-as-mp3-audios-via-downloads-for-2024/"><u>Capture Tweets as MP3 Audios via Downloads for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-screen-recordings-add-audio-to-snipping-tool-features-max-156/"><u>Enhancing Screen Recordings: Add Audio to Snipping Tool Features (Max 156)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experiencing-lenovos-clear-computing-revolution-a-firsthand-look-at-the-transparent-laptop-at-mwc-insights/"><u>Experiencing Lenovo's Clear Computing Revolution: A Firsthand Look at the Transparent Laptop at MWC - Insights</u></a></li>
+<li><a href="https://windows11.techidaily.com/harnessing-ai-for-text-whisper-transcription-guide-for-windows-users/"><u>Harnessing AI for Text: Whisper Transcription Guide for Windows Users</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-honor-magic-vs-2-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Honor Magic Vs 2 Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/masterful-techniques-to-perfect-your-wsl-2-docker-workflow/"><u>Masterful Techniques to Perfect Your WSL 2 Docker Workflow</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedy-for-windows-update-failure-at-error-0xca00a009/"><u>Remedy for Windows Update Failure at Error 0xCA00A009</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-tecno-pova-5-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Tecno Pova 5 for Parents | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-and-remedying-error-code-0x80300024/"><u>Understanding and Remedying Error Code: 0X80300024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722875027608-understanding-the-503-service-unavailable-error-causes-and-solutions/"><u>Understanding the 503 Service Unavailable Error: Causes and Solutions</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-easy-steps-to-create-talking-memoji-on-iphone-free/"><u>Updated Easy Steps To Create Talking Memoji on iPhone Free</u></a></li>
 </ul></div>
 

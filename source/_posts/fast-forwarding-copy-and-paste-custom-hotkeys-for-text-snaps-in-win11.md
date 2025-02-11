@@ -1,7 +1,7 @@
 ---
 title: "Fast-Forwarding Copy & Paste: Custom Hotkeys for Text Snaps in Win11"
-date: 2025-01-26T01:46:58.705Z
-updated: 2025-01-30T06:17:04.434Z
+date: 2025-02-10T04:04:45.416Z
+updated: 2025-02-10T16:19:32.499Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/270945824bfc208da598210ea9d10172c37fe105e
 ![The Extract Compressed (Zipped) Folders tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/extract-compressed-window.jpg)
 5. Double-click**QuickTextPaste\_x64.exe** to run QuickTextPaste.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Now input some text you want to set up a custom paste hotkey for within the**Add** **text** box.  
 ![The QuickTextPaste window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-quicktextpaste-window.jpg)
 7. Select the keys to include within your hotkey on the two drop-down menus at the bottom of the QuickTextPaste window.
@@ -52,13 +48,13 @@ thumbnail: https://thmb.techidaily.com/270945824bfc208da598210ea9d10172c37fe105e
 
 ![A run Edge hotkey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-edge-hotkey.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  QuickTextPaste has a 4,000-character limit for text snippets. However, that’s not an especially big restriction. You can probably fit up to 600 words within a 4,000-character limit.
 
  QuickTextPaste needs to be running in the background for its hotkeys to work. You can set the program to run automatically by clicking**Action** \>**Start** **with Windows** . Select the**Always start minimized (ToTray)** option to set the program to appear only in the system tray area when started.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Set up Hotkeys for Pasting Pre-Defined Text With HotkeyP
 
@@ -71,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/270945824bfc208da598210ea9d10172c37fe105e
 5. Unzip the**hotkeyp\_64bit.zip** archive by right-clicking it and selecting**Extract All** . Click**Show extracted files** **when complete** \>**Extract** within the extraction tool.  
 ![The Extract All context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/extract-all-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Double-click**HotkeyP.exe** within the hotkeyp\_64bit folder.
 2. Click**Add** to bring up a Hot Key window.  
 ![The HotkeyP window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hotkeyp.jpg)
@@ -80,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/270945824bfc208da598210ea9d10172c37fe105e
 ![The Paste text option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/paste-text-option.jpg)
 5. Then input the text to paste within the**Parameters** box. That parameters box doesn’t seem to have any character number restriction for how long your pre-defined text can be.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Select one or more**Ctrl** ,**Alt** ,**Win** , and**Shift** checkboxes.
 7. Input a letter key within the text box to set the hotkey.
 8. Enter a title for the hotkey in the**Description** box.  
@@ -87,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/270945824bfc208da598210ea9d10172c37fe105e
 9. Select**OK** to add the new custom paste hotkey.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now you’ll see the hotkey you’ve just set listed within the HotkeyP window. Press**Esc** to hide the HotkeyP in the system tray. Then open WordPad, Notepad, or another text editor to try out the hotkey. Press the custom hotkey you’ve set up to paste in its pre-defined text.
@@ -98,14 +102,6 @@ thumbnail: https://thmb.techidaily.com/270945824bfc208da598210ea9d10172c37fe105e
 
 ![The General tab in HotkeyP's Options window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-general-tab.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Creating Other Hotkeys With HotkeyP
 
  It’s also worth exploring the other options for creating hotkeys HotkeyP offers beyond pasting pre-defined text. For example, you can set up custom hotkeys for various system functions like shutting down, logging off, emptying the Recycle Bin, and opening the Programs and Features applet among others. To do so, click the**arrow (<)** button and**System** on the Hot Key window to choose one of those hotkey functions.
@@ -115,6 +111,10 @@ thumbnail: https://thmb.techidaily.com/270945824bfc208da598210ea9d10172c37fe105e
  Or you can set up some custom window control hotkeys. Select**Window** on the command menu to view the various window keyboard shortcut options. There you can select**Always on Top** ,**Maximize window** ,**Minimize others** ,**Window snapshot,** **Close window** , and**Opacity** hotkey options, to name a few.
 
  You can set up a program keyboard shortcut by selecting an app’s path within the Hot Key window. Click the**ellipses (…)** button for the**Command** box to select a program for a keyboard shortcut to open. Then you can also select additional**Process priority** and**Run as administrator** settings for the software the hotkey launches.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Create Handy Hotkeys for Pasting Pre-Defined Text in Windows
 
@@ -135,16 +135,24 @@ thumbnail: https://thmb.techidaily.com/270945824bfc208da598210ea9d10172c37fe105e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-luxury.techidaily.com/2-simple-methods-setting-up-a-windows-10-recovery-partition/"><u>2 Simple Methods: Setting Up a Windows 10 Recovery Partition</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-enable-disable-and-change-safari-location-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>How to Enable, Disable, and Change Safari Location on Apple iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-resolve-logitech-configuration-problems-in-windows-environments/"><u>How to Resolve Logitech Configuration Problems in Windows Environments</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exceptional-facial-editing-software-iphoneandroid/"><u>In 2024, Exceptional Facial Editing Software, iPhone/Android</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-error-x80300024-issue-on-pc/"><u>Overcoming Error X80300024 Issue on PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/reestablishing-functionality-when-qt-plugins-fail-to-initialize/"><u>Reestablishing Functionality when Qt Plugins Fail to Initialize</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-configure-windows-firewall-for-chrome-permissions/"><u>Strategies to Configure Windows Firewall for Chrome Permissions</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211261856-9782889702367-tout-est-energie-developpez-votre-magnetisme-pour-une-vie-plus-harmonieuse/"><u>Tout est énergie : Développez votre magnétisme pour une vie plus harmonieuse | Free Book</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-make-your-moments-shine-best-highlight-video-makers-for-desktop-and-mobile-for-2024/"><u>Updated Make Your Moments Shine Best Highlight Video Makers for Desktop and Mobile for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/yuletide-yields-gifting-windows-software-through-ms-store/"><u>Yuletide Yields: Gifting Windows Software Through MS Store</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-subtitle-extraction-from-zip-archives-the-srt-solution/"><u>[New] Subtitle Extraction From ZIP Archives – The Srt Solution</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-social-scrutiny-who-felt-the-glance-on-your-insta-image/"><u>[Updated] 2024 Approved Social Scrutiny Who Felt the Glance on Your Insta Image?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-splitcam-reviewed-topping-in-video-recording-technology/"><u>[Updated] SplitCam Reviewed Topping in Video Recording Technology?</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-honor-90-gt-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-crucial-blunders-every-windows-11-novice-must-avoid/"><u>7 Crucial Blunders Every Windows 11 Novice Must Avoid</u></a></li>
+<li><a href="https://windows11.techidaily.com/changing-network-address-translation-types-simplified-for-wins-oses/"><u>Changing Network Address Translation Types Simplified for Wins OSes</u></a></li>
+<li><a href="https://windows11.techidaily.com/curing-unable-to-retrieve-settings-issue-with-geforce-experience-on-windows-11/"><u>Curing Unable to Retrieve Settings Issue with GeForce Experience on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-and-remedying-vac-blockade-in-steam/"><u>Deciphering & Remedying VAC Blockade in Steam</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-unrecognized-headphones-in-media-player-for-windows-11-users/"><u>How to Fix Unrecognized Headphones in Media Player for Windows 11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reinvigorate-the-essential-wsreset-process/"><u>How to Reinvigorate the Essential WSReset Process</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-affordable-text-animation-strategies-webreal-world/"><u>In 2024, Affordable Text Animation Strategies Web/Real World</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instagram-starters-guide-select-the-best-10-editors/"><u>Instagram Starters Guide - Select the Best 10 Editors</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-command-control-on-windows-with-sudo/"><u>Maximizing Command Control on Windows with Sudo</u></a></li>
+<li><a href="https://windows11.techidaily.com/microsoft-words-silent-mode-fix-for-pc-users/"><u>Microsoft Word's Silent Mode Fix for PC Users</u></a></li>
+<li><a href="https://article-files.techidaily.com/snapseed-basics-your-first-steps-in-enhancing-images-for-2024/"><u>Snapseed Basics Your First Steps in Enhancing Images for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-troubleshooting-guide-for-non-functioning-redragon-pc-microphone/"><u>Solved: Troubleshooting Guide for Non-Functioning Redragon PC Microphone</u></a></li>
+<li><a href="https://windows11.techidaily.com/tech-harmony-wirelessly-connect-dualshock-to-pc/"><u>Tech Harmony: Wirelessly Connect DualShock to PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-overcoming-black-screen-on-store-app/"><u>Tips for Overcoming Black Screen on Store App</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-1011-auto-cleanup-a-step-by-step-guide/"><u>Windows 10/11 Auto-Cleanup: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

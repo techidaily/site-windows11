@@ -1,7 +1,7 @@
 ---
 title: Tackling the Busy Resource Issue in Windows Environments (153 Chars)
-date: 2025-01-28T00:24:35.223Z
-updated: 2025-01-29T17:10:41.172Z
+date: 2025-02-08T17:59:17.805Z
+updated: 2025-02-10T21:49:12.195Z
 tags:
   - windows10
   - windows11
@@ -50,14 +50,10 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 
 ![The View tab in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-view-tab.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Note that just disabling the preview pane might not always be enough. If that doesn’t work, try turning off the icon file view. To do so in Windows 11 File Explorer, click **View** and select the **List** or **Details view** option. You can select the same options on the **View** tab in Windows 10 File Explorer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Run a Malware Scan
@@ -69,19 +65,27 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 ![The Scan options navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-scan-options.jpg)
 3. Select the **Full scan** setting.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click **Scan now** to initiate the malware scanning.  
 ![The Scan now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-full-scan-radio-button.jpg)
 5. Wait for the scanning to finish and select **Start actions** to remove detected malware.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you find Microsoft Defender is disabled and cannot turn it on, that’s a surefire sign the SmartService malware has infected your PC. SmartService is a rootkit trojan that blocks users from utilizing antivirus tools. That malware can also block the installation of some antivirus apps. In this case, the “requested resource in use” error can also occur when you try to run security apps.
 
  To circumvent such a block, try running a Windows Security or third-party app antivirus scan in safe mode instead. Our guide to [booting into safe mode on Windows](https://www.makeuseof.com/windows-11-boot-safe-mode/) includes a few different methods for entering that troubleshooting mode. Select to enable safe mode with networking.
 
 ![windows 11 startup settings safe mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-startup-settings-safe-mode.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Disable Any Unknown Programs in Task Manager
 
@@ -95,7 +99,7 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 5. Then restart your PC to see if the issue persists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Uninstall Any Suspicious-Looking Programs
@@ -109,16 +113,12 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 ![The Uninstall option in Programs and Features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-uninstall-option4.jpg)
 3. Right-click on the suspected SmartService malware and select **Uninstall**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. If you can’t uninstall the suspicious software, restart Windows in safe mode. Then try removing the same suspicious item via Programs and Features in safe mode.
 
  Also, clear temporary data after uninstalling SmartService to ensure the malware can’t re-emerge. To do so, you’ll need to clear out the Temp folder. This article about [deleting temporary files](https://www.makeuseof.com/windows-11-delete-temporary-files/) includes alternative methods for clearing data in the Temp folder.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Perform a Factory Reset
@@ -145,24 +145,22 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-deconstructing-magix-photo-and-video-tools/"><u>[New] Deconstructing MAGIX Photo & Video Tools</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-the-ultimate-roadmap-to-crafting-high-quality-srt-files/"><u>[New] The Ultimate Roadmap to Crafting High-Quality SRT Files</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-peak-level-hd-mastery-in-the-markets-top-recorders/"><u>[Updated] In 2024, Peak-Level HD Mastery in the Market's Top Recorders</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-streamline-video-shoot-excellent-camera-tripods-reviewed-for-2024/"><u>[Updated] Streamline Video Shoot Excellent Camera Tripods Reviewed for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-ultra-30-action-camera-by-garmin-detailed-reviews-and-features/"><u>[Updated] Ultra 30 Action Camera by Garmin – Detailed Reviews & Features</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-captivating-crafting-writing-intriguing-youtube-descriptions-with-templates/"><u>2024 Approved Captivating Crafting Writing Intriguing Youtube Descriptions with Templates</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-cinema-in-editing-10-snippet-selections/"><u>2024 Approved Cinema in Editing 10 Snippet Selections</u></a></li>
-<li><a href="https://win-top.techidaily.com/destination-of-deleted-data-understanding-what-occurs-when-you-clear-your-recycle-bin/"><u>Destination of Deleted Data: Understanding What Occurs When You Clear Your Recycle Bin</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-defrag-a-hard-disk-drive-in-windows-11/"><u>How to Defrag a Hard Disk Drive in Windows 11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-watch-fubotv-channels-using-an-amazon-fire-stick-ultimate-tutorial/"><u>How to Watch FuboTV Channels Using an Amazon Fire Stick - Ultimate Tutorial</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-lava-blaze-pro-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Lava Blaze Pro 5G Phone that is Locked?</u></a></li>
-<li><a href="https://windows11.techidaily.com/master-organization-to-do-and-ifttt-alliance/"><u>Master Organization: To-Do & IFTTT Alliance</u></a></li>
-<li><a href="https://windows11.techidaily.com/master-time-management-pick-from-these-5-best-windows-clock-screen-saver-apps/"><u>Master Time Management: Pick From These 5 Best Windows Clock Screen Saver Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-art-of-resolving-windows-errors-in-windows-11/"><u>Mastering the Art of Resolving Windows Errors in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/personalize-your-keyboard-use-with-winos-commands/"><u>Personalize Your Keyboard Use with WinOS Commands</u></a></li>
-<li><a href="https://windows11.techidaily.com/preserving-default-time-on-windows-pcs/"><u>Preserving Default Time on Windows PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/techniques-to-break-windows-stealthy-cam-policy/"><u>Techniques to Break Window's Stealthy Cam Policy</u></a></li>
-<li><a href="https://windows11.techidaily.com/transforming-black-desktop-backgrounds-on-pcs/"><u>Transforming Black Desktop Backgrounds on PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/win-rpc-problems-here-are-5-fixes-you-need/"><u>Win RPC Problems? Here Are 5 Fixes You Need!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-audible-brilliance-the-ultimate-mic-guide-for-2024/"><u>[New] Audible Brilliance The Ultimate Mic Guide for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-android-photography-tricks-and-tools/"><u>[New] Mastering Android Photography Tricks & Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-exercise-innovations-6-youtube-ideas-for-movement-focused-viewers-for-2024/"><u>[Updated] Exercise Innovations 6 YouTube Ideas for Movement-Focused Viewers for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-top-6-cheapest-action-cameras-to-buy-under-100/"><u>[Updated] Top 6 Cheapest Action Cameras to Buy Under $100</u></a></li>
+<li><a href="https://win11.techidaily.com/2024pc-3/"><u>【2024年度リリース】プロの品質に匹敵するPC画面録画ソフトウェア トップ3選</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-from-apple-iphone-14-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock From Apple iPhone 14 Online</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-deeper-dive-into-user-experience-revamping-windows-11-widgets/"><u>A Deeper Dive Into User Experience: Revamping Windows 11 Widgets</u></a></li>
+<li><a href="https://windows11.techidaily.com/activate-dialer-in-microsoft-windows-11/"><u>Activate Dialer in Microsoft Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-occupied-files-a-guide-for-windows-11-users/"><u>Clearing Occupied Files: A Guide for Windows 11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/combatting-sound-malfunction-fixing-error-code-xc00d36b4/"><u>Combatting Sound Malfunction: Fixing Error Code Xc00d36b4</u></a></li>
+<li><a href="https://windows11.techidaily.com/command-the-past-mastering-file-history-navigation/"><u>Command the Past: Mastering File History Navigation</u></a></li>
+<li><a href="https://windows11.techidaily.com/defeating-disk-defenders-sync-soundcard-irq-in-windows/"><u>Defeating Disk Defenders: Sync Soundcard IRQ in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/digital-dominance-your-must-have-msistore-picks/"><u>Digital Dominance: Your Must-Have MSIStore Picks</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-infinix-hot-40-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Infinix Hot 40 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-troubleshooting-fixing-steam-freeze-in-windows-gaming/"><u>Mastering Troubleshooting: Fixing Steam Freeze in Windows Gaming</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719235299454-overcome-the-stumbling-block-fixing-the-missing-wwinplusprint-on-pc/"><u>Overcome The Stumbling Block: Fixing the Missing WWin+Print on PC</u></a></li>
+<li><a href="https://ai-video.techidaily.com/updated-in-2024-best-10-hindi-video-translators-with-step-by-step-guidance/"><u>Updated In 2024, Best 10 Hindi Video Translators with Step-by-Step Guidance</u></a></li>
 </ul></div>
 

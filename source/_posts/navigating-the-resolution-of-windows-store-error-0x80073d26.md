@@ -1,7 +1,7 @@
 ---
 title: Navigating the Resolution of Windows Store Error 0X80073D26
-date: 2025-01-23T22:35:51.843Z
-updated: 2025-01-29T23:54:48.781Z
+date: 2025-02-06T16:16:58.054Z
+updated: 2025-02-10T20:52:59.108Z
 tags:
   - windows10
   - windows11
@@ -36,7 +36,15 @@ thumbnail: https://thmb.techidaily.com/e0fa0d67e26442f6514904daf3cc23134382c2cc5
 ![The Run button for the Windows App Store troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-app-store-troubleshooter.jpg)
 5. Apply all troubleshooting suggestions provided within Windows Store Apps window.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Windows Store Apps window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-store-app-troubleshooter.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can run the same troubleshooter tool in Windows 10, but the steps for accessing it are a bit different. Click **Update & Security** \> **Troubleshoot** \> **Additional troubleshooters** in Windows 10’s Settings app. Then select **Windows Store Apps** \> **Run the troubleshooter** to get troubleshooting.
 
@@ -45,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/e0fa0d67e26442f6514904daf3cc23134382c2cc5
  Accumulated and corrupted Microsoft Store cache data is a potential cause for error 0x80073D26\. Resetting the Microsoft Store app via Settings or the Command Prompt will clear the app’s data. Try applying both methods in this guide to resetting Microsoft Store. Also, select the **Repair** option for the Microsoft Store just above its **Reset** button in Settings to see if that resolves the issue.
 
 ![The Reset button for Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-button-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Edit the Registry
 
@@ -62,14 +66,10 @@ thumbnail: https://thmb.techidaily.com/e0fa0d67e26442f6514904daf3cc23134382c2cc5
 ![The Delete registry key option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/delete-option-1.jpg)
 5. Click the **GamingServicesNet** key with the mouse’s right button and select the **Delete** \> **Yes** options.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Exit Registry Editor and restart your PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Reinstall the Microsoft Gaming Service
@@ -84,10 +84,6 @@ thumbnail: https://thmb.techidaily.com/e0fa0d67e26442f6514904daf3cc23134382c2cc5
 ![The remove-app package command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/remove-app-package-command.jpg)
 5. Then input these separate commands, pressing **Return** after each:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServices" -recurse  
 
 Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -recurse` 
@@ -98,10 +94,6 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 `start ms-windows-store://pdp/?productid=9MWPM2CQNLHN`
 8. Then click the **Get** button for installing Gaming Service.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Perform Some Generic Windows Fixes for Errors
 
  Windows is by no means impervious to errors. Fortunately, there are some tricks you can apply to almost every error, including this one.
@@ -110,6 +102,10 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 
 ![The Reset button for Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-button-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To begin with, try repairing system files to see if there are any issues. You can do that by executing a System File Checker scan within the Command Prompt. That tool will check for and repair corrupted system files detected when you run its command. To apply this potential fix, follow the instructions in our [how to run the System File Checker tool](https://www.makeuseof.com/system-file-checker-sfc-windows/) guide.
 
 ### Set Windows to Clean Boot
@@ -117,7 +113,7 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 ![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-services-tab.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Another possibility is that a software conflict might be causing error 0x80073D26 to occur on your PC. Setting Windows to clean boot by disabling third-party startup items will likely eliminate such a potential cause. That will stop third-party apps and services that could be conflicting with the Microsoft Store from automatically starting.
@@ -128,9 +124,17 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 
 ![The remove Microsoft Store command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/remove-microsoft-store-command.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Some users might need to reinstall the Microsoft Store to fix error 0x80073D26\. Such a resolution might be necessary for fixing wider issues with the Microsoft Store app other potential solutions don’t address.
 
  There isn’t a standard uninstall option available for Microsoft Store. So, you’ll have to reinstall that app with two PowerShell commands. Our guide about [how to reinstall the Microsoft Store](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/) tells you how to apply this potential fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Perform an In-Place Windows Upgrade
 
@@ -143,10 +147,6 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 ![The Windows 11 Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-11-setup-window2.jpg)
 
  You can also perform a Windows 10 in-place upgrade much the same. One difference is that you’ll need to download a Windows 10 Setup file by clicking **Download tool** on the [Microsoft Windows 10 download webpage](https://www.microsoft.com/en-gb/software-download/windows10). Then select **Upgrade this PC** now in the Windows 10 Setup wizard to install the latest version of the OS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Enjoy the Best Xbox Game Pass Games Available on the Microsoft Store
 
@@ -164,24 +164,22 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-dive-into-sonys-high-res-xperia-the-4k-phone-unveiled/"><u>[New] In 2024, Dive Into Sony's High-Res Xperia The 4K Phone Unveiled</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-itop-screen-recorder-essential-or-excessive-in-2024/"><u>[New] ITop Screen Recorder - Essential or Excessive, In 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-capturing-contentment-top-streaming-techniques/"><u>[Updated] 2024 Approved Capturing Contentment Top Streaming Techniques</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-key-software-to-craft-impeccable-voices-for-virtual-stars/"><u>2024 Approved Key Software to Craft Impeccable Voices for Virtual Stars</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-leading-mac-applications-of-2023-as-ranked-by-experts/"><u>Discover the Leading Mac Applications of 2023 as Ranked by Experts</u></a></li>
-<li><a href="https://windows11.techidaily.com/exclusive-insight-the-ultimate-roundup-of-windows-video-tools/"><u>Exclusive Insight: The Ultimate Roundup of Windows Video Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/gamers-guide-cooling-down-the-heat-of-laptop-games/"><u>Gamer's Guide: Cooling Down the Heat of Laptop Games</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-f54-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Samsung Galaxy F54 5G to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-melodic-memberships-leading-online-hubs-for-got-ringtone-purchases/"><u>In 2024, Melodic Memberships Leading Online Hubs for GoT Ringtone Purchases</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-repair-of-file-corruption-error-code-0x80070570-in-windows-11/"><u>Mastering Repair of File Corruption (Error Code 0X80070570) in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-the-steps-of-modifying-win-11s-menu/"><u>Navigating Through the Steps of Modifying Win 11'S Menu</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-fixes-to-unblock-your-windows-pin-entry/"><u>Quick Fixes to Unblock Your Windows Pin Entry</u></a></li>
-<li><a href="https://win11.techidaily.com/resurrecting-hibernation-a-windows-users-guide/"><u>Resurrecting Hibernation: A Windows User's Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/simplifying-the-process-of-getting-adobe-reader-on-ms-store/"><u>Simplifying the Process of Getting Adobe Reader on MS Store</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-wallpapers-for-each-windows-11-workspace-element/"><u>Step-by-Step Wallpapers for Each Windows 11 Workspace Element</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-process-for-distro-and-catroot2-fixes-in-ws11/"><u>The Ultimate Process for Distro & Catroot2 Fixes in WS11</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-for-launching-csgo-in-windows-11/"><u>Tips for Launching CS:GO in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-routes-for-steam-connection-failures/"><u>Troubleshooting Routes for Steam Connection Failures</u></a></li>
-<li><a href="https://windows11.techidaily.com/win-11-proxies-a-practical-guide-to-enhanced-privacy/"><u>Win 11 Proxies: A Practical Guide to Enhanced Privacy</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-tweet-to-facebook-video-sharing-a-2023-perspective/"><u>[New] 2024 Approved Tweet-to-Facebook Video Sharing A 2023 Perspective</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-crafting-engaging-video-content-for-live-streams/"><u>[Updated] 2024 Approved Crafting Engaging Video Content for Live Streams</u></a></li>
+<li><a href="https://windows11.techidaily.com/access-androids-gaming-joy-on-pc-from-phone-to-window-11-via-google-linkup/"><u>Access Android's Gaming Joy on PC: From Phone to Window 11 via Google Linkup</u></a></li>
+<li><a href="https://windows11.techidaily.com/accessing-windows-11s-soul-a-guide-to-registry-files-exploration/"><u>Accessing Windows 11’S Soul: A Guide to Registry Files Exploration</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/amplify-your-videos-impact-with-strategically-placed-time-markers-for-2024/"><u>Amplify Your Video's Impact with Strategically Placed Time Markers for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-taskbar-efficiency-win11-guide/"><u>Boosting Taskbar Efficiency: Win11 Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/breaking-through-file-download-blockades-on-windows-11/"><u>Breaking Through File Download Blockades on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-chrome-time-lag-on-windows-devices/"><u>Correcting Chrome Time Lag on Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-the-file-damage-enigma-winning-over-error-0x80070570-on-windows-11/"><u>Deciphering the File Damage Enigma - Winning Over Error 0X80070570 on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-windows-ram-allocation-strategies/"><u>Deciphering Windows' RAM Allocation Strategies</u></a></li>
+<li><a href="https://windows11.techidaily.com/differentiating-windows-terminal-from-powershell-a-compreayer-study/"><u>Differentiating Windows Terminal From PowerShell: A Compreayer Study</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-c51-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Realme C51 Phone with Broken Screen</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-huawei-nova-y71-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Huawei Nova Y71 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mejores-monitores-de-edicion-de-video-del-ano-2cuatro-guia-comparativa-de-modelos-optimos-y-budget-friendly/"><u>Mejores Monitores De Edición De Vídeo Del Año 2Cuatro: Guía Comparativa De Modelos Óptimos Y Budget-Friendly</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/optimize-your-printing-essential-driver-update-guidance-for-dells-2330d-and-2330dn-mono-laser-models/"><u>Optimize Your Printing: Essential Driver Update Guidance for Dell's 2330D and 2330Dn Mono Laser Models</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/resolving-playback-glitches-on-macos-sierra-tips-and-tricks-for-smooth-operation/"><u>Resolving Playback Glitches on MacOS Sierra - Tips and Tricks for Smooth Operation</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/top-10-emulator-selections-for-mobile-gba-players/"><u>Top 10 Emulator Selections for Mobile GBA Players</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Key Techniques for WindowsApps File Reveal
-date: 2025-01-25T21:42:01.829Z
-updated: 2025-01-30T04:13:31.636Z
+date: 2025-02-03T21:16:15.710Z
+updated: 2025-02-10T22:31:17.625Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/8c939daafbcd042f39c237e82182653fc156f3f06
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the WindowsApps Folder?
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/8c939daafbcd042f39c237e82182653fc156f3f06
  The problem is that a basic Windows user or even a system administrator user account can't access or change the files in the folder. This is because it is owned by a Microsoft account named "TrustedInstaller." We've already covered [everything about TrustedInstaller](https://www.makeuseof.com/tag/what-is-trustedinstaller-and-why-does-it-keep-me-from-renaming-files/) and how to disable it in detail.
 
 ![WindowsApps Hidden Folder In Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/WindowsApps-Hidden-Folder.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Even if you uninstall or debloat some of the apps on Windows, the core application files are not removed from the WindowsApps folder. So, there are chances that such apps will reappear after a new Windows update.
 
@@ -54,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/8c939daafbcd042f39c237e82182653fc156f3f06
 1. Open the Windows File Explorer (**Win + E**) and go to the **C:\\Program Files** directory.  
 ![Program Files Directory In Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Program-Files-Directory-In-Explorer.jpg)
 2. Now, click the **View** options button at the top of the File Explorer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Click or hover over the **Show** button and select the **Hidden items** option to enable it.  
 ![File Explorer View Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/file-explorer-view-options.jpg)
@@ -76,24 +84,24 @@ thumbnail: https://thmb.techidaily.com/8c939daafbcd042f39c237e82182653fc156f3f06
 ![WindowsApps Security Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/WindowsApps-Security-Properties.jpg)
 4. Once you've opened the Advanced Security Settings window, click the **Change** text next to Owner.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Now, click **Advanced > Find Now > Administrator on the following screen**.  
 ![Advanced Security Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/advanced-security-properties.jpg)
 6. Finally, click **OK** to select the Administrator as the owner and again **OK** to save the changes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![User Group Selection Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/User-Group-Selection-Window.jpg)
 7. Then, tick the checkbox before the **Replace owner on sub containers and objects** text.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 8. Now, click the **Apply** button, followed by the **OK** button, to initiate the process of transferring ownership.  
 ![WindowsApps Advanced Security Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/WindowsApps-Advanced-Security-Settings.jpg)
 9. Once done, click the **OK** button on the next pop-up.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you followed the steps above to take ownership of the WindowsApps folder, you can now move or delete files from that folder.
 
@@ -119,6 +127,10 @@ thumbnail: https://thmb.techidaily.com/8c939daafbcd042f39c237e82182653fc156f3f06
 
 ![Change Ownership Command In Shell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Change-Ownership-Command-In-Shell.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The above command will restore all the files or folder ownership to the system administrator. It will take some time for your administrator user account to become the owner of the WindowsApps folder and everything in it.
 
  The access you gain by executing the above process is similar to that of the Windows File Explorer-based method. You have just automated the process and eliminated the unhiding of system files. Now, you can back up, clear some space, or make changes to the Windows apps' back-end files.
@@ -136,25 +148,13 @@ thumbnail: https://thmb.techidaily.com/8c939daafbcd042f39c237e82182653fc156f3f06
 ![Take Ownership Registry File In Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Take-Ownership-Registry-File.jpg)
 3. On the next screen, click **Yes** to add it to the registry.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Next, exit the popup by clicking **OK** and navigate to the **C:\\Program Files** directory.
 5. Select the **WindowsApps** folder and right-click on it.
 6. From the context menu, click the **Take Ownership** option.  
 ![Take Ownership Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Take-Ownership-Context-Menu.jpg)
 7. In the Command Prompt, you must [give User Account Control Administrator rights](https://www.makeuseof.com/tag/user-account-control-windows-10/) for the registry hack to work. After that, please wait a few minutes for the window to close. Soon, it will display success messages constantly in the Command Prompt.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once finished, you'll no longer face the "You've been denied permission" error on clicking the WindowsApps folder.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Enjoy Unrestricted Access to the WindowsApps Folder
 
@@ -176,24 +176,20 @@ thumbnail: https://thmb.techidaily.com/8c939daafbcd042f39c237e82182653fc156f3f06
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/everaging-imovies-power-for-youtube-presence-and-growth/"><u>[New] Leveraging IMovie's Power for YouTube Presence and Growth</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-youtubes-secret-to-success-a-compre-ffive-essential-keyword-tools/"><u>[Updated] 2024 Approved YouTube's Secret to Success A Compre FFive Essential Keyword Tools</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-ephemeral-movie-blueprint-for-2024/"><u>[Updated] Ephemeral Movie Blueprint for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-proven-methods-for-high-quality-webinars/"><u>[Updated] Proven Methods for High-Quality Webinars</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-vivo-y27-4g-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Vivo Y27 4G by Name | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-curated-list-of-6-essential-android-apps-for-windows-11-users/"><u>A Curated List of 6 Essential Android Apps for Windows 11 Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/adjusting-asymmetric-windows-headphone-output/"><u>Adjusting Asymmetric Windows Headphone Output</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/breakthrough-features-of-the-new-iphone-16-explored-seamless-space-recording-technology-and-enhanced-thin-profiling-for-all-versions/"><u>Breakthrough Features of the New iPhone 16 Explored: Seamless Space Recording Technology and Enhanced Thin Profiling for All Versions</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-windows-admin-error-for-apps/"><u>Bypassing Windows Admin Error for Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciphering-the-language-giants-bert-and-gpt-analysis/"><u>Deciphering the Language Giants: BERT & GPT Analysis</u></a></li>
-<li><a href="https://windows11.techidaily.com/diving-into-devs-how-to-use-the-dev-drive-on-windows-11/"><u>Diving Into Devs: How to Use the Dev Drive on Windows 11</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/e-audiences-best-hashtags-for-going-viral-on-yt/"><u>Engage Audiences Best Hashtags for Going Viral on YT</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-hidden-windows-bar-when-browser-frames-are-enlarged/"><u>Fixing Hidden Windows Bar when Browser Frames Are Enlarged</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-honor-x50i-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Honor X50i to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/mending-windows-update-blockage-error-e/"><u>Mending Windows Update Blockage, Error E</u></a></li>
-<li><a href="https://windows11.techidaily.com/revitalizing-the-old-guard-running-windows-11-on-pre-ultimate-pcs-via-to-go-and-rufus/"><u>Revitalizing the Old Guard: Running Windows 11 on Pre-Ultimate PCs via To Go & Rufus</u></a></li>
-<li><a href="https://windows11.techidaily.com/snipping-tool-or-printscreen-best-windows-capture-strategy/"><u>Snipping Tool or Printscreen? Best Windows Capture Strategy</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-permission-fixes-for-installer-problems/"><u>Streamlining Permission Fixes for Installer Problems</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-guide-leading-laptop-carriers-reviewed-2023-edition/"><u>Ultimate Guide: Leading Laptop Carriers Reviewed - 2023 Edition</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/iy-gif-making-transforming-youtube-videos-into-animated-forms/"><u>[New] DIY GIF Making Transforming YouTube Videos Into Animated Forms</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-unobstructed-movie-magic-erasing-youtube-borders/"><u>[New] In 2024, Unobstructed Movie Magic Erasing YouTube Borders</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-sourcing-free-frame-videos-without-a-dollar-drop-for-2024/"><u>[New] Sourcing Free Frame Videos Without a Dollar Drop for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/11-ways-to-fix-the-windows-search-bar-not-showing-or-working-on-windows-11/"><u>11 Ways to Fix the Windows Search Bar Not Showing or Working on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/5-ways-to-check-your-device-uptime-on-windows-11/"><u>5 Ways to Check Your Device Uptime on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/accelerated-tactics-for-gaming-hardware-recognition/"><u>Accelerated Tactics for Gaming Hardware Recognition</u></a></li>
+<li><a href="https://techtrends.techidaily.com/alternate-browsers-for-smart-tvs-how-to-change-your-samsungs-default-option/"><u>Alternate Browsers for Smart TVs: How to Change Your Samsung's Default Option</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-boot-speed-with-simple-steps-in-windows-11-setup/"><u>Boosting Boot Speed with Simple Steps in Windows 11 Setup</u></a></li>
+<li><a href="https://windows11.techidaily.com/breach-limitation-threshold-unleash-higher-ethernet-speeds-on-windows/"><u>Breach Limitation Threshold: Unleash Higher Ethernet Speeds on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/changing-onedrive-storage-address-in-windows-10/"><u>Changing OneDrive Storage Address in Windows 10</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/sing-correspondents-curtains-for-2024/"><u>Composing Correspondents' Curtains for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-why-many-dismiss-windows-11-now/"><u>Decoding Why Many Dismiss Windows 11 Now</u></a></li>
+<li><a href="https://win11.techidaily.com/installing-virtualbox-on-windows-set-up-the-dependencies-first-for-error-free-installation/"><u>Installing VirtualBox on Windows? Set Up the Dependencies First for Error-Free Installation</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-honor-magic-5-pro-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Honor Magic 5 Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/streaming-windows-network-shares-from-smartphones/"><u>Streaming Windows Network Shares From Smartphones</u></a></li>
 </ul></div>
 

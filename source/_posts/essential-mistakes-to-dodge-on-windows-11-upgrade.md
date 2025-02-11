@@ -1,7 +1,7 @@
 ---
 title: Essential Mistakes to Dodge on Windows 11 Upgrade
-date: 2024-08-15T15:26:47.042Z
-updated: 2024-08-16T15:26:47.042Z
+date: 2025-02-07T23:51:17.543Z
+updated: 2025-02-10T18:34:57.713Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,17 @@ thumbnail: https://thmb.techidaily.com/7ad836b78743150f7926162559e15271095acf4f6
 
  We've put together a list of things you should never do in Windows 11\. Not only that, but we're also giving reasons why you should not change them on your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Microsoft Defender Protects Your PC From Threats, Never Disable It
 
 ![Microsoft Defender Logo on Laptop Screen](https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b1c96fbfb8d71b7193c17bd8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Microsoft Defender, formerly known as Windows Defender, is your default antivirus app that protects your PCs from various threats, including viruses, malware, spyware, and phishing. It protects you from falling prey to threats emanating from both online and offline.
 
@@ -32,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/7ad836b78743150f7926162559e15271095acf4f6
 
  However, if you're confused about whether you should purchase antivirus software, [check out if Microsoft Defender is good enough for you](https://www.makeuseof.com/is-microsoft-defender-the-best-antivirus-for-your-pc-in-2021/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. You Should Not Download Software From Untrusted Sources
 
 ![The Microsoft Store app](https://thmb.techidaily.com/2ce1793b7eb9df5d73bd2287ee2fb75c54bfd7ec38a9d51d9c25c70c5f788347.jpg)
@@ -48,9 +53,6 @@ thumbnail: https://thmb.techidaily.com/7ad836b78743150f7926162559e15271095acf4f6
 ## 3\. Windows Updates Are Important, Never Miss Them
 
 ![Checking for Available Windows Updates in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Image-1-Checking-for-Available-Windows-Updates-in-Windows-Settings-App.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  After releasing a major Windows update, Microsoft continues to push security updates to keep your PC safe from the latest malware. Avoiding or delaying installing those monthly security updates will put your PC at severe risk.
 
@@ -72,9 +74,6 @@ thumbnail: https://thmb.techidaily.com/7ad836b78743150f7926162559e15271095acf4f6
 
  If you're not a pro at generating a strong password by yourself, check our list of the [best password generators for Windows](https://www.makeuseof.com/desktop-password-generators-windows/).
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## 5\. Never Use Public Wi-Fi Without VPN
 
 ![connecting to a virtual private network on laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/laptop-screen-showing-a-vpn-connection.jpg)
@@ -93,12 +92,13 @@ thumbnail: https://thmb.techidaily.com/7ad836b78743150f7926162559e15271095acf4f6
 
  Besides security, outdated software will always lag in other key metrics, including performance and functionality. A newer software version will provide the latest features and optimum protection. Software in Windows 11 PCs is not an exception.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. You Shouldn't Disable User Account Control, Unless You're an Advanced User
 
 ![The User Account Control Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-uac-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  User Account Control (UAC) is a security feature in Windows 11\. It's enabled by default to keep your PC safe from risks that could be triggered when you make specific changes to your PC.
 
@@ -107,8 +107,9 @@ thumbnail: https://thmb.techidaily.com/7ad836b78743150f7926162559e15271095acf4f6
  Unless you're an advanced user wanting to bypass those prompts, you should never [disable the UAC prompt](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/). When UAC is turned off, you won't get any prompts to warn you about the consequences of the change. So, if you're a casual user, you better avoid changing the UAC's default state.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Avoid Installing Too Many Programs on Your PC
 
  When you're no longer using a program, it's always better to get rid of it. We recommend you uninstall all the programs that are no longer essential to you. By uninstalling them, you can free the system's memory and improve the overall performance of your PCs.
@@ -116,8 +117,9 @@ thumbnail: https://thmb.techidaily.com/7ad836b78743150f7926162559e15271095acf4f6
  Moreover, you should always keep an eye on the number of apps running in the background. And if too many of them are in the background, the app currently in use may not be as responsive as you'd want it to be. Installing too many apps on your PC makes your system more cluttered and makes it difficult to find them.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Now You're Aware of What You Shouldn't Do in Windows 11
 
  All the features you find in Windows 11 are meant to achieve something, but they're not for everyone. Just because you're allowed to do something doesn't mean the OS encourages you to do that.
@@ -126,8 +128,6 @@ thumbnail: https://thmb.techidaily.com/7ad836b78743150f7926162559e15271095acf4f6
 
  We've put together a list of things you should never do in Windows 11\. Not only that, but we're also giving reasons why you should not change them on your PC.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -135,5 +135,24 @@ thumbnail: https://thmb.techidaily.com/7ad836b78743150f7926162559e15271095acf4f6
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-indispensable-sandbox-journeys-await-for-2024/"><u>[New] Indispensable Sandbox Journeys Await for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-deciphering-youtubes-processing-after-uploading/"><u>[Updated] Deciphering YouTube's Processing After Uploading</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-exploring-public-domain-art-what-is-it-and-website-recommendations-for-2024/"><u>[Updated] Exploring Public Domain Art What Is It and Website Recommendations for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-convert-and-share-simplified-mp3-to-youtube-process-3-phases/"><u>[Updated] In 2024, Convert & Share Simplified MP3 to YouTube Process [3 Phases]</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-perfect-your-posts-instagram-video-edits-with-borders/"><u>[Updated] In 2024, Perfect Your Posts Instagram Video Edits with Borders</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-speed-up-pc-games-the-ultimate-speed-controller-selection/"><u>[Updated] Speed Up PC Games The Ultimate Speed Controller Selection</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-year-end-visualizations-mind-bending-youtube-figures-and-trends/"><u>[Updated] Year-End Visualizations Mind Bending Youtube Figures and Trends</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/2024s-best-picks-for-family-internet-management-apps-and-services-top-8/"><u>2024'S Best Picks for Family Internet Management Apps & Services (Top 8)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-one-step-at-a-time-how-to-create-a-skype-group-on-both-platforms/"><u>In 2024, One Step at a Time How to Create a Skype Group on Both Platforms</u></a></li>
+<li><a href="https://windows11.techidaily.com/iphoneandroid-as-windows-microphones-guide/"><u>IPhone/Android as Windows Microphones Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/overriding-default-no-notify-camera-behavior-in-ws11/"><u>Overriding Default No-Notify Camera Behavior in WS11</u></a></li>
+<li><a href="https://windows11.techidaily.com/peek-inside-windows-determining-your-computers-manufacturer/"><u>Peek Inside Windows: Determining Your Computer's Manufacturer</u></a></li>
+<li><a href="https://windows11.techidaily.com/precise-strategies-resetting-razers-system-integration/"><u>Precise Strategies: Resetting Razer's System Integration</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-win1011-network-failure-code-0x800704b3/"><u>Resolving Win10/11 Network Failure: Code 0X800704B3</u></a></li>
+<li><a href="https://windows11.techidaily.com/revitalizing-your-stalled-windows-11-mobile-network-connection/"><u>Revitalizing Your Stalled Windows 11 Mobile Network Connection</u></a></li>
+<li><a href="https://windows11.techidaily.com/revolutionize-your-pc-clear-tpm-from-windows-11/"><u>Revolutionize Your PC: Clear TPM From Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-shadowrunners-speed-up-your-bf2-experience/"><u>Seamless Shadowrunners: Speed up Your BF2 Experience</u></a></li>
+</ul></div>
 

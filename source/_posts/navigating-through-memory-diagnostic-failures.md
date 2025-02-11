@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Memory Diagnostic Failures
-date: 2025-01-25T21:16:29.822Z
-updated: 2025-01-29T19:03:42.362Z
+date: 2025-02-06T20:10:11.950Z
+updated: 2025-02-10T17:04:12.947Z
 tags:
   - windows10
   - windows11
@@ -26,12 +26,16 @@ thumbnail: https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc7
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Causes the Windows Memory Diagnostic Hardware Problems Were Detected Error?
 
  This error is often triggered after a blue screen of death (BSOD) or the system freezing issues. The reason for the error can vary and include faulty memory slots and memory sticks. It can also be a false positive due to a Windows OS glitch.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Check for Overclocking Issues
 
@@ -59,11 +63,11 @@ thumbnail: https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc7
 ![hardware and devices troubleshooter windows 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/hardware-and-devices-troubleshooter-windows-1.jpg)
 5. It will scan your computer for issues, which may take a few minutes. If an issue is detected, select to automatically apply the repair.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. If the suggested problem is unrelated to memory, you can skip it to see the next problem. The troubleshooter will detect additional issues. If an issue is found, apply the fixes and check for any improvements.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Remove and Reinsert Your Memory Sticks
 
@@ -78,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc7
  If repairing the slots is not possible, your only option is a motherboard replacement. Depending on your system configuration, this can be an expensive solution. Or you can continue to use the system without utilizing the faulty memory slot, albeit with reduced performance.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Test Your RAM with MemTest86+
@@ -102,10 +106,6 @@ thumbnail: https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc7
 ![memtest86 plus memory integrity test in progress](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/memtest86-plus-memory-integrity-test-in-progress.png)
 7. Next, plug the Memtest86+ bootable USB drive into your computer and turn it on.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Boot into the Boot Menu and select the bootable USB drive as the boot device. The hotkey key to enter the Boot Menu may vary depending on your computer manufacturer. You can press **F9** on an **HP** computer, **F12** on a **Dell** computer and so on to access the **Boot Menu**.
 9. Memtest86+ will automatically start the memory integrity check. Let Memtest86+ complete at least 2 passes; the more, the better. Press the **Esc** key to stop the test if there are no errors after multiple passes.
 
@@ -113,15 +113,15 @@ thumbnail: https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc7
 
  Not all the errors detected by the Memtest86+ are due to faulty hardware. Some errors may occur due to compatibility issues. Check your RAM module and the motherboard specifications to determine any compatibility issues. You can also test the RAM modules by inserting them into a different motherboard and see if it works.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Perform a Repair Reinstall or Clean Install Windows
 
  If the Windows Memory Diagnostic tool continues to show the hardware problem was detected error, even after the Memtest86+ passed the test, check if the problem is due to issues with the Windows operating system.
 
  To fix critical issues with your Windows image, you can perform a [repair reinstall of Windows 11 without deleting apps](https://www.makeuseof.com/windows-11-reinstall-without-deleting-apps/). If that does not work, perform a clean install. This will reinstall the operating system but delete all your apps and data from the computer. So, backup any data you need before attempting a clean install.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixing the Memory Diagnostic Tool "Hardware Problem Detected" Error
 
@@ -141,14 +141,22 @@ thumbnail: https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-capturing-creativity-android-photography-guide/"><u>[New] In 2024, Capturing Creativity Android Photography Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-pajama-plots-revisited-critique-and-analysis-for-kids-slumber/"><u>2024 Approved Pajama Plots Revisited Critique and Analysis for Kids' Slumber</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722965851457-easy-steps-to-get-latest-amd-smbus-drivers-download-now/"><u>Easy Steps to Get Latest AMD SMBus Drivers – Download Now</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-guide-on-resolving-wmvcoredll-not-found-issues-seamlessly/"><u>Expert Guide on Resolving 'Wmvcore.dll Not Found' Issues Seamlessly</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-common-onedrive-crash-code-in-w11-w10/"><u>Fixing Common OneDrive Crash Code in W11, W10</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-add-live-wallpapers-to-windows-11s-desktop-with-lively-wallpaper/"><u>How to Add Live Wallpapers to Windows 11’S Desktop With Lively Wallpaper</u></a></li>
-<li><a href="https://windows11.techidaily.com/simplifying-the-networks-menu-win-11-wifi-cleanup/"><u>Simplifying the Networks Menu: Win 11 Wifi Cleanup</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/starting-point-decoding-display-resolution-basics-for-2024/"><u>Starting Point Decoding Display Resolution Basics for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-mend-windows-11-assistive-tool/"><u>Strategies to Mend Windows 11 Assistive Tool</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/1716069312988-new-2024-approved-tiny-titans-top-games-anthology/"><u>[New] 2024 Approved Tiny Titans' Top Games Anthology!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-quick-scan-maker-chrome-os/"><u>[New] In 2024, Quick Scan Maker (Chrome OS)</u></a></li>
+<li><a href="https://windows11.techidaily.com/12-top-changes-to-expect-with-windows-11s-latest-release/"><u>12 Top Changes to Expect with Windows 11'S Latest Release</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-resetting-video-issue-for-smooth-windows-use/"><u>Addressing Resetting Video Issue for Smooth Windows Use</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-roblox-code-403-blocks-on-pc/"><u>Addressing Roblox Code 403 Blocks on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-wwinplusprint-error-on-your-computer-successfully/"><u>Addressing WWin+Print Error on Your Computer Successfully.</u></a></li>
+<li><a href="https://windows11.techidaily.com/bring-life-to-windows-11-desktops-with-interactive-wallpapers/"><u>Bring Life to Windows 11 Desktops with Interactive Wallpapers</u></a></li>
+<li><a href="https://windows11.techidaily.com/covertly-masking-taskbars-language-feature-in-win11/"><u>Covertly Masking Taskbar's Language Feature in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-and-overcoming-the-windows-virtualbox-efail-error/"><u>Decoding and Overcoming the Windows Virtualbox E_FAIL Error</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-honor-magic-5-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Honor Magic 5 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-first-steps-in-vector-art-exploring-kinds-applications/"><u>In 2024, First Steps in Vector Art Exploring Kinds, Applications</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/itunes-freies-musikerlebnis-fuge-deinem-ipod-nano-songs-hinzu/"><u>ITunes-Freies Musikerlebnis: Füge Deinem iPod Nano Songs Hinzu!</u></a></li>
+<li><a href="https://facebook.techidaily.com/one-star-offensive-pro-palestinian-activism-disrupting-fb-store/"><u>One-Star Offensive: Pro-Palestinian Activism Disrupting FB Store</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719205436965-open-that-locked-handbrake-on-windows-now/"><u>Open That Locked HandBrake on Windows Now!</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-10-best-spy-watches-for-your-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>Top 10 Best Spy Watches For your Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-issue-fixing-right-click-functionality-on-a-mouse-with-windows-11/"><u>Troubleshooting the Issue: Fixing Right-Click Functionality on a Mouse with Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-brightness-dial-wont-respond-here-are-the-fixes/"><u>Windows 10 Brightness Dial Won't Respond? Here Are the Fixes!</u></a></li>
 </ul></div>
 

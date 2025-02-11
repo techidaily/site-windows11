@@ -1,7 +1,7 @@
 ---
 title: Reducing Powerful Usage in Modern Host Computers
-date: 2024-08-15T15:26:05.460Z
-updated: 2024-08-16T15:26:05.460Z
+date: 2025-02-06T02:02:47.322Z
+updated: 2025-02-10T16:26:19.285Z
 tags:
   - windows10
   - windows11
@@ -35,13 +35,13 @@ thumbnail: https://thmb.techidaily.com/8122148ffac7fe0a0e1d193ba9a136b7cccae081b
 
  Let's look at how to fix all of these things that can affect Modern Setup Host.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## How to Fix it Modern Setup Host Causing High CPU Usage
 
  There are several things you can do to stop Modern Setup Host from causing high CPU usage, and we're going to cover several of them in this section. And if none of them work and the situation gets so bad that you can't operate your PC efficiently, you can consider [resetting your Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/)[Computer](http://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Run an SFC or DISM Scan
 
@@ -49,7 +49,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sfc-scannow-command.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you run the scans, restart your computer and check if Modern Setup Host is still causing high CPU usage.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Use the Update Troubleshooter
 
@@ -58,8 +66,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  To do that, you can learn [how to run any troubleshooter on Windows](https://www.makeuseof.com/run-troubleshooter-windows-10-11/), including the Update Troubleshooter.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Delete the Contents of the SoftwareDistribution Folder
 
  Before Windows installs an update, it will store it in the SoftwareDistribution distribution folder temporarily. So, if one of the update files there is corrupt, it can cause Modern Setup Host to use more resources than it needs to. If you clear this folder, you can potentially solve the issue.
@@ -67,8 +76,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  First, you need to stop the Windows Update service in case it is using the files in the SoftwareDistribution folder. To do that, press **Win + R** to open Windows Run. Type **services.msc** in the text box and then press the **Enter** key to open the Services window.
 
 ![services msc Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/services-msc-Windows-11.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Find **Windows Update** in the list of services, right-click it, and select **Stop**.
@@ -78,29 +88,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Once the service stops, go to the SoftwareDistribution folder by [opening the Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) and heading to **C: > Windows > SoftwareDistribution**.
 
 ![Clear SoftwareDistribution Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/clear-softwaredistribution-folder.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Now, press **Ctrl + A** to select everything inside the folder and press **Shift + Delete**. In the prompt, confirm that you want to clear the folder by clicking on **Yes**.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 4\. Try a Clean Boot
 
  A clean boot can help you rule out third-party programs and services that could conflict with Modern Setup Host. In this mode, Windows will launch with only the essential programs and services it needs to run, allowing you to rule out the culprit. Luckily, [launching Windows in a clean boot state](https://www.makeuseof.com/clean-boot-windows-11/) is easy, and the instructions are the same for both Windows 10 and 11\.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ## Stop the Modern Setup Host From Negatively Impacting Your Computer
 
  Many things can cause high CPU usage on a Windows computer, and one of them is the Modern Setup Host. This process should be able to do its thing rather quickly when everything is in order during a Windows Update. But if there's something affecting the update process, it can stall and cause high CPU usage.
 
  So, try fixing corrupted or damaged system files, using the Update Troubleshooter, clearing the SoftwareDistrubiton folder, or performing a clean boot. Hopefully, the problem will go away before you have to reset your computer.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -109,5 +108,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-giggle-galore-twitters-top-10-joke-threads/"><u>[New] Giggle Galore Twitter's Top 10 Joke Threads</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-ride-the-viral-wave-mixing-tiktok-flair-into-instagram-reels/"><u>[New] In 2024, Ride the Viral Wave Mixing TikTok Flair Into Instagram Reels</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-insta-twist-techniques-for-tailoring-your-photos-on-the-fly/"><u>[Updated] 2024 Approved Insta-Twist Techniques for Tailoring Your Photos on the Fly</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-ultimate-guide-for-du-recorder-features-and-review/"><u>[Updated] Ultimate Guide for Du Recorder Features and Review</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassing-error-6-in-warzonemodern-warfare-optimizing-pc-gameplay-performance/"><u>Bypassing Error 6 in Warzone/Modern Warfare: Optimizing PC Gameplay Performance</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-compact-icons-arrangement-in-system-interface/"><u>Fixing Compact Icons Arrangement in System Interface</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Oppo Find X7 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-oneplus-nord-3-5g-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On OnePlus Nord 3 5G Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-11-for-sticky-note-usage/"><u>Navigating Windows 11 for Sticky Note Usage</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/newest-updates-available-for-hp-officejet-pro-9015-driver/"><u>Newest Updates Available for HP Officejet Pro 9015 Driver</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-your-pre-win11-system-efficiently/"><u>Optimize Your Pre-Win11 System Efficiently</u></a></li>
+<li><a href="https://windows11.techidaily.com/rectifying-pc-issues-amidst-minimum-specifications-and-intel-graphic-errors/"><u>Rectifying PC Issues Amidst Minimum Specifications and Intel Graphic Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-resolve-missing-device-alert-in-windows-10/"><u>Steps to Resolve 'Missing' Device Alert in Windows 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-strategies-nine-fixes-for-wwe-2k23-stability-on-new-os/"><u>Swift Strategies: Nine Fixes for WWE 2K23 Stability on New OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/turning-on-windows-11-desktop-widget-tools/"><u>Turning On Windows 11 Desktop Widget Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-samsung-2nd-generation-55-oled-gaming-monitor-now-at-record-lifetime-low/"><u>Unbeatable Deal: Samsung 2Nd Generation 55 OLED Gaming Monitor Now at Record Lifetime Low!</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-visual-power-with-windows-11s-auto-hdr/"><u>Unlocking Visual Power with Windows 11'S Auto HDR</u></a></li>
+</ul></div>
 

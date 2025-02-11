@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Preserves 7 Ancient Features for Modern Use
-date: 2024-08-15T15:26:27.444Z
-updated: 2024-08-16T15:26:27.444Z
+date: 2025-02-09T01:01:07.090Z
+updated: 2025-02-11T07:47:24.714Z
 tags:
   - windows10
   - windows11
@@ -30,21 +30,9 @@ thumbnail: https://thmb.techidaily.com/1139b752cbc32f334a7708e871f23f8ed96ff0366
 
  Check out our [beginner's guide to the Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) to learn more about how to use this old, but venerable tool.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. The Run Dialog
 
 ![the Run Dialog in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-dialog.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 
  In terms of overall layout and function, the Run dialog is the same in Windows 11 as it was over 20 years ago. The Run Dialog can be used to directly open an application or document where the path is known. It was first user-accessible as a tool in Windows 95, using the same keyboard shortcut it uses today:**Win + R** .
 
@@ -52,14 +40,12 @@ thumbnail: https://thmb.techidaily.com/1139b752cbc32f334a7708e871f23f8ed96ff0366
 
  Be sure to check out the [essential Windows Run commands](https://www.makeuseof.com/tag/windows-run-commands-cheat-sheet/) for tips on how to use this tool.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Disk Management
 
 ![The Disk Management tool in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disk-management.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The ability to be able to manage your storage volumes and partitions has long been an important one in Windows. Even more so with the varied, and arguably more complex, storage options available today. So why Disk Management looks almost identical to the version in Windows 2000 is a bit puzzling.
@@ -69,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/1139b752cbc32f334a7708e871f23f8ed96ff0366
 ## 4\. The Control Panel
 
 ![The Windows 11 Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/control-panel.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Windows 11 saw several improvements to the main settings app. Several new options and controls were added, and some old ones were moved in from elsewhere. And yet the Control Panel remains and still contains some necessary settings. In an update like Windows 11, which was so focused on design changes, that seems a strange choice.
 
@@ -86,14 +76,12 @@ thumbnail: https://thmb.techidaily.com/1139b752cbc32f334a7708e871f23f8ed96ff0366
 
  If you're running out of storage on your Windows computer, check out [how to free up some space on Windows 11](https://www.makeuseof.com/windows-11-free-up-storage-space/) .
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. The Character Map
 
 ![The character map tool in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/character-map.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  For most of us, the Character Map is probably a little-used tool. But it does have some use, and Microsoft clearly thinks it's still used and helpful to some people.
@@ -101,6 +89,10 @@ thumbnail: https://thmb.techidaily.com/1139b752cbc32f334a7708e871f23f8ed96ff0366
  So why hasn't it been updated and improved since Windows XP? In fact, it has barely changed, aside from the shape of the window, since Windows 3.1\. That was 30 years ago.
 
  The fact that the Character Map has never been particularly easy or intuitive to use adds further confusion. If it is no longer needed, get rid of it. If it's still used, improve it. It doesn't strike us as challenging to update, but perhaps it's just at the bottom of Microsoft's to-do list.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. File Explorer
 
@@ -110,18 +102,19 @@ thumbnail: https://thmb.techidaily.com/1139b752cbc32f334a7708e871f23f8ed96ff0366
 
  Although it isn't ancient, it's still a leftover from Windows 10\. Which itself hadn't changed much for a long time. If you want to check this out, open the Control Panel and click the up arrow in the toolbar. Why this doesn't default to the new File Explorer, and even why it is there at all, is a bit of a mystery. It means there are two versions of the same feature in Windows 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## A Plethora of Old Windows Features, Still in Windows 11
 
  Anyone who has used Windows for any length of time will know how often it is updated. In such a large and complex operating system, it is understandable that not every app, tool, or feature can be given the same attention. But it can be surprising to learn that some parts of Windows haven't changed for years or even decades.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -130,8 +123,24 @@ thumbnail: https://thmb.techidaily.com/1139b752cbc32f334a7708e871f23f8ed96ff0366
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-orchestrating-the-scene-adding-cropping-and-adjusting-music-in-canva/"><u>2024 Approved Orchestrating the Scene Adding, Cropping & Adjusting Music in Canva</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-unique-windows-methods-for-launching-applications/"><u>7 Unique Windows Methods for Launching Applications</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/bypass-the-queue-and-secure-apples-newest-macbook-pro-and-mac-mini-instantly-expert-guide-from-zdnet/"><u>Bypass the Queue and Secure Apple's Newest MacBook Pro and Mac Mini Instantly - Expert Guide From ZDNET</u></a></li>
+<li><a href="https://windows11.techidaily.com/ceasing-autonomous-openings-in-microsoft-shop-app/"><u>Ceasing Autonomous Openings in Microsoft Shop App</u></a></li>
+<li><a href="https://windows11.techidaily.com/dissecting-the-essence-of-windows-11s-registry-structure/"><u>Dissecting the Essence of Windows 11'S Registry Structure</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725290651392-dvd-dvd/"><u>DVD レプリケーション 推薦事業者：大量生産・信頼性に優れる郵送サービス・高品質でコストパフォーマンスの良い DVD レプリケーション</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/essential-russian-terms-unveiled-for-any-globetrotters-use/"><u>Essential Russian Terms Unveiled: For Any Globetrotter's Use</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-power-and-pricing-inside-look-at-the-alienware-aurora-r7-gaming-rig/"><u>Evaluating the Power and Pricing - Inside Look at the Alienware Aurora R7 Gaming Rig</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-recover-and-reset-itunes-when-its-not-working/"><u>How to Recover and Reset iTunes When It's Not Working</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-jumping-into-the-virtual-discussions-via-google/"><u>In 2024, Jumping Into the Virtual Discussions via Google</u></a></li>
+<li><a href="https://windows11.techidaily.com/innovative-interfaces-windows-following-11/"><u>Innovative Interfaces: Windows Following 11</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-ultimate-list-of-meme-creation-apps-for-mobile-for-2024/"><u>New The Ultimate List of Meme Creation Apps for Mobile for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-lag-and-stutter-problem-in-fortnite-on-your-computer/"><u>Solving the Lag and Stutter Problem in Fortnite on Your Computer</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-your-files-in-win-11-with-context-menu-enhancements/"><u>Streamline Your Files in Win 11 with Context Menu Enhancements</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-best-free-desktop-pass-gen-software/"><u>The Ultimate Guide to Best Free Desktop Pass Gen Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/uncovering-the-oddities-in-windows-11-visual-language/"><u>Uncovering the Oddities in Windows 11 Visual Language</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-apple-musics-student-pricing-a-comprehensive-guide/"><u>Unlocking Apple Music's Student Pricing: A Comprehensive Guide</u></a></li>
+</ul></div>
 

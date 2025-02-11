@@ -1,7 +1,7 @@
 ---
 title: Overcoming Barriers in Superuser Command Activation
-date: 2024-08-15T15:29:07.873Z
-updated: 2024-08-16T15:29:07.873Z
+date: 2025-02-04T05:28:40.093Z
+updated: 2025-02-11T02:50:57.031Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/f7696c4ac1037e72f31c6b328a12ea085bd463518
 
  That’s where this guide comes into play. So, let’s look at what you can do to fix Run as administrator not working on Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Causes Run as Administrator Not Working?
 
  Before you start fixing things, you must understand what causes this issue. In general, you may experience Run as administrator not working due to the following reasons:
@@ -31,16 +35,14 @@ thumbnail: https://thmb.techidaily.com/f7696c4ac1037e72f31c6b328a12ea085bd463518
 
  Now that you know the potential causes of this issue, let’s look at ways to fix it. ​​​
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Restart Your Computer
 
  If you’re having trouble running applications with administrative privileges, [restarting your computer](https://www.makeuseof.com/windows-restart-methods/) will likely solve the issue. This simple solution flushes out any temporary issues and puts the system in its default state.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Check Your Account Type
 
  Not all user accounts are equal. To run programs with administrative privileges, you must have an administrator account. So, [head to the Control Panel](https://www.makeuseof.com/windows-open-control-panel/) and [check your account type](https://www.makeuseof.com/check-windows-account-admin-rights/). If it’s not labeled as an administrator account, switch to a different one or create a new account.
@@ -57,16 +59,10 @@ thumbnail: https://thmb.techidaily.com/f7696c4ac1037e72f31c6b328a12ea085bd463518
 4. In the right pane, click on **Change User Account Control settings**. Doing this will open the User Account Control Settings window.
 5. Here you’ll see a slider with four options: **Always notify**, **Default**, **Notify me only when applications try to make changes to my computer**, and **Never notify**.  
 ![User Account Control Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/user-account-control-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 6. Drag the slider to **Default**, then click **OK**. It will set your UAC to the default level and enable you to run applications with elevated privileges.
 
  Now, close the window and restart your PC. After that, try running the application with the Run as administrator feature and see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Change Group Policy Settings
 
  Is the Run as administrator function not working despite trying the suggestions above? It's likely that group policy settings block the feature. To fix this, head to the Local Group Policy Editor and check the settings.
@@ -81,16 +77,10 @@ Computer Configuration > Windows Settings > Security Settings > Local Policies >
 ![Run all administrators in admin approved](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/run-all-administrators-in-admin-approved.jpg)
 5. Doing this will open another window. Here, select the **Disabled** option and click **Apply** \> **OK**.  
 ![Disable User Account Control in Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-user-account-control-in-group-policy.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 6. Close the Local Group Policy Editor and restart your computer.
 
  After restarting, try running a program with elevated privileges. It should work now. Don't forget to re-enable the Admin Approval Mode setting once you're finished troubleshooting.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Clean up the Context Menu
 
  When you right-click on a program or file, you often see the Run as administrator option in the context menu. If it's missing, you should look at your context menu entries for clutter.
@@ -108,7 +98,15 @@ Computer\HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers
 ![Clean the Context Menu Items](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/clean-the-context-menu-items.jpg)
 6. Now exit the Registry Editor and restart your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once your computer reboots, you will see the Run as administrator option in the context menu. Try running a program with elevated privileges and see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Try Some Generic Fixes
 
@@ -118,6 +116,10 @@ Computer\HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers
 * [Perform a Clean Boot](https://www.makeuseof.com/clean-boot-windows-11/): When you start Windows in a clean boot state, the operating system will only run essential services and programs. It identifies any third-party software causing the issue.
 * [Create a New Administrator User Account](https://www.makeuseof.com/tag/windows-administrator-account-everything-need-know/): If all else fails, try creating a new administrator user account and logging in. This ascertains if your existing account is corrupted or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Troubleshooting Run as Administrator on Windows
 
  We hope this guide helped you solve the Run as administrator not working on Windows issue. Despite the prevalence of this problem, it’s relatively easy to fix if you know what to do.
@@ -126,8 +128,6 @@ Computer\HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers
 
  That’s where this guide comes into play. So, let’s look at what you can do to fix Run as administrator not working on Windows.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -135,5 +135,20 @@ Computer\HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-list-best-7-camcorders-for-waterproof-use/"><u>[New] The Ultimate List Best 7 Camcorders for Waterproof Use</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-premium-8-editors-compatible-with-linux/"><u>[Updated] In 2024, Premium 8 Editors Compatible with Linux</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/5-must-see-facebook-vids-that-delight-us-all/"><u>5 Must-See Facebook Vids That Delight Us All</u></a></li>
+<li><a href="https://windows11.techidaily.com/5-tips-for-turning-around-a-frozen-windows-hello-system/"><u>5 Tips for Turning Around a Frozen Windows Hello System</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-charge-awareness-customizing-battery-indicators-in-win11/"><u>Boosting Charge Awareness: Customizing Battery Indicators in Win11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/capture-and-share-your-joy-how-to-take-snaps-from-nintendo-switch-games/"><u>Capture and Share Your Joy: How To Take Snaps From Nintendo Switch Games</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixing-print-disruptions-in-devices/"><u>Fixing Print Disruptions in Devices</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-infinix-smart-8-plus-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Infinix Smart 8 Plus to Roku | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fix-for-inverted-keyboard-input-windows/"><u>Quick Fix for Inverted Keyboard Input Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/returning-to-campus-score-big-savings-on-laptops-tablets-from-samsung-student-deals/"><u>Returning to Campus? Score Big Savings on Laptops, Tablets From Samsung | Student Deals</u></a></li>
+<li><a href="https://windows11.techidaily.com/taskbar-chatting-feature-in-windows-11-user-implications/"><u>Taskbar Chatting Feature in Windows 11: User Implications</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-for-resolving-device-configuration-incorrect-warning-code-1/"><u>Troubleshooting Tips for Resolving 'Device Configuration Incorrect' Warning Code 1</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/ultimate-live-broadcast-guide-software-and-hardware-recommendations-for-2024/"><u>Ultimate Live Broadcast Guide Software & Hardware Recommendations for 2024</u></a></li>
+</ul></div>
 

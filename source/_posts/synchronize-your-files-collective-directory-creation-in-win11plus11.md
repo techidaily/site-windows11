@@ -1,7 +1,7 @@
 ---
 title: "Synchronize Your Files: Collective Directory Creation in Win11+11"
-date: 2025-01-28T07:42:25.391Z
-updated: 2025-01-30T01:22:32.712Z
+date: 2025-02-05T17:18:24.030Z
+updated: 2025-02-10T17:07:43.932Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Use the Command Prompt to Create Multiple Folders at Once
 
  In this first method, we will be using a command-line utility called Command Prompt in Windows. Unless you are very tech-savvy, you may not have noticed it anywhere in Windows, but it has been around for quite a long time.
@@ -43,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
 3. Click **Yes** in the User Account Control prompt.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Type the following command in the Command Prompt window and hit **Enter** to execute it. Make sure to replace the \[location\] with the location where you want to create multiple folders.  
@@ -64,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
 ![Windows Terminal (Admin)](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/windows-terminal.jpg)
 2. Select Yes in the UAC prompt.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![UAC prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-terminal-uac.jpg)
 3. Now, execute the command mentioned below and change the \[Location\] with your targeted location for creating the folders.  
 
@@ -81,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
 6. For instance, if we want to create folders for the first 4 months of the year. We will execute the command as:  
 `md "january", "february", "march", "april"`  
 ![File names command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-terminal-md-files.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Finally, close the Powershell window and check if the folders have been created.
 
@@ -104,16 +92,32 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 ![Notepad command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-notepad-command.jpg)
 4. After you have typed down the names of all the folders and subfolders that you want to create, navigate to **File** in the top-left corner and choose **Save as**.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Save as option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/notepad-save-as.jpg)
 5. Give your file a name followed by **.bat**. For instance, we named our file as makeuseof.bat.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Notepad file name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/notepad-file-name.jpg)
 6. Expand the dropdown for Save as type and choose **All files**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. Click **OK** and close the Notepad.
 8. Now, navigate to the location of the folder and open the bat file. Opening it should create the folders and their subfolders for you.
 
  Now that you have created multiple files and folders, [organizing these files on Windows](https://www.makeuseof.com/tag/automatically-organize-files-windows/) is also worth considering if you do not want to spend a lot of time looking for information in them. Additionally, Windows also allows you to [rename multiple folders at once](https://www.makeuseof.com/cool-folder-tips-windows/), which can be helpful when organizing them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Use a Third-Party Application
 
@@ -135,14 +139,10 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 ![Clicking Yes in the UAC prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/folder-frenzy-agreement.jpg)
 4. Once the Folder Frenzy dialog launches, type the names of the folders you want to create and click on the **Create Folder** button. These folders will be created in the Folder Frenzy file.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Create folder in Folder Frenzy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/folder-frenzy-create-folder.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  From here, you can even take a step further and learn [how to launch multiple programs with one shortcut on Windows](https://www.makeuseof.com/tag/launch-multiple-programs-single-shortcut-using-batch-file/) to increase your productivity at work or school. In case you no longer need the tool after creating bulk folders, you can uninstall it. This won't automatically delete the folders you have created using the tool, unless the uninstallation process explicitly offers to do so and you confirm that action.
@@ -165,19 +165,18 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-cutting-out-background-sounds-in-skype-chats/"><u>[New] In 2024, Cutting Out Background Sounds in Skype Chats</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-direct-video-tweet-to-twitter-via-smartphone-no-retweeting-for-2024/"><u>[Updated] Direct Video Tweet to Twitter via Smartphone No Retweeting for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-free-guide-to-windows-desktop-captures-and-recordings/"><u>[Updated] Free Guide to Windows Desktop Captures & Recordings</u></a></li>
-<li><a href="https://windows11.techidaily.com/enabling-steam-library-folder-editability-in-win-11/"><u>Enabling Steam Library Folder Editability in Win 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-add-a-full-battery-charge-notification-to-windows-11-and-11/"><u>How to Add a Full Battery Charge Notification to Windows 11 & 11</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-captivating-creativity-designing-a-distinctive-podcast-image/"><u>In 2024, Captivating Creativity Designing a Distinctive Podcast Image</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-realistic-3d-text-photoshopping-style/"><u>In 2024, Crafting Realistic 3D Text Photoshopping Style</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-instantaneous-installation-laugh-with-ifunny-memes-easily/"><u>In 2024, Instantaneous Installation Laugh with iFunny Memes Easily</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-storystitcher-compelling-collage-for-instagram-users/"><u>In 2024, StoryStitcher Compelling Collage for Instagram Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/pro-tips-for-mastering-local-user-groups-on-win1110/"><u>Pro Tips for Mastering Local User Groups on Win11/10</u></a></li>
-<li><a href="https://windows11.techidaily.com/significance-and-uses-for-vcplusplus-releases/"><u>Significance and Uses for VC++ Releases</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-samsung-galaxy-watch-active-examined-a-tracker-dedicated-to-your-health-and-fitness-goals/"><u>The Samsung Galaxy Watch Active Examined - A Tracker Dedicated to Your Health and Fitness Goals</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-and-fixing-the-application-was-unable-error/"><u>Understanding and Fixing The Application Was Unable Error</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/1728467188797-windows-116/"><u>Windows 11で発生した白い画面問題を素速く解決！6つのエフェクティブな手段</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-amazon-prime-and-twitter-most-shared-and-liked-shows-23-for-2024/"><u>[New] Amazon Prime and Twitter Most Shared & Liked Shows, '23 for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-essentials-of-sharing-music-compilations-online/"><u>[New] In 2024, The Essentials of Sharing Music Compilations Online</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-pro-level-strategies-captioning-content-on-vimeo-for-2024/"><u>[New] Pro-Level Strategies Captioning Content on Vimeo for 2024</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/1-efficient-techniques-for-transferring-images-from-icloud-to-your-ipad/"><u>1. Efficient Techniques for Transferring Images From iCloud to Your iPad</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-fps-supercharge-yuzu-for-windows/"><u>Boosting FPS: Supercharge Yuzu for Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-tpm-in-win11-the-ultimate-rufus-technique/"><u>Bypassing TPM in Win11: The Ultimate Rufus Technique</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/celebrate-with-a-gift-download-macxdvd-movie-editor-pro-at-no-cost-this-holiday-season/"><u>Celebrate with a Gift! Download MacXDVD Movie Editor Pro at No Cost This Holiday Season</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-and-dealing-with-steam-installation-fiascos-win11-style/"><u>Decoding and Dealing with Steam Installation Fiascos, Win11-Style</u></a></li>
+<li><a href="https://windows11.techidaily.com/disabling-phonelinkexe-important-for-windows-users/"><u>Disabling PhoneLink.exe: Important for Windows Users?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-dive-deep-into-sims-4-gameplay-with-videography/"><u>In 2024, Dive Deep Into Sims 4 Gameplay with Videography</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-prime-video-chat-solutions-for-pcs-and-phones/"><u>In 2024, Prime Video Chat Solutions for PCs & Phones</u></a></li>
+<li><a href="https://fox-within.techidaily.com/ricerca-di-voci-cancelate-scopri-i-metodi-piu-facili-per-trovarli/"><u>Ricerca Di Voci Cancelate: Scopri I Metodi Più Facili per Trovarli</u></a></li>
+<li><a href="https://win-docs.techidaily.com/step-by-step-solution-changing-partition-scheme-on-your-usb-flash-failed-attempts/"><u>Step-by-Step Solution: Changing Partition Scheme on Your USB Flash Failed Attempts</u></a></li>
 </ul></div>
 

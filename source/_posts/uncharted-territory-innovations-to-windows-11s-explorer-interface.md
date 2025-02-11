@@ -1,7 +1,7 @@
 ---
 title: "Uncharted Territory: Innovations to Windows 11'S Explorer Interface"
-date: 2024-08-15T15:25:23.350Z
-updated: 2024-08-16T15:25:23.350Z
+date: 2025-02-09T07:41:50.041Z
+updated: 2025-02-10T16:11:52.613Z
 tags:
   - windows10
   - windows11
@@ -37,23 +37,18 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
  The old details pane didn’t blend in with the rest of the File Explorer. But the new one presents all the information about a file in a far more palatable manner.
 
 ![New Side Pane in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/new-side-pane-in-file-explorer.jpg)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 
  You can easily spot its recent activity; check out its details without opening the Properties window. It also includes sharing the file using the inbuilt file-sharing methods or opening the Properties window without opening the right-click context menu.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. File Explorer Tabs
 
  Tabs are great in any application with multiple files or folder locations. The File Explorer in Windows 11 and its predecessors lacked this feature, forcing users to create multiple windows to manage files in various locations. Microsoft eventually fixed this, making the overall app experience much better.
 
 ![Tabs in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/tabs-in-file-explorer.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can easily create multiple apps in a single window and move files or folders across them. You can even [drag tabs from a File Explorer window](https://www.makeuseof.com/drag-tabs-out-file-explorer-windows-11/) to create a different window and drag that tab back to another File Explorer window as you do in the Chrome browser. This feature reduced reliance on third-party apps that market the same feature as a USP.
 
@@ -65,12 +60,13 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
 
  A nice scroll bar displays the start and end date of the images, and you can use it to move across hundreds of photos swiftly. Apart from the two default folders, you can add more folders to the collection to display images stored in other locations.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. An Improved Context Menu
 
  The right-click context menu was a significant surprise in Windows 11 but is gradually improving. You can find relevant options like Install whenever you right-click on an app installer file. The menu is also concise now, and you can view the full version when you click on the Show More options. Similarly, a few minor tweaks to the right-click context menu make it better.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Microsoft 365 Products Integration
 
@@ -80,27 +76,31 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
 
 ![Microsoft 365 Products Integration in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/microsoft-365-products-integration-in-file-explorer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Microsoft is also experimenting with a new Home page in the Settings app, which will also offer a glance at the currently used OneDrive storage space.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Built-In File Archive Support
 
 ![RAR Archive Support in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rar-archive-support-in-file-explorer.jpg)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 
  File Explorer has had ZIP archive support for a long time but lacked the same for other popular formats such as RAR and 7Z. But after a new feature upgrade to the Insider build in the Dev Channel, the [File Explorer app can view and extract archive formats](https://www.makeuseof.com/enable-archive-support-windows-11/). So, you wouldn’t have to download WinRar whenever you want to extract a RAR file.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## File Explorer Is Evolving in Windows 11
 
  File Explorer will become more powerful as some of the aforementioned features arrive in the stable channel. Not everyone is a fan of Microsoft 365 integration in File Explorer. Still, much-needed additions like the broader archive format support, tabs feature, and the Gallery section improve the app's overall usability.
 
  Windows File Explorer is one of the areas where Microsoft made some exciting additions that were absent in older versions. In this post, we will discuss all the noteworthy changes done to the File Explorer, some of which are yet to arrive in stable builds at the time of writing.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -109,5 +109,26 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-game-recorder-mastery-top-5-techniques-for-windows-11/"><u>[New] 2024 Approved Game Recorder Mastery Top 5 Techniques for Windows 11</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-elevate-your-ios-experience-top-5-ps2-simulators/"><u>[New] Elevate Your iOS Experience Top 5 PS2 Simulators</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-4-strategies-for-capturing-xbox-games-play-by-play/"><u>[New] In 2024, 4 Strategies for Capturing Xbox Games Play-By-Play</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-the-best-bargains-in-drone-tech-for-under-100/"><u>[Updated] The Best Bargains in Drone Tech for Under $100</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-top-video-montages-on-mobile-devices-a-8-must-have-list/"><u>[Updated] Top Video Montages on Mobile Devices A 8 Must-Have List</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-video-studio-encyclopedia-xreviewers-edition/"><u>2024 Approved The Video Studio Encyclopedia XReviewer's Edition</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/dive-into-digital-dreams-with-paint-cocreator-and-windows-11-creating-vivid-ai-visuals/"><u>Dive Into Digital Dreams with Paint Cocreator & Windows 11, Creating Vivid AI Visuals</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-windows-11-video-tools-list/"><u>Essential Windows 11 Video Tools List</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-customize-and-reset-your-command-prompt/"><u>Guide to Customize and Reset Your Command Prompt</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/how-to-capturing-and-saving-instagrams-transient-media-for-2024/"><u>How-To Capturing and Saving Instagram's Transient Media for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-samsung-galaxy-s21-fe-5g-2023-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Samsung Galaxy S21 FE 5G (2023) Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/instructions-for-resetting-customized-windows-settings/"><u>Instructions for Resetting Customized Windows Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-discord-updates-from-triggering-at-system-startup/"><u>Preventing Discord Updates From Triggering at System Startup</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailored-windows-11-selection-home-edition-or-pro-level-choice/"><u>Tailored Windows 11 Selection: Home Edition or Pro-Level Choice</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-essence-of-personalization-through-ai-at-ms-store/"><u>The Essence of Personalization Through AI at MS Store</u></a></li>
+<li><a href="https://windows11.techidaily.com/turn-black-windows-back-with-simple-steps/"><u>Turn Black Windows Back with Simple Steps</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unraveling-the-truth-top-5-errors-around-monetizing-information-according-to-zdnet/"><u>Unraveling the Truth: Top 5 Errors Around Monetizing Information, According to ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-media-maker-error-x8007043c-fix-guide/"><u>Windows' Media Maker Error X.8007043C Fix Guide</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Successfully Upgrade to VirtualBox 7.0 on Windows 11 PCs
-date: 2024-08-15T15:24:53.104Z
-updated: 2024-08-16T15:24:53.104Z
+date: 2025-02-07T19:28:51.697Z
+updated: 2025-02-10T23:28:27.379Z
 tags:
   - windows10
   - windows11
@@ -24,11 +24,19 @@ thumbnail: https://thmb.techidaily.com/35711b04893827e589108adbb18a73b7e3ecd093c
 
  VirtualBox comes with support for Secure Boot in UEFI mode. It can now emulate TPM chips which are a mandatory requirement for Windows 11\. Along with that, there are some subtle but useful design changes that make it feel like a latest-gen app. Some menu options appear in new places, but it isn’t something to worry about. Plus, you can enjoy the dark mode on VirtualBox now and protect your eyes!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Upgrade to VirtualBox 7.0 on Windows 11
 
  VirtualBox does remind you that an update is available. But unlike most apps, you need to visit the official site and download all the necessary components and the new installer file to upgrade VirtualBox. Then, you need to install the new version on your system which will replace all the files of the current build present on your system.
 
  But that’s not all! If you connect USB devices to VirtualBox virtual machines, you will have to remove the old extension pack and install the latest one released for the new build. Lastly, you will have to install the new guest additions pack for VirtualBox 7.0\. So, let’s begin.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Download the VirtualBox 7.0 Installer File and the Extension Pack
 
@@ -39,14 +47,16 @@ thumbnail: https://thmb.techidaily.com/35711b04893827e589108adbb18a73b7e3ecd093c
 3. Navigate to the left-hand side menu and click on the**Downloads** option.  
 ![Download VirtualBox 7.0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/download-virtualbox-7-0.jpg)
 4. Locate the**VirtualBox 7.0.4 platform packages** section. Click on the**Windows Hosts** option to download the installer file on your system.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Scroll down and find the**VirtualBox 7.0.4 Oracle VM VirtualBox Extension Pack** section. Click on the**All supported platforms** option to download the extension pack file for version 7.0.4.
 6. Wait for both downloads to finish and close the browser.
 
 Now, you have all the necessary files to upgrade to VirtualBox 7.0.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Install VirtualBox 7.0
 
 To install VirtualBox 7.0, repeat the following steps:
@@ -57,27 +67,12 @@ To install VirtualBox 7.0, repeat the following steps:
 4. UAC will pop up. Click on the**Yes** button to continue.
 5. VirtualBox 7.0 installer will launch. Pick the installation destination and click on the**Yes** button.  
 ![Install VirtualBox 7.0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-virtualbox-7-0.jpg)
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. VirtualBox will warn you about temporarily shutting the network interfaces. It means you will lose internet connectivity for some time.
 7. Click on the**Yes** button. The installer will notify you about the missing dependencies. Click on the**Yes** button to install them as well.
 8. Wait for the installation to complete. Click on the**Finish** button to close the installer window.
 
  VirtualBox 7.0 will launch on your system. But wait! Don’t close the app yet.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. Install the New Extension Pack
 
  Even after you upgrade the VirtualBox app to the newest version, the extension pack doesn’t upgrade along with it. So, it will have the older version of the extension pack which worked with the older VirtualBox version. You need to remove it and install the new extension pack that you download in the second method.
@@ -88,24 +83,28 @@ To install the VirtualBox 7.0 extension pack, do as follows:
 2. Under the list of active extension packs, you will see the older version with a red sign. It indicates that the extension pack is incompatible with VirtualBox 7.0.
 3. Right-click on the old extension pack and select the**Uninstall** option.  
 ![Remove the Old Extension Pack](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/remove-the-old-extension-pack.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 4. Click on the**Remove** button to begin the uninstallation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. UAC will pop up. Click on the**Yes** button to begin the uninstallation.
 
 1. Now, click on the**Install Extension Pack** button located at the top. Locate the extension pack file you downloaded previously and select it. Click on the**Open** button.
 2. VirtualBox extension pack installer will pop up. Click on the**Install** button.  
 ![Install the New Extension Pack](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-the-new-extension-pack.jpg)
 3. Accept the**EULA** by scrolling down. Click on the**I Agree** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. UAC will pop up. Click on the**Yes** button to begin the extension pack installation.
 5. Once the extension pack installs, it will appear in the list of installed extension packs.
 
  Now, you can easily connect the USB devices to one or many virtual machines that you created using VirtualBox. Check out our guide on [how to add a USB device to VirtualBox on Windows](https://www.makeuseof.com/windows-virtualbox-add-usb/) for more information.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Install the Guest Additions
 
  VirtualBox Guest Additions offers all the necessary drivers for a virtual machine. Since VirtualBox supports DirectX 11, it is advisable to install Guest Additions as it will offer drivers for all the components.
@@ -120,9 +119,6 @@ To install the VirtualBox 7.0 extension pack, do as follows:
 ![Install the Guest Additions 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-the-guest-additions-1.jpg)
 6. UAC will pop up. Click on**Yes** to continue.  
 ![Install the Guest Additions 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-the-guest-additions-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 7. Follows the on-screen prompts to install the Guest Additions on your system.
 8. Click on the**Reboot now** option to apply changes to the Windows virtual machine.
 
@@ -136,14 +132,11 @@ To install the VirtualBox 7.0 extension pack, do as follows:
 
  VirtualBox 7.0 is the first third-party hypervisor to introduce emulation of TPM 2.0 chips. Microsoft still impedes Windows 11 installation as a virtual machine if the hypervisor cannot emulate the chip. But VirtualBox 7.0 can now install Windows 11 after enabling the passthrough of the TPM 2.0 chip for a virtual machine.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -152,8 +145,20 @@ To install the VirtualBox 7.0 extension pack, do as follows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-elevate-your-song-listening-with-these-top-6-android-apps/"><u>[New] 2024 Approved Elevate Your Song Listening With These Top 6 Android Apps</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-creative-uses-for-unwanted-or-supplementary-shots-for-2024/"><u>[Updated] Creative Uses for Unwanted or Supplementary Shots for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-image-weaving-the-art-of-photomontages/"><u>[Updated] Image Weaving The Art of Photomontages</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-realms-reborn-state-of-the-art-virtual-experience/"><u>[Updated] Realms Reborn State-of-the-Art Virtual Experience</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-navigating-spotify-advertising-successfully/"><u>2024 Approved Navigating Spotify Advertising Successfully</u></a></li>
+<li><a href="https://windows11.techidaily.com/briskly-boost-printer-functionality/"><u>Briskly Boost Printer Functionality</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-google-pixel-8-pro-easily-by-drfone-android/"><u>How To Unlock a Google Pixel 8 Pro Easily?</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfect-pixels-for-every-window-11-display/"><u>Perfect Pixels for Every Window 11 Display</u></a></li>
+<li><a href="https://windows11.techidaily.com/purging-protection-logs-on-windows-1011-with-ease/"><u>Purging Protection Logs on Windows 10/11 with Ease</u></a></li>
+<li><a href="https://windows11.techidaily.com/revive-hidden-desktop-icons-on-the-latest-windows/"><u>Revive Hidden Desktop Icons on the Latest Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-offline-warriors-guide-to-microsoft-onedrive/"><u>The Offline Warrior's Guide to Microsoft OneDrive</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-notch-audio-experience-discover-the-ultimate-non-sony-non-bose-soundbar-reviewed-on-zdnet/"><u>Top-Notch Audio Experience: Discover the Ultimate Non-Sony, Non-Bose Soundbar Reviewed on ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-over-connection-issues-dissolving-ea-errors/"><u>Winning Over Connection Issues: Dissolving EA Errors</u></a></li>
+</ul></div>
 

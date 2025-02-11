@@ -1,7 +1,7 @@
 ---
 title: Solutions for Unwanted Chrome Tab Autopilot in Windows
-date: 2025-01-23T23:45:50.544Z
-updated: 2025-01-29T19:03:15.352Z
+date: 2025-02-06T07:23:14.985Z
+updated: 2025-02-10T23:43:47.467Z
 tags:
   - windows10
   - windows11
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Apply Some Preliminary Fixes
 
  To troubleshoot the issue, perform the following fixes first, as they may resolve it right away:
@@ -37,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 * [Update Chrome to the latest version](https://www.makeuseof.com/how-to-update-google-chrome/).
 * Incorrectly configured keyboard and mouse managers can also cause apps like Chrome to malfunction. Disable or delete such an app if you also use one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Ensure That the "Open New Tabs" Shortcut Keys Aren't Pressed Down
 
  If Chrome opens new tabs immediately upon launch and doesn't stop until you close the browser, the shortcut keys for opening new tabs are probably pressed down on your keyboard. You can confirm that using the onscreen keyboard in Windows.
@@ -45,15 +53,7 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 
 ![Check if the Shortcut Keys to Open New Tabs in Chrome Aren’t Pressed on the On-Screen Keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/2-check-if-the-shortcut-keys-to-open-new-tabs-in-chrome-aren-t-pressed-on-the-on-screen-keyboard.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If this is the case, unplug or [temporarily turn off your keyboard](https://www.makeuseof.com/windows-disable-laptop-keyboard/) and have it inspected. However, if no keys appear to be pressed, move on to the next step.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Stop Chrome From Opening Links in New Tabs
 
@@ -69,7 +69,11 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 ![Uncheck the Box Beside Open Each Selected Result in a New Browser Window Option in See All Search Settings in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/4-uncheck-the-box-beside-open-each-selected-result-in-a-new-browser-window-option-in-see-all-search-settings-in-chrome.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Stop Chrome From Opening New Tabs on PC Startup or Browser Launch
@@ -84,10 +88,6 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 2. Click the **three vertical dots** in the top-right corner and select **Settings**.
 3. Navigate to the **On startup** tab and check the circle besides **Open the New Tab page**.  
 ![Select Open the New Tab Option in the On Startup Tab of Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/6-select-open-the-new-tab-option-in-the-on-startup-tab-of-chrome-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Ensure That the Website You Are on Isn’t Malicious
 
@@ -109,11 +109,11 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 
 ![Click Restore Settings to their Original Defaults Option to Reset Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/7-click-restore-settings-to-their-original-defaults-option-to-reset-chrome-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If resetting the browser also doesn't work, you can reinstall the browser from scratch, which is the least desirable solution. Before you begin the new installation, ensure you properly remove the old installation using our guide on [uninstalling apps on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stop Chrome From Opening New Tabs on Windows
 
@@ -137,24 +137,21 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-complete-kinetic-review-2023/"><u>[New] Complete Kinetic Review 2023</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-masterclass-in-brief-lapses-top-5/"><u>[New] Masterclass in Brief Lapses #Top 5</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-infuse-your-films-with-text-magic-top-10-techniques-unveiled/"><u>[Updated] 2024 Approved Infuse Your Films with Text Magic Top 10 Techniques Unveiled</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-beginners-pathway-start-your-sports-youtube-chain-on-macos/"><u>[Updated] In 2024, Beginner's Pathway Start Your Sports YouTube Chain on macOS</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-apowersoft-screen-record-review-and-top-contenders-unveiled/"><u>2024 Approved Apowersoft Screen Record Review & Top Contenders Unveiled</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-through-mixed-reality-an-overview/"><u>2024 Approved Navigating Through Mixed Reality An Overview</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/maciphoneipadapple-tvitunes-mp4mov/"><u>最適な動画変換ソフトウェアでMacからiPhone/iPad/Apple TV/iTunes用ビデオ: MP4/MOVへのシームレス変換</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-steps-to-address-winerror-0xc0000005-instantly/"><u>Essential Steps to Address WinError 0Xc0000005 Instantly</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Sony Xperia 10 V | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-the-missing-setup-on-windows-nvidia-display/"><u>Fixing the Missing Setup on Windows Nvidia Display</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-windows-crashes-due-to-0x0000011b-errors/"><u>Fixing Windows Crashes Due to 0X0000011B Errors</u></a></li>
-<li><a href="https://solve-info.techidaily.com/guide-facile-pour-recuperer-des-donnees-sur-un-disque-toshiba-canvio-portable-egare/"><u>Guide Facile Pour Récupérer Des Données Sur Un Disque Toshiba Canvio Portable Égaré</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-adjusting-windows-11s-safety-and-security-filter/"><u>Guide: Adjusting Windows 11'S Safety & Security Filter</u></a></li>
-<li><a href="https://windows11.techidaily.com/guidelines-for-fixing-windows-11-support-tool/"><u>Guidelines for Fixing Windows 11 Support Tool</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-your-headset-mic-not-working-on-windows/"><u>How to Fix Your Headset Mic Not Working on Windows</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-restore-and-replace-a-lost-wmvcoredll-file-easily/"><u>How to Restore and Replace a Lost Wmvcore.dll File Easily</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimize-virtualbox-install-handle-dependencies/"><u>Optimize VirtualBox Install: Handle Dependencies</u></a></li>
-<li><a href="https://windows11.techidaily.com/reviving-disconnected-steam-friends-list-wins11/"><u>Reviving Disconnected Steam Friends List (Wins11)</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-cannot-reach-server-error-in-win-10-and-11-for-mb/"><u>Troubleshooting Cannot Reach Server Error in Win 10 & 11 for MB</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-exploring-the-potential-of-movie-maker-for-anime/"><u>[Updated] 2024 Approved Exploring the Potential of Movie Maker for Anime</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-step-by-step-process-for-efficient-use-of-macs-preview-app/"><u>[Updated] 2024 Approved Step-by-Step Process for Efficient Use of Mac's Preview App</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-exclusive-apps-to-remove-logos-from-androidios-videos/"><u>[Updated] In 2024, Exclusive Apps to Remove Logos From Android/iOS Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-pinnacle-collection-all-2023-twitter-videos/"><u>[Updated] The Pinnacle Collection All 2023 Twitter Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-transforming-footage-into-high-quality-content/"><u>2024 Approved Transforming Footage Into High-Quality Content</u></a></li>
+<li><a href="https://windows11.techidaily.com/achieve-peak-performance-self-update-system-with-new-amd-drivers/"><u>Achieve Peak Performance: Self-Update System with New AMD Drivers</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-latency-issues-when-connecting-external-monitors/"><u>Addressing Latency Issues When Connecting External Monitors</u></a></li>
+<li><a href="https://windows11.techidaily.com/altering-start-page-in-windows-11-task-manager/"><u>Altering Start Page in Windows 11 Task Manager</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-need-old-password-error-in-microsoft-windows/"><u>Bypassing 'Need Old Password' Error in Microsoft Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-os-admin-error-run-blocked-apps/"><u>Bypassing OS Admin Error: Run Blocked Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/cant-open-the-credential-manager-on-windows-try-these-fixes/"><u>Can’t Open the Credential Manager on Windows? Try These Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/context-menu-augmentation-with-disk-space-visualization-tools/"><u>Context Menu Augmentation with Disk Space Visualization Tools</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/guia-paso-a-paso-como-hacer-la-copia-de-seguridad-y-sincronizacion-entre-dispositivos-con-archivos-compartidos/"><u>Guía Paso a Paso: Cómo Hacer La Copia De Seguridad Y Sincronización Entre Dispositivos Con Archivos Compartidos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-fix-youtube-buffering-on-mobile-fb-content/"><u>In 2024, Fix YouTube Buffering on Mobile FB Content</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-enhancing-zoom-meetings-with-effects-for-2024/"><u>The Ultimate Guide to Enhancing Zoom Meetings With Effects for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-ultimate-review-bandicam-versus-other-screen-recorders-for-2024/"><u>The Ultimate Review Bandicam Versus Other Screen Recorders for 2024</u></a></li>
 </ul></div>
 

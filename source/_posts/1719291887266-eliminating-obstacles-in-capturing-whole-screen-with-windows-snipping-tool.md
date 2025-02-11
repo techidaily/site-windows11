@@ -1,7 +1,7 @@
 ---
 title: Eliminating Obstacles in Capturing Whole-Screen with Windows Snipping Tool
-date: 2024-08-15T15:26:29.562Z
-updated: 2024-08-16T15:26:29.562Z
+date: 2025-02-10T00:10:00.900Z
+updated: 2025-02-10T17:31:04.761Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/24c4d966d5ae08b9992d6ca8e560b523aa54e9e6e
 
  If you are facing a similar issue, we've got you covered. Below, we'll cover the different reasons you might be facing the problem and the solutions you can try to fix it for good.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Isn't the Snip & Sketch Tool Covering the Entire Screen?
 
  Here are a few reasons that might prevent the Snip & Sketch tool from covering your entire screen.
@@ -31,8 +35,9 @@ thumbnail: https://thmb.techidaily.com/24c4d966d5ae08b9992d6ca8e560b523aa54e9e6e
  Now that we have identified the possible causes, let's explore some effective troubleshooting methods to help you quickly resolve the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Adjust the Scale Levels
 
  Incorrect scaling settings are the primary cause of the Snip & Sketch tool's inability to capture the entire screen. This typically affects users using multiple displays.
@@ -63,10 +68,6 @@ To change your primary display on Windows, follow these steps:
 
  We also recommend keeping the main display positioned on the right side since it may cause the system to handle scaling differently, resolving the error in the process.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## 2\. Restart Snip & Sketch
 
  Several users also noticed that closing Snip & Sketch and quitting it from the taskbar, then launching it using the Search utility of Windows also fixes the problem. However, this is only a workaround and won't permanently solve the problem.
@@ -81,21 +82,18 @@ Follow these steps to proceed:
 
 ![Click on the New option in Snip & Sketch tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/new-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You should now be able to capture the entire screen successfully. If you encounter the problem again, repeat this process to solve it. But if you want a more permanent solution, check out the following step.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## 3\. Update Snip & Sketch
 
  The issue can also occur if the Snip & Sketch app itself is outdated, which causes it to malfunction. In this case, an easy solution that can fix the problem is updating the snipping utility.
 
  Since the Snip & Sketch tool is a Microsoft Store app, you can use the Store utility to update it. Here's [how to update Microsoft Store apps](https://www.makeuseof.com/update-apps-windows-11/) in Windows, so check it out to learn how to keep Snip & Sketch (and all other Microsoft Store apps) updated.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 4\. Repair/Reset Snip & Sketch
 
  If the problem is within the snipping app and updating it has not worked, you can also use the Repair tool offered with the app by default. This feature will attempt to fix any issues that might be causing the app to malfunction.
@@ -107,20 +105,23 @@ Here is how to do that:
 1. Open the Settings app and choose Apps from the list on the left side.
 2. Click on**Apps & features** .  
 ![The Apps & features option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Apps--features-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Now, scroll down the following window to look for Snip & Sketch.
 4. Click on the three dots associated with it and choose**Advanced options** .
 5. Next, head to the Reset section and click the**Repair** button.  
 ![Repair the snipping tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/repair-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Wait for the process to complete, then check if the issue is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. If it persists, click the**Reset** button in the same section and follow the on-screen instructions to proceed.
 
  Once the tool has been reset, it should work correctly. If the problem appears again in the future, you can consider using any of the other [ways to take screenshots in Windows 11](https://www.makeuseof.com/take-screenshot-windows-11/) until Microsoft releases an official fix for this problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Snip With Ease
 
@@ -132,8 +133,6 @@ Here is how to do that:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,8 +140,20 @@ Here is how to do that:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-mastering-the-art-of-smooth-ipad-video-recording/"><u>[New] 2024 Approved Mastering the Art of Smooth iPad Video Recording</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-instant-reddit-archives-retrieval-with-ease/"><u>[New] Instant Reddit Archives Retrieval with Ease</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-15-sites-offering-premium-free-vectr-and-illustration-tools-and-services/"><u>[Updated] 15 Sites Offering Premium-Free Vectr and Illustration Tools & Services</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-flaky-windows-apps-a-step-by-step-guide/"><u>Fixing Flaky Windows Apps: A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/galaxy-showdown-in-depth-comparison-of-s23-ultra-vs-s21-ultra/"><u>Galaxy Showdown: In-Depth Comparison of S23 Ultra Vs. S21 Ultra</u></a></li>
+<li><a href="https://windows11.techidaily.com/method-for-handling-device-access-issues-with-audacity-win/"><u>Method for Handling Device Access Issues with Audacity (Win)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/smooth-file-migration-to-computer-5-proven-techniques/"><u>Smooth File Migration to Computer – 5 Proven Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-setting-up-a-trio-of-widget-boards-in-windows-11/"><u>Step by Step: Setting Up a Trio of Widget Boards in Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-volume-of-videos-on-a-64128gb-memory-bank/"><u>The Volume of Videos on a 64/128GB Memory Bank</u></a></li>
+<li><a href="https://windows11.techidaily.com/tricks-to-extend-the-wait-window-in-windows-10-before-restarting/"><u>Tricks to Extend the Wait Window in Windows 10 Before Restarting</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-hidden-potential-essential-tips-on-windows-narrator-commands/"><u>Unveiling the Hidden Potential: Essential Tips on Windows Narrator Commands</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-best-free-and-paid-sony-vegas-alternatives-for-windows/"><u>Updated 2024 Approved The Best Free and Paid Sony Vegas Alternatives for Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/wireless-connectivity-for-home-theaters-a-step-by-step-guide-to-streaming-perfection/"><u>Wireless Connectivity for Home Theaters: A Step-by-Step Guide to Streaming Perfection</u></a></li>
+</ul></div>
 

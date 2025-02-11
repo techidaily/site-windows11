@@ -1,7 +1,7 @@
 ---
 title: How to Fix Your Headset Mic Not Working on Windows
-date: 2025-01-25T06:43:44.188Z
-updated: 2025-01-29T18:41:49.991Z
+date: 2025-02-10T01:54:10.837Z
+updated: 2025-02-10T21:31:25.843Z
 tags:
   - windows10
   - windows11
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Perform Some Preliminary Checks
 
  Start the troubleshooting process by applying the following preliminary fixes, as they may resolve the issue immediately:
@@ -43,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
 
  If none of the above checks and fixes work, apply the remaining fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Ensure That the Microphone Isn't Muted
 
  There is usually a button on most headsets that allows you to muffle the microphone. This control enables users to mute themselves when not participating in a conversation. If your headset also has one, make sure you haven't muted it by mistake.
@@ -54,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
 3. Make sure the box beside **Mute** is not checked. If it is, uncheck it by clicking on it.
 4. Also, if the **Main Volume** is too low, increase it to close to **100**.  
 ![Unmute the Headset Microphone in the Realtek Audio Control App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/1-unmute-the-headset-microphone-in-the-realtek-audio-control-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you don't have the Realtek audio console installed on your device, you can download it from the [Microsoft Store](https://apps.microsoft.com/store/detail/realtek-audio-control/9P2B8MCSVPLN?hl=en-us&gl=us).
 
@@ -72,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
 ## 4\. Make Sure Your Headset Microphone Isn't Faulty
 
 ![Green and Black Razer Headset Sitting on Mousepad on Gamer’s Desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/green-and-black-razer-headset-sitting-on-mousepad-on-gamer-s-desk.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Is your headset already unmuted and correctly plugged in? If that is the case, ensure your microphone is not faulty, which could be why it isn't picking up your voice. The easiest way to find that out is to connect your headset to a different device (assuming you have one) and see if it works there.
 
@@ -90,11 +90,7 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
 ![Test the Headset Microphone in the Sound Properties Windows of the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/test-the-headset-microphone-in-the-sound-properties-windows-of-the-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Make the Headset Microphone Your Default Audio Input Device
@@ -111,6 +107,10 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
 
 ![Click on Show Disabled Devices by Right-clicking Within the Recording Tab of More Sound Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/7-click-on-show-disabled-devices-by-right-clicking-within-the-recording-tab-of-more-sound-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After that, set your headset microphone as the default audio input device.
 
 ## 7\. Change the App Permissions for the Microphone
@@ -124,14 +124,14 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
 4. Turn on the toggle next to **Microphone access**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. After that, locate the app where the headset microphone isn't working and turn on the toggle next to it.  
 ![Turn On the Toggle Next to App to Enable Microphone Access in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/9-turn-on-the-toggle-next-to-app-to-enable-microphone-access-in-windows-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Select the Correct Microphone in the App's Settings
@@ -156,24 +156,15 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-capture-android-speech-4-simple-no-root-methods-for-2024/"><u>[New] Capture Android Speech 4 Simple No-Root Methods for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-enjoy-classic-games-anywhere-with-the-top-5-pc-based-gb-emulators-for-2024/"><u>[New] Enjoy Classic Games Anywhere with the Top 5 PC-Based GB Emulators for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-beginners-blueprint-for-green-screen-in-kinemaster/"><u>[New] In 2024, Beginner's Blueprint for Green Screen in KineMaster</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-replay-retro-thrills-top-5-ps1-game-emulators-reviewed-for-pc/"><u>[New] In 2024, Replay Retro Thrills - Top 5 PS1 Game Emulators Reviewed for PC</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-3dr-a-compreran-users-journey-through-tech-aloneness/"><u>[Updated] '3DR' A Compreran User's Journey Through Tech Aloneness</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-free-to-mix-unveiling-two-dji-devices-with-20-luts-complimentary/"><u>[Updated] Free to Mix - Unveiling Two DJI Devices with 20 LUTS Complimentary</u></a></li>
-<li><a href="https://windows11.techidaily.com/customizing-security-a-comprehensive-guide-to-lock-patterns-in-windows-11/"><u>Customizing Security: A Comprehensive Guide to Lock Patterns in Windows 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-apples-latest-iphone-16-enhancements-that-prove-its-time-for-an-upgrade-exclusive-review/"><u>Discover Apple's Latest iPhone 16 Enhancements That Prove It's Time for an Upgrade – Exclusive Review</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-elite-six-of-large-language-ai-models/"><u>Discover the Elite Six of Large Language AI Models</u></a></li>
-<li><a href="https://windows11.techidaily.com/efficiently-manage-windows-deletion-prompt-actions/"><u>Efficiently Manage Windows' Deletion Prompt Actions</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhance-taskmgr-with-command-line-interface-cli-feature/"><u>Enhance TaskMgr with Command Line Interface (CLI) Feature</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-onedrive-login-hiccup-zero-based-code-error-on-win11/"><u>Fixing OneDrive Login Hiccup: Zero-Based Code Error on Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-looks-like-youre-stranded-xbox-app-error-in-windows-11-and-11/"><u>How to Fix the “Looks Like You’re Stranded” Xbox App Error in Windows 11 & 11</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-in-depth-review-of-audfreeplus-software/"><u>In 2024, In-Depth Review of AudFreePlus Software</u></a></li>
-<li><a href="https://windows11.techidaily.com/leveraging-windows-innovations-to-enrich-macos/"><u>Leveraging Windows Innovations to Enrich macOS</u></a></li>
-<li><a href="https://windows11.techidaily.com/method-to-correct-windows-installation-glitch-xc004f050/"><u>Method to Correct Windows Installation Glitch Xc004f050</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719329285690-resolve-programming-discrepancies-with-no-troubleshoot-tool/"><u>Resolve Programming Discrepancies with No Troubleshoot Tool.</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/ultimate-guide-fixing-cannot-scan-dvd-title-issue-in-handbrake/"><u>Ultimate Guide: Fixing 'Cannot Scan DVD Title' Issue in HandBrake</u></a></li>
-<li><a href="https://windows11.techidaily.com/unleashing-the-full-capabilities-of-docker-in-wsl-2-windows/"><u>Unleashing the Full Capabilities of Docker in WSL 2 Windows</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/1-stunning-banff-national-park-scenes-high-quality-hd-wallpapers-and-desktop-backdrops-yl-computing/"><u>1. Stunning Banff National Park Scenes: High-Quality HD Wallpapers & Desktop Backdrops - YL Computing</u></a></li>
+<li><a href="https://windows11.techidaily.com/11-fixes-if-windows-11-cant-detect-a-wi-fi-network/"><u>11 Fixes if Windows 11 Can’t Detect a Wi-Fi Network</u></a></li>
+<li><a href="https://windows11.techidaily.com/breaking-down-steam-auth-blocks-in-rust-on-windows-devices/"><u>Breaking Down Steam Auth Blocks in Rust on Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-common-errors-in-windows-onedrive/"><u>Correcting Common Errors in Windows' OneDrive</u></a></li>
+<li><a href="https://windows11.techidaily.com/demystifying-windows-error-code-31-and-network-adapter-issues/"><u>Demystifying Windows Error Code 31 and Network Adapter Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-palworlds-eos-error-during-login-with-these-6-remedies/"><u>How to Resolve Palworld's EOS Error During Login with These ➡️6 Remedies</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-asus-rog-phone-8-pro-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Asus ROG Phone 8 Pro Phone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-the-game-how-googles-ai-takes-on-novice-table-tennis-rivals/"><u>Mastering the Game: How Google’s AI Takes on Novice Table Tennis Rivals</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Sony Xperia 5 V? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-from-your-apple-iphone-15-pro-max-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled From your Apple iPhone 15 Pro Max? How to Fix</u></a></li>
 </ul></div>
 

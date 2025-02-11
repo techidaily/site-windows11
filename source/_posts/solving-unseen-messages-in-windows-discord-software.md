@@ -1,7 +1,7 @@
 ---
 title: Solving Unseen Messages in Windows Discord Software
-date: 2024-08-15T15:27:09.434Z
-updated: 2024-08-16T15:27:09.434Z
+date: 2025-02-07T03:40:42.954Z
+updated: 2025-02-10T16:29:45.019Z
 tags:
   - windows10
   - windows11
@@ -29,8 +29,9 @@ thumbnail: https://thmb.techidaily.com/eba0a5b42c98b9f5083f688e46f3bb9b2578fe7a0
  If the problem is with Discord's servers you can't do much about it until the developers resolve the server issues. Once they're done, Discord should return to normal operation.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Rule Out Any Internet Issues
 
 ![Wi-Fi router with power adapter on a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/how-to-access-your-router-remotely.jpg)
@@ -41,13 +42,18 @@ thumbnail: https://thmb.techidaily.com/eba0a5b42c98b9f5083f688e46f3bb9b2578fe7a0
 
  However, if other apps do work, try closing bandwidth-hogging apps on your PC. Double-check if any devices on your network are soaking up bandwidth, too. Once you've freed up some space, try running Discord again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Give Discord a Fresh Start
 
  Sometimes, just giving Discord a fresh start is enough to knock it out of its issues. Log out of your account, close Discord, restart the app, and log back in. Check to see if messages are loading correctly this time.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Switch Your Network Connection
 
 ![It's important to troubleshoot slow internet speeds to determine if ISP is throttling you](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Troubleshoot-internet-router-modem-connection.jpg)
@@ -59,8 +65,9 @@ thumbnail: https://thmb.techidaily.com/eba0a5b42c98b9f5083f688e46f3bb9b2578fe7a0
  If changing the network works in resolving the issue, the problem is with your ISP. In such a case,[change the DNS](https://www.makeuseof.com/windows-11-alternate-ways-change-dns-server-settings/) to see if it fixes the problem. If that doesn't work, you should inform your ISP or switch to another provider.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Check for Channel-Specific Issues
 
  After confirming that Discord systems are operational, the internet is working fine, and there is no temporary glitch, you should rule out channel-specific issues. For that, try switching to another channel on the same server. If the problem occurs across all channels on the same server, check that you haven't been banned.
@@ -73,14 +80,12 @@ thumbnail: https://thmb.techidaily.com/eba0a5b42c98b9f5083f688e46f3bb9b2578fe7a0
 2. Right-click on the channel or server where the error occurred.
 3. Click on**Mute Server** or**Mute Channel** , depending on where your messages aren't being loaded, then select**Until I turn it back on** .  
 ![Muting Server For an Indefinite Time in the Discord App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/1-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 4. Wait a few minutes.
 5. Right-click on the same server or channel, and select**Unmute Channel** or**Unmute Server** .  
 ![Unmuting the Muted Server in the Discord App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/2-2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Mark Messages as Read
@@ -90,14 +95,12 @@ thumbnail: https://thmb.techidaily.com/eba0a5b42c98b9f5083f688e46f3bb9b2578fe7a0
 1. Launch Discord.
 2. Right-click the channel or server where the messages are stuck and click on**Mark As Read** .  
 ![Clicking on the Mark As Read to Auto Read the Stuck Messages in the Discord App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/3-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 3. Wait for the app to load messages.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Make Sure You Are Not Temporarily Banned From Discord
 
  If the message appears on every server and every channel, there's a small chance you may have been temporarily banned from Discord. This usually happens when you overload the Discord API with repetitive actions, such as spamming reactions.
@@ -105,6 +108,10 @@ thumbnail: https://thmb.techidaily.com/eba0a5b42c98b9f5083f688e46f3bb9b2578fe7a0
  When this happens, Discord cuts you off from using their API, which also handles grabbing messages from servers; hence the error. Don't fret, however; these bans typically don't last longer than a day, and they won't "add a mark" to your Discord rap sheet.
 
  Unfortunately, the API ban is based on your IP address, not your account. As such, making a new account won't get around the ban.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Enable or Disable a VPN
 
@@ -124,11 +131,13 @@ thumbnail: https://thmb.techidaily.com/eba0a5b42c98b9f5083f688e46f3bb9b2578fe7a0
 2. Enter**%appdata%/discord** and click**OK** . After that, you will be redirected to Discord's**AppData** folder, where you will find its cache.  
 ![Opening the DIscord AppData Folder Using the Windows Run Application](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/4-1.jpg)
 3. Find the cache folders, namely**Cache, Code Cache,** and**GPU Cache** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Right-click each folder and select**Delete** .  
 ![Deleting the Cache Code, Cache, and GPU Cache Folders in the Discord AppData Folder in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/5-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you have completed these steps, close the Discord app and restart your device. When your device has fully restarted, open Discord and see if messages have loaded successfully this time. If the messages remain stuck and the error persists, move on to the next step.
 
@@ -143,17 +152,11 @@ thumbnail: https://thmb.techidaily.com/eba0a5b42c98b9f5083f688e46f3bb9b2578fe7a0
 ## 12\. Switch to a Different Discord Client
 
 ![A finger pointing at the Discord logo on a phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/A-finger-pointing-at-the-Discord-logo-on-a-phone--(1).jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 
  If none of the fixes have worked, you should try loading messages on a different Discord client. You can access Discord in several ways, including a PC client, a mobile app, and a web version you can use in your browser.
 
  To double-check if the problem lies within your chosen client or not, try connecting to Discord via a different one. If it doesn't work in one client but works in another, you should [uninstall Discord](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) from your device and install it again to fix the problem. If the problem is with the web version, try [clearing the cookies and cache](https://www.makeuseof.com/how-to-clear-cookies-cache-in-chrome/) and see if that fixes the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 13\. Report the Problem to Discord Support as a Last Resort
 
  If none of the fixes work, contact Discord support as a last resort. For that, you can reach out to them via email at <support@discordapp.com>. If you don't hear back, you can submit a request via the request form on the [Discord website](https://support.discord.com/hc/en-us/requests/new) . If that also fails, you can reach out to [Discord via Twitter](https://twitter.com/discord) .
@@ -170,8 +173,6 @@ thumbnail: https://thmb.techidaily.com/eba0a5b42c98b9f5083f688e46f3bb9b2578fe7a0
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,8 +180,26 @@ thumbnail: https://thmb.techidaily.com/eba0a5b42c98b9f5083f688e46f3bb9b2578fe7a0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-showmores-edge-a-closer-look-at-exceptional-screen-recording/"><u>[New] 2024 Approved ShowMore's Edge A Closer Look at Exceptional Screen Recording</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-roadmap-for-effective-education-videos-making-a-mark-on-youtube/"><u>[New] The Roadmap for Effective Education Videos - Making a Mark on YouTube</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-finding-premium-photography-without-spending-for-2024/"><u>[Updated] Finding Premium Photography Without Spending for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-finding-chrome-companions-custom-melodies/"><u>2024 Approved Finding Chrome Companion's Custom Melodies</u></a></li>
+<li><a href="https://windows11.techidaily.com/deleting-persistent-epic-launcher-without-hurdles-in-w11/"><u>Deleting Persistent Epic Launcher Without Hurdles in W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-speed-of-microsoft-edge-on-win10plus11/"><u>Enhancing Speed of Microsoft Edge on Win10+11</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-error-xc0000142-with-windows-oses/"><u>Fixing Error XC0000142 with Windows OSes</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-an-incorrect-cpu-usage-in-the-windows-task-manager/"><u>How to Fix an Incorrect CPU Usage in the Windows Task Manager</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-xiaomi-13t-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Xiaomi 13T without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-9-essential-apps-for-pulling-youtube-videos-android/"><u>In 2024, 9 Essential Apps for Pulling YouTube Videos (Android)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-reducing-audio-dynamics-in-live-sessions/"><u>In 2024, Reducing Audio Dynamics in LIVE Sessions</u></a></li>
+<li><a href="https://windows11.techidaily.com/learn-9-keys-to-tweaking-windows-audio-properties/"><u>Learn 9 Keys to Tweaking Windows Audio Properties</u></a></li>
+<li><a href="https://windows11.techidaily.com/nine-pathways-out-of-the-window-11s-0x8004def5-puzzle/"><u>Nine Pathways Out of the Window 11'S 0X8004DEF5 Puzzle</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/powerpoint-revamp-strategies-how-to-successfully-update-presentations/"><u>PowerPoint Revamp Strategies: How to Successfully Update Presentations</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplified-docx-to-pdf-workflow-in-windows-11-systems/"><u>Simplified DOCX to PDF Workflow in Windows 11 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-deleting-account-info-from-windows-logon/"><u>Steps for Deleting Account Info From Windows Logon</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailored-taskbar-tools-monitoring-cpu-ram-and-disk-use/"><u>Tailored Taskbar Tools: Monitoring CPU, RAM & Disk Use</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-fix-guide-eradicating-error-code-0x80004005-from-your-system/"><u>The Ultimate Fix Guide: Eradicating Error Code 0X80004005 From Your System</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-video-editing-like-a-pro-expert-techniques-for-jaw-dropping-effects/"><u>Updated Video Editing Like a Pro Expert Techniques for Jaw-Dropping Effects</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Revitalize Your Clockwork: Restore Missing Windows Server Time"
-date: 2025-01-24T06:30:25.640Z
-updated: 2025-01-29T22:06:51.569Z
+date: 2025-02-05T19:38:17.117Z
+updated: 2025-02-10T17:37:25.119Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/e2b01a1128735e3ec5310f2cbee0a0035159bd501
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Reboot Your PC
 
  Restart your computer before attempting any major troubleshooting. While it may sound simple, restarting the computer resolves minor errors and glitches that prevent the service from running. It flushes out temporary files and refreshes the operating system to ensure everything works correctly.
@@ -37,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/e2b01a1128735e3ec5310f2cbee0a0035159bd501
 2. Select **Restart** from the drop-down menu and then hit **OK**.
 
  Once the computer restarts, check if Windows Time Service is available. If it's still missing, move on to the next step.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Change the Time Server
 
@@ -55,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/e2b01a1128735e3ec5310f2cbee0a0035159bd501
 5. Check the **Synchronize with an Internet time server** box and select a time server from the drop-down menu.  
 ![Change the Time Server](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/change-the-time-server.jpg)
 6. Click the **Update now** button to synchronize your computer with the time server.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. Once completed, click **OK** to save the changes and exit.
 
@@ -94,7 +90,7 @@ ntp-wwv.nist.gov`
  After adding the time server, click **OK** and close the Registry Editor window. Now restart your computer to apply the changes and check if Windows Time Service is available.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Re-register the Windows Time Service
@@ -117,12 +113,16 @@ net start w32time
 
  After performing these steps, close the Command Prompt window and restart your system. You should see that the Windows Time Service is running, and your clock syncs with the time server.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Repair Corrupted System Files
 
 ![SFC Command Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sfc-command-preview.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Corrupt system files can also cause Windows services to fail. So, if the Windows Time Service is still missing, try repairing corrupt system files. You can do this using the System File Checker tool. This tool scans your system for missing files and repairs the errors it finds.
@@ -130,6 +130,10 @@ net start w32time
  Wait for the scan to complete, and restart your computer. After that, check if the Windows Time Service is still missing. If it is, try running the Deployment Image Servicing and Management tool. This tool repairs corrupted system files and restores your Windows installation's health.
 
  If you're not sure how to run either of these tools, check out how to repair corrupt Windows files with its built-in tools for instructions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Scan for Malware
 
@@ -140,10 +144,6 @@ net start w32time
  If you feel your PC isn't as secure as it could be, you could try downloading one of the [best antivirus apps for Windows](http://www.makeuseof.com/windows-11-antivirus-apps/). These will both actively block malicious program from installing themselves on your PC, and remove any that are currently infesting your computer.
 
  For those who prefer a command-line approach, you can [use Windows PowerShell to scan Windows for malware](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Restore the Missing Windows Time Service
 
@@ -161,18 +161,18 @@ net start w32time
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-unlock-virtual-worlds-top-10-pc-games-for-ultimate-vr-experience/"><u>[New] 2024 Approved Unlock Virtual Worlds Top 10 PC Games for Ultimate VR Experience</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-ideal-illustration-tools-for-windows-no-cost-high-prices-for-2024/"><u>[Updated] Ideal Illustration Tools for Windows No Cost, High Prices for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/10-swift-routes-to-the-control-panel-interface/"><u>10 Swift Routes to the Control Panel Interface</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/enhance-your-online-presence-using-manycam-top-tier-live-video-platform-and-digital-webcam/"><u>Enhance Your Online Presence Using ManyCam - Top-Tier Live Video Platform & Digital Webcam</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exclusive-cyber-monday-deals-countdown-save-on-electronics-with-our-top-17-picks-from-tv-to-surround-sound-systems/"><u>Exclusive Cyber Monday Deals Countdown: Save on Electronics with Our Top 17 Picks From TV to Surround Sound Systems</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-vivo-s17e-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Vivo S17e to Another | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-google-pixel-8-pro-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Google Pixel 8 Pro FRP Bypass Instantly</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-the-evolution-of-streaming-youtube-tv-in-focus/"><u>In 2024, The Evolution of Streaming YouTube TV In Focus</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-realme-gt-5-pro-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Realme GT 5 Pro for Parents | Dr.fone</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/kostenlose-dvd-ripping-mit-schutzmechanismen-unter-verwendung-von-vlc-media-player-und-handbrake/"><u>Kostenlose DVD-Ripping Mit Schutzmechanismen Unter Verwendung Von VLC Media Player Und HandBrake</u></a></li>
-<li><a href="https://windows11.techidaily.com/revival-rituals-for-lost-windows-unlocking-off-screen-restoration-in-win-1011-6-essentials/"><u>Revival Rituals for Lost Windows: Unlocking Off-Screen Restoration in Win 10/11 (6 Essentials)</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamline-your-win11-upgrades-eradicate-error-0xc1900101/"><u>Streamline Your Win11 Upgrades, Eradicate Error 0xC1900101</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-easy-way-opening-sticky-notes-on-win11/"><u>The Easy Way: Opening Sticky Notes on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-techniques-for-reviving-a-stuck-dark-screen-mode/"><u>7 Techniques for Reviving a Stuck Dark Screen Mode</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/a-palette-of-pleasantness-five-winter-backgrounds-ideas-for-2024/"><u>A Palette of Pleasantness Five Winter Backgrounds Ideas for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/achieving-perfect-boot-strategies-to-configure-startup-services-in-win11/"><u>Achieving Perfect Boot: Strategies to Configure Startup Services in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/circumventing-firewall-restriction-chrome-connectivity-solution/"><u>Circumventing Firewall Restriction: Chrome Connectivity Solution</u></a></li>
+<li><a href="https://windows11.techidaily.com/contrasting-the-workflow-of-cloud-based-and-disk-installed-windows-oses/"><u>Contrasting the Workflow of Cloud-Based & Disk Installed Windows OSes</u></a></li>
+<li><a href="https://windows11.techidaily.com/cost-saving-strategies-for-new-windows-11-users/"><u>Cost-Saving Strategies for New Windows 11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/decode-and-dissolve-rectifying-win11-webcam-issue-error-a00f4289/"><u>Decode & Dissolve: Rectifying Win11 Webcam Issue - Error A00F4289</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-y27-4g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Vivo Y27 4G</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-motorola-edge-2023-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Motorola Edge 2023? Fixed | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcome-print-job-queue-freeze/"><u>Overcome Print Job Queue Freeze</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/seamless-srt-file-engagement-for-os-users/"><u>Seamless SRT File Engagement for OS Users</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/tackling-the-pros-and-cons-in-madden-19s-latest-release-admirable-modules-with-indications-of-fading-novelty/"><u>Tackling the Pros and Cons in Madden 19'S Latest Release: Admirable Modules with Indications of Fading Novelty</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailored-views-adopting-the-compact-method-for-windows-11/"><u>Tailored Views: Adopting the Compact Method for Windows 11</u></a></li>
 </ul></div>
 

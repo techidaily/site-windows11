@@ -1,7 +1,7 @@
 ---
 title: "Mastering Second Screen Harmony: Windows + Android Tablets"
-date: 2024-08-15T15:24:58.398Z
-updated: 2024-08-16T15:24:58.398Z
+date: 2025-02-06T02:44:43.107Z
+updated: 2025-02-11T07:12:10.633Z
 tags:
   - windows10
   - windows11
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/718d1853d85918e9d3b7531d3e7e5d446b8b2d7ec
 
  You need to add that exception to your firewall or it might block the connection to Spacedesk. If you use third-party antivirus or firewall software, you may need to add the exception manually. To do this, find the firewall settings in whatever security software you use, and tell it to allow 'spacedeskService.exe'.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## Installing Spacedesk on Your Android Device
 
  The second piece of software you need can be found in the Google Play Store. Connect to your Wi-Fi and open the Google Play Store on the Android device you want to use as the secondary screen.
@@ -61,10 +54,11 @@ No advertising on the website.
 2. The Spacedesk software is configured to run automatically when your computer starts. If you disabled this option or closed the software, you can restart it from the main app list in the Start Menu.
 3. On your Android device, open the Spacedesk app. It will already be set to use Wi-Fi for the connection and will begin looking for one as soon as it opens.  
 ![screenshot of connection list in Spacedesk app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/spacedesk-android.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Tap the name of your computer when you see it appear in the connections list. After a second or two, you will see your PC screen mirrored on your tablet.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To change the second display to an extension rather than a copy of your main screen, right-click on your PC desktop and choose Display Settings from the menu. Click the**Duplicate these displays** button and change it to**Extend these displays** .
 
@@ -81,11 +75,16 @@ No advertising on the website.
 3. Open the Spacedesk app on your phone or tablet and tap the connection you see in the connections list. If you don't see any connections listed, tap the plus button and enter the IP address of your computer. If you aren't sure what your IP address is, take a look at our guide to [finding your IP address in Windows 10](https://www.makeuseof.com/tag/find-ip-address-windows-10/) . Fortunately, the steps in that guide still work on Windows 11 at the time of writing.
 
 ![windows 11 displayed on Android tablet screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/extended-screen.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After a second or two, you will see your PC screen mirrored on your tablet. To change the second display to an extension rather than a copy of your main screen, right-click on your PC desktop and choose Display Settings from the menu. Click the**Duplicate these displays** button and change it to**Extend these displays** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Troubleshooting Connection and Performance Issues
 
@@ -96,44 +95,44 @@ No advertising on the website.
  Your third-party firewall might have blocked the connection. In that case, you will need to add spacedeskService.exe to the firewall exceptions. It could also be because the Viewer and Primary Machine are using different network segments. You can fix this by tapping the + button in the Viewer and manually entering the IP address of the Primary Machine.
 
 ![manually entering IP address in Spacedesk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/spacedesk-ip.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Spacedesk Server Error/Off
 
  The connection can fail if there is an error with the Spacedesk server. This can sometimes happen when the Primary Machine or your tablet wakes after standby. You can check the server status at the bottom of the Spacedesk Driver Console on your PC. If the server is off or shows an error, restarting the software should fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Random Crashes or Graphical Glitches
 
  Most likely to be caused by outdated graphics drivers, particularly Nvidia drivers. Here's how to [safely update the drivers for Nvidia](https://www.makeuseof.com/how-update-nvidia-graphics-card-drivers-windows/) and [AMD](https://www.makeuseof.com/update-amd-radeon-graphics-driver-windows-11/) graphic processors.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ### Display Lag on Second Screen
 
  There are several ways to improve the network connection performance. One of the easiest ways is to lower the color depth and image compression level. In Spacedesk on your second screen, go to Settings > Quality/Performance. Set the color depth to medium or low, and at 16-bit. This will affect image quality, but not much.
 
 ![Changing performance settings in Spacedesk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/spacedesk-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lowering the resolution, also in the Settings, to something other than the native tablet resolution can also help performance. If none of the performance tweaks help, consider connecting the tablet using a USB cable instead.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Using an Android Device as a Second Screen for Windows
 
  Adding a second screen to your Windows computer can help improve productivity and allows you to have many more apps or windows open at once. Using an Android tablet as an extra display can save you desk space, and can also be a great dual-screen solution when traveling or working remotely.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,8 +141,22 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-decoding-funimates-downloading-mechanics-easily/"><u>[New] In 2024, Decoding Funimate's Downloading Mechanics Easily</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-how-to-record-video-calls-on-facebook-4-methods/"><u>[Updated] 2024 Approved How to Record Video Calls on Facebook [4 Methods]</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-pivot-to-personal-how-to-directly-send-tweets-videos-on-whatsapp/"><u>[Updated] 2024 Approved Pivot to Personal How to Directly Send Tweets' Videos on WhatsApp</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-mastering-twitter-uploading-videos-compliance-for-2024/"><u>[Updated] Mastering Twitter Uploading Videos Compliance for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-ultimate-unboxing-the-logitech-4k-webcam-review/"><u>[Updated] Ultimate Unboxing The Logitech 4K Webcam Review</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-the-ultimate-exploration-of-apeaksofts-screen-recorder/"><u>2024 Approved The Ultimate Exploration of Apeaksoft's Screen Recorder</u></a></li>
+<li><a href="https://windows11.techidaily.com/augmenting-mac-operations-with-windows-tech/"><u>Augmenting Mac Operations with Windows Tech</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comparing-latest-windows-options-why-choose-11/"><u>Comparing Latest Windows Options: Why Choose 11?</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-ftdibussys-understanding-its-role-in-windows-memory-controls/"><u>Decoding ftdibus.sys: Understanding Its Role in Windows Memory Controls</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-productivity-hotkey-tricks-to-reconfigure-windows/"><u>Enhance Productivity: Hotkey Tricks to Reconfigure Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/eradicate-error-e1-in-windows-10-11-editions/"><u>Eradicate Error E1 in Windows 10, 11 Editions</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-ineffectual-window-11-desktop-options/"><u>Fixing Ineffectual Window 11 Desktop Options</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-oppo-reno-9a-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Oppo Reno 9A Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-absence-win-error-due-to-missing-mfc71udll/"><u>Troubleshooting Absence: Win Error Due to Missing Mfc71u.dll</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-makeover-the-art-of-digital-expression/"><u>Windows 11 Makeover: The Art of Digital Expression</u></a></li>
+</ul></div>
 

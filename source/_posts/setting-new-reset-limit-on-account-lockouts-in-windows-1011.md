@@ -1,7 +1,7 @@
 ---
 title: Setting New Reset Limit on Account Lockouts in Windows 10/11
-date: 2024-08-15T15:25:11.695Z
-updated: 2024-08-16T15:25:11.695Z
+date: 2025-02-06T19:17:33.771Z
+updated: 2025-02-10T18:55:14.880Z
 tags:
   - windows10
   - windows11
@@ -30,13 +30,24 @@ thumbnail: https://thmb.techidaily.com/971a75711e8320cab50ce3d6d3f20ecd50a3ca987
 3. On the left pane, navigate to **Account Lockout Policy** under the **Account Policies** folder.  
 ![Change Windows account lockout in Security Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/02-windows-account-policies.jpg)
 4. On the right pane, double-click on the **Reset account lockout counter after** option.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Windows account logon counter setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/03-reset-windows-account-logon-counter.jpg)
 5. Choose a number between one and 99,999, and hit **OK** to change how long the system will require to automatically reset any failed logon attempts.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Set Windows account logon reset timer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/04-choose-windows-account-logon-reset-timer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Change Account Lockout Counter Reset Time via Command Prompt
 
  If the system you’re working with isn’t running the Pro, Enterprise, or Education edition of Windows 10 or 11, you’ll have to change how long before the account lockout counter is reset via the command prompt.
@@ -45,32 +56,29 @@ thumbnail: https://thmb.techidaily.com/971a75711e8320cab50ce3d6d3f20ecd50a3ca987
 2. Type the following command into the console and hit **Enter**:  
 `net accounts`  
 ![Using the command prompt to list Windows account policies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/05-command-prompt-net-accounts-02.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. This will pull up information on how long a user has to wait before their account lockout counter is reset. It will be under the heading **Lockout observation window**.
 4. To change the account lockout counter reset duration on Windows 10 and 11, type the following command into the console and hit **Enter**:  
 `net accounts /lockoutwindow:60`  
 ![Use the command prompt to change account lockout counter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/06-change-account-lockout-counter-command-prompt.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 5. Replace the number “60” in the command with any other number from one to 99,999 to set how many minutes a user will have to wait before their failed logon attempts are reset.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A related setting, the [account lock-out duration](https://www.makeuseof.com/change-lockout-duration-windows/), must equal or exceed the time for the system to automatically reset the number of failed login attempts. If you want, you can [change the account lock-out duration on Windows](http://www.makeuseof.com/change-lockout-duration-windows/) to something that suits you best.
 
  You can also [limit the number of failed logon attempts on Windows](https://www.makeuseof.com/how-limit-number-failed-login-attempts-windows-10/) with a similar setting change.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Control How Long Before the Incorrect Logon Counter Is Reset
 
  With this setting, you control how long before the counter that keeps track of incorrect logon attempts is reset. Use it in conjunction with the lockout duration option account policy to make things more convenient for local users.
 
  Exceed this threshold and you will need this counter to be reset, which you can do by waiting a set amount of time. Here’s how to change the time you must wait in order for the counter to be automatically reset.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -79,5 +87,22 @@ thumbnail: https://thmb.techidaily.com/971a75711e8320cab50ce3d6d3f20ecd50a3ca987
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-the-ultimate-list-of-serene-pc-gaming/"><u>[New] In 2024, The Ultimate List of Serene PC Gaming</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/phoneandroids-best-5-multimedia-capturing-apps-reviewed-for-2024/"><u>[New] IPhone/Android's Best 5 Multimedia Capturing Apps Reviewed for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-building-dreams-in-mc-ideal-village-housing-plans-for-2024/"><u>[Updated] Building Dreams in MC Ideal Village Housing Plans for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-solutions-for-resolving-the-steam-disk-write-error-on-your-pc/"><u>Comprehensive Solutions for Resolving the Steam Disk Write Error on Your PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/conquer-the-steam-error-a-detailed-walkthrough-to-overcome-error-code-130-solved/"><u>Conquer the Steam Error: A Detailed Walkthrough to Overcome Error Code 130 ([SOLVED])</u></a></li>
+<li><a href="https://windows11.techidaily.com/cutting-edge-methods-to-convert-word-documents-to-pdf-on-windows-11/"><u>Cutting-Edge Methods to Convert Word Documents to PDF on Windows 11</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/discover-the-top-10-efficiency-boosters-for-fcp/"><u>Discover the Top 10 Efficiency Boosters for FCP</u></a></li>
+<li><a href="https://windows11.techidaily.com/finding-out-your-internets-public-ip-with-win-cli/"><u>Finding Out Your Internet's Public IP with Win CLI</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/infuse-personalized-style-in-windows-email-calendar/"><u>Infuse Personalized Style in Windows Email, Calendar</u></a></li>
+<li><a href="https://article-helps.techidaily.com/maximize-your-viewing-experience-with-youtube-scaling/"><u>Maximize Your Viewing Experience with YouTube Scaling</u></a></li>
+<li><a href="https://windows11.techidaily.com/minimizing-power-drain-addressing-vanguard-ums-overuse-on-pcs/"><u>Minimizing Power Drain: Addressing Vanguard UMS Overuse on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fix-eliminate-startup-disruption-due-to-winscombsvc-errors/"><u>Quick Fix: Eliminate Startup Disruption Due to WinScombSvc Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/sharpening-performance-with-optimized-news-and-video-consumption/"><u>Sharpening Performance with Optimized News & Video Consumption</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-making-the-cursor-more-noticeable-in-windows/"><u>Step-by-Step: Making the Cursor More Noticeable in Windows</u></a></li>
+</ul></div>
 

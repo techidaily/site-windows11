@@ -1,7 +1,7 @@
 ---
 title: Removing Block by System Admins From Windows
-date: 2025-01-26T02:47:48.162Z
-updated: 2025-01-29T17:20:01.200Z
+date: 2025-02-09T06:02:20.334Z
+updated: 2025-02-11T00:31:36.871Z
 tags:
   - windows10
   - windows11
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 ![unblocking a file in Properties on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/unblock-file-properties-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Windows can automatically block apps downloaded from the internet from running your computer. This is a safety measure intended to protect your system against apps from unknown publishers.
@@ -48,7 +48,7 @@ To unblock an app on Windows:
 5. Launch the app again to see if the error is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Run the App Using the Command Prompt
@@ -63,7 +63,7 @@ To open Windows apps using Command Prompt:
 3. In the Properties dialog, open the**Genera** l tab.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Copy the file path shown as**Location** .
@@ -76,16 +76,12 @@ To open Windows apps using Command Prompt:
 9. Press**Enter** to launch the app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Run the Apps as an Administrator
 
 ![run minecraft as administrator windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-minecraft-as-administrator-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Some Windows apps may need administrator privileges to work correctly. To fix the error, run the app as an administrator. If it works, you can configure the app properties to always run as administrator.
 
@@ -96,6 +92,10 @@ To run an app as an administrator:
 
  Check if the app launches ad administrator without the error. If yes, you can[set the app to always run as administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) to fix the issue. That said, do this only if you trust the publisher for security reasons.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Repair or Reset the Microsoft Store Apps
 
  If the error is triggered when opening a Microsoft Store app, try to perform a repair. You can repair Microsoft Store apps from the Settings panel. This should fix temporary glitches with the app and resolve the error.
@@ -103,6 +103,10 @@ To run an app as an administrator:
 To repair a Microsoft Store app:
 
 ![repair photos app windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/repair-photos-app-windows-11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Press**Win + I** to open**Settings** .
 2. Open the**Apps** tab and click on**Installed Apps** .
@@ -158,10 +162,6 @@ To remove the admin block using Registry Editor:
 ![enable lua modify registry editor value 0 windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-lua-modify-registry-editor-value-0-windows.jpg)
 8. Close Registry Editor and restart your computer to apply the changes. After the restart, launch the app to see if the error is resolved.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 9. If you are using a school or work computer, your organization may put some restrictions on its use. If you can't find the UAC settings, contact your IT administrator to resolve the issue.
 
 ## Unblock the Apps Blocked by Your System Administrator
@@ -185,24 +185,14 @@ To remove the admin block using Registry Editor:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-the-art-of-video-storytelling-integrating-audio-narration/"><u>[New] In 2024, The Art of Video Storytelling Integrating Audio Narration</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-unveiling-the-vanished-rediscovering-exclusive-chats/"><u>[Updated] 2024 Approved Unveiling the Vanished Rediscovering Exclusive Chats</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-best-15-gear-to-secure-your-gopro-on-movement/"><u>[Updated] Best 15 Gear to Secure Your GoPro on Movement</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/choosing-between-ztna-and-vpn-a-comprehensive-guide-on-timing-and-usage/"><u>Choosing Between ZTNA and VPN: A Comprehensive Guide on Timing & Usage</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-the-powershell-not-found-issue-on-windows-os/"><u>Fixing the PowerShell Not Found Issue on Windows OS</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Vivo V30? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-content-strategies-skyrocket-your-ranking/"><u>In 2024, YouTube Content Strategies Skyrocket Your Ranking</u></a></li>
-<li><a href="https://windows11.techidaily.com/innovative-designs-and-advanced-tech-years-best-windows-laptops/"><u>Innovative Designs and Advanced Tech - Year's Best Windows Laptops</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/jabra-earbuds-malfunction-heres-the-ultimate-guide-for-2ebytes-repairs/"><u>Jabra Earbuds Malfunction? Here's the Ultimate Guide for 2Ebytes Repairs</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-high-dynamic-range-hdr-in-windows-11-a-step-by-step-manual/"><u>Navigating High Dynamic Range (HDR) in Windows 11: A Step-by-Step Manual</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-to-system32-in-windows-11/"><u>Navigating to System32 in Windows 11</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-6-best-free-daw-software-for-beginners-to-use/"><u>New 6 Best Free DAW Software for Beginners to Use</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-windows-thx-spatial-audio-issues/"><u>Overcoming Windows THX Spatial Audio Issues</u></a></li>
-<li><a href="https://windows11.techidaily.com/restoring-audio-clarity-and-functionality-in-valorant-windows/"><u>Restoring Audio Clarity and Functionality in Valorant (Windows)</u></a></li>
-<li><a href="https://windows11.techidaily.com/retrieve-missing-5ghz-connection-now-easily-for-windows-11/"><u>Retrieve Missing 5GHz Connection, Now Easily for Windows 11</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/the-comprehensive-guide-to-crafting-an-authentic-online-persona-on-facebook/"><u>The Comprehensive Guide to Crafting an Authentic Online Persona on Facebook</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-obsidian-way-to-uncluttered-vivid-note-taking/"><u>The Obsidian Way to Uncluttered, Vivid Note-Taking</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-razer-device-non-detection-by-synapse-on-windows/"><u>Troubleshooting Razer Device Non-Detection by Synapse on Windows</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/unlimited-compression-techniques-for-large-webm-video-files/"><u>Unlimited Compression Techniques for Large WebM Video Files</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-capture-discord-talks-best-ways-to-record-live-streaming-sessions-for-2024/"><u>[Updated] Capture Discord Talks Best Ways to Record Live Streaming Sessions for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciding-on-the-best-nvidia-driver-type/"><u>Deciding on the Best Nvidia Driver Type</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/epic-post-malone-and-doja-cat-wallpaper-collection-by-yl-computing-stunning-visuals-from-yls-official-image-library/"><u>Epic Post Malone & Doja Cat Wallpaper Collection by YL Computing: Stunning Visuals From YL's Official Image Library</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>How to Stop My Spouse from Spying on My Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/identifying-superior-video-encoders-for-windows-computing/"><u>Identifying Superior Video Encoders for Windows Computing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-optimal-8-video-tools-to-boost-live-viewership/"><u>In 2024, Optimal 8 Video Tools to Boost Live Viewership</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/recording-rivalry-obs-versus/"><u>Recording Rivalry OBS Versus</u></a></li>
+<li><a href="https://windows11.techidaily.com/switch-onoff-windows-filter-keys-guide/"><u>Switch On/Off: Window's Filter Keys Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-does-s-mode-mean-in-the-world-of-windows-11-updates/"><u>What Does 'S Mode' Mean in the World of Windows 11 Updates?</u></a></li>
 </ul></div>
 

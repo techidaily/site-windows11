@@ -1,7 +1,7 @@
 ---
 title: Seamlessly Retrieve Content From a Shared Windows Space
-date: 2025-01-26T20:26:18.134Z
-updated: 2025-01-29T18:42:56.817Z
+date: 2025-02-09T03:32:04.925Z
+updated: 2025-02-10T17:34:00.083Z
 tags:
   - windows10
   - windows11
@@ -53,16 +53,12 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
 ![Sharing Folder Sharing Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sharing-folder-sharing-options.jpg)
 4. Click**Permissions** to edit all the sharing permissions. If you have not allowed**Everyone** to access the files, make sure to click**Add...** and add the user manually.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Edit the permissions as needed, and then click**OK** to apply the changes.
 
  By giving your friend or teammate the right access permissions, they should now be able to easily access the files. However, if the problem persists, move on to some advanced troubleshooting steps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Restart the Networking Services
@@ -77,10 +73,6 @@ Follow this step-by-step guide to restart the networking services:
 ![Services App In Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/services-app-in-windows-search.jpg)
 2. Choose**Open** to launch the Services app.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Find the**Function Discovery Provider Host** service and right-click on it.
 4. Select**Restart** from the context menu that appears.  
 ![Services App On Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/services-app-on-windows.jpg)
@@ -89,7 +81,7 @@ Follow this step-by-step guide to restart the networking services:
  These services are responsible for various networking functions on Windows. Restarting them can help resolve issues that may be causing problems with accessing shared folders.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Turn on Network Discovery in Windows Settings
@@ -103,6 +95,10 @@ To turn on Network discovery, follow these steps:
 ![Control Panel Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/control-panel-overview.jpg)
 3. On the left-hand pane, click**Change advanced sharing settings** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Under**Private networks** , turn**On** the**Network discovery** option.  
 ![Windows Advanced Sharing Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-advanced-sharing-settings.jpg)
 5. Turn**On** the**File and printer sharing** option as well.
@@ -112,7 +108,7 @@ To turn on Network discovery, follow these steps:
  Once you change these settings, you should have no trouble getting access to shared folders.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Check the Windows Firewall Settings
@@ -129,14 +125,14 @@ Here's how you can fix all the firewall issues on your computer:
 ![Windows Security App Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-security-preview.jpg)
 4. Uncheck or disable the option saying**Block all incoming connections** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Perform the same step with**Domain network** and**Private network** as well.
 6. Restart your PC to make sure the firewall is not blocking any Internet connections now.
 
  This will allow all incoming connections, or, in other words, solve your sharing folder issue on Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reset the Network Settings
 
@@ -150,6 +146,10 @@ Here's how to reset the network settings on Windows:
 2. Select the best match, and from the right-side menu, click**Run as administrator** .  
 ![CMD In Search Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/cmd-in-search-bar.jpg)
 3. In the Command Prompt window, type the**netsh int ip reset** command without the double quotes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Ip Reset Command In Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ip-reset-command.jpg)
 4. Press**Enter** to execute the command. This will reset your network settings.
@@ -175,20 +175,22 @@ Here's how to reset the network settings on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ighest-rated-smartphone-camera-and-recording-apps-iphone-vs-android-for-2024/"><u>[New] Highest Rated Smartphone Camera & Recording Apps IPhone vs Android for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-showcasing-design-brilliance-best-10-text-setups-in-ae/"><u>[New] In 2024, Showcasing Design Brilliance Best 10 Text Setups in AE</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-vidma-redefining-standard-practices-in-video-capture/"><u>[Updated] Vidma Redefining Standard Practices in Video Capture</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/exploring-file-saving-strategies-understanding-microsoft-words-autorecover-functionality/"><u>Exploring File Saving Strategies: Understanding Microsoft Word's AutoRecover Functionality</u></a></li>
-<li><a href="https://windows11.techidaily.com/hacked-scans-halt-evaluating-windows-biometric-security-now/"><u>Hacked Scans Halt: Evaluating Window's Biometric Security Now</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Motorola Moto G04 | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209634834-9781547573028-la-meditazione-come-affrontare-stress-e-ansia/"><u>La Meditazione come affrontare stress e ansia | Free Book</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-gpresult-creating-gpo-reports-effortlessly/"><u>Mastering GPResult: Creating GPO Reports Effortlessly</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-setup-snags-clipchamp-on-the-latest-of-windows-11/"><u>Overcoming Setup Snags: ClipChamp on the Latest of Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/reinstating-absent-system-temperature-policy-on-windows/"><u>Reinstating Absent System Temperature Policy on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/repairing-windows-11s-isdonedll-file-failure/"><u>Repairing Windows 11'S ISDone.dll File Failure</u></a></li>
-<li><a href="https://windows11.techidaily.com/set-up-wi-fi-cost-meter-on-windows-11/"><u>Set Up Wi-Fi Cost Meter on Windows 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-solution-reactivating-your-frozen-airpod-devices/"><u>Step-by-Step Solution: Reactivating Your Frozen AirPod Devices</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-ios-gif-tools-for-iphones/"><u>The Ultimate Guide to iOS GIF Tools for iPhones</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-for-restricting-removable-storage-via-windows-settings/"><u>Tips for Restricting Removable Storage via Windows Settings</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-elevate-video-production-quality-by-integrating-luts-in-your-obs-setup/"><u>[Updated] In 2024, Elevate Video Production Quality by Integrating LUTs in Your OBS Setup</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-masterclass-in-3d-color-grading-with-custom-luts-for-2024/"><u>[Updated] Masterclass in 3D Color Grading with Custom LUTs for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-scripts-to-screen-a-filmmakers-guide/"><u>[Updated] Scripts to Screen A Filmmaker's Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/4-ways-to-check-your-network-adapter-speed-on-windows/"><u>4 Ways to Check Your Network Adapter Speed on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/6-fixes-for-windows-gone-dark-and-unresponsive/"><u>6 Fixes for Windows Gone Dark and Unresponsive</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-detailed-guide-turning-off-windows-update-restrictions/"><u>A Detailed Guide: Turning Off Windows Update Restrictions</u></a></li>
+<li><a href="https://windows11.techidaily.com/adding-comprehensive-firewall-tools-to-windows-11s-menu-bar/"><u>Adding Comprehensive Firewall Tools to Windows 11’S Menu Bar</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/all-you-need-to-know-about-the-cutting-edge-s-pen-and-dex-mode-in-your-next-samsung-galaxy-tab-s6-tablet/"><u>All You Need to Know About the Cutting-Edge S Pen and Dex Mode in Your Next Samsung Galaxy Tab S6 Tablet</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoidance-of-memory-limitations-strategies-for-windows/"><u>Avoidance of Memory Limitations: Strategies for Windows</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/best-6-simple-ways-to-transform-mkv-files-into-mp4-format-using-your-mac/"><u>Best 6 Simple Ways to Transform MKV Files Into MP4 Format Using Your Mac</u></a></li>
+<li><a href="https://windows11.techidaily.com/combatting-common-downloads-dilemmas-on-windows-pcs/"><u>Combatting Common Downloads Dilemmas on Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-bsod-0x0000003b-and-resolution-steps-in-windows-os/"><u>Decoding BSOD -0X0000003B & Resolution Steps in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/diagnosing-and-repairing-dormant-window-control/"><u>Diagnosing and Repairing Dormant Window Control</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-social-sensation-skills-making-a-buzz-on-your-profiles-wall/"><u>In 2024, Social Sensation Skills Making a Buzz on Your Profile's Wall</u></a></li>
+<li><a href="https://some-tips.techidaily.com/macbook-air-revolution-apple-slashes-price-down-to-799-before-october-prime-day-insider-news/"><u>MacBook Air Revolution: Apple Slashes Price Down To $799 Before October Prime Day! - Insider News</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-best-of-the-best-10-animated-text-tools-to-elevate-your-brand/"><u>New 2024 Approved The Best of the Best 10 Animated Text Tools to Elevate Your Brand</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/pioneering-camera-spin-top-professionals-360cameras-of-2023/"><u>Pioneering Camera Spin Top Professionals’ 360°Cameras of 2023</u></a></li>
 </ul></div>
 

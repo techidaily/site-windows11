@@ -1,7 +1,7 @@
 ---
 title: How To Successfully Retry Failed Application Downloads on Marketplace
-date: 2025-01-28T22:36:16.434Z
-updated: 2025-01-30T06:59:24.707Z
+date: 2025-02-03T21:24:12.075Z
+updated: 2025-02-11T06:08:08.594Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/4abc1e0d974f64940dfb669b21c754808ce4ab1e9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Run the Microsoft Store Troubleshooter
 
 ![windows store apps troubleshooter 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-store-apps-troubleshooter-1.jpg)
@@ -46,10 +42,6 @@ To run the Windows Store Apps troubleshooter:
 
 ![wsreset clear microsoft store cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wsreset-clear-microsoft-store-cache.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  WSReset or Windows Store Reset is a built-in utility to reset or clear Windows Store Cache. Resetting the store cache can help you fix temporary glitches preventing you from installing apps from Microsoft Store.
 
 To reset the Windows Store cache:
@@ -57,6 +49,10 @@ To reset the Windows Store cache:
 1. Press the**Win** key and type**wsreset** .
 2. Click on**wsreset** –**run command** from the search result. This will open a black Window that will reset the Windows Store cache. The window will close automatically and launch Microsoft Store.
 3. Close Microsoft Store and then relaunch the app to see if the error is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Restart the Microsoft Store Install Service
 
@@ -76,20 +72,20 @@ To restart Microsoft Store Install Service:
 ![microsoft store install service manual startup type](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microsoft-store-install-service-manual-startup-type.jpg)
 6. If yes, click the**Startup type** drop-down and select**Manual** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![microsoft store install service restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microsoft-store-install-service-restart.jpg)
 7. Click**Apply** and**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Next, right-click on**Microsoft Store Install Services** and select**Restart** .
 
  Close the Services snap-in and launch Microsoft Store. Then, try to install the app and check if the error is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Perform a Microsoft Store Repair
 
@@ -105,6 +101,10 @@ To restart Microsoft Store Install Service:
 6. Scroll down to the**Reset** section.
 7. Click on**Repair** and wait for the process to complete.
 8. Once done, relaunch Microsoft Store and try to install the app to see if the error is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Manually Reset Microsoft Store Apps
 
@@ -125,12 +125,16 @@ To reset Microsoft Store:
 
  Launch Microsoft Store and sign in with your Microsoft Account if required. Then, try to install the app and check for any improvements.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Re-register the Microsoft Store App
 
 ![powershell re_register microsoft store app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/powershell-re_register-microsoft-store-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Another way to fix the "this app couldn’t be installed" error is to re-register the Microsoft Store using PowerShell. Here’s how to do it.
@@ -166,10 +170,6 @@ To reinstall Microsoft Store:
 ![reinstall microsoft store powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/reinstall-microsoft-store-powershell.jpg)
 6. Press**Win** key and type**Microsoft Store** to launch the app.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixing the "This App Couldn’t Be Installed" Error on Windows
 
  This error is often due to issues with the corrupt app cache and temporary glitches. Use the Windows Store Apps troubleshooter or run the WSreset tool to fix common problems with Microsoft Store. If the issue persists, you can perform a reset or re-register the app to resolve the error.
@@ -191,22 +191,14 @@ To reinstall Microsoft Store:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-access-the-unreleased-best-in-class-5gb-console-emulators-for-windows-pcs/"><u>[Updated] In 2024, Access the Unreleased Best-in-Class 5GB Console Emulators for Windows PCs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-detective-sagas-embark-on-4-thrilling-virtual-investigations/"><u>AI Detective Sagas: Embark on 4 Thrilling Virtual Investigations</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/audiovisual-authority-the-finest-computers-for-professional-edits-for-2024/"><u>Audiovisual Authority The Finest Computers for Professional Edits for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-guide-to-use-luts-in-premiere-pro/"><u>In 2024, Guide to Use LUTs in Premiere Pro</u></a></li>
-<li><a href="https://windows11.techidaily.com/inside-tools-for-windows-11-management/"><u>Inside Tools for Windows 11 Management</u></a></li>
-<li><a href="https://windows11.techidaily.com/pinpointing-voice-input-anomalies-on-pcs/"><u>Pinpointing Voice Input Anomalies on PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/recognize-unlisted-hardware-in-device-manager/"><u>Recognize Unlisted Hardware in Device Manager</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/revamp-your-screen-view-easy-window-reset-tricks-for-monitors-explained-by-experts-at-yl-software/"><u>Revamp Your Screen View: Easy Window Reset Tricks for Monitors, Explained by Experts at YL Software</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/set-up-windows-defender-firewall-with-specific-rules-that-limit-access-to-your-nas-ports-such-as-smb-default-is-445-rdp-3389-etc-only-from-authorized-device167/"><u>Set up Windows Defender Firewall with Specific Rules that Limit Access to Your NAS Ports, Such as SMB (Default Is 445), RDP (3389), Etc., Only From Authorized Devices or IP Ranges.</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/smartwatch-face-off-googles-pixel-edition-against-apple-watch-series-8-expert-buying-guide/"><u>Smartwatch Face-Off: Google's Pixel Edition Against Apple Watch Series 8 | Expert Buying Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/solutions-to-rectify-windows-geforce-error-x0001/"><u>Solutions to Rectify Windows' GeForce Error X0001</u></a></li>
-<li><a href="https://windows11.techidaily.com/stopping-chromes-self-launching-tabs-a-guide/"><u>Stopping Chrome's Self-Launching Tabs: A Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-circumvent-file-cap-on-windows/"><u>Strategies to Circumvent File Cap on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/techniques-to-locate-and-eliminate-unused-windows-folder-space/"><u>Techniques to Locate & Eliminate Unused Windows Folder Space</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-8-solutions-how-to-get-your-iphoneipad-connected-to-wi-fi/"><u>Top 8 Solutions: How to Get Your iPhone/iPad Connected to Wi-Fi</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-fixing-non-functional-creative-pebble-wireless-speakers/"><u>Troubleshooting Tips: Fixing Non-Functional Creative Pebble Wireless Speakers</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-device-health-essential-steps-to-confirm-availability/"><u>Windows 11 Device Health: Essential Steps to Confirm Availability</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-dive-into-windows-10-new-apps-and-games-galore-for-2024/"><u>[New] Dive Into Windows 10 - New Apps & Games Galore for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-simplified-guide-to-advanced-xbox-video-recording-methods/"><u>[Updated] Simplified Guide to Advanced Xbox Video Recording Methods</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-the-perfect-path-from-instagram-to-tiktok/"><u>[Updated] The Perfect Path From Instagram to TikTok</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-trilltones-techniques-how-to-cut-and-download-tamil-songs-for-2024/"><u>[Updated] TrillTones Techniques How to Cut and Download Tamil Songs for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/erase-files-and-folders-with-ease-on-macos-stellar-file-eraser-professional/"><u>Erase Files & Folders with Ease on macOS - Stellar File Eraser Professional</u></a></li>
+<li><a href="https://windows11.techidaily.com/improve-download-efficiency-boosting-steam-and-windows-speed/"><u>Improve Download Efficiency: Boosting Steam and Windows Speed</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-efficiency-top-6-ideas-to-overhaul-windows-11s-taskbar-layout/"><u>Maximizing Efficiency: Top 6 Ideas to Overhaul Windows 11'S Taskbar Layout</u></a></li>
+<li><a href="https://windows11.techidaily.com/reintroduce-forgotten-bluetooth-items-devices-mgr/"><u>Reintroduce Forgotten Bluetooth Items Devices Mgr</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-variances-microsoft-account-versus-conventional-local-login/"><u>Unveiling Variances: Microsoft Account Versus Conventional Local Login</u></a></li>
 </ul></div>
 

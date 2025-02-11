@@ -1,7 +1,7 @@
 ---
 title: Taming High CPU in Your Host System
-date: 2024-08-15T15:28:23.186Z
-updated: 2024-08-16T15:28:23.186Z
+date: 2025-02-07T05:56:18.308Z
+updated: 2025-02-11T06:45:39.782Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce
 
  As you can see, it is an extremely important process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Is Modern Setup Host Causing High CPU Usage?
 
  Many things can alert you that something on your computer is being wasteful with system resources. In the best-case scenario, your computer can become sluggish, and, in the worst-case scenario, it might outright crash. If Modern Setup Host is the culprit behind this, causing high CPU usage, the following could be the reasons why:
@@ -35,22 +39,19 @@ thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce
 
  Let's look at how to fix all of these things that can affect Modern Setup Host.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## How to Fix it Modern Setup Host Causing High CPU Usage
 
  There are several things you can do to stop Modern Setup Host from causing high CPU usage, and we're going to cover several of them in this section. And if none of them work and the situation gets so bad that you can't operate your PC efficiently, you can consider [resetting your Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/)[Computer](http://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/).
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Run an SFC or DISM Scan
 
  When your computer has corrupted, damaged, or missing system files, it can affect system components, including Modern Setup Host. This can cause these components to not function properly, leading to high CPU usage. To fix this, you can [repair or replace the affected Windows system files](https://www.makeuseof.com/windows-built-in-repair-tools/) using built-in tools like the SFC and DISM scan.
 
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sfc-scannow-command.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you run the scans, restart your computer and check if Modern Setup Host is still causing high CPU usage.
 
@@ -67,41 +68,38 @@ thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce
  First, you need to stop the Windows Update service in case it is using the files in the SoftwareDistribution folder. To do that, press **Win + R** to open Windows Run. Type **services.msc** in the text box and then press the **Enter** key to open the Services window.
 
 ![services msc Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/services-msc-Windows-11.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Find **Windows Update** in the list of services, right-click it, and select **Stop**.
 
 ![Stop Windows Update Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/stop-windows-update-service.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 
  Once the service stops, go to the SoftwareDistribution folder by [opening the Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) and heading to **C: > Windows > SoftwareDistribution**.
 
 ![Clear SoftwareDistribution Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/clear-softwaredistribution-folder.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, press **Ctrl + A** to select everything inside the folder and press **Shift + Delete**. In the prompt, confirm that you want to clear the folder by clicking on **Yes**.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ### 4\. Try a Clean Boot
 
  A clean boot can help you rule out third-party programs and services that could conflict with Modern Setup Host. In this mode, Windows will launch with only the essential programs and services it needs to run, allowing you to rule out the culprit. Luckily, [launching Windows in a clean boot state](https://www.makeuseof.com/clean-boot-windows-11/) is easy, and the instructions are the same for both Windows 10 and 11\.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stop the Modern Setup Host From Negatively Impacting Your Computer
 
  Many things can cause high CPU usage on a Windows computer, and one of them is the Modern Setup Host. This process should be able to do its thing rather quickly when everything is in order during a Windows Update. But if there's something affecting the update process, it can stall and cause high CPU usage.
 
  So, try fixing corrupted or damaged system files, using the Update Troubleshooter, clearing the SoftwareDistrubiton folder, or performing a clean boot. Hopefully, the problem will go away before you have to reset your computer.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -110,5 +108,21 @@ DbSchema database designer for all databases, schema design in the team, schema 
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-visual-dominance-best-ps5-compatible-high-res-hdmi-21-screens/"><u>[New] In 2024, Visual Dominance Best PS5 Compatible High-Res (HDMI 2.1) Screens</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-unleashing-your-gaming-potential-with-fbx/"><u>[Updated] Unleashing Your Gaming Potential with FBX</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-business-boosters-the-ultimate-highlight-enhancement-guide/"><u>2024 Approved Business Boosters The Ultimate Highlight Enhancement Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-techniques-to-eliminate-frame-drops-and-lag-in-grand-theft-auto-5/"><u>Effective Techniques to Eliminate Frame Drops and Lag in Grand Theft Auto 5</u></a></li>
+<li><a href="https://windows11.techidaily.com/hidden-behind-pretense-apps-slowdown-your-modern-windows/"><u>Hidden Behind Pretense: Apps Slowdown Your Modern Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-xiaomi-redmi-note-12r-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Xiaomi Redmi Note 12R Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-activation-error-0x803f700f-fix-guide/"><u>Overcoming Windows Activation Error: 0X803F700F Fix Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-start-adding-windows-hello-to-your-pc/"><u>Quick Start: Adding Windows Hello to Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/reestablishing-copy-pasting-efficiency-across-browsers/"><u>Reestablishing Copy-Pasting Efficiency Across Browsers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seamless-gaming-experience-can-your-favorite-ps4-games-work-with-ps5-technology/"><u>Seamless Gaming Experience: Can Your Favorite PS4 Games Work with PS5 Technology?</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-essential-guide-to-generating-gpo-data-with-gpresult/"><u>The Essential Guide to Generating GPO Data with GPResult</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-failed-auto-detection-of-windows-proxy/"><u>Troubleshooting Failed Auto-Detection of Windows Proxy</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/upgrade-your-images-with-ipatch-a-comprehensive-guide/"><u>Upgrade Your Images with IPatch: A Comprehensive Guide</u></a></li>
+</ul></div>
 

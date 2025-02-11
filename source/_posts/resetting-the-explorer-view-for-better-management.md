@@ -1,7 +1,7 @@
 ---
 title: Resetting the Explorer View for Better Management
-date: 2024-08-15T15:25:09.153Z
-updated: 2024-08-16T15:25:09.153Z
+date: 2025-02-07T02:14:08.603Z
+updated: 2025-02-11T04:17:56.091Z
 tags:
   - windows10
   - windows11
@@ -22,9 +22,6 @@ thumbnail: https://thmb.techidaily.com/ecc3916e90aab64f99ff84f9c45d036bcf1e08682
 
  There are three ways to reset your Folder View Settings to the default view. The first method is to run a batch file, the second using File Explorer, whereas the third and final method involves tweaking the registry editor. This post explains each method in detail. Let's dive into it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. Run a Batch File to Reset Folder View Settings to Default
 
  Resetting the Folder View Settings with this method requires creating and running a batch file. This will reset the settings for all folders across your computer. Here's how to do it:
@@ -57,16 +54,14 @@ start explorer.exe`
 5. After adding the code, click**File** in the top menu, then select**Save As** .
 6. Now select**All Files** in the Save as type menu, and add**.bat** to the end of the file’s name.  
 ![Run a Batch File to Reset Folder View Settings to Default](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/run-a-batch-file-to-reset-folder-view-settings-to-default.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 7. From the left pane, select**Desktop** as the location.
 8. Then click**Save** and close the text editor window.
 9. Finally, double-click the batch file you created, and it will reset your Folder View Settings to the default view.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Reset Folder View Settings to Default via File Explorer
 
  If you only need to reset the View Settings of all folders of the same type, this method is for you. Here's what you have to do:
@@ -75,13 +70,19 @@ start explorer.exe`
 2. Now, select the**View** tab in the top bar and tap on**Reset Folders** .  
 ![Reset Folder View Settings to Default Via File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-folder-view-settings-to-default-via-file-explorer.jpg)
 3. Click**Yes** when prompted to confirm your action.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Finally, hit**OK** and the window will close.
 
  This will reset your Folder View Settings to Windows' default settings.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Reset Folder View Settings to Default Using Registry Editor
 
  The last method to reset Folder View settings involves using the Windows Registry Editor. You should only use this method if you are an experienced user and know how it works, since messing with its keys could cause serious problems. To avoid data loss, you must [create a registry backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before continuing.
@@ -94,29 +95,29 @@ start explorer.exe`
 HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\Shell
 4. In the left sidebar, right-click on the**BagMRU** folder and select**Delete.**  
 ![Reset Folder View Settings to Default Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-folder-view-settings-to-default-using-registry-editor.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 5. Click**Yes** when asked to confirm your action.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Similarly, delete the**Bags** folder and close the Registry window.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Reset Folder View Settings to Default
 
  Folder View on Windows allows users to customize their view of files and folders. This includes settings such as the file size information, restoring the previous folder when logging in, and automatically entering words when searching.
 
  However, if you have changed the View settings, this guide will help you reset Folder Options to its default.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -125,8 +126,24 @@ HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\She
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-srt-production-via-xml-ssa-and-ttml-conversions/"><u>[New] 2024 Approved SRT Production via XML, SSA & TTML Conversions</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-pinnacle-of-asmr-sound-quality-in-recorded-microphones/"><u>[New] In 2024, Pinnacle of ASMR Sound Quality in Recorded Microphones</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-stepwise-guide-to-designing-efficient-podcast-rss-feeds/"><u>[New] Stepwise Guide to Designing Efficient Podcast RSS Feeds</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-print-service-stopped-issue-on-windows-pc/"><u>Addressing Print Service Stopped Issue on Windows PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/applications-and-their-unique-run-notations-explored/"><u>Applications & Their Unique Run Notations Explored</u></a></li>
+<li><a href="https://windows11.techidaily.com/explore-the-best-techniques-to-streamline-your-windows-folder-system/"><u>Explore the Best Techniques to Streamline Your Windows Folder System</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-more-for-less-snag-a-30-discount-on-ankers-portable-power-station-model-737-tech-bargains/"><u>Get More for Less: Snag a $30 Discount on Anker's Portable Power Station (Model 737) | Tech Bargains</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-perfecting-images-slideshow-and-fix-in-windows-11-photos-app/"><u>Guide to Perfecting Images: Slideshow & Fix in Windows 11 Photos App</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-reinstalling-favorite-apps-on-new-windows-11-devices/"><u>Guide to Reinstalling Favorite Apps on New Windows 11 Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-reinstating-original-size-for-win-11-icons/"><u>Guide to Reinstating Original Size for Win 11 Icons</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-find-and-install-the-correct-drivers-for-hp-laserjet-pro-m402n-on-a-windows-machine-a-comprehensive-guide/"><u>How to Find and Install the Correct Drivers for HP LaserJet Pro M402n on a Windows Machine - A Comprehensive Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/inside-look-gpt4alls-intricate-process/"><u>Inside Look: GPT4All's Intricate Process</u></a></li>
+<li><a href="https://windows11.techidaily.com/revealing-windows-11s-disguised-taskbar-investigation-tool/"><u>Revealing Windows 11'S Disguised Taskbar Investigation Tool</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1172682-9781932073539-the-soul-solution/"><u>The Soul Solution | Free Book</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-unverified-adobe-in-windows/"><u>Troubleshooting Unverified Adobe in Windows</u></a></li>
+</ul></div>
 

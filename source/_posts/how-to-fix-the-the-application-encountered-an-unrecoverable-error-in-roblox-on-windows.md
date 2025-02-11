@@ -1,7 +1,7 @@
 ---
 title: How to Fix the “The Application Encountered an Unrecoverable Error in Roblox on Windows
-date: 2024-08-15T15:24:47.844Z
-updated: 2024-08-16T15:24:47.844Z
+date: 2025-02-05T22:26:55.503Z
+updated: 2025-02-11T00:58:55.625Z
 tags:
   - windows10
   - windows11
@@ -35,13 +35,14 @@ thumbnail: https://thmb.techidaily.com/f99b0547d8a95f637159e251c131a6578ae71b255
 
 ![Roblox Microsoft Store App Listing on Windows](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/roblox-microsoft-store-app-listing-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Roblox users have reported that the error under discussion only affects those who attempt to join Roblox experiences from the web, not Roblox's Microsoft Store app. Because of this, if you have encountered a crash when joining an experience through the Roblox website, download Roblox's app from the [Microsoft Store](https://apps.microsoft.com/store/detail/roblox/9NBLGGGZM6WM) and join the experience through it.
 
  Until the issue isn't fixed, continue using the Microsoft Store app to play Roblox experiences.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Don't Run Roblox on a Virtual Machine
 
  Roblox doesn't permit playing Roblox experiences on a virtual machine, as a Roblox staff member reported on [Roblox's developer forum](https://devforum.roblox.com/t/the-application-encountered-an-unrecoverable-error/2419033/2). When someone attempts to access Roblox experiences this way, Hyperion abruptly crashes the process.
@@ -63,14 +64,13 @@ thumbnail: https://thmb.techidaily.com/f99b0547d8a95f637159e251c131a6578ae71b255
 3. Go to **Advanced > Virtualization** or **Virtualization Support > Virtualization**.
 4. Click on **Intel Virtualization Technology (VT)** and uncheck the box beside **Enable** **Intel Virtualization Technology (VT)**.  
 ![Disable Intel Virtualization Technology Option in the BIOS Settings of a Dell Laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-intel-virtualization-in-bios-settings-of-a-dell-laptop.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Click on **Intel VT for Direct I/O** and uncheck the box beside **Enable** **Intel VT for Direct I/O**.  
-![Disable Intel VT for Direct IO in BIOS Settings of a Dell Device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-intel-vt-for-direct-io-in-bios-settings-of-a-dell-device.jpeg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Disable Intel VT for Direct IO in BIOS Settings of a Dell Device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-intel-vt-for-direct-io-in-bios-settings-of-a-dell-device.jpeg)
 
  If you're using a device from another manufacturer, visit its official website for steps on disabling virtualization.
 
@@ -94,8 +94,13 @@ thumbnail: https://thmb.techidaily.com/f99b0547d8a95f637159e251c131a6578ae71b255
 3. Navigate to the **Temp** folder.
 4. Right-click on the **Roblox** folder and click **Delete**.  
 ![Delete Roblox Temporary Folder in the Windows Temp Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/delete-roblox-temporary-folder-in-the-windows-temp-folder.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Report the Problem to the Roblox Support Team
@@ -106,10 +111,12 @@ thumbnail: https://thmb.techidaily.com/f99b0547d8a95f637159e251c131a6578ae71b255
 `%LOCALAPPDATA%\Roblox\Versions<your-current-client-version-here>\ClientSettings\ClientAppSettings.json`  
  (If subfolders aren't already there, create them)  
 ![Create and Save a JSON File in the Roblox App Data Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/creating-and-saving-a-json-file-in-the-roblox-app-data-folder.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Open the newly created file, add the following text, and save it:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `{"DFIntWriteFullDmpPercent": 100}`
 3. Run Roblox and let it crash.
 4. Post a bug report by following the instructions on the [Roblox website](https://devforum.roblox.com/t/how-to-post-a-bug-report/24388).
@@ -117,18 +124,12 @@ thumbnail: https://thmb.techidaily.com/f99b0547d8a95f637159e251c131a6578ae71b255
 `%UserProfile%\AppData\Local\Roblox\logs  
 %UserProfile%\AppData\Local\Roblox\logs\crashes`
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Reinstall the Roblox Client
 
  If the Roblox installation gets corrupt, it can also crash and present the **"the application encountered an unrecoverable error"** error. To ensure that's not the case, uninstall the previous installation and reinstall Roblox from scratch. If you do not know how to do this, refer to our guide on [how to uninstall any software on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/).
 
  Once the Roblox client has been uninstalled, navigate to the **C:\\Users\\<your username>\\AppData\\Local** and delete the Roblox folders. Then, go to Roblox's official website and reinstall the Roblox client. You should avoid downloading the Roblox client from third-party sources since unsigned third-party applications are prone to causing issues.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Don't Let Roblox Crash on Windows
 
  Seeing Roblox crash and display annoying errors can be a bit unsettling. You should now better understand what causes the error in question. Also, applying the basic fixes discussed above will resolve the problem. Report the issue to Roblox support if nothing works. They will diagnose the issue for you and help you resolve it.
@@ -137,8 +138,6 @@ thumbnail: https://thmb.techidaily.com/f99b0547d8a95f637159e251c131a6578ae71b255
 
  Among the leading causes of this error can be interference from the browser, running Roblox in a virtual machine, or misconfigured BIOS settings. The error message suggests users share a crash dump with Roblox support to diagnose the issue. Before you do that, perform the below-mentioned checks and fixes first.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -146,5 +145,24 @@ thumbnail: https://thmb.techidaily.com/f99b0547d8a95f637159e251c131a6578ae71b255
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-comprehensive-list-of-premium-ways-to-access-cricket-live/"><u>[New] 2024 Approved Comprehensive List of Premium Ways to Access Cricket Live</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-the-ultimate-guide-to-effortless-vrecorder-setup/"><u>[New] In 2024, The Ultimate Guide to Effortless VRecorder Setup</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-perfecting-professional-productions-using-vimeos-tools/"><u>[Updated] 2024 Approved Perfecting Professional Productions Using Vimeo's Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/breaking-down-barriers-regaining-computer-management-access/"><u>Breaking Down Barriers: Regaining Computer Management Access</u></a></li>
+<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-iphone-15-pro-max-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By iPhone 15 Pro Max without the Previous Owner?</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-fixes-for-windows-hellos-recognition-failures/"><u>Essential Fixes for Windows Hello's Recognition Failures</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-guide-tackling-windows-11-logins/"><u>Essential Guide: Tackling Windows 11 Logins</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-for-controlling-games-more-precision-wise/"><u>Essential Tips for Controlling Games More Precision-Wise</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-blue-screen-in-win11-5-methods-to-prevent-hybrid-errors/"><u>Fixing Blue Screen in Win11: 5 Methods to Prevent Hybrid Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-onedrive-cloud-operation-was-unsuccessful-error-in-windows-10-and-11/"><u>How to Fix the OneDrive Cloud Operation Was Unsuccessful Error in Windows 10 & 11</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-select-20-unencumbered-pubg-visual-stories/"><u>In 2024, Select 20 Unencumbered PUBG Visual Stories</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-vivo-y100t-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Vivo Y100t for Parents | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/innovative-backdrop-changer-toolkit-unveiled/"><u>Innovative Backdrop Changer Toolkit Unveiled</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-absence-of-display-on-remote-workspace-win/"><u>Overcoming Absence of Display on Remote Workspace Win</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-path-to-professional-print-perfection-nine-key-techniques-for-powerpoint-on-pcs/"><u>The Path to Professional Print Perfection: Nine Key Techniques for PowerPoint on PCs</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-10-free-photo-editing-apps-on-android-in-may-2024-a-comprehensive-guide/"><u>Top 10 Free Photo Editing Apps on Android in May 2024: A Comprehensive Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-your-digital-contents-full-value-winning-at-powerpoint-prints-in-windows/"><u>Unlocking Your Digital Content's Full Value: Winning at PowerPoint Prints in Windows</u></a></li>
+</ul></div>
 

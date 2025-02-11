@@ -1,7 +1,7 @@
 ---
 title: "Sky-High Internet Beyond 100Mbps: Overcoming Windows' Speed Ceiling"
-date: 2024-08-15T15:29:16.368Z
-updated: 2024-08-16T15:29:16.368Z
+date: 2025-02-09T01:08:14.258Z
+updated: 2025-02-10T21:15:11.587Z
 tags:
   - windows10
   - windows11
@@ -24,13 +24,14 @@ thumbnail: https://thmb.techidaily.com/b2c741db963ad00df201883adf5f82b0b65621c38
 
 ![wifi speed test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/wifi-speed-test.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Make sure you have a high-speed connection capable of delivering speeds greater than 100Mbps before you blame other factors for limiting your internet speed. Check with your internet provider that you're subscribed to a plan that offers 100Mbps+ or more. Also, ensure the ISP has a good reputation and track record of consistently delivering high speeds.
 
  If your internet service provider is reliable and you are subscribed to a good plan, then it's likely that something on your side is keeping the speed from reaching its maximum.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ## 2\. Perform Some Basic Checks
 
  Start troubleshooting the problem by performing these basic fixes, as they may resolve the issue right away:
@@ -41,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/b2c741db963ad00df201883adf5f82b0b65621c38
 * An outdated network driver can also slow down a connection. Check out our guide on [how to find and replace outdated network drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) to update your network drivers fully.
 
  If none of the above checks uncaps the internet speed, it's time to move on to the remaining fixes
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Ensure Your Network Card Supports Gigabit Speed
 
@@ -54,16 +59,13 @@ thumbnail: https://thmb.techidaily.com/b2c741db963ad00df201883adf5f82b0b65621c38
 4. Then, go to the **Advanced** tab.
 5. Select **Speed and Duplex** from the **Property** column, then expand the **Value** dropdown.  
 ![Speed and Duplex Settings in the Network Adapter Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/speed-and-duplex-settings-in-the-network-adapter-settings.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If **1.0 Gbps Full Duplex** is listed, your card supports gigabit connectivity. Your card does not support gigabit connections if **100 Mbps Full Duplex** is the highest value listed. In any case, select **Auto Negotiation** from the **Value** dropdown in the network adapter settings if any other value is selected.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## 4\. Ensure Your Router Supports Gigabit Connection
 
 ![a close up shot of router ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/modern-wifi-router-ports.jpg)
@@ -77,13 +79,14 @@ thumbnail: https://thmb.techidaily.com/b2c741db963ad00df201883adf5f82b0b65621c38
 ## 5\. Get a High-Category Ethernet Cable
 
 ![CAT5, CAT5e, CAT6, CAT6A Ethernet cables](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/02-picture-showing-cat5-cat5e-cat6-cat6a-ethernet-cables.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 
  The Ethernet cable itself should be capable of delivering 100Mbps+ speed, just like your router. Ethernet cables with low bandwidth, such as Cat5, can only deliver speeds up to 100Mbps. If you want higher speeds, you need at least Cat5e cable, which can provide speeds of up to 1000Mbps.
 
  Cat5e and Cat5 cables have identical physical appearances, but don't let that fool you. Instead, look at the cable's label to determine its category. If it's low bandwidth, replace it with Cat5e or higher.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Remove Restrictions in the Router Settings
 
@@ -98,16 +101,14 @@ thumbnail: https://thmb.techidaily.com/b2c741db963ad00df201883adf5f82b0b65621c38
  Some routers allow users to switch between gigabit and 100Mbps speeds. If your router offers this option, opt for the 1Gbps connection.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Rule Out Any Hardware Issues
 
  If none of the above fixes resolve the issue, it's time to check for and rule out hardware problems thoroughly.
 
 ![image of ethernet cables connected to router](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ethernet-router-connection.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  Start the hardware inspection by checking both ends of the Ethernet cable where cable connectors are installed. Ensure both connectors are in good condition and all internal wires/conductors are pushed to the end and aren't falling off.
 
@@ -123,8 +124,6 @@ thumbnail: https://thmb.techidaily.com/b2c741db963ad00df201883adf5f82b0b65621c38
 
  Likewise, misconfigured Ethernet adapter speed settings, incompatible or corrupted drivers, and technical difficulties with the ISP can also limit speed. If you want your Ethernet connection to surpass 100Mbps, here are a few checks and fixes you should try.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -132,5 +131,20 @@ thumbnail: https://thmb.techidaily.com/b2c741db963ad00df201883adf5f82b0b65621c38
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-a-practical-guide-to-applying-creative-commons-rights/"><u>[New] In 2024, A Practical Guide To Applying Creative Commons Rights</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-strong-authentication-protocols-for-2024/"><u>[New] Strong Authentication Protocols for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-youtubes-livestream-landscape-without-massive-followings/"><u>[Updated] Navigating YouTube's Livestream Landscape without Massive Followings</u></a></li>
+<li><a href="https://windows11.techidaily.com/changing-home-screen-settings-without-start-menu/"><u>Changing Home Screen Settings Without Start Menu</u></a></li>
+<li><a href="https://windows11.techidaily.com/dive-into-the-depth-of-windows-pre-boots/"><u>Dive Into the Depth of Windows Pre-Boots</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-8-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/impact-breakdown-the-eradication-of-taskbar-chat-in-windows-11/"><u>Impact Breakdown: The Eradication of Taskbar Chat in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/improving-startup-order-in-windows-11/"><u>Improving Startup Order in Windows 11</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-lenovo-thinkphone-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premier-text-manipulation-software-for-ae/"><u>Premier Text Manipulation Software for AE</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revel-in-the-richness-of-windows-11-key-features-left-unused/"><u>Revel in the Richness of Windows 11: Key Features Left Unused</u></a></li>
+<li><a href="https://windows11.techidaily.com/swiftly-solve-drop-problems-in-win11/"><u>Swiftly Solve Drop Problems in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-the-unreachable-error-with-spotify-in-windows-1011/"><u>Tackling the Unreachable Error with Spotify in Windows 10/11</u></a></li>
+</ul></div>
 

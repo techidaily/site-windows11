@@ -1,7 +1,7 @@
 ---
 title: Getting Your Nvidia CP Back on Win11 After Closure
-date: 2025-01-25T19:07:24.257Z
-updated: 2025-01-30T08:31:39.925Z
+date: 2025-02-03T17:26:37.889Z
+updated: 2025-02-10T17:38:17.766Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/e35b3a5c1a462189bf0e7eb85d4007a41df15f6c2
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Run the NVIDIA Control Panel With Admin Rights
@@ -38,9 +38,17 @@ thumbnail: https://thmb.techidaily.com/e35b3a5c1a462189bf0e7eb85d4007a41df15f6c2
 3. Right-click the**NVIDIA Control Panel** result to select a**Run as administrator** on that app’s context menu.  
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-as-administrator-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Setting NVIDIA Control Panel to always run as administrator is tricky because that UWP app is installed within a restricted access folder. You’ll need to[take ownership of the WindowsApps folder](https://www.makeuseof.com/windows-10-11-own-folder/) to open that directory. Then select the "Run as administrator" option for the nvcplui.exe file. The default path for the file is:
 
 `C:\Program Files\WindowsApps\NVIDIACorp.NVIDIAControlPanel_8.1.963.0_x64__56jybvy8sckqj\nvcplui.exe`
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. End NVIDIA Background Processes
 
@@ -57,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/e35b3a5c1a462189bf0e7eb85d4007a41df15f6c2
 6. Try opening the NVIDIA Control Panel again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Start (or Restart) the NVIDIA Display Container Service
@@ -70,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/e35b3a5c1a462189bf0e7eb85d4007a41df15f6c2
 ![The Service window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-service-window.jpg)
 4. Next, select the**Automatic** option if the**Startup** menu setting is set to anything else.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Automatic option the Startup type menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/startup-type-drop-down-menu.jpg)
 5. Select**Start** (in the properties window) to run the service if it’s stopped.
 
@@ -77,19 +89,11 @@ thumbnail: https://thmb.techidaily.com/e35b3a5c1a462189bf0e7eb85d4007a41df15f6c2
 7. Select**OK** to exit the NVIDIA Display Container LS Properties window.
 8. Repeat steps three to seven for the NVIDIA LocalSystem and NetworkService Container services.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Repair the NVIDIA Control Panel App
 
  Windows 11’s standard**Repair** and**Reset** app options are available for NVIDIA Control Panel. So, those troubleshooting options might help you fix that app not opening. You can select the**Reset** and**Repair** options in the same place within the NVIDIA Control Panel settings. Our guide on about[resetting Windows 11s apps](https://www.makeuseof.com/windows-reset-app/) includes step-by-step instructions for how to apply do this.
 
 ![The Automatic option the Startup type menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/startup-type-drop-down-menu.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Update Your PC’s NVIDIA Graphics Driver
 
@@ -104,15 +108,7 @@ thumbnail: https://thmb.techidaily.com/e35b3a5c1a462189bf0e7eb85d4007a41df15f6c2
 ![The X64 download link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/x64-link.jpg)
 3. Double-click the**VC\_redist.arm64.exe** (Visual C++ installer) file once it's downloaded.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Go through the install process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Edit the Windows Registry
 
@@ -138,6 +134,10 @@ To apply this fix, edit the Registry as follows:
 `C:\Windows\System32\nvcplui.exe`
 8. Select**OK** to save the string value.
 9. Now select to reboot your Windows 11/10 PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Reinstall the NVIDIA Control Panel
 
@@ -166,19 +166,21 @@ To apply this fix, edit the Registry as follows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/iscover-youtubes-free-text-translations-and-downloads-for-2024/"><u>[New] Discover YouTube's Free Text Translations & Downloads for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ownload-youtube-videos-on-android-9-powerful-apps-compared/"><u>[New] Download YouTube Videos on Android 9 Powerful Apps Compared</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-simplifying-age-confirmation-on-tiktok/"><u>[New] In 2024, Simplifying Age Confirmation on TikTok</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-secrets-from-the-pros-high-quality-roblox-recordings-mac-edition/"><u>2024 Approved Secrets From the Pros High-Quality Roblox Recordings (Mac Edition)</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/brand-trust-through-video-praise-for-2024/"><u>Brand Trust Through Video Praise for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-oneplus-nord-ce-3-lite-5g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked OnePlus Nord CE 3 Lite 5G Phone | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-samsung-galaxy-a34-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Samsung Galaxy A34 5G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/no-more-patches-understanding-the-shutdown-of-windows-7-and-81-support/"><u>No More Patches: Understanding the Shutdown of Windows 7 & 8.1 Support</u></a></li>
-<li><a href="https://windows11.techidaily.com/reach-full-internet-accessibility-on-windows-11-using-these-strategies/"><u>Reach Full Internet Accessibility on Windows 11 Using These Strategies</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-resolve-systemsettings-error-on-win11/"><u>Steps to Resolve SystemSettings Error on Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/swift-solutions-for-flawed-windows-application-performance/"><u>Swift Solutions for Flawed Windows Application Performance</u></a></li>
-<li><a href="https://win-answers.techidaily.com/taming-technical-glitches-a-guide-to-resolving-continuous-collapses-of-pcs-fuser-feature/"><u>Taming Technical Glitches: A Guide to Resolving Continuous Collapses of PC's Fuser Feature</u></a></li>
-<li><a href="https://windows11.techidaily.com/your-winning-strategy-unraveling-and-fixing-11-windows-problems/"><u>Your Winning Strategy: Unraveling & Fixing 11 Windows Problems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-6-budget-savvy-4k-large-screen-options/"><u>[New] Top 6 Budget-Savvy 4K Large Screen Options</u></a></li>
+<li><a href="https://windows11.techidaily.com/accessing-windows-11-homespace-options/"><u>Accessing Windows 11 Homespace Options</u></a></li>
+<li><a href="https://games-able.techidaily.com/beat-the-odds-with-a-graphics-tablet-in-gaming/"><u>Beat the Odds with a Graphics Tablet in Gaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensive-steps-to-resolve-0x80071a90-error/"><u>Comprehensive Steps to Resolve 0X80071A90 Error</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciding-factors-in-choosing-the-right-ai-helper/"><u>Deciding Factors in Choosing the Right AI Helper</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-epochal-passphrase-problem-in-windows-os/"><u>Deciphering “Epochal Passphrase Problem in Windows OS”</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortlessly-upgrading-windows-11-in-place/"><u>Effortlessly Upgrading Windows 11 in Place</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-windows-steam-performance-preventing-zero-speed-slowdowns/"><u>Elevate Windows Steam Performance: Preventing Zero-Speed Slowdowns</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oppo-a38-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Oppo A38 to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/power-preservation-pitfalls-the-reality-of-modern-standby/"><u>Power Preservation Pitfalls: The Reality of Modern Standby</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/rising-from-the-crowd-post-vidcon-video-events-for-2024/"><u>Rising From the Crowd Post-VidCon Video Events for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-group-policies-focusing-on-one-user-at-a-time/"><u>Tailoring Group Policies: Focusing on One User at a Time</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/understanding-key-differences-in-panoramic-and-vr-cinematography/"><u>Understanding Key Differences in Panoramic and VR Cinematography</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-the-widget-toolbar-functionality-in-win11/"><u>Understanding the Widget Toolbar Functionality in Win11</u></a></li>
+<li><a href="https://win-community.techidaily.com/upgrading-and-preserving-software-on-windows-11-a-guide-to-three-effective-refresh-techniques/"><u>Upgrading & Preserving Software on Windows 11: A Guide to Three Effective Refresh Techniques</u></a></li>
+<li><a href="https://facebook.techidaily.com/why-revisiting-traditional-features-could-help-instagram/"><u>Why Revisiting Traditional Features Could Help Instagram</u></a></li>
 </ul></div>
 

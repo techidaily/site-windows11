@@ -1,7 +1,7 @@
 ---
 title: Reviving Disconnected Steam Friends List (Wins11)
-date: 2025-01-23T23:09:19.917Z
-updated: 2025-01-29T20:45:12.056Z
+date: 2025-02-03T19:08:15.296Z
+updated: 2025-02-10T23:52:19.534Z
 tags:
   - windows10
   - windows11
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 
 ![End Steam Client process from running](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/steam-task-manager-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Restart Steam and check if the issue is now fixed.
 
 ## 2\. Check Steam Friends & Chat Settings
@@ -52,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 ![Steam friends and chat settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/friends-chat-settings-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Opt Out of Steam’s Beta Participation
@@ -74,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
  Click **Apply** and **OK** to save the new settings and restart Steam.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Delete the Steam Appdata Folder
@@ -88,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
  If you can’t find it, you should change File Explorer settings, so you can [view hidden files and folders on Windows](https://www.makeuseof.com/windows-11-show-hidden-files-folders/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Delete Steam's Web Data
@@ -106,7 +102,11 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 ![Delete Steam web cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/delete-steam-cache-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get Back to Playing With Your Friends
@@ -125,24 +125,22 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-harmony-in-chat-blending-music-into-status/"><u>[New] Harmony in Chat Blending Music Into Status</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-from-raw-footage-to-youtube-perfection-premiere-pro-techniques/"><u>[Updated] From Raw Footage to YouTube Perfection - Premiere Pro Techniques</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-mastering-mac-best-screen-capture-applications-reviewed/"><u>[Updated] In 2024, Mastering Mac Best Screen Capture Applications Reviewed</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-mastering-podcast-acquisition-on-apple-devices/"><u>[Updated] Mastering Podcast Acquisition on Apple Devices</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-animation-amalgamator-a-top-choice-for-saving-and-storing-your-tweeted-gifs/"><u>2024 Approved Animation Amalgamator A Top Choice for Saving and Storing Your Tweeted GIFs</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-instagram-influence-without-compromise/"><u>2024 Approved Instagram Influence Without Compromise</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/activating-night-theme-feature-for-ms-office-apps-on-your-android-device/"><u>Activating Night Theme Feature for MS Office Apps on Your Android Device</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-win1011-system-breakdown-code-0xc0000001/"><u>Addressing Win10/11 System Breakdown: Code 0xC0000001</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-windows-update-failure-error-0x8024800c/"><u>Correcting Windows Update Failure (Error 0X8024800C)</u></a></li>
-<li><a href="https://windows11.techidaily.com/fine-tuning-video-speed-in-vlc-to-minimize-delay/"><u>Fine-Tuning Video Speed in VLC to Minimize Delay</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigate-to-dark-modes-on-win-11-notepad/"><u>Navigate to Dark Modes on Win 11 Notepad</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-continuous-credential-entry-alerts-in-os/"><u>Overcoming Continuous Credential Entry Alerts in OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-error-messages-related-to-virtual-disks/"><u>Overcoming Error Messages Related to Virtual Disks</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/practical-guide-mastering-noise-reduction-using-be-quiets-dark-base-pro-901/"><u>Practical Guide: Mastering Noise Reduction Using Be Quiet's Dark Base Pro 901</u></a></li>
-<li><a href="https://some-tips.techidaily.com/solution-start-with-a-smooth-drum-roller-to-compact-the-gravel-components-followed-by-a-sheep-foot-roller-to-handle-the-cohesive-clay-portions-effectively.m17/"><u>Solution: Start with a Smooth Drum Roller to Compact the Gravel Components, Followed by a Sheep Foot Roller to Handle the Cohesive Clay Portions Effectively.</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/transforming-shortcut-links-into-actual-files-top-5-techniques/"><u>Transforming Shortcut Links Into Actual Files: Top 5 Techniques</u></a></li>
-<li><a href="https://windows11.techidaily.com/unauthorized-ai-assistance-in-generating-win-11-keys/"><u>Unauthorized AI Assistance in Generating Win 11 Keys</u></a></li>
-<li><a href="https://windows11.techidaily.com/why-your-wallet-may-regret-inexpensive-windows-keys/"><u>Why Your Wallet May Regret Inexpensive Windows Keys</u></a></li>
-<li><a href="https://windows11.techidaily.com/your-window-to-artistry-in-windows-1011/"><u>Your Window to Artistry in Windows 10/11</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-10-top-ranked-no-cost-image-format-switchers-jpg-to-gif-for-2024/"><u>[New] 10 Top-Ranked No-Cost Image Format Switchers (JPG to GIF) for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-unifying-visual-experience-in-iphone-recording/"><u>[New] 2024 Approved Unifying Visual Experience in iPhone Recording</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-fix-your-fb-account-post-hack-recovery-guide/"><u>[Updated] In 2024, Fix Your FB Account Post-Hack Recovery Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-insta-editing-secrets-mastering-high-resolution-footage-in-fcpx-for-2024/"><u>[Updated] Insta-Editing Secrets Mastering High-Resolution Footage in FCPX for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/13-ways-to-open-the-windows-system-settings/"><u>13 Ways to Open the Windows System Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-windows-disk-errors-with-ease-and-expertise/"><u>Addressing Windows Disk Errors with Ease and Expertise</u></a></li>
+<li><a href="https://windows11.techidaily.com/beat-nvidias-windows-scanner-errors-today/"><u>Beat Nvidia's Windows Scanner Errors Today</u></a></li>
+<li><a href="https://windows11.techidaily.com/beginner-friendly-steps-to-install-chrome-on-windows-11/"><u>Beginner-Friendly Steps to Install Chrome on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/breathing-life-into-your-dormant-windows-mouse/"><u>Breathing Life Into Your Dormant Windows Mouse</u></a></li>
+<li><a href="https://windows11.techidaily.com/cut-down-complications-opt-for-simplicity-in-win11/"><u>Cut Down Complications: Opt for Simplicity in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/desktop-dynamics-shifted-key-changes-from-windows-10-to-11/"><u>Desktop Dynamics Shifted: Key Changes From Windows 10 to 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-most-important-characteristics-for-a-superior-ai-chatbot-service-top-7/"><u>Discover the Most Important Characteristics for a Superior AI Chatbot Service (Top 7)</u></a></li>
+<li><a href="https://windows11.techidaily.com/dissecting-and-resolving-0x80072af9-hitches/"><u>Dissecting and Resolving 0X80072AF9 Hitches</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-magic-5-lite-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor Magic 5 Lite Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-drivers-with-windows-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>How to identify missing drivers with Windows Device Manager on Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-move-custom-ringtones-from-apple-iphone-13-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Move Custom Ringtones from Apple iPhone 13 Pro Max to Android? | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-vn-video-editor-for-mac-a-comprehensive-guide-and-alternative-options/"><u>New 2024 Approved VN Video Editor for Mac A Comprehensive Guide and Alternative Options</u></a></li>
 </ul></div>
 

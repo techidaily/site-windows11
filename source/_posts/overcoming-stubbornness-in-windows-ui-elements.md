@@ -1,7 +1,7 @@
 ---
 title: Overcoming Stubbornness in Windows UI Elements
-date: 2025-01-27T03:52:36.264Z
-updated: 2025-01-30T00:25:34.762Z
+date: 2025-02-03T18:44:09.515Z
+updated: 2025-02-10T19:46:40.537Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Run System File and Image Repair Commands
 
  Many users have confirmed running system file and image repair commands can fix the Task Manager not working. So, that’s one of the first things you should try for fixing Task Manager when it’s not opening.
@@ -39,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sfc-scannow-command2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Disable the Remove Task Manager Policy
 
  Group Policy Editor includes an option for disabling Task Manager. If you see an error message that states Task Manager is disabled, that option is likely enabled. Even if you don’t see an error message, you should still check the **Remove Task Manager** policy if you can access Group Policy Editor on your PC. This is how you can disable the **Remove Task Manager** policy:
@@ -52,21 +44,17 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 ![The Ctrl+Alt+Del Options policies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/remove-task-manager-policy.jpg)
 3. Next, double-click **Remove Task Manager** to view a window for configuring that policy.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Select **Disabled** or **Not Configured** if you find this policy enabled.  
 ![The Remove Task Manager window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/remove-task-manager-window.jpg)
 5. Click **Apply** to set the new option for enabling Task Manager.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Then close the Remove Task Manager window by clicking **OK**.
 
  If this policy is not enabled, try turning it on and off. Click **Enabled** and **Apply** to activate the policy. Then select **Disabled**/**Not configured** to disable it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Initiate an Antivirus Scan
 
@@ -85,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 ![The New > Key options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/new-key-options.jpg)
 4. Enter **System** in the new key’s text box.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Right-click **System** and select **New** \> **DWORD**.
 
 1. Input **DisableTaskMgr** inside the DWORD’s text box.
@@ -92,12 +84,16 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 ![The DisableTaskMgr DWORD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disabletskmgr-dword.jpg)
 3. The value for the **DisableTaskMrg** DWORD should be **0**. If it’s set any differently, erase the number in the **Value** box and input **0**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click **OK** to set the **DisableTaskMgr** value.  
 ![The Edit DWORD (32-bit) Value window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-edit-dword-window.jpg)
 5. Now close the Registry Editor. To ensure the changes take effect, [restart your Windows PC](https://www.makeuseof.com/windows-restart-methods/) after editing the registry.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Run the PowerShell Command for Re-Registering Apps
@@ -113,7 +109,7 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 5. Press **Enter** to execute the command and wait for it to finish before exiting PowerShell.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Change Your User Account
@@ -133,7 +129,7 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 ![The System Restore window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/system-restore-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Reset Your Window PC
@@ -143,6 +139,10 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
  You can apply this potential resolution with the Reset this PC tool, as covered in this article about [resetting Windows 10 or 11](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/#:~:text=To%20access%20this%20Windows%20reinstall,this%20PC%20to%20get%20started.). There’s no need to back up user files since you can select a **Keep my files** option within the Reset this PC window. Make sure the **Reinstall preinstalled apps** option is selected to retain the software bundled with your PC.
 
 ![The Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/reset-this-pc-tool.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use Task Manager Within Windows Again
 
@@ -160,24 +160,21 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-a-step-by-step-approach-to-discard-youtube-watch-later-items/"><u>[New] 2024 Approved A Step-by-Step Approach to Discard YouTube Watch Later Items</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-craft-powerpoint-to-interactive-movie-scripts/"><u>[New] 2024 Approved Craft PowerPoint to Interactive Movie Scripts</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevating-success-channel-ideas-to-spark-momentum/"><u>[Updated] 2024 Approved Elevating Success Channel Ideas to Spark Momentum</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-chucklechips-studio-laughlens-lab/"><u>[Updated] ChuckleChips Studio LaughLens Lab</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-honor-x7b-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Honor X7b Fingerprint Lock</u></a></li>
-<li><a href="https://win-blog.techidaily.com/cant-play-vanguard-boosting-cpu-capabilities-might-be-the-answer/"><u>Can't Play Vanguard? Boosting CPU Capabilities Might Be the Answer</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-solutions-overcome-windows-aturbidity-and-pair-your-devices-tips-and-tricks/"><u>Expert Solutions: Overcome Windows Aturbidity and Pair Your Devices (Tips & Tricks)</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-techniques-to-resolve-your-steam-update-download-conundrums/"><u>Expert Techniques to Resolve Your Steam Update Download Conundrums</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-tips-for-fixing-iphone-not-showing-up-error-in-itunes-on-windows-10-pcs/"><u>Expert Tips for Fixing 'iPhone Not Showing Up' Error in Itunes on Windows 10 PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-avoid-lag-extra-monitor-usage-in-windows-laptops/"><u>How to Avoid Lag: Extra Monitor Usage in Windows Laptops</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-search-tool-in-windows-10-and-11-not-displaying-results/"><u>How to Fix the Search Tool in Windows 10 & 11 Not Displaying Results</u></a></li>
-<li><a href="https://windows11.techidaily.com/no-pretenders-allowed-steps-for-selecting-real-windows-apps/"><u>No Pretenders Allowed: Steps for Selecting Real Windows Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-fix-for-windows-update-failure-error-code-0x80070003/"><u>Quick Fix for Windows' Update Failure (Error Code 0X80070003)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/safeguarding-your-information-with-tailored-ai-tools/"><u>Safeguarding Your Information with Tailored AI Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/shortcuts-how-to-skip-ongoing-password-prompts-on-pc/"><u>Shortcuts: How to Skip Ongoing Password Prompts on PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/solutions-for-compatibility-problems-with-intel-hd-graphics-hardware/"><u>Solutions for Compatibility Problems with Intel HD Graphics Hardware</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-10-virtual-backdrops-swap-effortlessly-with-picsmagic-for-2024/"><u>Top 10 Virtual Backdrops Swap Effortlessly with PicsMagic for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-print-settings-access-windows-11s-print-tools-max-70-chars/"><u>Unlocking Print Settings: Access Windows 11'S Print Tools (Max 70 Chars)</u></a></li>
-<li><a href="https://windows11.techidaily.com/win11-screener-customization-guide/"><u>Win11 Screener Customization Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-how-to-enhance-content-discovery-with-instagrams-changes/"><u>[New] In 2024, How to Enhance Content Discovery with Instagram's Changes</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ecrets-to-crafting-enthralling-edu-videos-for-the-digital-age-for-2024/"><u>[New] Secrets to Crafting Enthralling Edu-Videos for the Digital Age for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-seek-and-succeed-hunt-down-instagrams-top-thinkers-in-your-space/"><u>[Updated] 2024 Approved Seek and Succeed Hunt Down Instagram's Top Thinkers in Your Space</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-discovering-top-notch-hdr-cameras-an-expedition/"><u>[Updated] In 2024, Discovering Top-Notch HDR Cameras An Expedition</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/12-essential-applications-of-chatgpt-in-commercial-settings/"><u>12 Essential Applications of ChatGPT in Commercial Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/escape-slowness-boosting-outlook-in-windows-os/"><u>Escape Slowness: Boosting Outlook in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/freedom-in-gaming-ps3-wirelessly-on-windows/"><u>Freedom in Gaming: PS3 Wirelessly on Windows</u></a></li>
+<li><a href="https://fox-links.techidaily.com/from-dull-to-vivid-mastering-the-art-of-color-in-videos/"><u>From Dull to Vivid Mastering the Art of Color in Videos</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-evaluation-of-the-xiaomi-mi-smart-band-4-the-ultimate-choice-for-affordable-health-tracking/"><u>In-Depth Evaluation of the Xiaomi Mi Smart Band 4 - The Ultimate Choice for Affordable Health Tracking</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/mixing-masterclass-elevate-drone-audio-with-20-complimentary-luts/"><u>Mixing Masterclass - Elevate Drone Audio with 20 Complimentary LUTs</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-unreachable-issues-with-malwarebytes-on-win11/"><u>Resolving Unreachable Issues with Malwarebytes on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/secure-telnet-configuration-three-essential-steps-for-wins-oses/"><u>Secure Telnet Configuration: Three Essential Steps for Wins OSes</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-for-screenshotting-windows-security-alerts/"><u>Techniques for Screenshotting Windows' Security Alerts</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-to-work-with-non-verified-windows-apps/"><u>Techniques to Work with Non-Verified Windows Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-windows-error-x80780119/"><u>Troubleshooting Windows' Error X80780119</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Honor X50i+ | Dr.fone</u></a></li>
 </ul></div>
 

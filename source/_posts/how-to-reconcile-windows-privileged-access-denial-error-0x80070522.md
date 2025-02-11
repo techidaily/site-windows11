@@ -1,7 +1,7 @@
 ---
 title: How To Reconcile Windows' Privileged Access Denial (Error 0X80070522)
-date: 2025-01-23T00:42:59.110Z
-updated: 2025-01-30T04:06:09.883Z
+date: 2025-02-05T21:20:36.958Z
+updated: 2025-02-11T01:10:45.677Z
 tags:
   - windows10
   - windows11
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 
 ![The Run this program in compatibility mode checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-run-as-administrator-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Set an Admin Account on Windows
 
  The error 0x80070522 message highlights that this is a privilege (permissions) issue. Therefore, error 0x80070522 is more likely to occur within standard account types than administrator ones. If your current user account only has standard rights, change it to an administrator one. Our guide on[changing your account type on Windows](https://www.makeuseof.com/ways-to-change-user-account-windows-10/) includes four methods for setting up an admin account in Windows 11/10.
@@ -44,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 ![The Administrator radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-administrator-radio-button.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Turn Off User Account Control (in Three Different Ways)
@@ -52,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
  User Account Control is a Windows security feature that restricts software privileges. That feature is the most regular cause of error 0x80070522\. Follow the steps in our[g](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) uide to[disabling User Account Control](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) to set UAC to the lowest**Never notify** option.
 
  It’s not recommended to leave UAC off. Do what you must with the files when User Account Control is disabled. Then turn UAC back on after you’ve saved, moved, or copied the files as needed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Modify the Drive’s Sharing Permissions
 
@@ -67,23 +59,31 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 3. Click the**Sharing** tab.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Press the**Advanced Sharing** button.
 5. Select the**Share this folder** checkbox.  
 ![The Share this folder checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/share-this-folder-checkbox.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Click the**Permissions** button.
 2. Select the**Full control** option’s**Allow checkbox for the Everyone** group.  
 ![The Full control checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-full-control-checkbox.jpg)
 3. Click the**Apply** and**OK** on the Permissions and Advanced Sharing windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Select**Close** to exit the properties window.
 5. Then click**Power** and select**Restart** within your Start menu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Perform the Required File or Folder Actions on Windows
@@ -107,20 +107,22 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ltimate-guide-selecting-8-exquisite-weddings-vids-for-2024/"><u>[New] Ultimate Guide Selecting 8 Exquisite Weddings - Vids for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-how-to-make-youtube-video-the-ultimate-guide/"><u>2024 Approved How to Make YouTube Video The Ultimate Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-new-era-of-editing-unlocked-how-fcpxs-latest-ipad-innovations-are-transforming-filmmaking-zdnet/"><u>A New Era of Editing Unlocked: How FCPx's Latest iPad Innovations Are Transforming Filmmaking - ZDNet</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-ceasing-built-in-laptop-input-through-windows/"><u>Guide: Ceasing Built-In Laptop Input Through Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/handling-unresponsive-clicks-in-the-latest-windows/"><u>Handling Unresponsive Clicks in the Latest Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-keep-sticky-notes-always-on-top-on-windows-10-and-11/"><u>How to Keep Sticky Notes Always on Top on Windows 10 & 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-maximize-all-available-ram-in-your-windows-environment/"><u>How to Maximize All Available RAM in Your Windows Environment</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-xiaomi-redmi-13c-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Xiaomi Redmi 13C 5G Activity | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-honor-90-gt-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Honor 90 GT Pattern Lock Screen</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-learn-to-master-character-voice-customization-the-ultimate-guide-to-transforming-in-game-speech-free/"><u>In 2024, Learn to Master Character Voice Customization The Ultimate Guide to Transforming In-Game Speech (Free)</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-phantom-camera-pause-tips/"><u>In 2024, Phantom Camera Pause Tips</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastery-over-post-update-linux-integration-on-win-11/"><u>Mastery Over Post-Update Linux Integration on Win 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-unresolved-roblox-issues-on-windows/"><u>Overcoming Unresolved Roblox Issues on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-expired-semaphore-in-win1110-systems/"><u>Troubleshooting Expired Semaphore in Win11/10 Systems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/youtube4kpc/"><u>YouTubeの高解像度4K動画PCでダウンロードテクニック</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-slide-show-must-haves-for-iphone-models-787-pro-max/"><u>[New] Slide Show Must-Haves for iPhone Models 7/8/7 Pro Max</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-fundamentals-of-quantum-hdr-efficiency/"><u>[Updated] In 2024, The Fundamentals of Quantum HDR Efficiency</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-streamlining-content-across-platforms-youtube-and-igtv-for-2024/"><u>[Updated] Streamlining Content Across Platforms YouTube & IGTV for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722962972873-access-updated-canon-pixma-ts3322-driver-software-for-enhanced-printing-performance-download-now/"><u>Access Updated Canon PIXMA TS3322 Driver Software for Enhanced Printing Performance – Download Now!</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-the-sluggishness-of-windows-discord-features/"><u>Addressing the Sluggishness of Windows Discord Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/all-in-one-software-suite-ios-ipados-mac-and-windows-connected/"><u>All-in-One Software Suite: IOS, iPadOS, Mac, and Windows Connected</u></a></li>
+<li><a href="https://windows11.techidaily.com/autopilot-off-stopping-chromes-unwanted-tab-openings/"><u>Autopilot Off: Stopping Chrome's Unwanted Tab Openings</u></a></li>
+<li><a href="https://windows11.techidaily.com/brighten-up-windows-11-screens-with-easy-adjustments/"><u>Brighten Up Windows 11 Screens with Easy Adjustments!</u></a></li>
+<li><a href="https://windows11.techidaily.com/chrome-freezing-woes-on-win11-try-these-swift-solutions/"><u>Chrome Freezing Woes on Win11? Try These Swift Solutions.</u></a></li>
+<li><a href="https://windows11.techidaily.com/command-line-convenience-with-windows-task-scheduler/"><u>Command Line Convenience with Windows Task Scheduler</u></a></li>
+<li><a href="https://windows11.techidaily.com/comprehensive-guide-to-unfreezing-window-taskbar/"><u>Comprehensive Guide to Unfreezing Window TaskBar</u></a></li>
+<li><a href="https://windows11.techidaily.com/compute-chronology-determining-window-system-era/"><u>Compute Chronology: Determining Window System Era</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-overcome-windows-11-bug-error-0xc1900208-solution-unveiled/"><u>Guide to Overcome Windows 11 Bug - Error 0Xc1900208 Solution Unveiled</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-oneplus-11r-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on OnePlus 11R Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://win-studio.techidaily.com/most-common-ios-and-android-inquiries-about-apowersoft-background-eraser-app/"><u>Most Common iOS & Android Inquiries About Apowersoft Background Eraser App</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/quick-guide-editing-mac-videos-by-eliminating-unnecessary-segments-with-precision/"><u>Quick Guide: Editing Mac Videos by Eliminating Unnecessary Segments with Precision</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-best-way-to-record-a-powerpoint-presentation/"><u>The Best Way to Record a PowerPoint Presentation</u></a></li>
 </ul></div>
 

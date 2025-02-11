@@ -1,7 +1,7 @@
 ---
 title: "Security Enhancement Manual: Add a Self-Designed Lock Pattern"
-date: 2024-08-15T15:26:11.268Z
-updated: 2024-08-16T15:26:11.268Z
+date: 2025-02-05T22:45:44.925Z
+updated: 2025-02-11T04:08:02.097Z
 tags:
   - windows10
   - windows11
@@ -43,28 +43,27 @@ thumbnail: https://thmb.techidaily.com/bb7a936483f9ef78d27c435fd60e8eb11646b876b
 ![The rescue password setting boxes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/enter-rescue-password.jpg)
 6. Click **Save** to set your new pattern lock.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now you can lock Windows anytime by activating the pattern lock. Double-click the 9Locker desktop shortcut to activate the pattern lock screen. Drag the mouse cursor across the circles on the 3x3 grid while pressing the left button to input the set pattern for unlocking Windows.
 
 ![9Locker's pattern lock grid](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-pattern-grid.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Customize 9Locker
 
  To access the 9Locker settings window, you’ll need to input your rescue password instead. Click **Settings** at the top left of the pattern lock screen. Input your rescue password and select **OK**.
 
 ![The Enter Rescue Password box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/enter-rescue-password-box.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 
  You can select a different background image for the pattern lock screen. To do so, click the **Background Image** tab. Then click **Image** and choose one of the eight wallpapers for the pattern lock screen. Or you can select a custom background image from another folder.
 
 ![The Background Image tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/background-image-tab.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Alternatively, you can set a solid color for the background. Click the **Color** button on the **Background image** tab. Then choose a color on the palette and select **OK**.
 
@@ -72,7 +71,15 @@ thumbnail: https://thmb.techidaily.com/bb7a936483f9ef78d27c435fd60e8eb11646b876b
 
 ![The General settings tab in 9Locker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/general-settings-tab.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  9Locker’s pattern lock screen should appear automatically with the **Load 9Locker on Windows startup** checkbox selected on the **General Settings** tab. However, I needed to add 9Locker to the startup folder to get the program to run at startup. If you need to do the same, check out [how to utilize the Windows startup folder](https://www.makeuseof.com/tag/windows-10-startup-folder/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add a Custom Patter Lock With Eusing Maze Lock
 
@@ -88,9 +95,6 @@ thumbnail: https://thmb.techidaily.com/bb7a936483f9ef78d27c435fd60e8eb11646b876b
 1. Press the **Reset Pattern** button.
 2. Select a **3 \* 3**, **4 \* 4**, or **5 \* 5** pattern grid size on the drop-down menu.  
 ![The Reset Pattern](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/reset-pattern-tab.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 3. Hold the left mouse button and drag your cursor over the circles to set a lock pattern.
 4. Click **OK** on the reset lock pattern prompt.
 5. Select **Yes** when asked to back up the lock pattern. Then select a backup folder and click **Save**.
@@ -102,13 +106,18 @@ thumbnail: https://thmb.techidaily.com/bb7a936483f9ef78d27c435fd60e8eb11646b876b
 
 ![The Eusing Maze Lock pattern lock screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/eusing-maze-lock.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Customize Eusing Maze Lock
 
  The Eusing Maze Lock pattern lock screen includes two alternative input options in the bottom right corner. Clicking the middle option will make the pattern lock invisible for more secure input. Or click the right button to input a pattern by pressing the keyboard letter keys for corresponding circles.
 
 ![The patter lock input options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/key-pattern-lock.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To access Eusing Maze Lock’s settings, right-click the software’s system tray icon, select **Configure**, input your pattern lock, and click the **General** tab. There you can add Eusing Maze Lock to the startup by selecting **On** from the Autolock at Windows startup drop-down menu.
@@ -121,23 +130,6 @@ thumbnail: https://thmb.techidaily.com/bb7a936483f9ef78d27c435fd60e8eb11646b876b
 
 ![The Background tab in Eusing Maze Lock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-background-tab.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ## Lock Your Windows 10 or 11 PC Differently
 
  Both Eusing Maze Lock and 9Locker provide an alternative to the standard Windows 10 OR 11 lock screen.
@@ -146,8 +138,6 @@ Key features:
 
  Most users secure their Windows PCs with passwords or PINs. However, you can also secure your PC by adding a custom pattern lock with 9Locker or Eusing Maze Lock. This is how you can set up a pattern lock for Windows 10 and 11 with those software packages.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -155,5 +145,22 @@ Key features:
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-facilitating-instant-sharing-tiktok-videos-on-facebook/"><u>[New] Facilitating Instant Sharing TikTok Videos on Facebook</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-cross-promotion-savvy-integrating-youtube-with-fb/"><u>[Updated] 2024 Approved Cross-Promotion Savvy Integrating YouTube with FB</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-essence-of-tale-spinning-techniques/"><u>[Updated] Essence of Tale-Spinning Techniques</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-expertly-assembled-windows-edition-tools-guide/"><u>[Updated] In 2024, Expertly Assembled Windows Edition Tools Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-the-youtube-yield-comparing-channels-for-peak-performance/"><u>2024 Approved The YouTube Yield Comparing Channels for Peak Performance</u></a></li>
+<li><a href="https://windows11.techidaily.com/5-reasons-to-steer-clear-from-inexpensive-windows-keys/"><u>5 Reasons to Steer Clear From Inexpensive Windows Keys</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-non-functional-shortcuts-with-windows-snips/"><u>Avoiding Non-Functional Shortcuts with Windows Snips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/crafting-silence-in-gaming-building-a-stealthy-rgb-free-desktop-pc-unveiled-by-toms-hardware/"><u>Crafting Silence in Gaming: Building a Stealthy RGB-Free Desktop PC Unveiled by Tom's Hardware</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-the-impact-of-copilot-key-on-your-windows-11-pc-performance/"><u>Deciphering the Impact of Copilot Key on Your Windows 11 PC Performance</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-troubleshooting-for-winscombsvc-error/"><u>Essential Troubleshooting for WinScombSvc Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/image-integration-insights-securely-stashing-files-on-windows-11/"><u>Image Integration Insights: Securely Stashing Files on Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-all-inclusive-review-of-dji-phantom-4-technology/"><u>In 2024, All-Inclusive Review of DJI Phantom 4 Technology</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-windows-notepad-notebook-errors/"><u>Solutions for Windows Notepad Notebook Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-port-reset-failed-issue-in-windows-11/"><u>Tackling 'Port Reset Failed' Issue in Windows 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-youtube-subtitles-srt-3-steps-guide-for-2024/"><u>Unlocking YouTube Subtitles (SRT) - 3 Steps Guide for 2024</u></a></li>
+</ul></div>
 

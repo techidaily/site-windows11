@@ -1,7 +1,7 @@
 ---
 title: How to Create Custom Snap Layouts in Windows With PowerToys
-date: 2024-08-15T15:26:51.241Z
-updated: 2024-08-16T15:26:51.241Z
+date: 2025-02-08T19:18:21.191Z
+updated: 2025-02-10T22:39:37.070Z
 tags:
   - windows10
   - windows11
@@ -30,11 +30,20 @@ thumbnail: https://thmb.techidaily.com/f6b66ac253e72b1db3b7035e49bd4e3f144338d6a
 4. Turn on the toggle next to**Enable FancyZones** .  
 ![FancyZones in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/fancyzones-in-powertoys.jpg)
 5. Click the**Launch layout editor** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Select the monitor for which you want to design layouts.
 7. Click the**pencil icon** next to one of the layout templates to edit it.
 8. In the following window, use the sliders to change the number of zones, spaces around zones, and highlight distance.
 9. Click the**Save** button to save your changes.  
 ![Edit Snap Layouts in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/edit-snap-layouts-in-powertoys.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the existing layout templates aren't enough for you, PowerToys also gives you the option to create new snap layouts from scratch. Here’s how to create one.
 
@@ -46,29 +55,16 @@ thumbnail: https://thmb.techidaily.com/f6b66ac253e72b1db3b7035e49bd4e3f144338d6a
 6. After creating your snap layout, click the**Save & apply** button.  
 ![Create New Custom Layout in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/create-new-custom-layout-in-powertoys.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can repeat the above steps to create as many custom layouts as you want.
 
  By default, apps and programs on your computer will utilize [Windows 11's snap layouts](https://www.makeuseof.com/how-to-use-snap-layouts-in-windows-11/) when you move the mouse cursor over the maximize button or drag the window into a corner. To use your custom snap layout created with PowerToys, you'll need to hold the**Shift key** and then drag the window to one of your zones.
 
 ![Snap Layout on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/snap-layout-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ## How to Customize FancyZones Settings in PowerToys
 
  In addition to creating personalized snap layouts,[PowerToys offers multiple options](https://www.makeuseof.com/tag/windows-10-powertoys/) to customize zone appearance, modify window behavior, exclude specific apps, and more. Let’s see how to use them.
@@ -76,46 +72,36 @@ Key features:
  Open PowerToys and navigate to the**FancyZones** tab. In the**Zone appearance** section, you can customize the look of zones by adjusting colors, opacity, and other aspects.
 
 ![Customize Zone Appeareance in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/customize-zone-appeareance-in-powertoys.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Similarly, in the**Window behavior** section, you can use the checkboxes to specify how windows should behave when you use FancyZones. You can, for example, configure windows to revert to their original size when unsnapped using the**Restore the original size of windows when unsnapping** checkbox.
 
 ![Customize Window Behavior in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/customize-window-behavior-in-powertoys.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’re accustomed to using**Win + arrow key** shortcut to snap windows on your computer, you can configure PowerToys to override Windows Snap. For that, enable the toggle next to**Override Windows Snap** and then use the Win + arrow keys to arrange your windows.
 
 ![Overide Windows Snap Setting in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/overide-windows-snap-setting-in-powertoys.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  With FancyZones, you can prevent specific apps and programs from snapping to zones. To do so, scroll down to the**Excluded apps** section in the FancyZones tab. Then, type in the name of the app you want to exclude. For instance, if you wanted to prevent File Explorer from snapping to zones, you’d type**explorer.exe** in the text field.
 
 ![Exlude Apps in FancyZones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/exlude-apps-in-fancyzones.jpg)
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Multitask Better With Custom Snap Layouts on Windows 11
 
  If the default snap layout options do not meet your needs, you can always use PowerToys to create custom snap layouts. However, that is not the only thing you can do with PowerToys. You can use it to rename files, resize images in bulk, keep your computer awake, and do a variety of other things.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -124,8 +110,24 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-capture-and-conquer-instagram-photos/"><u>[New] Capture and Conquer Instagram Photos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-best-tools-to-track-popular-tags-on-fb-twt-and-ig-networks/"><u>[New] In 2024, Best Tools to Track Popular Tags on FB, Twt & IG Networks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-modern-mobile-maximizing-vr360-video-on-android-update-2023/"><u>[Updated] Modern Mobile Maximizing VR/360 Video on Android (Update 2023)</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-what-separates-full-immersion-from-panoramic-videos/"><u>[Updated] What Separates Full Immersion From Panoramic Videos?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-stop-losses-maintaining-seamless-obs-recording/"><u>2024 Approved Stop Losses Maintaining Seamless OBS Recording</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/bikes-viewing-experience-5050-of-the-ultimate-helmet-cam-tech/"><u>Bike's Viewing Experience - 50/50 of the Ultimate Helmet Cam Tech</u></a></li>
+<li><a href="https://windows11.techidaily.com/cleanse-your-search-box-of-windows-graphics/"><u>Cleanse Your Search Box of Windows Graphics</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-note-30i-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Infinix Note 30i to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/keeping-your-win11-devices-running-smoothly-check-list-5/"><u>Keeping Your Win11 Devices Running Smoothly - Check List #5</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/leveraging-cookiebot-technology-for-enhanced-user-engagement-and-growth/"><u>Leveraging Cookiebot Technology for Enhanced User Engagement and Growth</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-access-steps-for-unlocking-windows-hidden-char-personality-tracker/"><u>Mastering Access: Steps for Unlocking Windows' Hidden Char Personality Tracker</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-over-windows-crash-0x800f0831-solution/"><u>Mastery Over Windows Crash: 0X800f0831 Solution</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-directdraw-woes-a-users-survival-manual-for-win11/"><u>Navigating DirectDraw Woes: A User's Survival Manual for Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/rapidly-access-apps-on-windows-11/"><u>Rapidly Access Apps on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-google-chrome-to-full-color-in-windows/"><u>Restoring Google Chrome to Full Color in Windows</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-the-lacking-depth-feature-on-ios-16-top-7-fix-methods/"><u>Troubleshoot the Lacking Depth Feature on iOS 16: Top 7 Fix Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-steams-online-potential-on-pc/"><u>Unlocking Steam's Online Potential on PC</u></a></li>
+</ul></div>
 

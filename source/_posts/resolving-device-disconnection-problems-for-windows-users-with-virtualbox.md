@@ -1,7 +1,7 @@
 ---
 title: Resolving Device Disconnection Problems for Windows Users with VirtualBox
-date: 2024-08-15T15:24:12.379Z
-updated: 2024-08-16T15:24:12.379Z
+date: 2025-02-05T16:57:02.417Z
+updated: 2025-02-10T18:48:37.211Z
 tags:
   - windows10
   - windows11
@@ -31,20 +31,22 @@ Here are some possible reasons for the VirtualBox USB devices error.
 
  Now, you know the possible reasons why VirtualBox throws an error code when you connect a USB device. Here are the following methods you can try to fix the error code and successfully connect the USB device to the virtual machine.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Fix the "Failed to Attach the USB Device" Error in Windows
 
  Now that we know what's potentially causing the issue, let's explore the fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Restart VirtualBox
 
  Before you move on to other advanced fixes, restart the VirtualBox application. If restarting the app doesn’t work, restart Windows. It will restart all the processes and services including the ones VirtualBox needs to function properly. Now, connect a USB device and try to attach it to a virtual machine in VirtualBox. If it still doesn’t show up, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Check the USB Device on the Host System
 
  Before trying to attach the USB device to the VirtualBox virtual machine, first check if it shows up on your host system. Launch the File Explorer and go to This PC and check if the USB drive appears there. If you don’t see the USB drive, do as follows:
@@ -71,8 +73,9 @@ Here are some possible reasons for the VirtualBox USB devices error.
 8. Run the virtual machine and try to connect the USB device to it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4\. Update VirtualBox
 
  An outdated version of VirtualBox can encounter errors. So, you need to update VirtualBox to fix the underlying bugs and get access to new features offered by the developers. Here’s how to update VirtualBox on Windows.
@@ -84,6 +87,10 @@ Here are some possible reasons for the VirtualBox USB devices error.
 5. Run the downloaded executable file and follow the on-screen instructions to install it on your system. Also, install the extension pack as illustrated in Method 3 above.
 6. Now, try to connect the USB device to the virtual machine using the settings menu.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Configure the USB Controller in Virtual Machine Settings
 
  A mismatch in the USB controller settings can also produce the VirtualBox error. If you want to add a USB device to the VirtualBox virtual machine, you must select the correct USB controller option in the USB settings.
@@ -93,10 +100,12 @@ Here are some possible reasons for the VirtualBox USB devices error.
 3. Firstly, click the**Enable USB controller** checkbox to enable the USB device attaching feature to the virtual machine.
 4. Then, select the USB 2.0 or 3.0 controller option located below the**Enable USB controller** option.  
 ![Configure the USB Controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Configure-the-USB-Controller.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 5. Now, click on the**Add new USB filter** and pick the USB device you want to connect to the virtual machine.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click on the**OK** button and close the settings window. Start the virtual machine and check if the error pops up now.
 
 ### 6\. Reinstall the VBox USB drivers
@@ -117,30 +126,21 @@ Here are some possible reasons for the VirtualBox USB devices error.
 1. Press the**Win + R** key to launch the Run command box (see [how to open Windows Run](https://www.makeuseof.com/windows-open-run-command-dialog-box/) for more ways). Type**appwiz.cpl** and press the enter key. The Programs and Features window will launch.
 2. Locate VirtualBox from the list of installed programs and double-click on it.  
 ![Reinstall VirtualBox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Reinstall-VirtualBox.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. **UAC** will pop up. Click on**Yes** to continue.
 4. Follow the on-screen prompts to uninstall VirtualBox from your system.
 5. Now visit the [official VirtualBox website](https://www.virtualbox.org/wiki/Downloads) and download the app and the corresponding extension pack.
 6. Open the download location and run the setup file. Follow the on-screen prompts to install and then install the extension pack as described in method 3.
 7. Now, attach a USB device and start the virtual machine to check if the error code occurs or not.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Easily Connect USB Devices to Your Virtual Machine Once More
 
  VirtualBox needs the extension pack to enable connectivity for USB 2.0 and 3.0 devices. Check your USB devices for errors and verify that they mount properly on the host system. Reinstall USB drivers if you face the error again. Lastly, remove VirtualBox from the system and do a fresh installation.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -149,8 +149,26 @@ Here are some possible reasons for the VirtualBox USB devices error.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-the-complete-handbook-for-telegram-web-newbies/"><u>[New] 2024 Approved The Complete Handbook for Telegram Web Newbies</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-exploring-differences-in-vimeo-and-youtube-services-for-2024/"><u>[New] Exploring Differences in Vimeo & YouTube Services for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-reels-borrow-tips-and-tricks-from-tiktok-to-go-viral-for-2024/"><u>[New] Instagram Reels Borrow Tips & Tricks From TikTok to Go Viral for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-beginners-roadmap-to-understanding-windows-iscsi-initiator/"><u>A Beginner's Roadmap to Understanding Windows iSCSI Initiator</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/building-your-screencasting-skills-from-the-ground-up-for-2024/"><u>Building Your Screencasting Skills From the Ground Up for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-techniques-for-altering-credentials-on-windows-11/"><u>Easy Techniques for Altering Credentials on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-unresponsive-f-keys-troubleshooting-in-windows-11-os/"><u>Fix: Unresponsive F Keys - Troubleshooting in Windows 11 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-correct-hardware-detection-errors-in-win/"><u>How To Correct Hardware Detection Errors in Win</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-the-ultimate-route-to-sharpen-your-meme-skills-at-9gag/"><u>In 2024, The Ultimate Route to Sharpen Your Meme Skills at 9GAG</u></a></li>
+<li><a href="https://windows11.techidaily.com/investigating-and-fixing-create-failed-on-windows-error-30005/"><u>Investigating and Fixing Create Failed on Windows Error 30005</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/next-level-productivity-a-complete-review-of-the-powerful-and-versatile-dell-xps-nt-13-convertible-model/"><u>Next-Level Productivity: A Complete Review of the Powerful and Versatile Dell XPS N't 13 Convertible Model</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-this-file-is-alone-error-on-pcs/"><u>Overcoming This File Is Alone Error on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/reset-chronology-fix-windows-time-errors/"><u>Reset Chronology: Fix Windows Time Errors</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/stay-current-with-ease-how-to-verify-your-control-panels-up-to-date-status-by-yl-technologies/"><u>Stay Current with Ease: How To Verify Your Control Panel's Up-to-Date Status by YL Technologies</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/sustainable-practices-in-material-selection-consider-the-environmental-impact-of-extraction-processing-and-disposal-to-reduce-the-ecological-footprint/"><u>Sustainable Practices in Material Selection Consider the Environmental Impact of Extraction, Processing, and Disposal to Reduce the Ecological Footprint.</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-elusive-guide-to-unseen-menu-adjustments-windows-style/"><u>The Elusive Guide to Unseen Menu Adjustments, Windows Style</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/troubleshooting-file-save-issues-in-emeditor-how-to-handle-big-data/"><u>Troubleshooting File Save Issues in EmEditor: How to Handle Big Data</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-the-whea-uncorrectable-error-on-your-computer-system/"><u>Troubleshooting the WHEA Uncorrectable Error on Your Computer System</u></a></li>
+<li><a href="https://windows11.techidaily.com/visualize-resource-consumption-windows-tray-update-guide/"><u>Visualize Resource Consumption: Windows Tray Update Guide</u></a></li>
+</ul></div>
 

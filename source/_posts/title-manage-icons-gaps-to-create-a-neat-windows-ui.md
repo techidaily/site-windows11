@@ -1,7 +1,7 @@
 ---
 title: "Title: Manage Icons Gaps to Create a Neat Windows UI"
-date: 2025-01-25T06:31:54.408Z
-updated: 2025-01-30T02:39:28.401Z
+date: 2025-02-05T05:42:56.485Z
+updated: 2025-02-11T00:18:57.243Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Change Desktop Icon Spacing By Manually Editing the Registry
 
  The registry is one big database of configuration settings that you can edit to customize Windows. It includes a WindowsMetrics key that incorporates IconSpacing and IconVerticalSpacing strings.
@@ -43,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 5. Double-click the**WindowMetrics** key's**IconSpacing** string, which changes the horizontal spacing for desktop icons.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Then erase the current**\-1125** number from the Value data box.
@@ -74,11 +70,11 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 ![The Extract All button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/extract-all-button4.jpg)
 5. Select the checkbox for the**Show extracted files when complete** setting on the Extract Compressed (Zipped) Folders window.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Extract Compressed window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/the-extract-compressed-window3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. To unzip the archive, click**Extract** .
 2. Double-click the installer file for Winaero Tweaker to bring up the software’s setup wizard.
@@ -86,10 +82,6 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 4. Click**Next** to proceed to the folder selection. Although not essential to do so, you can click**Browse** to choose a different folder.  
 ![The Winaero Tweaker setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/setup-winaero-tweaker-window2.jpg)
 5. All the other default installation options selected are fine. Keep clicking**Next** and then Install to finish.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Select the**Run Winaero Tweaker** checkbox after installing, and then click**Finish** .
 2. Double-click the**Advanced Appearance Settings** category in Winaero.
@@ -109,13 +101,13 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 
 ![The Font window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/font-window.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  There you can select a different icon font from a wide variety of alternatives in the**Font** menu. The**Font style** menu there includes 12 different styles for icon fonts to choose from. Input a higher or lower value in the**Size** box to increase or decrease the font size. You can also select**Strikeout** and**Underline** text effect options there.
 
  Click**OK** when you’ve customized the desktop icon font, and then select the**Apply Changes** and**Sign out** now options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Change Desktop Icon Spacing With DesktopOK
 
@@ -132,12 +124,20 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 ![The Windows-Metrics option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-metrics-option.jpg)
 3. Select**Windows-Metrics** on the**Tools** menu.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click**Yes** on the confirmation dialog prompt.
 5. Drag the**Horizontal Space** bar’s slider to change horizontal desktop icon spacing.  
 ![The spacing bars](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/spacing-bars.jpg)
 6. Then drag the**Vertical Space** bar’s slider to adjust vertical icon spacing.
 
  You can also change desktop icon sizes from the Windows-Metrics window. Click the**Desktop icon size** drop-down menu to choose an alternative size from there. If you select the largest icon sizes, you’ll need to increase the spacing between them to prevent them overlapping.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Much Icon Space Do You Want on Your Desktop?
 
@@ -158,20 +158,24 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-the-ultimate-instagram-photography-guide-for-crafting-perfect-covers-for-2024/"><u>[New] The Ultimate Instagram Photography Guide for Crafting Perfect Covers for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-elite-camcorders-with-direct-facing-screens/"><u>[Updated] In 2024, Elite Camcorders with Direct Facing Screens</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/airdrop-fehlerbehebung-fur-iphone-modelle-ab-version-14-lernen-sie-hier-6-tipps-kennen/"><u>AirDrop Fehlerbehebung Für iPhone-Modelle Ab Version 14 - Lernen Sie Hier 6 Tipps Kennen!</u></a></li>
-<li><a href="https://windows11.techidaily.com/keeping-taskmanager-visible-above-others/"><u>Keeping TaskManager Visible Above Others</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726226605936-movavi-vob/"><u>Movavi 提供免費網路下載VOB檔 - 全球可用!</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-systems-blocked-app-barrier/"><u>Overcoming System's Blocked App Barrier</u></a></li>
-<li><a href="https://fox-info.techidaily.com/professional-secrets-to-flawless-photo-cropping-online-for-2024/"><u>Professional Secrets to Flawless Photo Cropping Online for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/remediation-of-sound-device-not-stopped-in-windows-os/"><u>Remediation of Sound Device Not Stopped in Windows OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/selective-deactivation-the-path-to-efficient-windows-11-performance/"><u>Selective Deactivation: The Path to Efficient Windows 11 Performance</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-balanced-choice-in-smartphones-our-in-depth-review-on-the-iphone-se-2020/"><u>The Balanced Choice in Smartphones: Our In-Depth Review on the iPhone SE (2020)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-complete-fix-overcoming-no-sound-glitches-in-playerunknowns-battlegrounds-pubg/"><u>The Complete Fix: Overcoming No Sound Glitches in PlayerUnknown's Battlegrounds (PUBG)</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-key-trackers/"><u>Top Rated Key Trackers</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-false-alarms-in-chrome-security-alert/"><u>Troubleshooting False Alarms in Chrome Security Alert</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-and-resolving-win10win11-security-faults/"><u>Understanding & Resolving Win10/Win11 Security Faults</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-windows-sign-in-option-post-fail/"><u>Unlocking Windows Sign-In Option Post-Fail</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-expertly-selected-graphics-cards-for-peak-streaming-clarity/"><u>[New] In 2024, Expertly Selected Graphics Cards for Peak Streaming Clarity</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-how-to-capture-your-feed-on-devices-using-obs-studio/"><u>[New] In 2024, How to Capture Your Feed on Devices Using OBS Studio</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-the-2021s-best-screen-capture-tools-roundup/"><u>[Updated] 2024 Approved The 2021'S Best Screen Capture Tools Roundup</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-zte-axon-40-lite-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track ZTE Axon 40 Lite without App | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/9gag-the-ultimate-resource-for-memetic-innovation-for-2024/"><u>9GAG The Ultimate Resource for Memetic Innovation for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/digital-defenses-up-dont-get-fooled-by-googles-bard-download/"><u>Digital Defenses Up! Don't Get Fooled by Google’s Bard Download</u></a></li>
+<li><a href="https://windows11.techidaily.com/dive-into-dark-display-settings-for-calc-app/"><u>Dive Into Dark Display Settings for Calc App</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/how-to-record-facebook-live-stream-for-2024/"><u>How to Record Facebook Live Stream for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-honor-90-gt-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Honor 90 GT</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-esd-file-conversion-to-iso-on-windows-systems/"><u>Mastering ESD File Conversion to ISO on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-resource-assignment-in-wsl-android-setup/"><u>Mastering Resource Assignment in WSL-Android Setup</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fix-for-blocked-browsers-by-defender-in-win11/"><u>Quick Fix for Blocked Browsers by Defender in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/reclaim-your-desktop-win-11-icon-recovery-tips/"><u>Reclaim Your Desktop: Win 11 Icon Recovery Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/regain-stability-the-definitive-net-window-repair-guide-max-156/"><u>Regain Stability: The Definitive .NET Window Repair Guide (Max 156)</u></a></li>
+<li><a href="https://windows11.techidaily.com/reprogramming-windows-delete-files-read-lock/"><u>Reprogramming Windows: Delete File's Read Lock</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-to-chatgpt-plugin-registration/"><u>Step-by-Step Guide to ChatGPT Plugin Registration</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-fixing-0x8009030e-on-virt-environments/"><u>Step-by-Step Guide: Fixing 0X8009030E on Virt Environments</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-secrets-to-stable-apex-play-on-windows-11/"><u>Unlocking the Secrets to Stable Apex Play on Windows 11</u></a></li>
+<li><a href="https://win-web3.techidaily.com/windows-server-201n-work-scheduler-not-running-discover-5-effective-fix-methods/"><u>Windows Server 201N Work Scheduler Not Running? Discover 5 Effective Fix Methods!</u></a></li>
 </ul></div>
 

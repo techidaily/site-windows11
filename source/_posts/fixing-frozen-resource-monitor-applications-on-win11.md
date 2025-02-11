@@ -1,7 +1,7 @@
 ---
 title: Fixing Frozen Resource Monitor Applications on Win11
-date: 2025-01-28T03:00:13.957Z
-updated: 2025-01-30T00:28:39.833Z
+date: 2025-02-06T06:45:17.508Z
+updated: 2025-02-10T19:34:30.888Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/46c850237c04863ff656e578f32b008a00b71b463
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Causes the Resource Monitor App to Stop Working?
 
  Before we dive into solving the problem, let's first check what causes the Resource Monitor app to stop working correctly. There are a few potential causes you should consider.
@@ -35,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/46c850237c04863ff656e578f32b008a00b71b463
 
 So, let's move on to the solution and fix this problem.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Restart the Computer
 
 ![windows restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/windows-restart.jpg)
@@ -46,6 +46,10 @@ So, let's move on to the solution and fix this problem.
  When troubleshooting software-related issues, a computer restart can often resolve them without resorting to complex solutions. Doing so refreshes all running programs and services while also clearing out any temporary files that might be causing problems.
 
  In most cases, this can get things back up and running without requiring extra effort. Plus, this solution is usually quick and easy since you only need to shut down your PC and wait for it to boot back up again. If you're having trouble restarting your PC, you can check out our guide on the[different ways you can restart Windows](https://www.makeuseof.com/windows-restart-methods/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Change the DPI Settings
 
@@ -62,10 +66,6 @@ To change the DPI scale to its default settings, follow these steps:
 
  Once you have made the changes, close the Settings window and run the Resource Monitor app to see if the problem is resolved.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Run the System File Checker
 
  If restarting your computer and changing the DPI settings didn't work, running an SFC scan can often detect and repair any corrupted system files that might be causing problems.
@@ -79,7 +79,7 @@ To do this, follow these steps:
 4. Now in the elevated Command Prompt window, type in the command below and press Enter:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 sfc /scannow
@@ -100,11 +100,11 @@ sfc /scannow
 3. When Windows Update opens, click the**Check for updates** button.  
 ![Check for Updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/check-for-updates.jpg)
 
- If there are any updates available, it will download and install them automatically. After the download completes, install the updates and restart your computer. After that, check to see if Resource Monitor is working.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If there are any updates available, it will download and install them automatically. After the download completes, install the updates and restart your computer. After that, check to see if Resource Monitor is working.
 
 ## 5\. Uninstall the Latest Windows Updates
 
@@ -117,6 +117,10 @@ sfc /scannow
 4. Scroll down to Related settings and click**Uninstall updates** .  
 
 ![Uninstall the latest Windows Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-the-latest-windows-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then select any recent updates that you want to uninstall. After that, restart your computer and check if Resource Monitor is now working properly.
 
@@ -132,10 +136,6 @@ sfc /scannow
 5. On the Microsoft account page, click **I don't have this person's sign-in information** .
 
  Then follow the instructions to add a new user account and then sign in with that account. Now open Resource Monitor and see if it's working properly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Troubleshoot in Clean Boot State
 
@@ -177,22 +177,17 @@ In such a case, you need to perform a clean boot as instructed below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instagram-content-top-15-download-apps-unveiled/"><u>[New] 2024 Approved Instagram Content Top 15 Download Apps Unveiled</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-premier-perks-for-your-gopro-camera/"><u>[New] 2024 Approved Premier Perks for Your GoPro Camera</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-proven-strategies-for-premium-picture-acquisition-gratis/"><u>[Updated] 2024 Approved Proven Strategies for Premium Picture Acquisition Gratis</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/achieve-mastery-in-tracking-fbs-recently-seen-videos/"><u>Achieve Mastery in Tracking Fb’s Recently Seen Videos</u></a></li>
-<li><a href="https://windows11.techidaily.com/clearing-paths-blocked-by-shared-printers/"><u>Clearing Paths Blocked by Shared Printers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-create-your-own-virtual-reality-gear-with-google-cards-for-2024/"><u>How to Create Your Own Virtual Reality Gear with Google Cards for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Tecno Spark 20 Pro | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-pc-gamepad-adjustments-and-accuracy-checks/"><u>Mastering PC Gamepad Adjustments & Accuracy Checks</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedying-microsoft-store-hiccup-0x80131500/"><u>Remedying Microsoft Store Hiccup 0X80131500</u></a></li>
-<li><a href="https://windows11.techidaily.com/reviving-non-active-thermal-management-on-pcs/"><u>Reviving Non-Active Thermal Management on PCs</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ing-out-on-youtube-setting-up-starting-to-earn/"><u>Starting Out on YouTube Setting Up, Starting to Earn</u></a></li>
-<li><a href="https://windows11.techidaily.com/tapping-into-your-true-essence-guide-for-accessing-windows-silent-personal-analyzer/"><u>Tapping Into Your True Essence: Guide for Accessing Windows' Silent Personal Analyzer</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96027875-9780525504641-the-spirit-almanac/"><u>The Spirit Almanac | Free Book</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-error-0x8024a205-in-winupdate/"><u>Troubleshooting Error 0X8024a205 in WinUpdate</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-frozen-netflix-on-windows/"><u>Troubleshooting Frozen Netflix on Windows</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/king-trending-potential-in-your-videos/"><u>Unlocking Trending Potential in Your Videos</u></a></li>
-<li><a href="https://windows11.techidaily.com/why-bypass-automated-systems-for-win-11-key-generation-safety/"><u>Why Bypass Automated Systems for Win 11 Key Generation Safety?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-budget-4k-cameras-for-beginners/"><u>[New] Budget 4K Cameras for Beginners</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-leading-edge-webcams-insiders-choice-in-windows-11/"><u>[Updated] 2024 Approved Leading Edge Webcams Insider's Choice in Windows 11</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-elevate-your-brand-with-these-10-keywords-on-facebook/"><u>2024 Approved Elevate Your Brand with These 10 Keywords on Facebook</u></a></li>
+<li><a href="https://windows11.techidaily.com/beginners-blueprint-to-conquering-diablo/"><u>Beginner’s Blueprint to Conquering Diablo</u></a></li>
+<li><a href="https://windows11.techidaily.com/breaking-down-why-obs-wont-start-on-your-pc/"><u>Breaking Down Why OBS Won't Start on Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/breaking-grayed-out-delete-feature-for-windows-11-pins/"><u>Breaking Grayed-Out Delete Feature for Windows 11 PINs</u></a></li>
+<li><a href="https://windows11.techidaily.com/compelling-windows-applications-for-video-transformation/"><u>Compelling Windows Applications for Video Transformation</u></a></li>
+<li><a href="https://windows11.techidaily.com/discover-the-divine-interface-of-windows-11-os/"><u>Discover the Divine Interface of Windows 11 OS</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-review-djis-phantom-4-pro-version-2-soaring-to-new-heights-in-drone-technology/"><u>Expert Review: DJI's Phantom 4 Pro Version 2 - Soaring to New Heights in Drone Technology</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-video-watermark-editor-top-rated-options/"><u>In 2024, Free Video Watermark Editor Top Rated Options</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/tips-for-clearing-blank-youtube-playback-for-2024/"><u>Tips for Clearing Blank YouTube Playback for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/unlock-funimates-downloading-magic/"><u>Unlock Funimate's Downloading Magic</u></a></li>
 </ul></div>
 

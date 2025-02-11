@@ -1,7 +1,7 @@
 ---
 title: Overcoming Lags in Valorant for Windows Gamers
-date: 2025-01-25T05:07:26.406Z
-updated: 2025-01-29T18:34:43.865Z
+date: 2025-02-04T18:54:44.591Z
+updated: 2025-02-11T00:02:16.513Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Don't Let Valorant Limit Your Frame Rate
 
  Valorant comes with settings built into it that limit your FPS in various situations. These settings allow you to limit your FPS when the game is idle when you scroll through menus, when the game is minimized, or when you are using the laptop battery as the primary power source. You can also set it to limit your FPS at all times.
@@ -38,16 +42,8 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
 ![Open General Settings in the Video Tab of Valorant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/2-open-general-settings-in-the-video-tab-of-valorant.jpg)
 3. Turn off the options next to **Limit FPS on Battery** and **Limit FPS Always**. Also, increase the maximum frame rate.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Turn on the **Limit FPS in Menus** and **Limit FPS in Background** options.  
 ![Enable and Disable Selective Options in General Settings in the Video Tab of Valorant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-enable-and-disable-selective-options-in-general-settings-in-the-video-tab-of-valorant.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Change the Screen Resolution Settings in Valorant
 
@@ -63,11 +59,15 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
 ![Reduce the Resolution to Increase FPS in Valorant by Changing Settings in the Game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4a-reduce-the-resolution-to-increase-fps-in-valorant-by-changing-settings-in-the-game.jpg)
 6. Set the **Anti-Aliasing** to **MSAA 4x**. Also, select **4x** in the **Anisotropic Filtering** menu.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Disable **Improve Clarity**, **Experimental Sharpening**, **Bloom**, **Distortion**, and **Cast Shadows**.  
 ![Turn Off VIsual Effets in Valorant's Game Settings to Increase FPS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-reduce-the-resolution-to-increase-fps-in-valorant-by-changing-settings-in-the-game.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Turn Off Hardware-Accelerated GPU Scheduling
@@ -75,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
  Hardware-accelerated GPU scheduling transfers some CPU workload to your GPU. It enhances the performance of high-priority processes on your device. Although handy, this can put extra strain on your GPU and prevent it from using all its resources when playing Valorant, causing the frame rate to drop.
 
  To turn off this feature in Windows settings, check out [what hardware-accelerated GPU scheduling means and how to disable it](https://www.makeuseof.com/hardware-accelerated-gpu-scheduling-disable-windows/). If you follow the steps and discover that the hardware-accelerated GPU scheduling setting is already disabled, try turning it on and see if it improves or worsens your FPS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Turn Any Active In-Game Overlays Off
 
@@ -91,22 +95,18 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
 ![Disable the Xbox Game Bar Option in the Gaming Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/8-disable-the-xbox-game-bar-option-in-the-gaming-tab-of-the-windows-settings-app.jpg)
 3. Enable Windows' Game Mode feature. This will automatically turn off background processes and apps as you play. You can even [use Windows Game Mode to prove the performance of any app](https://www.makeuseof.com/windows-game-mode-app-performance/), not just games. To do that, go to **Settings > Gaming > Game Mode** and enable it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Enable Game Mode in the Gaming Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/9-enable-game-mode-in-the-gaming-tab-of-the-windows-settings-app.jpg)
 4. [Update your graphics driver](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) to the latest version. Also, [update your copy of Windows](https://www.makeuseof.com/update-windows-manually/) to take care of any minor glitches that might be causing the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Boost the performance of Valorant by setting the **Graphics preference** settings to **High**. This ensures you're [using your preferred graphics card on Windows](https://www.makeuseof.com/windows-10-choose-preferred-gpu/) when running Valorant.  
 ![Set Valorants Graphics Preference to High in the Graphics Settings of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/10-set-valorants-graphics-preference-to-high-in-the-graphics-settings-of-the-windows-settings-app.jpg)
 6. Set Valorant's process priority to high. To do that, open Task Manager, navigate to the **Details** tab, right-click the **Valorant** process, and select **High** from the **Set priority** menu.  
 
 ![Set Valorants Process Priority to High in the Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/11-set-valorants-process-priority-to-high-in-the-windows-task-manager.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Optimize Your Graphics Card Software
 
@@ -117,7 +117,7 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
  Similarly, you can [overclock your GPU](https://www.makeuseof.com/tag/safely-overclock-gpu-gain-fps/) to get the best performance from your hardware. Try overclocking your GPU and see if it improves your FPS. Note, however, that overclocking the GPU can sometimes affect the game's performance negatively. If that happens, revert the change and turn off overclocking again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Keep Your FPS High and Stable in Valorant
@@ -138,14 +138,20 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-streamline-your-vlogs-sound-with-effective-tips/"><u>[New] 2024 Approved Streamline Your Vlog's Sound with Effective Tips</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-pro-skills-screen-capturing-skype-conversations/"><u>[Updated] 2024 Approved Pro Skills Screen Capturing Skype Conversations</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-keyword-optimization-for-higher-youtube-viewership/"><u>[Updated] In 2024, Keyword Optimization for Higher YouTube Viewership</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-samsung-galaxy-a15-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Samsung Galaxy A15 4G | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-halt-the-spontaneous-open-of-search-menu-on-win11/"><u>How To Halt the Spontaneous Open of Search Menu on Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-keep-your-files-intact-weekly-windows-backups/"><u>How to Keep Your Files Intact: Weekly Windows Backups</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-apple-iphone-11-pro-max-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Music from Apple iPhone 11 Pro Max to iPod touch | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-for-cooling-your-pc-during-heavy-games/"><u>Tips for Cooling Your PC During Heavy Games</u></a></li>
-<li><a href="https://windows11.techidaily.com/unearthing-hidden-functions-in-windows-reliability-and-performance-tools/"><u>Unearthing Hidden Functions in Windows' Reliability & Performance Tools</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-conquer-iphone-photography-by-perfecting-motion-capture/"><u>[Updated] Conquer iPhone Photography by Perfecting Motion Capture</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-unopened-sharing-errors-with-geforce-experience/"><u>Correcting Unopened Sharing Errors with GeForce Experience</u></a></li>
+<li><a href="https://driver-download.techidaily.com/direct-link-free-samsung-m2020-printer-drivers-now-available-for-download/"><u>Direct Link: Free Samsung M2020 Printer Drivers Now Available for Download</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/eliminating-oculus-sickness-key-tactics/"><u>Eliminating Oculus Sickness Key Tactics</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/factory-reset-iphone-se-2022-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-nokia-c12-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Nokia C12 Face Lock?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/hand-in-the-wind-understanding-its-types-for-2024/"><u>Hand-In-The-Wind Understanding Its Types for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-12-pro-drfone-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-double-clicking-not-opening-folders-on-windows-1110/"><u>How to Fix Double-Clicking Not Opening Folders on Windows 11/10</u></a></li>
+<li><a href="https://windows11.techidaily.com/key-to-performance-enhancement-with-windows-lav-filters-use/"><u>Key to Performance Enhancement with Window's LAV Filters Use</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-the-malfunction-of-defrag-in-windows-os/"><u>Mending the Malfunction of Defrag in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-error-1-secure-your-minecraft-adventures/"><u>Overcome Error 1: Secure Your Minecraft Adventures</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/prepare-for-success-essential-trends-in-facebook-ads-24-for-2024/"><u>Prepare for Success Essential Trends in Facebook Ads '24 for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/process-of-disabling-laptops-internal-keys-in-os/"><u>Process of Disabling Laptop's Internal Keys in OS</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/protect-personal-information-with-these-iphone-file-wipe-tools/"><u>Protect Personal Information with These iPhone File Wipe Tools</u></a></li>
 </ul></div>
 

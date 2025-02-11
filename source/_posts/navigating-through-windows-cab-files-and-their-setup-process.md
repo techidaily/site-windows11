@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Windows' CAB Files and Their Setup Process
-date: 2025-01-23T22:06:04.404Z
-updated: 2025-01-29T21:33:41.894Z
+date: 2025-02-07T17:10:22.029Z
+updated: 2025-02-11T06:48:23.006Z
 tags:
   - windows10
   - windows11
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f6602
 
  Now that you have a brief understanding of CAB files, let's check out how you can install it on Windows 11\.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Install a CAB File on Windows 11
 
  You can easily install a CAB file on Windows 11 using Command Prompt and Windows PowerShell. In the Command Prompt method, you'll have to use the [DISM command](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/). Whereas, in the PowerShell method, you'll use the Add-WindowsPackage command.
@@ -54,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f6602
 `dism /Online /Add-Package /PackagePath:"CAB location"`  
 ![CMD window with command to install a CAB file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/cmd-window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once the installation is complete, [restart your computer](https://www.makeuseof.com/windows-restart-methods/) to see the changes.
 
  If you want to install a CAB file using Windows PowerShell, follow these instructions:
@@ -63,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f6602
 `Add-WindowsPackage -Online -PackagePath "CAB location"  
 `  
 ![Powershell window with command to install a CAB file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/powershell-window.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  That's it. PowerShell will install the content of the CAB file on your computer.
 
@@ -85,27 +81,31 @@ thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f6602
 6. Click **Browse my computer for drivers**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Browse my computer for drivers in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/browse-my-computer-for-drivers.jpg)
 7. Click **Browse** and navigate to the location where you have extracted the CAB file.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Select the folder that contains the extracted file and click **OK**.  
 ![OK option in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ok-option.jpg)
 9. Click **Next**.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Next option in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/next-option.jpg)
 
- The Device Manager will now install the driver update on your computer.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ The Device Manager will now install the driver update on your computer.
 
 ## CAB Files: Everything You Need to Know
 
@@ -123,20 +123,20 @@ thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f6602
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-dissecting-the-yuneec-typhoon-hs-aerial-capabilities/"><u>[New] Dissecting the Yuneec Typhoon H's Aerial Capabilities</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-leading-workspace-cloud-storage-hub/"><u>[Updated] Leading Workspace Cloud Storage Hub</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-faces-in-picsart-applying-motion-blur-effects/"><u>2024 Approved Mastering Faces in Picsart Applying Motion Blur Effects</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/how-to-increase-ram-in-a-personal-computing-device/"><u>How to Increase RAM in a Personal Computing Device</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-how-to-build-circles-and-spheres-in-minecraft/"><u>In 2024, How to Build Circles and Spheres in Minecraft</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/in-depth-review-evaluating-the-performance-of-western-digital-datalynx-diagnostic-utility/"><u>In-Depth Review: Evaluating the Performance of Western Digital DataLynx Diagnostic Utility</u></a></li>
-<li><a href="https://windows11.techidaily.com/modifying-webcam-activity-alert-settings-for-win11/"><u>Modifying Webcam Activity Alert Settings for Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-through-the-maze-of-windows-security-faults/"><u>Navigating Through the Maze of Windows Security Faults</u></a></li>
-<li><a href="https://windows11.techidaily.com/reawaken-your-computers-usb-a-quick-fix-guide-windows/"><u>Reawaken Your Computer's USB: A Quick Fix Guide, Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedying-java-not-installing-issues-on-windows-systems/"><u>Remedying Java Not Installing Issues on Windows Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-nostalgic-pathway-transform-windows-11-to-98/"><u>The Nostalgic Pathway: Transform Windows 11 to '98</u></a></li>
-<li><a href="https://win11.techidaily.com/transform-your-pc-graphics-with-optimal-vram-settings/"><u>Transform Your PC Graphics with Optimal VRAM Settings</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ultimate-guide-to-directors-success-powerdirector-2024/"><u>Ultimate Guide to Directors' Success - PowerDirector 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/-conversion-wizardry-from-youtube-to-igtv-for-2024/"><u>Video Conversion Wizardry From Youtube to IGTV for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-rebirth-techniques-three-simple-resets/"><u>Windows Rebirth Techniques: Three Simple Resets</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-expert-picks-top-9-video-chat-and-conference-apps-iosandroid/"><u>[Updated] 2024 Approved Expert Picks Top 9 Video Chat & Conference Apps iOS/Android</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-reinstate-lost-video-icon-in-facebook-watch/"><u>[Updated] 2024 Approved Reinstate Lost Video Icon in Facebook Watch</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-virtual-reality-revolution-which-headset-leads-the-charge/"><u>[Updated] 2024 Approved Virtual Reality Revolution Which Headset Leads the Charge?</u></a></li>
+<li><a href="https://windows11.techidaily.com/5-creative-routes-to-activate-windows-utilities/"><u>5 Creative Routes to Activate Windows Utilities</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-guide-to-all-the-windows-photos-keyboard-shortcuts/"><u>A Guide to All the Windows Photos Keyboard Shortcuts</u></a></li>
+<li><a href="https://windows11.techidaily.com/adding-disk-usage-viewers-to-windows-menu-bar/"><u>Adding Disk Usage Viewers to Windows Menu Bar</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-absence-of-ubisoft-launcher-in-windows/"><u>Addressing Absence of Ubisoft Launcher in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/balancing-system-resources-with-microsoft-edge/"><u>Balancing System Resources with Microsoft Edge</u></a></li>
+<li><a href="https://windows11.techidaily.com/classic-expanse-a-win-11-explorer-journey/"><u>Classic Expanse: A Win 11 Explorer Journey</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-winos-gain-control-over-applications-browsing/"><u>Decoding WinOS: Gain Control over Applications, Browsing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/rendering-rivalry-directx-11-vs-directx-12-benefits/"><u>Rendering Rivalry: DirectX 11 Vs. DirectX 12 Benefits</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-4-home-generator-bargains-of-december-2022-insider-picks-from-zdnet/"><u>Top 4 Home Generator Bargains of December 2022 - Insider Picks From ZDNet</u></a></li>
 </ul></div>
 

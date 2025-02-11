@@ -1,7 +1,7 @@
 ---
 title: Essential Steps to Address WinError 0Xc0000005 Instantly
-date: 2025-01-27T23:20:03.016Z
-updated: 2025-01-29T22:57:25.698Z
+date: 2025-02-05T01:16:57.006Z
+updated: 2025-02-11T08:06:20.083Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Deactivate Data Execution Prevention (DEP)
@@ -46,7 +46,7 @@ bcdedit.exe /set {current} nx AlwaysOff
 ![cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/cmd.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In this case, you will first have to[disable the Windows secure boot](https://www.makeuseof.com/tag/disable-secure-uefi-dual-boot/) , and then repeat the above steps again.
@@ -54,7 +54,7 @@ bcdedit.exe /set {current} nx AlwaysOff
  That's it—the DEP will be disabled from here on. Now, give your PC a quick reboot and see if the error 0xc0000005 persists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Check Your App's and PC Version and Compatibility
@@ -79,13 +79,13 @@ Similarly, to check the app's version, follow the steps below:
 ![installed apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/installed-apps.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now check if the app and your operating system are compatible with each other.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Apply Some Generic Fixes for Fixing Errors on Windows
@@ -122,24 +122,19 @@ Let's go over all of them one by one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-choosing-between-obs-studio-and-bandicam-for-screen-capture/"><u>[New] Choosing Between OBS Studio and Bandicam for Screen Capture</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-advanced-tips-for-applying-onscreen-vhs-effects-and-filters/"><u>[New] In 2024, Advanced Tips for Applying Onscreen VHS Effects and Filters</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-io-screen-snapshot-savvy-your-complete-manual/"><u>[New] In 2024, IO Screen Snapshot Savvy Your Complete Manual</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-mapping-instagrams-unfollowers-landscape/"><u>[New] Mapping Instagram's Unfollowers Landscape</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-optimal-method-for-incorporating-linktree-in-tiktok-profiles-for-2024/"><u>[New] Optimal Method for Incorporating Linktree in TikTok Profiles for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-6-ways-to-record-mov-files-on-windows-10-for-2024/"><u>[Updated] 6 Ways to Record .mov Files on Windows 10 for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-audiophiles-ultimate-narrative-guides/"><u>[Updated] Audiophile's Ultimate Narrative Guides</u></a></li>
-<li><a href="https://windows11.techidaily.com/break-the-silence-of-a-disconnected-usb-wi-fi-adapter-on-pcs/"><u>Break the Silence of a Disconnected USB Wi-Fi Adapter on PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/dispatch-dull-drums-resetting-spacebar-audio-feature/"><u>Dispatch Dull Drums: Resetting Spacebar Audio Feature</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-advice-how-to-disable-win-11s-elevation-error-740/"><u>Expert Advice: How to Disable Win 11'S Elevation Error #740</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-tips-on-coexisting-wi-fi-and-ethernet-in-a-single-windows-pc/"><u>Expert Tips on Coexisting Wi-Fi & Ethernet in a Single Windows PC</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-the-impact-of-artificial-intelligence-proficiency-on-wage-levels-across-job-titles-insights-from-zdnet/"><u>Exploring the Impact of Artificial Intelligence Proficiency on Wage Levels Across Job Titles - Insights From ZDNet</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-the-problem-of-unrecognized-drivers-during-windows-startup/"><u>Fixing the Problem of Unrecognized Drivers During Windows Startup</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-motorola-moto-g73-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-task-manager-not-working-in-windows/"><u>How to Fix the Task Manager Not Working in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/outdated-pcs-upgraded-to-modern-windows-11-standards/"><u>Outdated PCs Upgraded to Modern Windows 11 Standards</u></a></li>
-<li><a href="https://windows11.techidaily.com/say-farewell-to-windows-subsys-embracing-alternatives-for-android/"><u>Say Farewell to Windows Subsys: Embracing Alternatives for Android</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-playstation-upgrade-uncovered-explore-features-and-price-of-sonys-latest-release-ps5-pro-all-details-revealed-on-digitalsight/"><u>The Ultimate PlayStation Upgrade Uncovered – Explore Features & Price of Sony's Latest Release, PS5 Pro | All Details Revealed on DigitalSight</u></a></li>
-<li><a href="https://windows11.techidaily.com/transforming-security-change-account-password-for-win-11/"><u>Transforming Security: Change Account Password for Win 11</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-seamless-transitions-the-top-6-mac-apps-to-cut-videos-in-big-sur/"><u>[New] 2024 Approved Seamless Transitions The Top 6 Mac Apps to Cut Videos in Big Sur</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-oppo-a1-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Oppo A1 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-novel-approach-to-combining-data-units-on-windows-11/"><u>A Novel Approach to Combining Data Units on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/advanced-windows-techniques-for-diverse-partition-merging/"><u>Advanced Windows Techniques for Diverse Partition Merging</u></a></li>
+<li><a href="https://windows11.techidaily.com/augmenting-macos-capabilities-via-windows-applications/"><u>Augmenting macOS Capabilities via Windows Applications</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-vscode-shutdown-troubles-in-new-os/"><u>Avoiding VSCode Shutdown Troubles in New OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722971414831-get-your-thrustmaster-t300-driving-experience-installers-for-windows-10-and-11-available-now/"><u>Get Your Thrustmaster T300 Driving Experience: Installers for Windows 10 & 11 Available Now!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-and-open-top-7-laptop-dvd-player-software-options/"><u>In 2024, Free & Open Top 7 Laptop DVD Player Software Options</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-ultimate-love-ballads-ideal-tunes-for-a-heartfelt-proposal/"><u>In 2024, Ultimate Love Ballads Ideal Tunes for a Heartfelt Proposal</u></a></li>
+<li><a href="https://facebook.techidaily.com/meta-flips-the-script-with-trumps-accounts/"><u>Meta Flips the Script with Trump's Accounts</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719303910728-regain-shift-key-functionality-in-windows/"><u>Regain Shift Key Functionality in Windows.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-speakers-a-guide-to-overcoming-conexant-smartaudio-hds-no-sound-dilemma-in-windows-10/"><u>Revive Your Speakers: A Guide to Overcoming Conexant SmartAudio HD's No Sound Dilemma in Windows 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-resolving-issues-with-stuck-media-drives/"><u>Step-by-Step Guide: Resolving Issues with Stuck Media Drives</u></a></li>
+<li><a href="https://win-online.techidaily.com/the-science-of-shopping-exploring-consumer-motivations-with-massmail-software-techniques/"><u>The Science of Shopping: Exploring Consumer Motivations with Massmail Software Techniques</u></a></li>
 </ul></div>
 

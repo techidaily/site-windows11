@@ -1,7 +1,7 @@
 ---
 title: How to Fix Windows Signing You In With a Temporary Profile
-date: 2024-08-15T15:26:52.274Z
-updated: 2024-08-16T15:26:52.274Z
+date: 2025-02-05T01:59:19.523Z
+updated: 2025-02-11T00:46:27.245Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 
  Below, we explore the causes of Windows signing you in with a temporary profile and provide you with a range of practical fixes to resolve this issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Is Windows Signing You In With a Temporary Profile?
 
 If Windows signs you in with a temporary profile, it typically indicates an issue with your user profile. Here are some common reasons for encountering this problem:
@@ -32,9 +36,6 @@ If Windows signs you in with a temporary profile, it typically indicates an issu
 
  Now that you're aware of the common causes, let's explore troubleshooting methods that can help resolve this issue, regardless of its source.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Apply a Registry Fix
 
  The Registry Editor in Windows stores various settings and configurations for user profiles. If the registry entries related to your profile become corrupted or altered, the User Profile Service (which is responsible for loading user profiles and settings during the login process) may fail to load your profile as intended.
@@ -53,10 +54,11 @@ If Windows signs you in with a temporary profile, it typically indicates an issu
 4. Now, type the following command in the Command Prompt and click **Enter**.  
 whoami/user  
 ![Check the SID key in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/sid-key-cmd.jpg)
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. You should now have a Security Identifier (SID) for your current account. Copy this somewhere safe.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now, open Run again. Once it's open:
 
@@ -69,10 +71,12 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WindowsNT\CurrentVersion\ProfileList
 
 1. Replace the Value data with the user path of your current profile. You can check it in the File Explorer.  
 ![Modify the ProfileLists key in the Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/sid-key-registry.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 2. Click **OK** to save the changes. In the same window, also ensure that the State data has a DWORD value of 0\.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. In case the SID key has a .bak at the end, right-click on the key and choose **Rename** from the context menu.
 4. Remove .bak from the end and follow the steps 10-12 mentioned above for this key.
 5. In case your Registry Editor has two keys (one with .bak and one without it), delete the one without .bak and follow steps 13-14 for the key with .bak.
@@ -80,8 +84,9 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WindowsNT\CurrentVersion\ProfileList
  Finally, close the Registry Editor and restart your computer. Hopefully, upon restarting, you will be logged in with your targeted user profile successfully.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Fix Any Corruption in Your User Account
 
  If the Registry Editor fix did not help, then the next thing you should try is fixing any issues within the user account that might be contributing to the problem.
@@ -94,9 +99,6 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WindowsNT\CurrentVersion\ProfileList
 * **Perform a system restore**: Did the issue start occurring after making a certain change to the system? If so, you can [use the System Restore utility](https://www.makeuseof.com/tag/system-restore-factory-reset-work-windows-10/) to revert the system to an earlier state where the problem was not present.
 
 ![The System Restore tool](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-system-restore-tool.jpg)
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 
 ## 3\. Create a New User Account Temporarily
 
@@ -105,15 +107,14 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WindowsNT\CurrentVersion\ProfileList
  Keep in mind that this process may take some time. In the meantime, consider [creating a new user account in Windows](https://www.makeuseof.com/windows-11-create-local-user-account/) to ensure your work is not disrupted.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Regain Access to Your Windows User Account
 
  Not being able to access your main account and dealing with a temporary user profile can be frustrating. Hopefully, the solutions we have listed above in this guide will help you fix the issue once and for all. Once you've regained access to your user account, it's a good practice to keep regular backups of your important data and settings to prevent any future inconveniences.
 
  Below, we explore the causes of Windows signing you in with a temporary profile and provide you with a range of practical fixes to resolve this issue.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -122,5 +123,19 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WindowsNT\CurrentVersion\ProfileList
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-diving-into-action-how-to-shoot-impressive-underwater-gopro-videos/"><u>[New] Diving Into Action How to Shoot Impressive Underwater GoPro Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-learn-how-to-change-number-on-tiktok-with-working-methods/"><u>[New] Learn How to Change Number on TikTok with Working Methods</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-step-into-the-spotlight-on-instagram-with-these-tricks-for-2024/"><u>[New] Step Into the Spotlight on Instagram with These Tricks for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/bring-forth-hidden-5ghz-lans-in-windows-11-fixes-outlined/"><u>Bring Forth Hidden 5GHz LANs in Windows 11 - Fixes Outlined</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypass-faulty-function-keys-windows-10-fix-guide/"><u>Bypass Faulty Function Keys: Windows 10 Fix Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-decision-making-with-microsofts-ai-hub/"><u>Efficient Decision-Making with Microsoft's AI Hub</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-oppo-find-n3-flip-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Oppo Find N3 Flip Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-into-safety-with-windows-canary-channel-feature/"><u>Step Into Safety with Windows' Canary Channel Feature</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-fix-for-the-fatal-system-error-bsod-code-0x00000133-in-windows-10-systems/"><u>Step-by-Step Fix for the Fatal System Error (BSoD) Code 0X00000133 in Windows 10 Systems</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/uture-of-youtube-branding-top-titles-for-video-content-creators-limited-to-156-characters/"><u>The Future of Youtube Branding Top Titles for Video Content Creators (Limited to 156 Characters)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unlocking-creative-potential-using-google-trends-insights-for-2024/"><u>Unlocking Creative Potential Using Google Trends Insights for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-over-windows-missing-files-issue/"><u>Winning Over Windows' Missing Files Issue</u></a></li>
+</ul></div>
 

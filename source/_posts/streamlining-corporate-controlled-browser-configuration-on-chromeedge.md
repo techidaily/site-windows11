@@ -1,7 +1,7 @@
 ---
 title: Streamlining Corporate Controlled Browser Configuration on Chrome/Edge
-date: 2025-01-27T16:32:15.817Z
-updated: 2025-01-29T19:48:49.813Z
+date: 2025-02-07T18:47:31.447Z
+updated: 2025-02-11T00:17:00.584Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Causes the "Your Browser is Managed By Your Organization" Error?
 
  If you use a work computer, this message indicates that your organization controls some settings and behavior of the Edge or Chrome browser. You can ignore the message if you are using a work computer and contact your IT admin to verify the cause.
@@ -40,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
  Another reason is custom browser policies in Registry Editor. If you have made any modifications to the Windows Registry to add or remove a Chrome or Edge feature, a Chromium browser will reflect the changes with the "your browser is managed by your organization" message.
 
  To remove the message, first, verify if your antivirus is responsible for the message. If not, search and remove malicious extensions, programs, and policies hijacking your Chrome or Edge browser.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Check Your Antivirus Settings
 
@@ -71,16 +63,16 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 ![delete chrome policy registry editor 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/delete-chrome-policy-registry-editor-1.jpg)
 5. If there are no Chrome or Edge policies in the**Policies** key, navigate to the following location:  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\`
 6. Next, if you use**Chrome** , navigate to**\\Google\\Chrome** and delete any policy values in the right pane.  
 ![delete chrome policy registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/delete-chrome-policy-registry-editor.jpg)
 7. For**Edge** , navigate to**\\Microsoft\\MicrosoftEdge** . In the right pane, check for any suspicious policies. If it exists, right-click on the policy and select**Delete** .
 
 8. Close Registry Editor and restart your computer to see if the message is removed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Remove All the Group Policies for the Users Using Command Prompt
 
@@ -117,18 +109,22 @@ To reset Microsoft Edge:
 
 ![Reset Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/reset-edge-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Click the**three-dots menu** and select**Settings** .
 2. Open the**Reset settings** tab in the left pane, and click on**Restore settings to their default values** .
 3. Click**Reset** to confirm the action.
 4. You’ll need to enable your extensions after the reset is complete.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Run MalwareBytes AdwCleaner
 
 ![malwarebytes adwcleaner windows](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/malwarebytes-adwcleaner-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Malwarebytes AdwCleaner is a free adware scanning and cleaning utility for Windows. Use the tool to scan your computer for PUP and other malware and remove them with a click.
 
@@ -140,9 +136,17 @@ To remove adware using MalwareBytes:
 4. Next, it will show the pre-installed apps. You can leave them unchecked and click**Quarantine** . This should remove any and all adware on your computer.
 5. Close the app and relaunch your browser to check for any improvements.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Perform a Windows Reset
 
 ![factory reset Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/factory-reset-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you cannot find the affected policy or can’t remove the malware, you’ll need to perform a reset to remove the message and the malicious program.
 
@@ -156,10 +160,6 @@ To perform a Windows system reset:
 4. Next, choose**Keep my Files** to perform a reset without removing your personal files. This will, however, remove apps and settings.
 5. Next, select**Cloud Download** . This option requires an active Internet connection to download and reinstall the latest version of Windows operating system. If not, select**Local** **Reinstall** .
 6. Wait for the reset to complete, and your PC will restart. After the restart, you’ll need to reinstall the browser and other apps to get started.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Remove the "Your Browser is Managed By Your Organization" Message on Windows
 
@@ -180,18 +180,21 @@ To perform a Windows system reset:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-digital-artists-10-favorite-background-switchers/"><u>[Updated] In 2024, Digital Artists' 10 Favorite Background Switchers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-vanguard-20-top-anime-song-starters/"><u>2024 Approved Vanguard 20 Top Anime Song Starters</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95893388-9780917849633-encouraging-words/"><u>Encouraging Words . . . | Free Book</u></a></li>
-<li><a href="https://windows11.techidaily.com/fine-tune-your-pointers-response-time-and-visibility-on-windows-11/"><u>Fine-Tune Your Pointer's Response Time and Visibility on Windows 11</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-a25-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy A25 5G Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-rhythmic-revelations-adding-audio-to-your-vimeo-videos/"><u>In 2024, Rhythmic Revelations Adding Audio to Your Vimeo Videos</u></a></li>
-<li><a href="https://windows11.techidaily.com/invisible-exit-command-secreting-windows-11-power-off/"><u>Invisible Exit Command: Secreting Windows 11 Power Off</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-the-ipvanish-vpn-landscape-an-in-depth-review-by-zdnet-reveals-rich-functionality-options/"><u>Navigating the IPVanish VPN Landscape: An In-Depth Review by ZDNet Reveals Rich Functionality Options</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-defenders-barrier-on-third-party-av-software/"><u>Overcoming Defender's Barrier on Third-Party AV Software</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/er-youtube-standards-for-all-viewers-for-2024/"><u>Premier YouTube Standards for All Viewers for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/transition-to-new-background-in-winterminal/"><u>Transition to New Background in WinTerminal</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-the-win32-exception-error-code-0xc0000098-in-windows/"><u>Troubleshooting Guide: Resolving the Win32 Exception Error (Code 0xC0000098) in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-windows-wonders-creating-and-interpreting-reports/"><u>Unveiling Windows Wonders: Creating & Interpreting Reports</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-altering-images-a-photographers-toolkit/"><u>[New] Altering Images A Photographer's Toolkit</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-mastering-the-cutting-room-floor-youtube-studios-editor-guide/"><u>[New] In 2024, Mastering the Cutting Room Floor YouTube Studio's Editor Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-crafting-stellar-video-beginnings-with-free-tools-for-2024/"><u>[Updated] Crafting Stellar Video Beginnings with Free Tools for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-next-level-creativity-celebrating-top-6-nft-innovators/"><u>[Updated] Next-Level Creativity Celebrating Top 6 NFT Innovators</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-closer-look-at-windows-11s-backup-processing-methods/"><u>A Closer Look at Windows 11'S Backup Processing Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-visual-journey-to-custom-window-design-with-winbubbles-insights/"><u>A Visual Journey to Custom Window Design with WinBubble's Insights</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-failure-of-services-on-windows-with-error-1053-fixes/"><u>Avoiding Failure of Services on Windows with Error 1053 Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/boost-efficiency-on-pc-best-apps-for-personalized-time-themed-screen-saver-creation/"><u>Boost Efficiency on PC: Best Apps for Personalized Time-Themed Screen Saver Creation</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-browsing-security-enhanced-graphics-on-edge/"><u>Boosting Browsing Security: Enhanced Graphics on Edge</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-microsofts-restrictive-security-measures/"><u>Bypassing Microsoft’s Restrictive Security Measures</u></a></li>
+<li><a href="https://windows11.techidaily.com/customize-windows-layout-fancywm-power-up/"><u>Customize Windows Layout: FancyWM Power Up</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-vivo-v29-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Vivo V29.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-rectify-absentee-bluetooth-in-manager/"><u>Methods to Rectify Absentee Bluetooth in Manager</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-device-usage-restrictions-on-hdmi-channels-when-shared-between-apps/"><u>Overcoming Device Usage Restrictions on HDMI Channels When Shared Between Apps</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-honor-magic-6-pro-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Honor Magic 6 Pro Phone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-secrets-of-effective-web-content-a-comprehensive-guide/"><u>Unveiling the Secrets of Effective Web Content: A Comprehensive Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Tailored Commands for Keyboard in WinOS
-date: 2024-08-15T15:27:16.923Z
-updated: 2024-08-16T15:27:16.923Z
+date: 2025-02-05T19:42:27.934Z
+updated: 2025-02-11T03:46:42.697Z
 tags:
   - windows10
   - windows11
@@ -25,8 +25,9 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
  Did you know that you can set a keyboard shortcut for just about any program in Windows? When you want to open a specific program in a hurry, all you need to do is quickly press a few keys and you’re in. Here’s how.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. How to Assign a Keyboard Shortcut to a Shortcut Link on Your Desktop
 
  One of the best ways to [improve your productivity](https://www.makeuseof.com/how-to-improve-productivity-mini-habits/) is to navigate using as few clicks and keystrokes as possible. One way to do that is by setting up keyboard shortcuts. If you’re interested, check out our [ultimate guide to Windows keyboard shortcuts](https://www.makeuseof.com/tag/windows-shortcuts-101-ultimate-keyboard-shortcut-guide/).
@@ -37,8 +38,9 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 2. Under the **Shortcut** tab, in the **Shortcut key** field, simply type the shortcut you want to assign to the program and click the OK button.
 
 ![Add a keyboard shortcut via the desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/01-add-keyboard-shortcut-desktop.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Windows shortcuts must take the form:
@@ -57,11 +59,6 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 2. Find the item to which you want to assign a keyboard shortcut.
 3. Right-click it and go to **More > Open file location**.  
 ![Setting up a keyboard shortcut via the Start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/02-start-menu-keyboard-shortcut.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 4. Right-click on the shortcut and select **Properties**.
 5. In the **Shortcut key** field, type in the keyboard shortcut you want to have assigned to the program.
 
@@ -72,15 +69,19 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 1. Right-click on an item appearing on the Taskbar.
 2. Right-click on the program and click on **Properties**.  
 ![Setting up a keyboard shortcut via the Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/03-taskbar-keyboard-shortcut.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 3. Add a keyboard shortcut to the **Shortcut key** field.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. How to Remove Previously Assigned Keyboard Shortcuts
 
  To remove a keyboard shortcut, navigate to the program shortcut’s properties and delete the entry in the **Shortcut key** field. This should reset it to **None** and remove the associated keyboard shortcut.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. How to Add a Keyboard Shortcut to Literally Any Program in Windows, Using Microsoft PowerToys
 
@@ -102,17 +103,16 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 1. Under **Shortcut**, click on the button with the pen icon. Then press the shortcut key combo you want to set.  
 ![Simple way to creating keyboard shortcuts - PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/06-set-up-keyboard-shortcut.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 2. Under **Action**, click on the drop-down and select **Run Program**.  
 ![Microsoft PowerToys keyboard shortcut setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/07-powertoys-shortcut-action.jpg)
 3. Under **App**, either enter the path of the program you want to add to this shortcut, or click the **Select program** button to browse and select an application.  
 ![PowerToys shortcut program path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/08-powertoys-shortcut-program-path.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 4. If you leave the **Start in** field blank, the shortcut will work throughout the Windows environment. If you select a path here, the shortcut will only work when you are in that environment or program.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. The **If running** field tells Windows how to handle the command if the program is already open and running. You can set this to one of several options: show the open window; open another instance of the program (if possible); close the program; do nothing; or end the entire program task.
 
  To remove a shortcut set up using PowerToys, simply open the utility, navigate to **Keyboard Manager**, select **Remap a shortcut**, and click on the delete button to the right of the specific shortcut you wish to remove.
@@ -121,8 +121,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  Did you know that you can set a keyboard shortcut for just about any program in Windows? When you want to open a specific program in a hurry, all you need to do is quickly press a few keys and you’re in. Here’s how.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -130,5 +128,26 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-rectifying-half-volume-issues-on-fb-media/"><u>[Updated] Rectifying Half-Volume Issues on Fb Media</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/100plus-essential-spanish-travel-lexicon-for-unforgettable-journeys/"><u>100+ Essential Spanish Travel Lexicon for Unforgettable Journeys</u></a></li>
+<li><a href="https://windows11.techidaily.com/beat-the-blank-screen-blues-faster-input-in-windows-11/"><u>Beat the Blank Screen Blues: Faster Input in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/breaking-down-barriers-to-maximize-windows-ram/"><u>Breaking Down Barriers to Maximize Windows' RAM</u></a></li>
+<li><a href="https://windows11.techidaily.com/brighten-control-navigating-windows-11-display-settings/"><u>Brighten Control: Navigating Windows 11 Display Settings</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/easy-tutorial-converting-your-videos-to-square-format-on-microsofts-latest-operating-systems/"><u>Easy Tutorial: Converting Your Videos to Square Format on Microsoft's Latest Operating Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabling-chromiums-firewall-connection-within-windows-safeguards/"><u>Enabling Chromium's Firewall Connection Within Windows Safeguards</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-infinix-smart-8-hd-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Infinix Smart 8 HD Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-smooth-vibes-the-ultimate-list-of-serene-country-tracks-to-groove-to-tiktok/"><u>In 2024, Smooth Vibes The Ultimate List of Serene Country Tracks to Groove To (TikTok)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes From iPhone 6s Plus?</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-powershell-script-execution-policy-landscape/"><u>Navigating the PowerShell Script Execution Policy Landscape</u></a></li>
+<li><a href="https://windows11.techidaily.com/no-more-frustration-quick-fixes-for-windows-11-woes/"><u>No More Frustration! Quick Fixes for Windows 11 Woes</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-find-n3-flip-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Find N3 Flip Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-how-to-find-and-update-intel-optane-device-drivers-for-windows-systems/"><u>Step-by-Step Guide: How to Find and Update Intel Optane Device Drivers for Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-reclaiming-standard-windows-11-search-preferences/"><u>Step-by-Step: Reclaiming Standard Windows 11 Search Preferences</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-restore-fn-key-brighness-in-windows-11/"><u>Steps to Restore Fn Key Brighness in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-top-9-truths-about-why-pc-computers-win-over-macos-9/"><u>The Top 9 Truths About Why PC Computers Win over MacOS (#9)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-list-of-8-youtube-mistakes-to-evade-for-2024/"><u>The Ultimate List of 8 Youtube Mistakes to Evade for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-gadgets-insights-from-toms-electronics-hub/"><u>Unveiling the Latest Gadgets: Insights From Tom's Electronics Hub</u></a></li>
+</ul></div>
 

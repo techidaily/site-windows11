@@ -1,7 +1,7 @@
 ---
 title: Navigating to Protected WindowsApps Directory
-date: 2025-01-28T01:01:41.159Z
-updated: 2025-01-29T22:47:57.747Z
+date: 2025-02-04T18:07:47.456Z
+updated: 2025-02-10T18:49:49.439Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
 
 ![WindowsApps Hidden Folder In Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/WindowsApps-Hidden-Folder.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Even if you uninstall or debloat some of the apps on Windows, the core application files are not removed from the WindowsApps folder. So, there are chances that such apps will reappear after a new Windows update.
 
  This is why we recommend using one of the [popular software uninstallers for Windows](http://www.makeuseof.com/windows-11-uninstallers-stubborn-apps/). Because these tools not only uninstall an app completely but also clean up any leftovers and traces from all the secured folders.
@@ -40,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
  If you don't know what you're doing—modifying or deleting the files in the WindowsApps folder could cause system errors or even cause the Windows operating system to crash.
 
  There are many ways to access the WindowsApps folder and bypass the protection to gain access to the necessary files.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 1\. How to Access WindowsApps via File Explorer
 
@@ -55,16 +55,16 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
 ![Program Files Directory In Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Program-Files-Directory-In-Explorer.jpg)
 2. Now, click the **View** options button at the top of the File Explorer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click or hover over the **Show** button and select the **Hidden items** option to enable it.  
 ![File Explorer View Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/file-explorer-view-options.jpg)
 
  That's it. Now, you can see theWindowsApps folder in the same directory.
 
  If you try to open it, you'll see an information popup saying, "You have been denied permission." So, to actually access that folder and gain exclusive read and write rights—you've got to do a bit more.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Change Ownership Properties to Get Access
 
@@ -77,16 +77,16 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
 ![WindowsApps Properties Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/WindowsApps-Properties-Option.jpg)
 3. Now, under the **Properties** window. Click the **Security** tab and then the **Advanced** option locatedright at the bottom.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![WindowsApps Security Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/WindowsApps-Security-Properties.jpg)
 4. Once you've opened the Advanced Security Settings window, click the **Change** text next to Owner.
 
 5. Now, click **Advanced > Find Now > Administrator on the following screen**.  
 ![Advanced Security Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/advanced-security-properties.jpg)
 6. Finally, click **OK** to select the Administrator as the owner and again **OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![User Group Selection Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/User-Group-Selection-Window.jpg)
 7. Then, tick the checkbox before the **Replace owner on sub containers and objects** text.
@@ -95,6 +95,10 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
 ![WindowsApps Advanced Security Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/WindowsApps-Advanced-Security-Settings.jpg)
 9. Once done, click the **OK** button on the next pop-up.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you followed the steps above to take ownership of the WindowsApps folder, you can now move or delete files from that folder.
 
  When you don't pause automatic software installations from the Microsoft store, the WindowsApps folder occupies a considerable bit of disc space. So, it becomes essential for you to access this folder once and check for the files that you no longer need.
@@ -102,7 +106,7 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
  Moreover, you can also check out some [free tools for taking control of files and folders](https://www.makeuseof.com/take-ownership-of-windows-files-and-folders-with-these-tools/) on Windows. Such tools allow you to take full ownership of all your files and folders with a single click.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2\. How to Access WindowsApps via a PowerShell Command
@@ -118,7 +122,7 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
 ![PowerShell In Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/PowerShell-In-Windows-Search.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4\. In Powershell, run the following command and press the Enter key:
@@ -143,10 +147,6 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
 2. Extract the zip and open the **Add Take Ownership to Context menu** registry file.  
 ![Take Ownership Registry File In Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Take-Ownership-Registry-File.jpg)
 3. On the next screen, click **Yes** to add it to the registry.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Next, exit the popup by clicking **OK** and navigate to the **C:\\Program Files** directory.
 5. Select the **WindowsApps** folder and right-click on it.
@@ -176,18 +176,24 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-discover-the-creme-de-la-creme-of-mac-snipers-for-2024/"><u>[Updated] Discover the Crème De La Crème of Mac Snipers for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoiding-the-pitfalls-of-low-end-activation-codes-in-windows/"><u>Avoiding the Pitfalls of Low-End Activation Codes in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/customize-win11-uis-image-summaries/"><u>Customize Win11 UI's Image Summaries</u></a></li>
-<li><a href="https://windows11.techidaily.com/detailed-process-of-downloading-and-setting-up-windows-11-arm-iso/"><u>Detailed Process of Downloading and Setting up Windows 11 ARM ISO</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-ultimate-work-travel-companion-the-leading-alternative-to-microsoft-and-lenovos-tablets-featured-on-zdnet/"><u>Discover the Ultimate Work Travel Companion: The Leading Alternative to Microsoft and Lenovo's Tablets, Featured on ZDNet</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedying-permission-problems-during-windows-1011-installer-errors/"><u>Remedying Permission Problems During Windows 10/11 Installer Errors</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/sifting-the-real-from-the-virtual-confirming-reliability-of-chatgpt-and-ai-generated-health-tips/"><u>Sifting the Real From the Virtual: Confirming Reliability of ChatGPT and AI-Generated Health Tips</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-7-phone-number-locators-to-track-apple-iphone-14-plus-location-drfone-by-drfone-virtual-ios/"><u>Top 7 Phone Number Locators To Track Apple iPhone 14 Plus Location | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-jabra-earbuds-a-comprehensive-fix-it-guide/"><u>Troubleshooting Your Jabra Earbuds: A Comprehensive Fix-It Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-guide-to-lgs-stunning-65-4k-oled-c9-smart-tv-a-must-have-for-home-theater-buffs/"><u>Ultimate Guide to LG's Stunning 65 4K OLED C9 Smart TV - A Must-Have for Home Theater Buffs!</u></a></li>
-<li><a href="https://windows11.techidaily.com/unleashing-full-gpu-potential-in-windows-10-and-11-via-vram/"><u>Unleashing Full GPU Potential in Windows 10 & 11 via VRAM</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-top-vlog-editing-tools-for-popular-platforms-free-and-paid-options/"><u>Updated In 2024, Top Vlog Editing Tools for Popular Platforms Free and Paid Options</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-desk-icons-clashing-find-harmony/"><u>Windows Desk Icons Clashing - Find Harmony!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-start-making-movies-8-best-film-cameras-under-300/"><u>[New] Start Making Movies 8 Best Film Cameras Under $300</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-pioneers-guide-to-vr-terminology/"><u>[Updated] In 2024, The Pioneer's Guide to VR Terminology</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-optimal-drone-options-for-gopro-hd-imaging/"><u>2024 Approved Optimal Drone Options for GoPro HD Imaging</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-must-know-factors-for-buying-your-ideal-windows-computer/"><u>7 Must-Know Factors for Buying Your Ideal WIndows Computer</u></a></li>
+<li><a href="https://windows11.techidaily.com/achieving-a-crystal-clarity-on-your-windows-taskbar/"><u>Achieving a Crystal Clarity on Your Windows Taskbar</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advanced-zoom-practices-for-chromebook-users/"><u>Advanced Zoom Practices for Chromebook Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoid-disruption-fix-windows-gaming-woe-errors/"><u>Avoid Disruption, Fix Windows' Gaming WoE Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoidance-of-expiring-notification-in-windows-11-devices/"><u>Avoidance of ‘Expiring’ Notification in Windows 11 Devices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/beyond-boundaries-revisited-assessing-current-realm-future-challenges/"><u>Beyond Boundaries Revisited Assessing Current Realm, Future Challenges</u></a></li>
+<li><a href="https://windows11.techidaily.com/breaking-the-cycle-of-unresponsive-photoshop-on-windows/"><u>Breaking the Cycle of Unresponsive Photoshop on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/complete-approach-to-deleting-the-wsl-subsystem/"><u>Complete Approach to Deleting the WSL Subsystem</u></a></li>
+<li><a href="https://windows11.techidaily.com/customize-for-clarity-windows-terminal-as-main-app/"><u>Customize for Clarity: Windows Terminal As Main App</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210381448-9780760370964-dark-goddess-magick/"><u>Dark Goddess Magick | Free Book</u></a></li>
+<li><a href="https://windows11.techidaily.com/decreasing-visual-noise-windows-11-tab-control/"><u>Decreasing Visual Noise: Windows 11 Tab Control</u></a></li>
+<li><a href="https://windows11.techidaily.com/delving-into-individual-user-settings-on-group-policy-level/"><u>Delving Into Individual User Settings on Group Policy Level</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-tips-for-fixing-unresponsive-computers-and-restoring-power/"><u>Essential Tips for Fixing Unresponsive Computers and Restoring Power</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-realme-note-50-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Realme Note 50 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solution-strategies-for-correcting-the-video-memory-management-bsod-error-on-your-pc/"><u>Solution Strategies for Correcting the 'Video Memory Management' BSOD Error on Your PC</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-on-iphone-6-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock On iPhone 6 You Should Try Out</u></a></li>
 </ul></div>
 

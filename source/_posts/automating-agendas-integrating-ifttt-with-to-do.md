@@ -1,7 +1,7 @@
 ---
 title: "Automating Agendas: Integrating IFTTT with To-Do"
-date: 2024-08-15T15:28:36.405Z
-updated: 2024-08-16T15:28:36.405Z
+date: 2025-02-08T17:11:52.523Z
+updated: 2025-02-11T06:30:31.402Z
 tags:
   - windows10
   - windows11
@@ -38,8 +38,18 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 2. Click **Add** to the right of the **If This** banner.  
 ![If This Then That IFTTT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/if-this-then-that-ifttt.jpg)
 3. Type "Google Calendar" in the search bar and click the **Google Calendar** banner once it appears.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Applet creation page IFTTT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/applet-creation-page-ifttt.jpg)
 4. From the list of triggers, select **New event added**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Trigger list in IFTTT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/trigger-list-in-ifttt-1.jpg)
 5. If prompted, click **Connect** and follow the onscreen prompt to link your IFTTT account to your Google account.  
 ![Connection page IFTTT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/connection-page-ifttt.jpg)
@@ -56,16 +66,31 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 1. The **Task body** field contains the ingredients included in the created task; this is the task description. The ingredients are highlighted in gray. You can leave this as default or remove what you don't want to include in your task details.  
 ![Task body IFTTT To Do Action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/task-body-ifttt-to-do-action.jpg)
 2. Click **Create action**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![IFTTT action final level scroll](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ifttt-action-final-level-scroll.jpg)
 3. Next, click the cross icon (**+**) below the **Then** banner.  
 ![Applet creation for to do ifttt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/applet-creation-for-to-do-ifttt.jpg)
 4. Type **Gmail** in the search bar. Click **Gmail** from the result.  
 ![Gmail search in IFTTT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/gmail-search-in-ifttt.jpg)
 5. Select **Send an email**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Trigger list for Gmail IFTTT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/trigger-list-for-gmail-ifttt.jpg)
 6. Type the email addresses of the people you want to notify in the **To address** field. If tagging more than one email address, separate each with a comma. To tag more people, type their email addresses in the **CC** address and **BCC** address fields as required. These serve the [purpose of CC and BCC in regular emails](https://www.makeuseof.com/what-cc-bcc-mean-email/).  
 ![More action IFTTT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/more-action-ifttt.jpg)
 7. Leave the other fields as they are. Then scroll down and click **Create** **action**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Click **Continue.**
 9. Finally, click **Finish** to activate your Applet.  
 ![Applet creation menu final](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/applet-creation-menu-final.jpg)
@@ -80,15 +105,14 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 
 1. Go to **Create** at the top-right and click the **If This** banner.  
 ![If This Then That IFTTT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/if-this-then-that-ifttt.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 2. Type "Asana" in the search box and click **Asana**.  
 ![Asana search result IFTTT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/asana-search-result-ifttt.jpg)
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click **New task assigned to you in a project**. Click **Connect** if prompted and follow the onscreen instructions to link IFTTT with Asana.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Asana triggers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/asana-triggers.jpg)
 4. Select your Asana account and organization's workspace. Specify the project you want to track by pasting its URL in the **Project name or URL** box.
 5. Click **Create trigger**.  
@@ -98,28 +122,37 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 ![IFTTT Applet creation Page for To Do](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ifttt-applet-creation-page-for-to-do.jpg)
 2. Type "Microsoft" in the search box and select **Microsoft To Do** when it appears.  
 ![To Do in IFTTT search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/to-do-in-ifttt-search-result.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 3. Click **Create task in task list**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![IFTTT action page for To Do](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ifttt-action-page-for-to-do.jpg)
 4. Select the target Microsoft to Do task list from the **Which task list?** dropdown.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![IFTTT action creation page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ifttt-action-creation-page.jpg)
 5. Scroll down and click **Create action**.  
 ![IFTTT action creation page for To Do](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ifttt-action-creation-page-for-to-do.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Click **Continue.**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Applet creation on IFTTT final steps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/applet-creation-on-ifttt-final-steps.jpg)
 7. Finally, click **Finish** to deploy your Applet.  
 ![Asana and Microsoft To Do Applet final step](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/asana-and-microsoft-to-do-applet-final-step.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once deployed, your Applet will execute the Asana-Microsoft To Do workflow accordingly. This can be a helpful [Asana hack to boost your productivity](http://www.makeuseof.com/asana-hacks-to-know/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Automate Task Completion Using IFTTT
 
@@ -131,33 +164,18 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 2. Next, type "To Do" in the search bar and select **Microsoft To Do** when you see it.
 3. On the following page, click the **Task in list completed** trigger.  
 ![Microsoft To Do IFTTT trigger list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/microsoft-to-do-ifttt-trigger-list.jpg)
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Ensure you set the **Which task list?** dropdown to the task list used when automating task creation in the previous sections. For instance, if you're automating new task creation on "Example task," select this same task for the Trigger.  
 ![IFTTT trigger creation page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ifttt-trigger-creation-page.jpg)
 5. Click the **Then That** banner and type "Gmail"in the search bar. Select **Gmail** when seen.  
 ![Service selection page for action IFTTT-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/service-selection-page-for-action-ifttt-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 6. Click **Send an email**. Next, fill in the email address fields on the following page accordingly, separating the email addresses by a comma.  
  Depending on your workflow, these could also be the emails you notified when creating the task.
 7. Leave the other fields as they are. Then click **Create action**.  
 ![Task creation page in IFTTT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/task-creation-page-in-ifttt.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 8. Click **Continue**.  
 ![Applet creation page on IFTTT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/applet-creation-page-on-ifttt.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 9. Finally, click **Finish** to activate your Microsoft To Do task completion Applet.  
 ![IFTTT trigger creation page To Do task completion sample](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ifttt-trigger-creation-page-to-do-task-completion-sample.jpg)
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Whenever you complete the specified task in Microsoft To Do, your IFTTT Applet will send an email notification to the listed addresses that you've completed it.
 
@@ -169,8 +187,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  Ready to stop your daily manual rinse and repeat on Microsoft To Do? Here's how to go about it.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -178,5 +194,26 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-vlc-guide-setting-up-screen-recordings-for-2024/"><u>[New] VLC Guide Setting Up Screen Recordings for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-break-through-the-crowd-key-youtube-seo-strategies-to-rank-high/"><u>[Updated] Break Through the Crowd Key YouTube SEO Strategies to Rank High</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-seamless-video-communication-in-whatsapp-web-for-laptops-and-desktops/"><u>[Updated] Seamless Video Communication in WhatsApp Web for Laptops and Desktops</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-xiaomi-redmi-13c-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-calendar-revolution-customizing-your-scheduling-tool-on-windows-pc/"><u>A Calendar Revolution: Customizing Your Scheduling Tool on Windows PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/banishing-0x800700e9-glitches-in-xbox-game-pass-on-windows-11-devices/"><u>Banishing 0X800700E9 Glitches in Xbox Game Pass on Windows 11 Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/browser-bugs-and-breakages-fixing-website-issues-on-your-windows-pc/"><u>Browser Bugs & Breakages: Fixing Website Issues on Your Window's PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/curb-high-gpu-demand-with-proven-fixes-for-wm-on-windows/"><u>Curb High GPU Demand with Proven Fixes for WM on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/disabling-memory-write-error-windows-fixes/"><u>Disabling 'Memory Write' Error: Windows Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/easing-through-policy-restrictions-in-admin-blocked-installations/"><u>Easing Through Policy Restrictions in Admin-Blocked Installations</u></a></li>
+<li><a href="https://windows11.techidaily.com/get-immediate-access-to-assistive-features-in-windows/"><u>Get Immediate Access to Assistive Features in Windows</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-satire-skills-video-comedy-mastery-tips/"><u>In 2024, Satire Skills Video Comedy Mastery Tips</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-your-experience-best-practices-for-reading-qr-codes-in-windows/"><u>Optimizing Your Experience: Best Practices for Reading QR Codes in Windows</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/soluciones-expertas-guia-paso-a-paso-para-empezar-a-ver-videos-mp4-en-windows-10-8-y-7/"><u>Soluciones Expertas: Guía Paso a Paso Para Empezar a Ver Videos .MP4 en Windows 10, 8 Y 7</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-starting-up-mspaint-windows-11-edition/"><u>Step-by-Step Guide: Starting up MSPaint, Windows 11 Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-your-windows-11-reboot-cycle/"><u>Streamlining Your Windows 11 Reboot Cycle</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-paradox-of-the-microsoft-surface-go-unpacking-its-attractive-price-tag-and-perplexing-role-conflict/"><u>The Paradox of the Microsoft Surface Go: Unpacking Its Attractive Price Tag and Perplexing Role Conflict.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/windows-11-acceleration-techniques-how-to-diagnose-and-overcome-slowdown-issues/"><u>Windows 11 Acceleration Techniques: How to Diagnose and Overcome Slowdown Issues</u></a></li>
+</ul></div>
 

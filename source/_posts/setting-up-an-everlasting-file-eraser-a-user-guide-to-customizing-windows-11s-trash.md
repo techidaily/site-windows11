@@ -1,7 +1,7 @@
 ---
 title: "Setting up an Everlasting File Eraser: A User Guide to Customizing Windows 11'S Trash"
-date: 2025-01-26T19:54:41.560Z
-updated: 2025-01-30T01:36:30.606Z
+date: 2025-02-05T03:52:07.686Z
+updated: 2025-02-11T07:40:02.268Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Standard Deletion vs. Permanent Erasure: What's Wrong With the Default Recycle Bin?
 
@@ -56,12 +52,16 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 6. Double-click**Free\_File\_Wiper.exe** in its extracted directory to run the app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. You’ll see a help window for the app when you first start it. Deselect the**Show this help at startup** checkbox if you don’t want the info to appear again.  
 ![The Free File Wiper window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/free-file-wiper-window.jpg)
 8. Click the**X** close button on the "Free File Wiper – Help" window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 9. Now you’ll see a Free File Wiper bin icon somewhere on the Windows desktop. Left-click and drag that icon to reposition it if necessary.
 
@@ -74,6 +74,10 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
  Free File Wiper's context menu also includes other options. There you can select alternative transparency levels for the bin icon. Click**Autostart with Windows** to add Free File Wiper to the startup items.
 
 ![The Wipe method option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wipe-method-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You’ll also notice that the menu includes an**Integrate in explorer “Send to” menu** selected by default. That option adds Free File Wiper menu to the**Send to** submenu on the classic context menu when selected. It enables you to right-click a file and select**Show more options** \>**Send to** \>**Free File Wiper** .
 
@@ -91,23 +95,11 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 ![The Add gadget option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-gadget-option.jpg)
 8. Double-click the Multi Trash gadget, which will probably be on page two of that window, to add it to the desktop.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Multi Trash gadget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-button.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Multi Trash is set to its Recycle Bin by default. However, you can change its function by clicking the arrows on that gadget. Click that gadget’s**left arrow** to turn it into a Shred bin.
 
 ![The Multi Trash Recycle bin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-multi-trash-recycle-bin.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The Shred bin will permanently erase files dragged onto it. So, go ahead and drag some files from Explorer’s window onto the Shred bin. A confirmation prompt will open that asks if you’re sure about permanently deleting the file. Click**Yes** to confirm as such.
 
@@ -117,7 +109,15 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 
 ![The Multi Trash window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Of course, the biggest beauty of Multi Trash is that it’s a 3-in-1 file deletion tool. You can also set it to be a recycle or standard deletion bin for different files. However, only the Shred bin securely erases files beyond recovery. So, use the Shred bin to erase files that include more confidential info.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Delete Your Files More Securely on the Windows 10 and 11 Desktop
 
@@ -140,17 +140,20 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-becoming-a-metaverse-veteran-top-7-gadgets-for-the-experts/"><u>[New] 2024 Approved Becoming a Metaverse Veteran Top 7 Gadgets for the Experts</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-mirrorless-challenge-to-dslr-who-wins-in-video/"><u>[New] Mirrorless Challenge to DSLR Who Wins in Video?</u></a></li>
-<li><a href="https://windows11.techidaily.com/boost-text-entry-learning-from-typingaid/"><u>Boost Text Entry: Learning From TypingAid</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-the-latest-epson-workforce-ds-30-printer-driver-for-windows-10-8-and-e/"><u>Download the Latest Epson WorkForce DS-30 Printer Driver for Windows 10, 8 & E</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevating-yuzu-emulation-speed-in-windows/"><u>Elevating Yuzu Emulation Speed in Windows</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/-clip-content-wizard-for-2024/"><u>Flash Clip Content Wizard for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/getting-acquainted-with-the-windows-odbc-system/"><u>Getting Acquainted with the Windows ODBC System</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-tecno-spark-20-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Tecno Spark 20 Users</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>Life360 Circle Everything You Need to Know On Apple iPhone 13 Pro | Dr.fone</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/solving-usb-connection-issues-a-step-by-nstep-guide-to-diagnosing-non-detected-devices-by-yl-software-specialists/"><u>Solving USB Connection Issues: A Step-by-nStep Guide to Diagnosing Non-Detected Devices by YL Software Specialists</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-undetectable-file-hiding-technique-on-windows-systems/"><u>The Undetectable File Hiding Technique on Windows Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/visual-notetaking-revolution-unlocking-with-obsidian-canvas/"><u>Visual Notetaking Revolution: Unlocking with Obsidian Canvas</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-optimizing-lifes-dual-roles-job-and-youtubing/"><u>[New] Optimizing Life's Dual Roles Job & YouTubing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-from-idea-to-income-a-comprehensive-instagram-guide/"><u>[Updated] 2024 Approved From Idea to Income A Comprehensive Instagram Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/4-ways-to-fix-the-windows-powershell-cannot-be-loaded-because-running-scripts-is-disabled-error/"><u>4 Ways to Fix the Windows PowerShell Cannot Be Loaded Because Running Scripts Is Disabled Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/applying-local-group-policies-to-individual-users-windows-11-guide/"><u>Applying Local Group Policies to Individual Users: Windows 11 Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/best-fit-the-ideal-vms-that-complement-your-windows-11-pc/"><u>Best Fit: The Ideal VMs That Complement Your Windows 11 PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-inaccessible-router-settings-in-windows/"><u>Bypassing Inaccessible Router Settings in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/comprehensive-solution-to-stop-0xf0831-in-windows-11/"><u>Comprehensive Solution to Stop 0xF0831 in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/cracking-code-repaired-windows-family-security-glitches/"><u>Cracking Code: Repaired Windows Family Security Glitches</u></a></li>
+<li><a href="https://windows11.techidaily.com/customizing-your-command-prompt-palette/"><u>Customizing Your Command Prompt Palette</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deciding-on-top-notch-chatbots-an-in-depth-comparison-of-chatgpt-plus-and-perplexity/"><u>Deciding on Top-Notch Chatbots: An In-Depth Comparison of ChatGPT Plus and Perplexity</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/easy-methods-for-bundling-and-archiving-video-content-in-zip-format-on-windows-11-with-visual-aids/"><u>Easy Methods for Bundling and Archiving Video Content in Zip Format on Windows 11, with Visual Aids</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-audiovisual-excellence-top-5-premium-slow-motion-gear/"><u>In 2024, Audiovisual Excellence Top 5 Premium Slow-Motion Gear</u></a></li>
+<li><a href="https://techidaily.com/is-your-realme-v30-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Realme V30 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Samsung Galaxy M34 5G | Dr.fone</u></a></li>
 </ul></div>
 

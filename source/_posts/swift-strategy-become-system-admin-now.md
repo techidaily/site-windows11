@@ -1,7 +1,7 @@
 ---
 title: "Swift Strategy: Become System Admin Now"
-date: 2024-08-15T15:24:19.823Z
-updated: 2024-08-16T15:24:19.823Z
+date: 2025-02-07T17:14:46.273Z
+updated: 2025-02-11T02:41:14.779Z
 tags:
   - windows10
   - windows11
@@ -36,13 +36,15 @@ thumbnail: https://thmb.techidaily.com/a88de5655376206e2ee17661cb9dd03b46b68bf81
  Once done, close the Command Prompt and check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Activate the Built-In Administrator Account
 
 ![Enable the built-in admin account in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-built-in-admin-account.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Windows comes with a hidden administrator account that can allow you to have full control over the system. This account is typically disabled by default for security reasons but if you are having trouble switching to an administrator account, enabling the built-in Administrator account can be beneficial.
@@ -67,7 +69,15 @@ net user administrator /active:yes
 5. Uncheck the **Account is disabled** option and click **OK**.  
 ![Enable the built-in admin account in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-admin-account.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This should successfully activate the built-in administrator account. You can now access the Settings app again and check if you can switch the account type easily now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Make the Changes in Safe Mode
 
@@ -77,15 +87,9 @@ net user administrator /active:yes
 
  Once you have booted into Safe Mode, try performing the action that was initially causing the problem. If it does not occur in Safe Mode, you can try eliminating the culprit by either uninstalling it manually or [using the System Restore utility](https://www.makeuseof.com/tag/system-restore-factory-reset-work-windows-10/) to revert to a stable, error-free state.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Disable Your Antivirus Program
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 
  If you are using a third-party security program on your computer, it might be preventing you from switching to an admin account because of security reasons.
 
@@ -93,12 +97,12 @@ net user administrator /active:yes
 
  If this works, you can consider [switching to a better security program for your Windows](https://www.makeuseof.com/windows-11-antivirus-apps/) to prevent issues like this from occurring in the future.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Create a New Administrator Account
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## Finally, if none of the methods above have helped you, you can try creating a new administrator account in Windows
 
  This will help with any corruption issues in the current account, as well as help you determine if the permission-related problems were user-specific. It is, however, important to note that you will require admin access to the system to proceed with the steps in this method, so you must enable the built-in administrator account beforehand.
@@ -109,9 +113,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 2. Choose **Accounts** from the left pane and click on **Other users**.
 3. Hit the **Add account** button for **Add other users** in the following window.  
 ![The Add account option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-account-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Select **I don’t have this person’s sign-in information** \> **Add a user without a Microsoft account**.
 5. In the next dialog, enter details like the username and password for the new account.
 6. Click **Next**.
@@ -128,8 +129,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  Below, we explore various effective fixes to resolve this problem permanently.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -137,5 +136,19 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-superior-video-editor-the-vimeo-edition/"><u>[New] In 2024, Superior Video Editor The Vimeo Edition</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ourav-joshis-income-tactics-the-future-of-monetizing-content-for-2024/"><u>[New] Sourav Joshi's Income Tactics The Future of Monetizing Content for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-thrifty-choices-for-virtual-reality-heads/"><u>[Updated] In 2024, Thrifty Choices for Virtual Reality Heads</u></a></li>
+<li><a href="https://windows11.techidaily.com/all-the-paint-3d-keyboard-shortcuts-you-must-know/"><u>All the Paint 3D Keyboard Shortcuts You Must Know</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-windows-dism-failure-0x800f082f-quickly/"><u>Eliminating Windows' DISM Failure 0X800F082F Quickly</u></a></li>
+<li><a href="https://windows11.techidaily.com/guiding-windows-users-through-system-slumber/"><u>Guiding Windows Users Through System Slumber</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-vivo-t2-5g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Vivo T2 5G Phones</u></a></li>
+<li><a href="https://windows11.techidaily.com/microsoft-surface-laptop-go-3-review-new-processor-same-old-drawbacks/"><u>Microsoft Surface Laptop Go 3 Review: New Processor, Same Old Drawbacks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/olympic-snowboard-x-sprint-highlights-22-for-2024/"><u>Olympic Snowboard X Sprint Highlights '22 for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/seamless-scanning-experience-free-canon-scanner-drivers-for-windows-systems/"><u>Seamless Scanning Experience: Free Canon Scanner Drivers for Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-explorers-guide-6-steps-to-property-expertise/"><u>The Explorer's Guide: 6 Steps to Property Expertise</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-poco-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Poco on Windows?</u></a></li>
+</ul></div>
 

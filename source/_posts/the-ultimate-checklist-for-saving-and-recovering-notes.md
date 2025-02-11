@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Checklist for Saving and Recovering Notes
-date: 2025-01-24T08:18:37.614Z
-updated: 2025-01-30T05:03:52.423Z
+date: 2025-02-06T23:10:39.140Z
+updated: 2025-02-11T01:50:19.629Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/4a1fd1f32e402d9cdb76f6617f2af3bb610c32d54
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Back Up and Restore YourSticky Notes Using a Microsoft Account
 
  The easiest way to back up your sticky notes is to use a Microsoft account, which stores the notes on the cloud. If you don't have one already, then you can [learn how to create a Microsoft account](https://www.makeuseof.com/your-microsoft-account-things-windows-user-should-know/) or skip to the next section to learn how to back up the notes manually.
@@ -43,13 +47,13 @@ thumbnail: https://thmb.techidaily.com/4a1fd1f32e402d9cdb76f6617f2af3bb610c32d54
 ![the Sync Now button in Sticky Notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/sync-now-button-in-sticky-notes.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To restore the notes on another computer, open the Sticky Notes app (make sure the PC is connected to the internet) and sign in with your Microsoft account. Once signed in, the app will load all the notes you previously synced. Furthermore, every time you finish writing a Sticky Note or edit one, the app will automatically back it up to the cloud.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Manually Back Up and Restore Your Sticky Notes
@@ -64,14 +68,14 @@ thumbnail: https://thmb.techidaily.com/4a1fd1f32e402d9cdb76f6617f2af3bb610c32d54
 3. In the **LocalState** folder, copy the **plum.sqlite** file.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![the plum database for Sticky Notes on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/the-plum-database-for-sticky-notes-on-windows.jpg)
 4. Paste the **plum.sqlite** file to an external drive, such as a flash drive or external SDD, or upload it to cloud storage, such as OneDrive or Google Drive, for safekeeping.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To manually restore your sticky notes on another Windows computer, follow the steps below:
@@ -83,10 +87,6 @@ thumbnail: https://thmb.techidaily.com/4a1fd1f32e402d9cdb76f6617f2af3bb610c32d54
 5. Paste the backup **plum.sqlite** file in the **LocalState** folder.
 
  Now when you open Sticky Notes, it will load the **plum.sqlite** file, and you should see all your notes appear in the app.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Never Lose Your Sticky Notes Again
 
@@ -104,19 +104,24 @@ thumbnail: https://thmb.techidaily.com/4a1fd1f32e402d9cdb76f6617f2af3bb610c32d54
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-maximize-viewership-with-innovative-youtube-thumbnail-ideas/"><u>[Updated] 2024 Approved Maximize Viewership with Innovative YouTube Thumbnail Ideas</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-budget-cameras-with-bold-action-features-and-quality/"><u>2024 Approved Budget Cameras with Bold Action Features and Quality</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-easy-instagram-posting-for-gif-lovers-4-essential-tips/"><u>2024 Approved Easy Instagram Posting for GIF Lovers 4 Essential Tips</u></a></li>
-<li><a href="https://windows11.techidaily.com/bridging-the-gap-between-wi-fi-and-ethernet-in-windows/"><u>Bridging the Gap Between Wi-Fi and Ethernet in Windows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-halovision-highlights-critique/"><u>In 2024, HaloVision Highlights Critique</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862761231-introducing-minisforums-new-affordable-gaming-laptop-156-screen-144hz-refresh-rate-and-1440p-display-just-189/"><u>Introducing Minisforum's New Affordable Gaming Laptop: 15.6 Screen, 144Hz Refresh Rate & 1440P Display - Just $189!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/iphone-x876-owners-must-have-gif-apps-guide/"><u>IPhone X/8/7/6 Owners' Must-Have GIF Apps Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/master-windows-performance-with-extended-display-setup/"><u>Master Window's Performance With Extended Display Setup</u></a></li>
-<li><a href="https://windows11.techidaily.com/pro-tip-unearthing-windows-apps-installed-locations-quickly/"><u>Pro Tip: Unearthing Windows Apps' Installed Locations Quickly</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-vivo-y27-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Vivo Y27 5G</u></a></li>
-<li><a href="https://windows11.techidaily.com/revising-account-lockout-count-after-multiple-login-failures-in-windows-11/"><u>Revising Account Lockout Count After Multiple Login Failures in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/tactile-hover-over-customizing-your-click-experience-in-win11/"><u>Tactile Hover Over: Customizing Your Click Experience in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-complete-surface-computing-firmware-upgrade-manual/"><u>The Complete Surface Computing Firmware Upgrade Manual</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/top-15-sostituti-di-obs-studio-per-la-registrazione-e-lo-streaming/"><u>Top 15 Sostituti Di OBS Studio per La Registrazione E Lo Streaming</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-unlocking-youtubes-algorithm-title-and-tag-optimization/"><u>[Updated] 2024 Approved Unlocking YouTube's Algorithm Title & Tag Optimization</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-supercharge-your-channel-growth-harness-the-potential-of-collaborative-videos/"><u>2024 Approved Supercharge Your Channel Growth Harness the Potential of Collaborative Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-why-files-cant-sync-in-steam-library/"><u>Addressing Why Files Can't Sync in Steam Library</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-windows-11-system-call-failures-quickly/"><u>Addressing Windows 11 System Call Failures Quickly</u></a></li>
+<li><a href="https://windows11.techidaily.com/beat-windows-timer-troubles-reclaim-control/"><u>Beat Windows Timer Troubles, Reclaim Control</u></a></li>
+<li><a href="https://windows11.techidaily.com/bridging-windows-prefixes-with-microsoft-services/"><u>Bridging Windows Prefixes with Microsoft Services</u></a></li>
+<li><a href="https://windows11.techidaily.com/comprehensive-tutorial-downloading-and-setting-up-msixbundle-and-msix-file-types/"><u>Comprehensive Tutorial: Downloading & Setting Up Msixbundle & MSIX File Types</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-runtime-broker-its-essential-role-in-operating-systems/"><u>Decoding Runtime Broker: Its Essential Role in Operating Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/demystifying-windows-aggregatehostexe-its-functionality-and-dangers/"><u>Demystifying Windows' AggregateHost.exe: Its Functionality & Dangers</u></a></li>
+<li><a href="https://windows11.techidaily.com/diagnosing-voice-commands-malfunction-in-valorant-games/"><u>Diagnosing Voice Commands Malfunction in Valorant Games</u></a></li>
+<li><a href="https://windows11.techidaily.com/direct-routes-to-windows-11s-user-authorization-screen/"><u>Direct Routes to Windows 11'S User Authorization Screen</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/elevating-gaming-and-streaming-with-nvidia-shield-tv-pro-in-depth-performance-breakdown/"><u>Elevating Gaming and Streaming with Nvidia Shield TV Pro: In-Depth Performance Breakdown</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-intel-dual-band-7260-wireless-ac-drivers-with-just-a-few-clicks/"><u>Get the Intel Dual Band 7260 Wireless-AC Drivers with Just a Few Clicks!</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-honor-magic-5-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Honor Magic 5 Phone | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-samsung-galaxy-xcover-7-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Samsung Galaxy XCover 7 Through Google Earth?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/turn-off-sticky-keys-in-your-pc-simple-and-effective-methods/"><u>Turn Off Sticky Keys in Your PC - Simple and Effective Methods</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-android-essentials-the-most-popular-apps-you-need-for-2024/"><u>Updated Android Essentials The Most Popular Apps You Need for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-iphone-13-pro-max-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking iPhone 13 Pro Max i Do? Get Answers here</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-oppo-a78-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Oppo A78 5G Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

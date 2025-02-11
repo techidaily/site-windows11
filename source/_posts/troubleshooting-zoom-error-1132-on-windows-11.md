@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Zoom Error 1132 on Windows 11
-date: 2024-08-15T15:26:21.204Z
-updated: 2024-08-16T15:26:21.204Z
+date: 2025-02-06T04:11:53.401Z
+updated: 2025-02-11T02:33:05.705Z
 tags:
   - windows10
   - windows11
@@ -42,15 +42,9 @@ thumbnail: https://thmb.techidaily.com/c72cccdf9cacc0fda207b45b24ab86cf2fde475b8
 ![The Check for Updates option in Zoom](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/check-for-updates-option.jpg)
 4. If the window says there’s an update available, click the**Update** (or**Install**) option.  
 ![The Update button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/zoom-update-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Wait for the Zoom updater to finish.
 6. Sign back into Zoom after the update, and try joining a meeting.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Change Windows Defender Firewall Settings
 
  Internet connectivity is essential for the Zoom app. Windows Defender Firewall can feasibly cause error 1132 by blocking Zoom from establishing a connection. You could just try turning that firewall off to see if doing so makes a difference. However, you may be able to resolve error 1132 by adjusting a setting for Zoom firewall rules like this:
@@ -64,16 +58,22 @@ thumbnail: https://thmb.techidaily.com/c72cccdf9cacc0fda207b45b24ab86cf2fde475b8
 6. Select the**Protocols** **and** **Ports** tab shown below.
 7. Click the**Protocol Type** drop-down menu to select**Any** .  
 ![The Protocols and Ports tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/protocols-and-ports-tab.jpg)
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8. Select**Apply** to set the rule’s new protocol option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 9. Click**OK** to exit the rule’s properties window.
 10. Repeat steps five to nine for all Zoom rules within Windows Defender Firewall with Advanced Security.
 
  Aside from that, consider checking if Zoom is permitted to communicate through the firewall. Windows Defender Firewall has an allowed app list in which you can select to authorize or disable Zoom and other software to establish connections through it. Select the**Private** and**Public** checkboxes for Zoom in that allowed app list. See our guide about [allowing apps through the Windows Defender Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) for further details.
 
 ![The allow app list for Windows Defender Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-app-through-firewall.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Disable Third-Party Antivirus/Security Software
 
@@ -91,22 +91,21 @@ thumbnail: https://thmb.techidaily.com/c72cccdf9cacc0fda207b45b24ab86cf2fde475b8
 2. Type**explorer.exe ms-settings:appsfeatures** inside Run and select**OK** .
 3. Click the menu button for the Zoom app to select**Uninstall** . You can select the app and click**Uninstall** in Windows 10.  
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 4. Open [the Zoom](https://zoom.us/download#client%5F4meeting) download center.
 5. Click the**Download** for the Zoom Desktop Client.  
 ![The Download option for Zoom](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/download-option-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 6. Press the keyboard button with the**Windows** logo +**E** key to access Explorer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Navigate to the directory that includes your downloaded files, and double-click the**ZoomInstallerFull.exe** setup wizard.
 8. Go through Zoom’s setup wizard to reinstall the software.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Set Up a New Windows Account
 
@@ -115,9 +114,6 @@ No advertising on the website.
 1. First, uninstall Zoom in your current Windows user profile, as covered in steps one to three of resolution five.
 2. Then set up the new local Windows user account. You can do that by following the instructions in our guide for [creating a new Windows user account](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) to resolve issues.  
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/add-account-button.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. When you’ve set up a new local Windows user account, log out of your current one.
 4. Sign in to the newly created user profile.
 5. Install the Zoom app in the new account.
@@ -127,8 +123,9 @@ No advertising on the website.
  If this solution works, you can sign in to the new Windows account to use Zoom whenever needed. However, some users who need to utilize Zoom regularly may prefer to migrate files from their old accounts to new ones.
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Join Your Zoom Meetings Again on Windows
 
  Those potential solutions will likely fix Zoom error code 1132 to enable you to join meetings with that app again. If you’re desperate to resolve that issue, more drastic solutions like resetting Windows to factory settings may also work. Yet, there isn’t a guaranteed error 1132 resolution, and you can submit a help request at the [Zoom support page](https://support.zoom.us/hc/en-us/requests/new) if further fixes are needed.
@@ -139,8 +136,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,8 +143,26 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-the-stealthiest-instagram-story-viewers-for-2024/"><u>[New] The Stealthiest Instagram Story Viewers for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/1715860579741-updated-inbuilt-camera-functions-to-capture-screens-on-huaweis-matep-series-phones/"><u>[Updated] Inbuilt Camera Functions to Capture Screens on Huawei's Mate/P Series Phones.</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-sierras-seamless-document-and-desktop-storage-solutions/"><u>[Updated] Sierra’s Seamless Document & Desktop Storage Solutions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-virtual-arena-transcript-for-2024/"><u>[Updated] Virtual Arena Transcript for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1-turn-your-wav-files-into-m4a-with-zero-cost-a-simple-guide/"><u>1. Turn Your WAV Files Into M4A with Zero Cost: A Simple Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/accelerating-battlenet-game-updates-in-windows/"><u>Accelerating Battle.net Game Updates in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-program-initiation-with-optimal-win11-settings/"><u>Enhance Program Initiation with Optimal Win11 Settings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-guide-to-managing-app-packages-using-wingetui-in-windows-11/"><u>Essential Guide to Managing App Packages Using WingetUI in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixes-for-inactive-snapshots-on-pcs/"><u>Fixes for Inactive Snapshots on PCs</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-honor-play-7t-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Honor Play 7T to iPod | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximize-mouse-efficiency-altering-double-click-speed-in-windows/"><u>Maximize Mouse Efficiency: Altering Double-Click Speed in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-malfunctioning-outlook-mail-signals-on-pc/"><u>Mending Malfunctioning Outlook Mail Signals on PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/microsofts-leap-with-arm-architecture-can-it-surpass-apples-m1-in-computing-power/"><u>Microsoft's Leap with ARM Architecture: Can It Surpass Apple's M1 in Computing Power?</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-remedy-for-windows-uninitialized-disk-issue/"><u>Quick Remedy for Windows 'Uninitialized' Disk Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-correct-onedrives-invalid-blob-tag-error-on-pc/"><u>Steps to Correct OneDrive's Invalid Blob Tag Error on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/stop-error-non-compliant-windows-generic-audio-problems/"><u>Stop Error: Non-Compliant Windows Generic Audio Problems</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/the-ultimate-list-of-free-android-video-editing-software-for-2024/"><u>The Ultimate List of Free Android Video Editing Software for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/unblocking-application-could-not-find-qt-plugin/"><u>Unblocking Application Could Not Find Qt Plugin</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-unsupported-drive-issue-in-windows/"><u>Unraveling the 'Unsupported Drive' Issue in Windows</u></a></li>
+</ul></div>
 

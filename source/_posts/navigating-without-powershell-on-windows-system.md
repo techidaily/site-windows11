@@ -1,7 +1,7 @@
 ---
 title: Navigating Without PowerShell on Windows System
-date: 2025-01-26T18:10:50.676Z
-updated: 2025-01-29T19:02:14.424Z
+date: 2025-02-07T00:38:24.393Z
+updated: 2025-02-11T00:50:27.562Z
 tags:
   - windows10
   - windows11
@@ -41,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
 
  Restart your computer after this (see[how to restart a Windows computer](https://www.makeuseof.com/windows-restart-methods/) ) and then try to launch PowerShell using the search menu.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Launch PowerShell Using Run Command or File Explorer
 
  If you are unable to open PowerShell via the search menu, you can try using the Run dialog box. Press**Win + R** to open the Run dialog. Type**powershell** in the box and press**Enter** . If you want to launch PowerShell with admin rights, press**Ctrl + Shift + Enter** instead.
@@ -52,10 +48,14 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
 ![Open PowerShell via Run Command on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-PowerShell-via-Run-Command-on-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also open PowerShell from the File Explorer address bar. To do so, press**Win + E** to open File Explorer. Type**PowerShell** in the address bar and press**Enter** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Create a Desktop Shortcut for PowerShell
 
@@ -67,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
 4. Open the WindowsPowerShell folder and go to the**v1.0** folder.
 5. Double-click on the PowerShell executable file and see if it works. If it does, right-click on it and select**Send to > Desktop (create shortcut)** .  
 ![Create Desktop Shortcut for PowerShell on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Create-Desktop-Shortcut-for-PowerShell-on-Windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can then use the newly created desktop shortcut to launch PowerShell. For added convenience, you can assign a keyboard shortcut to PowerShell. To learn more about this, check our guide on[how to assign keyboard shortcuts to programs in Windows](https://www.makeuseof.com/windows-keyboard-shortcuts-programs/) .
 
@@ -98,7 +94,7 @@ To run the SFC scan on Windows:
  Wait for the command to execute successfully, and then restart your PC. Following that, see if Windows can find PowerShell on your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Update Windows PowerShell
@@ -114,9 +110,17 @@ To update PowerShell on Windows:
 `winget install --id Microsoft.Powershell --source winget`  
 ![Update PowerShell on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Update-PowerShell-on-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Windows will download and install the most recent version of PowerShell. Following that, you should be able to access PowerShell.
 
  Using Command Prompt isn't the only way to update PowerShell on Windows. If you want to learn other methods, check our guide on[how to install or update PowerShell on Windows](https://www.makeuseof.com/windows-11-powershell-install-update/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Create a New User Account
 
@@ -130,10 +134,6 @@ To create a new user account on Windows, use these steps.
 4. Click the**Add account** button.
 5. Click on **I don't have this person's sign-in information** and follow the on-screen prompts to create a new user account.  
 ![Microsoft Account Sign-In](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Microsoft-Account-Sign-In.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Sign in with your newly created account, and see if Windows can find PowerShell now.
 
@@ -158,19 +158,24 @@ To create a new user account on Windows, use these steps.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-shadow-broadcasters-master-the-art-of-anonymous-livestreaming-on-instagram/"><u>[New] In 2024, Shadow Broadcasters Master the Art of Anonymous Livestreaming on Instagram</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-editors-guide-to-age-old-vhs-effects-in-digital-video-production/"><u>[New] The Editor's Guide to Age-Old VHS Effects in Digital Video Production</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-tag-tricks-to-triumph-youtube-gamers-edition/"><u>2024 Approved Tag Tricks to Triumph YouTube Gamers Edition</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-duo-app-configurations-to-resolve-errors/"><u>Correcting Duo App Configurations to Resolve Errors</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-steps-for-muting-windows-11-tabs/"><u>Essential Steps for Muting Windows 11 Tabs</u></a></li>
-<li><a href="https://windows11.techidaily.com/fine-tuning-windows-filename-metadata/"><u>Fine-Tuning Windows Filename Metadata</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-selecting-the-ideal-360-cameras-for-videography/"><u>In 2024, Selecting the Ideal 360° Cameras for Videography</u></a></li>
-<li><a href="https://windows11.techidaily.com/insightful-tips-for-timely-ping-execution-on-windows-pcs/"><u>Insightful Tips for Timely Ping Execution on Windows PCs</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/ios-champions-best-ps2-emulation-programs/"><u>IOS Champions Best PS2 Emulation Programs</u></a></li>
-<li><a href="https://windows11.techidaily.com/leap-into-connectivity-unlocking-windows-remote-desktop/"><u>Leap Into Connectivity: Unlocking Windows Remote Desktop</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimizing-workflow-key-windows-programs-for-taskmasters/"><u>Optimizing Workflow: Key Windows Programs for Taskmasters</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/e-realms-stepwise-food-videography/"><u>Recipe Realms Stepwise Food Videography</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/sd-card-management-mastery-step-by-step-instructions-for-deleting-formatting-and-performing-a-secure-wipe/"><u>SD Card Management Mastery: Step-by-Step Instructions for Deleting, Formatting, and Performing a Secure Wipe</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For OnePlus Ace 2V? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-perfect-xiaomi-device-for-amateur-filmmakers/"><u>[New] 2024 Approved The Perfect Xiaomi Device for Amateur Filmmakers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-unlocking-the-potential-of-multi-stream-video-on-microsoft-edge-for-2024/"><u>[New] Unlocking the Potential of Multi-Stream Video on Microsoft Edge for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-optimizing-story-video-playback-rate-on-instagram-app/"><u>[Updated] Optimizing Story Video Playback Rate on Instagram App</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-things-to-try-when-the-epic-games-launcher-fails-to-send-a-security-code-on-windows/"><u>7 Things to Try When the Epic Games Launcher Fails to Send a Security Code on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-guide-to-completely-erase-drives-partitioning-in-windows/"><u>A Guide to Completely Erase Drive's Partitioning in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/academic-excellence-with-these-top-8-study-tips-for-windows-users/"><u>Academic Excellence with These Top 8 Study Tips for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/altering-windows-service-for-installation-controls/"><u>Altering Windows Service for Installation Controls</u></a></li>
+<li><a href="https://some-tips.techidaily.com/automated-traffic-management-with-cookiebot-technology/"><u>Automated Traffic Management with Cookiebot Technology</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-nokia-c32-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Nokia C32</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-the-windows-device-abandonment-issue/"><u>Correcting the Windows Device Abandonment Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/defeating-wows-catastrophic-crashes-eradicate-error-132/"><u>Defeating WOW's Catastrophic Crashes: Eradicate Error 132</u></a></li>
+<li><a href="https://windows11.techidaily.com/disable-windows-tracked-application-usage/"><u>Disable Windows' Tracked Application Usage</u></a></li>
+<li><a href="https://windows11.techidaily.com/disabling-camera-glitch-solve-error-a00f4289-on-pcs/"><u>Disabling Camera Glitch: Solve Error A00F4289 on PCs</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-mesh-network-solutions-the-2024-edition/"><u>Leading Mesh Network Solutions: The 2024 Edition</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/mastering-ssd-partition-alignment-techniques-for-optimal-performance/"><u>Mastering SSD Partition Alignment Techniques for Optimal Performance</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ating-to-your-subscription-statistics/"><u>Navigating to Your Subscription Statistics</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/step-by-step-guide-upgrading-from-vmware-esxi-67-to-version-70-using-iso-images-or-esxcli-tools/"><u>Step-by-Step Guide: Upgrading From VMware ESXi 6.7 to Version 7.0 Using ISO Images or ESXCLI Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719311224382-tackle-snip-and-sketch-obstacles-to-perfectly-capture-entire-screen/"><u>Tackle Snip & Sketch Obstacles to Perfectly Capture Entire Screen.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722853926354-top-recommended-samsung-smart-tv-applications-enhance-your-viewing-experience/"><u>Top Recommended Samsung Smart TV Applications - Enhance Your Viewing Experience</u></a></li>
 </ul></div>
 

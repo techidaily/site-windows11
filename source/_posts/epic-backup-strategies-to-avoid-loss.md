@@ -1,7 +1,7 @@
 ---
 title: Epic Backup Strategies to Avoid Loss
-date: 2024-08-15T15:24:43.611Z
-updated: 2024-08-16T15:24:43.611Z
+date: 2025-02-09T21:54:08.541Z
+updated: 2025-02-10T22:00:09.643Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/270d60dd7eabb30b6772ffb66d3ea0dacdceb2788
 
  Fortunately, there are two ways you can back up saved game data for games installed with Epic Games Launcher. Doing so will enable you to reinstall Epic Games titles without losing your saved progress. This is how you can back up saved data for Windows 11/10 games installed via Epic Games Launcher.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable Cloud Saves in Epic Games Launcher
 
  Epic Games Launcher has a Cloud Save feature with which you can back up saved data. That feature automatically backs up saved game progress to Epic’s online cloud service. Then all your saved progress will be preserved so that you can continue playing from where you left off after reinstalling a game. You can enable that Cloud Save feature in Epic Games Launcher like this:
@@ -31,12 +35,16 @@ thumbnail: https://thmb.techidaily.com/270d60dd7eabb30b6772ffb66d3ea0dacdceb2788
 4. Then click the checkbox labeled **Enable Cloud Saves** to select that option.  
 ![The Enable Cloud Saves option on the Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/enable-cloud-saves.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now your game will start cloud saving when you play it so long as it supports that feature. You don’t have to do anything to restore data backed up to Epic’s cloud service after reinstalling a game.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Check if a Game Supports Cloud Sync
 
  After selecting the **Enable Cloud Saves** setting, you must also check if a game you need to reinstall supports that feature. Many games installed with Epic Games don’t support its Cloud Saves feature. This is how you can check if a Windows game supports Epic’s cloud synchronization:
@@ -45,22 +53,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Click **Library** to view all the titles you’ve installed with Epic Games.
 3. Next, right-click the cover image thumbnail for the game you want to check and select **Manage**.  
 ![The Manage option on the Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/manage-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 4. You should see a **Cloud Saves** setting in the management options. Toggle on the **Cloud Saves** option if it’s off (but it shouldn’t be if you’ve already selected **Enable Cloud Saves**).  
-![The Cloud Saves option on the Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-cloud-saves-option.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![The Cloud Saves option on the Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-cloud-saves-option.jpg)
 
  You’ll also see the last synced (backed up) date below the **Cloud Saves** option. Click the round **Sync Data Now** button to manually initiate a cloud sync backup. Then you can reinstall the game safe in the knowledge that your saved progress for it has been recently cloud synced.
 
  If a **Cloud Save** option isn’t available there, your saved game data for that title will not be backed up to Epic’s cloud service. So, you’ll need to back up your saved game data with the alternative method covered below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Handle a Cloud Save Conflict
 
  Sometimes you might see Cloud Save conflict error messages when you select to start games with Epic Games. That error prompts you to select an **Upload to Cloud** or **Download to Machine** option with newer or older files. Always select the newer file option when a **Cloud Save** conflict arises to ensure you retain your latest saves.
@@ -75,15 +83,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Then input a game title you need to back up data for within that site’s search box and press **Enter**.
 3. Scroll down the game’s page to the saved game data location details. You can find the saved game data at the Windows or Epic Games Launcher paths specified there.  
 ![The Save game data location details for Subnautica](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/save-game-location-details.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 4. [Launch File Explorer](https://www.makeuseof.com/windows-file-explorer-not-opening/) to open the Windows or Epic Games Launcher saved data path specified for your game on its PCGamingWiki page.
 5. Right-click the game’s saved game folder and select **Copy**.  
 ![The Copy option in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-copy-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 6. Open another directory to paste the folder in and press **Ctrl + V**.
 
  You will now have a secondary copy of a game’s game saves folder. If you’re going to install the game on another PC, paste the copied game saves folder onto a portable USB drive. Then you can copy the game saves over to your alternative desktop or laptop from that USB drive.
@@ -104,8 +106,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Fortunately, there are two ways you can back up saved game data for games installed with Epic Games Launcher. Doing so will enable you to reinstall Epic Games titles without losing your saved progress. This is how you can back up saved data for Windows 11/10 games installed via Epic Games Launcher.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -113,5 +113,23 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-declutter-your-tiktok-library-editing-tips-inside/"><u>[New] Declutter Your TikTok Library - Editing Tips Inside</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-free-premium-visual-aids-for-business-professionals-for-2024/"><u>[New] FREE Premium Visual Aids for Business Professionals for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-laughing-liberally-with-our-meme-toolbox/"><u>[New] In 2024, Laughing Liberally with Our Meme Toolbox</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-unlocking-the-potential-storing-insta-media-on-your-phone-for-2024/"><u>[New] Unlocking the Potential Storing Insta Media on Your Phone for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-from-static-to-dynamic-a-comprehensive-look-at-the-new-polaroid-xs-100i-action-camera/"><u>[Updated] From Static to Dynamic A Comprehensive Look at the New Polaroid XS 100I Action Camera</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-guide-to-mastering-polarrs-image-precision/"><u>2024 Approved The Complete Guide to Mastering Polarr's Image Precision</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-data-retrieval-how-to-master-the-art-of-qr-scanning-with-windows/"><u>Effortless Data Retrieval: How to Master the Art of QR Scanning with Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabling-hidden-programs-on-windows-pc/"><u>Enabling Hidden Programs on Windows PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabling-smart-color-settings-in-windows-11-apps/"><u>Enabling Smart Color Settings in Windows 11 Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-real-time-performance-for-smooth-vlc-viewing/"><u>Enhancing Real-Time Performance for Smooth VLC Viewing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/favorite-unique-ces-innovation-the-noteworthy-laptop-pen-that-writes-on-paper-zdnets-review/"><u>Favorite Unique CES Innovation: The Noteworthy Laptop Pen That Writes on Paper - ZDNet's Review</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reset-freezes-and-crashes-in-virtual-worlds/"><u>How to Reset Freezes & Crashes in Virtual Worlds</u></a></li>
+<li><a href="https://windows11.techidaily.com/safekeep-your-files-setting-up-folder-restrictions-in-windows-11/"><u>Safekeep Your Files: Setting Up Folder Restrictions in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-to-get-your-turtle-beach-mic-up-and-running-again/"><u>Step-by-Step Solutions to Get Your Turtle Beach Mic Up and Running Again</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-error-0x80042306-on-windows-to-reset-successfully/"><u>Tackling Error 0X80042306 on Windows to Reset Successfully</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-samsung-galaxy-xcover-6-pro-tactical-edition-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Samsung Galaxy XCover 6 Pro Tactical Edition Phone With/Without IMEI Number</u></a></li>
+</ul></div>
 

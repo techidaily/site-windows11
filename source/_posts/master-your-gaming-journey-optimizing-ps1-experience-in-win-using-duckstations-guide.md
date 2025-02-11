@@ -1,7 +1,7 @@
 ---
 title: "Master Your Gaming Journey: Optimizing PS1 Experience in WIN Using Duckstation's Guide"
-date: 2024-08-15T15:29:04.731Z
-updated: 2024-08-16T15:29:04.731Z
+date: 2025-02-09T03:43:46.999Z
+updated: 2025-02-11T06:01:19.354Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/0c5d42c4dd20613a1c9b759dc5acc559eb281ce84
  Older PlayStation emulators, such as PCSX and ePSXe, could provide easy access to the popular console's vast library of titles. Nonetheless, Duckstation demonstrates that they could be better.
 
  Let's look at how this relatively new emulator can play almost any game from your PlayStation library, with the added bonus of higher resolutions and improved visuals.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Download and Install Duckstation
 
@@ -41,21 +45,18 @@ Duckstation's installation differs depending on the platform:
 
 ![Duckstation Main Window Before Configuration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/duckstation-main-window-before-configuration.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Duckstation, like many other PlayStation emulators, requires the console's original BIOS for full compatibility with its titles. We won't go over how to get it in this guide, but the official and legal way is to "dump" your own PlayStation console's BIOS.
 
  However, if you've previously used PlayStation emulators such as PCSX or ePSXe (as we saw in our article on [how to play PlayStation (PS1) games on your PC](https://www.makeuseof.com/tag/emulating-console-games-on-your-pc-part-1-sony-playstation-1/) ), you already have that file. In our case, we imported the same BIOS files we were using with ePSXe into Duckstation.
 
 1. Select**BIOS** from the Duckstation**Settings** menu.  
 ![Duckstation Menu BIOS Entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/duckstation-menu-bios-entry.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Navigate to the**BIOS Directory** and select**Browse** . Point Duckstation to the folder containing your BIOS files.  
 ![Duckstation Settings BIOS Directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/duckstation-settings-bios-directory.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 
  After that, you're set and ready to begin gaming. Still, that also implies you have some games.
 
@@ -65,20 +66,23 @@ Duckstation's installation differs depending on the platform:
 ![Duckstation Menu Game List Entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/duckstation-menu-game-list-entry.jpg)
 2. On the top right, click the "plus" button. Select the folder containing your PlayStation games. In the bottom right corner of the window, click**Scan For New Games** . If you keep your games in folders within folders, answer positively when asked if you want to scan the selected folder recursively.  
 ![Duckstation Scan Recursively For Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/duckstation-scan-recursively-for-games.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Getting Duckstation Set Up for PS1 Games
 
  Let's go over the most important options in Duckstation's**Settings** menu.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. General
 
  Most users should be fine with the defaults on the General page. You might also be interested in the following:
@@ -101,8 +105,9 @@ Duckstation's installation differs depending on the platform:
 * **Async Readahead** ,**Read Speedup** , and**Seek Speedup** : boost the emulated PlayStation CD drive speed to make your games load faster.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Emulation
 
  To become a master of time, go to the**Emulation** page, where you can, among other things, control the emulator's actual "flow of time" in both directions.
@@ -113,10 +118,6 @@ Duckstation's installation differs depending on the platform:
 2. **Fast Forward Speed** and**Turbo Speed** : Using these features may cause some games to run too fast for you. That is why you can control from here how fast those alternative speed modes go.
 3. **Enable Rewinding** : By borrowing the core mechanic of the Prince of Persia games, "time rewinding," Duckstation can help you "undo" missteps in difficult-to-beat games. This is accomplished by continuously saving the emulator's state as you play, every Xth frame and for Y frames - the values you can tweak for that option. It is up to you to decide how Rewind should work by striking a balance between granularity and RAM requirements.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ### 4\. Display
 
  On the Display page, you'll find the options defining how Duckstation will "show a game's graphics on the screen".
@@ -128,16 +129,14 @@ Duckstation's installation differs depending on the platform:
 3. **On-Screen Display** : When troubleshooting a game or optimizing its settings, enable the options here to see how the emulator performs in real-time while running a title.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 5\. Enhancements
 
  This is the first set of options for improving the appearance of games.
 
 ![Duckstation Settings Enhancements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/duckstation-settings-enhancements.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 1. **Internal Resolution Scale** : The 1x value will render a game at its native resolution. Select**5x** for HD monitors,**6x** for 1440p displays, and**9x** for true 4K displays.
 2. **Texture Filtering** : Enhance the appearance of "surfaces" in 3D games.
@@ -153,8 +152,9 @@ Duckstation's installation differs depending on the platform:
  We'll skip this section because it's a matter of personal preference. Feel free to experiment with all the available shaders by clicking the plus button and trying them out one by one. Or you could skip them entirely.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 7\. Controller Setup
 
  Check the**Controllers** menu in**Settings** to ensure your joypad is detected. Your controller should be visible on the right side of the**Global Settings** page.
@@ -171,14 +171,11 @@ Duckstation's installation differs depending on the platform:
 
  After investing some time to set it up, Duckstation can work as a Steam launcher equivalent for all your PlayStation games. Playing the original Resident Evil or Final Fantasy VII with it will be as simple as double-clicking on them and grabbing your joypad.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -187,8 +184,26 @@ Duckstation's installation differs depending on the platform:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-choosing-google-pixel-music-matches-online/"><u>[New] Choosing Google Pixel Music Matches Online</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-proven-techniques-securely-archive-your-instagram-story/"><u>[New] Proven Techniques Securely Archive Your Instagram Story</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/elite-commanders-showdown-the-pinnacle-total-war-clashes/"><u>Elite Commanders' Showdown The Pinnacle Total War Clashes</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/engaging-audiences-with-strategic-onestream-broadcasts/"><u>Engaging Audiences with Strategic OneStream Broadcasts</u></a></li>
+<li><a href="https://windows11.techidaily.com/fast-factor-essential-steps-for-assessing-lan-router-speed/"><u>Fast Factor: Essential Steps for Assessing LAN Router Speed</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-pin-gmail-to-the-taskbar-on-a-windows-pc/"><u>How to Pin Gmail to the Taskbar on a Windows PC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-nokia-105-classic-phone-by-drfone-android/"><u>How to Reset a Locked Nokia 105 Classic Phone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-a-beginners-guide-to-embedding-youtube-playlists-in-code/"><u>In 2024, A Beginner's Guide to Embedding YouTube Playlists in Code</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-maximizing-your-tech-efforts-a-detailed-look-at-showmores-features/"><u>In 2024, Maximizing Your Tech Efforts A Detailed Look at ShowMore’s Features</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-quick-guide-accessorizing-windows-with-a-clownfish-speech-modifier/"><u>In 2024, Quick Guide Accessorizing Windows with a Clownfish Speech Modifier</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximize-your-taskbar-attaching-items-in-windows-11/"><u>Maximize Your Taskbar: Attaching Items in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-default-usb-suspension-on-windows-11/"><u>Overcoming Default USB Suspension on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-system-shutdown-alerts-due-to-roblox-glitches/"><u>Overcoming System Shutdown Alerts Due to Roblox Glitches</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfecting-the-process-setting-up-msoffice-in-windows-11/"><u>Perfecting the Process: Setting Up MSOffice in Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/remedying-loss-of-display-on-personal-computers/"><u>Remedying Loss of Display on Personal Computers</u></a></li>
+<li><a href="https://windows11.techidaily.com/supporting-the-unsupported-life-after-windows-781/"><u>Supporting the Unsupported: Life After Windows 7/8.1</u></a></li>
+<li><a href="https://app-tips.techidaily.com/troubleshooting-icloud-message-accessibility-a-comprehensive-approach-for-enabling-your-emails/"><u>Troubleshooting iCloud Message Accessibility: A Comprehensive Approach for Enabling Your Emails</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-how-to-stop-game-proposals/"><u>Win11: How To Stop Game Proposals</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-the-battle-against-windows-software-problems-7-ways/"><u>Winning the Battle Against Windows Software Problems (7 Ways)</u></a></li>
+</ul></div>
 

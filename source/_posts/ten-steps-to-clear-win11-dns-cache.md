@@ -1,7 +1,7 @@
 ---
 title: Ten Steps to Clear Win11 DNS Cache
-date: 2025-01-27T17:58:38.794Z
-updated: 2025-01-30T03:36:40.784Z
+date: 2025-02-04T06:49:30.818Z
+updated: 2025-02-10T22:28:33.266Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is the DNS Cache and Why Should You Flush It?
 
  When you access a website, you usually do so by typing its URL in a browser. However, computers don't "understand" URLs, and each URL has a corresponding IP address that a computer can actually use. When you search for a website, your computer accesses a DNS server that contains records of URLs and their corresponding IP addresses.
@@ -41,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
 
  There are multiple methods to flush the DNS cache on Windows 11\. You can use the Run command box, Command Prompt, or even PowerShell. In addition, you can use a batch file to clear the DNS cache in a few clicks, any time you want. Here are the four ways to clear DNS on Windows 11:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Using the Run Command Box
 
 To flush the DNS cache using the Run command box, do as follows:
@@ -53,10 +45,6 @@ To flush the DNS cache using the Run command box, do as follows:
 2. Type “**ipconfig /flushdns** ” command.  
 ![Flush DNS Using the Run Command Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/flush-dns-using-the-run-command-box.jpg)
 3. Press**Ctrl + Shift + Enter** keys at once. The Command Prompt will launch, execute the flush command, and close automatically.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Using CMD
 
@@ -68,6 +56,14 @@ To flush the DNS cache using the Run command box, do as follows:
 ![Flush DNS Using CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/flush-dns-using-cmd.jpg)
 4. You will see a “**Successfully flushed the DNS Resolver Cache.** ” message after the command execution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Using PowerShell
 
  PowerShell has a different command to flush the DNS cache on Windows 11\. Here’s how to do it:
@@ -78,11 +74,11 @@ To flush the DNS cache using the Run command box, do as follows:
 3. You won’t see a message after the command executes successfully. But you can open PowerShell again and view the DNS cache to confirm.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Using a Batch File
@@ -95,6 +91,10 @@ Repeat the following steps to create a DNS-clearing batch file:
 2. Type the following command in Notepad:**cmd.exe /k ipconfig /flushdns**  
 ![Flush DNS Using A Batch File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/flush-dns-using-a-batch-file.jpg)
 3. Press**Ctrl + S** to save the file. Enter the name “**flushDNS.bat** ” and keep the**Save as type** as**All Files** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Click on the**Save** button.
 5. Now go to the batch file location and double-click on it.
@@ -132,16 +132,20 @@ Repeat the following steps to create a DNS-clearing batch file:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unlock-6-figure-visibility-on-youtube-via-optimal-hashtags/"><u>[Updated] Unlock 6-Figure Visibility on YouTube via Optimal Hashtags</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-unlocking-creative-potential-downloading-free-luts-for-ar-development/"><u>2024 Approved Unlocking Creative Potential Downloading Free LUTs for AR Development</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-oppo-find-n3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/guidelines-for-stable-windows-volume-mixer-operation/"><u>Guidelines for Stable Windows Volume Mixer Operation</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functional-logitech-g633-microphone-expert-advice/"><u>How to Fix a Non-Functional Logitech G633 Microphone - Expert Advice</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-focus-on-action-exclude-unwanted-surroundings/"><u>In 2024, Focus on Action, Exclude Unwanted Surroundings</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcome-asking-too-many-hands-on-windows-systems/"><u>Overcome Asking Too Many Hands on Windows Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/techniques-to-bypass-winos-gpu-scheduler-features/"><u>Techniques to Bypass WinOS GPU Scheduler Features</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-merits-of-swipe-and-tap-in-social-media-platforms/"><u>The Merits of Swipe and Tap in Social Media Platforms</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-tackling-printer-error-xfffee/"><u>The Ultimate Guide to Tackling Printer Error XFFFEE</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/unplugging-device-drivers-on-windows-easily-expert-advice-by-yl-software-solutions/"><u>Unplugging Device Drivers on Windows Easily - Expert Advice by YL Software Solutions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-a-quick-guide-secure-your-instagram-stories-with-screen-record/"><u>[New] A Quick Guide Secure Your Instagram Stories with Screen Record</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-staying-legal-in-the-digital-space-youtubes-copyright-guide/"><u>[New] In 2024, Staying Legal in the Digital Space YouTube's Copyright Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pixiz-essentials-from-stills-to-moving-images/"><u>[New] Pixiz Essentials From Stills to Moving Images</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-2023s-leading-youtube-engagement-tools/"><u>[Updated] In 2024, 2023'S Leading YouTube Engagement Tools</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-mastering-video-upload-your-guide-to-igtv/"><u>2024 Approved Mastering Video Upload Your Guide to IGTV</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-the-crashes-resource-monitor-on-windows-11/"><u>Addressing the Crashes: Resource Monitor on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/altering-failed-logon-wait-duration-settings-in-windows/"><u>Altering Failed Logon Wait Duration Settings in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/empowering-windows-users-introducing-a-customized-run-helper-app/"><u>Empowering Windows Users: Introducing a Customized Run Helper App</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/immersive-tech-in-everyday-life-for-2024/"><u>Immersive Tech in Everyday Life for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Realme 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/passport-photo-creator-access-to-top-quality-portraits-for-desktoponline-use/"><u>Passport Photo Creator – Access to Top Quality Portraits for Desktop/Online Use</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-win-strategies-boosting-frames-in-cs-go/"><u>Quick Win Strategies - Boosting Frames in CS GO</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-device-disconnection-problems-for-windows-users-with-virtualbox/"><u>Resolving Device Disconnection Problems for Windows Users with VirtualBox</u></a></li>
+<li><a href="https://win-online.techidaily.com/solving-the-dllregisterserver-not-found-error-in-windows-11-4-essential-fixes/"><u>Solving the 'DLLRegisterServer Not Found' Error in Windows 11 - 4 Essential Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-power-of-shortcuts-for-app-size-adjustment-on-windows-11/"><u>Unlocking the Power of Shortcuts for App Size Adjustment on Windows 11</u></a></li>
 </ul></div>
 

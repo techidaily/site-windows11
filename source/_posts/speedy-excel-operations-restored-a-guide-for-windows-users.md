@@ -1,7 +1,7 @@
 ---
 title: "Speedy Excel Operations Restored: A Guide for Windows Users"
-date: 2025-01-24T05:13:57.174Z
-updated: 2025-01-30T08:02:51.195Z
+date: 2025-02-06T02:35:02.804Z
+updated: 2025-02-10T17:44:55.488Z
 tags:
   - windows10
   - windows11
@@ -41,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 6. Uncheck all the boxes to disable add-ins and click **OK**.  
 ![Disable Excel Add-ins](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-excel-add-ins.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Restart Excel on your PC and enable your add-ins one at a time. Try using Excel after enabling each add-in and observe its performance. Once you identify the faulty add-in, consider removing it.
 
 ## 2\. Optimize Excel for Compatibility
@@ -57,11 +53,11 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 4. Click **OK** to save the changes.  
 ![Optimize Excel for Compatiblity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/optimize-excel-for-compatiblity.jpg)
 
- Restart Excel after this and check if it still runs slowly or lags on your Windows computer.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Restart Excel after this and check if it still runs slowly or lags on your Windows computer.
 
 ## 3\. Disable Hardware Graphics Acceleration
 
@@ -83,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 ![Enable Manual Calculation in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-manual-calculation-in-excel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Reduce the Size of Your Excel File
@@ -93,12 +89,16 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
  Another thing you can do is save your Excel file in binary (.xslb) format. To do so, press **F12** on your keyboard to bring up the **Save As** dialog in Excel. Click the drop-down menu next to **Save as type** to select **Excel Binary Workbook (\*.xslb)** and click the **Save** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Save As Dialog in Excel
 
 ![Save As Dialog in Excel](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/save-as-dialog-in-excel.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Update Microsoft Excel
 
@@ -110,10 +110,6 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 ![Update Microsoft Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-microsoft-excel.jpg)
 
  Wait for Microsoft Office to update Excel along with other Office apps and check if that fixes the problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Run the Office Repair Tool
 
@@ -127,7 +123,15 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 6. Select the **Quick Repair** option and then click **Repair**.  
 ![Repair Microsoft Office](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/repair-microsoft-office.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Allow the repair tool to fix any issues with Excel. If the issue remains even after that, you can perform an **Online Repair** instead. This will allow the tool to perform a more comprehensive repair to resolve any issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Try Some Generic Windows Fixes
 
@@ -136,10 +140,6 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 * **Close Background Apps:** Running an excessive number of apps and programs simultaneously can strain system resources, leading to slow performance in Excel. Try [closing apps and programs](https://www.makeuseof.com/windows-close-apps-programs/) you don’t need to free up system resources and see if that helps.
 * **Repair Your Excel File:** If Excel experiences lag only when you work on a specific workbook, there might be an issue with that file itself. In that case, you can try [repairing the Excel workbook](https://www.makeuseof.com/repair-courrpted-excel-workbook/) to solve the problem.
 * **Speed Up Your Windows PC:** Issues with your Windows computer can make it seem like there's a problem with Excel. If your [Windows computer is running slowly or lagging](https://www.makeuseof.com/ways-to-fix-slow-lagging-windows-11/), try changing the power plan or freeing up storage space to fix the problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Experience a Lag-Free Excel Again on Windows
 
@@ -157,18 +157,24 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-best-webcam-tripods-and-stands/"><u>[New] 2024 Approved Best Webcam Tripods and Stands</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-efficient-recording-capture-your-dell-display-swiftly/"><u>[New] In 2024, Efficient Recording Capture Your Dell Display Swiftly</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-premium-notebooks-select-the-best-for-professional-edits/"><u>[Updated] 2024 Approved Premium Notebooks Select the Best for Professional Edits</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-step-by-step-techniques-for-iphone-7-screen-saving/"><u>[Updated] 2024 Approved Step-by-Step Techniques for iPhone 7 Screen Saving</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-expert-advice-on-gaming-capture-with-windows-10-for-2024/"><u>[Updated] Expert Advice on Gaming Capture with Windows 10 for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-social-snapshot-an-all-encompassing-2023-vlog-collection/"><u>2024 Approved Social Snapshot An All-Encompassing 2023 Vlog Collection</u></a></li>
-<li><a href="https://windows11.techidaily.com/3-simple-methods-for-identifying-windows-ram/"><u>3 Simple Methods for Identifying Windows RAM</u></a></li>
-<li><a href="https://windows11.techidaily.com/identifying-and-fixing-non-responsive-usb-on-pc/"><u>Identifying and Fixing Non-Responsive USB on PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimizing-desktop-spaces-preset-program-dimensions-on-win11/"><u>Optimizing Desktop Spaces: Preset Program Dimensions on Win11</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/pc-troubleshooting-guide-fixing-necromunda-hired-gun-crashes-and-errors/"><u>PC Troubleshooting Guide: Fixing 'Necromunda: Hired Gun' Crashes and Errors</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-9-best-features-in-the-windows-11-february-2023-update/"><u>The 9 Best Features in the Windows 11 February 2023 Update</u></a></li>
-<li><a href="https://windows11.techidaily.com/three-steps-for-ditching-microsofts-store/"><u>Three Steps for Ditching Microsoft's Store</u></a></li>
-<li><a href="https://windows11.techidaily.com/unraveling-the-mystery-of-windows-law-filter-mechanics-and-output/"><u>Unraveling the Mystery of Window's LAW Filter Mechanics and Output</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-comprehensive-io-recorder-explained-for-users/"><u>[New] Comprehensive IO Recorder Explained for Users</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expertise-in-iphone-photography-understanding-dimensions/"><u>[Updated] Expertise in iPhone Photography Understanding Dimensions</u></a></li>
+<li><a href="https://win-online.techidaily.com/m4bwma-movavi-audio-converter/"><u>免費線上M4B至WMA音頻格式自動轉換工具 - Movavi Audio Converter</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-honor-x8b-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Honor X8b</u></a></li>
+<li><a href="https://windows11.techidaily.com/accelerating-problem-solving-in-windows-10-and-11-via-shortcuts/"><u>Accelerating Problem-Solving in Windows 10 & 11 via Shortcuts</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoid-frozen-savers-4-tips-to-fix-windows-issues/"><u>Avoid Frozen Savers: 4 Tips to Fix Windows Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/bigger-is-not-better-limited-minipc-zest/"><u>Bigger Is Not Better - Limited MiniPC Zest</u></a></li>
+<li><a href="https://windows11.techidaily.com/boost-efficiency-best-keys-for-auto-clicking/"><u>Boost Efficiency: Best Keys for Auto Clicking</u></a></li>
+<li><a href="https://driver-install.techidaily.com/connect-effortlessly-with-our-straightforward-adb-driver/"><u>Connect Effortlessly with Our Straightforward ADB Driver</u></a></li>
+<li><a href="https://windows11.techidaily.com/control-over-edges-ongoing-tasks-in-win11-environment/"><u>Control Over Edge's Ongoing Tasks in Win11 Environment</u></a></li>
+<li><a href="https://windows11.techidaily.com/controlling-highlight-features-on-windows-11-pcs/"><u>Controlling Highlight Features on Windows 11 PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/customize-windows-11-notifications-to-exclude-extras/"><u>Customize Windows 11 Notifications to Exclude Extras</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-and-correcting-windows-error-0x8007021/"><u>Decoding and Correcting Windows Error 0X8007021</u></a></li>
+<li><a href="https://windows11.techidaily.com/ditching-the-default-store-on-new-windows-11/"><u>Ditching the Default Store on New Windows 11</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-mastering-youtube-shorts-a-guide-to-music-videos/"><u>In 2024, Mastering YouTube Shorts A Guide to Music Videos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-depth-assessment-comprehensive-camstudio-review-for-2024/"><u>In-Depth Assessment Comprehensive CamStudio Review for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/meet-the-new-sharp-will-revolutionary-naked-eye-3d-features-in-an-android-device/"><u>Meet the New Sharp Will: Revolutionary Naked Eye-3D Features in an Android Device</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-bring-your-videos-to-life-a-beginners-guide-to-cartoon-conversion/"><u>New In 2024, Bring Your Videos to Life A Beginners Guide to Cartoon Conversion</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/was-ist-eine-heic-bilddatei-und-wie-konvertieren-sie-sie-in-ein-kompatibleres-format/"><u>Was Ist Eine HEIC-Bilddatei Und Wie Konvertieren Sie Sie in Ein Kompatibleres Format?</u></a></li>
 </ul></div>
 

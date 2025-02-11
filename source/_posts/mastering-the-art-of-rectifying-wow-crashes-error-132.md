@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Rectifying WoW Crashes: Error 132"
-date: 2025-01-26T06:11:35.183Z
-updated: 2025-01-29T17:41:29.234Z
+date: 2025-02-06T02:32:34.367Z
+updated: 2025-02-11T02:00:21.679Z
 tags:
   - windows10
   - windows11
@@ -34,15 +34,7 @@ thumbnail: https://thmb.techidaily.com/7e475b588f2cf5836119cf29eeb77a68a0d6cc175
 3. Turn Off the **Record in the background while I’m playing a game** option.  
 ![A screenshot of the Captures setting screen for Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/record-in-the-background-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The Windows 11 Settings app doesn’t include that option. However, you can access the same option within the Game Bar app. Press the **Windows** key + **G** and select **Settings** \> **Capturing** in the Game Bar. Then deselect the **Record in the background while I’m playing a game** checkbox.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Rename World of Warcraft’s Cache, WTF, and Interface Folders
 
@@ -58,11 +50,15 @@ thumbnail: https://thmb.techidaily.com/7e475b588f2cf5836119cf29eeb77a68a0d6cc175
 5. Then right-click on the **Interface** subfolder, select **Rename**, and input **InterfaceOld** for the new name.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Repeat the previous step for the **Classic** and **WTF** folders. Rename those folders to **ClassicOld** and **WTFOld**.  
 ![A screenshot of the system file options for the Cache folder for World of Warcraft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/rename-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then go back to the Battle.net software to launch World of Warcraft. The renamed folders will be recreated, which resets the UI for the World of Warcraft game. The game might initially start more slowly than usual because of that, but hopefully, you’ll be able to play it without further issues.
 
@@ -71,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/7e475b588f2cf5836119cf29eeb77a68a0d6cc175
  If error 132 still affects your game, even after renaming folders, you may want to try other ways to [fix World of Warcraft not launching in Windows 10/11](https://www.makeuseof.com/windows-11-10-world-of-warcraft-not-launching/). Some potential fixes associated with launching WoW may also fix error 132\.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Enable DirectX Legacy Mode
@@ -83,16 +79,16 @@ thumbnail: https://thmb.techidaily.com/7e475b588f2cf5836119cf29eeb77a68a0d6cc175
 ![A screenshot of the Main Menu Options for Battle Net](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/settings-menu-option.jpg)
 3. Select **Game Settings** \> **World of Warcraft**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click on the **Additional command line arguments** box to activate a text box.
 5. Input **\-d3d11legacy** inside the text box.  
 ![A screenshot of the Additional Command Line Arguments option for Battle Net](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/game-settings-tab.jpg)
 6. Press **Done** to set World of Warcraft’s command line argument.
 
  Restart the Blizzard software after setting this new command line argument for World of Warcraft. Then start WoW to see if this possible resolution makes a difference.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Add World of Warcraft to Your Security Software Exclusions List
 
@@ -103,6 +99,10 @@ thumbnail: https://thmb.techidaily.com/7e475b588f2cf5836119cf29eeb77a68a0d6cc175
  To ensure your security software never blocks World of Warcraft, add the game’s .exe (application) file to your antivirus and firewall exception lists. You can [whitelist files for Microsoft Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/#:~:text=Under%20Protection%20areas%2C%20select%20Virus,type%2C%20or%20process%20to%20exclude.) by clicking the **Add an exclusion** button in the Windows Security app. If you’ve installed a third-party antivirus tool, set a WoW exception in that app’s exclusion list instead.
 
  If adding World of Warcraft to your Windows Defender Exclusion List doesn’t fix error 132, you may want to [run the System File Checker for Windows](https://www.makeuseof.com/system-file-checker-sfc-windows/) instead. This could repair any corrupted files causing the error.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Enjoy World of Warcraft Again
 
@@ -120,21 +120,19 @@ thumbnail: https://thmb.techidaily.com/7e475b588f2cf5836119cf29eeb77a68a0d6cc175
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-zoom-mastery-maximizing-your-podcast-recording-quality/"><u>[New] In 2024, Zoom Mastery Maximizing Your Podcast Recording Quality</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-comprehensive-report-editwave-suite-revamped/"><u>[Updated] Comprehensive Report EditWave Suite Revamped</u></a></li>
-<li><a href="https://blog-min.techidaily.com/m4awavtop5/"><u>優秀なオーディオコンバーター: M4AからWAVへ無料で利用可能な最高のソフトウェアTOP5</u></a></li>
-<li><a href="https://windows11.techidaily.com/boost-mouse-click-agility-nine-strategies-to-tweak-speeds/"><u>Boost Mouse Click Agility: Nine Strategies to Tweak Speeds</u></a></li>
-<li><a href="https://windows11.techidaily.com/crafting-capabilities-directories-with-a-click-in-win11/"><u>Crafting Capabilities: Directories with a Click in Win11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/cross-operating-system-device-manager-tools/"><u>Cross-Operating System Device Manager Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-increase-disk-size-in-windows-carefully/"><u>How to Increase Disk Size in Windows Carefully</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-x-flip-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo X Flip Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-honor-magic-vs-2-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Honor Magic Vs 2 via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-on-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password On iPhone 12 Pro Max</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-iphone-photography-breakthroughs-with-lifelike-motion/"><u>In 2024, IPhone Photography Breakthroughs with Lifelike Motion</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-adobe-premiere-pro-rec-709-luts-finding-the-best-options/"><u>New 2024 Approved Adobe Premiere Pro Rec 709 LUTs Finding The Best Options</u></a></li>
-<li><a href="https://windows11.techidaily.com/reconciling-windows-game-bar-with-inferior-hardware/"><u>Reconciling Windows Game Bar with Inferior Hardware</u></a></li>
-<li><a href="https://windows11.techidaily.com/revolutionize-your-security-crafting-unique-lock-patterns-for-windows-11/"><u>Revolutionize Your Security: Crafting Unique Lock Patterns for Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-list-of-6-performance-monitor-apps-for-pcs/"><u>The Ultimate List of 6 Performance Monitor Apps For PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/tricks-save-and-access-onedrive-around-clients/"><u>Tricks: Save & Access OneDrive Around Clients</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-10-highly-trusted-free-video-communication-tools-with-security-features/"><u>[Updated] 10 Highly-Trusted Free Video Communication Tools with Security Features</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-filmmakers-gateway-to-fame-on-tiktok-join-now/"><u>[Updated] In 2024, Filmmaker's Gateway to Fame on TikTok - Join Now</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/boosting-visual-impact-incorporate-apple-music/"><u>Boosting Visual Impact Incorporate Apple Music</u></a></li>
+<li><a href="https://windows11.techidaily.com/briefly-explain-what-cultural-relativism-means-in-your-own-words/"><u>Briefly Explain What Cultural Relativism Means in Your Own Words.</u></a></li>
+<li><a href="https://windows11.techidaily.com/broken-binkey-bastion-proceed-prudently-not-promptly/"><u>Broken Binkey Bastion: Proceed Prudently, Not Promptly</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-the-path-fixing-windows-11-writable-errors/"><u>Clearing the Path: Fixing Windows 11' Writable Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/compact-guide-best-windows-forecasting-tools/"><u>Compact Guide: Best Windows Forecasting Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/dial-down-display-flicker-in-windows-11-devices/"><u>Dial Down Display Flicker in Windows 11 Devices</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-honor-x50withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Honor X50with/without a PC</u></a></li>
+<li><a href="https://win-tips.techidaily.com/how-recent-improvements-elevate-your-experience-with-ai-compositions-in-github-copilat-innovativetechnews/"><u>How Recent Improvements Elevate Your Experience with AI Compositions in GitHub Copilat | InnovativeTechNews</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/quick-fix-for-lost-login-reclaim-your-facebook-passcode/"><u>Quick Fix for Lost Login: Reclaim Your Facebook Passcode</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-to-exporting-your-video-from-adobe-after-effects/"><u>Step-by-Step Guide to Exporting Your Video From Adobe After Effects</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-oppo-find-x6-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Oppo Find X6 Device</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Boot-Up Bottlenes in LOL World
-date: 2025-01-29T00:20:05.551Z
-updated: 2025-01-29T19:07:58.553Z
+date: 2025-02-05T02:23:27.082Z
+updated: 2025-02-10T18:53:12.158Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Does League of Legends Refuse to Open on Windows Devices?
 
  There could be several reasons why League of Legends doesn't open on your device or gets stuck on the loading screen. Here are a few major ones:
@@ -43,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 
  If you encounter a specific error when you launch the game, then you should search for solutions specific to that error. Since every error has a different solution, applying the same fixes covered in this article may not fix all of them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Apply Preliminary Checks
 
  You should first apply the following preliminary fixes, as they may resolve the problem right away:
@@ -54,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 * Though less likely, having an outdated graphics driver can also cause the issue under discussion. To prevent this, be sure to [update your graphics driver on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/).
 
  If the above fixes don't help, start applying the remaining fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Wait It Out
 
@@ -70,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 ![router placed on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-router.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the device is connected, [check the stability of the internet connection](https://www.makeuseof.com/check-stability-internet-connection-windows/). If the connection appears to be unstable, [apply the appropriate fixes to stabilize it](https://www.makeuseof.com/tag/fix-slow-unstable-wi-fi-connection/).
@@ -91,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 ![Ending the Riot Process in Windows Task Manager App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/2-ending-the-riot-process-in-windows-task-manager-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Free Up System Resources
@@ -101,10 +105,6 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
  To see that, open Task Manager and check the CPU, GPU, and RAM usage. If the usage percentage for these resources touches 100% periodically, your hardware is under severe strain. In other words, the game doesn't have access to the required resources to function properly.
 
  If that is the case, you will need to close graphics-intensive tasks simultaneously running alongside the game. By closing them, your system will have more resources available that League of Legends can use to function smoothly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Delete the Config and Logs Folders
 
@@ -120,7 +120,7 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 ![Deleting the Config Folder of League of Legends in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/3-deleting-the-config-folder-of-league-of-legends-in-windows-file-explorer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Disable Any Active In-Game Overlays
@@ -131,10 +131,6 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 2. Navigate to the **Game Overlay** tab on the left.
 3. Turn off the toggle next to **Enable in-game overlay**.  
 ![Disabling the Discord Overlay](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Discord-Overlay.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you don't want to turn off the overlay for all games but only League of Legends, follow the below steps:
 
@@ -150,6 +146,10 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
  If the game opens for a few seconds and then closes down, the Windows Defender Firewall might be blocking it. To rule out this possibility, you should whitelist League of Legends from Windows Defender Firewall. If you've never done that before, check out our guide on [how to allow apps through Windows Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/).
 
  Similarly, if you're using a third-party antivirus that you think may interfere with the game process, either disable it or whitelist the game files through it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Reinstall League of Legends
 
@@ -173,18 +173,22 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-the-art-of-customizing-your-youtube-channel-url/"><u>[New] Mastering the Art of Customizing Your YouTube Channel URL</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-flexible-cam-mount-revolutionary-positioning-control-for-2024/"><u>[Updated] Flexible Cam Mount Revolutionary Positioning Control for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-decoding-inverse-image-retrieval-for-social-networks-focusing-on-fb/"><u>2024 Approved Decoding Inverse Image Retrieval for Social Networks, Focusing on FB</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-samsung-galaxy-f54-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Samsung Galaxy F54 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/best-in-class-premium-screenshots-and-recorders/"><u>Best in Class Premium Screenshots & Recorders</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/vate-audiences-with-this-essential-guide-to-making-youtube-shorts-for-2024/"><u>Captivate Audiences with This Essential Guide to Making YouTube Shorts for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/exploring-the-electrical-footprint-of-your-windows-device/"><u>Exploring the Electrical Footprint of Your Windows Device</u></a></li>
-<li><a href="https://windows11.techidaily.com/hunt-down-elusive-control-panel-options-on-windows-11/"><u>Hunt Down Elusive Control Panel Options on Windows 11</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Tecno Spark 10 Pro? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-from-your-iphone-12-mini-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled From your iPhone 12 mini? How to Fix</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-solutions-freeing-up-stuck-windows-11-pins/"><u>Quick Solutions: Freeing Up Stuck Windows 11 PINs</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/solving-troubleshooting-premiere-pro-and-generic-import-errors/"><u>Solving, Troubleshooting, Premiere Pro, and Generic Import Errors.</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-tutorial-for-managing-archive-files-via-cmd/"><u>The Ultimate Tutorial for Managing Archive Files via CMD</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-power-of-niche-hashtags-for-targeted-instagram-reach/"><u>[New] 2024 Approved The Power of Niche Hashtags for Targeted Instagram Reach</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-the-path-to-profitable-fb-animation-ad-success-stories/"><u>[Updated] 2024 Approved The Path to Profitable FB Animation Ad Success Stories</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-transform-your-browsing-with-ms-edges-pip-for-2024/"><u>[Updated] Transform Your Browsing with MS Edge's PIP for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-simple-guide-for-correcting-lsassexe-issue/"><u>A Simple Guide for Correcting 'lsass.exe' Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-windows-11-key-inactivity-issues/"><u>Addressing Windows 11 Key Inactivity Issues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-contenders-in-code-quest-the-battle-between-chatgpt-and-gemini-unveiled/"><u>AI Contenders in Code Quest: The Battle Between ChatGPT and Gemini Unveiled</u></a></li>
+<li><a href="https://windows11.techidaily.com/arcade-mode-for-window-users-key-fixes-ahead/"><u>Arcade Mode for Window Users: Key Fixes Ahead!</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquering-parsing-setback-code-0xc00ce556/"><u>Conquering Parsing Setback: Code 0xC00CE556</u></a></li>
+<li><a href="https://windows11.techidaily.com/controlling-application-spaces-in-windows-task-mgr/"><u>Controlling Application Spaces in Windows Task Mgr</u></a></li>
+<li><a href="https://windows11.techidaily.com/customizing-graphics-output-for-enhanced-clarity/"><u>Customizing Graphics Output for Enhanced Clarity</u></a></li>
+<li><a href="https://windows11.techidaily.com/demystifying-microsoft-family-safety-functions/"><u>Demystifying Microsoft Family Safety Functions</u></a></li>
+<li><a href="https://windows11.techidaily.com/disabling-microsoft-store-failure-codes-x800704cf/"><u>Disabling Microsoft Store Failure Codes X800704CF</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-visionary-vittles-steps-to-craft-food-films/"><u>In 2024, Visionary Vittles Steps to Craft Food Films</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ram-availability/"><u>RAM Availability</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/step-by-step-guide-accessing-and-transferring-your-iphones-voice-memo-files/"><u>Step-by-Step Guide: Accessing and Transferring Your iPhone's Voice Memo Files</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-ultimate-guide-to-ipados-drawing-wonders-for-2024/"><u>The Ultimate Guide to iPadOS Drawing Wonders for 2024</u></a></li>
 </ul></div>
 

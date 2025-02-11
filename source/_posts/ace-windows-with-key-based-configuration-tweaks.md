@@ -1,7 +1,7 @@
 ---
 title: Ace Windows with Key-Based Configuration Tweaks
-date: 2024-08-15T15:24:29.365Z
-updated: 2024-08-16T15:24:29.365Z
+date: 2025-02-06T02:45:44.813Z
+updated: 2025-02-10T16:29:58.490Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/beb79c97cd88302125e646092101e6316bc065b6e
 
  Remember, you can't use the redo command without undoing an action first.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Undo on Windows With a Keyboard Shortcut
 
  The**Undo** command is an anti-clockwise curved arrow on the Quick Access Toolbar that you can click with a mouse or with the left-click button on your laptop trackpad.
@@ -41,24 +45,17 @@ thumbnail: https://thmb.techidaily.com/beb79c97cd88302125e646092101e6316bc065b6e
  You can also undo several actions at a time by clicking the down arrow next to**Undo** , selecting the actions in the list that you want to undo, and then clicking the list.
 
 ![Word Document Showing Undoing Several Actions Together](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/undo-several-actions-together-on-word.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 
  You can even undo changes after saving and then save again. However, you can't undo some actions, such as clicking commands on the**File** tab or saving a file.
 
 ![Undo Command Changed to Can't Undo on Word Document](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/undo-changed-to-can-t-undo.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you can't undo an action, the**Undo** command changes to**Can't Undo** , and the arrow icon dims out.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Redo in a Snap With Redo Hotkeys
 
  You can save time and quickly redo an action by pressing the**Ctrl+Y** or**F4** redo hotkeys. If F4 doesn't work, first press the**F-Lock** key or**Fn** key, then**F4** .
@@ -66,34 +63,34 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
  You can also redo with the mouse by clicking**Redo** , the clockwise curved arrow next to**Undo** , on the Quick Access toolbar. You'll notice that the**Redo** arrow only appears after you've undone an action.
 
 ![Redo Command Highlighted on Word Document](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/redo-on-windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also use the same redo shortcut**Ctrl+Y** or**F4** to repeat something. It can be pasting the same text multiple times or using the same color to highlight different lines of text.
 
 ![Color of Text Changed Using Repeat Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/repeat-on-windows-using-hotkey-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you like using your keyboard to perform actions, be sure to check out [how to use KeyTips in Microsoft Office](https://www.makeuseof.com/keytips-microsoft-office-how-to-use/) .
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Use Undo and Redo Hotkeys for a Speedier Windows Experience
 
  One of the most invaluable things we can't recover is lost time. So start using undo and redo hotkeys on Windows to save some time and a few clicks. And if you like, you can also check out all of Windows 11's keyboard shortcuts to work smarter and faster.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -102,8 +99,24 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-professionalizing-virtual-collaboration-zoom-recording-tips-for-2024/"><u>[New] Professionalizing Virtual Collaboration Zoom Recording Tips for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-a-visual-feast-delving-into-the-world-of-asuss-4k-uxga-screen/"><u>[Updated] A Visual Feast Delving Into the World of ASUS's 4K UXGA Screen</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-quick-video-value-calculation-tools/"><u>[Updated] Quick Video Value Calculation Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-turning-live-radio-into-a-personal-archive-step-by-step-instructions/"><u>[Updated] Turning Live Radio Into a Personal Archive Step-by-Step Instructions</u></a></li>
+<li><a href="https://windows11.techidaily.com/circumventing-windows-policies-preventing-app-deployment/"><u>Circumventing Windows Policies Preventing App Deployment</u></a></li>
+<li><a href="https://windows11.techidaily.com/combating-steams-inability-to-synch-with-windows-folders/"><u>Combating Steam's Inability to Synch with Windows Folders</u></a></li>
+<li><a href="https://some-tips.techidaily.com/essential-components-of-a-successful-digital-twins-strategy-integrating-ai-insights-learn-the-keys-on-zdnet/"><u>Essential Components of a Successful Digital Twins Strategy: Integrating AI Insights - Learn the Keys on ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/fast-startup-mastery-in-windows-11-a-comprehensible-guide/"><u>Fast Startup Mastery in Windows 11 - A Comprehensible Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/fast-track-eliminate-extra-software-in-windows-11/"><u>Fast Track: Eliminate Extra Software in Windows 11</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/o-become-a-youtube-partner-you-need-10000-views-now/"><u>How to Become a YouTube Partner - You Need 10,000 Views Now!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-brief-cinematic-story-outline/"><u>In 2024, Brief Cinematic Story Outline</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-navigating-the-features-of-magix-video-pro-x/"><u>In 2024, Navigating the Features of Magix Video Pro X</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-windows-obstacles-expert-advice-awaits/"><u>Overcome Windows Obstacles: Expert Advice Awaits!</u></a></li>
+<li><a href="https://windows11.techidaily.com/swipe-to-learn-comparing-windows-10-ui-with-windows-11/"><u>Swipe to Learn: Comparing Windows 10 UI with Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-error-code-3-nvidias-win10-and-11-woes/"><u>Tackling Error Code 3: NVIDIA's Win10 & 11 Woes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-the-new-iphone-15-outshines-competitors-a-comprehensive-review-tailored-for-pros-gadgetsphere/"><u>Why the New iPhone 15 Outshines Competitors: A Comprehensive Review Tailored for Pros | GadgetSphere</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-error-trouble-with-compatibility-tool-here-are-quick-solutions/"><u>Windows Error: Trouble with Compatibility Tool? Here Are Quick Solutions.</u></a></li>
+</ul></div>
 

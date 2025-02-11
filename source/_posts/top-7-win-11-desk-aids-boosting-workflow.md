@@ -1,7 +1,7 @@
 ---
 title: Top 7 Win 11 Desk Aids Boosting Workflow
-date: 2024-08-15T15:26:20.172Z
-updated: 2024-08-16T15:26:20.172Z
+date: 2025-02-05T03:54:37.083Z
+updated: 2025-02-11T00:00:34.090Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/3a8d29dc752129bc6cecd890184a07ba60927370b
 
  Widgets are a fast and easy way to view important updates at a glance, and it’s simple to get started. Here’s a list of the best Windows 11 widgets to improve your productivity.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Add Widgets in Windows 11
 
 ![Widgets settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/widgets-settings-in-windows-11.jpg)
@@ -30,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/3a8d29dc752129bc6cecd890184a07ba60927370b
 
  To access all of Microsoft’s widgets, you’ll need to be signed in to your Microsoft account. Click the profile icon at the top right of the widgets board. At the top of the widget settings, hit the sign-in button to log in to your Microsoft account. Let’s explore the best widgets to boost your productivity.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## 1\. Outlook Calendar
 
 ![Outlook Calendar productivity widget Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/outlook-calendar-productivity-widget-windows-11.jpg)
@@ -41,20 +42,18 @@ thumbnail: https://thmb.techidaily.com/3a8d29dc752129bc6cecd890184a07ba60927370b
 
  If you’re in a hurry, you can schedule an event directly from the widget. You can also set event reminders and change the time zone, which is a [useful tip when working in different time zones](https://www.makeuseof.com/time-management-tips-different-time-zones/). Outlook Calendar also has some useful customization options, such as selecting which calendars to view (if you have more than one.) To customize the widget, hit the three dots at the top right of the widget.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. To Do
 
 ![Microsoft To Do widget Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/microsoft-to-do-widget-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Microsoft To Do is a powerful daily productivity planner, packed with tools to help you be more efficient and build a better to-do list. If you’re new to the app, check out our [beginner’s guide to Microsoft To Do](https://www.makeuseof.com/a-beginners-guide-to-microsoft-to-do-how-to-organize-your-personal-and-work-life/).
 
  The To Do widget puts all the app’s essentials into one condensed space. Using the dropdown at the top of the widget, you can easily switch between different lists. For an overview of all your to-do items, click on **Tasks**. The **My Day** tab is another useful tool for viewing urgent tasks. To Do syncs with your mobile app, so you can keep up-to-date with your schedule. Best of all, you can add new tasks directly from the widget.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Focus Session
 
 ![Focus session widget expanded view Windows 11-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/focus-session-widget-expanded-view-windows-11-1.jpg)
@@ -66,8 +65,9 @@ thumbnail: https://thmb.techidaily.com/3a8d29dc752129bc6cecd890184a07ba60927370b
  You can also change which features are disabled during focus sessions by heading to the Windows Settings page and then navigating to **System > Focus**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Phone Link
 
 ![Phone Link widget Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/phone-link-widget-windows-11.jpg)
@@ -77,28 +77,12 @@ thumbnail: https://thmb.techidaily.com/3a8d29dc752129bc6cecd890184a07ba60927370b
  To get started, simply select your mobile’s operating system from the widget, then scan the QR code to link your mobile to your PC. You can also send text messages and make calls using Phone Link. The widget features some useful information about your device’s status, including its battery, Wi-Fi connectivity, and signal strength. You can open the Phone Link app in full by clicking the phone icon from the widget.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Tips
 
 ![Tips Windows 11 widget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tips-windows-11-widget.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 
  If you’re new to using Windows 11 widgets, this next tool can help you learn the basics. Microsoft’s Tips widget provides hints on using widgets alongside tips to help you get around Windows 11\.
 
@@ -107,6 +91,10 @@ Key features:
 ## 6\. Memory Check
 
 ![Memory check widget Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/memory-check-widget-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Memory Check is a widget not offered by Microsoft but can be found on the Microsoft Store. After installing the app, you can find it from your widgets sidebar.
 
@@ -117,8 +105,9 @@ Key features:
 ## 7\. Memodown
 
 ![Memodown widget note taking Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/memodown-widget-note-taking-windows-11.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Memodown is another third-party widget built with many note-taking tools to boost your productivity. The app allows you to create sticky notes and pin them as Windows 11 widgets.
@@ -133,8 +122,6 @@ Key features:
 
  Widgets are a fast and easy way to view important updates at a glance, and it’s simple to get started. Here’s a list of the best Windows 11 widgets to improve your productivity.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -142,5 +129,21 @@ Key features:
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-professionals-picks-windows-11-video-creation-apps-for-2024/"><u>[New] Professionals' Picks Windows 11 Video Creation Apps for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-tackling-windows-files-swiftly-and-smartly-for-2024/"><u>[New] Tackling Windows Files Swiftly and Smartly for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-video-quality-using-madvr-on-windows/"><u>Boosting Video Quality: Using MadVR on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/climate-control-experts-the-finest-windows-11-apps/"><u>Climate Control Experts: The Finest Windows 11 Apps</u></a></li>
+<li><a href="https://fox-place.techidaily.com/data-secure-methods-successfully-duplicating-windows-10-dynamic-disks-without-losing-information/"><u>Data-Secure Methods: Successfully Duplicating Windows 10 Dynamic Disks Without Losing Information</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-ways-to-get-the-latest-sata-driver-software-on-your-pc-running-windows/"><u>Easy Ways to Get the Latest SATA Driver Software on Your PC Running Windows</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-xbox-chronicles-unveiled-mastering-4-techniques-to-record-playthroughs/"><u>In 2024, Xbox Chronicles Unveiled Mastering 4 Techniques to Record Playthroughs</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-correcting-roblox-error-262/"><u>Mastering the Art of Correcting Roblox Error 262</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-and-reviving-winget-a-guide-for-windows-11-users/"><u>Navigating and Reviving Winget: A Guide for Windows 11 Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-youtube-premium-offers-for-students-a-comprehensive-primer/"><u>Navigating YouTube Premium Offers for Students - A Comprehensive Primer</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/perfect-your-conversations-with-google-chromes-gpt-extension/"><u>Perfect Your Conversations with Google Chrome’s GPT Extension</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-apple-image-import-failures-in-windows-10-and-11/"><u>Solutions for Apple Image Import Failures in Windows 10 & 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-asmrists-aiding-the-nighttime-ritual-for-2024/"><u>Top ASMRists Aiding the Nighttime Ritual for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/tweak-display-posture-in-windows-software/"><u>Tweak Display Posture in Windows Software</u></a></li>
+</ul></div>
 

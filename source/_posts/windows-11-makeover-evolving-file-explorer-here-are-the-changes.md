@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Makeover: Evolving File Explorer, Here Are the Changes"
-date: 2024-08-15T15:26:26.377Z
-updated: 2024-08-16T15:26:26.377Z
+date: 2025-02-09T16:13:48.052Z
+updated: 2025-02-11T02:20:19.048Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/38249dc1564a485522fb48e31e168d5147b5976c3
  Microsoft revolutionized its flagship operating system’s design in Windows 11 and also bought many changes under the hood. But the improvements didn’t just stop there. Microsoft pushed a lot of minor yet useful feature additions with the 21H2 and 22H2 updates.
 
  Windows File Explorer is one of the areas where Microsoft made some exciting additions that were absent in older versions. In this post, we will discuss all the noteworthy changes done to the File Explorer, some of which are yet to arrive in stable builds at the time of writing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Home Section
 
@@ -41,42 +45,33 @@ thumbnail: https://thmb.techidaily.com/38249dc1564a485522fb48e31e168d5147b5976c3
  You can easily spot its recent activity; check out its details without opening the Properties window. It also includes sharing the file using the inbuilt file-sharing methods or opening the Properties window without opening the right-click context menu.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. File Explorer Tabs
 
  Tabs are great in any application with multiple files or folder locations. The File Explorer in Windows 11 and its predecessors lacked this feature, forcing users to create multiple windows to manage files in various locations. Microsoft eventually fixed this, making the overall app experience much better.
 
 ![Tabs in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/tabs-in-file-explorer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can easily create multiple apps in a single window and move files or folders across them. You can even [drag tabs from a File Explorer window](https://www.makeuseof.com/drag-tabs-out-file-explorer-windows-11/) to create a different window and drag that tab back to another File Explorer window as you do in the Chrome browser. This feature reduced reliance on third-party apps that market the same feature as a USP.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. A Gallery Section
 
  Like the Home section, another small add-on may soon arrive in File Explorer based on Windows Apps SDK in the Gallery section. At the time of writing, Microsoft is testing a [Gallery section in File Explorer](https://www.makeuseof.com/enable-gallery-file-explorer-windows-11/) that categorizes your PC's images. It pulls images from the Pictures and OneDrive folder and sorts them by date in descending order.
 
 ![New Gallery Section in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/new-gallery-section-in-file-explorer.jpg)
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  A nice scroll bar displays the start and end date of the images, and you can use it to move across hundreds of photos swiftly. Apart from the two default folders, you can add more folders to the collection to display images stored in other locations.
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. An Improved Context Menu
 
  The right-click context menu was a significant surprise in Windows 11 but is gradually improving. You can find relevant options like Install whenever you right-click on an app installer file. The menu is also concise now, and you can view the full version when you click on the Show More options. Similarly, a few minor tweaks to the right-click context menu make it better.
@@ -88,29 +83,24 @@ thumbnail: https://thmb.techidaily.com/38249dc1564a485522fb48e31e168d5147b5976c3
  There is a dedicated OneDrive option in the File Explorer’s menu bar. You can click on it to view the overall used space and quickly access the app’s settings, start file sync, or upgrade your plan. The files in the OneDrive page in File Explorer display a Status section using which you can identify which files are available on the Disk and which ones are accessible in online mode.
 
 ![Microsoft 365 Products Integration in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/microsoft-365-products-integration-in-file-explorer.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
  Microsoft is also experimenting with a new Home page in the Settings app, which will also offer a glance at the currently used OneDrive storage space.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## 7\. Built-In File Archive Support
 
 ![RAR Archive Support in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rar-archive-support-in-file-explorer.jpg)
 
  File Explorer has had ZIP archive support for a long time but lacked the same for other popular formats such as RAR and 7Z. But after a new feature upgrade to the Insider build in the Dev Channel, the [File Explorer app can view and extract archive formats](https://www.makeuseof.com/enable-archive-support-windows-11/). So, you wouldn’t have to download WinRar whenever you want to extract a RAR file.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## File Explorer Is Evolving in Windows 11
 
  File Explorer will become more powerful as some of the aforementioned features arrive in the stable channel. Not everyone is a fan of Microsoft 365 integration in File Explorer. Still, much-needed additions like the broader archive format support, tabs feature, and the Gallery section improve the app's overall usability.
 
  Windows File Explorer is one of the areas where Microsoft made some exciting additions that were absent in older versions. In this post, we will discuss all the noteworthy changes done to the File Explorer, some of which are yet to arrive in stable builds at the time of writing.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -119,5 +109,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevating-your-gameplay-on-youtube-with-these-essential-tags/"><u>[New] In 2024, Elevating Your Gameplay on YouTube with These Essential Tags</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-excellence-in-starting-points-for-panzoids/"><u>[Updated] Excellence in Starting Points for Panzoids</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hot-list-todays-youtube-sensations/"><u>[Updated] In 2024, Hot List Today's YouTube Sensations</u></a></li>
+<li><a href="https://win-data.techidaily.com/are-you-using-the-latest-scanner-drivers-discover-how-on-yl-computings-guide/"><u>Are You Using the Latest Scanner Drivers? Discover How on YL Computing's Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-podcast-imagery-creating-memorable-graphics/"><u>In 2024, The Art of Podcast Imagery Creating Memorable Graphics</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-techniques-for-an-opening-windows-terminal/"><u>Mastering Techniques for an Opening Windows Terminal</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-touchpad-sensitivity-in-windows-11-devices/"><u>Mastering Touchpad Sensitivity in Windows 11 Devices</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/quick-strategies-logging-lectures-in-ppt/"><u>Quick Strategies Logging Lectures in PPT</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-steps-to-launch-wordpad-on-windows/"><u>Seamless Steps to Launch WordPad on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-resolving-windows-11s-isdonedll-problems/"><u>Strategies for Resolving Windows 11'S ISDone.dll Problems</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-inactive-mail-signals-on-desktop-os/"><u>Tackling Inactive Mail Signals on Desktop OS</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726030532953-top-5-premium-no-cost-movie-editing-tools-compatible-with-windows-and-macos-updated-guide/"><u>Top 5 Premium, No-Cost Movie Editing Tools Compatible with Windows & macOS (Updated Guide)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/windows-10-simplified-enablingdisabling-screen-typing-tools-for-accessibility-and-convenience/"><u>Windows 10 Simplified: Enabling/Disabling Screen Typing Tools for Accessibility and Convenience</u></a></li>
+</ul></div>
 

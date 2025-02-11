@@ -1,7 +1,7 @@
 ---
 title: "Tackling Sound Glitches on Windows 11: Error 0XC00D36B4"
-date: 2025-01-22T21:23:56.817Z
-updated: 2025-01-30T08:13:09.465Z
+date: 2025-02-04T06:34:03.595Z
+updated: 2025-02-11T04:52:40.129Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/724743278e3cc8c3d6bd3e09a36a5228f2284123f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Understanding the Problem Behind Audio Error 0xc00d36b4 on Windows
@@ -58,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/724743278e3cc8c3d6bd3e09a36a5228f2284123f
 
  We covered how to use this handy tool in our guide on[fixing no audio on Windows](https://www.makeuseof.com/tag/no-sound-7-tips-fix-audio-issues-windows-10/) , so check that out for further details.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Re-enable Windows Media Player
 
  In some cases, while the Media Player is waiting for a missing codec or a corrupt file to load, it may become unresponsive, triggering the error code 0xc00d36b4\. If this happens, it is best to force close the media player and re-enable it to fix the problem.
@@ -80,7 +76,7 @@ Here is how you can do that:
 7. Confirm your action in the User Account Control prompt and restart your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Upon reboot, restart the service by following the same steps mentioned above.
@@ -100,7 +96,7 @@ Here is how you can do that:
 5. Once done, restart your computer and check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Disable Copy Protection
@@ -120,7 +116,11 @@ Here is how you can do that:
 4. Click**Apply** \>**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Update Audio Drivers
@@ -156,18 +156,21 @@ Here is how you can do that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-master-quick-photo-collage-with-google-images-in-minutes/"><u>[New] 2024 Approved Master Quick Photo Collage with Google Images in Minutes</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-top-camera-mastery-films-best-practices-unveiled/"><u>[New] Top Camera Mastery Film's Best Practices Unveiled</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/t-insights-on-forging-youtube-sponsorship-bonds-using-famebit/"><u>Expert Insights on Forging YouTube Sponsorship Bonds Using FameBit</u></a></li>
-<li><a href="https://fox-that.techidaily.com/issues-facing-iphone-12-users-and-effective-fixes-at-hand/"><u>Issues Facing iPhone 12 Users and Effective Fixes at Hand</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-volume-mixer-windows-11-sounds-configuration-steps/"><u>Mastering the Volume Mixer: Windows 11 Sounds Configuration Steps</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mkv-playback-issues-on-galaxy-xcover-6-pro-tactical-edition-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV playback issues on Galaxy XCover 6 Pro Tactical Edition</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigate-and-conceal-pc-folders-with-ease-windows-11/"><u>Navigate and Conceal PC Folders with Ease (Windows 11)</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-windows-11-system-call-errors/"><u>Overcoming Windows 11 System Call Errors</u></a></li>
-<li><a href="https://windows11.techidaily.com/prime-tools-for-your-gameplay-selecting-best-fps-counter-apps-in-windows-11/"><u>Prime Tools for Your Gameplay: Selecting Best FPS Counter Apps in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/solutions-for-recovering-lost-router-configuration/"><u>Solutions for Recovering Lost Router Configuration</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-revive-a-non-responsive-gamepad/"><u>Strategies to Revive a Non-Responsive Gamepad</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/unravel-enigmas-your-guide-to-elite-escape-spaces-for-2024/"><u>Unravel Enigmas Your Guide to Elite Escape Spaces for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1724766258181-18/"><u>デジアーティ: 18周年を祝う限定コレクション</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-enhance-your-real-time-periscope-performance/"><u>[New] In 2024, Enhance Your Real-Time Periscope Performance</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-sea-to-sea-recording-best-action-cameras-for-anglers/"><u>[New] In 2024, Sea-to-Sea Recording Best Action Cameras for Anglers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-consolidated-calendar-management-merge-mobile-and-pc-zoom-dates/"><u>[Updated] 2024 Approved Consolidated Calendar Management Merge Mobile and PC Zoom Dates</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tomorrows-evaluation-creative-pathways/"><u>[Updated] Tomorrow’s Evaluation Creative Pathways</u></a></li>
+<li><a href="https://extra-information.techidaily.com/above-and-beyond-selecting-premium-software-for-drone-filmmaking-for-2024/"><u>Above & Beyond Selecting Premium Software for Drone Filmmaking for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-repeatedly-spotted-edge-buttons/"><u>Fixing Repeatedly Spotted Edge Buttons</u></a></li>
+<li><a href="https://techtrends.techidaily.com/get-ahead-with-education-the-best-7-complimentary-study-apps-for-students/"><u>Get Ahead with Education: The Best 7 Complimentary Study Apps for Students</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-quickly-fix-keyboard-issues-in-windows-snipper/"><u>How to Quickly Fix Keyboard Issues in Window's Snipper</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-see-old-notifications-on-an-iphone/"><u>How to See Old Notifications on an iPhone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-boosting-revenue-through-effective-facebook-video-marketing/"><u>In 2024, Boosting Revenue Through Effective Facebook Video Marketing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722976969102-latest-firmware-update-available-for-logitech-extreme-3d/"><u>Latest Firmware Update Available for Logitech Extreme 3D!</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-batch-file-transformation-executable-edition/"><u>Mastering Batch File Transformation: Executable Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-reference-guide-to-overcoming-winscombvc-issues/"><u>Quick Reference Guide to Overcoming WinScombVc Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-integration-how-to-get-and-run-msibundle-and-appxappxbundles/"><u>Seamless Integration: How to Get & Run MsiBundle & Appx/Appxbundles</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-to-unlock-your-computers-windows-license/"><u>Techniques to Unlock Your Computer's Windows License</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-full-potential-of-the-windows-11-taskbar/"><u>Unlock the Full Potential of the Windows 11 Taskbar</u></a></li>
 </ul></div>
 

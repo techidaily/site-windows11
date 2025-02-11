@@ -1,7 +1,7 @@
 ---
 title: "The Complete Blueprint: Instantly Creating Multiple Directories for a Neat Workspace on Windows"
-date: 2025-01-24T22:45:36.559Z
-updated: 2025-01-30T02:13:44.164Z
+date: 2025-02-08T03:05:04.343Z
+updated: 2025-02-10T22:52:37.168Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/7e377b50c4e513bd18b3a4caf17d4fa401f54e28d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Use the Command Prompt to Create Multiple Folders at Once
 
  In this first method, we will be using a command-line utility called Command Prompt in Windows. Unless you are very tech-savvy, you may not have noticed it anywhere in Windows, but it has been around for quite a long time.
@@ -43,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/7e377b50c4e513bd18b3a4caf17d4fa401f54e28d
 3. Click **Yes** in the User Account Control prompt.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Type the following command in the Command Prompt window and hit **Enter** to execute it. Make sure to replace the \[location\] with the location where you want to create multiple folders.  
@@ -67,6 +63,10 @@ thumbnail: https://thmb.techidaily.com/7e377b50c4e513bd18b3a4caf17d4fa401f54e28d
 ![UAC prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-terminal-uac.jpg)
 3. Now, execute the command mentioned below and change the \[Location\] with your targeted location for creating the folders.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `cd [Location]`
 4. We want to create the sub-folders in the document folders, so we will be executing the following command:  
 `cd C:\users\hp\documents`  
@@ -78,7 +78,15 @@ thumbnail: https://thmb.techidaily.com/7e377b50c4e513bd18b3a4caf17d4fa401f54e28d
 `md "january", "february", "march", "april"`  
 ![File names command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-terminal-md-files.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Finally, close the Powershell window and check if the folders have been created.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Use the Notepad to Create Multiple Folders at Once
 
@@ -96,10 +104,6 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 ![Notepad command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-notepad-command.jpg)
 4. After you have typed down the names of all the folders and subfolders that you want to create, navigate to **File** in the top-left corner and choose **Save as**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Save as option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/notepad-save-as.jpg)
 5. Give your file a name followed by **.bat**. For instance, we named our file as makeuseof.bat.  
 
@@ -112,7 +116,7 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
  Now that you have created multiple files and folders, [organizing these files on Windows](https://www.makeuseof.com/tag/automatically-organize-files-windows/) is also worth considering if you do not want to spend a lot of time looking for information in them. Additionally, Windows also allows you to [rename multiple folders at once](https://www.makeuseof.com/cool-folder-tips-windows/), which can be helpful when organizing them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Use a Third-Party Application
@@ -135,17 +139,13 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 ![Clicking Yes in the UAC prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/folder-frenzy-agreement.jpg)
 4. Once the Folder Frenzy dialog launches, type the names of the folders you want to create and click on the **Create Folder** button. These folders will be created in the Folder Frenzy file.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Create folder in Folder Frenzy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/folder-frenzy-create-folder.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  From here, you can even take a step further and learn [how to launch multiple programs with one shortcut on Windows](https://www.makeuseof.com/tag/launch-multiple-programs-single-shortcut-using-batch-file/) to increase your productivity at work or school. In case you no longer need the tool after creating bulk folders, you can uninstall it. This won't automatically delete the folders you have created using the tool, unless the uninstallation process explicitly offers to do so and you confirm that action.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Create Multiple Folders in a Few Clicks on Windows
 
@@ -165,18 +165,18 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-select-top-6-apps-for-creating-impressive-photo-shows/"><u>[New] Select Top 6 Apps for Creating Impressive Photo Shows</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-capturing-clarity-selecting-10-superior-lenses/"><u>2024 Approved Capturing Clarity Selecting 10 Superior Lenses</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-microsoft-copilot-transforms-modern-software-creation/"><u>How Microsoft Copilot Transforms Modern Software Creation</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-resolve-microsoft-written-install-net-message/"><u>How to Resolve Microsoft' Written: Install .NET Message</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-you-cast-your-apple-iphone-13-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>In 2024, How Can You Cast Your Apple iPhone 13 to Windows PC With Ease? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-htc-u23-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from HTC U23 Pro to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-the-beginners-path-to-a-unique-youtube-url/"><u>In 2024, The Beginner's Path to a Unique YouTube URL</u></a></li>
-<li><a href="https://windows11.techidaily.com/no-more-obsolete-windows-attributes/"><u>No More: Obsolete Windows Attributes</u></a></li>
-<li><a href="https://windows11.techidaily.com/taskbar-chat-functionality-in-windows-11-what-happens-when-we-take-away-this-feature/"><u>Taskbar Chat Functionality in Windows 11: What Happens When We Take Away This Feature</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlock-controller-recognition-in-steam-on-windows/"><u>Unlock Controller Recognition in Steam on Windows</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/unlocking-classroom-potential-with-simple-methods-to-record-mac-lectures/"><u>Unlocking Classroom Potential with Simple Methods to Record Mac Lectures</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-windows-11s-taskbar-features-for-tablet-users/"><u>Unveiling Windows 11'S Taskbar Features for Tablet Users</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-superior-video-editor-the-vimeo-edition/"><u>[New] In 2024, Superior Video Editor The Vimeo Edition</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-rediscover-the-past-watching-youtubes-lost-footage-for-2024/"><u>[Updated] How to Rediscover the Past Watching Youtube's Lost Footage for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-tutorial-for-spreading-playlists/"><u>2024 Approved The Ultimate Tutorial for Spreading Playlists</u></a></li>
+<li><a href="https://windows11.techidaily.com/achieve-peak-performance-with-multi-task-proficiency-on-windows-11-pcs/"><u>Achieve Peak Performance with Multi-Task Proficiency on Windows 11 PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/command-line-enhancement-for-taskmanager-windows-11/"><u>Command Line Enhancement for TaskManager (Windows 11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/comprehensive-guide-setting-up-outlook-preview-for-w10w11/"><u>Comprehensive Guide: Setting up Outlook Preview for W10/W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquering-c0000005-on-windows-operating-systems/"><u>Conquering C0000005 on Windows Operating Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-dual-monitor-mishaps-on-your-pc/"><u>Correcting Dual Monitor Mishaps on Your PC</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/executing-exe-files-on-windows-pcs-a-step-by-step-guide-from-yl-software/"><u>Executing .exe Files on Windows PCs - A Step-by-Step Guide From YL Software</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-vivo-g2-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Vivo G2 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-the-insiders-guide-to-recording-on-itunes/"><u>In 2024, The Insider's Guide to Recording on iTunes</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600703033-unshackle-hidden-files-no-money-down/"><u>Unshackle Hidden Files, No Money Down</u></a></li>
+<li><a href="https://video-capture.techidaily.com/pc/"><u>ストリーム配信をキャプチャし、PCやスマホで安全に保管するためのテクニック</u></a></li>
 </ul></div>
 

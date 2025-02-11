@@ -1,7 +1,7 @@
 ---
 title: Resolving Responsiveness Issues with Resource Monitor Apps on Win11
-date: 2025-01-23T06:04:37.293Z
-updated: 2025-01-29T16:50:58.774Z
+date: 2025-02-04T01:43:39.971Z
+updated: 2025-02-11T02:43:58.060Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Causes the Resource Monitor App to Stop Working?
 
  Before we dive into solving the problem, let's first check what causes the Resource Monitor app to stop working correctly. There are a few potential causes you should consider.
@@ -42,6 +38,10 @@ So, let's move on to the solution and fix this problem.
 ## 1\. Restart the Computer
 
 ![windows restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/windows-restart.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When troubleshooting software-related issues, a computer restart can often resolve them without resorting to complex solutions. Doing so refreshes all running programs and services while also clearing out any temporary files that might be causing problems.
 
@@ -59,6 +59,10 @@ To change the DPI scale to its default settings, follow these steps:
 4. Under the**Scale & layout** section, click the drop-down menu next to the**Scale** option.  
 ![Change DPI Scale in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/change-dpi-scale-in-settings.jpg)
 5. Choose the recommended value.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you have made the changes, close the Settings window and run the Resource Monitor app to see if the problem is resolved.
 
@@ -88,10 +92,6 @@ sfc /scannow
 3. When Windows Update opens, click the**Check for updates** button.  
 ![Check for Updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/check-for-updates.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If there are any updates available, it will download and install them automatically. After the download completes, install the updates and restart your computer. After that, check to see if Resource Monitor is working.
 
 ## 5\. Uninstall the Latest Windows Updates
@@ -104,16 +104,12 @@ sfc /scannow
 ![Update history in Windows Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/update-history-in-windows-update.jpg)
 4. Scroll down to Related settings and click**Uninstall updates** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Uninstall the latest Windows Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-the-latest-windows-update.jpg)
 
  Then select any recent updates that you want to uninstall. After that, restart your computer and check if Resource Monitor is now working properly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Create a New User Account
@@ -142,7 +138,7 @@ In such a case, you need to perform a clean boot as instructed below:
 4. Uncheck the**Load startup items** box.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Switch to the**Services** tab and check the**Hide all Microsoft services** box.  
@@ -150,13 +146,17 @@ In such a case, you need to perform a clean boot as instructed below:
 6. Then click**Disable All** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Go to the Startup tab and click the**Open Task Manager** link
 8. Disable any services or programs that are active in Startup apps.
 
  Once you have done this, close Task Manager, then click**OK** on the MSConfig window to save these changes. Now restart your computer for them to take effect, then try using Resource Monitor to see if they work now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Resolve Resource Monitor Issues in Windows 11
 
@@ -177,20 +177,21 @@ In such a case, you need to perform a clean boot as instructed below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/android-plus-mac-save-and-secure-snapchat-videos-for-2024/"><u>Android + Mac Save and Secure Snapchat Videos for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-admin-focused-issues-in-windows-security-framework/"><u>Fixing Admin-Focused Issues in Windows Security Framework</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-xc0000142-blue-screen-in-win10win11/"><u>Fixing XC0000142 Blue Screen in WIN10/WIN11</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Vivo Y77t? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-iphone-se-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>In 2024, How to Bypass iPhone SE Passcode Easily Video Inside | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-xiaomi-redmi-note-12-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Xiaomi Redmi Note 12 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ration-on-screen-top-youtube-themes-for-channels-prosperity-for-2024/"><u>Inspiration on Screen Top YouTube Themes for Channels' Prosperity for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/key-tools-enabling-seamless-shift-from-mac-os-to-windows-powered-pc/"><u>Key Tools Enabling Seamless Shift From Mac OS to Windows-Powered PC</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/optics-specialists-guide-to-prescription-lenses-that-shield-eyes-from-computer-radiation-and-blue-light-exposure/"><u>Optics Specialist's Guide to Prescription Lenses that Shield Eyes From Computer Radiation and Blue Light Exposure</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-correct-user-profile-service-failures-in-windows/"><u>Step-by-Step Guide to Correct User Profile Service Failures in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/techniques-to-turn-back-the-dial-from-dark-ui/"><u>Techniques to Turn Back the Dial From Dark UI</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-illusionists-toolkit-drawing-on-win-1011/"><u>The Illusionist's Toolkit: Drawing on Win 10/11</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/347751-9781440637407-the-kybalion/"><u>The Kybalion | Free Book</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-the-potential-of-disks-on-win-1011-systems/"><u>Unlocking the Potential of Disks on Win 10/11 Systems</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-the-excellent-church-streaming-services/"><u>[New] Navigating the Excellent Church Streaming Services</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-pixel-to-perfection-hardware-or-code-for-streamers/"><u>[New] Pixel to Perfection Hardware or Code for Streamers?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-setting-up-your-mac-for-flawless-minecraft-sessions/"><u>[Updated] 2024 Approved Setting Up Your Mac for Flawless Minecraft Sessions</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-unlocking-video-potential-youtube-to-igtv/"><u>[Updated] 2024 Approved Unlocking Video Potential YouTube to IGTV</u></a></li>
+<li><a href="https://windows11.techidaily.com/8-ways-to-fix-the-windows-pin-not-working-in-windows-11-and-11/"><u>8 Ways to Fix the Windows PIN Not Working in Windows 11 & 11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/best-multiple-video-call-and-chat-tools/"><u>Best Multiple Video Call & Chat Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/bridging-the-gap-for-stuck-files-in-windows-11-ecosystems/"><u>Bridging the Gap for Stuck Files in Windows 11 Ecosystems</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-black-backgrounds-on-your-windows-pc/"><u>Bypassing Black Backgrounds on Your Windows PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/compreeable-approach-to-tackle-type-troubles-in-windows-11-error-0x80049dd3/"><u>Compreeable Approach to Tackle Type Troubles in Windows 11 (Error: 0X80049DD3)</u></a></li>
+<li><a href="https://windows11.techidaily.com/configuring-win11-remote-storage-paths/"><u>Configuring Win11 Remote Storage Paths</u></a></li>
+<li><a href="https://windows11.techidaily.com/de-cluttering-notifications-tips-for-windows-11-users/"><u>De-Cluttering Notifications: Tips for Windows 11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/defunct-windows-characteristics-youll-miss/"><u>Defunct Windows Characteristics You'll Miss</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-motorola-edge-2023-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Motorola Edge 2023 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/premier-6-modern-architecture-in-mc-world-for-2024/"><u>Premier 6 Modern Architecture in MC World for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-showdown-assessing-the-pros-and-cons-of-amazon-fire-versus-samsung-tablets/"><u>The Ultimate Showdown: Assessing the Pros and Cons of Amazon Fire Versus Samsung Tablets</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-elevate-your-lessons-top-10-educational-animation-software/"><u>Updated Elevate Your Lessons Top 10 Educational Animation Software</u></a></li>
 </ul></div>
 

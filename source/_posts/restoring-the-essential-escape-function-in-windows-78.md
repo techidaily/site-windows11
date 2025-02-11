@@ -1,7 +1,7 @@
 ---
 title: Restoring the Essential Escape Function in Windows 7/8
-date: 2025-01-26T07:45:28.586Z
-updated: 2025-01-29T21:31:58.478Z
+date: 2025-02-07T21:46:20.444Z
+updated: 2025-02-10T23:07:56.449Z
 tags:
   - windows10
   - windows11
@@ -31,13 +31,13 @@ thumbnail: https://thmb.techidaily.com/8e45fcad350df735f2b4416d42d7d71c8933e8227
 
 ![Esc key on a keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/esc-key-on-a-keyboard.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you are using an external keyboard, you can try disconnecting and reconnecting it. While you're at it, try a different USB port this time to determine[if there’s an issue with the USB port on your computer](https://www.makeuseof.com/tag/dead-usb-port-heres-how-to-diagnose-and-fix-it/) .
 
  Another thing you can do is connect your keyboard to a different computer and test the Esc key. This will help you rule out any potential hardware-related issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Restart Your Computer
 
@@ -48,7 +48,11 @@ thumbnail: https://thmb.techidaily.com/8e45fcad350df735f2b4416d42d7d71c8933e8227
 ![Restart Windows Computer From Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Restart-Windows-Computer-From-Start-Menu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Run the Windows Troubleshooters
@@ -71,7 +75,11 @@ To run the keyboard troubleshooter on Windows:
 ![Hardware and Devices Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Hardware-and-Devices-Troubleshooter-on-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Turn Off Filter Keys
@@ -83,6 +91,10 @@ To run the keyboard troubleshooter on Windows:
 3. Turn off the toggle next to**Sticky keys** .  
 ![Disable Sticky Keys in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-sticky-keys-in-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Uninstall Any Key Mapping Software
 
  Are you using any key mapping software on your PC? If so, you need to ensure that the Esc key isn’t disabled or mapped to a different function. If it is, you can either restore the key mapping to its default or remove the key remapping software entirely. In case you need help with the latter, check our guide on[different ways to uninstall software in Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
@@ -90,10 +102,6 @@ To run the keyboard troubleshooter on Windows:
 ## 6\. Run SFC and DISM Scans
 
  Inconsistencies with the system files on your PC can also lead to such anomalies. If the problem is being caused due to a corruption error within system files, running the SFC (System File Checker) and DISM (Deployment Image Servicing and Management) scans should help. For more information on this, check our guide on[how to repair corrupt Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Update or Reinstall Keyboard Drivers
 
@@ -115,10 +123,6 @@ To run the keyboard troubleshooter on Windows:
 
 ![Check for Windows Update-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-for-windows-update-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9\. Check for Malware
 
  If the Esc key is still not working at this point, it’s worth ensuring that your PC isn’t infected by malware. For that, you can run a full system scan using Windows Defender or a third-party antivirus program.
@@ -126,7 +130,7 @@ To run the keyboard troubleshooter on Windows:
  Make sure you take[the necessary steps if you discover malware on your computer](https://www.makeuseof.com/tag/10-steps-to-take-when-you-discover-malware-on-your-computer/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 10\. Troubleshoot in Clean Boot State
@@ -134,10 +138,6 @@ To run the keyboard troubleshooter on Windows:
  At times, background apps and services running on your computer can also conflict with Windows and prevent it from registering your keystrokes. If you suspect that to be the case, you can try using the Esc key in a clean boot state. For more information on this, check our guide on[how to perform a clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/) .
 
  If the Esc key works fine during a clean boot, it means one of the apps or programs is responsible for the issue. Apps and programs that you have installed fairly recently are more likely to have caused the issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 11\. Perform a System Restore
 
@@ -172,17 +172,18 @@ To perform a system restore on Windows, use these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-elevate-your-tech-game-master-the-craft-of-screen-recordings-in-macos/"><u>[New] Elevate Your Tech Game Master the Craft of Screen Recordings in macOS</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-humorhexagonhub-photofunniesfactory/"><u>[New] HumorHexagonHub PhotoFunniesFactory</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-clear-conferencing-backdrops-blurring-for-better-presence/"><u>[New] In 2024, Clear Conferencing Backdrops Blurring for Better Presence</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-a-beginners-guide-to-sony-vegas-and-youtube-cutting/"><u>[Updated] In 2024, A Beginner's Guide to Sony Vegas and YouTube Cutting</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-change-youtube-playback-speed-to-speed-up-or-slow-down-video/"><u>2024 Approved How to Change YouTube Playback Speed to Speed Up or Slow Down Video</u></a></li>
-<li><a href="https://windows11.techidaily.com/introducing-cli-to-taskmanager-for-enhanced-computing-experience/"><u>Introducing CLI to TaskManager for Enhanced Computing Experience</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Motorola Moto G34 5G? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-windows-a-guide-to-reading-qr-codes/"><u>Mastering Windows: A Guide to Reading QR Codes</u></a></li>
-<li><a href="https://windows11.techidaily.com/mute-unwanted-tips-and-hints-in-windows-notification-hub/"><u>Mute Unwanted Tips and Hints in Windows Notification Hub</u></a></li>
-<li><a href="https://win-tips.techidaily.com/rescue-captured-moments-a-guide-to-retrieving-accidentally-erased-content-from-gopro-cameras/"><u>Rescue Captured Moments: A Guide to Retrieving Accidentally Erased Content From GoPro Cameras</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-address-write-access-failure-on-windows-11/"><u>Strategies to Address Write Access Failure on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-defective-xbox-mic-in-windows-1011/"><u>Troubleshooting Defective Xbox Mic in Windows 10/11</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-best-practices-for-secure-youtube-mp4-conversion/"><u>[New] In 2024, Best Practices for Secure YouTube MP4 Conversion</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-richest-revenue-generators-in-the-youtube-universe/"><u>[New] In 2024, Richest Revenue Generators in the YouTube Universe</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-xp709-crash-in-windows/"><u>Addressing XP709 Crash in Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/catch-the-holiday-rush-amazons-labor-day-extravaganza-offers-ipads-for-only-199/"><u>Catch the Holiday Rush: Amazon's Labor Day Extravaganza Offers iPads for Only $199!</u></a></li>
+<li><a href="https://windows11.techidaily.com/confronting-error-code-xc0f1103f-in-nvidias-geforce-now/"><u>Confronting Error Code Xc0f1103f in NVIDIA's GeForce Now</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-saving-mov-videos-on-windows-11-a-guide-with-six-steps/"><u>In 2024, Saving .MOV Videos on Windows 11 - A Guide with Six Steps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unraveling-periscopes-mystique-is-it-free-and-how-to-signup/"><u>In 2024, Unraveling Periscope's Mystique Is It Free and How to Signup?</u></a></li>
+<li><a href="https://article-files.techidaily.com/integrating-picture-in-picture-into-everyday-browsing-habits-for-2024/"><u>Integrating Picture in Picture Into Everyday Browsing Habits for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-your-windows-11-9-solutions-for-lost-bluetooth/"><u>Reviving Your Windows 11: 9 Solutions for Lost Bluetooth</u></a></li>
+<li><a href="https://windows11.techidaily.com/significance-of-redistributing-visual-cplusplus/"><u>Significance of Redistributing Visual C++</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-windows-repeatedly-entering-cmos-settings/"><u>Solutions for Windows Repeatedly Entering CMOS Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-your-computers-clock-display-with-animated-screensaver-apps/"><u>Transform Your Computer's Clock Display with Animated Screensaver Apps</u></a></li>
+<li><a href="https://video-capture.techidaily.com/virtual-venue-verdict-navigating-between-obs-and-twitch-streaming/"><u>Virtual Venue Verdict Navigating Between OBS & Twitch Streaming</u></a></li>
 </ul></div>
 
