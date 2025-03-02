@@ -1,7 +1,7 @@
 ---
 title: "Advanced File Sorting: Empowering Checkbox Selection in Win11"
-date: 2024-08-15T15:32:46.689Z
-updated: 2024-08-16T15:32:46.689Z
+date: 2025-02-23T21:24:12.459Z
+updated: 2025-03-02T03:17:30.326Z
 tags:
   - windows10
   - windows11
@@ -32,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/f6048b78b677a0065b7683b7780e2c91c1ef9e11d
 
  That's it. You might need to restart your computer to see the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## 2\. Enable Checkboxes Using the Folder Option
 
  The [Folder Option](https://www.makeuseof.com/windows-folder-options-guide/) is an incredible Windows feature using which you can configure important File Explorer settings. You can use it to [clear File Explorer history](https://www.makeuseof.com/windows-10-clear-file-explorer-search-address-bar-history/) , change privacy settings, and even enable checkboxes in File Explorer.
@@ -46,14 +43,8 @@ Here's how to use the Folder Option to enable the checkboxes:
 3. In the Folder Options, switch to the**View** tab.
 4. Check the**Use check boxes to select items** option. It'll be under the**Files and Folders** section.  
 ![Use check boxes to select items in Folder Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/use-check-boxes-to-select-items.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Click**Apply** and then**OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## 3\. Enable Checkboxes by Editing the Registry
 
  The Registry Editor is an essential Windows tool that lets you customize system settings. To use the Registry Editor to enable checkboxes in the File Explorer, follow the below steps:
@@ -67,28 +58,18 @@ Here's how to use the Folder Option to enable the checkboxes:
 4. Double-click on the**AutoCheckSelect** entry in the right pane.
 5. Type**1** in the**Value data** and click**OK** to save the changes.  
 ![AutoCheckSelect Option in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/autocheckselect-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 
  If you want to disable checkboxes, type**0** in AutoCheckSelect Value data and save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## Enabling Checkboxes in the File Explorer
 
  The checkboxes option of the File Explorer allows you to select multiple items more efficiently. However, the feature is disabled by default in Windows 11 File Explorer. Fortunately, you can quickly enable it using either of the above methods.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -97,8 +78,23 @@ Here's how to use the Folder Option to enable the checkboxes:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-accessible-obs-presets-for-affordable-computers/"><u>[New] 2024 Approved Accessible OBS Presets for Affordable Computers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/oosting-profitability-in-the-world-of-youtube-shorts-for-2024/"><u>[New] Boosting Profitability in the World of Youtube Shorts for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-high-staking-habitats-critical-commentary/"><u>[New] HIGH-STAKING HABITATS Critical Commentary</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-seamless-techniques-easy-steps-to-preserve-your-google-gatherings/"><u>[New] In 2024, Seamless Techniques Easy Steps to Preserve Your Google Gatherings</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-yogic-pathways-youtubes-top-10-wellness-vloggers/"><u>[New] In 2024, Yogic Pathways – YouTube's Top 10 Wellness Vloggers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-transforming-viewers-experience-with-onestream-broadcasts/"><u>[Updated] Transforming Viewers' Experience with OneStream Broadcasts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/practices-for-adding-content-enhancements-cards/"><u>Best Practices for Adding Content Enhancements (Cards)</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-oppo-a78-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Oppo A78 Quickly? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-nintendo-switch-online-expansion-pack-worth-buying/"><u>Is Nintendo Switch Online Expansion Pack Worth Buying?</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-to-counteract-windows-11-error-x80049dd3/"><u>Step-by-Step Guide to Counteract Windows 11 Error X80049DD3</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-secret-tips-for-accessing-win11s-credential-vault-in-under-a-minute/"><u>Top Secret Tips for Accessing Win11's Credential Vault in Under a Minute</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-the-power-of-your-digital-brush-on-windows-11-with-paint-cocreator-for-ai-artistry/"><u>Unleash the Power of Your Digital Brush on Windows 11 with Paint Cocreator for AI Artistry</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-not-found-in-windows-os-fixes/"><u>Unraveling 'Not Found' In Windows OS Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-lies-behind-the-numbers-in-windows-updates/"><u>What Lies Behind the Numbers in Windows Updates?</u></a></li>
+<li><a href="https://windows11.techidaily.com/windowing-ways-to-keep-notes-above-the-rest/"><u>Windowing Ways to Keep Notes Above the Rest</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-mastery-integrating-custom-directories-into-menus/"><u>Windows 11 Mastery: Integrating Custom Directories Into Menus</u></a></li>
+</ul></div>
 

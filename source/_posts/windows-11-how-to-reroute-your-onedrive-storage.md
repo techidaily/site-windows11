@@ -1,7 +1,7 @@
 ---
 title: "Windows 11: How to Reroute Your OneDrive Storage"
-date: 2024-08-15T15:30:38.696Z
-updated: 2024-08-16T15:30:38.696Z
+date: 2025-02-22T20:10:41.703Z
+updated: 2025-03-02T02:02:14.754Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
 
  If you’re new to the concept, check out our articles on [what OneDrive is](https://www.makeuseof.com/what-is-onedrive/) and [why you should use it](https://www.makeuseof.com/microsoft-onedrive-personal-benefits/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### 1\. Unlinking OneDrive
 
  The first thing to do is to [unlink your OneDrive folder from your Microsoft account](https://www.makeuseof.com/unlink-onedrive-microsoft-account-windows/) so that files on the cloud no longer sync to their current location.
@@ -36,9 +32,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Once you’ve done this, you will be presented with a window to set up OneDrive. Leave this open for the moment. You will need to revisit it once you’ve moved your OneDrive folder to a different location on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ### 2\. Moving Your OneDrive Folder
 
 With that done, you can now relocate your OneDrive folder.
@@ -47,9 +40,6 @@ With that done, you can now relocate your OneDrive folder.
 2. Click on the**Home** tab on the File Explorer ribbon.
 3. Select your OneDrive folder and in the ribbon click on the**Move to** button.  
 ![Moving Your OneDrive folder on your PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/01-move-onedrive-folder.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. From the drop-down that appears, click on the**Choose location** option.  
 ![Move your OneDrive folder to new location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/02-move-onedrive-folder-to-location.jpg)
 5. A pop-up will appear. Browse to the location you want your new OneDrive folder to reside, and click on the**Move** button on the bottom of the pop-up.  
@@ -58,18 +48,6 @@ With that done, you can now relocate your OneDrive folder.
 
  That’s it! You’ve moved your OneDrive folder to a new location on your Windows PC.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Re-Linking OneDrive
 
  Now all that’s left is to re-link your Microsoft account with OneDrive on your PC, this time pointing to the new location. Follow the steps below to do that.
@@ -78,9 +56,6 @@ With that done, you can now relocate your OneDrive folder.
 2. Once you’re signed in, you are presented with a screen that shows where Windows will set up your OneDrive folder. (By default, the system selects your user folder.)
 3. Click on the**Change location** link.  
 ![Change where OneDrive syncs your files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/04-change-onedrive-location.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Then browse to the new location where you moved your OneDrive folder on your PC, and click on the**Select Folder** button.
 5. You’ll be presented with a warning screen, telling you that files already exist in this folder. Click on the**Use this folder** button.  
 ![Choose where OneDrive saves files on your PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/07-choose-onedrive-location.jpg)
@@ -91,21 +66,15 @@ With that done, you can now relocate your OneDrive folder.
 
  Additionally, there are many [ways to control how OneDrive syncs files on your PC](https://www.makeuseof.com/ways-to-control-onedrive-sync-pc/) , from pausing automatic sync on metered networks to stopping specific folders from syncing.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Free Up PC Storage by Moving Your OneDrive Folder
 
  Files on your OneDrive can take up a lot of disk space. You don’t have to settle for your OneDrive folder’s default location. You can free up space on your root drive by moving it to a different location, perhaps even on a different drive.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -114,8 +83,24 @@ With that done, you can now relocate your OneDrive folder.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-streamers-choice-should-you-opt-for-vlc-or-mpc/"><u>[New] Streamer's Choice Should You Opt for VLC or MPC?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-top-5-efficient-mac-snippers-for-quick-captures/"><u>[New] Top 5 Efficient Mac Snippers for Quick Captures</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-exclusive-hd-benefits-turn-on-av1-in-youtube-settings/"><u>[Updated] 2024 Approved Exclusive HD Benefits Turn On AV1 in YouTube Settings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-adding-time-markers-on-youtubes/"><u>[Updated] The Ultimate Guide to Adding Time Markers on YouTubes</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-youtube-producers-favorite-cameras-and-lenses-for-2024/"><u>[Updated] YouTube Producers' Favorite Cameras & Lenses for 2024</u></a></li>
+<li><a href="https://discover-able.techidaily.com/effortless-conversion-techniques-for-changing-epub-to-mobi-on-macos-devices/"><u>Effortless Conversion Techniques for Changing EPUB to MOBI on macOS Devices</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/evaluating-the-sturdy-build-and-straightforward-installation-an-insightful-review-of-acurites-pro-model-01036m/"><u>Evaluating the Sturdy Build & Straightforward Installation: An Insightful Review of AcuRite's Pro Model - 01036M</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-access-denied-and-restricted-access-issues-windows-office-solution/"><u>Fixing 'Access Denied' And Restricted Access Issues: Windows Office Solution</u></a></li>
+<li><a href="https://windows11.techidaily.com/get-your-data-fast-onedrive-without-web-connection/"><u>Get Your Data Fast: OneDrive, Without Web Connection</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/harnessing-the-potential-of-quantum-hdr-imaging/"><u>Harnessing the Potential of Quantum HDR Imaging</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-get-excel-data-displayed-in-notepad/"><u>How To Get Excel Data Displayed in Notepad</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-mend-the-dxgi-error-in-win-11-os/"><u>How to Mend the DXGI Error in Win 11 OS</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-apple-iphone-12-mini-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to Apple iPhone 12 mini Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/insight-into-windows-canary-vulnerability-monitoring/"><u>Insight Into Windows' Canary Vulnerability Monitoring</u></a></li>
+<li><a href="https://windows11.techidaily.com/outsmart-your-pcs-bluescreen-adopting-win11s-best-practices/"><u>Outsmart Your PC's Bluescreen: Adopting Win11's Best Practices</u></a></li>
+<li><a href="https://windows11.techidaily.com/reducing-ram-burden-in-cross-device-service-platforms-on-windows/"><u>Reducing RAM Burden in Cross-Device Service Platforms on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-audacitys-paudio-error-on-w10w11-systems/"><u>Resolving Audacity's PAudio Error on W10/W11 Systems</u></a></li>
+</ul></div>
 

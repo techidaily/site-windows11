@@ -1,7 +1,7 @@
 ---
 title: Navigating Windows to Confirm Disk Type
-date: 2025-02-09T07:44:24.369Z
-updated: 2025-02-11T07:25:00.614Z
+date: 2025-02-23T11:30:07.089Z
+updated: 2025-03-02T04:43:40.870Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/59ebf54bbd2728b1cee67f80e126289c9f6737977
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Check if You Have an HDD or SSD Using the Task Manager
 
  To determine whether you have an HDD or SSD using the Task Manager, follow these steps:
@@ -39,21 +35,9 @@ thumbnail: https://thmb.techidaily.com/59ebf54bbd2728b1cee67f80e126289c9f6737977
 4. Check details under **Disk 0** and **Disk 1** (if you have more than one connected) to confirm whether the disks installed are SSDs or HDDs.  
 ![Check the Type of Drive You Have in the Performance Tab of Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/check-the-type-of-drive-you-have-in-the-performance-tab-of-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To view other details about the selected drive, such as its capacity, write speed, average response time, and more, simply choose **Disk 0** or **Disk 1**—the SSD drive you want to learn more about. Task Manager will show the other details about the drive you selected on the lower side of the screen.
 
 ![Check Other Details of the Storage Drive in the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/check-other-details-of-the-storage-drive-in-the-task-manager.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Now You Know Which Drive You Have on Windows
 
@@ -71,24 +55,22 @@ thumbnail: https://thmb.techidaily.com/59ebf54bbd2728b1cee67f80e126289c9f6737977
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-action-seekers-dream-the-ultimate-review-of-sj-cam-s6-for-2024/"><u>[New] Action Seeker's Dream The Ultimate Review of SJ-CAM S6 for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-the-ultimate-guide-to-theta-s-features/"><u>[Updated] In 2024, The Ultimate Guide to Theta S Features</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-virtual-versus-vital-gears-in-the-pursuit-of-perfect-pixels/"><u>[Updated] In 2024, Virtual Versus Vital Gears in the Pursuit of Perfect Pixels</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-exclusive-recording-gadgets-for-windows-10-gamers/"><u>2024 Approved Exclusive Recording Gadgets for Windows 10 Gamers</u></a></li>
-<li><a href="https://windows11.techidaily.com/declutter-your-pc-a-list-of-12-unnecessary-windows-tools/"><u>Declutter Your PC: A List of 12 Unnecessary Windows Tools</u></a></li>
-<li><a href="https://blog-min.techidaily.com/dvdanddvdfab-hd/"><u>DVDコピー&期限切れ対策を学ぶ：DVDFab HDデクリプターのインストールと使い方 - 日本語による詳細ガイド</u></a></li>
-<li><a href="https://windows11.techidaily.com/ensuring-a-smooth-transfer-of-your-windows-qbittorrent-settings/"><u>Ensuring a Smooth Transfer of Your Windows qBittorrent Settings</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-hide-a-zip-archive-within-an-image-file-in-windows-11-and-11/"><u>How to Hide a ZIP Archive Within an Image File in Windows 11 & 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-reactivate-grammarly-on-microsoft-devices/"><u>How To Reactivate Grammarly on Microsoft Devices</u></a></li>
-<li><a href="https://techidaily.com/mastering-the-digital-world-toms-hardware-experts-guide/"><u>Mastering the Digital World: Tom's Hardware Experts Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/methods-to-fix-wins-unhandled-exception-blue-screen-problem/"><u>Methods to Fix Win's Unhandled Exception Blue Screen Problem</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/patch-up-the-net-framework-on-windows-efficiently-max-156/"><u>Patch Up the .NET Framework on Windows Efficiently (Max 156)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/premium-settings-for-virtual-broadcasts/"><u>Premium Settings for Virtual Broadcasts</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-shutdown-how-to-pause-windows-11/"><u>Quick Shutdown: How to Pause Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/rejuvenate-your-locked-shift-key-in-windows/"><u>Rejuvenate Your Locked Shift Key in Windows.</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-windows-update-error-0x8024800c/"><u>Tackling Windows Update: Error 0X8024800C</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-nokia-c210-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Nokia C210 IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/unlocking-viewer-analysis-on-your-instagram-snapshots/"><u>Unlocking Viewer Analysis on Your Instagram Snapshots</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-how-to-reroute-your-onedrive-storage/"><u>Windows 11: How to Reroute Your OneDrive Storage</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-comprehensive-fs-view-strategies-for-premiere-pro/"><u>[New] Comprehensive FS View Strategies for Premiere Pro</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-screensnap-it-all-high-quality-netflix-on-mac/"><u>[New] In 2024, ScreenSnap It All High-Quality Netflix on Mac</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixed-attempt-connection-error-blocking-device-linkage/"><u>Fixed: 'Attempt Connection' Error Blocking Device Linkage</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-oneplus-ace-2-promirror-share-to-pc-drfone-by-drfone-android/"><u>How Can OnePlus Ace 2 ProMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-rectify-error-code-0xa00f429f-on-windows-devices/"><u>How to Rectify Error Code 0xA00F429F on Windows Devices</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-honor-90-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Honor 90 Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-unstick-apps-from-windows-11-installations/"><u>How to Unstick Apps From Windows 11 Installations</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-15-pro-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone 15 Pro</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-from-your-iphone-12-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock from your iPhone 12 and iPad?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/introducing-gpt-enhanced-text-processing-software/"><u>Introducing GPT-Enhanced Text Processing Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-dism-error-0x800f082f-in-microsofts-os/"><u>Overcoming DISM Error 0X800F082F in Microsoft's OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-no-sound-error-in-powerpoint-screen-capture/"><u>Overcoming No Sound Error in PowerPoint Screen Capture</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/egic-broadcast-planning-youtube-and-the-top-30-networks/"><u>Strategic Broadcast Planning YouTube & The Top 30 Networks</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-work-processes-embrace-the-power-of-flow-launcher/"><u>Transform Work Processes: Embrace the Power of Flow Launcher</u></a></li>
+<li><a href="https://windows11.techidaily.com/unexplored-avenues-in-windows-11-boost-your-usability/"><u>Unexplored Avenues in Windows 11 - Boost Your Usability</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-terminal-vs-powershell-decoding-what-makes-them-diverge/"><u>Windows Terminal Vs. PowerShell: Decoding What Makes Them Diverge</u></a></li>
+<li><a href="https://fox-links.techidaily.com/yuneec-typhoon-q500-a-glimpse-of-tomorrow-for-2024/"><u>Yuneec Typhoon Q500 - A Glimpse of Tomorrow for 2024</u></a></li>
 </ul></div>
 

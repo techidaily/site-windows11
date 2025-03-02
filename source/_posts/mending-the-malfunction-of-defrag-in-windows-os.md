@@ -1,7 +1,7 @@
 ---
 title: Mending the Malfunction of Defrag in Windows OS
-date: 2024-08-15T15:31:08.826Z
-updated: 2024-08-16T15:31:08.826Z
+date: 2025-02-25T22:45:58.336Z
+updated: 2025-03-02T06:28:55.234Z
 tags:
   - windows10
   - windows11
@@ -43,17 +43,10 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
 3. Click on the drop-down menu and set the Start type to "Manual."
 4. Make sure the Service status is "Running." If it is not, then click on**Start** to run it.  
 ![Set Optimise drives Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Set-Optimise-drives-Properties.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 5. Click**Apply > OK** to save it.
 
  After making the above changes, check if it solves the problem. If not, move on to the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Run the System File Checker tool
 
  Another way to fix your disk defragmenter is to run the System File Checker tool. This tool will scan all of your system files and replace any that are corrupt or missing.
@@ -69,9 +62,6 @@ To run the System File Checker, follow these steps:
  It may take a while for the scan to complete, so be patient. Once the scan is complete, restart your computer and try running Disk Defragmenter again. It should now work properly.
 
 ![SFC and DISM Scan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/SFC-and-DISM-Scan.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you're still having trouble with your Disk Defragmenter tool after running an SFC scan, you may need to use the DISM utility. To do this, open the Command Prompt as an administrator and run the below command line:
 
@@ -89,9 +79,6 @@ To run the CHKDSK utility, follow the below steps:
 2. Right-click on the search result and select**Run as administrator** .
 3. Click**Yes** if UAC prompts on your computer screen. This will open a Command Prompt with admin access.  
 ![Run chkdsk command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-chkdsk-command.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 4. When you're in Command Prompt, type the following command and press Enter:  
 `chkdsk C: /f`
 
@@ -111,27 +98,18 @@ To run the CHKDSK utility, follow the below steps:
 2. On the Processes tab, find a non-essential third-party service and right-click on it.
 3. Then select**End task** from the context menu.  
 ![Close Programs Via Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Close-Programs-Via-Task-Manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After closing one, check if the disk defragmenter works again. If it does, the service you just closed is the culprit. Now you can either update, re-install, or even uninstall the problematic app so it stops interfering with Disk Defragmenter.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ## Fixing Windows Disk Defragmenter's Opening Issues
 
  Disk defragmentation can improve the situation by rearranging files so that they can be evenly distributed throughout the drive. However, sometimes the Disk Defragmenter tool doesn't work as expected. If you encounter this problem, the methods described above should help you resolve it.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -140,8 +118,19 @@ To run the CHKDSK utility, follow the below steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-freenoweb-cam-app-assessment-and-comparison-guide/"><u>2024 Approved FreenoWeb Cam App Assessment & Comparison Guide</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/captivating-icy-visuals-for-your-space-premium-frozen-landscapes-by-yl-software/"><u>Captivating Icy Visuals for Your Space: Premium Frozen Landscapes by YL Software</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/creating-user-accounts-made-easy-expert-tips-from-the-world-of-yl-software/"><u>Creating User Accounts Made Easy: Expert Tips From the World of YL Software</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Nokia C32? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-smartphone-skills-producing-engaging-youtube-thumbnails/"><u>In 2024, Smartphone Skills Producing Engaging YouTube Thumbnails</u></a></li>
+<li><a href="https://driver-install.techidaily.com/intuitive-driver-installation-enable-your-tp-link-device-in-oswindows/"><u>Intuitive Driver Installation: Enable Your TP Link Device in OS/Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-the-most-dangerous-javascript-crash-in-windows-10plusdiscord-users/"><u>Overcoming the Most Dangerous Javascript Crash in Windows 10+Discord Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/proactive-device-management-in-windows-11-essential-uptime-verification-steps/"><u>Proactive Device Management in Windows 11: Essential Uptime Verification Steps</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solution-for-unresponsive-pathfinder-game-keyboard-fixes/"><u>Step-by-Step Solution for Unresponsive Pathfinder Game Keyboard Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-5-gratis-car-performance-enhancers-for-windows-pcs/"><u>Top 5 Gratis Car Performance Enhancers for Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleashing-typing-efficiency-reviving-the-tab-functionality/"><u>Unleashing Typing Efficiency: Reviving the Tab Functionality</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-itel-p40-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Itel P40 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+</ul></div>
 

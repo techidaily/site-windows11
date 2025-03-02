@@ -1,7 +1,7 @@
 ---
 title: "Mastering Admin Access: Unlocking Windows Control Panel"
-date: 2025-02-06T00:45:05.734Z
-updated: 2025-02-11T00:56:50.363Z
+date: 2025-02-26T07:19:52.189Z
+updated: 2025-03-02T07:06:59.889Z
 tags:
   - windows10
   - windows11
@@ -31,17 +31,9 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 ![Open Control Panel Using Run Dialog Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-control-panel-using-run-dialog-box.jpg)
 2. Type**control** or**control panel** in the search box and press**Ctrl + Shift + Enter** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. If User Account Control (UAC) pops up on your screen, click**Yes** to allow access.
 
  This will open up the Control Panel with elevated privileges so that you can make changes effectively and safely. And while we're at it, did you know there are many[ways to open the Control Panel on Windows](https://www.makeuseof.com/windows-11-open-control-panel/) ?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. How to Open the Control Panel as an Administrator With a Desktop Shortcut
 
@@ -52,27 +44,15 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 ![Open Control Panel With Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-control-panel-with-desktop-shortcut.jpg)  
 C:\WINDOWS\system32\control.exe
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. You now need to name your shortcut (Control Panel) and click**Finish** . Once you’ve created the shortcut, it will be placed on your desktop.  
 ![Open Control Panel Using Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-control-panel-using-desktop-shortcut.jpg)
 4. Next, right-click on the shortcut and select**Properties** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. On the Shortcut tab, click on**Advanced** .
 6. Check the**Run as administrator** box and click**OK** .
 7. Also, click**Apply > OK** in the Properties window.
 
  Now, whenever you need to access an elevated Control Panel, simply double-click on it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get the Most Out of Elevated Control Panel
 
@@ -93,17 +73,15 @@ C:\WINDOWS\system32\control.exe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-expert-teamblend-strategies-for-clear-conference-shots/"><u>[Updated] Expert Teamblend Strategies for Clear Conference Shots</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-propel-your-instagram-videos-into-the-public-eye-for-2024/"><u>[Updated] Propel Your Instagram Videos Into the Public Eye for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/8-best-youtube-video-promotion-services-real-for-2024/"><u>8 Best Youtube Video Promotion Services (Real) for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/8-essential-fixes-for-resistant-windows-pin-locks/"><u>8 Essential Fixes for Resistant Windows PIN Locks</u></a></li>
-<li><a href="https://windows11.techidaily.com/adjusting-how-you-handle-deleted-items-on-pc/"><u>Adjusting How You Handle Deleted Items on PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/asus-challenges-rog-ally-with-innovative-designs/"><u>ASUS Challenges ROG Ally with Innovative Designs</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/best-2022-movie-picks-top-10-blockbuster-hits-from-the-big-screen/"><u>Best 2022 Movie Picks: Top 10 Blockbuster Hits From the Big Screen</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-overload-on-windows-applications-0x80860010/"><u>Bypassing Overload on Windows Applications (0X80860010)</u></a></li>
-<li><a href="https://windows11.techidaily.com/coalescing-file-structures-a-windows-guide/"><u>Coalescing File Structures, A Windows Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-the-bluetooth-not-detected-on-windows-11-fast-fix-guide/"><u>Resolve the Bluetooth Not Detected on Windows 11 - Fast Fix Guide</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unboxing-the-power-of-compact-innovation-the-apple-iphone-12-mini-deep-dive/"><u>Unboxing the Power of Compact Innovation: The Apple iPhone 12 Mini Deep Dive</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-secrets-a-10-step-guide-to-becoming-a-tiktok-sensation/"><u>Unlocking the Secrets: A 10-Step Guide to Becoming a TikTok Sensation</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-first-look-at-organizing-zoom-session-rooms-for-2024/"><u>[New] First Look at Organizing Zoom Session Rooms for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-change-your-virtual-rooms-palette-with-google-meet/"><u>[Updated] Change Your Virtual Room's Palette with Google Meet</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-illuminating-imagery-pro-level-tips-for-spectacular-photos/"><u>[Updated] Illuminating Imagery Pro-Level Tips for Spectacular Photos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-dynamic-igtv-covers-design-and-update-strategies/"><u>[Updated] In 2024, Dynamic IGTV Covers Design & Update Strategies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-the-right-8k-tv-for-your-home-insights-from-a-consumer-electronics-specialist-on-what-you-need-to-know-before-buying/"><u>Choosing the Right 8K TV for Your Home: Insights From a Consumer Electronics Specialist on What You Need to Know Before Buying</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723000472126-conquering-the-challenge-of-a-reliable-nba-2k21-experience-no-more-pc-crashes/"><u>Conquering the Challenge of a Reliable NBA 2K21 Experience - No More PC Crashes!</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-techniques-to-rectify-critical-discord-javascript-hiccup-in-w10w11/"><u>Essential Techniques to Rectify Critical Discord JavaScript Hiccup in W10/W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/no-more-confusion-selecting-ideal-drives-for-gameplay/"><u>No More Confusion: Selecting Ideal Drives for Gameplay</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-transition-of-imessage-from-ios-to-windows-os/"><u>Seamless Transition of iMessage From iOS to Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplify-win-11-repairs-with-custom-buttons/"><u>Simplify Win 11 Repairs with Custom Buttons</u></a></li>
 </ul></div>
 

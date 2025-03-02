@@ -1,7 +1,7 @@
 ---
 title: "Reclaim Your Desktop: Win 11 Icon Recovery Tips"
-date: 2024-08-15T15:32:17.491Z
-updated: 2024-08-16T15:32:17.491Z
+date: 2025-03-01T04:44:12.548Z
+updated: 2025-03-02T00:46:00.181Z
 tags:
   - windows10
   - windows11
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/5f5f5b93e7d5296621d28cc46446de06ad76f2671
 
 ![Show Desktop Icons on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Show-Desktop-Icons-on-Windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Check Desktop Icon Settings
 
  If you're only missing a few desktop icons, such as This PC, Recycle Bin, Control Panel, and others, you may have disabled them in the "Desktop Icon Settings" window. In that case, you can use the following steps to re-enable those desktop icons.
@@ -42,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/5f5f5b93e7d5296621d28cc46446de06ad76f2671
 5. Under the**Desktop icons** section, use the checkboxes to enable the icons you want on your desktop.
 6. Click**Apply** followed by**OK** to save the changes.  
 ![Desktop Icon Settings Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Desktop-Icon-Settings-Window.jpg)
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 
  Once you complete the above steps, your icons should appear on the desktop.
 
@@ -75,17 +69,11 @@ To rebuild icon cache on Windows 11:
 6. Paste this command and press**Enter** to delete icon cache files:  
 `del iconcache*`  
 ![Rebuild Icon Cache Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Rebuild-Icon-Cache-Windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Finally, type in the following text and hit**Enter** to restart Explorer:  
 `Explorer.exe`
 
  Once you complete the above steps, restart your PC and see if the desktop icons appear.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Update Your PC’s Graphics Driver
 
  An outdated graphics driver on Windows can also lead to such anomalies. You can try updating the faulty driver using Device Manager to see if that helps. Here's how to do it.
@@ -96,10 +84,6 @@ To rebuild icon cache on Windows 11:
 4. Right-click on your graphics driver and select**Update driver** .
 5. Select**Search automatically for drivers** to let Windows find and install the best drivers.  
 ![Update Graphics Driver on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Update-Graphics-Driver-on-Windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 
  If the issue persists even after updating the driver, your graphics driver may be corrupt. In that case, you'll need to reinstall the graphics driver on your PC. Refer to our guide on [how to fix corrupt drivers on Windows](https://www.makeuseof.com/how-to-fix-corrupt-drivers-on-windows-10/) for more instructions on how to fix this.
 
@@ -117,10 +101,6 @@ To rebuild icon cache on Windows 11:
 6. Click**Apply** followed by**OK** .  
 ![Enable Desktop Icons on Windows 11 via Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Enable-Deskop-Icons-on-Windows-11-via-Group-Policy-Editor-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 7\. Perform a System Restore
 
  There's a chance that a recent system change is to blame for the missing desktop icons in Windows 11\. If you can't figure out what it is, you can use System Restore to restore Windows to a previous state.
@@ -149,21 +129,15 @@ Follow these steps to perform a system restore on Windows:
 
  We covered this topic in more detail in our guide to [how to add icons to the desktop on Windows](https://www.makeuseof.com/how-to-add-icon-to-desktop-windows/) .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Restore the Missing Desktop Icons on Windows 11
 
  Hopefully, the above-mentioned solutions have helped you restore the missing desktop icons on Windows 11 and things are back to normal. However, if none of the above solutions work, you may have to reset your Windows 11 PC as a last resort.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -172,8 +146,26 @@ Follow these steps to perform a system restore on Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-expert-advice-5-proven-methods-to-document-minecraft-on-apple-devices/"><u>[Updated] In 2024, Expert Advice 5 Proven Methods to Document Minecraft on Apple Devices</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-unlock-audio-content-in-vimeo-using-mp3-technology/"><u>[Updated] In 2024, Unlock Audio Content in Vimeo Using MP3 Technology</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-photo-editors-dream-select-your-perfect-backdrop-shift/"><u>[Updated] Photo Editors' Dream Select Your Perfect Backdrop Shift</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-revenue-calculation-for-every-clicked-video/"><u>[Updated] Revenue Calculation for Every Clicked Video</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-set-active-hours-and-avoid-sudden-updates-on-windows-11/"><u>How to Set Active Hours and Avoid Sudden Updates on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/learn-how-to-suspend-gpu-task-ordering-in-windows-os/"><u>Learn How To Suspend GPU Task Ordering in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-11-setup-offline/"><u>Mastering Windows 11 Setup Offline</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-mastering-android-an-assessment-of-premium-voice-recorders-including-free-variants-for-the-year-2023/"><u>New 2024 Approved Mastering Android An Assessment of Premium Voice Recorders (Including Free Variants) for the Year 2023</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-boot-time-windows-audio-recovery-procedures/"><u>Resolving Boot-Time Windows Audio Recovery Procedures</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-incorrect-win10-resolution/"><u>Resolving Incorrect Win10 Resolution</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-greyed-out-remove-feature-in-windows-11-settings/"><u>Restoring Greyed Out Remove Feature in Windows 11 Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/stop-muted-microphone-issue-fixes-to-ensure-live-recording-obs-w11/"><u>Stop Muted Microphone Issue: Fixes to Ensure Live Recording, OBS W11</u></a></li>
+<li><a href="https://article-posts.techidaily.com/streamlining-your-subtitle-workflow-with-leading-online-tools-for-2024/"><u>Streamlining Your Subtitle Workflow with Leading Online Tools for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-secrets-to-subtle-sound-diminishment-in-lumafusion-for-2024/"><u>The Secrets to Subtle Sound Diminishment in Lumafusion for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211164124-9780762487509-the-wheel-of-the-year/"><u>The Wheel of the Year | Free Book</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-resolving-nvidia-cp-access-denied-on-ws1110/"><u>Troubleshooting: Resolving Nvidia CP Access Denied on WS11/10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-the-mystery-behind-visionpros-unexpected-failures-and-your-contingency-plan-insights-by-zdnet/"><u>Understanding the Mystery Behind VisionPro's Unexpected Failures & Your Contingency Plan - Insights by ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-is-hardware-reserved-memory-on-windows/"><u>What Is Hardware Reserved Memory on Windows?</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-unlocked-enter-the-ease-of-access-center-fast/"><u>Windows Unlocked: Enter the Ease of Access Center Fast</u></a></li>
+</ul></div>
 

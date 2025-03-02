@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Stopping Discord Startup and Updates"
-date: 2024-08-15T15:31:30.784Z
-updated: 2024-08-16T15:31:30.784Z
+date: 2025-03-01T13:30:28.556Z
+updated: 2025-03-01T18:00:00.492Z
 tags:
   - windows10
   - windows11
@@ -34,9 +34,6 @@ Follow the below steps to prevent Discord from launching at startup:
 
  Sadly, the quest to prevent Discord from launching at startup doesn't end here. If Discord's Update process is allowed to run at startup in Task Manager, it may still look for updates and launch. It is, therefore, imperative to disable that as well.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Stop Discord From Searching for Updates at Startup on Windows
 
  Follow the below steps to stop Discord from searching for updates at startup:
@@ -46,32 +43,22 @@ Follow the below steps to prevent Discord from launching at startup:
 3. Locate the**Update** process having Discord's official logo as an icon.
 4. Right-click on it and select**Disable** .  
 ![Disabling Discord Update Process in Windows Startup Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Disabling-Discord-Update-Process-in-Windows-Startup-Task-Manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 
  Following the above steps will prevent Discord from launching at startup and looking for updates. However, ensure you disable the Discord-related Update process in the Task Manager, not any other process. You may get into more trouble if you stop the Windows-related update process.
 
  Do not perform any actions if you do not see any Update process in Task Manager's Startup tab.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Make Discord Stop Launching at Startup and Checking for Updates
 
  We showed you how to prevent Discord from starting and checking for updates at startup. If you are frustrated by it, you can turn it off. By doing so, you will also reduce Windows boot time.
 
  Like Discord Update, you can also disable many other processes to speed up Windows' startup. Among them are QuickTime, Evernote Clipper, and Microsoft Office, all of which can be disabled at startup without affecting your PC in a negative way.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -80,8 +67,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-who-takes-the-crown-in-2024-av1-or-vp9/"><u>[New] Who Takes The Crown, In 2024 AV1 or VP9?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-evaluating-inshots-capabilities-against-market-leaders/"><u>[Updated] 2024 Approved Evaluating InShot's Capabilities Against Market Leaders</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-closer-look-detailed-test-on-lg-ud88-w-oled-screen-for-2024/"><u>A Closer Look Detailed Test on LG UD88-W OLED Screen for 2024</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/comprehensive-android-security-manual-eradicating-and-fortifying-your-mobile-device-against-malware/"><u>Comprehensive Android Security Manual: Eradicating & Fortifying Your Mobile Device Against Malware</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-disabled-trash-can-symbol-on-win11-os/"><u>Mending Disabled Trash Can Symbol on Win11 OS</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-slow-safari-expert-advice-for-accelerating-your-iphone-web-browsing/"><u>Overcome Slow Safari: Expert Advice for Accelerating Your iPhone Web Browsing</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-stop-vmware-blue-screen-in-win11/"><u>Strategies to Stop VMware Blue Screen in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-to-prolong-windows-10-closure-with-ongoing-processes/"><u>Techniques to Prolong Windows 10 Closure with Ongoing Processes</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-9-pc-advantages-over-macs/"><u>Top 9: PC Advantages Over Macs</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-meets-virtual-box-70-a-detailed-guide-for-the-tech-savvy/"><u>Windows 11 Meets Virtual Box 7.0: A Detailed Guide for the Tech-Savvy</u></a></li>
+</ul></div>
 

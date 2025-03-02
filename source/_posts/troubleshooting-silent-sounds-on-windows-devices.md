@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Silent Sounds on Windows Devices
-date: 2024-08-15T15:32:36.650Z
-updated: 2024-08-16T15:32:36.650Z
+date: 2025-02-23T00:03:04.966Z
+updated: 2025-03-01T16:36:16.367Z
 tags:
   - windows10
   - windows11
@@ -31,9 +31,6 @@ To restart the Windows Audio service:
 3. In the Services window, scroll down to locate the**Windows Audio** service on the list. Then, right-click on it and select**Restart** .  
 ![Restart Windows Audio Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/restart-windows-audio-service.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Make Sure the Supporting Audio Components Are Running
 
  Windows Audio service relies on several system components to function properly on your PC. If one of these components is not running, audio services may stop responding.
@@ -47,15 +44,9 @@ Here’s how to check if the required services are running.
 5. Click**Apply** followed by**OK** .
 6. Similarly, change the startup type for**Remote Procedure Call (RPC)** and**DCOM Server Process Launcher** services as well.  
 ![Remote Procedure Call Service in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/remote-procedure-call-service-in-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Restart your PC after this and check if the issue is still there.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Add Local and Network Services Using Command Prompt
 
  Another thing you can do to resolve this issue is to register local and network services on Windows using Command Prompt. Here are the steps for the same.
@@ -90,9 +81,6 @@ Restart your PC after this and check if the issue is still there.
 
 1. Select**Yes** when the User Account Control (UAC) prompt appears.  
 ![Device Installation Settings on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/device-installation-settings-on-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 2. Now use one of the [many ways to open Device Manager](https://www.makeuseof.com/windows-open-device-manager/) .
 3. Expand the**Sound, video, and game controllers** .
 4. Right-click on your sound driver and select**Uninstall device** .
@@ -106,9 +94,6 @@ Restart your PC after this and check if the issue is still there.
 
  The SFC scan will check your computer for missing or corrupt system files, whereas DISM will repair the Windows system image. You can run these tools using Command Prompt. To know more, check our guide on [how to repair corrupt Windows files with Windows built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/) and follow the steps outlined there.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## 7\. Perform a System Restore
 
  System Restore is a useful feature on Windows that creates a backup of your entire system at predefined intervals. It can help you restore your system to the point before the problem occurred.
@@ -128,23 +113,17 @@ To perform a system restore on Windows, use these steps:
 
  Wait for Windows to restart and revert to the specified restore point. After that, the audio services should work fine.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ## Fixing Audio Services on Windows Is Easy
 
  It can be confusing if the audio services on Windows suddenly become unresponsive. In most cases, manually restarting the audio services should resolve the issue. If not, you may have to go through the trouble of scanning the system files or performing a system restore.
 
  That said, if none of the above solutions work, you can consider resetting your Windows computer or performing an in-place upgrade as a last resort.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -153,8 +132,26 @@ To perform a system restore on Windows, use these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-navigate-the-best-free-photography-enhancers-worldwide-for-2024/"><u>[New] Navigate the Best Free Photography Enhancers Worldwide for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-tactics-for-boosting-vhs-quality-through-digital-tools/"><u>[New] Top Tactics for Boosting VHS Quality Through Digital Tools</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-how-to-facetime-on-android-easily/"><u>2024 Approved How To Facetime on Android Easily</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209539767-9781601636539-exposed-uncovered-declassified-ufos-and-aliens/"><u>Exposed, Uncovered & Declassified: UFOs and Aliens | Free Book</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-discord-fatal-javascript-error-in-windows-11-and-11/"><u>How to Fix the Discord Fatal Javascript Error in Windows 11 & 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-tecno-spark-10c-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Tecno Spark 10C</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-dynamic-ppt-leveraging-voice-for-effective-delivery/"><u>In 2024, Dynamic PPT Leveraging Voice for Effective Delivery</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-test-of-the-radpower-radcity-5plus-balancing-might-and-mass/"><u>In-Depth Test of the RadPower RadCity 5+: Balancing Might and Mass</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-common-windows-error-with-lsassexe/"><u>Overcoming Common Windows Error with lsass.exe</u></a></li>
+<li><a href="https://windows11.techidaily.com/precision-and-convenience-meet-with-our-winning-window-timers-list/"><u>Precision & Convenience Meet With Our Winning Window Timers List</u></a></li>
+<li><a href="https://windows11.techidaily.com/reimagining-the-look-of-basic-text-editor-in-windows-11/"><u>Reimagining the Look of Basic Text Editor in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-repair-disk-errors-in-windows-os/"><u>Steps to Repair Disk Errors in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-your-wi-fi-networks-usage-metrics-with-windows-11/"><u>Tailoring Your Wi-Fi Network's Usage Metrics with Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-compilation-of-devout-ringtones/"><u>The Ultimate Compilation of Devout Ringtones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-unauthorized-uses-for-gpt-3/"><u>Top 5 Unauthorized Uses for GPT-3</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-absence-of-files-on-windows-11/"><u>Troubleshooting Absence of Files on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/uncover-and-fix-hidden-5ghz-connections-in-windows-11-easily/"><u>Uncover & Fix Hidden 5GHz Connections in Windows 11 Easily</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-memory-write-hitches-in-windows/"><u>Unraveling 'Memory Write' Hitches in Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-system-with-the-official-microsoft-audio-driver-easy-download-and-installation-guide/"><u>Update Your System with the Official Microsoft Audio Driver - Easy Download & Installation Guide</u></a></li>
+</ul></div>
 

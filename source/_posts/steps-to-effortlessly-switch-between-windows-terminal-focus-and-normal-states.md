@@ -1,7 +1,7 @@
 ---
 title: Steps to Effortlessly Switch Between Windows Terminal Focus and Normal States
-date: 2024-08-15T15:33:34.031Z
-updated: 2024-08-16T15:33:34.031Z
+date: 2025-03-01T12:24:03.259Z
+updated: 2025-03-01T18:55:35.121Z
 tags:
   - windows10
   - windows11
@@ -33,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f4
 
  After saving your changes, the Windows Terminal will automatically enter Focus Mode and hide the tabs and title bar every time you launch it.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Use the Run Command
 
  You can also enter Focus Mode in Windows Terminal using the Run command. This is a great way to quickly switch between modes without adjusting the settings. Here's how to do it:
@@ -45,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f4
 
  This will open the Windows Terminal with Focus Mode enabled. To turn off Focus Mode, press**Ctrl + Shift + P** on your keyboard. Then search for**Toggle focus mode** and click on it.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Use the Command Palette
 
  If you prefer using commands, you can enter Focus Mode in the Windows Terminal through the Command Palette. Here's how to do it:
@@ -55,17 +49,11 @@ thumbnail: https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f4
 1. Right-click on Start and select**Terminal** from the power user menu.
 2. In the Terminal window, press**Ctrl + Shift + P** to open the Command Palette.  
 ![Use the Command Palette to enable Focus Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/use-the-command-palette-to-enable-focus-mode.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Type "focus mode" in the text box and select**Toggle focus mode** from the list of options.
 4. The Windows Terminal will then enter Focus Mode and hide all unnecessary information from the window.
 
  If you need to access the tabs and title bar, you can press the same shortcut again. It will switch back to the normal mode.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Create a Shortcut Key
 
  Creating a shortcut key to enter Focus Mode in Windows Terminal is highly recommended as it makes switching between modes much faster and easier. Here's how:
@@ -73,18 +61,12 @@ thumbnail: https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f4
 1. Open the Windows Terminal and press**Ctrl + Comma** to open the Settings window.
 2. Select the**Actions** tab in the left pane, then click the**Add new** button.  
 ![Create a Shortcut Key to enable Focus Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/create-a-shortcut-key-to-enable-focus-mode.jpg)
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Next, scroll down and select**Toggle focus mode** from the option list.
 4. Now, assign your preferred shortcut (e.g.,**Ctrl + Alt + F**) to the Toggle focus mode command.
 5. Finally, click**Save** to apply the changes and close the Settings window.
 
  Once you create the shortcut key, you can press it to switch between Focus Mode and normal mode in Windows Terminal.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ## 5\. Use Windows File Explorer
 
  If you're using File Explorer to manage files, you can also enter Focus Mode in Windows Terminal from there. Here's how:
@@ -105,8 +87,6 @@ wt.exe /focus
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,8 +94,21 @@ wt.exe /focus
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-top-5-instagram-strategies-for-aspiring-influencers-real-success-stories/"><u>[New] Top 5 Instagram Strategies for Aspiring Influencers Real Success Stories</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-revolutionize-your-tech-life-with-no-cost-mac-recording-tools/"><u>[Updated] 2024 Approved Revolutionize Your Tech Life with No-Cost Mac Recording Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-pixma-mg2522-fresh-driver-download-and-update-guide/"><u>Canon Pixma MG2522: Fresh Driver Download and Update Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-error-code-e84-on-steam-for-windows/"><u>How to Fix the Error Code E84 on Steam for Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/innovative-synergy-windows-enables-iphone-and-ipad-with-desktop-power/"><u>Innovative Synergy: Windows Enables iPhone & iPad with Desktop Power</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-scoop-on-western-digital-data-lifeguard-an-in-depth-review/"><u>Inside Scoop on Western Digital Data LifeGuard: An In-Depth Review</u></a></li>
+<li><a href="https://windows11.techidaily.com/instant-wallpaper-update-the-simple-windows-method/"><u>Instant Wallpaper Update: The Simple Windows Method</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/lose-your-ipad-passcode-easy-steps-to-regain-access-without-it/"><u>Lose Your iPad Passcode? Easy Steps to Regain Access Without It!</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-11s-fast-flip-buttons/"><u>Mastering Windows 11'S Fast Flip Buttons</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-hype-a-closer-look-at-announcements-for-googles-next-big-occasion/"><u>Navigating the Hype: A Closer Look at Announcements for Google’s Next Big Occasion</u></a></li>
+<li><a href="https://review-topics.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-vivo-g2-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-resolve-microsoft-store-glitch-error-code-0x800704cf/"><u>Steps to Resolve Microsoft Store Glitch (Error Code 0X800704CF)</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailored-guidance-for-choosing-between-nvidia-gamestudio-drivers/"><u>Tailored Guidance for Choosing Between Nvidia Game/Studio Drivers</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/tp-link-re305-router-range-extender-ac1200-test-and-overview/"><u>TP-Link RE305 Router Range Extender AC1200 Test & Overview</u></a></li>
+</ul></div>
 

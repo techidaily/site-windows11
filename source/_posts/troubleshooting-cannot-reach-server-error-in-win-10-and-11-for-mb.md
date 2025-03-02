@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Cannot Reach Server Error in Win 10 & 11 for MB
-date: 2025-02-08T17:29:03.461Z
-updated: 2025-02-10T18:54:56.146Z
+date: 2025-02-27T23:50:19.644Z
+updated: 2025-03-01T19:34:15.835Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/ef0c500c1ff8cdea11d6b2ce7132e969a27a23353
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Set Malwarebytes to Run as an Administrator
 
  First, try applying simpler potential solutions, such as running Malwarebytes as an administrator. This will at least ensure the software has full system permissions when you start it.
@@ -36,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/ef0c500c1ff8cdea11d6b2ce7132e969a27a23353
  Our guide for[always running apps as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) explains how you can apply this potential fix.
 
 ![The Run this program as an administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-this-program-as-an-administrator-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Check That the Malwarebytes Service Is Enabled and Running
 
@@ -90,16 +82,8 @@ Here is how you can repair Malwarebytes with its support tool:
 ![The Scan options navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/scan-options.jpg)
 3. Click the radio button labeled**Full Scan** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Scan now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/scan-now-button.jpg)
 4. Press**Scan now** to start a Microsoft Defender scan.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Reinstall Malwarebytes
 
@@ -115,10 +99,6 @@ Here is how you can repair Malwarebytes with its support tool:
 6. Select**Yes** in the Reinstall Malwarebytes for Windows popup dialog box that opens.
 7. Click the**Personal Computer** option.
 8. Finally, select**Yes** to reinstall Malwarebytes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Now You Can (Probably) Utilize Malwarebytes
 
@@ -141,24 +121,19 @@ Here is how you can repair Malwarebytes with its support tool:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-30-metaverse-phenomena-making-your-mark-with-memes-for-2024/"><u>[New] 30 Metaverse Phenomena Making Your Mark with Memes for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/adapting-to-new-gear-your-powertoys-configuration-guide/"><u>Adapting To New Gear: Your PowerToys Configuration Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-steam-vac-denial-for-gaming-sessions/"><u>Addressing Steam VAC Denial for Gaming Sessions</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoid-silencing-windows-11-alerts-benefits-unveiled/"><u>Avoid Silencing Windows 11 Alerts: Benefits Unveiled</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-nokia-c110-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Nokia C110 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/conquering-immediate-failure-effective-strategies-to-tackle-onedrive-folder-issues-on-pc/"><u>Conquering Immediate Failure: Effective Strategies to Tackle OneDrive Folder Issues on PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/critiquing-7-perplexing-windows-11-aesthetics/"><u>Critiquing 7 Perplexing Windows 11 Aesthetics</u></a></li>
-<li><a href="https://windows11.techidaily.com/curing-white-screen-problems-on-store-platform/"><u>Curing White Screen Problems on Store Platform</u></a></li>
-<li><a href="https://windows11.techidaily.com/desk-clean-up-restoring-windows-11-desktop-symbols/"><u>Desk Clean-Up: Restoring Windows 11 Desktop Symbols</u></a></li>
-<li><a href="https://windows11.techidaily.com/differences-between-cloud-based-windows-installations/"><u>Differences Between Cloud-Based Windows Installations</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-realme-gt-5-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Realme GT 5 Devices | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/hevc-to-h264-conversion-guide-effortless-transcode-techniques/"><u>HEVC to H.264 Conversion Guide - Effortless Transcode Techniques</u></a></li>
-<li><a href="https://facebook.techidaily.com/how-does-facebook-justify-permitting-duplicate-personal-profiles/"><u>How Does Facebook Justify Permitting Duplicate Personal Profiles?</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-f04-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy F04 | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-closing-credits-collection-free-to-subscription-choices/"><u>In 2024, Closing Credits Collection Free to Subscription Choices</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/protocols-for-preserving-instagram-footage-on-windowsmacos-platforms-for-2024/"><u>Protocols for Preserving Instagram Footage on Windows/macOS Platforms for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719293537225-resurrect-your-chrome-on-win11-with-ease/"><u>Resurrect Your Chrome on Win11 with Ease</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ess-youtube-to-wav-4-budget-friendly-solutions-revealed-for-2024/"><u>Seamless YouTube to WAV 4 Budget-Friendly Solutions Revealed for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-prime-day-blowout-sales-premium-laptops-at-unbeatable-prices-october-2024-edition-zdnet/"><u>Top Prime Day Blowout Sales: Premium Laptops at Unbeatable Prices - October 2024 Edition | ZDNET</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-nocturnal-nuances-expert-insights-into-nighttime-photography/"><u>[New] 2024 Approved Nocturnal Nuances Expert Insights Into Nighttime Photography</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-unlocking-the-mystery-of-pfp-a-tiktok-perspective/"><u>[New] In 2024, Unlocking the Mystery of 'PFP' A TikTok Perspective</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-expert-take-on-acid-pro-and-competitive-analysis-for-2024/"><u>[Updated] Expert Take on ACID Pro and Competitive Analysis for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-tips-for-capturing-youtube-sounds/"><u>[Updated] In 2024, Tips for Capturing YouTube Sounds</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-chuckling-challenge-brainstroming-7-humorous-youtube-videos/"><u>2024 Approved Chuckling Challenge Brainstroming 7 Humorous YouTube Videos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975255841-compatible-driving-force-racing-wheels-driver-software-for-windows-operating-systems-windows-7810-download-here/"><u>Compatible Driving Force Racing Wheels Driver Software for Windows Operating Systems (Windows 7/8/10) - Download Here!</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-overcome-repetitive-login-failures-in-teams/"><u>How to Overcome Repetitive Login Failures in Teams</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-show-or-hide-system-tray-icons-and-the-hidden-icons-menu-on-windows-11/"><u>How to Show or Hide System Tray Icons and the Hidden Icons Menu on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/instant-internet-jump-after-installing-os/"><u>Instant Internet Jump After Installing OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/personalizing-window-writable-wallpaper-with-confidence/"><u>Personalizing Window' Writable Wallpaper with Confidence</u></a></li>
+<li><a href="https://windows11.techidaily.com/silent-steps-a-quick-guide-to-stopping-windows-11-activities/"><u>Silent Steps: A Quick Guide to Stopping Windows 11 Activities</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-iphone-guide-creating-and-editing-languid-video-sequences/"><u>Step by Step iPhone Guide Creating & Editing Languid Video Sequences</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/streaming-mastery-ioss-no1-freepluspaid-movie-apps-guide-for-2024/"><u>Streaming Mastery IOS's No.1, FREE+Paid Movie Apps Guide for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-ideas-into-visuals-for-free-a-guide-to-leveraging-dall-e-3-on-microsoft-bing-platform/"><u>Transforming Ideas Into Visuals for Free: A Guide to Leveraging DALL-E 3 on Microsoft Bing Platform</u></a></li>
 </ul></div>
 

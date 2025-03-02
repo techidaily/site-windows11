@@ -1,7 +1,7 @@
 ---
 title: Tactics to Mask Dimming Functionality in System Preferences
-date: 2024-08-15T15:31:25.505Z
-updated: 2024-08-16T15:31:25.505Z
+date: 2025-02-25T17:48:25.723Z
+updated: 2025-03-02T13:13:12.370Z
 tags:
   - windows10
   - windows11
@@ -36,18 +36,11 @@ powercfg -attributes SUB_VIDEO 17aaa29b-8b43-4b94-aafe-35f64daaf1ee +ATTRIB_HIDE
 
  After entering the command you want, hit the **Enter** key on your keyboard for PowerShell to execute it. Afterward, the **Dim display after** option should appear or disappear accordingly in the Power Options menu.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Show or Hide the “Dim display after” Option Using the Registry Editor
 
  Considering how vital the [Windows Registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) is for the smooth operation of Windows, you might want to [back up the registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before you edit it. Afterward, open the Registry Editor by pressing **Win + R**, typing **regedit** in the text box, and clicking **OK**.
 
 ![regedit](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/regedit.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
  Click **Yes** to bypass the UAC prompt.
 
@@ -58,22 +51,13 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\7516b95f
  On the right panel, double-click the **Attributes** entry to open it up for editing.
 
 ![the attributes entry in the windows registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/regedit-dim-display-after-attributes-entry.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  Then, in the **Value data** text box, enter **1** to hide **Dim display after** in the Power Options menu or **2** to show it.
 
 ![modifying the attributes dword in the windows registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/win-attributes-dword.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 
  Now you can open the Power Options menu (see [how to open the power options on Windows 10](https://www.makeuseof.com/windows-10-open-power-options/)) and check under **Display** to see if the **Dim display after** option is there or not.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## Controlling the “Dim Display After” Option in the Power Options Menu
 
  Now that you know how to show or hide **Dim display after**, you know what to do when you can’t find it in the Power Options menu or need to remove it. We recommend keeping it hidden and then bringing it up whenever you need it. This will make sure that no one messes with this important display setting when you’ve set it up perfectly.
@@ -84,8 +68,6 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\7516b95f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -93,8 +75,20 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\7516b95f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-ultimate-guide-top-20-cost-free-video-editing-websites/"><u>[New] 2024 Approved Ultimate Guide Top 20 Cost-Free Video Editing Websites</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-productivity-in-duality-employment-and-video-creation/"><u>[New] In 2024, Productivity in Duality Employment & Video Creation</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-how-to-combine-videos-on-iphone/"><u>[Updated] In 2024, How to Combine Videos on iPhone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-premium-vimeo-file-extractors/"><u>[Updated] In 2024, Premium Vimeo File Extractors</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-audience-captivation-through-crossfade-mastery-in-audacity/"><u>2024 Approved Audience Captivation Through Crossfade Mastery in Audacity</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/5-strategies-for-using-ai-to-enhance-cyber-attacks/"><u>5 Strategies for Using AI to Enhance Cyber Attacks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cutting-edge-capture-ranking-the-prime-6-4k-dslr-models/"><u>Cutting-Edge Capture Ranking the Prime 6 4K DSLR Models</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-microsoft-copilot-ai-driven-coding-assistant-explained/"><u>Exploring Microsoft Copilot: AI-Driven Coding Assistant Explained</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixed-low-frame-rate-issue-with-asus-usb-cam-in-win11/"><u>Fixed Low Frame Rate Issue with Asus USB Cam in Win11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-the-cannot-display-webpage-hurdle-on-ie/"><u>How to Overcome the ‘Cannot Display Webpage’ Hurdle on IE</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-set-or-reset-the-default-terminal-app-on-windows/"><u>How to Set or Reset the Default Terminal App on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-startup-fixes-for-frozen-windows-obs-studio/"><u>Mastering Startup Fixes for Frozen Windows OBS Studio</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-windows-10s-caption-error-correction/"><u>Streamlining Windows 10'S Caption Error Correction</u></a></li>
+</ul></div>
 

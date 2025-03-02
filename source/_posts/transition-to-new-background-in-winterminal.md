@@ -1,7 +1,7 @@
 ---
 title: Transition to New Background in WinTerminal
-date: 2025-01-16T20:21:12.796Z
-updated: 2025-01-22T17:32:06.645Z
+date: 2025-02-24T23:51:21.170Z
+updated: 2025-03-02T09:07:48.827Z
 tags:
   - windows10
   - windows11
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc
 
 ![Change Windows Terminal Background Image via Default Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/change-windows-terminal-background-image-via-default-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Scroll down to the**Background image** section, then click the**Background image path** option. Next, click the**Browse** option and select an image you want to use as a background.
 
  Click**Open** to confirm your selection. Now you should be able to see the selected image as the background of the terminal.
@@ -71,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc
 
 ![How to Change Windows Terminal Background Image From Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/how-to-change-windows-terminal-background-image-from-windows-file-explorer.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then paste this path into the**backgroundImage** section of settings.json. Remember to include a comma (**,**) after the path, as shown in the image above.
 
  Once you have pasted the path of your image, save the settings file and close the text editor. To apply this new background image, simply restart your Windows Terminal. The new background image should be displayed on the terminal window.
@@ -82,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc
  You can adjust the image transparency using the same method. Simply input values for the**backgroundImageOpacity** parameters to modify the settings. These additional settings allow you to personalize your Windows Terminal background image even further.
 
  Restart Windows Terminal for the changes to take effect. In this way, you can easily customize your Windows Terminal background image using the settings.json file.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Change the Windows Terminal Background Image Using the Run Command
 
@@ -100,18 +88,10 @@ thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc
 ![Change Windows Terminal Background Image From Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/change-windows-terminal-background-image-from-windows-file-explorer.jpg)
 4. Scroll down to the**backgroundImage** section and replace the image path with your own.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Then press**Ctrl + S** on your keyboard to save the changes.
 6. Close Notepad, then open Windows Terminal to see your new background image.
 
  You’re done! Now you know how to customize your Windows Terminal background image using the Run Command tool. You can further explore the settings.json file or use other tools to[customize and personalize your Windows Terminal](https://www.makeuseof.com/windows-terminal-customization/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Set a New Background Image for Windows Terminal
 
@@ -132,22 +112,20 @@ thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-boosting-your-online-presence-a-step-by-step-guide-to-viral-youtube-shorts/"><u>[New] 2024 Approved Boosting Your Online Presence A Step-by-Step Guide to Viral YouTube Shorts</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-eyemosaic-the-essential-photo-patcher/"><u>[Updated] 2024 Approved EyeMosaic The Essential Photo Patcher</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-best-of-nintendo-switch-fighting-apps-guide-max-156/"><u>[Updated] In 2024, Best of Nintendo Switch Fighting Apps Guide (Max 156)</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-unveiling-the-art-of-itunes-video-capture/"><u>[Updated] Unveiling the Art of iTunes Video Capture</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-initial-glimpse-at-vectors-classifying-and-choosing-right-tech/"><u>2024 Approved Initial Glimpse at Vectors Classifying and Choosing Right Tech</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/diving-deep-into-the-world-of-igtv-a-comprehensive-guide-for-2024/"><u>Diving Deep Into the World of IGTV A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/experience-advanced-home-automation-at-bargain-prices-save-up-to-61-off-with-the-new-ge-cync-offer-insider-tech-news/"><u>Experience Advanced Home Automation at Bargain Prices: Save Up To 61% Off With The New GE Cync Offer | Insider Tech News</u></a></li>
-<li><a href="https://windows11.techidaily.com/explore-extreme-device-integration-the-power-of-galaxys-dex-app/"><u>Explore Extreme Device Integration: The Power of Galaxy's DeX App</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-jump-cut-like-a-pro-advanced-editing-techniques-in-fcpx/"><u>New Jump Cut Like a Pro Advanced Editing Techniques in FCPX</u></a></li>
-<li><a href="https://windows11.techidaily.com/organizing-ideas-visual-note-taking-using-obsidian/"><u>Organizing Ideas: Visual Note-Taking Using Obsidian</u></a></li>
-<li><a href="https://windows11.techidaily.com/quickly-restart-print-spool-in-windows/"><u>Quickly Restart Print Spool in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/reconfiguring-system-settings-managed-by-your-organization-on-windows-11/"><u>Reconfiguring System Settings Managed by Your Organization on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-non-responsive-windows-netflix-application/"><u>Resolving Non-Responsive Windows Netflix Application</u></a></li>
-<li><a href="https://windows11.techidaily.com/stop-windows-update-failures-with-these-fixes/"><u>Stop Windows Update Failures with These Fixes</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamline-coding-process-essential-wsl-2-tips-and-tricks-for-dev/"><u>Streamline Coding Process: Essential WSL 2 Tips and Tricks for Dev</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/0plus-free-online-youtube-intro-makers-for-2024/"><u>Top 10+ Free Online YouTube Intro Makers for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/zip-file-chameleon-techniques-for-windows-images/"><u>ZIP File Chameleon Techniques for Windows Images</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-clipcomposer-critique-thorough-examination-for-2024/"><u>[Updated] ClipComposer Critique – Thorough Examination for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-galaxy-z-fold-5-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Galaxy Z Fold 5.</u></a></li>
+<li><a href="https://win11.techidaily.com/guarantee-stable-performance-of-your-windows-ui/"><u>Guarantee Stable Performance of Your Window's UI</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-the-secret-to-social-success-innovative-square-videography-tactics/"><u>In 2024, The Secret to Social Success Innovative Square Videography Tactics</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-uninterrupted-video-with-proper-obs-settings/"><u>In 2024, Uninterrupted Video with Proper OBS Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-admin-access-unlocking-windows-control-panel/"><u>Mastering Admin Access: Unlocking Windows Control Panel</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-your-gaming-setup-for-valorants-peak-performance/"><u>Optimizing Your Gaming Setup for Valorant's Peak Performance</u></a></li>
+<li><a href="https://windows11.techidaily.com/pathfinders-guide-unveiling-the-sixest-steps-for-copying-windows-11-file-and-folders/"><u>Pathfinder's Guide: Unveiling the Sixest Steps for Copying Windows 11 File & Folders</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-data-corruption-in-win11-os/"><u>Remedying Data Corruption in Win11 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-utorrent-setup-failures-on-windows-systems/"><u>Resolving uTorrent Setup Failures on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-your-workflows-microsoft-to-do-plus-ifttt/"><u>Streamline Your Workflows: Microsoft To-Do + IFTTT</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-science-behind-xboxs-strike-process/"><u>The Science Behind Xbox's Strike Process</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-your-photos-innovative-erase-on-windows/"><u>Transform Your Photos: Innovative Erase on Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-tech-secrets-the-ultimate-resource-for-hardware-enthusiasts-at-toms-review/"><u>Unlocking Tech Secrets: The Ultimate Resource for Hardware Enthusiasts at Tom's Review</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Non-Persistent Print Device Selection"
-date: 2024-08-15T15:30:27.650Z
-updated: 2024-08-16T15:30:27.650Z
+date: 2025-02-28T01:41:37.992Z
+updated: 2025-03-01T23:52:15.278Z
 tags:
   - windows10
   - windows11
@@ -34,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 
  After you complete the above steps, Windows should not change the default printer on its own.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Edit the Relevant Registry Files
 
  If the default printer keeps changing even after you disable the **Let Windows manage my default printer** option, you will need to edit the registry files in order to fix the issue.
@@ -52,19 +49,9 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 5. In the right pane, double-click the **LegacyDefaultPrinterMode** key to edit it.
 6. Enter **1** in the **Value data** field and click **OK**.  
 ![Stop Windows From Changing the Default Printer via Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/stop-windows-from-changing-the-default-printer-via-registry.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 
  Restart your PC after completing the above steps, and then use one of [the many ways to set the default printer on your Windows PC](https://www.makeuseof.com/set-default-printer-windows-11/). After that, check if the issue occurs again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ## 3\. Try Some Generic Windows Fixes
 
  In most cases, one of the above tips should solve your problem. Nonetheless, if the problem persists, you can try some generic solutions to address it.
@@ -74,17 +61,11 @@ No advertising on the website.
 * **Install the latest Windows updates:** Windows updates not only bring new features to your PC but can also help resolve various issues like this one. Hence, it’s a good idea to [install any pending Windows updates](https://www.makeuseof.com/update-windows-manually/) if you haven’t already.
 * **Create a new user account:** Problems with your current user account can also cause the default printer to keep changing on Windows. This can happen if some of the user account files associated with your account have become corrupted. If that’s the case, your best option is to [create and switch to a new user account on Windows](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/).
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ## Stop Setting the Default Printer Repeatedly on Windows
 
  It can be frustrating if the default printer on your Windows computer keeps changing without your input. Fortunately, it’s possible to stop that from happening with the solutions mentioned above.
 
  Here are some tips that will keep the default printer from changing on your PC.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -93,5 +74,16 @@ The ultimate burning program for all your needs!</a>
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/updated-from-page-to-screen-jujutsu-kaisen-on-tiktok/"><u>[Updated] From Page to Screen Jujutsu Kaisen on TikTok</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-revolutionary-gameplay-preservation-with-advanced-fbx-recording-for-2024/"><u>[Updated] Revolutionary Gameplay Preservation with Advanced FBX Recording for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-unlocking-the-potential-of-bandicam-your-ultimate-guide/"><u>[Updated] Unlocking the Potential of Bandicam – Your Ultimate Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-strategies-for-toolbar-mastery-in-mspcm-win11/"><u>Expert Strategies for Toolbar Mastery in MSPCM Win11</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-oneplus-12r-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-backdrop-blur-on-windows-11-a-visual-masterclass-in-photo-editing/"><u>Navigating Backdrop Blur on Windows 11: A Visual Masterclass in Photo Editing</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-obstacles-essential-tips-for-restoring-your-iphones-chatgpt-functionality/"><u>Overcoming Obstacles: Essential Tips for Restoring Your iPhone's ChatGPT Functionality</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-overcoming-onedrive-cloud-operation-issues/"><u>Strategies for Overcoming OneDrive Cloud Operation Issues</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-computational-prowess-with-the-telium-colossus-a-dual-gpu-linux-marvel/"><u>Unleashing Computational Prowess with The Telium Colossus – A Dual-GPU Linux Marvel</u></a></li>
+</ul></div>
 

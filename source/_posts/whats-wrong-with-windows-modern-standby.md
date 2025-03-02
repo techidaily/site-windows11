@@ -1,7 +1,7 @@
 ---
 title: What's Wrong with Windows Modern Standby?
-date: 2024-08-15T15:35:50.930Z
-updated: 2024-08-16T15:35:50.930Z
+date: 2025-02-27T08:57:23.521Z
+updated: 2025-03-02T00:43:21.812Z
 tags:
   - windows10
   - windows11
@@ -26,16 +26,9 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
 
  This differs from classic standby, which would take the state of your PC (what you were doing when you put it to sleep) and hold that in memory. Then, when you turn it back on, your PC can fetch it from storage to resume exactly what you were doing. The key difference is that, on the old standby, also known as S3 standby, only a small amount of power was put into the memory on your PC, so it could store information, whereas modern standby provides more power directly to the CPU.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## What Is the Problem With Windows Modern Standby?
 
 ![Windows 11 menu with various options for sleep modes and power consumption options.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-11-system-power-menu.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 
  If you’ve ever left your laptop or tablet in sleep mode in your bag, then found it was horribly hot and completely dead when you tried to use it later, then you’ve experienced Windows Modern Standby. While the feature does try to bring Windows devices more in line with Smartphones, it has also led to various laptops and tablets completely draining when they’re not being used.
 
@@ -47,23 +40,15 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
 
  There’s also the lifespan of your devices' batteries to consider. If your laptop or tablet is sitting on your coffee table constantly running powerful CPU processes, then you’re likely to find that the battery dies much sooner than you were expecting, and they can be expensive or difficult to replace or repair.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Stop Windows Modern Standby
 
  Now that you know there’s a problem, you might want to learn [how to turn off Windows Modern Standby on your Windows 10/11 devices](https://www.makeuseof.com/windows-disable-modern-standby/). Luckily, it is possible to turn the feature off, though the method is somewhat obtuse. You also have the option of [temporarily disabling sleep mode](https://www.makeuseof.com/temporarily-disable-sleep-mode-windows/) entirely, which is easier but less effective as options go.
 
  Bear in mind if you disable this feature, you might find that your laptop takes longer to wake up from sleep mode, and it also won't download any updates for you while you're not using it. If you’re not experiencing a power drain, as mentioned above, then you should leave the feature enabled. On Desktop PCs or laptops/tablets that don’t have a powerful CPU, Windows Modern Standby is a convenience that is worth having.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## Windows Modern Standby, in a Nutshell
 
  You should now have a decent understanding of what Windows Modern Standby is, why it's a problem, and how to deal with it. You should now find that you're actually able to use your device after a long journey, assuming that you've done everything you can to keep your battery healthy and alive anyway.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -72,5 +57,23 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-leveraging-video-features-annotations-and-cards/"><u>[New] Leveraging Video Features Annotations & Cards</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-unleash-the-skys-potential-with-drone-livestreaming-on-fb/"><u>[Updated] 2024 Approved Unleash the Sky's Potential with Drone Livestreaming on FB</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/cubing-up-your-health-game-an-in-depth-look-at-cubefits-terramat-product/"><u>Cubing Up Your Health Game: An In-Depth Look at CubeFit's TerraMat Product</u></a></li>
+<li><a href="https://fox-links.techidaily.com/explore-efficient-two-screen-viewing-on-netflix-for-2024/"><u>Explore Efficient Two-Screen Viewing on Netflix for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/guiding-users-through-privilege-related-setup-hiccups/"><u>Guiding Users Through Privilege-Related Setup Hiccups</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/how-to-easily-upgrade-to-a-new-computer-by-moving-your-hard-drive-with-windows-preinstalled/"><u>How To Easily Upgrade to A New Computer by Moving Your Hard Drive With Windows Preinstalled</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-online-video-advertising-maker-platforms/"><u>New Online Video Advertising Maker Platforms</u></a></li>
+<li><a href="https://windows11.techidaily.com/razer-synapse-issues-step-by-step-troubleshooting-for-w11w10/"><u>Razer Synapse Issues: Step-by-Step Troubleshooting for W11/W10</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-unsuccessful-discord-updates-for-windows-users/"><u>Resolving Unsuccessful Discord Updates for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-windows-printer-service-offline-errors/"><u>Resolving Windows Printer Service Offline Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/taming-the-background-load-a-windows-guide/"><u>Taming the Background Load: A Windows Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-bargains-on-amazon-hottest-offers-of-sept-24-featured/"><u>Top Bargains on Amazon - Hottest Offers of Sept '24 Featured</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-for-correcting-the-wpcapsddll-file-missing-issue/"><u>Troubleshooting Steps for Correcting the Wpcapsd.dll File Missing Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/tweaking-the-lockout-threshold-post-failed-access-on-w10w11/"><u>Tweaking the Lockout Threshold Post-Failed Access on W10/W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/w11-pros-best-offers-save-and-elevate-your-spend/"><u>W11 Pro's Best Offers: Save & Elevate Your Spend</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11s-ingenious-techniques-for-gathering-info/"><u>Win11's Ingenious Techniques for Gathering Info</u></a></li>
+</ul></div>
 

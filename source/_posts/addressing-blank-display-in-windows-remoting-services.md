@@ -1,7 +1,7 @@
 ---
 title: Addressing Blank Display in Windows Remoting Services
-date: 2024-08-15T15:30:44.026Z
-updated: 2024-08-16T15:30:44.026Z
+date: 2025-02-24T20:18:27.400Z
+updated: 2025-03-01T17:10:34.364Z
 tags:
   - windows10
   - windows11
@@ -66,27 +66,17 @@ thumbnail: https://thmb.techidaily.com/f051850e231be7d8e7141a137d6f961668fd16987
 
  Before moving forward, make sure you [create a restore point](https://www.makeuseof.com/windows-11-create-restore-point/) on your desktop. It'll give you a safer side if your system gets corrupt or the GPU drivers behave weirdly after updating.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## 4\. Restart the Remote Desktop Service
 
  Are you still struggling to fix the black screen? If so, then you can try restarting the remote desktop service. This service controls and helps run the remote desktop sessions on your computer. Here's how you can restart the remote desktop service on Windows:
 
 1. Press**Win + R** and type**services.msc** in the Run dialogue box.  
 ![Services Shortcode In Run Dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/opening-sevices-from-run_dialog.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 2. Scroll down until you find**Remote Desktop Services** in the list of services.
 3. Right-click on**Remote Desktop Services** and select the**Restart** option.  
 ![RDC Service Restart Option In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restarting-the-rdc.jpg)
 4. You can now restart your computer to ensure the changes are correctly applied.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## 5\. Disable Bitmap Caching
 
  Bitmap caching is a feature in Remote Desktop Connection that caches the bitmap images (locally) to improve performance. Simply put, it saves every small image rendered on your remote computer in the memory. As RDC uses the image data from memory, this saves time and resources significantly.
@@ -102,9 +92,6 @@ thumbnail: https://thmb.techidaily.com/f051850e231be7d8e7141a137d6f961668fd16987
 
  Note that once you disable it, the images will not be stored (or cached) locally. It means you may experience slightly slower performance while interacting with the desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Enable WDDM Graphics Display Driver
 
  The WDDM (Windows Display Driver Model) is a special type of display driver. It helps your graphics card work more efficiently, improving your computing experience.
@@ -120,15 +107,9 @@ Follow the below steps to enable WDDM for remote desktop connections:
 2. Within the**Local Group Policy Editor** window, head over to**Computer Configuration** . Next, move on to**Administrative Templates > Windows Components** .
 3. Double-click on**Remote Desktop Services** and then go to **Remote Desktop Session Host > Remote Session Environment** .  
 ![Remote Desktop Services In GPE](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/remote-desktop-services-in-gpe.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Double-click the **Use WDDM graphics display driver for Remote Desktop Connections** option.
 5. Select or check the**Enabled** option to enable this policy.  
 ![WDDM Settings In GPE](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/wddm-settings-in-gpe.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Click the**Apply** button, and after that, select**OK** .
 
  This will force Remote Desktop Connection to utilize WDDM for all the RDC sessions.
@@ -146,30 +127,21 @@ Follow the below steps to enable WDDM for remote desktop connections:
 3. Under**Performance** , choose the connection speed that best suits your PC. For example, select**LAN (10 Mbps or higher)** if you're using high-speed internet. If you're unsure about your network's speed, select**Detect connection quality automatically** from the dropdown.
 4. Uncheck all the options you don't want to use or that are not important for you. For instance, you may not get any benefit from selecting**Desktop background** and**Menu and window animation** . Similarly, by unchecking such options, you can improve the performance of your remote desktop significantly.  
 ![RDC Custom Performance Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rdc-custom-performance-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 5. Click**Hide Options** and enter the remote computer's name and username. You're now ready to connect to your remote computer.
 
  Overall, the above settings may vary depending on your needs and computer specifications. So, we recommend that you test each setting to see which one works best for you.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Get Your Remote Desktop Back in Action
 
  The remote desktop black screen issue is a frustrating one. Fortunately, there are several ways available to help you fix the black screen issue.
 
  Make sure you try every troubleshooting step in order until the black screen issue with your remote desktop is resolved. It may take a little trial and error, but once you find the optimal configuration, the black screen will not reappear on your remote desktop.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -178,8 +150,19 @@ Follow the below steps to enable WDDM for remote desktop connections:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-mobile-video-smoothing-system-pro/"><u>[New] In 2024, Mobile Video Smoothing System Pro</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-unbeatable-online-video-recorders-ranked-10/"><u>[New] In 2024, Unbeatable Online Video Recorders Ranked #10</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-snapchats-best-practices-for-image-and-video-zooming-for-2024/"><u>[New] Snapchat's Best Practices for Image and Video Zooming for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-diy-gif-making-transforming-youtube-videos-into-animated-forms/"><u>[Updated] In 2024, DIY GIF Making Transforming YouTube Videos Into Animated Forms</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-full-screen-in-obs-no-more-worry/"><u>2024 Approved Full Screen in Obs, No More Worry</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/discovering-global-romanticism-on-valentines-eve/"><u>Discovering Global Romanticism on Valentine's Eve</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-overcome-new-cell-placement-hurdles-in-excel-widows/"><u>How to Overcome New Cell Placement Hurdles in Excel Widows</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimized-development-space-unveiling-the-potential-of-devs-on-win11/"><u>Optimized Development Space: Unveiling the Potential of Devs on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixes-to-stop-steam-from-halting-games-on-windows-11/"><u>Quick Fixes to Stop Steam From Halting Games on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/securing-your-desktops-background-stability/"><u>Securing Your Desktop's Background Stability</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-battle-of-the-titans-ios-app-store-and-google-play-store-face-off/"><u>The Battle of the Titans: IOs App Store and Google Play Store Face-Off</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-power-of-testing-enable-sandbox-in-win-11/"><u>Unlocking the Power of Testing: Enable Sandbox in Win 11</u></a></li>
+</ul></div>
 

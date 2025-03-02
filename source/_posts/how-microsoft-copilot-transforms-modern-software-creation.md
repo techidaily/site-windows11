@@ -1,7 +1,7 @@
 ---
 title: How Microsoft Copilot Transforms Modern Software Creation
-date: 2024-11-18T00:56:54.035Z
-updated: 2024-11-24T18:15:00.030Z
+date: 2025-02-26T08:52:16.526Z
+updated: 2025-03-02T11:53:24.472Z
 tags:
   - windows10
   - windows11
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 
  A lot of big tech companies have their own AI model, and Microsoft is no different. Its AI model is called "Copilot," and you might have already seen it on Windows 11 or in Microsoft Office. But what is Copilot, and what can you do with it?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is Microsoft Copilot?
 
  Microsoft Copilot is an AI-based assistant that Microsoft is rolling out across its operating systems and apps. Copilot will act differently and do different tasks depending on the app that you invoked it in.
@@ -46,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 ## How to Access Microsoft Copilot
 
  Accessing Microsoft Copilot is different depending on the app. We'll show you how to access Microsoft Copilot in all its forms.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Open Microsoft Copilot on Windows 11
 
@@ -69,19 +61,11 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 
 ![The Copilot icon in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/copilot-guide-edge-icon.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Open Microsoft Copilot on the Web
 
  If you don't have access to Windows 11 or Edge, you can still use Copilot on the web. Just head over to [copilot.microsoft.com](https://copilot.microsoft.com/) and you'll be ready to go.
 
  You'll notice that if you go to Bing and try to open Bing Chat, it will open Copilot instead because [Microsoft rebranded Bing Chat to Copilot](https://www.makeuseof.com/microsoft-rebrand-bing-chat-copilot-compete-chatgpt/). It should work the same way as the prior service.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Open Microsoft Copilot in Microsoft 365 (Office)
 
@@ -99,17 +83,9 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 
  The conversation style doesn't affect the quality of the information that Copilot gives you, so feel free to choose the one that fits you best.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Use Microsoft Copilot
 
  Now that you've got Copilot open, it's time to check out what you can do with it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Perform Research With Copilot
 
@@ -118,10 +94,6 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
  Something I love about Copilot over other AI models is how it cites its sources. It's always good to see an AI chatbot demonstrate where it's getting its knowledge from, but it also allows you to follow those citations when performing research.
 
  If you want to read about a specific topic, ask Copilot about it. While it discusses the given topic, it will begin underlining some of its statements and adding a source for that info at the bottom. You can then follow these links and use these same sources in your own research.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Generate Images With DALL-E 3
 
@@ -163,19 +135,19 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-mastering-screen-saves-on-iphone-7/"><u>[Updated] 2024 Approved Mastering Screen Saves on iPhone 7</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-cyberspace-screenplays-virtual-movie-journeys/"><u>2024 Approved Cyberspace Screenplays Virtual Movie Journeys</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-experts-guide-to-the-15-top-luts-for-gopro-films/"><u>2024 Approved Expert's Guide to The 15 Top LUTs for GoPro Films</u></a></li>
-<li><a href="https://windows11.techidaily.com/discovering-distinctive-decor-for-each-monitor-in-windows-11/"><u>Discovering Distinctive Decor for Each Monitor in Windows 11</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/harmonize-video-quality-with-instagrams-visual-theme/"><u>Harmonize Video Quality with Instagram's Visual Theme</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-engaging-everyone-quickly-which-platform-triumphs-for-shorter-videos/"><u>In 2024, Engaging Everyone Quickly Which Platform Triumphs for Shorter Videos?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-itel-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Itel Phone</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-software-execution-by-nickname-definitions/"><u>Navigating Software Execution by Nickname Definitions</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-deactivated-system-cooler-protocol-on-pcs/"><u>Overcoming Deactivated System Cooler Protocol on PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-geforce-x0001-error-on-w10w11-systems/"><u>Overcoming GeForce X0001 Error on W10/W11 Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/perfect-notetaking-companions-the-7-finest-for-pen-tech/"><u>Perfect Notetaking Companions: The 7 Finest for Pen Tech</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-5-virtual-environments-ideal-for-windows-11-systems/"><u>Top 5 Virtual Environments Ideal for Windows 11 Systems</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-lenovo-thinkpad-x1-titanium-yoga-the-ultimate-2-in-1-solution-for-true-thinkpad-fans/"><u>Unveiling the Lenovo ThinkPad X1 Titanium Yoga - The Ultimate 2-in-1 Solution for True ThinkPad Fans</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-realme-narzo-n55-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Realme Narzo N55 Device</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-pigments-and-perceptions-mastering-image-colorization/"><u>[New] Pigments & Perceptions Mastering Image Colorization</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-pcs-best-vr-top-10-immersive-360-video-players/"><u>[Updated] 2024 Approved PC's Best VR Top 10 Immersive 360 Video Players</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-elevate-video-production-mastering-obs-on-android/"><u>2024 Approved Elevate Video Production Mastering OBS on Android</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-navigating-the-best-ways-to-record-screens-on-hp-systems/"><u>2024 Approved Navigating the Best Ways to Record Screens on HP Systems</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/broadcast-battles-obs-clashes-with-shadowgl/"><u>Broadcast Battles OBS Clashes with ShadowGL</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/download-and-try-out-the-swfvideoconverter-factory-pro-free-with-a-secure-payment-option/"><u>Download and Try Out the SwfVideoConverter Factory Pro - FREE with a Secure Payment Option</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/fix-unrecognized-iphone-by-itunes-on-windows-10-a-complete-guide/"><u>Fix: Unrecognized iPhone by iTunes on Windows 10 – A Complete Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/novice-to-vlogger-professional-video-making-on-mobile-devices/"><u>From Novice to Vlogger Professional Video Making on Mobile Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximize-efficiency-and-security-enabling-powershell-execution-policies/"><u>Maximize Efficiency and Security: Enabling PowerShell Execution Policies</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-not-written-memory-crisis-in-win/"><u>Navigating the 'Not Written' Memory Crisis in Win</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-windows-11s-restricted-access-feature/"><u>Navigating Through Windows 11’S Restricted Access Feature</u></a></li>
+<li><a href="https://windows11.techidaily.com/rectifying-device-not-initialized-warning-in-win-11/"><u>Rectifying 'Device Not Initialized' Warning in Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/time-traveling-your-data-modifying-windows-file-dates/"><u>Time Traveling Your Data: Modifying Windows File Dates</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-singapores-businesses-require-collaborative-and-unified-tech-solutions-for-efficient-hybrid-working-insights-from-zdnet/"><u>Why Singapore's Businesses Require Collaborative and Unified Tech Solutions for Efficient Hybrid Working - Insights From ZDNet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Reviving the Classics: Windows 11 for '98 Revisited"
-date: 2025-01-15T17:41:19.958Z
-updated: 2025-01-22T19:31:41.104Z
+date: 2025-02-25T12:26:38.811Z
+updated: 2025-03-02T11:49:59.652Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 
  Winaero Tweaker is an important program, and we'll be using it to do quite a lot. Head over to the[Winaero Tweaker download page](https://winaerotweaker.com) , and then over to[this DeviantArt page](https://www.deviantart.com/vovan29/art/Windows-95-ALL-ICONS-805656804) for a Windows 95 icon set to go along with it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Open-Shell-Menu
 
  Open-Shell-Menu, found on the[Open-Shell GitHub page](http://github.com/Open-Shell/Open-Shell-Menu) , is a handy program to have in general. We've used it before in order to[make Windows 10 look like Windows XP](https://www.makeuseof.com/tag/windows-10-windows-xp-7-8-look-alike/) . This program can make extensive design modifications to Windows, so it's worth keeping around even if you don't keep the classic theme around.
@@ -52,17 +48,9 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 
  This one might be optional if you don't care for the mostly forgotten Channel Bar, but if you do, head over to[the download page for Desktop Sidebar](http://www.oldversion.com/windows/desktop-sidebar-1-03-build-42) to add it to the collection.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Windows 98 Sound Pack
 
  Last, but very important, is the sound pack. We can import this directly as a sound scheme, although it's going to require some work later on. Download[this sound pack on Blockland Glass](https://blocklandglass.com/addons/addon.php?id=524) and we can finally begin.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Install WindowBlinds 11 and Skin Pack
 
@@ -76,17 +64,9 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 
  You'll now have a very general color layout applied, but it's not quite there yet.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Install Open-Shell-Menu
 
 ![screenshot of open shell menu replacing the start button image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_open_shell_menu_pick_image.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Open-Shell-Menu is another easy installation with an EXE file. After it's installed, we'll want to use it to do two different things.
 
@@ -104,19 +84,11 @@ This gives us a fairly authentic-looking Start Menu and icon.
 
 ![screenshot of the retrobar settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_retrobar_settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  RetroBar will make an immediate difference, as soon as you run it. You'll notice that it automatically changes your taskbar to a classic style, with individual tabs for programs.
 
  To make changes in this program, you have to right-click your new taskbar and hit**Properties.**
 
  From here you can make some changes if you'd like, however, it launches with a Windows 98 theme applied out of the box, so there's not too much you'll need to do here.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Install Classic Sounds
 
@@ -135,10 +107,6 @@ This gives us a fairly authentic-looking Start Menu and icon.
  Click one of these sound files, then click**Browse.** Navigate to the corresponding sound and apply it.
 
  Do this for the remaining items, or until you're satisfied. There are 15 classic sounds all up, and they add a lot to the nostalgic experience.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Desktop Sidebar
 
@@ -206,22 +174,21 @@ However, there is one icon you can only change using Winaero Tweaker.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ourav-joshis-path-to-wealth-via-youtube-for-2024/"><u>[New] Sourav Joshi's Path to Wealth via YouTube for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-exploring-tech-worlds-dissecting-ar-mr-and-vr/"><u>[Updated] 2024 Approved Exploring Tech Worlds Dissecting AR, MR, & VR</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-next-gen-recording-greener-choices/"><u>[Updated] 2024 Approved Next-Gen Recording Greener Choices</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-navigating-insta-fan-hollows-a-quick-guide-for-2024/"><u>[Updated] Navigating Insta Fan Hollows A Quick Guide for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-insights-into-utilizing-microsofts-system-restore-feature/"><u>Essential Insights Into Utilizing Microsoft's System Restore Feature</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-excellent-low-cost-webcam-snipper-app/"><u>In 2024, Excellent Low-Cost Webcam Snipper App</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-acquire-version-6-of-windows-movie-maker/"><u>In 2024, How to Acquire Version 6 of Windows Movie Maker</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-professional-graphics-with-asus-pa32u-true-to-color/"><u>In 2024, Professional Graphics with ASUS PA32U True to Color</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-samsung-galaxy-a05-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Samsung Galaxy A05? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-top-viral-video-tags-tips-for-popular-youtube-shorts/"><u>In 2024, Top Viral Video Tags Tips for Popular YouTube Shorts</u></a></li>
-<li><a href="https://windows11.techidaily.com/methods-to-resolve-non-installed-windows-store-apps/"><u>Methods to Resolve Non-Installed Windows Store Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/pinpointing-powerful-policies-in-windows-systems/"><u>Pinpointing Powerful Policies in Windows Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/preventing-devices-from-suspending-during-energy-saver/"><u>Preventing Devices From Suspending During Energy Saver</u></a></li>
-<li><a href="https://windows11.techidaily.com/restore-windows-teams-screen-sharing/"><u>Restore Windows Teams Screen Sharing</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlined-strategy-for-downloading-adobe-on-microsoft-platform/"><u>Streamlined Strategy for Downloading Adobe on Microsoft Platform</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-7-sketch-tools-on-windows-11/"><u>Top 7 Sketch Tools on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-unveiled-a-dive-into-widgets/"><u>Windows 11 Unveiled - A Dive Into Widgets</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/everage-editing-to-boost-youtube-profile-impact/"><u>[New] Leverage Editing to Boost YouTube Profile Impact</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twitter-to-tween-creating-free-animated-videos/"><u>[Updated] 2024 Approved Twitter to Tween Creating FREE Animated Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-compare-and-contrast-the-creme-de-la-creme-of-free-edits-for-2024/"><u>[Updated] Compare and Contrast The Crème De La Crème of Free Edits for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-of-lg-k51-impressive-appearance-impeded-by-slow-chipset/"><u>Comprehensive Review of LG K51: Impressive Appearance Impeded by Slow Chipset</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-analysis-on-slomo-video-softwares-performance-for-2024/"><u>Expert Analysis on SloMo Video Software's Performance for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixes-for-photocapture-error-on-windows-os/"><u>Fixes for PhotoCapture Error on Windows OS</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-samsung-galaxy-f54-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Samsung Galaxy F54 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-leading-brands-offering-the-best-steadicams-for-dslr-users/"><u>In 2024, Leading Brands Offering the Best Steadicams for DSLR Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mastering-file-transformation-switch-from-mp4-to-3gp-on-any-device/"><u>Mastering File Transformation: Switch From MP4 to 3GP on Any Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-language-diversity-windows-font-download/"><u>Navigating Language Diversity: Windows Font Download</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-the-maze-of-print-error-xfffee/"><u>Navigating Through the Maze of Print Error XFFFEE</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-the-marketplace-malfunction-error-0x80073cf3/"><u>Overcoming the Marketplace Malfunction: Error 0X80073CF3</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-full-operations-win1011-and-ccleaner-interaction/"><u>Restoring Full Operations: Win10/11 & CCleaner Interaction</u></a></li>
+<li><a href="https://article-tips.techidaily.com/the-finest-5k-monitors-our-choice-8-edition-for-2024/"><u>The Finest 5K Monitors Our Choice, #8 Edition for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-strategy-for-concealing-the-search-bar-on-taskbar/"><u>The Strategy for Concealing the Search Bar on Taskbar</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-the-game-selecting-the-best-5-budget-friendly-software-boosters/"><u>Win the Game: Selecting the Best 5 Budget-Friendly Software Boosters</u></a></li>
 </ul></div>
 

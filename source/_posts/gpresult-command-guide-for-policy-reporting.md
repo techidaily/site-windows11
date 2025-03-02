@@ -1,7 +1,7 @@
 ---
 title: GPResult Command Guide for Policy Reporting
-date: 2024-08-15T15:37:09.388Z
-updated: 2024-08-16T15:37:09.388Z
+date: 2025-03-01T01:45:10.820Z
+updated: 2025-03-01T16:16:21.855Z
 tags:
   - windows10
   - windows11
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/23f13f96d936d78089a7e8a3b93e560ac0ab85876
 
  If you're looking for a specific group policy, you can [search the LGPE on Windows](https://www.makeuseof.com/find-group-policy-windows/) using the tool's filter options, the Group Policy website, and the Group Policy reference sheet by Microsoft.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Generate a Group Policy Report With GPResult
 
  To generate a group policy report for your Windows computer, you first need to [open Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/). Then, you can use the below command:
@@ -42,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/23f13f96d936d78089a7e8a3b93e560ac0ab85876
  You will then see the report in Command Prompt, and you can go through it to see the group policies settings on your computer.
 
 ![the results of gpresult Command Prompt on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-results-of-gpresult-command-on-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 
  To generate a group policy report for a specific user on your computer, use the below command syntax:
 
@@ -61,15 +55,9 @@ thumbnail: https://thmb.techidaily.com/23f13f96d936d78089a7e8a3b93e560ac0ab85876
  Now, you just need to find the name of the user you want and use it in the GPResult command.
 
 ![list all user accounts with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/list-all-user-accounts-with-net-user.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Be sure to type the name exactly as you see it, otherwise, you will most likely get errors.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Export the Group Policy Report to a Text File
 
  After you generate the report, you can export it to a text file so you can view the contents outside of Command Prompt. For example, you can view them in a web browser, which is more graphical and makes it easier to read and navigate the report.
@@ -85,9 +73,6 @@ thumbnail: https://thmb.techidaily.com/23f13f96d936d78089a7e8a3b93e560ac0ab85876
  If you look in the directory you specified when generating the report, you will find it. Since we exported it to an HTML file, when we double-click it, it will open the default browser, allowing us to view it in a little more detail.
 
 ![an exported group policy report opened in a web browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/an-export-group-policy-report-opened-in-a-web-browser.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  If you would rather generate the report for a specific user, you can use the below syntax:
 
@@ -95,9 +80,6 @@ thumbnail: https://thmb.techidaily.com/23f13f96d936d78089a7e8a3b93e560ac0ab85876
 
  It's the same as the previous command, only that this time, you have to replace **username** with the name of the user you want to generate the Group Policy report for.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## Get to Know the Group Policies on Your Computer
 
  Having a group policy report can come in handy when you need to see the policy settings applied on your computer quickly. While the GPResult command can do so much more, this guide offers a good starting point for working with it.
@@ -106,8 +88,6 @@ thumbnail: https://thmb.techidaily.com/23f13f96d936d78089a7e8a3b93e560ac0ab85876
 
  That's where the GPResult command comes in, and we're going to show you how to use it.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -115,5 +95,23 @@ thumbnail: https://thmb.techidaily.com/23f13f96d936d78089a7e8a3b93e560ac0ab85876
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-simplified-steps-for-posting-tweets-on-facebook/"><u>[Updated] In 2024, Simplified Steps for Posting Tweets on Facebook</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-ultimate-cameras-for-athletic-spectacle/"><u>[Updated] In 2024, Ultimate Cameras for Athletic Spectacle</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-guide-to-manual-netflix-playback-rate/"><u>[Updated] Step-by-Step Guide to Manual Netflix Playback Rate</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-swift-tip-extracting-and-storing-twitter-video-on-phone/"><u>[Updated] Swift Tip Extracting and Storing Twitter Video on Phone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-transform-your-avi-images-from-video-to-graphics-using-filmora/"><u>2024 Approved Transform Your AVI Images From Video To Graphics Using Filmora</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719577851696-become-a-croatian-connoisseur-heres-your-list-of-7-key-benefits/"><u>Become a Croatian Connoisseur – Here's Your List Of 7 Key Benefits!</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-tips-for-rectifying-display-driver-crashes/"><u>Essential Tips for Rectifying Display Driver Crashes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-ready-for-apple-watch-series-8-discover-its-forecasted-release-timeline-detailed-specifications-and-costs/"><u>Get Ready for Apple Watch Series 8 – Discover Its Forecasted Release Timeline, Detailed Specifications and Costs</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-disable-hyper-v-in-windows-11/"><u>Guide to Disable Hyper-V in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-repair-auto-detection-failure-in-windows-proxies/"><u>How to Repair Auto-Detection Failure in Windows Proxies</u></a></li>
+<li><a href="https://windows11.techidaily.com/improve-efficiency-with-top-5-clock-screensaver-apps/"><u>Improve Efficiency with Top 5 Clock Screensaver Apps</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-interactive-television-take-pot-perspectives/"><u>In 2024, INTERACTIVE TELEVISION TAKE Pot Perspectives</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-auto-shutdown-for-idle-windows-1011-machines/"><u>Mastering Auto-Shutdown for Idle Windows 10/11 Machines</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-update-error-0x800736cc-fix-guide/"><u>Overcoming Windows Update Error: 0X800736CC Fix Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/tactics-to-overcome-disappearing-ubisoft-game-launcher/"><u>Tactics to Overcome Disappearing Ubisoft Game Launcher</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-expertise-in-expunging-stickers-from-videos/"><u>The Ultimate Expertise in Expunging Stickers From Videos</u></a></li>
+</ul></div>
 

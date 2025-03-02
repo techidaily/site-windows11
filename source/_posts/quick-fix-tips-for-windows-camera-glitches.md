@@ -1,7 +1,7 @@
 ---
 title: Quick-Fix Tips for Windows Camera Glitches
-date: 2024-08-15T15:33:22.277Z
-updated: 2024-08-16T15:33:22.277Z
+date: 2025-02-28T06:06:46.165Z
+updated: 2025-03-02T00:25:11.421Z
 tags:
   - windows10
   - windows11
@@ -42,15 +42,8 @@ thumbnail: https://thmb.techidaily.com/0b50962ffa3e17ae709bef162c3f8ff4d960cae11
 
 1. Open the Camera app and click on the **Privacy settings** button. If this button is not on your screen, search **Camera privacy settings** on Windows search and click on the first best match.  
 ![Camera App Permission Error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/camera-app-permission-error.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 2. Toggle on or enable the **Camera access** and then, **Camera options** to resolve the permission issue.  
 ![Windows Camera Privacy Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/windows-camera-privacy-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 3. Once you grant the permission, re-open the Camera app.
 
  This should work for you if the Camera app is opening properly but asking for permission. Besides the Camera app, you can toggle permission on any other trusted apps you want to use your camera in.
@@ -73,9 +66,6 @@ thumbnail: https://thmb.techidaily.com/0b50962ffa3e17ae709bef162c3f8ff4d960cae11
 
  Sometimes after a reset, the app may find difficulty in connecting to your webcam and throw an error. To fix that issue, check [how to fix the “We Can’t Find Your Camera” error](https://www.makeuseof.com/cant-find-camera-error-windows-11/).
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Install or Update a Compatible Camera Driver
 
  As mentioned previously, some manufacturers provide setup utilities for their webcams. Once a buyer purchases the webcam, he/she can download the appropriate version of the setup utility. Once you install the required software, the drivers will install automatically.
@@ -98,9 +88,6 @@ thumbnail: https://thmb.techidaily.com/0b50962ffa3e17ae709bef162c3f8ff4d960cae11
 ![Camera Properties In Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/camera-properties-in-group-policy.jpg)
 5. Similarly, go to **App Privacy** under **Windows Components** and enable the **Let Windows apps access the camera** setting.  
 ![Group Policy Editor App Privacy Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/group-policy-editor-app-privacy-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Use the "Get Help" App for Troubleshooting
 
@@ -112,22 +99,12 @@ thumbnail: https://thmb.techidaily.com/0b50962ffa3e17ae709bef162c3f8ff4d960cae11
 
 1. Open the Get Help app first and search for **Troubleshoot camera issues** in the Window Search box.  
 ![Get Help App Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/get-help-app-overview.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 2. Once done, it will walk you through some automated steps to fix your camera problems. You need to click on any one option that you consider the best.  
 ![Get Help App Questions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/get-help-app-questions.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 3. After the last question, restart your computer.
 
  The best thing about Get Help is that it automatically performs the required troubleshooting measures. You need not do anything technical on your own. Besides the camera app issue, learn [what you can do with the Get Help app](https://www.makeuseof.com/troubleshooters-get-help-app-windows/).
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Repair or Reset the Windows Camera App
 
  If the camera app issues persist, another thing you can try is repairing (or resetting) the app using a Windows setting.
@@ -139,18 +116,12 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 ![Camera Advanced Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/camera-advanced-options.jpg)
 3. Scroll till the end and click the **Repair** option.  
 ![Repair Camera App Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/repair-camera-app-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Once you see the tick or check mark, click on **Reset** to reinstall a fresh copy of the app and wipe all previous data and settings.  
 ![Reset Camera App Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/reset-camera-app-option.jpg)
 5. After a reset, reopen the Camera app and check for the issue you were facing earlier.
 
  The Camera app is good for taking casual pictures and recording short videos. But, if you need more than just the basic features, try out any of the [best webcam apps for Windows](https://www.makeuseof.com/windows-best-webcam-apps/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Set Up Your Smartphone as a Camera
 
  If you've tried the previous methods and the camera still won't work, it may be a hardware issue with your webcam. Here, we suggest either getting the webcam repaired, buying a new webcam, or using a clever trick to use the camera feature.
@@ -159,9 +130,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  Once you set up your device with your computer, you should be able to use the Camera app for all the camera-related tasks. Though, as mentioned earlier, it's a temporary method so, you may surely require a [good quality webcam for your computer](https://www.makeuseof.com/best-webcams-for-remote-work/) in the future for the long run.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## All Your Windows Camera Troubles, Solved
 
  After following our guide, you should hopefully get the Camera app working again. Remember that the Camera app relies on a working webcam, so make sure to take care of your webcam properly. Also, consider upgrading your webcam if you face screen freezing issues with your current one.
@@ -170,8 +138,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  Don't worry; in this article, we'll walk through all the common fixes for camera app-related problems on Windows 10 and 11\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -179,5 +145,26 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-perfectly-pinned-prompts-top-android-and-iphones-instagram-covers-for-2024/"><u>[New] Perfectly Pinned Prompts Top Android & iPhones' Instagram Covers for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-avoiding-the-overflow-how-to-edit-your-pile-up-of-tiktok-drafts/"><u>[Updated] Avoiding the Overflow How to Edit Your Pile-Up of TikTok Drafts</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-leading-free-console-reproduction-devices/"><u>[Updated] Leading Free Console Reproduction Devices</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/charting-your-way-to-frequent-payments-from-youtube/"><u>Charting Your Way to Frequent Payments From YouTube</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/deciding-between-two-titans-a-detailed-review-of-google-nest-audio-and-apple-homepod/"><u>Deciding Between Two Titans: A Detailed Review of Google Nest Audio and Apple HomePod</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-conquering-unexplained-obs-recordings-glitches/"><u>Guide to Conquering Unexplained OBS Recordings Glitches</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-xiaomi-redmi-note-12r-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Xiaomi Redmi Note 12R Phone Screen?</u></a></li>
+<li><a href="https://windows11.techidaily.com/implementing-end-task-action-within-windows-11/"><u>Implementing End Task Action Within Windows 11</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-breaking-through-the-shadows-fixes-for-obss-black-gaming-capture/"><u>In 2024, Breaking Through the Shadows Fixes for OBS's Black Gaming Capture</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-apple-iphone-se-2022-fixed-drfone-by-drfone-virtual-ios/"><u>In 2024, iSpoofer is not working On Apple iPhone SE (2022)? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/moving-beyond-flashy-features-to-essentials/"><u>Moving Beyond Flashy Features to Essentials</u></a></li>
+<li><a href="https://windows11.techidaily.com/prioritize-security-on-windows-the-leading-7-free-pass-gen-apps/"><u>Prioritize Security on Windows: The Leading 7 Free Pass Gen Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/reboot-to-regain-default-navigator-setup-in-win11/"><u>Reboot to Regain Default Navigator Setup in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinstating-active-conditional-filters-in-windows-mail/"><u>Reinstating Active Conditional Filters in Windows Mail</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-the-exception-has-been-reached-on-windows-devices/"><u>Resolving “The Exception Has Been Reached” On Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-to-combat-vanished-steam-graphics/"><u>Solutions to Combat Vanished Steam Graphics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-win-1111-server-error-in-microsoft-store/"><u>Troubleshooting Win 11/11 Server Error in Microsoft Store</u></a></li>
+<li><a href="https://windows11.techidaily.com/whats-new-for-windows-11-excitement-from-moment-update-22h2/"><u>What's New for Windows 11? Excitement From Moment Update #22H2</u></a></li>
+<li><a href="https://windows11.techidaily.com/window-menus-hidden-potential-in-windows-1011/"><u>Window Menus' Hidden Potential in Windows 10/11</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Precision in Picture Editing: Eliminating Backgrounds Effectively"
-date: 2024-08-15T15:31:15.155Z
-updated: 2024-08-16T15:31:15.155Z
+date: 2025-02-25T18:57:49.000Z
+updated: 2025-03-01T17:49:13.433Z
 tags:
   - windows10
   - windows11
@@ -22,9 +22,6 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 * [How to Remove the Background of an Image Using Microsoft Paint](#how-to-remove-the-background-of-an-image-using-microsoft-paint)
 * [How to Remove the Background of an Image Using Paint 3D](#how-to-remove-the-background-of-an-image-using-paint-3d)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Microsoft Paint and Paint 3D on Windows 11 have a built-in feature to remove the background of an image with a single click.
@@ -35,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 
  In this article, we show you how to use Microsoft Paint or Paint 3D to remove a background from an image.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Update Microsoft Paint or Paint 3D App From the Microsoft Store
 
 ![Microsoft Paint app in Microsoft Store on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/microsoft-paint-in-microsoft-store-on-windows-11.jpg)
@@ -46,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 
  After the update is installed, launch any of the apps, and you'll see the **Remove background** or the **Magic select** option in the respective apps' toolbar. Using them is straightforward, as you can see below.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## How to Remove the Background of an Image Using Microsoft Paint
 
  The [background removal tool](https://www.makeuseof.com/tag/3-easy-ways-to-remove-backgrounds-from-images-without-specialized-software/) in the standard Paint app is powered by AI. You can import any images onto your Paint canvas and click the Remove background feature to clean up the background with a single click.
@@ -72,17 +63,11 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 
 1. Launch the **Paint 3D** app and import the image you want to edit.  
 ![Paint 3D App With the Magic Select Option Selected In Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/paint-3d-app-with-the-magic-select-option-selected-in-windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Click the **Magic select** option in the toolbar.  
 ![Paint 3D App With the Magic Select Cutout Selection In Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/paint-3d-app-with-the-magic-select-cutout-selection-in-windows-11.jpg)
 3. Adjust the focus area to fit around the area of the image you want to retain. Even if you want to keep a large part of the image, a slight adjustment is necessary for the app to determine the background.
 4. Click **Next**.  
 ![Paint 3D App Main Object Cutout Selection In Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/paint-3d-app-main-object-cutout-selection-in-windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Preview the cutout to see if the image isolation is accurate. If not, use the **Add** or **Remove** option in the top-right corner to refine your selection further.
 
 1. Click **Done**.  
@@ -91,16 +76,11 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 3. Using the selection tool, click and drag over the canvas and press **Delete** to remove the background.
 4. Now select the **Canvas** option in the toolbar.  
 ![Paint 3D App Showing a Deleted Bird Background Canvas In Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/paint-3d-app-showing-a-deleted-bird-background-canvas-in-windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. In the right pane, toggle the **Transparent canvas** option.
 6. Now drag the cutout back to the canvas and adjust it to fit the image.
 7. To save the image, press **Ctrl + S**, click **Image,** and then **Save**. Give a name to the file and select **Save**.
 
  The AI-powered Paint and Paint 3D app in Windows 11 may not produce perfect results. Especially if the image has a busy background. However, both do a nice job and produce consistent backgrounds. They also save you from the hassle of owning and using a more sophisticated image editing tool for quick edits.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -109,5 +89,26 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-flamenco-finch-frolic/"><u>[New] 2024 Approved Flamenco Finch Frolic</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/trategic-approaches-to-youtube-short-glitches-for-2024/"><u>[New] Strategic Approaches to YouTube Short Glitches for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-crossos-virtual-maestro-mixer/"><u>[Updated] 2024 Approved CrossOS Virtual Maestro Mixer</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-diving-deep-into-the-features-of-the-dell-p2715q-monitor/"><u>[Updated] 2024 Approved Diving Deep Into the Features of the Dell P2715Q Monitor</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-navigating-the-art-of-3d-text-rendering-in-ps-for-2024/"><u>[Updated] Navigating the Art of 3D Text Rendering in PS for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-tips-win-compatibility-troubleshooting-guide/"><u>Expert Tips: Win Compatibility Troubleshooting Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-activatedeactivate-vm-security-with-secure-boot-on-virtualbox-70/"><u>How to Activate/Deactivate VM Security with Secure Boot on VirtualBox 7.0</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-audiovisual-adaptability-in-free-fire/"><u>In 2024, Audiovisual Adaptability in Free Fire</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-bring-life-to-stills-motion-blur-technique/"><u>In 2024, Bring Life to Stills Motion Blur Technique</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y36i-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y36i To Phone | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-note-taking-on-win11-easy-as-pie/"><u>Master Note-Taking on Win11, Easy as Pie</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-grayscale-windows-backdrops-tips-for-enhancement/"><u>Overcoming Grayscale Windows Backdrops: Tips for Enhancement</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-usb-camera-anomalies-in-asus-w10-edition/"><u>Overcoming USB Camera Anomalies in ASUS, W10 Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixes-for-lsa-errors-on-windows-pcs/"><u>Quick Fixes for LSA Errors on Windows PCs</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/securing-your-digital-content-setting-passwords-for-flipbook-publications-via-flipbuilder/"><u>Securing Your Digital Content: Setting Passwords for FlipBook Publications via FlipBuilder</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-resolve-ax201-wi-fi-6-error-on-windows/"><u>Steps to Resolve AX201 Wi-Fi 6 Error on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/stop-windows-app-start-counter/"><u>Stop Windows App Start Counter</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-vivetool-enable-unseen-features-on-windows-pcs/"><u>Unraveling ViVeTool: Enable Unseen Features on Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/workaround-for-win10-and-11s-audacity-device-opening-issue/"><u>Workaround for Win10 & 11’S Audacity Device Opening Issue</u></a></li>
+</ul></div>
 

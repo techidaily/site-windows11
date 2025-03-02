@@ -1,7 +1,7 @@
 ---
 title: Bypass Windows 11 Lock Screen Swiftly
-date: 2024-08-15T15:38:04.405Z
-updated: 2024-08-16T15:38:04.405Z
+date: 2025-02-23T11:11:40.682Z
+updated: 2025-03-02T10:51:02.708Z
 tags:
   - windows10
   - windows11
@@ -45,9 +45,6 @@ Here's how to disable the lock screen using Group Policy:
 7. Now, click on the**Apply** button and click the**OK** button to finalize the changes.
 8. You need to restart your system. You will notice that there is no lock screen, and you enter the login screen straight away.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Use the Registry Editor
 
  You can also disable the lock screen on Windows by tweaking the registry settings. But make sure to export a copy of your registry for safety purposes. It will help you revert to the previous registry settings in case of corruption. Check our detailed guide on [how to perform a registry backup](https://www.makeuseof.com/windows-11-automatic-registry-backups/) for more info.
@@ -58,21 +55,12 @@ Here's how to remove the lock screen through the registry:
 2. Now, paste the following path in the text input area and then hit the enter key: **Computer\\HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows**
 3. Navigate to the left-hand panel and right-click on the**Windows** key. Then select**New > Key** and name it**Personalization** .  
 ![Creating a new key in Registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Registry-editor-lockscreen-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Right-click on Personalization and select**New > DWORD (32-bit) Value** . Name it as**NoLockScreen** .
 5. Double-click on the**NoLockScreen** value and set the**Value Data** to**1** . Keep the base hexadecimal.
 6. Click on**OK** to apply changes and**Restart** your system. You won't see the lock screen when your computer boots up.  
 ![Adding a DWORD value in Registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Registry-editor-lockscreen-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. To bring back the lock screen, revert the**NoLockScreen** key value to**0** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Use Winaero Tweaker
 
  You can try the Winaero Tweaker app if you find registry tweaking cumbersome. It is a free app that allows you to customize Windows beyond the basic options. The app offers a GUI interface with detailed information about what each option does.
@@ -81,17 +69,11 @@ Follow these steps to remove the lock screen with this tool:
 
 1. Go to the [Winaero website](http://winaero.com/download-winaero-tweaker/) and download the app.**Install** the app and launch it.  
 ![Winaero tweaker home window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Winaero-tweaker-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Now, go to the**Boot and Logon** option on the left-hand side menu.
 3. Find the**Disable Lock Screen** option under the**Boot and Logon** section. Click on the**Disable Lock Screen** checkbox.  
 ![Disable lock screen in Winaero Tweaker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Winaero-tweaker-2.jpg)
 4. Now,**Restart** your system to apply the changes. You will notice that the lock screen doesn't appear anymore.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## 4\. Use Ultimate Windows Tweaker
 
  Like Winaero Tweaker, Ultimate Windows Tweaker is a Windows customization app with a GUI interface. You can disable Windows 11 lock screen with this app with just one click. However, make sure to create a system restore point to avoid breaking an operating system feature.
@@ -118,8 +100,6 @@ Follow these steps to remove the lock screen with this tool:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,8 +107,24 @@ Follow these steps to remove the lock screen with this tool:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-exclusive-discoveries-prime-websites-and-methods-to-download-tamil-ringtone-files-for-2024/"><u>[New] Exclusive Discoveries Prime Websites & Methods to Download Tamil Ringtone Files for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-honor-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Honor</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-leading-markets-for-buying-ai-powered-prompts-online/"><u>Discover the Leading Markets for Buying AI-Powered Prompts Online</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-guide-ripping-audio-cds-successfully-with-your-windows-pc/"><u>Easy Guide: Ripping Audio CDs Successfully with Your Windows PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/end-of-windows-10-maintenance-in-year-exploring-alternative-os-choices/"><u>End of Windows 10 Maintenance in [Year]: Exploring Alternative OS Choices</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhanced-sound-mastery-with-microsofts-updated-clipchamp-software/"><u>Enhanced Sound Mastery with Microsoft's Updated Clipchamp Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/evaluating-the-portable-razer-usb-c-hub-essential-insights-for-mobile-gaming-enthusiasts/"><u>Evaluating the Portable Razer USB-C Hub: Essential Insights for Mobile Gaming Enthusiasts</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-exceptional-no-cost-creativity-suites-as-the-optimal-substitutes-for-adobe-in-future-artistic-ventures/"><u>Exploring Exceptional No-Cost Creativity Suites as the Optimal Substitutes for Adobe in Future Artistic Ventures</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-thunderbolt-driver-installation-pack-for-windows-users/"><u>Free Thunderbolt Driver Installation Pack for Windows Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-svchostexe-consuming-too-much-cpu-power-in-windows-10-solution-guide/"><u>How to Fix svchost.exe Consuming Too Much CPU Power in Windows 10 - Solution Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/key-indicators-that-show-your-laptop-needs-replacement-now/"><u>Key Indicators That Show Your Laptop Needs Replacement Now</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/pranks-and-puns-playbook-7-clever-gags-for-video-virtuosos/"><u>Pranks & Puns Playbook 7 Clever Gags for Video Virtuosos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/top-ranked-mac-gif-converter-for-2024/"><u>Top-Ranked Mac GIF Converter for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/vcruntime140dll-file-absent-heres-how-to-fix-it-and-start-your-program-in-windows-10/"><u>VCRUNTIME140.dll File Absent? Here's How to Fix It and Start Your Program in Windows 10</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-itel-a70-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Itel A70? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/why-microsofts-copilotplus-and-its-advanced-upscaling-technology-make-it-essential-gear-for-serious-gamers/"><u>Why Microsoft's CoPilot+ and Its Advanced Upscaling Technology Make It Essential Gear for Serious Gamers</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-upgrades-simplified-step-by-step-instructions-for-keeping-your-software-current/"><u>Windows 11 Upgrades Simplified: Step-by-Step Instructions for Keeping Your Software Current</u></a></li>
+</ul></div>
 

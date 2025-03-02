@@ -1,7 +1,7 @@
 ---
 title: How to Fix the “Something Went Wrong” Office Error on Windows
-date: 2024-08-15T15:37:14.624Z
-updated: 2024-08-16T15:37:14.624Z
+date: 2025-02-24T08:49:09.500Z
+updated: 2025-03-02T10:36:05.987Z
 tags:
   - windows10
   - windows11
@@ -40,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/0464d20c8383250ad5eec7dae311ce3366a21c1ce
 
  If the error persists even after a system reboot, move on to the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Run the Office Repair Tool
 
  Running the Office Repair tool is an effective way to fix all kinds of issues with Office apps, including the one discussed here. Here's how you can run the tool on your PC.
@@ -55,15 +52,9 @@ thumbnail: https://thmb.techidaily.com/0464d20c8383250ad5eec7dae311ce3366a21c1ce
 6. Select **Yes** when the [User Account Control (UAC) prompt](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) appears.
 7. Select the **Quick Repair** option and hit the **Repair** button.  
 ![Repair Microsoft Office](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/repair-microsoft-office.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Wait for the process to complete and check if you can open your Office apps. If you still get the “Something went wrong” error, Microsoft recommends you perform an Online Repair. To do so, repeat the above steps and select the **Online Repair** option. This process may take longer to complete, but it’s most likely to fix the underlying issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## 4\. Uninstall and Reinstall Microsoft Office
 
  If running the Office repair tool proves ineffective, it's possible that some of the Office app files on your PC are corrupted. To fix this, you can try uninstalling Microsoft Office completely from your PC and installing it again. Here are the steps for the same.
@@ -74,9 +65,6 @@ thumbnail: https://thmb.techidaily.com/0464d20c8383250ad5eec7dae311ce3366a21c1ce
 4. Click the **Uninstall** option at the top.
 5. Click **Uninstall** again to confirm, and then follow the on-screen prompts to finish removing the Office suite from your PC.  
 ![Uninstall Office From PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/uninstall-office-from-pc.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 
  Once removed, use these steps to download and install Office apps on your PC:
 
@@ -87,21 +75,12 @@ thumbnail: https://thmb.techidaily.com/0464d20c8383250ad5eec7dae311ce3366a21c1ce
 5. Click the **Install** button to download the Office setup file.
 6. Double-click the downloaded EXE file and follow the on-screen instructions to finish installing Microsoft Office on your PC.  
 ![Download Office Setup File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/download-office-setup-file.jpg)
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Start Using Office Apps Again
 
  Such interruptions while accessing your Office apps can affect your productivity and leave you frustrated. Hopefully, one of the above tips has helped you fix the “Something went wrong” error on Windows and you are able to open your Office apps as usual.
 
  Don’t worry, there’s no need to switch to the online versions of Office apps just yet. Below, we have listed some useful tips that should get the Office apps up and running on your Windows PC.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -110,5 +89,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-optimizing-film-length-for-instagram-on-mac-for-2024/"><u>[New] Optimizing Film Length for Instagram on Mac for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-smooth-sound-dissipation-a-pro-editors-manual/"><u>[Updated] 2024 Approved Smooth Sound Dissipation A Pro Editor's Manual</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-winning-windows-animation-the-best-9-apps-to-record-dynamic-graphics/"><u>[Updated] In 2024, Winning Windows Animation The Best 9 Apps to Record Dynamic Graphics</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-silent-sounds-windows-audio-glitches/"><u>Fixing Silent Sounds: Windows Audio Glitches</u></a></li>
+<li><a href="https://extra-information.techidaily.com/fundamentals-of-e-narrative-creation/"><u>Fundamentals of E-Narrative Creation</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-batch-heic-image-change-to-jpeg-in-windows-11/"><u>Guide to Batch HEIC Image Change to JPEG in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-this-non-genuine-adobe-app-will-be-disabled-soon-pop-up-on-windows/"><u>How to Fix the “This Non-Genuine Adobe App Will Be Disabled Soon” Pop-Up on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-stop-your-pcs-display-from-randomly-twinkling-on-windows-10/"><u>How to Stop Your PC's Display From Randomly Twinkling on Windows 10</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-the-apple-iphone-12-pro-sim-lock-4-easy-methods-by-drfone-ios/"><u>How To Unlock The Apple iPhone 12 Pro SIM Lock 4 Easy Methods</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/integrated-guide-for-mobile-and-pc-session-records/"><u>Integrated Guide for Mobile & PC Session Records</u></a></li>
+<li><a href="https://windows11.techidaily.com/is-the-windows-aggregatehostexe-system-process-safe-an-analysis/"><u>Is the Windows AggregateHost.exe System Process Safe? An Analysis</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-blue-screen-chaos-a-systematic-approach/"><u>Navigating Blue Screen Chaos: A Systematic Approach</u></a></li>
+<li><a href="https://fox-place.techidaily.com/reinstallation-tips-for-a-fresh-start-after-hardware-modifications-in-windows-operating-systems-solutions-from-yl-software-experts/"><u>Reinstallation Tips for a Fresh Start After Hardware Modifications in Windows Operating Systems | Solutions From YL Software Experts</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinstating-functionality-to-window-bar-taskbar/"><u>Reinstating Functionality to Window Bar (Taskbar)</u></a></li>
+<li><a href="https://win-community.techidaily.com/step-by-step-guide-retrieving-data-with-sonys-rsv-file-recovery-tool/"><u>Step-by-Step Guide: Retrieving Data with Sony's RSV File Recovery Tool</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-to-elevate-task-prominence-and-reduce-window-chaos-on-win-11/"><u>Tips to Elevate Task Prominence and Reduce Window Chaos on Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-microsofts-error-code-0x8007251d-on-windows/"><u>Troubleshooting Microsoft's Error Code 0X8007251d on Windows</u></a></li>
+</ul></div>
 

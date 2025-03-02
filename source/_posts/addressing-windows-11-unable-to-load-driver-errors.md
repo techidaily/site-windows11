@@ -1,7 +1,7 @@
 ---
 title: "Addressing Windows 11: Unable to Load Driver Errors"
-date: 2024-08-15T15:31:45.167Z
-updated: 2024-08-16T15:31:45.167Z
+date: 2025-02-28T16:48:33.455Z
+updated: 2025-03-01T21:33:49.763Z
 tags:
   - windows10
   - windows11
@@ -47,9 +47,6 @@ thumbnail: https://thmb.techidaily.com/63dab56e4ce75698d2495662d618f28dc10e8ea57
 5. Navigate to the Core Isolation section. Click on the **Core isolation details** option.
 6. Disable the **toggle** present below the **Memory Integrity** option.  
 ![Disable Memory Integrity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/disable-memory-integrity.jpg)
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 7. **Restart** your PC to apply the changes.
 
  Now, check if the “a driver cannot load on this device” still pops up.
@@ -60,9 +57,6 @@ thumbnail: https://thmb.techidaily.com/63dab56e4ce75698d2495662d618f28dc10e8ea57
 
  Check our guide on [ways to manually uninstall Windows updates](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) for more information. But remember that it is not possible to remove all installed updates.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## 4\. Modify the System Registry
 
  Corrupt registry entries for the device can also be a reason for the hardware device encountering the driver issue. So, you must modify the system registry and remove those corrupt entries for the device.
@@ -83,16 +77,9 @@ thumbnail: https://thmb.techidaily.com/63dab56e4ce75698d2495662d618f28dc10e8ea57
 8. Go to the right-hand side pane of the found GUID key. Find the **UpperFilters** value.
 9. Right-click on it and select the **Delete** option.  
 ![Modify the System Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/modify-the-system-registry.jpg)
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 10. Similarly, find the **LowerFilters** value and then delete it as well. Some devices may not have this value.
 11. **Restart** your PC for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## 5\. Reinstall or Remove the Concerned Application
 
  Some users face an eny.sys driver issue which controls RGB lighting on PCs. This is a problem for many MSI and ASUS PC users. It is not a system utility and if it encounters an error every time, you must reinstall the concerned RGB-lighting-controlled application.
@@ -107,25 +94,17 @@ thumbnail: https://thmb.techidaily.com/63dab56e4ce75698d2495662d618f28dc10e8ea57
 
  After removing the app, restart your PC and check if the error pops up now. Now, visit the app manufacturer's website and download the recent version of the RGB-control app. Install it and check if it causes the driver error. If that is the case, then you must remove the application.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Use System Restore
 
  System Restore is an excellent utility baked into Windows that helps you fix issues in one go. It will roll back your PC to an earlier state when there were no abrupt issues with your PC.
 
  Check our guide on [how to use System Restore on Windows](https://www.makeuseof.com/use-system-restore-windows/) and revert to an earlier PC state without losing your personal files. However, all the installed apps and updates after the restore point will be removed, if you adopt this route.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## Your Driver Issues on Windows 11, Fixed
 
  These are the best methods you can use to fix the "A driver can't load on this device" error on your Windows 11 PC. Update all the device drivers, install optional updates, and disable memory integrity. After that, modify the system registry and remove the meddlesome RGB application to get rid of this problem.
 
  In this guide, we will discuss some methods to resolve this issue and restore your PC drivers to a normal working state.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -134,5 +113,19 @@ thumbnail: https://thmb.techidaily.com/63dab56e4ce75698d2495662d618f28dc10e8ea57
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-perfecting-your-live-stream-our-picks-from-the-top-6-microphones-for-2024/"><u>[Updated] Perfecting Your Live Stream Our Picks From the Top 6 Microphones for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/compare-the-best-sub-100-video-doorbells-insights-into-remobell-model-s/"><u>Compare the Best Sub-$100 Video Doorbells: Insights Into RemoBell Model S</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquering-cities-skylines-crashing-problems-with-proven-solutions/"><u>Conquering Cities: Skylines Crashing Problems with Proven Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/delving-into-ais-weak-spot-the-art-of-prompt-injection/"><u>Delving Into AI's Weak Spot: The Art of Prompt Injection</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/emojis-guiding-fiscal-decisions-exploring-activisions-data-breach-consequences-and-job-security-in-an-era-dominated-by-ai-innovations-like-chatgpt/"><u>Emojis Guiding Fiscal Decisions? Exploring Activision's Data Breach Consequences and Job Security in an Era Dominated by AI Innovations Like ChatGPT</u></a></li>
+<li><a href="https://extra-information.techidaily.com/excellent-6-apps-for-video-interpretation/"><u>Excellent 6 Apps for Video Interpretation</u></a></li>
+<li><a href="https://windows11.techidaily.com/immediate-fixes-for-the-add-your-folder-now-issue-on-windows-onedrive-drive/"><u>Immediate Fixes for the 'Add Your Folder Now' Issue on Windows OneDrive Drive</u></a></li>
+<li><a href="https://windows11.techidaily.com/implementing-python-on-windows-for-optimized-file-transfer/"><u>Implementing PYTHON on Windows for Optimized File Transfer</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixes-for-disrupted-voice-command-functionality-on-win11/"><u>Quick Fixes for Disrupted Voice Command Functionality on Win11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-itel-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Itel has been deleted</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-no-network-signal-on-pc/"><u>Tackling No Network Signal on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-stereo-sound-issues-how-to-restore-your-audio-channel/"><u>Troubleshooting Stereo Sound Issues: How to Restore Your Audio Channel</u></a></li>
+</ul></div>
 

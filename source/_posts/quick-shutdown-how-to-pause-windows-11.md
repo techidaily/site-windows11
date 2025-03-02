@@ -1,7 +1,7 @@
 ---
 title: "Quick Shutdown: How to Pause Windows 11"
-date: 2024-08-15T15:30:06.538Z
-updated: 2024-08-16T15:30:06.538Z
+date: 2025-02-26T04:50:01.768Z
+updated: 2025-03-02T03:23:17.717Z
 tags:
   - windows10
   - windows11
@@ -39,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/5f1dd72a960c69600ce9688063aeb5e7a932b178d
 ## 2\. How to Shut Down Windows 11 With Your PC's Power Button
 
 ![windows power button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/windows-power-button.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  You can also quickly shut down your PC by hitting the power button. No need to hold it down, as doing that will trigger a forced shutdown; a single press should do.
 
@@ -66,9 +63,6 @@ thumbnail: https://thmb.techidaily.com/5f1dd72a960c69600ce9688063aeb5e7a932b178d
  The Power Menu, also called the power user menu, is the central hub for all important features of Windows computers. To shut down your Windows 11 from Power Menu, **right-click** on the Start menu, select the **Shut down or sign out** option, and then click **Shutdown**.
 
 ![windows shutdown from power menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/windows-shutdown-from-power-menu.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  As soon as you select shut down, your Windows 11 will turn off.
 
@@ -79,9 +73,6 @@ thumbnail: https://thmb.techidaily.com/5f1dd72a960c69600ce9688063aeb5e7a932b178d
  To get started, go to the **Start menu** search bar, type in "cmd," and select the best match. On the command line, type **shutdown /s** and hit **Enter**. A dialog box will appear on your cmd screen with the following message: “You're about to be signed out.”
 
 ![windows shutdown through command line](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/windows-shutdown-through-command-line.jpg)
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 
  Your Windows 11 will shut down a few seconds after this.
 
@@ -101,15 +92,7 @@ thumbnail: https://thmb.techidaily.com/5f1dd72a960c69600ce9688063aeb5e7a932b178d
 2. In PowerShell, type the command "Stop-Computer" and hit **Enter**.
 
 ![powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/powershell.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ## 8\. Use the Run Dialog Box
 
  Another alternate way to shut down your Windows 11 is through the Run dialog box. Follow the below steps:
@@ -126,16 +109,11 @@ shutdown /s /f /t 0
 
  Apart from the obvious privacy benefits, you can also shut down your PC through the Lock Screen itself. To do that, click on the **Power** icon from the bottom-right corner and select **Shutdown**. That's it—your Windows 11 will turn off instantly after this.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ## There Are Many Ways to Shut Down Windows 11
 
  As shown above, there's more than one way to shut down your PC. Whether you prefer a keyboard shortcut or the command line method, your Windows will be turned off smoothly if you follow any of the methods from above.
 
  So let’s go over all the ways to shut down Windows 11, from the familiar to the new.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -144,5 +122,23 @@ shutdown /s /f /t 0
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-step-forward-leveraging-live-talks-in-the-instagram-world/"><u>[Updated] 2024 Approved Step Forward Leveraging Live Talks in the Instagram World</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-kinemaster-essentials-a-guide-to-flawless-movements/"><u>[Updated] Kinemaster Essentials A Guide to Flawless Movements</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-guide-on-samsung-galaxy-fit-perfect-gadget-for-the-health-conscious/"><u>Comprehensive Guide on Samsung Galaxy Fit - Perfect Gadget for the Health-Conscious</u></a></li>
+<li><a href="https://windows11.techidaily.com/drive-letter-dilemma-in-windows-understanding-the-issues-fixes-presented/"><u>Drive Letter Dilemma in Windows - Understanding The Issues, Fixes Presented</u></a></li>
+<li><a href="https://windows11.techidaily.com/effective-methods-to-cut-edges-background-activity/"><u>Effective Methods to Cut Edge's Background Activity</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-gaming-experience-fixing-valorant-lags/"><u>Elevating Gaming Experience: Fixing Valorant Lags</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-microsoft-shop-errors-0x80131500/"><u>Eliminating Microsoft Shop Errors #0X80131500</u></a></li>
+<li><a href="https://windows11.techidaily.com/enablingdisabling-windows-software-configuration-service/"><u>Enabling/Disabling Windows Software Configuration Service</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-performance-with-virtual-memory-on-windows-11/"><u>Enhancing Performance with Virtual Memory on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/epic-launcher-insights-best-practices-for-saving-your-playtime/"><u>Epic Launcher Insights: Best Practices for Saving Your Playtime</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/improve-your-iphones-audio-for-phone-conversations-with-these-tips/"><u>Improve Your iPhone's Audio for Phone Conversations with These Tips</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Tecno Spark 20C? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/oneplus-9-review-the-math-still-comes-up-short/"><u>OnePlus 9 Review: The Math Still Comes Up Short</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-disappearing-playback-problem-on-sony-a6400-for-2024/"><u>The Disappearing Playback Problem on Sony A6400 for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-elegant-functionality-of-samsung-galaxy-watch5-unveiled-traditional-charm-combined-with-latest-advancements-overview/"><u>The Elegant Functionality of Samsung Galaxy Watch5 Unveiled: Traditional Charm Combined with Latest Advancements Overview</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Nokia G22 | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Expert's Technique for Age Estimation
-date: 2025-02-05T06:14:51.660Z
-updated: 2025-02-11T01:01:11.498Z
+date: 2025-02-26T16:26:01.308Z
+updated: 2025-03-02T09:21:23.210Z
 tags:
   - windows10
   - windows11
@@ -48,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/83810aeb2f4e9067a8450e307f943cc7eb4a02a55
 
 ![command prompt serial number laptop 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/command-prompt-serial-number-laptop-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If the serial number is not visible or the sticker is removed, you can use Windows Management Instrumentation command-line utility to recover your computer's serial number.
 
  To view the Windows laptop's serial number using Command Prompt:
@@ -65,10 +61,6 @@ wmic bios get serial number
 ## 3\. Check the BIOS Version Using the System Information Utility
 
 ![system information bios version details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-information-bios-version-details.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you need to know the manufacturing date, check the BIOS version. You can [use the System Information utility on Windows to check the BOS version](https://www.makeuseof.com/windows-11-check-system-information/), including the date it was installed.
 
@@ -87,10 +79,6 @@ systeminfo.exe
  The above command will execute the system information command-line version and show all the essential details of your computer. Locate the BIOS Version entry and check the date.
 
  Important to note that if your system has received a BIOS update, the date will reflect the latest update date and not the manufacturer date.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Check the Windows Installation Method Using the Command Prompt
 
@@ -112,10 +100,6 @@ systeminfo | find /I "install date"
 
  Open Task Manager on Windows and click the Performance tab. Next, select the CPU tab to view the CPU make in the top right corner. A quick search on the web for the model number should reveal the year of making and hardware compatibility.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Use the OEM Tool to Detect the Laptop's Age
 
 ![Hp support assistant battery health](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hp-support-assistant-battery-health.jpg)
@@ -123,10 +107,6 @@ systeminfo | find /I "install date"
  Laptop manufacturers like HP, Dell, Lenovo, and Asus offer free applications to maintain your devices. For example, HP's Support Assistant lets you access your product information, including model name, product ID, serial number, and Warranty Status.
 
  Battery status is another critical bit of information that you may find useful. It displays the battery's health and age to help you gauge how old your system is. Especially when you want to buy a second-hand laptop, knowing battery health can help you bargain the right price.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Tell Your Desktop Computer Age
 
@@ -155,22 +135,16 @@ systeminfo | find /I "install date"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-geniusedit-ai-precision-in-photo-mastery/"><u>[New] GeniusEdit AI Precision in Photo Mastery</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-masterclass-top-10-recorder-options-on-spotify/"><u>[Updated] 2024 Approved Masterclass Top 10 Recorder Options on Spotify</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-shape-your-story-5-proven-techniques-for-cutting-and-condensing-vimeo-videos-online-for-2024/"><u>[Updated] Shape Your Story 5 Proven Techniques for Cutting & Condensing Vimeo Videos Online for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unlock-youtube-monetization-with-500-subscribers/"><u>[Updated] Unlock YouTube Monetization with 500 Subscribers</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Vivo V30 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-shortcut-to-starting-wordpad-on-your-pc/"><u>A Shortcut to Starting WordPad on Your PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/activating-edge-guards-camera-and-mic-use/"><u>Activating Edge Guards: Camera & Mic Use</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-0x80070194-fixes-for-windows-onedrive/"><u>Bypassing 0X80070194: Fixes for Windows OneDrive</u></a></li>
-<li><a href="https://windows11.techidaily.com/clearing-up-a-driverirqlnotlessorequal-in-windows/"><u>Clearing Up A DRIVER_IRQL_NOT_LESS_OR_EQUAL in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/compreran-gaming-hurdles-enhance-gamesplay-on-windows/"><u>Compreran Gaming Hurdles: Enhance Gamesplay on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-permissions-shortfall-on-windows-1011-during-setup/"><u>Correcting Permissions Shortfall on Windows 10/11 During Setup</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-xbox-mic-connectivity-issues-in-windows-11-devices/"><u>Correcting Xbox Mic Connectivity Issues in Windows 11 Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/creative-windows-users-heres-the-best-drawing-list/"><u>Creative Windows Users, Here’s the Best Drawing List</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/evaluation-of-the-iphone-14-meeting-adequate-performance-standards-insights-from-zdnet/"><u>Evaluation of the iPhone 14: Meeting Adequate Performance Standards - Insights From ZDNet</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-no-more-glue-techniques-to-free-tiktok-video-from-stickers/"><u>In 2024, No More Glue Techniques to Free TikTok Video From Stickers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-solutions-for-restoring-lenovos-function-keys-performance/"><u>Quick Solutions for Restoring Lenovo's Function Keys Performance</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/writers-who-defined-genres-through-exceptional-works/"><u>Writers Who Defined Genres Through Exceptional Works</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-youtubes-best-practices-amplifying-video-and-audio-clarity/"><u>[New] 2024 Approved YouTube's Best Practices Amplifying Video and Audio Clarity</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/1-ultimate-guide-shrinking-your-mp4-videos-without-losing-quality-using-top-free-tools/"><u>1. Ultimate Guide: Shrinking Your MP4 Videos Without Losing Quality Using Top Free Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/future-proofing-privacy-with-apples-pq3-technology-against-upcoming-quantum-threats/"><u>Future-Proofing Privacy with Apple's PQ3 Technology Against Upcoming Quantum Threats</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-oppo-reno-8t-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Oppo Reno 8T FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-top-10-best-4k-gaming-laptops/"><u>In 2024, TOP 10 Best 4K Gaming Laptops</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-obstacles-in-installation-for-windo-users/"><u>Overcoming Obstacles in Installation for Windo Users</u></a></li>
+<li><a href="https://extra-support.techidaily.com/precision-gameplay-with-proximity-focus-in-roblox-for-2024/"><u>Precision Gameplay with Proximity Focus in Roblox for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-threat-within-detecting-and-disabling-wacatacbml-trojan-on-pcs/"><u>The Threat Within: Detecting and Disabling Wacatac.B!ml Trojan on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/thriving-on-windows-11-essential-methods/"><u>Thriving on Windows 11: Essential Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/uniting-android-tabs-with-windows-11-for-enhanced-workflow/"><u>Uniting Android Tabs with Windows 11 for Enhanced Workflow</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-potential-of-ai-in-microsoft-store/"><u>Unlocking the Potential of AI in Microsoft Store</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Explore Worldwide - Efficient Mouse Skills via PowerToys
-date: 2024-08-15T15:34:00.084Z
-updated: 2024-08-16T15:34:00.084Z
+date: 2025-02-27T03:43:22.833Z
+updated: 2025-03-02T09:22:24.857Z
 tags:
   - windows10
   - windows11
@@ -35,19 +35,12 @@ thumbnail: https://thmb.techidaily.com/2cb259c465a86a9d87c2ab8ed232a243225880491
 3. Locate the **Enable Mouse Without Border** option and click on the **toggle** to enable the feature on your PC.
 4. Next, scroll down to the **Encryption key** section. Click on the **New key** button next to the security key option. It will generate a random key using which you can configure your second computer to use the mouse.  
 ![Enable Mouse Without Borders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-mouse-without-borders.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 5. Now go to the second computer and launch PowerToys. **Enable** the **Mouse Without Borders** feature on it as well.
 6. Then scroll down to the **Security key** option and click on the **arrow** icon
 7. Type the main **computer’s name** and enter the **key** which you generated previously. Click on the **Connect** button.  
 ![Enable Mouse Without Borders on second PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-mouse-without-borders-on-second-pc.jpg)
 8. Now, you can use one mouse on both computers.  
 ![Mouse Without Borders in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/mouse-without-borders-in-action.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Mouse Without Borders also permits the two computers to share their clipboard. If you copy a file that is less than 100 MB in size, it will also be copied to the clipboard.
 
@@ -56,14 +49,7 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  The “Peek” feature enables you to preview files without opening them within an app. You can preview the contents of the file, especially when it is a batch or registry file, and examine the code. There is also a specific utility to [edit and view registry files in PowerToys](https://www.makeuseof.com/registry-preview-feature-powertoys/). Apart from that, it can also preview images, PDFs, text files, and video files. Moreover, you get the option to them open the file with a compatible application.
 
 ![Peek Feature in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/peek-feature-in-powertoys.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## How to Enable and Use the "Peek" Feature
 
  Repeat the following steps to activate the "Peek" feature:
@@ -74,15 +60,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 3. Now, you need to configure the shortcut key to activate the “Peek” feature. Click on the **edit** icon next to the **Activation shortcut** option.
 4. Press the **Ctrl + Shift + Space** keys at once to set the new key combination. Click on the **Save** button.  
 ![Assign Shortcut key to PowerToys Peek](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/assign-shortcut-key-to-powertoys-peek.jpg)
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Press **Win + E** to open the File Explorer. **Click** on any file to select it. Then press the “Peek” shortcut key combination.
 6. A Peek preview window will launch and display the contents of your file.  
 ![Peek Feature in PowerToys 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/peek-feature-in-powertoys-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Click on the **Open with** button to open the file in their respective application.
 
 ## Easily Share Mouse and Preview Files With PowerToys
@@ -93,8 +73,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  The new preview update introduces "Mouse Without Borders" and "Peek" utilities. We will elaborate on what these utilities do, and how you can enable and use them on your Windows PC. Let’s begin.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -102,5 +80,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-the-ultimate-mac-screenshot-strategy-revealed/"><u>[Updated] 2024 Approved The Ultimate Mac Screenshot Strategy Revealed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-strategic-guide-gain-traction-with-podcast-seo-techniques/"><u>[Updated] Strategic Guide Gain Traction with Podcast SEO Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/advice-alley-17-recommended-tools-for-effective-image-cleaning-for-2024/"><u>Advice Alley 17 Recommended Tools for Effective Image Cleaning for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/building-your-hyperlapse-filmmaking-toolkit/"><u>Building Your Hyperlapse Filmmaking Toolkit</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-a-step-by-step-guide-to-enhancing-your-youtube-content-post-uploading/"><u>In 2024, A Step-by-Step Guide to Enhancing Your YouTube Content Post-Uploading</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-oneplus-12r-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on OnePlus 12R FRP Bypass</u></a></li>
+<li><a href="https://common-error.techidaily.com/managing-windows-settings-through-company-policy-problem-resolved/"><u>Managing Windows Settings Through Company Policy - Problem Resolved</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-windows-11-invalid-computer-identifier/"><u>Resolving Windows 11: Invalid Computer Identifier</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-black-screen-phenomenon-post-boot/"><u>Tackling Black Screen Phenomenon Post-Boot</u></a></li>
+<li><a href="https://windows11.techidaily.com/tactics-to-reinforce-stability-and-persistence-of-nvidia-cp-saves/"><u>Tactics to Reinforce Stability and Persistence of Nvidia CP Saves</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-to-rectify-the-windows-activation-problem-0x803f700f/"><u>Techniques to Rectify the Windows Activation Problem: 0X803F700f</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-unseen-struggles-of-chatgpt-in-professional-writing-contexts/"><u>The Unseen Struggles of ChatGPT in Professional Writing Contexts</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-pc-failure-at-windows-11-upgrade/"><u>Troubleshooting PC Failure at Windows 11 Upgrade</u></a></li>
+</ul></div>
 

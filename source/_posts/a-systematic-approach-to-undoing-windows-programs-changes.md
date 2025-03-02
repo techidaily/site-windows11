@@ -1,7 +1,7 @@
 ---
 title: A Systematic Approach to Undoing Windows Programs Changes
-date: 2024-08-15T15:37:59.519Z
-updated: 2024-08-16T15:37:59.519Z
+date: 2025-02-24T02:06:26.610Z
+updated: 2025-03-02T07:21:49.347Z
 tags:
   - windows10
   - windows11
@@ -38,44 +38,29 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 
  Confirm you want to reset the app by clicking**Reset** again in the pop-up.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Reset an App on Windows 10
 
  If you’re using Windows 10, you can reset an app by first opening the Settings app using the**Win + I** shortcut, or using one of the many [ways to open Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) for more. From there, navigate to**Apps > Apps & features** .
 
 ![the apps and features screen in the windows 10 settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/apps-features-windows-10.jpg)
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Find the app you want to reset from the list of installed apps and click on it. Then, click the**Advanced options** link that appears below the name of the app.
 
 ![the alarm clock advanced options in the windows 10 settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/alarm-clock-windows-10-advanced-options.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 
  You will find the button to reset the app in the**Reset** section of its advanced settings, and you should click it. Finally, confirm that this is what you want to do by clicking**Reset** in the pop-up as well.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ## Windows Apps Just Need a Reset Sometimes
 
  If you don’t want the hassle of manually reinstalling an app, you can let Windows do it for you in the Settings app. Since this will be like installing a fresh copy of the app, be sure to reset it only when you’ve tried other ways to save the program.
 
  If you can’t reset an app in Settings, then you have to manually reinstall it.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -84,8 +69,19 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-effortless-techniques-for-stunning-time-lapse-photography-using-samsungs/"><u>[New] Effortless Techniques for Stunning Time Lapse Photography Using Samsungs</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-decoding-the-layout-of-instagram-stories-feature-for-2024/"><u>[Updated] Decoding the Layout of Instagram Stories Feature for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-dividedlens-testimonial/"><u>[Updated] DividedLens Testimonial</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/aurora-vs-traditional-hdr-the-battle-for-best-quality/"><u>Aurora vs Traditional HDR The Battle for Best Quality</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/choosing-loyalty-over-upgrades-my-experience-with-the-apple-watch-series-7/"><u>Choosing Loyalty Over Upgrades: My Experience With The Apple Watch Series 7.</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/high-quality-emma-stone-wallpaper-collection-ultimate-backgrounds-and-hd-image-gallery-by-yl-software/"><u>High-Quality Emma Stone Wallpaper Collection - Ultimate Backgrounds and HD Image Gallery by YL Software</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Infinix Smart 8? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/local-backup-mastery-unveiling-the-charm-and-reliability-of-in-house-data-replicas/"><u>Local Backup Mastery: Unveiling the Charm and Reliability of In-House Data Replicas</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-the-control-a-step-by-step-tutorial-for-blocking-microsoft-marketing-features-in-windows-11/"><u>Master the Control: A Step-by-Step Tutorial for Blocking Microsoft Marketing Features in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/microsoft-disk-operating-system-version-40-1988-available-for-free/"><u>Microsoft Disk Operating System, Version 4.0 (1988) Available for Free</u></a></li>
+<li><a href="https://windows11.techidaily.com/microsoft-launches-advanced-ai-driven-search-tool-comprehensive-guide-and-recall-details/"><u>Microsoft Launches Advanced AI-Driven Search Tool: Comprehensive Guide and Recall Details</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premier-pdf-enhancements-for-2024/"><u>Premier PDF Enhancements for 2024</u></a></li>
+</ul></div>
 

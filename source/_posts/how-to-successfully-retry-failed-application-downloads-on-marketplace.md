@@ -1,7 +1,7 @@
 ---
 title: How To Successfully Retry Failed Application Downloads on Marketplace
-date: 2025-02-03T21:24:12.075Z
-updated: 2025-02-11T06:08:08.594Z
+date: 2025-02-24T23:06:03.856Z
+updated: 2025-03-02T13:47:05.739Z
 tags:
   - windows10
   - windows11
@@ -50,10 +50,6 @@ To reset the Windows Store cache:
 2. Click on**wsreset** –**run command** from the search result. This will open a black Window that will reset the Windows Store cache. The window will close automatically and launch Microsoft Store.
 3. Close Microsoft Store and then relaunch the app to see if the error is resolved.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Restart the Microsoft Store Install Service
 
  Microsoft Store Install service provides support for the Microsoft Store and starts on demand. If the service is disabled, you may not be able to install apps from the store resulting in the "this app couldn’t be installed" message.
@@ -75,17 +71,9 @@ To restart Microsoft Store Install Service:
 ![microsoft store install service restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microsoft-store-install-service-restart.jpg)
 7. Click**Apply** and**OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Next, right-click on**Microsoft Store Install Services** and select**Restart** .
 
  Close the Services snap-in and launch Microsoft Store. Then, try to install the app and check if the error is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Perform a Microsoft Store Repair
 
@@ -101,10 +89,6 @@ To restart Microsoft Store Install Service:
 6. Scroll down to the**Reset** section.
 7. Click on**Repair** and wait for the process to complete.
 8. Once done, relaunch Microsoft Store and try to install the app to see if the error is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Manually Reset Microsoft Store Apps
 
@@ -125,17 +109,9 @@ To reset Microsoft Store:
 
  Launch Microsoft Store and sign in with your Microsoft Account if required. Then, try to install the app and check for any improvements.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Re-register the Microsoft Store App
 
 ![powershell re_register microsoft store app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/powershell-re_register-microsoft-store-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Another way to fix the "this app couldn’t be installed" error is to re-register the Microsoft Store using PowerShell. Here’s how to do it.
 
@@ -191,14 +167,24 @@ To reinstall Microsoft Store:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-dive-into-windows-10-new-apps-and-games-galore-for-2024/"><u>[New] Dive Into Windows 10 - New Apps & Games Galore for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-simplified-guide-to-advanced-xbox-video-recording-methods/"><u>[Updated] Simplified Guide to Advanced Xbox Video Recording Methods</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-the-perfect-path-from-instagram-to-tiktok/"><u>[Updated] The Perfect Path From Instagram to TikTok</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-trilltones-techniques-how-to-cut-and-download-tamil-songs-for-2024/"><u>[Updated] TrillTones Techniques How to Cut and Download Tamil Songs for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/erase-files-and-folders-with-ease-on-macos-stellar-file-eraser-professional/"><u>Erase Files & Folders with Ease on macOS - Stellar File Eraser Professional</u></a></li>
-<li><a href="https://windows11.techidaily.com/improve-download-efficiency-boosting-steam-and-windows-speed/"><u>Improve Download Efficiency: Boosting Steam and Windows Speed</u></a></li>
-<li><a href="https://windows11.techidaily.com/maximizing-efficiency-top-6-ideas-to-overhaul-windows-11s-taskbar-layout/"><u>Maximizing Efficiency: Top 6 Ideas to Overhaul Windows 11'S Taskbar Layout</u></a></li>
-<li><a href="https://windows11.techidaily.com/reintroduce-forgotten-bluetooth-items-devices-mgr/"><u>Reintroduce Forgotten Bluetooth Items Devices Mgr</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-variances-microsoft-account-versus-conventional-local-login/"><u>Unveiling Variances: Microsoft Account Versus Conventional Local Login</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-pro-level-stabilization-systems-for-streaming-content/"><u>[New] 2024 Approved Pro-Level Stabilization Systems for Streaming Content</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-pinterest-content-top-5-free-download-apps/"><u>2024 Approved Mastering Pinterest Content Top 5 FREE Download Apps</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/data-backup-transfer-and-restoration-techniques/"><u>数据备份与传输恢复方法 - Data Backup, Transfer and Restoration Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/alert-google-signals-upcoming-purge-of-dormant-profiles-zdnet-insights/"><u>Alert! Google Signals Upcoming Purge of Dormant Profiles - ZDNet Insights</u></a></li>
+<li><a href="https://windows11.techidaily.com/hacks-to-control-your-time-zone-in-windows-manually/"><u>Hacks to Control Your Time Zone in Windows Manually</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Infinix Note 30 VIP? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-live-photography-to-continuous-visual-storytelling/"><u>In 2024, Live Photography to Continuous Visual Storytelling</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-melodypulse-recorder-downloads-guide/"><u>In 2024, Melodypulse Recorder Downloads Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-prove-your-expertise-with-these-windows-10-tricks/"><u>In 2024, Prove Your Expertise with These Windows 10 Tricks</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-file-security-with-automated-password-integration/"><u>Mastering File Security with Automated Password Integration</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-maze-of-unacceptable-connections-on-windows/"><u>Navigating the Maze of Unacceptable Connections on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/sidestepping-windows-update-error-code-0x80242016/"><u>Sidestepping Windows Update Error Code 0X80242016</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-audio-interruptions-on-your-pc-with-windows-11-expert-tips-and-fixes/"><u>Solving Audio Interruptions on Your PC with Windows 11 – Expert Tips and Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-fix-error-code-0x0001-in-geforce-experience/"><u>Strategies to Fix Error Code 0X0001 in GeForce Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-your-data-files-in-windows-11-using-ntfs-options/"><u>Streamline Your Data Files in Windows 11 Using NTFS Options</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-essential-lenovo-display-recording-hacks/"><u>The Essential Lenovo Display Recording Hacks</u></a></li>
+<li><a href="https://windows11.techidaily.com/tricks-for-efficient-memory-management-in-windows/"><u>Tricks for Efficient Memory Management in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/unplugging-troubles-stay-aware-of-power-save-mode/"><u>Unplugging Troubles: Stay Aware of Power Save Mode</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-voice-logging-a-comprehensive-walkthrough/"><u>Windows Voice Logging: A Comprehensive Walkthrough</u></a></li>
 </ul></div>
 

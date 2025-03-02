@@ -1,7 +1,7 @@
 ---
 title: "Windows' Sleep Mode Anomalies: Why It Frustrates Users"
-date: 2024-08-15T15:32:42.520Z
-updated: 2024-08-16T15:32:42.520Z
+date: 2025-02-23T23:35:18.169Z
+updated: 2025-03-01T20:38:32.799Z
 tags:
   - windows10
   - windows11
@@ -26,15 +26,9 @@ thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547
 
  This differs from classic standby, which would take the state of your PC (what you were doing when you put it to sleep) and hold that in memory. Then, when you turn it back on, your PC can fetch it from storage to resume exactly what you were doing. The key difference is that, on the old standby, also known as S3 standby, only a small amount of power was put into the memory on your PC, so it could store information, whereas modern standby provides more power directly to the CPU.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is the Problem With Windows Modern Standby?
 
 ![Windows 11 menu with various options for sleep modes and power consumption options.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-11-system-power-menu.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 
  If you’ve ever left your laptop or tablet in sleep mode in your bag, then found it was horribly hot and completely dead when you tried to use it later, then you’ve experienced Windows Modern Standby. While the feature does try to bring Windows devices more in line with Smartphones, it has also led to various laptops and tablets completely draining when they’re not being used.
 
@@ -46,23 +40,15 @@ thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547
 
  There’s also the lifespan of your devices' batteries to consider. If your laptop or tablet is sitting on your coffee table constantly running powerful CPU processes, then you’re likely to find that the battery dies much sooner than you were expecting, and they can be expensive or difficult to replace or repair.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Stop Windows Modern Standby
 
  Now that you know there’s a problem, you might want to learn [how to turn off Windows Modern Standby on your Windows 10/11 devices](https://www.makeuseof.com/windows-disable-modern-standby/). Luckily, it is possible to turn the feature off, though the method is somewhat obtuse. You also have the option of [temporarily disabling sleep mode](https://www.makeuseof.com/temporarily-disable-sleep-mode-windows/) entirely, which is easier but less effective as options go.
 
  Bear in mind if you disable this feature, you might find that your laptop takes longer to wake up from sleep mode, and it also won't download any updates for you while you're not using it. If you’re not experiencing a power drain, as mentioned above, then you should leave the feature enabled. On Desktop PCs or laptops/tablets that don’t have a powerful CPU, Windows Modern Standby is a convenience that is worth having.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Windows Modern Standby, in a Nutshell
 
  You should now have a decent understanding of what Windows Modern Standby is, why it's a problem, and how to deal with it. You should now find that you're actually able to use your device after a long journey, assuming that you've done everything you can to keep your battery healthy and alive anyway.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -71,5 +57,19 @@ thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-expedite-your-tiktok-videos-with-ease/"><u>[New] In 2024, Expedite Your TikTok Videos with Ease</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-online-broadcast-battle-facebook-vs-youtube-and-twitspaces/"><u>[Updated] Online Broadcast Battle FACEbook Vs. YOUTube & TWITSpaces</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-side-by-side-hero4-vs-hero5-analysis-for-2024/"><u>[Updated] Side by Side Hero4 vs Hero5 Analysis for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/chrome-keeps-freezing-fixed/"><u>Chrome Keeps Freezing [Fixed]</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/dominance-digest-the-ultimate-battle-royale-list/"><u>Dominance Digest The Ultimate Battle Royale List</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-steps-for-cc-fixes-on-windows-11/"><u>Essential Steps for CC Fixes on Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974452598-horizontal-monitor-setup-done/"><u>Horizontal Monitor Setup - Done</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-realme-v30-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-inconsistent-swipe-commands-on-windows-tablets/"><u>Mastering Inconsistent Swipe Commands on Windows Tablets</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-text-workflow-quick-and-custom-keybindings/"><u>Optimize Text Workflow: Quick and Custom Keybindings</u></a></li>
+<li><a href="https://windows11.techidaily.com/smoothen-your-warhammer-gaming-experience-end-window-stuttering/"><u>Smoothen Your Warhammer Gaming Experience - End Window Stuttering</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-integrating-portable-software-in-w11plus/"><u>Step-by-Step Guide: Integrating Portable Software in W11+</u></a></li>
+</ul></div>
 

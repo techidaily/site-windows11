@@ -1,7 +1,7 @@
 ---
 title: "Hidden Impact: Unassuming Apps Draining Windows 11 Power"
-date: 2024-11-19T19:41:39.492Z
-updated: 2024-11-24T22:55:44.979Z
+date: 2025-02-23T13:56:15.396Z
+updated: 2025-03-02T07:05:13.722Z
 tags:
   - windows10
   - windows11
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
 
  Windows 11 comes with a few apps installed by default, and for the most part, they don't take up much of your system's precious resources. However, a recent report claims that both the Chat and Widget apps actually take a sizable toll on your PC... even if you never use them.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The Effect of the Chat and Widget Apps on Windows 11
 
  The report comes to us from [ghacks](https://www.ghacks.net/2022/02/03/disabling-the-chat-and-widgets-icons-in-windows-11-actually-saves-system-resources/), which compiled several sources across the internet about Chat and Widget's effect on Windows 11\. As it turns out, disabling or removing these two apps does make a noticeable improvement in system performance, even if you never use them.
@@ -36,27 +32,15 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
 
  The article claims that the processes take up a few hundred megabytes of RAM, but the real proof comes from [Out of Office Hours](https://oofhours.com/2022/01/30/the-overhead-of-widgets-and-teams-in-windows-11/), which posted a screenshot showing several WebView2 processes each taking their slice of the RAM pie.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Disable the Chat and Widget App and Save Your Ram
 
  As the report claims, just hiding or removing these icons from the taskbar is enough to prevent them from launching the process by themselves. Right-click on the taskbar and select Taskbar settings. From there, toggle off the buttons for Widgets and Chat.
 
  And that’s it—the Widget and Chat icons will be removed from the desktop and won’t occupy any RAM unnecessarily.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Find and Disable Other Apps
 
  It's not uncommon to get your PC memory drained by apps or background processes that aren't actually doing anything. To prevent this from happening, you have a [drove of tools for finding and disabling these apps](https://www.makeuseof.com/windows-pc-too-many-background-processes/). Everything from Task Manager, System Configuration, and the Settings App will help you in this. So make sure you check out and disable these apps as well.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## An Unideal Welcome Party for Windows 11 Users
 
@@ -65,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
  As such, it's a pretty big deal that the default setup for Windows 11 passively hogs your RAM, even if you don't launch any of the apps that come with it. After all, if Windows 11 performs worse than Windows 10, it's going to make it difficult for Microsoft to convince people to stick around on the new operating system.
 
  At the same time, it's not a true Windows launch unless things go a bit awry at the start. Hopefully, these little annoyances will end up being teething issues for Windows 11, and not the norm moving forward.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Out of Sight, Out of Mind (and Memory)
 
@@ -83,18 +63,24 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-essential-free-online-editor-suites-ranked-15/"><u>[New] Essential Free Online Editor Suites - Ranked #15</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-3-ways-to-record-itunes-videos-for-2024/"><u>[Updated] 3 Ways to Record iTunes Videos for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-become-a-master-of-virtual-persona-design-metaverse-edition/"><u>[Updated] Become a Master of Virtual Persona Design - Metaverse Edition</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-elevating-your-viewing-experience-with-benq-sw320-monitor/"><u>[Updated] Elevating Your Viewing Experience with BenQ SW320 Monitor</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-chrome-compatibility-solving-media-errors/"><u>[Updated] In 2024, Chrome Compatibility Solving Media Errors</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-substitutes-for-winmovie-new-windows-editors/"><u>In 2024, Substitutes for WinMovie New Windows Editors</u></a></li>
-<li><a href="https://windows11.techidaily.com/method-to-rectify-the-zero-x-error-on-windows-11s-mail-app/"><u>Method to Rectify the Zero X Error on Windows 11’S Mail App</u></a></li>
-<li><a href="https://windows11.techidaily.com/simplify-and-beautify-your-w11-desktop-with-ease/"><u>Simplify & Beautify Your W11 Desktop with Ease</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-microsoft-store-crash-error-0x800704cf/"><u>Tackling Microsoft Store Crash: Error 0X800704CF</u></a></li>
-<li><a href="https://windows11.techidaily.com/tactics-to-stop-fluctuating-printer-choices-on-pc/"><u>Tactics to Stop Fluctuating Printer Choices on PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-comprehensive-resource-on-how-netflix-is-revolutionizing-home-entertainment-services/"><u>The Comprehensive Resource on How Netflix Is Revolutionizing Home Entertainment Services</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-essential-review-of-speed-and-style-the-gotrax-gxl-v2-commuter-e-scooter-unveiled/"><u>The Essential Review of Speed and Style: The Gotrax GXL V2 Commuter E-Scooter Unveiled</u></a></li>
-<li><a href="https://windows11.techidaily.com/transforming-the-terminal-workflow-setting-it-as-main/"><u>Transforming the Terminal Workflow: Setting It As Main</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-frosty-flourishes-at-the-winter-games/"><u>[New] In 2024, Frosty Flourishes at the Winter Games</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-peeling-back-the-curtain-on-youtubes-content-popularity-index/"><u>[New] In 2024, Peeling Back the Curtain on YouTube's Content Popularity Index</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-pioneering-the-path-transitioning-xbox-sessions-to-fb-for-2024/"><u>[New] Pioneering the Path Transitioning Xbox Sessions to FB for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-fives-best-quick-reliable-time-lapse-tools/"><u>[Updated] 2024 Approved Five's Best Quick, Reliable Time-Lapse Tools</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-pc-compatible-sony-ps3-mimicry-tools-top-picks/"><u>[Updated] 2024 Approved PC-Compatible Sony PS3 Mimicry Tools Top Picks</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-art-of-filmmaking-demystified-on-youtube-for-2024/"><u>[Updated] The Art of Filmmaking Demystified on YouTube for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-navigating-through-excellent-hdr-cam-choices/"><u>2024 Approved Navigating Through Excellent HDR Cam Choices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-tecno-camon-20-pro-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Tecno Camon 20 Pro 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/automate-email-attachment-openness-ms-word-read-mode-only/"><u>Automate Email Attachment Openness: MS Word Read Mode Only</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquer-windows-activate-derailed-handbrake/"><u>Conquer Windows: Activate Derailed HandBrake</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-the-electrical-footprint-of-your-windows-device/"><u>Exploring the Electrical Footprint of Your Windows Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/hunt-down-elusive-control-panel-options-on-windows-11/"><u>Hunt Down Elusive Control Panel Options on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/instructional-path-resetting-windows-preferences-post-reboot/"><u>Instructional Path: Resetting Windows Preferences Post-Reboot</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-solutions-freeing-up-stuck-windows-11-pins/"><u>Quick Solutions: Freeing Up Stuck Windows 11 PINs</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedy-absent-bluetooth-devices-manager/"><u>Remedy Absent Bluetooth Devices Manager</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/supreme-audiovisual-hints-pack/"><u>Supreme Audiovisual Hints Pack</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-game-drives-in-xbox-app/"><u>The Ultimate Guide to Game Drives in Xbox App</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-tutorial-for-managing-archive-files-via-cmd/"><u>The Ultimate Tutorial for Managing Archive Files via CMD</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-offline-transcription-programs-for-speech/"><u>Top Offline Transcription Programs for Speech</u></a></li>
 </ul></div>
 

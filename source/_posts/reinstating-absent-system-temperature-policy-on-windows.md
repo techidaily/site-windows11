@@ -1,7 +1,7 @@
 ---
 title: Reinstating Absent System Temperature Policy on Windows
-date: 2025-02-05T02:32:18.072Z
-updated: 2025-02-11T03:44:33.794Z
+date: 2025-02-23T09:50:01.945Z
+updated: 2025-03-02T11:17:57.661Z
 tags:
   - windows10
   - windows11
@@ -37,19 +37,11 @@ Here’s how to do that.
 
 ![Power Options menu on Windows with the System cooling policy expanded](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/power-options-windows-system-cooling.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you want to hide it again after you’ve set it, you can enter the following command and then press**Enter** to run it:
 
 `powercfg -attributes SUB_PROCESSOR 94D3A615-A899-4AC5-AE2B-E4D8F634367F +ATTRIB_HIDE`
 
  If you go back to the Power Options menu, you’ll find that it’s gone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Fix a Missing System Cooling Policy Using the Windows Registry
 
@@ -59,10 +51,6 @@ Here’s how to do that.
 
 ![creating a text document on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creating-text-doc-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 In the text document, enter the following code:
 
 `Windows Registry Editor Version 5.00[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\54533251-82be-4824-96c1-47b60b740d00\94d3a615-a899-4ac5-ae2b-e4d8f634367f]"Attributes"=dword:00000002`
@@ -71,10 +59,6 @@ In the text document, enter the following code:
 
 ![message to continue merging a registry file with the windows registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/message-continue-merge-reg-gile.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You should now see the system cooling policy in the Power Options menu.
 
  To remove the system cooling policy again after you’ve made your changes, create another registry file named**add-system-cooling-policy.reg** . Then, paste the below text into the document and save it:
@@ -82,10 +66,6 @@ In the text document, enter the following code:
 `Windows Registry Editor Version 5.00[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\54533251-82be-4824-96c1-47b60b740d00\94d3a615-a899-4ac5-ae2b-e4d8f634367f]"Attributes"=dword:00000001`
 
  Once you run this file, the system cooling policy will be hidden again in the Power Options menu.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bringing Back the System Cooling Policy on Windows
 
@@ -106,20 +86,24 @@ In the text document, enter the following code:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-mastering-insta-metrics-top-strategies-for-highlight-optimization/"><u>[New] In 2024, Mastering Insta Metrics Top Strategies for Highlight Optimization</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-demystifying-the-powerhouse-behind-youtube-creator-hub/"><u>[Updated] In 2024, Demystifying the Powerhouse Behind YouTube Creator Hub</u></a></li>
-<li><a href="https://windows11.techidaily.com/boosting-classics-seamless-integration-of-achievements-using-retroarch-software/"><u>Boosting Classics: Seamless Integration of Achievements Using Retroarch Software</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/crafting-successful-youtube-sponsorship-deals-for-2024/"><u>Crafting Successful YouTube Sponsorship Deals for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-diablos-first-epic-a-novices-primer/"><u>Decoding Diablo's First Epic: A Novice's Primer</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/exposed-the-hazards-of-fake-follower-purchases-on-youtube-for-2024/"><u>Exposed The Hazards of Fake Follower Purchases on YouTube for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-poco-c51-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Poco C51 FRP</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/metaverse-laughs-crafting-funny-virtual-memes/"><u>Metaverse Laughs Crafting Funny Virtual Memes</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-windows-errors-in-google-nearby-share-app/"><u>Navigating Windows Errors in Google Nearby Share App</u></a></li>
-<li><a href="https://windows11.techidaily.com/neutralize-required-condition-red-flags-in-win11/"><u>Neutralize Required Condition Red Flags in Win11</u></a></li>
-<li><a href="https://howto.techidaily.com/play-store-not-working-on-honor-play-8t-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Honor Play 8T? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/simple-solutions-reviving-your-unrecognized-usb-flash-drive/"><u>Simple Solutions: Reviving Your Unrecognized USB Flash Drive</u></a></li>
-<li><a href="https://windows11.techidaily.com/triumph-over-troubled-windows-credentials/"><u>Triumph over Troubled Windows Credentials</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlock-the-mystery-of-mouse-controls-on-windows-11/"><u>Unlock the Mystery of Mouse Controls on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/win11-offline-setting-up-on-disconnected-pcs/"><u>Win11 Offline: Setting Up on Disconnected PCs</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-subscriber-identification-on-youtube/"><u>[New] Mastering Subscriber Identification on YouTube</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/antheon-of-youtubes-all-time-highest-views/"><u>[New] Pantheon of YouTube's All-Time Highest Views</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-lg-ultrafine-4k-monitor-complete-review/"><u>[Updated] In 2024, LG UltraFine 4K Monitor Complete Review</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-luts-unlocking-color-grading-in-ar-and-vfx/"><u>2024 Approved Mastering LUTs Unlocking Color Grading in AR & VFX</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/canon-mx49eb-printer-driver-updates-available-seamless-compatibility-with-windows-operating-systems/"><u>Canon MX49eb Printer Driver Updates Available - Seamless Compatibility with Windows Operating Systems</u></a></li>
+<li><a href="https://fox-search.techidaily.com/free-aspnet-design-assets-and-starter-kits-from-creative-tim-get-inspired/"><u>Free ASP.NET Design Assets & Starter Kits From Creative Tim - Get Inspired!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-achieving-maximum-comfort-in-vr-landscape/"><u>In 2024, Achieving Maximum Comfort in VR Landscape</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-the-art-of-cross-border-mouse-glance-using-powertoys-features/"><u>Master the Art of Cross-Border Mouse Glance Using PowerToys' Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-the-subsystem-top-practices-in-wsl-2-environments/"><u>Master the Subsystem: Top Practices in WSL 2 Environments</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-nvidia-connections-problems-on-win-11-os/"><u>Navigating Through NVIDIA Connections Problems on Win 11 OS</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-make-unforgettable-highlights-top-picks-for-desktop-and-mobile/"><u>New Make Unforgettable Highlights Top Picks for Desktop and Mobile</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-hardware-limitations-in-windows-capture-errors/"><u>Overcoming Hardware Limitations in Windows Capture Errors</u></a></li>
+<li><a href="https://howto.techidaily.com/realme-12-proplus-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme 12 Pro+ 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinstallation-strategies-for-lost-render-device-in-ow2/"><u>Reinstallation Strategies for Lost Render Device in OW2</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-xc0f1103f-error-with-nvidias-software/"><u>Remedying XC0F1103F Error with NVIDIA's Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/reveling-in-windows-11s-covert-bar-locator/"><u>Reveling in Windows 11'S Covert Bar Locator</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-app-overload-understanding-and-resolving-windows-0x80860010/"><u>Tackling App Overload: Understanding and Resolving Windows 0X80860010</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-8-best-video-cutting-apps-for-windows-11-and-11/"><u>The 8 Best Video Cutting Apps for Windows 11 & 11</u></a></li>
+<li><a href="https://win-premium.techidaily.com/verstanden-was-bedeutet-die-fehler-404-meldung-in-der-aomei-backupper-software/"><u>Verstanden? Was Bedeutet Die 'Fehler 404' Meldung in Der AOMEI Backupper-Software?</u></a></li>
 </ul></div>
 

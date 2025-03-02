@@ -1,7 +1,7 @@
 ---
 title: Rejuvenate Your Locked Shift Key in Windows.
-date: 2024-08-15T15:30:10.776Z
-updated: 2024-08-16T15:30:10.776Z
+date: 2025-02-25T21:34:42.984Z
+updated: 2025-03-01T17:31:14.075Z
 tags:
   - windows10
   - windows11
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/f244a4b607ff1304250df827a08b69767edd00f8e
 
  If you need help, see our guide on [how to clean your keyboard and sterilize viruses and bacteria](https://www.makeuseof.com/tag/how-to-clean-keyboard/). Also, check out this [trick for cleaning under keyboard keys](https://www.makeuseof.com/tag/a-simple-trick-for-cleaning-under-your-keyboards-keys/).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## 2\. Restart Your Computer
 
  If you've confirmed there are no physical connection issues, [restart your computer](https://www.makeuseof.com/windows-restart-methods/). This gives the machine a fresh start and could potentially resolve minor software glitches that might cause the shift key to not work. Remember to save files or applications before shutting down to protect your work.
@@ -47,15 +43,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
 3. Scroll down to the **Interaction** section and click the **Keyboard** option.
 4. From here, locate the **Filter keys** option and toggle it off.  
 ![Turn Off Filter Keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/turn-off-filter-keys.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 
  Once done, close the Settings window and see if the shift key is now working.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Update or Reinstall Keyboard Drivers
 
  If the shift key is still not working, it could be an issue with your keyboard drivers. Outdated or corrupt drivers may cause compatibility issues and prevent hardware from functioning. To fix this issue, update your keyboard drivers using the below instructions.
@@ -65,14 +55,8 @@ DbSchema database designer for all databases, schema design in the team, schema 
 3. In the Device Manager window, expand the **Keyboards** section.
 4. Right-click on your keyboard device and select **Update driver**.  
 ![Update the Keyboard driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/update-the-keyboard-driver.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 5. On the next page, select the **Search automatically for drivers** option.  
 ![Search automatically for drivers-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/search-automatically-for-drivers-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Now follow the instructions displayed on your screen to complete the process. After that, restart your computer and see if it solves the issue. If not, reinstall the keyboard drivers. This resolves compatibility issues and ensures hardware functions properly.
 
@@ -124,17 +108,11 @@ DbSchema database designer for all databases, schema design in the team, schema 
 3. Click on **Virus & threat protection** from the left sidebar.
 4. On the right side of the page, click on **Scan options**.  
 ![Scan options in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/scan-options-in-windows-security.jpg)
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 5. Next, check the **Full scan** box and click **Scan now**.  
 ![Full Scan Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/full-scan-windows-security.jpg)
 
  Wait for the scan to finish and check if it finds malicious programs. If threats are detected, remove them immediately. After that, restart your computer and see if the shift key is working now.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Try a Different Keyboard
 
  If the suggested solutions do not solve the problem, chances are that the issue lies with your keyboard hardware. To isolate this from other causes, try a different keyboard and check if the shift key works now.
@@ -142,22 +120,14 @@ DbSchema database designer for all databases, schema design in the team, schema 
  If you don't have another keyboard, open a virtual one. This is an on-screen keyboard that lets you type without physical keys. To access it, press **Win + R** on your keyboard. This will open the Run command dialog box.
 
 ![On-screen Keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/on-screen-keyboard.jpg)
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Type **osk** in the text field and hit **Enter**. Now test the shift key on this virtual keyboard. If it works now, you should consider replacing the physical keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Start Using the Shift Key Again on Windows
 
  The Shift key is useful for capitalization, symbols, and navigating Windows menus. However, if it stops working, tasks become tedious and productivity slows down. If other solutions fail, try performing a system restore to return your Windows computer to a previous state where the Shift key worked properly.
 
  If the Shift key stops working, it could disrupt your workflow. This guide explains how to troubleshoot and repair the Shift key not functioning on your computer.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -166,5 +136,22 @@ DbSchema database designer for all databases, schema design in the team, schema 
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-laughlineup-app-become-a-master-at-memes/"><u>[New] 2024 Approved LaughLineup App - Become a Master at Memes</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-maximizing-value-in-your-cloud-service-expenditure/"><u>[New] Maximizing Value in Your Cloud Service Expenditure</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-how-to-fix-the-0x80072efd-error-in-windows-11/"><u>[Solved] How to Fix the 0X80072EFD Error in Windows 11</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-streamline-your-iphone-jpegpng-to-pdf-file-processing/"><u>[Updated] In 2024, Streamline Your iPhone JPEG/PNG to PDF File Processing</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-2023s-ultimate-capture-software-revisited/"><u>2024 Approved 2023'S Ultimate Capture Software Revisited</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/adapt-to-the-digital-age-mastering-computer-based-live-feeds-on-tiktok-for-2024/"><u>Adapt to the Digital Age Mastering Computer-Based Live Feeds on TikTok for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-solutions-for-call-of-duty-vanguard-error-n-code-0x00001eb-pc-troubleshooting/"><u>Effective Solutions for Call of Duty Vanguard Error N (Code: 0X00001eb) – PC Troubleshooting</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-your-execution-shortcuts-for-microsoft-project-success/"><u>Elevate Your Execution: Shortcuts for Microsoft Project Success</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-your-windows-screenshot-game-with-these-fixes/"><u>Elevating Your Windows Screenshot Game with These Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-ad-ds-errors-impacting-windows-11-printing/"><u>Eliminating AD DS Errors Impacting Windows 11 Printing</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-barriers-to-successful-printer-use/"><u>Eliminating Barriers to Successful Printer Use</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-error-0x8024a205-in-windows-update/"><u>Eliminating Error 0X8024a205 in Windows Update</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-efficiency-crafting-shortcuts-next-to-power-on-windows-11/"><u>Enhancing Efficiency: Crafting Shortcuts Next to Power on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-user-experience-reactivating-silent-notifications/"><u>Enhancing User Experience: Reactivating Silent Notifications</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/omplete-playbook-for-youtube-shorts-template-success/"><u>The Complete Playbook for YouTube Shorts Template Success</u></a></li>
+</ul></div>
 

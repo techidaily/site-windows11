@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Uninstall Routine for WSL in Windows 11
-date: 2025-02-09T22:12:55.878Z
-updated: 2025-02-11T01:29:43.535Z
+date: 2025-02-24T19:47:26.740Z
+updated: 2025-03-02T05:09:14.572Z
 tags:
   - windows10
   - windows11
@@ -25,19 +25,11 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Uninstall Windows Subsystem for Linux?
 
  WSL is a very handy tool that allows you to easily run Linux distros in a virtual environment on your Windows computer. Although it doesn't have much impact on storage space, if you have no interest in using Linux, there's no need to have it installed.
 
  There are also [good alternatives to WSL](https://www.makeuseof.com/dont-need-microsoft-windows-subsystem-for-linux/) for running Linux available, and you might decide to use one of those instead of the Microsoft solution. Not only would you not need WSL, but there is also a slight risk of conflict between the Windows Subsystem and your alternative choice.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Remove All Installed Linux Distros on Windows
 
@@ -47,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 2. Uninstall each of the Linux Distros, such as Ubuntu, in exactly the same way you would [uninstall any other Windows app](https://www.makeuseof.com/ways-to-uninstall-apps-windows-11/).
 
 ![Ubuntu in the Windows 11 apps list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/wsl-remove.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the computer came to you with the apps already installed, you might not know what is or isn't a Linux distribution. Here are some of the [most common Linux distros](https://www.makeuseof.com/linux-distros-for-beginners-intermediate-and-advanced-users/), but you can also simply do a Google search for the name of the app you are unsure about.
 
@@ -66,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
  If you see any additional WSL components, such as the WSL update or WSLg Preview, uninstall these in the same way.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Uninstall WSL and Virtual Machine Platform
 
  The final part of the process is to uninstall the WSL core files and disable the option in the Windows Optional Features panel.
@@ -80,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 4. Click **Ok**, and then restart your computer.
 
 ![Removing WSL in the Windows Features panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/wsl-core-files.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  WSL should now be completely removed from your computer. It will receive no automatic updates, and you won't be able to interact with it in any way. If you need it in the future, here's how to [install WSL through the Microsoft Store](https://www.makeuseof.com/install-windows-subsystem-for-windows-microsoft-store/) on a Windows PC.
 
@@ -105,16 +85,20 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-dissecting-mobile-photography-with-android-lightroom/"><u>[New] 2024 Approved Dissecting Mobile Photography with Android Lightroom</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-step-into-professional-mac-audio-recording-a-complete-audacity-course/"><u>[Updated] 2024 Approved Step Into Professional Mac Audio Recording A Complete Audacity Course</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-iphones-blueprint-for-extended-frame-mastery-for-2024/"><u>[Updated] IPhone's Blueprint for Extended Frame Mastery for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/easy-way-installing-google-play-on-win11/"><u>Easy Way: Installing Google Play on Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminating-common-windows-installer-problems/"><u>Eliminating Common Windows Installer Problems</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminating-voice-typing-glitches-in-windows-11-error-code-0x80049dd3/"><u>Eliminating Voice Typing Glitches in Windows 11 (Error Code: 0X80049DD3)</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhance-your-subnet-configuration-in-win11/"><u>Enhance Your Subnet Configuration in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/eradicating-screen-annoyances-in-sonic-frontiers-on-windows-11/"><u>Eradicating Screen Annoyances in Sonic Frontiers on Windows 11</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-14-pro-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone 14 Pro Without Passcode Now</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-iphone-13-pro-max-activation-lock-by-drfone-ios-unlock-ios-unlock/"><u>How to bypass iPhone 13 Pro Max activation lock</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/unleash-creativity-learning-sony-vegas-techniques-for-youtube-video-editing/"><u>Unleash Creativity Learning Sony Vegas Techniques for YouTube Video Editing</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-your-ultimate-cheat-sheet-for-seamlessly-looping-videos-on-youtube/"><u>[New] Your Ultimate Cheat Sheet for Seamlessly Looping Videos on YouTube</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-sound-capture-device-audit/"><u>2024 Approved Sound Capture Device Audit</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-from-your-apple-iphone-6-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password From your Apple iPhone 6</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-download-interruptions-for-xbox-software/"><u>Fixing Download Interruptions for Xbox Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-missing-drivers-on-windows-11-start-up-process/"><u>Fixing Missing Drivers on Windows 11 Start-Up Process</u></a></li>
+<li><a href="https://media-tips.techidaily.com/guide-recording-your-ipads-display-in-just-four-steps/"><u>Guide: Recording Your iPad's Display in Just Four Steps</u></a></li>
+<li><a href="https://windows11.techidaily.com/guidelines-for-restoring-defective-discord-game-detection-on-pcs/"><u>Guidelines for Restoring Defective Discord Game Detection on PCs</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-samsung-galaxy-f04-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Samsung Galaxy F04 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-top-memes-with-a-smile-builder/"><u>In 2024, Top Memes with a Smile Builder</u></a></li>
+<li><a href="https://windows11.techidaily.com/revolutionize-windows-with-key-optimization-tools/"><u>Revolutionize Windows with Key Optimization Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/switching-up-task-managers-launch-screen-in-windows-11/"><u>Switching up Task Manager's Launch Screen in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-surface-computer-firmware-update-manual/"><u>The Ultimate Surface Computer Firmware Update Manual</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/top-rated-iphone-applications-for-seamless-contact-transfer/"><u>Top-Rated iPhone Applications for Seamless Contact Transfer</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-disconnected-steam-in-windows/"><u>Troubleshooting Disconnected Steam in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-windows-11-taskbar-towards-invisibility/"><u>Unveiling the Windows 11 Taskbar: Towards Invisibility</u></a></li>
 </ul></div>
 

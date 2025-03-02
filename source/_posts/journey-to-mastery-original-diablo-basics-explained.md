@@ -1,7 +1,7 @@
 ---
 title: "Journey to Mastery: Original Diablo Basics Explained"
-date: 2024-08-15T15:33:10.023Z
-updated: 2024-08-16T15:33:10.023Z
+date: 2025-02-22T17:08:09.622Z
+updated: 2025-03-02T03:24:03.460Z
 tags:
   - windows10
   - windows11
@@ -28,16 +28,10 @@ thumbnail: https://thmb.techidaily.com/8823459ab6574b19c976d6905c67df41ee5da3519
 
  While Blizzard's announcement of the partnership via a [2019 Blizzard.net post](https://news.blizzard.com/en-us/diablo3/22887361/diablo-now-available-on-gog-com) didn't state why Blizzard won't be selling one of its most popular games ever, it presumably is to ensure that the game gets the attention it deserves, especially considering just how full Blizzard's plate is with the rest of the Diablo franchise, World of Warcraft, and Overwatch 2\.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Play the Original Diablo
 
  At the time of writing, there are two main ways you can play the original Diablo on a PC. You can either download the official copy from GOG, or you can take a chance on an open-source port of the game which does come with its own caveats.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ### Play Diablo Using GOG
 
  As mentioned before, since the Blizzard-GOG partnership the best way of playing Diablo is by buying the game via GOG. It's available in two versions from the [GOG site exclusively](https://www.gog.com/en/game/diablo) for $9.99\.
@@ -46,26 +40,11 @@ thumbnail: https://thmb.techidaily.com/8823459ab6574b19c976d6905c67df41ee5da3519
 * **GOG-enhanced version:** This version brings quality-of-life improvements including but not limited to compatibility fixes, upscaling support for resolution and refresh rate, as well as minor audio fixes at the cost of online multiplayer. This version only supports multiplayer via LAN or P2P connections.
 
 ![Screenshot of the original Diablo game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/og-diablo-screenshot.jpg)
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Image Credit: [GOG](https://www.gog.com/en/game/diablo)
 
  Do keep in mind that this is a DRM-free version of the game that's compatible with Windows 10 and 11 out of the box. You don't need to install GOG Galaxy to play the game either, although that does make managing GOG-sourced game installations easier. Additionally, while Diablo: Hellfire isn't exactly a Blizzard product, considering its popularity, it's included in the purchase as a free add-on as well.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Play Diablo Using an Open-Source Diablo Port
 
  Another way you can play Diablo is by using an open-source port of the game called [DevilutionX (GitHub)](https://github.com/diasurgical/devilutionX) (scrolling down gives instructions). The port makes it simple to run the game while also bringing engine improvements, bug fixes, and other optional quality-of-life improvements.
@@ -82,9 +61,6 @@ Image Credit: [GOG](https://www.gog.com/en/game/diablo)
 
  Both options give you the chance to experience a legendary title in a day and age where the hardware that it was designed for has far been obsolete. However, we also have a [list of action RPG games you can play instead of Diablo](https://www.makeuseof.com/best-action-rpg-games-to-play-instead-of-diablo/), just in case.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Is the Original Diablo Playable on Modern Consoles?
 
  Unfortunately, the original Diablo is yet to make its console debut. However, Blizzard has been known to release older games on newer generation consoles from time to time, a prominent example being Diablo 2: Resurrected.
@@ -93,16 +69,11 @@ Image Credit: [GOG](https://www.gog.com/en/game/diablo)
 
  So even though the original Diablo isn't available to play on your Xbox Series X|S or PS5, there's a possibility (albeit a small one) that Blizzard might end up launching a digital re-release for consoles.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Old Games Can Be Quite the Experience
 
  If you're a fan of retro games or a new gamer looking to experience some of the classics, there's no shortage of websites, emulators, and open-source projects that will let you experience the retro era of gaming. Sure the eight-bit graphics aren't comparable to modern ray-traced games by a long shot, but they do have their own charm.
 
  But how do you play the original game 27 years after its launch, especially when Blizzard doesn't sell it anymore? Let's find out.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -111,5 +82,24 @@ Image Credit: [GOG](https://www.gog.com/en/game/diablo)
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-maximize-reach-in-telegram-a-marketers-playbook/"><u>[New] 2024 Approved Maximize Reach in Telegram A Marketer's Playbook</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-mastering-aspect-ratio-rules-for-twitter-content/"><u>[Updated] Mastering Aspect Ratio Rules for Twitter Content</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-selecting-from-dji-action-gopro-max-360-insta360-x3/"><u>[Updated] Selecting From DJI Action, GoPro Max 360, Insta360 X3</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-samsung-galaxy-f04-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Samsung Galaxy F04 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/boost-your-game-with-ai-powered-frame-rate-optimization-for-seamless-experience/"><u>Boost Your Game with AI-Powered Frame Rate Optimization for Seamless Experience</u></a></li>
+<li><a href="https://network-issues.techidaily.com/end-of-erratic-backlight-intervals-fix-achieved/"><u>End of Erratic Backlight Intervals: Fix Achieved</u></a></li>
+<li><a href="https://win-bits.techidaily.com/ensuring-longevity-strategies-to-protect-against-graphics-card-failures-expert-advice-from-hardwarehive/"><u>Ensuring Longevity: Strategies to Protect Against Graphics Card Failures - Expert Advice From HardwareHive</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-captcha-missteps-in-windows-steam/"><u>Fixing CAPTCHA Missteps in Windows Steam</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-set-your-preferred-theme-and-font-in-the-windows-11-notepad/"><u>How to Set Your Preferred Theme and Font in the Windows 11 Notepad</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-guide-on-how-to-remove-apple-id-from-apple-iphone-12-by-drfone-ios/"><u>In 2024, Guide on How To Remove Apple ID From Apple iPhone 12</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-wsl-enabling-linux-in-windows-environment/"><u>Mastering WSL: Enabling Linux in Windows Environment</u></a></li>
+<li><a href="https://windows11.techidaily.com/rectifying-your-input-cannot-be-opened-vlc-error-on-windows/"><u>Rectifying 'Your Input Cannot Be Opened' VLC Error on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/revealing-indexers-control-accessibility/"><u>Revealing Indexer's Control Accessibility</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/revolutionizing-space-saving-charges-with-the-folding-satechi-qi2-wireless-stand-reviewed/"><u>Revolutionizing Space-Saving Charges with the Folding Satechi Qi2 Wireless Stand Reviewed</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-toggle-online-scan-feature-of-modern-os/"><u>Steps to Toggle Online Scan Feature of Modern OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/synchronizing-seamlessly-accessing-cloud-storage-from-windows-directories/"><u>Synchronizing Seamlessly: Accessing Cloud Storage From Windows Directories</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-mastering-cross-device-sticky-note-functionality/"><u>Windows 11: Mastering Cross-Device Sticky Note Functionality</u></a></li>
+</ul></div>
 

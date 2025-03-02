@@ -1,7 +1,7 @@
 ---
 title: How to Add a Hidden Items Context Menu Option in Windows 10 & 11
-date: 2024-08-15T15:34:05.373Z
-updated: 2024-08-16T15:34:05.373Z
+date: 2025-02-28T16:46:37.174Z
+updated: 2025-03-01T16:23:41.344Z
 tags:
   - windows10
   - windows11
@@ -45,9 +45,6 @@ thumbnail: https://thmb.techidaily.com/911f3006727fe16b140b96791552a2ef85c3bfe95
 
  The **hidden\_files\_context\_menu** ZIP archive also includes another registry script for removing the context menu. So, you don’t need to manually edit the registry to remove the **Hidden items** context menu. Running the **Undo hidden files in context menu** script will do the job for you.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## How to Add a Hidden Items Option to the Context Menu With Right-Click Extender
 
  Or you can add options for toggling file visibility to the context menu with Right-Click Extender. Right-Click Extender is a freely available app that includes numerous customization settings for adding new options to the context menus in Windows 11/10\. This is how to add context menu options for showing/hiding hidden files and folders with Right-Click Extender:
@@ -61,30 +58,18 @@ thumbnail: https://thmb.techidaily.com/911f3006727fe16b140b96791552a2ef85c3bfe95
 7. Double-click the **Right-Click Extender** file to open that app’s window.
 8. Click the **File**/**Folder** tab in Right-Click Extender.  
 ![toggle-items-checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/toggle-items-checkbox.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 9. Select the **Toggle File**/**Folder Visibility** option along with its Icon checkbox.
 10. Click on the **Apply** button.
 
  Now bring up the classic context menu within a folder in File Explorer by pressing **Shift** \+ **F10**. There you’ll see a new **Toggle File Visibility** submenu. Move your cursor over the **Toggle File Visibility** submenu to select a **Show Hidden Files** option. You can conceal the items again by selecting the opposite **Hide Hidden Files** option.
 
 ![The Toggle File Visibility submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/toggle-file-visibility-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Toggle Hidden Items On and Off From File Explorer’s Context Menu
 
  So, now you can select to show or hide files and folders from your context menu. If you select to show hidden items, you can see and access more folders and files in Windows. A context menu option for enabling/disabling hidden items can be especially useful for users who select to hide things with the attribute settings for files and folders.
 
  Explorer’s **View** menu and tab (in Windows 10) include the **Hidden items** option. However, you can make that option a little more accessible by adding it to the context menu. Then you can toggle hidden files on/off from the right-click menu. This is how you can add a **Hidden items** option to the context menu in Windows 10 and 11\.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -93,5 +78,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-unlocking-windows-hdr-capabilities-for-cutting-edge-video-workflows/"><u>2024 Approved Unlocking Windows' HDR Capabilities for Cutting-Edge Video Workflows</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/5-essential-methods-to-pause-onedrives-documents-folder-synchronization/"><u>5 Essential Methods to Pause OneDrive's Documents Folder Synchronization</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazingly-affordable-laptop-with-stunning-screen-quality-a-game-changer-in-tech-zdnet-insights/"><u>Amazingly Affordable Laptop with Stunning Screen Quality - A Game Changer in Tech | ZDNet Insights</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-guide-map-my-ride-app-evaluation/"><u>Comprehensive Guide: Map My Ride App Evaluation</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nctive-digital-monikers-for-video-creators-for-2024/"><u>Distinctive Digital Monikers for Video Creators for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/harnessing-file-operations-techniques-to-archive-and-extract/"><u>Harnessing File Operations: Techniques to Archive and Extract</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-reset-and-recover-the-missing-security-code-from-facebook/"><u>How To Reset & Recover the Missing Security Code From Facebook</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-comprehensive-evaluation-the-leading-gopro-cases-1-10/"><u>In 2024, Comprehensive Evaluation The Leading GoPro Cases #1-10</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-mastering-photo-background-removal-techniques/"><u>In 2024, Mastering Photo Background Removal Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/internet-explorer-display-problem-solutions-for-website-accessibility/"><u>Internet Explorer Display Problem Solutions for Website Accessibility</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-saturated-load-on-windows-chatgpt/"><u>Preventing Saturated Load on Windows ChatGPT</u></a></li>
+<li><a href="https://windows11.techidaily.com/smart-shopping-tips-for-finding-windows-11-keys/"><u>Smart Shopping Tips for Finding Windows 11 Keys</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-correcting-the-mapi32dll-error-on-your-pc/"><u>Step-by-Step Guide: Correcting the 'Mapi32.dll' Error on Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-reverse-non-downloading-challenges-with-chrome-windows/"><u>Steps to Reverse Non-Downloading Challenges with Chrome, Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/taming-windows-screen-size-sensitivities-a-step-by-step-approach/"><u>Taming Windows' Screen Size Sensitivities: A Step-by-Step Approach</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-outdated-systems-without-windows-os/"><u>Transform Outdated Systems without Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-productivity-tailored-clipboard-tools-on-windows/"><u>Unleash Productivity: Tailored Clipboard Tools on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-mystery-of-error-code-0x8007251d-on-pcs/"><u>Unraveling the Mystery of Error Code 0X8007251d on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-are-the-best-bottleneck-calculators-for-windows-how-to-check-your-hardware-for-bottlenecks-manually/"><u>What Are the Best Bottleneck Calculators for Windows? How to Check Your Hardware for Bottlenecks Manually</u></a></li>
+</ul></div>
 

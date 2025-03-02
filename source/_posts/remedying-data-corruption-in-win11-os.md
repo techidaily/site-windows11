@@ -1,7 +1,7 @@
 ---
 title: Remedying Data Corruption in Win11 OS
-date: 2025-02-05T19:08:45.451Z
-updated: 2025-02-11T03:02:57.998Z
+date: 2025-02-27T03:13:33.900Z
+updated: 2025-03-02T02:18:44.835Z
 tags:
   - windows10
   - windows11
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 
 `DISM.exe /Online /Cleanup-image /Restorehealth`
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Scan Your Hard Drive
 
  Hard drive integrity issues such as bad sectors also cause file system errors to occur in Windows 11/10\. For that reason, scanning your hard drive with the Check Disk tool is a recommended troubleshooting method for file system errors. The Check Disk utility (otherwise CHKDSK) scans for and repairs bad drive sectors detected. This is how you can run CHKDSK in the Command Prompt:
@@ -62,15 +58,7 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 ![The troubleshooter list in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-store-apps-troubleshooter1.jpg)
 5. Apply any suggestions the troubleshooter provides.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-store-app-window.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Check That the Windows License Manager Service Is Running
 
@@ -82,19 +70,11 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-services-window2.jpg)
 4. Click on the**Startup type** menu to open it and select**Automatic** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Windows License Manager server window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-license-service-manager.jpg)
 5. If the service isn’t running, press**Start** within the properties window.
 
 6. Select**Apply** to save settings for the Windows License Manager Service.
 7. Click**OK** to close the Windows License Manager Service Properties window.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Reinstall Any Affected App
 
@@ -105,10 +85,6 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 ![Apps & features in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/apps-features-window.jpg)
 
  When you’ve uninstalled the app, reinstall it from the MS Store. Bring up the Microsoft Store, and input the app’s title in its search box. Then select the app to reinstall in the search results, and click the**Get** button for it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Set Up a New Local User Account on Windows
 
@@ -153,21 +129,21 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-bridging-language-barriers-adding-subtitles-to-windows-media-player/"><u>[New] 2024 Approved Bridging Language Barriers Adding Subtitles to Windows Media Player</u></a></li>
-<li><a href="https://windows11.techidaily.com/clearing-up-the-blocked-app-notification-issue/"><u>Clearing Up the Blocked App Notification Issue</u></a></li>
-<li><a href="https://windows11.techidaily.com/command-center-changing-your-onedrive-storage-territory-on-windows-10/"><u>Command Center: Changing Your OneDrive Storage Territory on Windows 10</u></a></li>
-<li><a href="https://windows11.techidaily.com/comprehensive-guide-windows-screensaver-tactics/"><u>Comprehensive Guide: Windows Screensaver Tactics</u></a></li>
-<li><a href="https://windows11.techidaily.com/conquering-complexity-adding-ease-to-uninstall-in-windows/"><u>Conquering Complexity: Adding Ease to Uninstall in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/customize-your-clock-region-on-windows-avoiding-automatic-changes/"><u>Customize Your Clock Region on Windows, Avoiding Automatic Changes</u></a></li>
-<li><a href="https://windows11.techidaily.com/deciphering-the-disruption-in-skyrims-scripting/"><u>Deciphering the Disruption in Skyrim's Scripting</u></a></li>
-<li><a href="https://windows11.techidaily.com/direct-route-to-dialing-system-in-win-11/"><u>Direct Route to Dialing System in Win 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fix-the-nero-advrcntr2dll-file-and-resolve-related-errors/"><u>Fix the Nero Advrcntr2.dll File and Resolve Related Errors</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-unable-to-connect-to-the-live-configuration-servers-error/"><u>Fix: 'Unable to Connect to the Live Configuration Servers' Error</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/highlighting-elite-gif-software-on-apple-iphones/"><u>Highlighting Elite GIF Software on Apple iPhones</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/journey-to-stickers-full-tutorial-for-turning-gifs-in-chat-apps-like-discord-and-telegram-for-2024/"><u>Journey to Stickers Full Tutorial for Turning GIFs in Chat Apps Like Discord and Telegram for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ltimate-editors-guide-best-for-youtube-content/"><u>The Ultimate Editor's Guide Best for YouTube Content</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-9-must-have-chatgpt-addons-available-today/"><u>Top 9 Must-Have ChatGPT Addons Available Today</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ood-youtubers-you-should-follow-for-2024/"><u>Top Food YouTubers You Should Follow for 2024</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-rog-phone-8-pro-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from ROG Phone 8 Pro</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-unboxing-gurus-toolkit-amplifying-video-likes-on-tiktok-for-2024/"><u>[New] The Unboxing Guru's Toolkit Amplifying Video Likes on TikTok for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-study-with-stars-the-finest-historical-channels-for-students-and-enthusiasts/"><u>[Updated] 2024 Approved Study with Stars The Finest Historical Channels for Students & Enthusiasts</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-camstreamers-analysis-seeking-superior-solutions/"><u>[Updated] CamStreamers Analysis Seeking Superior Solutions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-the-essential-tutorial-for-vrecorder-setup/"><u>2024 Approved The Essential Tutorial for VRecorder Setup</u></a></li>
+<li><a href="https://windows11.techidaily.com/guaranteeing-your-printers-access-in-win11/"><u>Guaranteeing Your Printer's Access in Win11</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-restoring-system-integrity-on-windows-amo-using-sfc-and-dism-solutions/"><u>Guide to Restoring System Integrity on Windows Amo Using SFC & DISM Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/is-your-iphone-xs-max-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your iPhone XS Max in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/larger-pictures-same-sharpness-levels/"><u>Larger Pictures, Same Sharpness Levels</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-stealth-concealing-drives-on-windows-11-and-10/"><u>Mastering Stealth: Concealing Drives on Windows 11 & 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/revive-lost-space-a-windows-technique-for-storage-recovery/"><u>Revive Lost Space: A Windows Technique for Storage Recovery</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-your-code-with-jdk-on-windows-11/"><u>Streamlining Your Code with JDK on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/surmounting-ram-barriers-in-the-windows-environment/"><u>Surmounting RAM Barriers in the Windows Environment</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-expert-insights-on-latest-hardware/"><u>Tom's Tech Hub: Expert Insights on Latest Hardware</u></a></li>
+<li><a href="https://windows11.techidaily.com/unzipping-and-zipping-made-easy-windows-command-line-guidebook/"><u>Unzipping & Zipping Made Easy: Windows Command Line Guidebook</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-skirmish-fixing-sse-in-skyrim-games/"><u>Win Skirmish: Fixing SSE in Skyrim Games</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-cash-reviewing-gadgets-apparel-and-more-on-the-web-for-2024/"><u>Yield Cash Reviewing Gadgets, Apparel, and More on the Web for 2024</u></a></li>
 </ul></div>
 

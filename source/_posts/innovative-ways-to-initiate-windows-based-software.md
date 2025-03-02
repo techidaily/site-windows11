@@ -1,7 +1,7 @@
 ---
 title: Innovative Ways to Initiate Windows-Based Software
-date: 2024-08-15T15:32:00.026Z
-updated: 2024-08-16T15:32:00.026Z
+date: 2025-02-23T01:42:31.311Z
+updated: 2025-03-01T17:20:50.789Z
 tags:
   - windows10
   - windows11
@@ -31,9 +31,6 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 ## 2\. Open Apps and Programs Using Its EXE File
 
 ![Open Apps and Programs Using Desktop Shortcuts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-apps-and-programs-using-desktop-shortcuts.jpg)
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  When you install an app or program on Windows, it often adds a shortcut to the EXE file on your desktop. This allows you to launch the app or program by double-clicking the shortcut.
 
@@ -56,13 +53,7 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 3. Enter the relevant command in the text field. For instance, if you were to open Microsoft Outlook, you'd type**outlook** in the text box.
 4. Click**OK** .  
 ![Open Apps and Programs Using Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-apps-and-programs-using-windows-task-manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Open Apps and Programs via Command Prompt
 
  Command Prompt is a handy utility in Windows that allows you to automate tasks, troubleshoot [system files](https://www.makeuseof.com/windows-system-files-guide/) , and perform other administrative functions. But did you know you could also use it to launch apps on Windows? We'll show you how.
@@ -72,9 +63,6 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 3. Type**cd <file path>** in the Command Prompt window, and hit**Enter** to navigate to the folder that contains the app you want to launch. Make sure you replace**<file path>** with the actual path of the program.
 4. Type**start <filename.exe>** and hit**Enter** to launch the app.  
 ![Open Apps and Programs Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-apps-and-programs-using-command-prompt.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ## 6\. How to Open Programs With Keyboard Shortcuts
 
@@ -87,27 +75,18 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 3. Click the**Shortcut key** field and press the key combination you want to assign.
 4. Hit**Apply** followed by**OK** .  
 ![Open Apps and Programs Using Keyboard Shortcuts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-apps-and-programs-using-keyboard-shortcuts.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 
  After that, you can quickly launch the app or program by pressing the assigned key combination.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Many Ways to Open Apps and Programs on Windows
 
  As we just saw, accessing your apps and programs on Windows is easy no matter which method you use. Pick the one that makes the most sense to you and your workflow and have an easier time finding your programs on Windows.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -116,8 +95,20 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-keep-the-best-of-facebook-in-super-hd-quality-for-2024/"><u>[New] Keep the Best of Facebook in Super HD Quality for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-best-game-streaming-software-you-should-know/"><u>[Updated] 2024 Approved Best Game Streaming Software You Should Know</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-earn-free-football-fun-learn-to-livestream-legends/"><u>[Updated] In 2024, Earn-Free Football Fun Learn to Livestream Legends</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-the-differences-between-srgb-and-rgb/"><u>2024 Approved Exploring the Differences Between Srgb & Rgb</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-unveiling-the-potential-of-rcas-innovative-home-security-camera/"><u>Comprehensive Guide: Unveiling the Potential of RCA's Innovative Home Security Camera</u></a></li>
+<li><a href="https://discover-great.techidaily.com/effortless-migration-of-cloned-os-images-and-recovery-sections-onto-a-samsung-nvme-ssd/"><u>Effortless Migration of Cloned OS Images and Recovery Sections Onto a Samsung NVMe SSD</u></a></li>
+<li><a href="https://windows11.techidaily.com/examining-why-drive-letters-are-missing-from-windows-systems/"><u>Examining Why Drive Letters Are Missing From Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-unsupported-device-for-windows-hello-login/"><u>Solving 'Unsupported Device' For Windows Hello Login</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210755459-9791028521271-tout-est-lie/"><u>Tout est lié | Free Book</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshoot-non-functional-shift-in-windows/"><u>Troubleshoot Non-Functional Shift in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/waking-up-off-screen-windows-mastering-6-strategies-in-win11/"><u>Waking Up Off-Screen Windows: Mastering 6 Strategies in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-11s-official-app-three-ways-to-erase-it/"><u>Win 11'S Official App: Three Ways to Erase It</u></a></li>
+<li><a href="https://facebook.techidaily.com/wiping-your-digital-history-from-facebook-scope/"><u>Wiping Your Digital History From Facebook Scope</u></a></li>
+</ul></div>
 

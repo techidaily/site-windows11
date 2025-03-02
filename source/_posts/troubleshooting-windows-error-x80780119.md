@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Windows' Error X80780119
-date: 2024-08-15T15:30:28.750Z
-updated: 2024-08-16T15:30:28.750Z
+date: 2025-02-28T23:59:33.320Z
+updated: 2025-03-02T10:54:34.601Z
 tags:
   - windows10
   - windows11
@@ -61,15 +61,9 @@ thumbnail: https://thmb.techidaily.com/ed85d5260878e7afe5eab5cc1189d2e4580a5c9f5
 3. In the Properties dialog, navigate to the **Tools** tab and move to the **Error checking** section.
 4. Click on the **Check** button here and wait for the system to complete the scan. This may take some time, depending upon the size of your disk.  
 ![Run the error checking tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/error-checking-tool.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 
  If any issues are found, Windows will prompt you to repair them. Follow the on-screen instructions to proceed.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Enable System Protection
 
  Several users also noticed that they were facing the problem due to the system protection feature being disabled for the targeted drive. If you have this option disabled in your system, we suggest enabling it and checking if that makes any difference.
@@ -80,20 +74,11 @@ thumbnail: https://thmb.techidaily.com/ed85d5260878e7afe5eab5cc1189d2e4580a5c9f5
 2. Navigate to **System** \> **About**.
 3. Head over to the **Device specifications** section and click on the **System protection** option.  
 ![Click on the System protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/system-protection-options.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 4. In the following dialog, head over to the **System Protection** tab.
 5. Choose the targeted drive and click on the **Configure** button.  
 ![Click on the Configure button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/configure-button.jpg)
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Enable the **Turn on system protection** option and click **Apply** \> **OK** to save the changes.  
 ![Enable system protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/enable-system-protection.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can now close the System Protection dialog and check if the issue is resolved.
 
@@ -110,9 +95,6 @@ thumbnail: https://thmb.techidaily.com/ed85d5260878e7afe5eab5cc1189d2e4580a5c9f5
 3. Now, click on the **Add** button.
 4. In the next dialog, choose **Assign the following drive letter** and click **OK**.  
 ![Change the USB Drive Letter Using Disk Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/change-the-usb-drive-letter-using-disk-management.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Once done, press the **Win** \+ **R** keys together to open Run.
 6. Type "cmd" in Run and click **Ctrl** \+ **Shift** \+ **Enter** to open Command Prompt as an administrator.
 7. Confirm your action in the UAC prompt.
@@ -127,8 +109,6 @@ thumbnail: https://thmb.techidaily.com/ed85d5260878e7afe5eab5cc1189d2e4580a5c9f5
 
  Below, we take a look at the common causes of this issue and discuss the different solutions you can try to get rid of this error for good.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -136,5 +116,23 @@ thumbnail: https://thmb.techidaily.com/ed85d5260878e7afe5eab5cc1189d2e4580a5c9f5
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-grow-your-channelnode-through-joint-videography-endeavors/"><u>[Updated] Grow Your Channelnode Through Joint Videography Endeavors</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-navigating-twitter-video-content-flow-to-facebook/"><u>2024 Approved Navigating Twitter Video Content Flow to Facebook</u></a></li>
+<li><a href="https://windows11.techidaily.com/guidelines-to-correct-nvidia-control-panel-access-problem/"><u>Guidelines to Correct Nvidia Control Panel Access Problem</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hassle-free-installation-of-hp-envy-5055-drivers/"><u>Hassle-Free Installation of HP Envy 5055 Drivers</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-correctly-manage-the-0x80070003-updater-error-on-windows/"><u>How to Correctly Manage the 0X80070003 Updater Error on Windows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-essential-youtube-marketing-techniques-ranked-from-best-to-worst/"><u>In 2024, Essential YouTube Marketing Techniques – Ranked From Best to Worst</u></a></li>
+<li><a href="https://windows11.techidaily.com/manage-battery-saver-functionality-on-your-laptop-seamlessly/"><u>Manage Battery Saver Functionality on Your Laptop Seamlessly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/maximizing-your-fall-guys-experience-by-cutting-down-lag-and-elevating-frame-rates/"><u>Maximizing Your Fall Guys Experience by Cutting Down Lag and Elevating Frame Rates</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/perfect-pair-merging-your-youtube-video-library/"><u>Perfect Pair Merging Your YouTube Video Library</u></a></li>
+<li><a href="https://windows11.techidaily.com/revolutionizing-image-editing-with-photos-apps-delete-feature/"><u>Revolutionizing Image Editing with Photos App's Delete Feature</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-guide-win1110s-nvidia-access-problems/"><u>Troubleshooting Guide: Win11/10's NVidia Access Problems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-playing-mkv-files-on-your-sony-playstation-3-console/"><u>Ultimate Guide: Playing MKV Files on Your Sony PlayStation 3 Console</u></a></li>
+<li><a href="https://windows11.techidaily.com/unblocking-the-frozen-windows-enter-button-function/"><u>Unblocking the Frozen Windows 'Enter' Button Function</u></a></li>
+<li><a href="https://article-posts.techidaily.com/video-quest-hero5-black-vs-virb-for-adventurers/"><u>Video Quest Hero5 Black VS. VIRB for Adventurers</u></a></li>
+<li><a href="https://windows11.techidaily.com/visual-advancements-for-safe-web-experience-in-windows-11/"><u>Visual Advancements for Safe Web Experience in Windows 11</u></a></li>
+</ul></div>
 

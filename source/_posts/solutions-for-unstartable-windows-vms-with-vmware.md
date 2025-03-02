@@ -1,7 +1,7 @@
 ---
 title: Solutions for Unstartable Windows VMs with VMware
-date: 2024-08-15T15:34:30.280Z
-updated: 2024-08-16T15:34:30.280Z
+date: 2025-02-28T01:26:51.871Z
+updated: 2025-03-01T17:16:40.699Z
 tags:
   - windows10
   - windows11
@@ -33,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/ad7d05b0030775951042fde08b0fbde9a0ebb4cf0
 6. The User Account Control window will open. Click on the **Yes** button.
 7. Try to launch a virtual machine and check if you face the error again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Check If Virtualization is Active
 
  Every virtualization program including VMware needs hardware virtualization to work on a Windows PC. So, if you have turned off virtualization from BIOS, you must re-enable it. Repeat the following steps:
@@ -45,15 +42,9 @@ thumbnail: https://thmb.techidaily.com/ad7d05b0030775951042fde08b0fbde9a0ebb4cf0
 3. Switch to the **Advanced Settings** page.
 4. Locate the **Hardware Virtualization** settings. In our Asus PC, it shows up as “**SVM**” mode, but you may see other names like **VT-x**, **AMD-V**, or **Vanderpool**. Use the **arrow** key to highlight and press the **Enter** key to enable the feature.  
 ![Enable hardware virtualization in BIOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/enable-hardware-virtualization-in-bios.jpg)
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Press the **F10** key to save the changes and exit the BIOS.
 6. Boot to the desktop and launch VMware. Check if you can launch a virtual machine without any error.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Update VMware App
 
  An outdated and buggy build of VMware can cause issues with certain features. So, you must update the app to install the latest build and fix issues with new Windows updates. Here’s how to do it:
@@ -63,16 +54,9 @@ thumbnail: https://thmb.techidaily.com/ad7d05b0030775951042fde08b0fbde9a0ebb4cf0
 3. Navigate to the **Help > Software updates** option.
 4. Click on the **Check for updates** button.  
 ![Updating the VMware app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/updating-the-vmware-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Wait for the utility to search the servers for new updates if any. Download and install the updates on your PC.
 6. **Restart** your PC and launch VMware. Power on a virtual machine and check if the error pops up or not.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 4\. Disable Memory Integrity in Windows Security
 
  Memory Integrity is a feature listed under the Core Isolation setting in the Windows Security app. It protects high-security processes from malware and requires hardware virtualization. Since hardware virtualization can only be used by one program at a time, VMware can encounter errors when you power on a virtual machine.
@@ -97,9 +81,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Remove other virtualization features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/remove-other-virtualization-features.jpg)
 5. Now, click on the **Restart now** button to apply the changes and remove all these features from your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## 6\. Disable VBS
 
  Virtualization-based security can interfere with third-party hypervisors, so you must disable it. Check out [how to disable VBS to increase performance in Windows 11](https://www.makeuseof.com/windows-11-disable-vbs/) for more information. After disabling VBS, launch VMware and run a virtual machine to check if the 'Failed to Start the Virtual Machine' error persists.
@@ -133,9 +114,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 7. **Close** the Terminal app window.
 8. Launch VMware and power on a virtual machine to check if it runs without any issues now.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 9\. Use System Restore
 
  If VMware was running fine on your PC before installing a new update or making changes to your PC, you can [use System Restore](https://www.makeuseof.com/use-system-restore-windows/) to revert to an earlier state. All your personal files will stay unaffected, and you won’t have to reset your PC for an app.
@@ -146,8 +124,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  As a result, they are unable to launch any virtual machine in VMware and are stuck at the error screen. We will discuss multiple methods to resolve this issue and help you successfully launch the virtual machine. Let’s begin.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -155,5 +131,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-perfecting-altered-text-aesthetics-in-visual-media-for-2024/"><u>[Updated] Perfecting Altered Text Aesthetics in Visual Media for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-vectors-explained-an-entry-level-guide-to-forms-and-applications/"><u>[Updated] Vectors Explained An Entry-Level Guide to Forms and Applications</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ing-captivating-youtube-thumbnails-for-mac-users-for-2024/"><u>Creating Captivating YouTube Thumbnails for Mac Users for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-solutions-to-rectify-steamdll-not-found-issues-on-your-pc/"><u>Effective Solutions to Rectify 'Steam.dll Not Found' Issues on Your PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-messaging-a-guide-to-using-messenger-independently-from-facebook/"><u>Exploring Messaging: A Guide to Using Messenger Independently From Facebook</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-halt-windows-11-data-harvesting/"><u>Guide to Halt Windows 11 Data Harvesting</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-realme-c67-5g-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Realme C67 5G.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-successfully-fix-d3dx9-library-errors-the-d3dx928dll-challenge/"><u>How to Successfully Fix D3DX9 Library Errors: The d3dx9_28.dll Challenge</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-infinix-zero-30-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Infinix Zero 30 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-administrative-functionality-in-microsoft-tools/"><u>Restoring Administrative Functionality in Microsoft Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/systematic-troubleshooting-for-flashing-displays-on-windows/"><u>Systematic Troubleshooting for Flashing Displays on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/transition-to-sudo-windows-next-step/"><u>Transition to Sudo: Windows' Next Step</u></a></li>
+<li><a href="https://windows11.techidaily.com/tweak-right-menu-options-for-optimal-software-use/"><u>Tweak Right-Menu Options for Optimal Software Use</u></a></li>
+<li><a href="https://windows11.techidaily.com/whats-included-in-the-enhanced-windows-11-settings-app/"><u>What's Included in the Enhanced Windows 11 Settings App?</u></a></li>
+</ul></div>
 

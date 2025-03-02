@@ -1,7 +1,7 @@
 ---
 title: "Mastering Ping: Usage & Timing on Windows Systems"
-date: 2025-02-09T22:12:29.425Z
-updated: 2025-02-10T18:52:09.534Z
+date: 2025-02-28T20:36:12.509Z
+updated: 2025-03-01T16:44:39.674Z
 tags:
   - windows10
   - windows11
@@ -43,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 
  Besides checking if a host is reachable, the command keeps track of the round-trip time. This is the time a message takes to go from a source computer to a destination server and then return to the source, along with a response from the destination server. This data can help you analyze how stable your connection to a server is.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Syntax of the Ping Command
 
  The basic syntax of the ping command looks like this:
@@ -69,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 4. Press **Enter** and let your device ping the server four times. Then, it will compile the results.  
 ![Running the ping command in Windows PowerShell.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/running-the-ping-command-in-windows-powershell.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Alternatively, you can perform the test in Command Prompt. Simply press **Win + R,** type **“cmd**,**”** and click **OK**. Then, type the command and press Enter.
 
 ![Running the Command Prompt app from the Run dialog box in Windows.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/running-the-command-prompt-app-from-the-run-dialog-box-in-windows.jpg)
@@ -81,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 
 ![Running the Windows PowerShell as an administrator on Windows.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/running-the-windows-powershell-as-an-administrator-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then, click **"Yes"** in the **UAC (User Account Control)** window.
 
 ### Analyzing the Results of the Ping Test
@@ -92,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
  The **Sent** packets (with a default size of 32 bytes each) indicate how many messages were sent from the host device to the remote server. **Received** packets show the number of responses received from the server to the host device. **Lost** packets represent the number of signals sent from the host device that the destination server didn't respond to. **Time** refers to the round-trip time of each ping.
 
 ![Running the ping command in Windows PowerShell.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/running-the-ping-command-in-windows-powershell.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The **TTL** (Time to Live) value is the lifespan of the packet in the network, after which it's discarded after a certain number of hops through routers. The common benchmark is 64, but TTL can be higher if the data packet is sent through a complex network. But a drastically longer one deserves a closer look to ensure your network is functioning smoothly.
 
@@ -106,10 +90,6 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
  The ping command supports a "/t" parameter that specifies that it should continue sending echo requests to the destination server until interrupted. If you use this parameter when running the ping test, your device keeps pinging the specified server until you manually stop the test. To stop an ongoing ping test, you can press **Ctrl + C** or press **Ctrl + Enter** to stop and display the data.
 
 ![Stopping the ping test to analyze results in Windows Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3-stop-the-ping-test-by-pressing-ctrl-c-keys-in-windows-command-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Can the Ping Command Do for You?
 
@@ -131,22 +111,16 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-gopro-hero5-vs-yi-4k-the-ultimate-showdown-in-cam-tech/"><u>[New] 2024 Approved GoPro Hero5 Vs. Yi 4K The Ultimate Showdown in Cam Tech</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-making-classroom-content-video-editing-insights/"><u>[New] Making Classroom Content Video Editing Insights</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-effective-thumbnails-the-secret-to-video-success-for-2024/"><u>[Updated] Effective Thumbnails The Secret to Video Success for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-masterfb-mp4-the-ultimate-downloader-for-vids-for-2024/"><u>[Updated] MasterFB-MP4 The Ultimate Downloader for Vids for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/advanced-techniques-in-windows-photo-editing/"><u>Advanced Techniques in Windows Photo Editing</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/amazing-alexa-experience-in-a-small-package-exploring-the-echo-dot-3rd-gen-review/"><u>Amazing Alexa Experience in a Small Package: Exploring the Echo Dot (3Rd Gen) Review</u></a></li>
-<li><a href="https://windows11.techidaily.com/conquer-ppt-file-saving-challenges-swift-solutions-in-windows-11/"><u>Conquer PPT File Saving Challenges: Swift Solutions in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/engagingnotabledarkthemefornotepadwin/"><u>EngagingNotableDarkThemeForNotepadWin</u></a></li>
-<li><a href="https://windows11.techidaily.com/explore-worldwide-efficient-mouse-skills-via-powertoys/"><u>Explore Worldwide - Efficient Mouse Skills via PowerToys</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-enjoy-fandango-movies-from-home-with-apple-tv/"><u>Guide: Enjoy Fandango Movies From Home with Apple TV</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-get-the-newest-driver-for-your-epson-l3150-on-windows-10-8-and-7-step-by-step/"><u>How to Get the Newest Driver for Your Epson L3150 on Windows 10, 8 & 7 - Step by Step</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-motorola-edge-2023-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Motorola Edge 2023 Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigate-linguistic-landscapes-smoothly-via-keyboard-shortcuts-in-win1011/"><u>Navigate Linguistic Landscapes Smoothly via Keyboard Shortcuts in Win10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcome-apex-crashes-essential-steps-for-windows-11-gamers/"><u>Overcome Apex Crashes: Essential Steps for Windows 11 Gamers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategic-methods-to-address-steam-logins-delay-rust-and-windows-focus/"><u>Strategic Methods to Address Steam Logins Delay: Rust & Windows Focus</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-essential-techniques-boosting-your-virtual-memory-in-windows-11/"><u>The Essential Techniques: Boosting Your Virtual Memory in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-windows-11s-registry-a-guide-to-its-components/"><u>Unveiling Windows 11'S Registry: A Guide to Its Components</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-premium-monitors-the-best-5-selection-for-ps5-gaming/"><u>[New] In 2024, Premium Monitors The Best 5 Selection for PS5 Gaming</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-masterclasses-on-obtaining-visual-elements-for-2024/"><u>[New] Masterclasses on Obtaining Visual Elements for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-reclaim-your-loss-with-these-top-10-iphone-x-hacks/"><u>[New] Reclaim Your Loss with These Top 10 iPhone X Hacks</u></a></li>
+<li><a href="https://windows11.techidaily.com/find-and-fix-your-missing-camera-on-device-screen/"><u>Find & Fix Your Missing Camera on Device Screen</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-fixing-inaccessible-click-areas-in-windows-11/"><u>Guide to Fixing Inaccessible Click Areas in Windows 11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-perfect-photo-finishes-picarts-background-erase-method/"><u>In 2024, Perfect Photo Finishes PicArt's Background Erase Method</u></a></li>
+<li><a href="https://windows11.techidaily.com/integrating-oracles-jvm-in-windows-11-pro-edition/"><u>Integrating Oracle's JVM in Windows 11 Pro Edition</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-perfect-pause-removing-unwanted-noise-and-music-from-your-imovie-videos/"><u>New In 2024, Perfect Pause Removing Unwanted Noise and Music From Your iMovie Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplified-systems-choose-windows-11-tiny/"><u>Simplified Systems: Choose Windows 11 Tiny</u></a></li>
+<li><a href="https://windows11.techidaily.com/turbo-charging-steam-downloads-a-windows-guide/"><u>Turbo-Charging Steam Downloads: A Windows Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-the-performance-and-power-of-lenovos-newest-gen-8-legion-slim-5-with-amd-in-depth-analysis-for-gamers/"><u>Unveiling the Performance and Power of Lenovo's Newest Gen 8 Legion Slim 5 with AMD – In-Depth Analysis for Gamers</u></a></li>
 </ul></div>
 

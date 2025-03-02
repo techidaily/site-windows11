@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Configure Time Zones on Windows Manually"
-date: 2024-08-15T15:35:28.624Z
-updated: 2024-08-16T15:35:28.624Z
+date: 2025-02-26T01:19:29.707Z
+updated: 2025-03-02T03:55:24.543Z
 tags:
   - windows10
   - windows11
@@ -24,9 +24,6 @@ thumbnail: https://thmb.techidaily.com/c6a00ed9bc739f2f19c543f786366f0b15e1dcc95
 
  To restart your computer, save all your work and close any running applications. After that, open the Start menu and click **Restart**. Once your computer restarts, check if that fixes the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Turn on Location Services in the Settings
 
  If restarting your computer didn't fix the issue, check if location services are enabled. Location services allow Windows to automatically detect the time zone and set it accordingly.
@@ -55,18 +52,11 @@ thumbnail: https://thmb.techidaily.com/c6a00ed9bc739f2f19c543f786366f0b15e1dcc95
 4. Right-click the service and select **Properties**.
 5. In the Properties window, set the **Startup type** to **Automatic**.  
 ![Windows Time Service Status](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-time-service-status.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 6. Now check the **Service status**. If it reads **Stopped**, click the **Start** button to start the service.
 7. Click **Apply** and **OK** to save the changes.
 
  Once you've done this, restart your PC and check the time zone settings.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Tweak the Registry Editor
 
  If Windows still fails to detect the time zone or the "Set time zone automatically" option is still grayed out, you may need to tweak your registry. This is a more technical solution and requires registry knowledge. If you're not good at registry editing, skip this step or ask a professional for help.
@@ -82,9 +72,6 @@ The ultimate burning program for all your needs!</a>
 `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\tzautoupdate`
 5. In the right pane, double-click the **Start** (DWORD) value.  
 ![Modify Registry to change the Set time zone automatically setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/modify-registry-to-change-the-set-time-zone-automatically-setting.jpg)
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. When the Edit DWORD Value window pops up, set the Value data to **3** and click **OK**.
 7. After doing this, you must change the location setting. To do this, navigate to the following key:  
 `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\location`  
@@ -95,9 +82,6 @@ The ultimate burning program for all your needs!</a>
 
  After that, close the Registry Editor and restart your PC. Windows should detect the time zone automatically and set it correctly.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ## 5\. Use the Group Policy Editor
 
  If you're comfortable with registry editing, use the Group Policy Editor instead. However, the tool is only compatible with Windows Pro and Enterprise editions. If you're not a Pro user, [activate the Group Policy for Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/), then follow these steps:
@@ -113,9 +97,6 @@ The ultimate burning program for all your needs!</a>
 
  Now close the Group Policy Editor and restart your PC. After restarts check if your Windows detects the time zone automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## 6\. Reset the Windows Time Service
 
  This problem may also occur if the Windows Time Service or time synchronization settings become corrupted. In that case, reset the service to its default settings and see if that helps. Here's how to do it:
@@ -142,8 +123,6 @@ The ultimate burning program for all your needs!</a>
 
  We hope the article helped you resolve timing issues on your Windows computer. It may occur due to missing or corrupted system files or incorrect time zone settings. Make sure to try these solutions and perform a System Restore if the problem persists.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -151,5 +130,22 @@ The ultimate burning program for all your needs!</a>
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-alternative-software-for-laptoppc-video-editing/"><u>[New] 2024 Approved Alternative Software for Laptop/PC Video Editing</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-best-video-titling-solutions-online-now/"><u>[New] 2024 Approved Best Video Titling Solutions Online Now</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-the-pinnacle-strategies-for-persuasive-client-centered-videography/"><u>[New] In 2024, The Pinnacle Strategies for Persuasive Client-Centered Videography</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-mjolnir-strikes-back-release-day-for-2024/"><u>[New] Mjölnir Strikes Back! Release Day for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-a-simple-path-to-enhanced-youtube-sign-ups-create-animated-subscription-bar-using-filmora/"><u>[Updated] 2024 Approved A Simple Path to Enhanced YouTube Sign-Ups - Create Animated Subscription Bar Using Filmora</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-discerning-t-series-profit-mechanisms-from-youtube-views/"><u>2024 Approved Discerning T-Series' Profit Mechanisms From Youtube Views</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/enhance-digital-engagement-with-our-expertise-in-cookiebot-technology-solutions/"><u>Enhance Digital Engagement with Our Expertise in Cookiebot Technology Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reactivate-the-printer-spooler-in-windows/"><u>How to Reactivate the Printer Spooler in Windows</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-xiaomi-redmi-13c-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Xiaomi Redmi 13C 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-window-11-functionality-through-enhanced-run-capabilities/"><u>Mastering Window 11 Functionality Through Enhanced Run Capabilities</u></a></li>
+<li><a href="https://windows11.techidaily.com/pivot-points-in-pc-os-history-w10-and-w11s-distinct-traits/"><u>Pivot Points in PC OS History: W10 and W11's Distinct Traits</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premier-selection-top-8-webcams-transform-livestreaming-for-2024/"><u>Premier Selection Top 8 Webcams Transform Livestreaming for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/premium-climate-apps-for-modern-windows-users/"><u>Premium Climate Apps for Modern Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/transformative-techniques-for-mastering-windows-11-taskbar/"><u>Transformative Techniques for Mastering Windows 11 Taskbar</u></a></li>
+<li><a href="https://windows11.techidaily.com/unseen-wi-fi-networks-how-to-make-them-visible-win11/"><u>Unseen Wi-Fi Networks: How to Make Them Visible Win11</u></a></li>
+</ul></div>
 

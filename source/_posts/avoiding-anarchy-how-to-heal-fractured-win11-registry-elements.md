@@ -1,7 +1,7 @@
 ---
 title: "Avoiding Anarchy: How to Heal Fractured Win11 Registry Elements"
-date: 2024-08-15T15:31:48.358Z
-updated: 2024-08-16T15:31:48.358Z
+date: 2025-02-26T08:58:10.763Z
+updated: 2025-03-02T04:42:08.891Z
 tags:
   - windows10
   - windows11
@@ -32,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/7e535a24da23299616c0c4ebf30823de033f9fe39
 
  Try out the following methods to fix the broken registry items on your Windows 11 system:
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. Use the Disk Cleanup Tool
 
  Rather than installing a third-party cleanup tool, try the Windows Disk Cleanup utility. It is an old yet trustworthy utility included with every copy of Windows OS. You can use it to clear system clutter which also clears registry associations of some apps. Repeat the following steps:
@@ -56,9 +53,6 @@ thumbnail: https://thmb.techidaily.com/7e535a24da23299616c0c4ebf30823de033f9fe39
 3. Windows will restart and boot to the Windows Recovery options page. Navigate to**Troubleshoot > Advanced options** .
 4. On the**Advanced options** page, select the**Startup Repair** option.  
 ![Using Startup Repair in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/using-startup-repair-in-windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 5. The utility will begin diagnosing your system and attempt repairs. After that,**restart** your system.
 
 ### 3\. Run an SFC Scan
@@ -72,9 +66,6 @@ thumbnail: https://thmb.techidaily.com/7e535a24da23299616c0c4ebf30823de033f9fe39
 4. Patiently wait for the utility to scan and replace files on your system.
 5. **Close** the command prompt window and restart your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 4\. Try a DISM Scan
 
  DISM is also a command line tool, but it can scan and repair Windows System Image files. The utility can work in both online and offline modes. Repeat the following steps to run a DISM scan:
@@ -82,15 +73,9 @@ thumbnail: https://thmb.techidaily.com/7e535a24da23299616c0c4ebf30823de033f9fe39
 1. Press**Win + S** to launch Windows search. Search for**CMD** , and select the**Run as administrator** option from the right pane.
 2. Once CMD launches with elevated permissions, type**DISM /Online /Cleanup-Image /RestoreHealth** command and press the**enter** key.  
 ![Run a DISM Scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-a-dism-scan-in-windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Wait for the tools to scan and repair the problems with the system image.
 4. Finally,**close** the command prompt and restart your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Import an Old Registry Backup
 
  If you have a habit of [creating registry backups on Windows](https://www.makeuseof.com/tag/backup-restore-windows-registry/) , it could solve the broken registry items issue with your system. When you encounter issues, you can import the old registry backup when the system was working fine.
@@ -100,9 +85,6 @@ Here’s how you can import an old backup in Windows Registry:
 1. Press**Win + R** to open the Run dialog box. Then, enter**regedit** in the text box and press the**Enter** key to launch the registry editor.
 2. Go to the top bar in the Registry Editor window and click on**File > Import** .  
 ![Importing old registry backup in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/importing-old-registry-backup-in-windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 3. Navigate to the registry backup file location on your system.**Select** the registry file and click on the**Open** button to begin importing the file.
 4. Wait for a few minutes for the import to complete.**Restart** your system.
 
@@ -129,9 +111,6 @@ Repeat the following steps to perform a system restore:
 3. You will see a list of all the available restore points created by program installations or Windows updates.
 4. **Select** the most recent restore point from the list and then click on the**Scan for affected programs** button. Note down these programs or take a screenshot because you will have to reinstall them again.  
 ![Restore Windows 11 to an old but working state](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/restore-windows-11-to-an-old-but-working-state.jpg)
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Click on the**Close** button. In the System Restore window click on the**Next** button.
 6. Confirm your restore point selection and click on the**Finish** button.
 7. Your system will restart automatically to apply the restore point. It will then automatically boot to the desktop.
@@ -140,21 +119,15 @@ Repeat the following steps to perform a system restore:
 
  If System Restore fails to do the trick, you are left with the last arrow in your troubleshooting quiver:[performing a factory reset on Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) . It will wipe all the drivers and programs and revert the system to a clean state. However, you can save your files and documents if you pick the**Keep my files** option while resetting your Windows 11 computer.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Keep Your Registry Safe From Corruption
 
  If your Windows Registry has seen better days, start by running disk cleanup and SFC and DISM scans. Then scan your system for malware infestation and import an old registry backup (if you have one). Lastly, leverage the system restore utility or reset your Windows PC.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -163,8 +136,23 @@ Repeat the following steps to perform a system restore:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-enthralling-3d-experience-selecting-top-blu-ray-decks-for-2024/"><u>[Updated] Enthralling 3D Experience Selecting Top Blu-Ray Decks for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/eye-on-video-the-premier-cameras-excellence-for-2024/"><u>Eye on Video The Premier Cameras Excellence for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-maintain-notebook-visibility-on-win-1011/"><u>How to Maintain Notebook Visibility on Win 10/11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-x90s-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo X90S</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/keeping-track-saving-insta-visuals-on-iphone/"><u>Keeping Track Saving Insta Visuals on iPhone</u></a></li>
+<li><a href="https://windows11.techidaily.com/launch-successfully-guiding-through-startup-services-in-windows-11/"><u>Launch Successfully: Guiding Through Startup Services in Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-4k-video-uploads-a-comprehensive-tutorial-for-instagram-users/"><u>Mastering 4K Video Uploads: A Comprehensive Tutorial for Instagram Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-wake-on-lid-closure-in-windows-devices/"><u>Mastering Wake on Lid Closure in Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fix-for-disabling-audio-playback-errors/"><u>Quick Fix for Disabling Audio Playback Errors</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/recognizing-and-avoiding-counterfeit-apple-id-fraud-insights-from-malwarefox/"><u>Recognizing and Avoiding Counterfeit Apple ID Fraud: Insights From MalwareFox</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-frostpunk-stability-issues-and-preventing-future-crashes/"><u>Resolving Frostpunk Stability Issues and Preventing Future Crashes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-the-issue-of-a-missing-avcodecdll-file/"><u>Resolving the Issue of a Missing avcodec.dll File</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-functionality-to-your-pc-writes-via-steam/"><u>Restoring Functionality to Your PC' Writes via Steam</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-restore-active-window-defense-system/"><u>Strategies to Restore Active Window Defense System</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-to-reinstate-lost-mcuicnt-file-in-windows/"><u>Techniques to Reinstate Lost McUICnt File in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-photos-clever-trick-for-image-renewal/"><u>Windows Photos' Clever Trick for Image Renewal</u></a></li>
+</ul></div>
 

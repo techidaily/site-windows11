@@ -1,7 +1,7 @@
 ---
 title: Navigating Non-Responsive Power Controls in Win11
-date: 2025-01-16T18:26:43.085Z
-updated: 2025-01-22T19:13:31.546Z
+date: 2025-03-01T11:23:34.250Z
+updated: 2025-03-02T02:24:22.724Z
 tags:
   - windows10
   - windows11
@@ -45,22 +45,10 @@ Here is how you can proceed:
 ![Click on Power Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/win11-power-options.jpg)
 5. You should now be able to see your current power plan. Click on**Create a power plan** in the left pane.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Create a power plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/create-power-plan-1.jpg)
 6. Choose the**Balanced power plan** and click**Next** \>**Create** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Click on the Create button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-power-plan-next-create.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Once done, check if you can now change the power mode successfully.
 
@@ -77,10 +65,6 @@ Here is how you can run the troubleshooter:
 3. Click on**Other troubleshooters** .  
 ![Click on Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/other-troubleshooters-win11.jpg)
 4. Now, look for the Power troubleshooter and click on the**Run** button for it.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Run the Power troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/power-troubleshooter-win11.jpg)
 5. Wait for the troubleshooter to complete its process, and then check the results. If the troubleshooter has found any issues, click on**Apply this fix** to proceed with the relevant solutions. Otherwise, click on**Close the troubleshooter** and move to the next method below.
@@ -122,10 +106,6 @@ Hopefully, this will resolve the issue.
 
  In this case, you can choose a state where the current issue is not present.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Switch Power Modes Easily
 
  By now, you should be able to switch the power modes successfully. However, if you are still experiencing the problem and cannot find a way around it, then you can contact the official Microsoft team and report the issue to them. They will likely be able to find the root cause of the issue and suggest a fix.
@@ -147,18 +127,16 @@ Hopefully, this will resolve the issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-unveiling-top-10-destinations-for-high-end-vectors/"><u>[New] 2024 Approved Unveiling Top 10 Destinations for High-End Vectors</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-building-impressive-facebook-slideshows-a-practical-guide/"><u>[New] In 2024, Building Impressive Facebook SlideShows A Practical Guide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-exploring-the-creme-de-la-creme-of-android-mobas-10-for-2024/"><u>[Updated] Exploring the Crème De La Crème of Android MOBAs (#10) for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-from-fragmented-to-flawless-mastering-kinemaster-edits/"><u>[Updated] From Fragmented to Flawless Mastering Kinemaster Edits</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-kinemaster-app-for-android-a-comprehensive-insight-review/"><u>[Updated] KineMaster App for Android A Comprehensive Insight Review</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-steps-for-windows-11s-software-distro-and-catroot2-restart/"><u>Essential Steps for Windows 11'S Software Distro and Catroot2 Restart</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-the-colors-of-wings-in-bebops-parrot-edition-for-2024/"><u>Exploring the Colors of Wings in Bebop's Parrot Edition for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-overscan-in-windows-to-fit-the-screen/"><u>How to Fix Overscan in Windows to Fit the Screen</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimal-screen-capture-options-avoiding-windows-snipping-feature/"><u>Optimal Screen Capture Options: Avoiding Windows’ Snipping Feature</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimize-windows-security-modifying-context-menu-with-firewalls/"><u>Optimize Windows Security: Modifying Context Menu with Firewalls</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-fluctuating-playback-top-9-solutions-for-smooth-videos-on-pcs/"><u>Overcoming Fluctuating Playback: Top 9 Solutions for Smooth Videos on PCs</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-10-most-shared-stock-photos-and-their-tales/"><u>Top 10 Most Shared Stock Photos and Their Tales</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-solutions-to-workaround-folder-naming-limitations-on-windows-11/"><u>Top Solutions to Workaround Folder Naming Limitations on Windows 11</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enterprise-level-data-wipe-with-bitraser-secure-video-guide/"><u>Enterprise-Level Data Wipe with BitRaser: Secure Video Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-predictive-ai-its-method-and-mechanics-unfolded/"><u>Exploring Predictive AI: Its Method and Mechanics Unfolded</u></a></li>
+<li><a href="https://windows11.techidaily.com/failed-ms-pc-manager-on-win-explore-solutions-now/"><u>Failed MS PC Manager on Win? Explore Solutions Now</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-of-iphone-6-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/maximizing-zoom-meeting-insight-through-grid-view-settings/"><u>Maximizing Zoom Meeting Insight Through Grid View Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-windows-cab-files-and-their-setup-process/"><u>Navigating Through Windows' CAB Files and Their Setup Process</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-6-windows-11-functions-for-better-user-experience/"><u>Optimizing 6 Windows 11 Functions for Better User Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/taming-the-digital-canvas-making-magic-with-paint-tool-sai-and-win11-for-ai-art/"><u>Taming the Digital Canvas: Making Magic with Paint Tool SAI & Win11 for AI Art</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-polyglot-at-the-pole-santa-claus-explained/"><u>The Polyglot at the Pole: Santa Claus Explained</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-fixing-age-of-empires-2-compatibility-with-windows-10/"><u>Troubleshooting Steps for Fixing Age of Empires 2 Compatibility with Windows 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-unsuccessful-files-download-on-windows-11/"><u>Troubleshooting Unsuccessful Files Download on Windows 11</u></a></li>
 </ul></div>
 

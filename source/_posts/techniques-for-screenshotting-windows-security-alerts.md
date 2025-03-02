@@ -1,7 +1,7 @@
 ---
 title: Techniques for Screenshotting Windows' Security Alerts
-date: 2024-08-15T15:30:24.525Z
-updated: 2024-08-16T15:30:24.525Z
+date: 2025-03-01T09:51:55.052Z
+updated: 2025-03-01T20:07:38.866Z
 tags:
   - windows10
   - windows11
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/0217ab2f78f4ec22b4e817c364c8596747881cd4c
 
  To disable the desktop dimming feature, refer to our guide on [how to disable the desktop dimming feature on Windows](https://www.makeuseof.com/windows-disable-dimmed-secure-desktop/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## How to Grab a Screenshot of UAC
 
  The desktop dimming feature isn’t active on your system now. So, you won’t face any issues when you attempt to take a screenshot on Windows. Just Press the**Win + PrintScreen** combination to grab a screenshot of the UAC window. You can even use some [tips to capture screenshots the right way on Windows](https://www.makeuseof.com/windows-screenshot-guide/) to get your image picture-perfect.
@@ -36,27 +33,18 @@ thumbnail: https://thmb.techidaily.com/0217ab2f78f4ec22b4e817c364c8596747881cd4c
  Now that the dimming feature is gone, you can use any tool you like to capture UAC messages. The Snipping Tool will be able to capture the screen (both audio and video) without any issues, and this also goes for any of [the best screenshot apps and tools on Windows](https://www.makeuseof.com/tag/best-screenshot-tools-windows/) .
 
 ![UAC Dimming Feature Disabled on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/uac-dimming-feature-disabled-on-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  However, as we covered above, make sure to re-enable the desktop dimming feature in User Account Control Settings after you finish your screenshotting session. As annoying as it may be, the blur effect is still UAC's first line of defense against malware.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Capture UAC Screenshots Easily on Windows
 
  Windows uses User Account Control to keep you informed about any app that wants administrative access. But the screen dining overlay makes it difficult to grab screenshots for system administrators and technical writers. However, you can temporarily disable the screen dimming feature, take screenshots, and then re-enable it afterward to protect your PC again.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -65,8 +53,20 @@ thumbnail: https://thmb.techidaily.com/0217ab2f78f4ec22b4e817c364c8596747881cd4c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-maintaining-image-integrity-effective-instagram-photowatermarking-for-2024/"><u>[New] Maintaining Image Integrity Effective Instagram Photowatermarking for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-navigating-the-best-spots-for-quality-instagram-ringtone-purchases/"><u>[New] Navigating the Best Spots for Quality Instagram Ringtone Purchases</u></a></li>
+<li><a href="https://article-posts.techidaily.com/dynamic-time-lapse-capturing-the-world-in-motion-on-android-for-2024/"><u>Dynamic Time-Lapse Capturing the World in Motion on Android for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-a05-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy A05 Phones with/without a PC</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/live-streaming-mastery-top-features-of-manycam-and-virtual-camera-solutions/"><u>Live Streaming Mastery: Top Features of ManyCam and Virtual Camera Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/masterful-tricks-for-completing-100-windows-update/"><u>Masterful Tricks for Completing 100% Windows Update</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-your-way-through-playstation-1-games-in-windows-with-duckstation/"><u>Mastering Your Way Through PlayStation 1 Games in Windows with Duckstation</u></a></li>
+<li><a href="https://article-tips.techidaily.com/mirrorless-mastery-10-best-stabilizing-choices/"><u>Mirrorless Mastery 10 Best Stabilizing Choices</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-windows-protection-service-couldnt-complete-task-best-fixes-and-techniques/"><u>Solve 'Windows Protection Service Couldn't Complete Task': Best Fixes & Techniques</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-to-updating-your-lenovo-t45-cuffs-drivers-quick-method/"><u>Step-by-Step Guide to Updating Your Lenovo T45 Cuffs Drivers - Quick Method</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-your-system-flush-steam-dns-cache-efficiently/"><u>Streamlining Your System: Flush Steam DNS Cache Efficiently</u></a></li>
+<li><a href="https://windows11.techidaily.com/ups-and-downs-on-the-desktop-frontier-comparing-w10-and-w11/"><u>Ups and Downs on the Desktop Frontier: Comparing W10 & W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/validate-your-gpus-mettle-using-these-6-tools-on-pc/"><u>Validate Your GPU's Mettle Using These 6 Tools on PC</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Steps for Stopping Auto-Recommended Game Suggestion
-date: 2024-08-15T15:37:38.491Z
-updated: 2024-08-16T15:37:38.491Z
+date: 2025-02-24T07:21:03.347Z
+updated: 2025-03-02T05:54:55.240Z
 tags:
   - windows10
   - windows11
@@ -30,15 +30,9 @@ thumbnail: https://thmb.techidaily.com/df49fa8741560cd4a2c304321a86cf5312094c292
 
  Luckily, there's a way to disable this feature.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Toggle Off Search Highlights and Remove the "Games for You" Recommendations
 
 ![screenshot of searching for search highlights in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot_of_search_highlights_in_windows_11_start_menu.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 
  Turning this feature off is straightforward. Open up your start menu, search for **Search Highlights**, and click on the result.
 
@@ -46,15 +40,9 @@ thumbnail: https://thmb.techidaily.com/df49fa8741560cd4a2c304321a86cf5312094c292
 
  Restart your system, and the Games for You section will be gone.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Will Doing This Turn Off Other Ads?
 
 ![screenshot of the search menu with no highlights](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot_of_search_menu_no_highlights.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Yes. Switching off this feature will disable all the search highlights mentioned before. You won't be suggested videos or shown trending news articles.
 
@@ -62,16 +50,11 @@ thumbnail: https://thmb.techidaily.com/df49fa8741560cd4a2c304321a86cf5312094c292
 
  Unfortunately, there's no way to disable individual sections. Search Highlights is an all-in-one package.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Remove Redundant Information on Windows
 
  For users who want less clutter on their screen, it's great that we're able to quickly turn search highlights off. For users who appreciate search highlights, but might not care for games, it's disappointing that it's an all-or-nothing setting. Hopefully, Microsoft will make this feature more modular in the future.
 
  Let's look at how we can disable the "games for you" recommendation on Windows 11\.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -80,5 +63,20 @@ thumbnail: https://thmb.techidaily.com/df49fa8741560cd4a2c304321a86cf5312094c292
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-creating-costless-webinars-on-youtube-a-handbook/"><u>[New] 2024 Approved Creating Costless Webinars on YouTube A Handbook</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-elevating-your-instagram-presence-with-optimized-video-sizes/"><u>[New] In 2024, Elevating Your Instagram Presence with Optimized Video Sizes</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-free-media-player-apps-for-windows-11-and-mac-top-picks/"><u>Best Free Media Player Apps for Windows 11 & Mac: Top Picks</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/exclusive-list-best-online-video-to-mp3-tools-for-2024/"><u>Exclusive List Best Online Video to Mp3 Tools for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-to-removing-the-enhanced-keyboard-function-sticky-keys-on-a-windows-machine/"><u>Guide to Removing the Enhanced Keyboard Function (Sticky Keys) on a Windows Machine</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-infinix-smart-7-hd-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Infinix Smart 7 HD</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-motorola-g24-power-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Motorola G24 Power?</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-quick-freezing-of-selected-row-groups-in-ms-excel-a-step-by-step-guide/"><u>Mastering the Quick Freezing of Selected Row Groups in MS Excel: A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/netatmo-weather-station-unveiled-a-must-have-device-for-app-savvy-meteorologists/"><u>Netatmo Weather Station Unveiled: A Must-Have Device For App-Savvy Meteorologists</u></a></li>
+<li><a href="https://windows11.techidaily.com/one-click-syncing-of-ms-excel-workbooks-with-onedrive-explained/"><u>One-Click Syncing of MS Excel Workbooks with OneDrive Explained</u></a></li>
+<li><a href="https://windows11.techidaily.com/save-time-and-effort-with-quick-excel-solutions-no-more-manual-file-organization/"><u>Save Time and Effort with Quick Excel Solutions - No More Manual File Organization!</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamlessly-moving-your-contacts-converting-excel-data-for-use-in-outlook/"><u>Seamlessly Moving Your Contacts: Converting Excel Data for Use in Outlook</u></a></li>
+<li><a href="https://windows11.techidaily.com/securing-your-files-a-guide-to-encrypting-documents-and-pdfs-using-microsoft-office-tools/"><u>Securing Your Files: A Guide to Encrypting Documents & PDFs Using Microsoft Office Tools</u></a></li>
+</ul></div>
 

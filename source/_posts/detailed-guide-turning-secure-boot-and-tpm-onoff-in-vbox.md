@@ -1,7 +1,7 @@
 ---
 title: "Detailed Guide: Turning Secure Boot and TPM On/Off in VBox"
-date: 2024-08-15T15:34:59.540Z
-updated: 2024-08-16T15:34:59.540Z
+date: 2025-03-01T01:17:31.366Z
+updated: 2025-03-02T11:42:39.796Z
 tags:
   - windows10
   - windows11
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/b2e687db976d53413ad200065943dddbaf2bd03eb
 
  While Windows 11 can work without Secure Boot and a TPM 2.0 chip, it won't be able to offer that extra layer of system protection it would do otherwise. Many features like Core-isolation, Data Encryption won't work. If you want to enable or disable these features for Windows 10 or 11 virtual machines, you can do so in VirtualBox 7.0.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Enable or Disable Secure Boot and TPM Support in VirtualBox 7.0
 
  Repeat the following steps to enable TPM 2.0 and Secure Boot in VirtualBox.
@@ -41,49 +38,31 @@ thumbnail: https://thmb.techidaily.com/b2e687db976d53413ad200065943dddbaf2bd03eb
 6. Scroll down and locate the**Extended Features** section. Click on the**Enable EFI (special OSes only)** option check box.
 7. Then click on the**Enable Secure Boot** option check box.  
 ![Enable Secure Boot and TPM Support in VirtualBox 7.0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/enable-secure-boot-and-tpm-support-in-virtualbox-7-0.jpg)
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8. Now, click on the**OK** button. The settings window will close automatically.
 9. Go to the top area and click on the**Start** button to power on the Windows virtual machine.
 10. Now, press the Win key and search Security. Open the**Windows security** app.
 11. Navigate to the left-hand side menu and click on the**Device Security** option. Here, all Windows security features will be active.
 12. To disable TPM and Secure Boot, reopen the virtual machine settings and set the TPM version to**None** . Uncheck the**Enable EFI (special OSes only)** option check box. Click on**OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ### An Alternative Method to Check if TPM Is Active in the Windows Virtual Machine
 
 Here's how to check TPM on Windows 11 virtual machine:
 
 1. Press the**Win + R** key to launch the Run command box (see [how to open Windows Run](https://www.makeuseof.com/windows-open-run-command-dialog-box/) for more ways). Type**TPM.msc** and press the**Enter** key.  
 ![check TPM on Windows 11 virtual machine 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/check-tpm-on-windows-11-virtual-machine-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. TPM utility will launch. Navigate to the Manufacturer Information section.  
 ![check TPM on Windows 11 virtual machine 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/check-tpm-on-windows-11-virtual-machine-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. If the Specification version entry showcases 2.0, it means that TPM chip emulation is successful.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## Manage TPM and Secure Boot Features in VirtualBox With Ease
 
  You can choose to keep both features active or not. After installing Windows 11 as a virtual machine, you can turn TPM and Secure Boot off and not face any issues with the operating system. However, remember that these are important from a security perspective.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -92,8 +71,26 @@ Here's how to check TPM on Windows 11 virtual machine:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-unveiling-ideal-techniques-for-obs-facebook-transition/"><u>[New] 2024 Approved Unveiling Ideal Techniques for OBS-Facebook Transition</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-youtubes-monetization-milestone-500-subscribers-achieved/"><u>[New] In 2024, YouTube's Monetization Milestone 500 Subscribers Achieved</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-how-to-record-screen-with-vidmore-screen-recorder/"><u>[Updated] 2024 Approved How to Record Screen with Vidmore Screen Recorder</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-keeping-memories-above-ground-selecting-the-best-cloud-storage-for-2024/"><u>[Updated] Keeping Memories Above Ground Selecting the Best Cloud Storage for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-an-affordable-diy-google-vr-system-at-home/"><u>Crafting an Affordable DIY Google VR System at Home</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dells-guide-to-restoring-usb-port-functionality-solved/"><u>Dell's Guide to Restoring USB Port Functionality - Solved!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discovering-the-power-in-small-size-the-ultimate-review-of-feelworld-dh101-monitor/"><u>Discovering the Power in Small Size: The Ultimate Review of Feelworld DH101 Monitor</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-guide-overcoming-outlook-crashing-issues/"><u>Essential Guide: Overcoming Outlook Crashing Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-correctly-evaluate-processor-load-using-task-manager/"><u>How to Correctly Evaluate Processor Load Using Task Manager</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-get-past-a-non-starting-battlenet-interface/"><u>How to Get Past a Non-Starting Battle.net Interface</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722962653063-keep-the-denominator-as-is-8/"><u>Keep the Denominator as Is: 8</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-the-art-of-regaining-win-folder-entry/"><u>Master the Art of Regaining Win Folder Entry</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-heic-jpeg-conversions-on-windows/"><u>Mastering HEIC-JPEG Conversions on Windows</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ng-into-youtube-interactive-threads-for-2024/"><u>Peering Into YouTube Interactive Threads for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinstate-audio-preferences-winvolume-issue-resolution/"><u>Reinstate Audio Preferences: WinVolume Issue Resolution</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/selecting-the-ideal-cryptocurrency-a-comprehensive-guide-by-yl-computing/"><u>Selecting the Ideal Cryptocurrency: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-realign-file-history-configurations-in-windows/"><u>Steps to Realign File History Configurations in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-essential-guide-to-windows-11-widget-bar-activation/"><u>The Essential Guide to Windows 11 Widget Bar Activation</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-windows-11-help-app-restoration/"><u>Tips for Windows 11 Help App Restoration</u></a></li>
+</ul></div>
 

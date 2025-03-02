@@ -1,7 +1,7 @@
 ---
 title: "Fast Factor: Essential Steps for Assessing LAN Router Speed"
-date: 2024-08-15T15:37:07.296Z
-updated: 2024-08-16T15:37:07.296Z
+date: 2025-02-25T23:13:01.968Z
+updated: 2025-03-02T05:52:18.026Z
 tags:
   - windows10
   - windows11
@@ -32,9 +32,6 @@ To check the network adapter speed via the Settings app:
 4. Scroll down to the**Link speed (Receive/Transmit)** field to check the connection speed.  
 ![Check Network Adapter Speed Using the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/check-network-adapter-speed-using-the-windows-settings-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. How to Check the Network Adapter Connection Speed Using Control Panel
 
  Although Microsoft is gradually moving a large number of features to the Settings app, many people still prefer to use the Control Panel to modify settings and troubleshoot issues. If you are one of them, here's how you can check the network adapter connection speed via Control Panel.
@@ -47,15 +44,9 @@ To check the network adapter speed via the Settings app:
 6. Double-click on your Ethernet or Wi-Fi adapter to open its properties.
 7. Check the connection speed of your network adapter in the**Speed** field.  
 ![Check Network Adapter Speed Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/check-network-adapter-speed-using-control-panel.jpg)
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Seeing too many network adapter entries on your Windows computer? Learn [how to get rid of old or inactive network adapters from Windows](https://www.makeuseof.com/how-to-remove-network-adapter-windows/) in a few easy steps.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. How to Check Network Adapter Connection Speed via Command Prompt
 
  Not a fan of GUI? No problem. You can also use a command-line utility like Command Prompt to check the network adapter connection speed on Windows. Here are the steps for the same.
@@ -66,20 +57,9 @@ To check the network adapter speed via the Settings app:
 `netsh wlan show interfaces`
 4. Check the values next to**Receive rate** and**Transmit rate** to determine the speed of your network adapter.  
 ![Check Network Adapter Speed Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/check-network-adapter-speed-using-command-prompt.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 
  Like using Command Prompt? Check our guide on [how to master Command Prompt on Windows](https://www.makeuseof.com/tag/windows-10-command-prompt-tips/) .
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## 4\. How to Check Network Adapter Connection Speed via PowerShell
 
  PowerShell is yet another command-line tool you can use to interact with Windows. Although PowerShell is primarily used to automate tasks and troubleshoot errors, you can also use it to find system information such as the network adapter speed.
@@ -91,9 +71,6 @@ To check network adapter connection speed via PowerShell:
 3. Paste the following command in the console and press**Enter** .  
 `Get-NetAdapter | select interfaceDescription, name, status, linkSpeed`  
 ![Check Network Adapter Speed Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/check-network-adapter-speed-using-powershell.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 
  Once you run the above command, PowerShell will display a list of all the Ethernet and Wi-Fi adapters on your Windows computer, along with their link speeds.
 
@@ -101,14 +78,11 @@ To check network adapter connection speed via PowerShell:
 
  As we just learned, determining the network adapter connection speed on Windows is relatively simple. Do you know what else is easy? Speeding up the internet connection speed on your Windows computer.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -117,8 +91,22 @@ To check network adapter connection speed via PowerShell:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-best-practices-in-digital-image-creation-for-youtube/"><u>[New] In 2024, Best Practices in Digital Image Creation for YouTube</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twittersphere-treasures-primes-top-watchers-and-likes/"><u>[New] In 2024, Twittersphere Treasures Prime’s Top Watchers & Likes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-total-data-for-uninterrupted-viewer-experience/"><u>[New] Total Data for Uninterrupted Viewer Experience</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-uncover-the-joyful-journey-best-comedy-and-sadness-on-insta/"><u>2024 Approved Uncover the Joyful Journey Best Comedy & Sadness on Insta</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/eternal-access-to-mondlys-best-with-zero-price/"><u>Eternal Access to Mondly's Best with Zero Price!</u></a></li>
+<li><a href="https://windows11.techidaily.com/gaming-without-the-heat-wave-tips-for-laptop-users/"><u>Gaming Without the Heat Wave: Tips for Laptop Users</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-samsung-galaxy-a05s-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Samsung Galaxy A05s to New Phone | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-unlocking-the-full-potential-of-apple-tv-with-fb-video-streams/"><u>In 2024, Unlocking the Full Potential of Apple TV with FB Video Streams</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-unveiling-effective-strategies-for-fb-in-stream-ad-setup/"><u>In 2024, Unveiling Effective Strategies for FB In-Stream Ad Setup</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-to-recover-notification-banners/"><u>Methods to Recover Notification Banners</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-to-battery-saving-feature-in-windows/"><u>Navigating to Battery Saving Feature in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/post-maintenance-world-what-comes-next-after-windows-781/"><u>Post-Maintenance World: What Comes Next After Windows 7/8.1?</u></a></li>
+<li><a href="https://windows11.techidaily.com/skyrocket-productivity-with-mastered-windows-shortcut-combos/"><u>Skyrocket Productivity with Mastered Windows Shortcut Combos</u></a></li>
+<li><a href="https://windows11.techidaily.com/triggers-for-authentication-control-screen-windows-11/"><u>Triggers for Authentication Control Screen (Windows 11)</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-vivo-y200-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Vivo Y200 Auto Does Not Work | Dr.fone</u></a></li>
+</ul></div>
 

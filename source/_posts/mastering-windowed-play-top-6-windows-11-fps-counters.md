@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windowed Play: Top 6 Windows 11 FPS Counters"
-date: 2024-08-15T15:32:05.306Z
-updated: 2024-08-16T15:32:05.306Z
+date: 2025-02-23T13:36:46.719Z
+updated: 2025-03-02T07:51:08.192Z
 tags:
   - windows10
   - windows11
@@ -36,15 +36,9 @@ thumbnail: https://thmb.techidaily.com/cf88e87b734b5b9f59ddbd2f8f99680f9b1ec3ba8
 
 **Download** :[FRAPS](https://fraps.com/) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## 2\. NZXT Cam
 
 ![NZXT cam fps counter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nzxt-cam-fps-counter.jpg)
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  NZXT Cam is a system performance management utility with some useful features. For example, it features a nice little overlay feature that you can activate with the Ctrl + O hotkey. When enabled, it shows FPS count, CPU, GPU, and RAM utilization. Furthermore, you can configure network and system time information as well.
 
@@ -56,9 +50,6 @@ thumbnail: https://thmb.techidaily.com/cf88e87b734b5b9f59ddbd2f8f99680f9b1ec3ba8
 
 **Download** :[NZXT Cam](https://nzxt.com/software/cam) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Nvidia GeForce Experience Performance Overlay
 
 ![Nvidia GeFroce Experience Performance Overlay](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-gefroce-experience-performance-overlay.jpg)
@@ -78,15 +69,9 @@ To enable Performance overlay:
 
 **Download** :[Nvidia GeForce Experience](https://www.nvidia.com/en-in/geforce/geforce-experience/download/) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. FPS Monitor
 
 ![fps counter game overlay](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fps-counter-game-overlay.jpg)
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you need to benchmark a little more than just framerates, FPS Monitor will fit the bill perfectly. It tracks your computer’s hardware state and displays the information in-game as an overlay.
 
@@ -112,9 +97,6 @@ To enable the FPS counter on Steam:
 2. Next, click on**Steam** and select**Settings** .
 3. Open the**In-Game tab** in the**Settings** dialog.  
 ![Steam in game fps counter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/steam-in-game-fps-counter.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 4. Next, click the**In-Game FPS Counter** drop-down and select**Top-left** . You can also set it to Top-right, Bottom-right, or Bottom-left.
 5. Click**OK** to save the changes.
 6. Next time you launch a game on Steam, you’ll notice a green-color FPS title appearing at your preferred location on your screen.
@@ -122,13 +104,6 @@ To enable the FPS counter on Steam:
 ## 6\. Razer Cortex
 
 ![razzer cortex fps counter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/razzer-cortext-fps-counter.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 
  Razer Cortex is a [game FPS booster tool for Windows](https://www.makeuseof.com/best-fps-boosters-windows-10/) to optimize games for better performance. It also features a nifty In-Game overlay. You can use it to show FPS count, system time, and playtime as an overlay.
 
@@ -140,9 +115,6 @@ To enable Razer Cortex overlay:
 2. Toggle the**Custom Display** switch.
 3. By default, you can press**Ctrl + Shift + Q** to activate the overlay.  
 ![razer cortex overlay](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/razer-cortext-overlay.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Furthermore, you can configure the**When My Game Starts settings** to automatically monitor FPS generate chart when a game end.
 5. Next, launch any game from**Razer Cortex Library.**
 6. Press**Ctrl + Shift + Q** to activate the overlay if it doesn’t start automatically.
@@ -165,8 +137,6 @@ To enable Razer Cortex overlay:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -174,8 +144,20 @@ To enable Razer Cortex overlay:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-3-tactics-to-enhance-your-instagram-films-look/"><u>[New] In 2024, 3 Tactics to Enhance Your Instagram Film's Look</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/trategies-for-overcoming-8-typical-newbie-youtube-errors/"><u>[New] Strategies for Overcoming 8 Typical Newbie YouTube Errors</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-visual-impact-in-tiktoks-mastering-the-art-of-digit-alteration-for-2024/"><u>[New] Visual Impact in TikToks Mastering the Art of Digit Alteration for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-blackout-blitz-premiere-pro-60s/"><u>2024 Approved Blackout Blitz Premiere Pro 60S</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-straightforward-recorder-app-windows/"><u>2024 Approved Straightforward Recorder App - Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-edge-line-clarity/"><u>Enhancing Edge Line Clarity</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-change-the-microsoft-account-administrator-name-in-windows-11/"><u>How to Change the Microsoft Account Administrator Name in Windows 11</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-streamers-dilemma-choosing-between-gopro-and-garmin-virb/"><u>In 2024, Streamer's Dilemma Choosing Between GoPro & Garmin VIRB</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximize-wi-fi-performance-in-windows-11-discover-the-top-7-tips/"><u>Maximize Wi-Fi Performance in Windows 11: Discover the Top 7 Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-speed-fixing-slow-microsoft-edge-win10win11/"><u>Optimizing Speed: Fixing Slow Microsoft Edge (Win10/Win11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fix-for-blue-screen-on-windows-11/"><u>Quick Fix for Blue Screen on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/spruce-up-windows-mail-and-schedule-with-personal-photos/"><u>Spruce Up Windows Mail & Schedule With Personal Photos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722982680843-warzone-directx-troubles-here-are-4-easy-fixes-to-restore-your-gameplay/"><u>Warzone DirectX Troubles? Here Are 4 Easy Fixes to Restore Your Gameplay!</u></a></li>
+</ul></div>
 

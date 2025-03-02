@@ -1,7 +1,7 @@
 ---
 title: Mastering LAN World Play in Windows MC Game
-date: 2024-08-15T15:34:13.918Z
-updated: 2024-08-16T15:34:13.918Z
+date: 2025-02-23T17:37:00.209Z
+updated: 2025-03-02T11:08:18.208Z
 tags:
   - windows10
   - windows11
@@ -46,9 +46,6 @@ thumbnail: https://thmb.techidaily.com/2cd3ca0cbeb8c4e3cd0fc34413344036f23c5912a
 
  If the issue persists, note down the version listed under the **Latest release** and confirm that the host uses the same version.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## 4\. Change Your Windows Network Profile to Private
 
  When you connect to a network for the first time, it is usually set as public and hides itself from other devices on the network. If you haven't changed the network profile before, you probably use the default settings, which is likely the public profile.
@@ -57,9 +54,6 @@ thumbnail: https://thmb.techidaily.com/2cd3ca0cbeb8c4e3cd0fc34413344036f23c5912a
 
  If you are having difficulty connecting to a host computer, ensure the host computer is configured to use a private network profile.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## 5\. Enable Network Discovery in the Control Panel
 
  The network discovery feature in Windows allows your device to discover other devices connected to the same network or permit other devices to see yours. If you still can't join the LAN world in Minecraft or have issues, make sure this setting is turned on. Here's how you can check that:
@@ -71,9 +65,6 @@ thumbnail: https://thmb.techidaily.com/2cd3ca0cbeb8c4e3cd0fc34413344036f23c5912a
 4. Expand the private network profile and turn on the toggle next to N**etwork discovery**.
 5. Also, check the box beside **Set up network connected devices automatically**.  
 ![Enable Network Discovery in the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-network-discovery-in-the-windows-settings-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Perform Some General Fixes
 
@@ -98,37 +89,21 @@ thumbnail: https://thmb.techidaily.com/2cd3ca0cbeb8c4e3cd0fc34413344036f23c5912a
 3. Then, click on **Join Server**.  
 ![Add the Server Address to Join the LAN Server in Minecraft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/add-the-server-address-to-join-the-lan-server-in-minecraft.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Join a Minecraft LAN World Seamlessly on Windows
 
  Having trouble joining a LAN world when friends are waiting for you can be frustrating. Hopefully, you now have a clearer understanding of what can prevent you from entering a LAN world. If you carefully apply the fixes listed above, you can join the LAN world in Minecraft. If nothing works, you should try to establish a direct connection.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## FAQ
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Q: How Do You Join a Minecraft LAN Server With an IP Address?
 
  You can [join a Minecraft LAN server](https://www.makeuseof.com/how-to-join-minecraft-server/) with an IP address by copying the host's IP address, selecting Multiplayer > Add a server or Direct connect, pasting the copied IP address, and connecting to the server.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Q: What Is the IP for a LAN Minecraft Server?
 
  Your computer's [IP address](https://www.makeuseof.com/tag/what-is-ip-address/) is the IP address for your LAN Minecraft server. You can [find your Windows PC's IP address](https://www.makeuseof.com/tag/find-ip-address-windows-10/) by running the "ipconfig" command in a Command Prompt window. The value next to "IPv4 Address" is your machine's local IP address.
 
  If you're having issues connecting to or playing in a Minecraft LAN world, here are some fixes you can apply on Windows.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -137,5 +112,21 @@ The powerful video editing program for your Windows PC</a>
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-shared-humor-top-20-memes-across-social-networks-for-2024/"><u>[New] Shared Humor Top 20 Memes Across Social Networks for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-elevating-minecraft-performance-with-increased-memory-allocation/"><u>[Updated] 2024 Approved Elevating Minecraft Performance with Increased Memory Allocation</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-mediameld-editsuite-for-2024/"><u>[Updated] MediaMeld EditSuite for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/a-comprehensive-guide-to-fixing-your-windows-photo-app/"><u>A Comprehensive Guide to Fixing Your Windows Photo App</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-advice-how-to-reset-win11-search-default-configurations/"><u>Expert Advice: How to Reset Win11 Search Default Configurations</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-add-a-portable-software-menu-to-windows-10-and-11/"><u>How to Add a Portable Software Menu to Windows 10 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-rectify-unmovable-scrolling-in-excel-windows/"><u>How to Rectify Unmovable Scrolling in Excel (Windows)</u></a></li>
+<li><a href="https://os-tips.techidaily.com/leading-iphone-weather-tools-the-ultimate-selection-for-mobile-forecast-enthusiasts/"><u>Leading iPhone Weather Tools: The Ultimate Selection for Mobile Forecast Enthusiasts</u></a></li>
+<li><a href="https://windows11.techidaily.com/modify-your-windows-personalized-spotlight-image/"><u>Modify Your Windows Personalized Spotlight Image</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-windows-license-supports-single-display-language-issue-a-step-by-step-guide/"><u>Solving 'Windows License Supports Single Display Language' Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-your-first-load-webpage-on-win11/"><u>Tailoring Your First Load Webpage on Win11</u></a></li>
+<li><a href="https://discover-able.techidaily.com/top-methods-for-extracting-sound-from-youtube-videos-using-leading-audio-downloader-tools/"><u>Top Methods for Extracting Sound From YouTube Videos Using Leading Audio Downloader Tools</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-online-cartoon-maker-turn-photos-into-toons/"><u>Updated 2024 Approved Online Cartoon Maker Turn Photos Into Toons</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-against-windowss-notorious-pink-screens/"><u>Winning Against Windows's Notorious Pink Screens</u></a></li>
+</ul></div>
 

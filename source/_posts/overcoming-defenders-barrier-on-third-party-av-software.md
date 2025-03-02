@@ -1,7 +1,7 @@
 ---
 title: Overcoming Defender's Barrier on Third-Party AV Software
-date: 2025-01-18T20:10:31.705Z
-updated: 2025-01-22T16:15:24.220Z
+date: 2025-02-28T21:01:32.541Z
+updated: 2025-03-02T13:48:02.602Z
 tags:
   - windows10
   - windows11
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/477a0b3e8eaad5a77258f27b87d4827ff92a53251
  You might wonder why Microsoft Defender blocks third-party antivirus software. Is it a strategy to force users to use built-in security tools? The answer is no. Microsoft Defender blocks third-party antivirus software because of conflicts between two different security solutions trying to perform similar tasks on your computer.
 
  So how do you fix this? Let's check it out.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Fix Microsoft Defender Blocking Third-Party Antivirus Software
 
@@ -44,17 +40,9 @@ thumbnail: https://thmb.techidaily.com/477a0b3e8eaad5a77258f27b87d4827ff92a53251
 
  After disabling Tamper Protection, see if your third-party antivirus works.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Turn Off Microsoft Defender
 
  As mentioned earlier, two active security solutions on your system may conflict. In this case, you can [turn off Microsoft Defender](http://www.makeuseof.com/permanently-disable-microsoft-defender-windows-11/) temporarily and use your third-party antivirus software. Doing this will turn off all Microsoft Defender features, including real-time protection, cloud-delivered protection, and automatic sample submission. However, you can turn it back on when needed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Add an Exclusion for the File to Windows Defender
 
@@ -71,20 +59,12 @@ thumbnail: https://thmb.techidaily.com/477a0b3e8eaad5a77258f27b87d4827ff92a53251
 ![Manage settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/manage-settings.jpg)
 5. Scroll down and you'll find the **Exclusions** option. Click on **Add or remove exclusions**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Add or remove exclusions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/add-or-remove-exclusions.jpg)
 6. If the UAC prompts you for permission, click **Yes**.
 
 7. Click on the **Add an exclusion** button and select **Folder**. In File Explorer, navigate to the folder where your third-party antivirus is installed.  
 ![Add an exclusion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/add-an-exclusion.jpg)
 8. Select the file and click on **Select Folder**. You'll see the folder added under the Exclusions section.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After adding the exclusion, close the settings window and restart your computer. Once the computer restarts, Microsoft Defender should stop blocking third-party antivirus programs.
 
@@ -113,17 +93,19 @@ thumbnail: https://thmb.techidaily.com/477a0b3e8eaad5a77258f27b87d4827ff92a53251
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-perfect-plugin-placement-for-game-channels/"><u>[New] In 2024, Perfect Plugin Placement for Game Channels</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-tips-for-finding-trending-videos-on-facebook-for-2024/"><u>[New] Tips for Finding Trending Videos on Facebook for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-vegas-pro-2021-unpacked-game-changer-or-just-another-tool-for-2024/"><u>[New] Vegas Pro 2021 Unpacked Game Changer or Just Another Tool for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-achieve-social-stardom-the-ultimate-list-for-fb-fan-increase-for-2024/"><u>[Updated] Achieve Social Stardom The Ultimate List for FB Fan Increase for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-enhance-visibility-on-yt-key-aspects-of-channel-art-and-banner-size/"><u>[Updated] In 2024, Enhance Visibility on YT Key Aspects of Channel Art & Banner Size</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-infinix-hot-40-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Infinix Hot 40? Try These Fixes</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/how-to-maximize-your-cricket-viewing-with-premium-livestreams/"><u>How to Maximize Your Cricket Viewing with Premium Livestreams</u></a></li>
-<li><a href="https://windows11.techidaily.com/proactive-pc-management-keeping-windows-11s-amd-drivers-current/"><u>Proactive PC Management: Keeping Windows 11'S AMD Drivers Current</u></a></li>
-<li><a href="https://windows11.techidaily.com/regain-control-over-windows-11s-dropped-items/"><u>Regain Control Over Windows 11'S Dropped Items</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/seamless-music-integration-transform-your-favorite-tunes-into-youtube-content-for-2024/"><u>Seamless Music Integration Transform Your Favorite Tunes Into YouTube Content for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/secrets-resolving-uncontrolled-mouse-jitter-in-win11/"><u>Secrets: Resolving Uncontrolled Mouse Jitter in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-reactivating-explore-in-11os/"><u>The Ultimate Guide to Reactivating Explore in 11OS</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-enhancing-your-cover-videos-pull/"><u>[New] Enhancing Your Cover Video's Pull</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-showtime-media-centre-all-media-in-one-app/"><u>[Updated] 2024 Approved SHOWTIME Media Centre All Media in One App</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-tailored-content-personalizing-facebook-ad-videos-effectively/"><u>[Updated] In 2024, Tailored Content Personalizing Facebook Ad Videos Effectively</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-change-what-the-fn-keys-do-in-windows-10-and-11/"><u>How to Change What the Fn Keys Do in Windows 10 and 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-7-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 7 without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-poco-c51-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Poco C51 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-get-acquainted-a-quick-guide-to-windows-11-basics/"><u>In 2024, Get Acquainted A Quick Guide to Windows 11 Basics</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-integration-into-google-meet-participants/"><u>In 2024, Integration Into Google Meet Participants</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-wmv-video-editors-without-a-price-tag-2023-edition/"><u>New Best WMV Video Editors Without a Price Tag (2023 Edition)</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-start-running-ai-on-windows-pcs/"><u>Quick Start: Running AI on Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-user-profile-issues-steps-for-pcs/"><u>Resolving User Profile Issues: Steps for PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplified-process-for-downloading-and-running-msixbundle-extensions/"><u>Simplified Process for Downloading and Running MSixbundle Extensions</u></a></li>
+<li><a href="https://windows11.techidaily.com/synchronize-your-files-collective-directory-creation-in-win11plus11/"><u>Synchronize Your Files: Collective Directory Creation in Win11+11</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-definitive-fix-for-nioh-nendos-stability-issues-in-the-complete-edition/"><u>The Definitive Fix for Nioh Nendo's Stability Issues in the Complete Edition</u></a></li>
 </ul></div>
 

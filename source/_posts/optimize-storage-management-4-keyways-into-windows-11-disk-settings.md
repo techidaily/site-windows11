@@ -1,7 +1,7 @@
 ---
 title: "Optimize Storage Management: 4 Keyways Into Windows 11 Disk Settings"
-date: 2025-01-21T19:35:39.731Z
-updated: 2025-01-22T17:35:19.759Z
+date: 2025-02-24T22:35:14.712Z
+updated: 2025-03-01T19:11:31.579Z
 tags:
   - windows10
   - windows11
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
 
 ## Optimize Storage Management: 4 Keyways Into Windows 11 Disk Settings
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [What Is Windows Disk Management?](#what-is-windows-disk-management)
@@ -28,20 +24,12 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
 * [Use the Run Dialog to Open Disk Management](#use-the-run-dialog-to-open-disk-management)
 * [Open Disk Management From the Control Panel](#open-disk-management-from-the-control-panel)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Disk Management is a Windows tool that allows you to set up your new storage drive and manage existing ones.
 * Windows offers many ways to open Disk Management. While the search tool makes finding it easy, other methods have their own advantages.
 
  Unlike external drives, you cannot just connect a new internal SSD and start using it right away on Windows. You'll need to go through an initial setup process using a utility called Disk Management. Whatever you need this tool for, we'll teach you how to open it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Is Windows Disk Management?
 
@@ -78,15 +66,7 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
 
 ![Run dialog box with diskmgmt command in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/run-dialog-box-with-diskmgmt-command-in-windows-11.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This way to open Disk Management is preferable if you're busy on the keyboard and don't want to reach for your mouse.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Open Disk Management From the Control Panel
 
@@ -118,22 +98,20 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-productivity-boosters-while-binge-listening-to-podcasts/"><u>[Updated] Productivity Boosters While Binge-Listening to Podcasts</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/application-ownership-terms/"><u>Application Ownership Terms</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-effects-of-the-european-ai-governance-framework-on-next-gen-language-tools-like-chatgpt/"><u>Exploring Effects of the European AI Governance Framework on Next-Gen Language Tools Like ChatGPT</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-vivo-v27e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Vivo V27e | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Poco X5 Pro | Dr.fone</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/in-2024-how-to-make-an-emoji-of-yourself-on-mobile-emoji-yourself/"><u>In 2024, How to Make an Emoji of Yourself on Mobile ? Emoji Yourself</u></a></li>
-<li><a href="https://windows11.techidaily.com/maximizing-visual-quality-with-w11s-auto-hdr/"><u>Maximizing Visual Quality with W11's Auto HDR</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/movhevc/"><u>MOVファイルとのHEVCコードチェンジ: 効率的なビデオエンコード・デコード手法</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-the-background-run-of-microsoft-edge-on-win11/"><u>Navigating the Background Run of Microsoft Edge on Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimizing-windows-launch-directly-engage-file-explorer-through-onedrive/"><u>Optimizing Windows Launch: Directly Engage File Explorer Through OneDrive</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-game-pass-service-halt-in-win-os/"><u>Overcoming Game Pass Service Halt in Win OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/safeguard-privacy-erasing-ms-defender-logs-in-windows-1011/"><u>Safeguard Privacy: Erasing MS Defender Logs in Windows 10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-for-overcoming-windows-administrative-restriction-on-installers/"><u>Strategies for Overcoming Windows' Administrative Restriction on Installers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/toms-tech-review-comprehensive-guide-to-hardware-excellence/"><u>Tom's Tech Review: Comprehensive Guide to Hardware Excellence</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-unsupported-app-packages-on-windows-xp/"><u>Troubleshooting Unsupported App Packages on Windows XP</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/understanding-the-functionality-of-m1-max-clips/"><u>Understanding the Functionality of M1 Max Clips</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-outlook-preview-features-on-windows-11-platforms/"><u>Unveiling Outlook Preview Features on Windows 11 Platforms</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-extend-video-duration-for-youtube-posting/"><u>[New] 2024 Approved Extend Video Duration for YouTube Posting</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-5-secrets-to-successful-and-memorable-titles/"><u>[New] In 2024, 5 Secrets to Successful and Memorable Titles</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-lost-and-found-follower-hunt/"><u>[New] Instagram Lost and Found Follower Hunt</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-luts-utilization-in-movie-color-grading-for-2024/"><u>[New] Luts Utilization in Movie Color Grading for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-replay-movies-in-android-a-step-by-step-guide/"><u>[Updated] Replay Movies in Android A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-scanjet-driver-upgrade-now-available-for-windows-users-windows-10-8-and-7/"><u>HP Scanjet Driver Upgrade Now Available for Windows Users (Windows 10, 8, and 7)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-zte-axon-40-lite-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from ZTE Axon 40 Lite to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/innovative-windows-11-disk-space-strategies-without-deleting-files-max-156-chars/"><u>Innovative Windows 11 Disk Space Strategies Without Deleting Files (Max 156 Chars)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-sas-driver-updates-and-downloads-for-windows-11-8-and-7-users/"><u>Latest SAS Driver Updates and Downloads for Windows 11, 8, and 7 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-non-operative-grammarly-on-your-computer/"><u>Overcoming Non-Operative Grammarly on Your Computer</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplify-storage-management-in-windows-10-and-11-via-context-menu-tool/"><u>Simplify Storage Management in Windows 10 & 11 via Context Menu Tool</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-updating-your-usb-to-serial-converter-device-driver/"><u>Step-by-Step Guide: Updating Your USB-to-Serial Converter Device Driver</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-the-prime-viewing-experience-on-windows-11-devices/"><u>Streamline the Prime Viewing Experience on Windows 11 Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-11s-blanked-outspots-how-to-replace-them/"><u>Win 11'S Blanked Outspots: How to Replace Them</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-chrome-issues-jumpstart-solution-suggestions/"><u>Win11 Chrome Issues? Jumpstart Solution Suggestions.</u></a></li>
 </ul></div>
 

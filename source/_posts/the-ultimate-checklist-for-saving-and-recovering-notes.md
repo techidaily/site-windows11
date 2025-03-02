@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Checklist for Saving and Recovering Notes
-date: 2025-02-06T23:10:39.140Z
-updated: 2025-02-11T01:50:19.629Z
+date: 2025-02-27T13:08:50.920Z
+updated: 2025-03-01T23:52:14.644Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/4a1fd1f32e402d9cdb76f6617f2af3bb610c32d54
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Back Up and Restore YourSticky Notes Using a Microsoft Account
 
  The easiest way to back up your sticky notes is to use a Microsoft account, which stores the notes on the cloud. If you don't have one already, then you can [learn how to create a Microsoft account](https://www.makeuseof.com/your-microsoft-account-things-windows-user-should-know/) or skip to the next section to learn how to back up the notes manually.
@@ -46,15 +42,7 @@ thumbnail: https://thmb.techidaily.com/4a1fd1f32e402d9cdb76f6617f2af3bb610c32d54
 7. Scroll down and click **Sync now**.  
 ![the Sync Now button in Sticky Notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/sync-now-button-in-sticky-notes.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To restore the notes on another computer, open the Sticky Notes app (make sure the PC is connected to the internet) and sign in with your Microsoft account. Once signed in, the app will load all the notes you previously synced. Furthermore, every time you finish writing a Sticky Note or edit one, the app will automatically back it up to the cloud.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Manually Back Up and Restore Your Sticky Notes
 
@@ -67,16 +55,8 @@ thumbnail: https://thmb.techidaily.com/4a1fd1f32e402d9cdb76f6617f2af3bb610c32d54
 ![opening tne Local State folder in Windows Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/opening-local-state-folder-in-windows-run.jpg)
 3. In the **LocalState** folder, copy the **plum.sqlite** file.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![the plum database for Sticky Notes on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/the-plum-database-for-sticky-notes-on-windows.jpg)
 4. Paste the **plum.sqlite** file to an external drive, such as a flash drive or external SDD, or upload it to cloud storage, such as OneDrive or Google Drive, for safekeeping.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To manually restore your sticky notes on another Windows computer, follow the steps below:
 
@@ -104,24 +84,18 @@ thumbnail: https://thmb.techidaily.com/4a1fd1f32e402d9cdb76f6617f2af3bb610c32d54
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-unlocking-youtubes-algorithm-title-and-tag-optimization/"><u>[Updated] 2024 Approved Unlocking YouTube's Algorithm Title & Tag Optimization</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-supercharge-your-channel-growth-harness-the-potential-of-collaborative-videos/"><u>2024 Approved Supercharge Your Channel Growth Harness the Potential of Collaborative Videos</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-why-files-cant-sync-in-steam-library/"><u>Addressing Why Files Can't Sync in Steam Library</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-windows-11-system-call-failures-quickly/"><u>Addressing Windows 11 System Call Failures Quickly</u></a></li>
-<li><a href="https://windows11.techidaily.com/beat-windows-timer-troubles-reclaim-control/"><u>Beat Windows Timer Troubles, Reclaim Control</u></a></li>
-<li><a href="https://windows11.techidaily.com/bridging-windows-prefixes-with-microsoft-services/"><u>Bridging Windows Prefixes with Microsoft Services</u></a></li>
-<li><a href="https://windows11.techidaily.com/comprehensive-tutorial-downloading-and-setting-up-msixbundle-and-msix-file-types/"><u>Comprehensive Tutorial: Downloading & Setting Up Msixbundle & MSIX File Types</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-runtime-broker-its-essential-role-in-operating-systems/"><u>Decoding Runtime Broker: Its Essential Role in Operating Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/demystifying-windows-aggregatehostexe-its-functionality-and-dangers/"><u>Demystifying Windows' AggregateHost.exe: Its Functionality & Dangers</u></a></li>
-<li><a href="https://windows11.techidaily.com/diagnosing-voice-commands-malfunction-in-valorant-games/"><u>Diagnosing Voice Commands Malfunction in Valorant Games</u></a></li>
-<li><a href="https://windows11.techidaily.com/direct-routes-to-windows-11s-user-authorization-screen/"><u>Direct Routes to Windows 11'S User Authorization Screen</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/elevating-gaming-and-streaming-with-nvidia-shield-tv-pro-in-depth-performance-breakdown/"><u>Elevating Gaming and Streaming with Nvidia Shield TV Pro: In-Depth Performance Breakdown</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-intel-dual-band-7260-wireless-ac-drivers-with-just-a-few-clicks/"><u>Get the Intel Dual Band 7260 Wireless-AC Drivers with Just a Few Clicks!</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-honor-magic-5-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Honor Magic 5 Phone | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-samsung-galaxy-xcover-7-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Samsung Galaxy XCover 7 Through Google Earth?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/turn-off-sticky-keys-in-your-pc-simple-and-effective-methods/"><u>Turn Off Sticky Keys in Your PC - Simple and Effective Methods</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-android-essentials-the-most-popular-apps-you-need-for-2024/"><u>Updated Android Essentials The Most Popular Apps You Need for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-iphone-13-pro-max-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking iPhone 13 Pro Max i Do? Get Answers here</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-oppo-a78-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Oppo A78 5G Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-livestream-audiovideo-creators-hub/"><u>[New] 2024 Approved LiveStream Audio/Video Creators Hub</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-building-personalized-instagram-feed-outlines/"><u>[Updated] In 2024, Building Personalized Instagram Feed Outlines</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-apex-quiz-channels-top-general-knowledge-picks-of-2024/"><u>[Updated] The Apex Quiz Channels Top General Knowledge Picks of 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-pro-b760m-ct-csm-mainboard-evaluation-unleashing-the-power-of-csm/"><u>Asus Pro B760M-CT CSM Mainboard Evaluation - Unleashing the Power of CSM</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>Does Airplane Mode Turn off GPS Location On Apple iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://win-info.techidaily.com/mastering-aomei-backup-utility-step-by-step-instructions-for-efficient-cloning-and-system-safeguarding/"><u>Mastering AOMEI BackUp Utility: Step-by-Step Instructions for Efficient Cloning & System Safeguarding</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-unveiling-the-top-10-audio-editing-platforms-a-guide-to-free-and-paid-services-for-musicians-for-2024/"><u>New Unveiling the Top 10 Audio Editing Platforms A Guide to Free & Paid Services for Musicians for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/routine-checklist-for-a-fresh-start-on-windows-updates/"><u>Routine Checklist for a Fresh Start on Windows Updates</u></a></li>
+<li><a href="https://windows11.techidaily.com/skyrocketing-performance-top-6-enhancements-for-vms-in-windows/"><u>Skyrocketing Performance: Top 6 Enhancements for VMs in Windows</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/social-media-marketing-get-more-viewers-with-youtube-for-2024/"><u>Social Media Marketing Get More Viewers with YouTube for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-ranked-windows-11-theme-choices-missed/"><u>Top-Ranked Windows 11 Theme Choices Missed</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-virtualization-turning-on-hyper-v-in-win11/"><u>Unlocking Virtualization: Turning On Hyper-V in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-secret-to-fixing-windows-mails-0x800713f-mishap/"><u>Unveiling the Secret to Fixing Windows Mail's 0X800713F Mishap</u></a></li>
 </ul></div>
 

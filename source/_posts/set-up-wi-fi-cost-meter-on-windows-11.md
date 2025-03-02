@@ -1,7 +1,7 @@
 ---
 title: Set Up Wi-Fi Cost Meter on Windows 11
-date: 2025-02-06T21:15:07.152Z
-updated: 2025-02-11T01:53:14.096Z
+date: 2025-02-24T05:28:27.628Z
+updated: 2025-03-02T05:38:58.102Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Enable or Disable Metered Connections for a Wi-Fi Network Using the Settings App
 
  The**Network & internet** section in the Settings app serves as a central location for all the network-related settings on Windows. You can visit that section to quickly enable or disable a metered connection for your computer's Wi-Fi network. Here are the steps for the same.
@@ -43,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 
  Note that you'll have to repeat the above steps for each Wi-Fi network separately. Following that, Windows will remember your network preferences.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Enable or Disable Wi-Fi Metered Connections via the Command Prompt
 
  If you're a power user who prefers to make system changes with a command-line tool, you can use the[Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) to enable or disable metered connection for a Wi-Fi network on Windows. Here's how you can go about it.
@@ -59,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 ![Network Profiles in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/network-profiles-in-windows.jpg)
 5. Note down the Wi-Fi network name for which you want to enable or disable the metered connection option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Next, run the following command to determine whether your connection is metered or unmetered.  
 `netsh wlan show profile name="Wi-Fi Name"`  
  Make sure you replace**Wi-Fi Name** in the above command with the actual name of the network noted in the last step.
@@ -71,10 +59,6 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 `netsh wlan set profileparameter name="Wi-Fi Name" cost=Fixed`  
 ![Disable Metered Connection in Windows 11 Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-metered-connection-in-windows-11-using-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you want to disable the metered connection for a network, run the following command instead.
 
 `netsh wlan set profileparameter name="Wi-Fi Name" cost=Unrestricted`
@@ -82,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
  The Command Prompt should display a message once the network profile is updated. After that, you can close the terminal window.
 
  Aside from the above, you can view important details about your Wi-Fi network using the Command Prompt. If you're interested in doing that, check our guide on[the best commands to manage wireless networks on Windows](https://www.makeuseof.com/tag/commands-manage-wireless-networks-windows/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Efficiently Manage Your Data With Metered Connection
 
@@ -108,14 +88,24 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-successfully-upload-elongated-youtube-clips/"><u>[New] 2024 Approved How to Successfully Upload Elongated YouTube Clips</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-step-by-step-guide-to-fix-windows-non-functional-start/"><u>A Step-by-Step Guide to Fix Window's Non-Functional Start</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-oneplus-ace-2v-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does OnePlus Ace 2V Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/elevate-your-digital-campaigns-using-the-power-of-cookiebot/"><u>Elevate Your Digital Campaigns Using the Power of Cookiebot</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-the-your-pc-cant-be-reset-issue-in-windows-10-solution-guide/"><u>How to Overcome the 'Your PC Can’t Be Reset' Issue in Windows 10 - Solution Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-11-pro-max-lock-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone 11 Pro Max Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/polishing-old-videos-windows-madvr-techniques-unveiled/"><u>Polishing Old Videos: Windows MadVR Techniques Unveiled</u></a></li>
-<li><a href="https://windows11.techidaily.com/tailored-nvidia-driver-recommendations-entertainment-sector/"><u>Tailored Nvidia Driver Recommendations: Entertainment Sector</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-5-solutions-for-correction-of-network-security-discrepancy-in-windows-11/"><u>Top 5 Solutions for Correction of Network Security Discrepancy in Windows 11</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-captivating-clips-transforming-footage-vertically-in-final-cut-x/"><u>[New] 2024 Approved Captivating Clips Transforming Footage Vertically in Final Cut X</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-hitting-the-high-score-in-ps4-game-capture-mastery/"><u>[New] 2024 Approved Hitting the High Score in PS4 Game Capture Mastery</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-ranking-the-best-cameras-that-dont-feature-a-gopro-brand/"><u>[New] 2024 Approved Ranking the Best Cameras That Don't Feature a GoPro Brand</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-complete-guide-to-selecting-high-performance-fpv-drone-propellers/"><u>[Updated] The Complete Guide to Selecting High-Performance FPV Drone Propellers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-unlock-your-earning-potential-maximizing-youtube-revenue-on-mobile/"><u>2024 Approved Unlock Your Earning Potential Maximizing YouTube Revenue on Mobile</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-fixes-for-the-common-spotify-errors-on-win11/"><u>Easy Fixes for the Common Spotify Errors on Win11</u></a></li>
+<li><a href="https://article-helps.techidaily.com/elevate-video-quality-converters-triad-of-tactics/"><u>Elevate Video Quality Converter's Triad of Tactics</u></a></li>
+<li><a href="https://windows11.techidaily.com/festive-glamour-inspiring-window-decorations/"><u>Festive Glamour: Inspiring Window Decorations</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-re-position-your-qbittorrent-on-different-windows-devices/"><u>How to Re-Position Your qBittorrent on Different Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/making-your-life-easier-deploying-multiple-apps-on-windows-11-via-winstall/"><u>Making Your Life Easier: Deploying Multiple Apps on Windows 11 via Winstall</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-task-manager-advanced-filters-personalized-theme-setting-guide-windows-11/"><u>Master Task Manager: Advanced Filters, Personalized Theme Setting Guide (Windows 11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/reignite-your-wi-fi-mouse-simple-steps-for-windows-users/"><u>Reignite Your Wi-Fi Mouse - Simple Steps for Windows Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-your-google-hangouts-audio-issue-mic-troubleshooting-guide/"><u>Resolving Your Google Hangouts Audio Issue - Mic Troubleshooting Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/reveal-and-restore-absent-cameras-to-system-list/"><u>Reveal and Restore Absent Cameras to System List</u></a></li>
+<li><a href="https://windows11.techidaily.com/saving-the-day-unraveling-steam-storage-errors/"><u>Saving the Day: Unraveling Steam Storage Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-scaling-problems-in-windows-high-dpi-environments/"><u>Solutions for Scaling Problems in Windows High DPI Environments</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-to-windows-admin-managed-security-issues/"><u>Solutions to Windows Admin-Managed Security Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-your-workflow-with-enabled-wsl-support/"><u>Streamline Your Workflow with Enabled WSL Support</u></a></li>
+<li><a href="https://techtrends.techidaily.com/taylor-swift-in-cinema-how-to-enjoy-her-movies-chronologically/"><u>Taylor Swift in Cinema: How to Enjoy Her Movies Chronologically</u></a></li>
 </ul></div>
 

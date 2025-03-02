@@ -1,7 +1,7 @@
 ---
 title: "Fixing Flawed Setups: A Guide to Windows Package Woes"
-date: 2024-08-15T15:35:09.108Z
-updated: 2024-08-16T15:35:09.108Z
+date: 2025-02-23T12:24:00.122Z
+updated: 2025-03-01T16:15:49.562Z
 tags:
   - windows10
   - windows11
@@ -29,15 +29,9 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
  Make sure you’re using an administrative user account. You can set admin rights for a user account with one of the methods in this guide to [changing your user account type in Windows](https://www.makeuseof.com/ways-to-change-user-account-windows-10/). Then sign out of your account and log back in.
 
 ![The Account type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/administrator-account.jpg)
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Also, select to run the setup file with admin rights. To do that, right-click the installer file for the software you can’t install and select **Run as administrator**.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Run the Program Install Troubleshooter
 
  Microsoft’s Program Install and Uninstall troubleshooter can be a useful tool for fixing many installation errors. Although the troubleshooting tool isn’t available within Settings, you can still download it from Microsoft’s site.
@@ -64,30 +58,17 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
 `Computer\HKEY_CLASSES_ROOT\Msi.Package\shell`
 3. Right-click **shell** in Registry Editor’s sidebar and select **New** \> **Key**.  
 ![The New > Key options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-new-key-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Type **runas** inside the key’s text box.
 5. Select **runas** and double-click on its **(Default)** string.  
 ![The runas key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-runas-key.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 
 1. Input **Install as &administrator** inside the **Value data** box and select **OK**.  
 ![The Edit String window for the runas key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/an-edit-string-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 2. Next, click the **runas** key with the right mouse button to select **New** and **Key**.
 3. Enter **command** to be your new key’s title.
 4. Select **command** to double-click on that key’s **(Default)** string.
 5. Input **msiexec /i "%1"** within the **Value data** box and click **OK**.  
 ![The Edit String window for the command key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/command-key-edit-string-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 6. Close Registry Editor and click **Power** \> **Restart** on the Windows Start menu.
 
 ## 5\. Set Full Control for the Temp Folder
@@ -110,9 +91,6 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
 ![The Permissions for Temp window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-permissions-for-temp-window.jpg)
 5. Select **Apply** to set new permission settings then OK out of all windows.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## 6\. Repair the Apple Software Update App
 
  This potential resolution is only related if the error occurs when installing iTunes. Users of iTunes confirm they were able to fix that error by repairing the Apple Software Update program. This is how you can repair Apple Software Update:
@@ -123,15 +101,6 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
 ![The Repair option for Apple Software Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-apple-software-update-window.jpg)
 4. Try installing iTunes after repairing Apple Software Update.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## 7\. Restart the Windows Installer Service
 
  Windows Installer is a service for handling the installation of software with MSI packages. It's a service you can try restarting to resolve the “problem with the Windows installer package” error. If it's not running, you can fix this problem by starting it back up again.
@@ -142,9 +111,6 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
 2. Right-click the Windows Installer service and click **Restart** if it’s running, or select the **Start** option if the Windows Installer service is stopped.  
 ![The Start option for the Windows Installer service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-windows-installer-service-context-menu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Re-Register the Windows Installer Service
 
  If restarting the Windows Installer service has had no effect, try re-registering the service. Re-registering a service is somewhat similar to reinstalling it, as you can't uninstall services through regular means.
@@ -159,14 +125,6 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
 4. Execute this command for re-registering Windows Installer:  
 `msiexec.exe /regserver`  
 ![The register service command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-register-windows-installer-command.jpg)
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Check the Windows Installer service is running and start it again if necessary, as covered in the earlier resolution.
 
 ## 9\. Perform a Windows Clean Boot
@@ -176,9 +134,6 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
  You can disable startup services and apps via MSConfig and Task Manager, as instructed in our article about [how to clean boot Windows](https://www.makeuseof.com/clean-boot-windows-11/). Restart your PC after setting up the clean boot. Then have another go at installing the affected software packages.
 
 ![The Services tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-services-tab2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this resolution solves the issue, you can install the software you currently need and restore the standard boot configuration afterward. However, the error might reoccur in the future when you try to install more software. So, it’s better to try and identify what app or service was causing the issue and keep it disabled.
 
@@ -188,8 +143,6 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
 
  Lots of users have reported the “problem with this Windows installer package” error occurs when trying to install iTunes. However, this issue can affect the installation of many other Windows programs. This is how you can fix the “problem with his Windows installer package” error.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -197,5 +150,26 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-redefining-user-engagement-with-top-10-video-editors-for-2024/"><u>[New] Redefining User Engagement with Top 10 Video Editors for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-choosing-the-top-10-affordable-image-converters-online/"><u>[Updated] Choosing the Top 10 Affordable Image Converters Online</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1728481448569-sd/"><u>「東芝製SDカードからデータ回復方法：専門家が教える究極ガイド」</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210950807-bluetooth-keyboard-wont-connect-here-are-the-steps-to-get-it-working-with-your-pc-again/"><u>Bluetooth Keyboard Won't Connect? Here Are the Steps to Get It Working with Your PC Again</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-leading-chatgpt-prompts-for-enhanced-engagement-curated-selection-from-github/"><u>Discover the Leading ChatGPT Prompts for Enhanced Engagement - Curated Selection From GitHub</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-failed-steam-remote-links-on-pc/"><u>Fixing Failed Steam Remote Links on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/fortnite-video-memory-problem-heres-how-to-resolve-it-once-and-for-all/"><u>Fortnite Video Memory Problem? Here’s How to Resolve It Once and For All!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-hands-on-the-ultimate-16-port-thunderbolt-dock-now-just-70-cheaper-on-amazon-insider-info/"><u>Get Your Hands On The Ultimate 16-Port Thunderbolt Dock, Now Just $70 Cheaper on Amazon - Insider Info</u></a></li>
+<li><a href="https://windows11.techidaily.com/halt-high-contrast-customization-in-windows/"><u>Halt High Contrast Customization in Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-standard-to-spectacular-the-journey-with-vce-22/"><u>In 2024, From Standard to Spectacular The Journey with VCE 2.2</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-13-pro-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-vivo-y200-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Vivo Y200 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/method-to-modify-display-settings/"><u>Method to Modify Display Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfect-visuals-your-guide-to-leveraging-background-blur-on-windows-11-photos-app/"><u>Perfect Visuals: Your Guide to Leveraging Background Blur on Windows 11 Photos App</u></a></li>
+<li><a href="https://windows11.techidaily.com/safe-journey-in-windows-11-the-top-8-slippery-slope/"><u>Safe Journey in Windows 11: The Top 8 Slippery Slope</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-non-responsive-windows-shift/"><u>Solutions for Non-Responsive Windows Shift.</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-art-of-managing-windows-users-via-cli/"><u>The Art of Managing Windows Users via CLI</u></a></li>
+<li><a href="https://windows11.techidaily.com/upgrade-video-quality-from-yesteryears-using-madvr-windows-edition/"><u>Upgrade Video Quality From Yesteryears Using MadVR, Windows Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-the-game-of-cutting-top-8-video-edits-for-pc/"><u>Winning the Game of Cutting: Top 8 Video Edits for PC</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Address Common Printer Glitches in Windows 11
-date: 2024-08-15T15:30:42.976Z
-updated: 2024-08-16T15:30:42.976Z
+date: 2025-02-24T06:39:06.196Z
+updated: 2025-03-02T09:26:33.785Z
 tags:
   - windows10
   - windows11
@@ -43,15 +43,9 @@ thumbnail: https://thmb.techidaily.com/5d3200ea7acc8a267e33f7e3f6be29344352dcba6
  To run the troubleshooter, open **Settings > System > Troubleshoot > Other troubleshooters** . Here, you will find the**Printer** troubleshooter among the list of Windows troubleshooters. Click on the**Run** button next to it to activate it.
 
 ![list of Windows troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/list-of-windows-troubleshooters.jpg)
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After that, follow the on-screen instructions to assist the troubleshooter in diagnosing the printer's problem. If there are any software issues impeding your printing process, the troubleshooter will likely show you how to fix them.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ## 2\. Update the Relevant Drivers
 
  Running the troubleshooter should be your go-to step whenever an error or issue arises. However, it is highly rare for it to diagnose, let alone solve, the problem. For this reason, your next reasonable step should be to check for driver updates and ensure the drivers are up-to-date. Here's how to go about it:
@@ -60,9 +54,6 @@ thumbnail: https://thmb.techidaily.com/5d3200ea7acc8a267e33f7e3f6be29344352dcba6
 2. Scroll down and expand the**Print Queues** category.
 3. Right-click on**Microsoft Print to PDF** and select**Update driver** .  
 ![menu of options on Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/device-manager-options-list.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 4. Selecting**Search automatically for updated driver software** in Windows 11 runs a check through your PC for updates.  
 ![update drivers Microsoft print to pdf](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/update-drivers-microsoft-print-to-pdf.jpg)
 
@@ -74,9 +65,6 @@ thumbnail: https://thmb.techidaily.com/5d3200ea7acc8a267e33f7e3f6be29344352dcba6
 4. Go to the [DriverPack database](https://driverpack.io/en/catalog) .
 5. Paste the copied value in the search box, download a suitable driver and then install it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## 3\. Restart the Print Spooler Service
 
  If updating the printer drivers does not fix the problem, you should check whether the print spooler service is running. The printer spooler service handles your operating system's interactions with the printer. If this service is turned off, or its files get corrupted, your device may not even detect the printer.
@@ -93,9 +81,6 @@ thumbnail: https://thmb.techidaily.com/5d3200ea7acc8a267e33f7e3f6be29344352dcba6
 6. Now, all you have to do is go back to**Services** and manually start the print spooler service again.
 7. Restart your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Recheck Your Default Printer
 
  Often, improper printer and scanner setup is the leading cause of printing issues. The most common reason why you face printer issues is that you didn’t choose your PDF printer as your default printing device or that you configured it to the incorrect port. It can simply be solved by:
@@ -108,14 +93,7 @@ thumbnail: https://thmb.techidaily.com/5d3200ea7acc8a267e33f7e3f6be29344352dcba6
 5. Scroll through the list and select the port type that matches your connection.
 6. Select**Configure Port > Apply > OK** .  
 ![different ports in printer properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/printer-properties-list.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 5\. Disable the Windows Defender Firewall
 
  If your problem is still not solved the most probable culprit could be the Windows Defender firewall. It's possible that your firewall has been configured too strictly, preventing the printer from interacting properly. So, turning off the firewall could fix the probem.
@@ -132,9 +110,6 @@ Here's how you can check that:
 2. Head over to**Windows Update**
 3. Click on**Check for Updates** .  
 ![The Check for updates option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-update-options.jpg)
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Windows will automatically search for updates, and if any new version is available, it will be installed, thus resolving your printer error.
 
@@ -166,10 +141,6 @@ To go back to a restore point:
 
  Your PC will restart while it resets your Windows 11 to its last restore point.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## Printer’s Fixed and Running—What’s Next?
 
  Whether the printer’s malfunctioning due to troubles with your operating system or general hardware issues, it can be a frustrating experience. But hopefully, now that your printer is up and running smoothly again with the aid of these fixes mentioned above. Feel free to delve into how you can make the most of your home and office printers.
@@ -180,8 +151,6 @@ To go back to a restore point:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,8 +158,22 @@ To go back to a restore point:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-how-are-podcasters-paid-for-2024/"><u>[New] How Are Podcasters Paid for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-imaginative-inspirations-for-virtual-explorers-the-best-metaverse-moments/"><u>[Updated] Imaginative Inspirations for Virtual Explorers The Best Metaverse Moments</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-essential-audio-techniques-capturing-clear-sound/"><u>[Updated] In 2024, Essential Audio Techniques Capturing Clear Sound</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/all-eyes-on-apples-latest-innovation-exclusive-insights-into-price-release-date-and-specs-of-rumored-foldable-iphones/"><u>All Eyes on Apple's Latest Innovation! Exclusive Insights Into Price, Release Date, and Specs of Rumored Foldable iPhones</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-fixes-for-windows-updates-failure-at-errors-0xc1900101/"><u>Essential Fixes for Windows Updates Failure at Errors 0xC1900101</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-high-end-luxury-of-dells-new-3k-gaming-laptop-a-game-changer-in-tech-zdnet/"><u>Exploring the High-End Luxury of Dell's New $3K Gaming Laptop - A Game Changer in Tech | ZDNet</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/introducing-the-eufy-t8200-the-freedom-friendly-video-doorbell-without-a-monthly-charge/"><u>Introducing the Eufy T82^00: The Freedom-Friendly Video Doorbell Without a Monthly Charge</u></a></li>
+<li><a href="https://windows11.techidaily.com/reimagine-windows-look-using-chosen-pics/"><u>Reimagine Window's Look Using Chosen Pics</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-game-price-archive-unveiled/"><u>Steam's Game Price Archive Unveiled</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-screen-space-challenges-in-games/"><u>Tackling Screen Space Challenges in Games</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-beginners-guide-to-the-windows-11-calendar/"><u>The Beginner's Guide to the Windows 11 Calendar</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-path-to-successful-python-server-implementation-on-windows/"><u>The Path to Successful Python Server Implementation on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-4-password-protectors-for-a-secure-windows-11-journey/"><u>Top 4 Password Protectors for a Secure Windows 11 Journey</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/transform-audio-convert-asf-to-wav-streamingly-no-costs-involved-movavi/"><u>Transform Audio: Convert ASF to WAV Streamingly, No Costs Involved - Movavi</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-steam-cloud-glitch-on-windows/"><u>Troubleshooting Steam Cloud Glitch on Windows</u></a></li>
+</ul></div>
 

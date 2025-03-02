@@ -1,7 +1,7 @@
 ---
 title: Quick Fix for Blocked Browsers by Defender in Win11
-date: 2024-08-15T15:32:15.291Z
-updated: 2024-08-16T15:32:15.291Z
+date: 2025-02-28T17:40:06.106Z
+updated: 2025-03-02T03:11:39.875Z
 tags:
   - windows10
   - windows11
@@ -35,17 +35,11 @@ thumbnail: https://thmb.techidaily.com/7d51f3f0aee270ec2782becb99c1a414abb8cba30
 3. Once you are in Windows Security, click on the **Firewall & network protection** option.
 4. Select the **Public network** or **Private network** profile and turn off the firewall for that selection.  
 ![Disable the Firewall Using Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-the-firewall-using-windows-security.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The UAC prompt will require you to accept it, so make sure your computer is set up as an admin account. If UAC prompts on the screen, click **Yes** to continue.
 
  Now that you have completed the above steps, disable the firewall for each network profile using the same procedure.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. How to Disable the Firewall Through Control Panel
 
  If you are running an older version of Windows or prefer to use a more traditional method, you can disable your firewall through the Control Panel. This is a bit more technical than using Windows Security but still easy enough to do. Here’s how:
@@ -58,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/7d51f3f0aee270ec2782becb99c1a414abb8cba30
 4. Then select **Turn off Windows Defender Firewall (not recommended)** for each network setting.
 5. Click **OK** to save your changes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. How to Disable the Firewall Using Command Prompt
 
  If you are comfortable using the command line, then you can also disable your firewall through the Command Prompt. Here’s how:
@@ -103,9 +94,6 @@ Set-NetFirewallProfile -Profile Domain,Public,Private -Enabled False
 
  After running the above command, the firewall will be disabled for all network profiles simultaneously.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## 5\. How to Turn Off the Firewall Using Group Policy Editor
 
  The Group Policy Editor is a powerful system resource that can be used to manage different settings on all Windows computers. With this tool, you can disable your firewall, but it only works with Windows Professional and Enterprise. If you are using Windows Home Edition, you need to [activate the Group Policy Editor on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) in order to access it.
@@ -118,9 +106,6 @@ Set-NetFirewallProfile -Profile Domain,Public,Private -Enabled False
 Computer Configuration > Administrative Templates > Network > Network Connections > Windows Defender Firewall > Standard Profile
 4. On the right side of the window, double-click the policy called **Windows Defender Firewall: Protect all network connections**.  
 ![Turn Off the Firewall Using Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-off-the-firewall-using-group-policy-editor.jpg)
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 5. Next, choose **Disabled** from the dialog box that appears.
 6. When you're done making your changes, click **Apply** \> **OK**.
 7. For the changes to take effect, restart your computer after completing the above steps.
@@ -138,9 +123,6 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\WindowsFirewall\Standard
 4. Specify **EnableFirewall** as the key name.
 5. Double-click it and enter **0** in the Value data field.  
 ![Turn Off the Firewall Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-off-the-firewall-using-registry-editor.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 6. Once you have made the changes, click **OK**.
 
  When you have completed all the steps above, close the Registry Editor and restart your computer.
@@ -149,14 +131,11 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\WindowsFirewall\Standard
 
  You may want to disable the firewall for testing, developing applications, or playing online games. However, disabling the firewall can have risks, and you should always exercise caution. In case you need to do it, this guide explains multiple ways to do it, such as via Windows Security, Control Panel, Command Prompt, and more.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -165,8 +144,22 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\WindowsFirewall\Standard
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-analyzing-active-presenters-advantage-on-screens/"><u>[New] 2024 Approved Analyzing Active Presenter’s Advantage on Screens</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-path-to-virtual-visualization-excellence-a-zoom-video-filters-tutorial/"><u>[New] The Path to Virtual Visualization Excellence A Zoom Video Filters Tutorial</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-still-life-to-motion-picture-a-complete-guide-on-pixiz-videos/"><u>[Updated] From Still Life to Motion Picture A Complete Guide on Pixiz Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-youtube-as-a-learning-tool-insider-advice-for-teachers/"><u>2024 Approved YouTube as a Learning Tool Insider Advice for Teachers</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-unblock-chrome-from-firewall-settings-on-windows-1011/"><u>How to Unblock Chrome From Firewall Settings on Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/keyboard-tricks-for-immediate-translation-on-modern-windows-os/"><u>Keyboard Tricks for Immediate Translation on Modern Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/launching-linux-virtualization-effortlessly-within-hyper-v-windows/"><u>Launching Linux Virtualization Effortlessly Within Hyper-V Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/master-gamers-guide-choosing-the-best-operating-system/"><u>Master Gamer's Guide: Choosing the Best Operating System</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/mastering-instagram-the-8-best-timers-for-iphoneandroid-users-for-2024/"><u>Mastering Instagram The 8 Best Timers for iPhone/Android Users for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/microsoft-store-fix-guide-for-error-0x80131500/"><u>Microsoft Store Fix Guide for Error 0X80131500</u></a></li>
+<li><a href="https://windows11.techidaily.com/post-cortana-windows-the-next-4-interfaces/"><u>Post-Cortana Windows: The Next 4 Interfaces</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-smart-8-hd-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Smart 8 HD has been deleted</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-fall-guys-disconnect-issues-in-windows/"><u>Troubleshooting Fall Guys Disconnect Issues in Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-are-the-wet-proof-ratings-for-apples-latest-iphone-model/"><u>What Are the Wet-Proof Ratings for Apple's Latest iPhone Model?</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-generation-gauge-guide/"><u>Windows Generation Gauge Guide</u></a></li>
+</ul></div>
 

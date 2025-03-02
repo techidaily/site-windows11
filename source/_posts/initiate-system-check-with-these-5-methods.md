@@ -1,7 +1,7 @@
 ---
 title: Initiate System Check with These 5 Methods
-date: 2025-01-15T20:40:03.021Z
-updated: 2025-01-22T19:50:42.150Z
+date: 2025-02-24T16:04:20.613Z
+updated: 2025-03-02T09:41:30.709Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
 
  This is the easiest way to go about launching the Startup Repair tool on Windows. So we will lay out this method first.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Use the Windows 11 Settings App
 
  Here’s how you can do it on Windows 11:
@@ -42,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
 
  And that’s it. As soon as you click on the above option, the Startup Repair tool will be launched right then and there.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Use the Windows 10 Settings App
 
  While the basic structure of opening Startup Repair on Windows 10 remains the same, the particular instructions on the screen will be slightly different. So, here's how you can launch Startup Repair on Windows 10:
@@ -55,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
 3. Under the **Advanced startup** menu, click on **Restart now**.
 
  Your Windows will boot into **Windows Recovery Environment** (Win RE) as soon as you do this. From there, the steps are similar to the ones you followed for Windows 11\.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Run the Startup Repair Tool Through the Desktop
 
@@ -86,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
 
  The Startup Repair tool will be launched from here, and it will look up and fix any issues it finds on your Windows computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Use the Command Prompt
 
  The Command Prompt is a free Windows utility that lets you manage your Windows settings and things in a way that makes using Windows a breeze.
@@ -103,10 +87,6 @@ shutdown /r /o
 ![windows cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-cmd.jpg)
 
  As soon as you hit **Enter**, your PC will be restarted in the **Advanced Startup Options** menu; you can then select the **Startup Repair** option from there.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Use the F11 Shortcut Key During Boot
 
@@ -127,22 +107,18 @@ shutdown /r /o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-maximizing-impact-strategies-for-going-viral-on-instagram/"><u>[New] 2024 Approved Maximizing Impact Strategies for Going Viral on Instagram</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/nlock-youtube-monetization-a-focus-on-short-video-profits-for-2024/"><u>[New] Unlock YouTube Monetization A Focus on Short Video Profits for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-expert-strategies-for-logging-roblox-games-on-a-macbook/"><u>[Updated] Expert Strategies for Logging Roblox Games on a MacBook</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-crafting-content-for-success-how-to-start-your-own-youtube-chanel/"><u>[Updated] In 2024, Crafting Content for Success How to Start Your Own YouTube Chanel</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/breaking-down-the-features-of-samsungs-recent-phone-launch/"><u>Breaking Down the Features of Samsung's Recent Phone Launch</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/easy-guide-on-installing-handbrake-with-libdvdcss-support-for-macos-and-windows-11/"><u>Easy Guide on Installing Handbrake with Libdvdcss Support for macOS & Windows 11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-meizu-is-unlocked-by-drfone-android/"><u>How To Check if Your Meizu Is Unlocked</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-samsung-galaxy-a24-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Samsung Galaxy A24 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-spotlight-screenshots-in-windows-os/"><u>Mastering Spotlight Screenshots in Windows OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/perfecting-desktop-aesthetics-sticky-notes-on-w11w10/"><u>Perfecting Desktop Aesthetics: Sticky Notes on W11/W10</u></a></li>
-<li><a href="https://windows11.techidaily.com/solving-your-full-screen-capture-predicament-with-snip-and-sketch/"><u>Solving Your Full-Screen Capture Predicament with Snip & Sketch</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-process-implementing-end-task-feature-on-window-manager-windows-11/"><u>Step-By Step Process: Implementing End Task Feature on Window Manager (Windows 11)</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamline-tasks-like-pro-mastering-windows-11s-capabilities/"><u>Streamline Tasks Like Pro: Mastering Windows 11'S Capabilities</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-excess-window-tasks-in-windows/"><u>Tackling Excess Window Tasks in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/timely-troubleshooting-your-chrome-clock-glitch/"><u>Timely Troubleshooting: Your Chrome Clock Glitch</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/uncovering-expert-video-making-talents-for-2024/"><u>Uncovering Expert Video Making Talents for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-dormancy-practical-tips-and-tricks/"><u>Windows Dormancy: Practical Tips & Tricks</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-leading-e-conference-headline-generator/"><u>[New] In 2024, Leading E-Conference Headline Generator</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-essence-of-timelessness-instagrams-slow-motion-guide/"><u>[New] The Essence of Timelessness Instagram's Slow-Motion Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210970837-9781803411170-a-to-z-of-mindfulness-for-christians/"><u>A to Z of Mindfulness for Christians | Free Book</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/advanced-audio-segmentation-made-simple-a-premiere-guide/"><u>Advanced Audio Segmentation Made Simple A Premiere Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-making.techidaily.com/effective-strategies-for-setting-up-and-using-mirror-mode-in-aomei-backup/"><u>Effective Strategies for Setting Up and Using Mirror Mode in AOMEI Backup</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-drive-labeling-c-vs-d-specifics/"><u>Exploring Drive Labeling: C: Vs D: Specifics</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-enable-and-utilize-the-script-execution-policy-in-windows-powershell/"><u>How to Enable and Utilize the Script Execution Policy in Windows PowerShell</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-oppo-find-x7-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Oppo Find X7 Phone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-tecno-phantom-v-flip-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Tecno Phantom V Flip FRP Locks</u></a></li>
+<li><a href="https://windows11.techidaily.com/jumpstart-joy-eliminate-windows-11s-sluggishness/"><u>Jumpstart Joy: Eliminate Windows 11'S Sluggishness</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-memory-diagnostic-failures/"><u>Navigating Through Memory Diagnostic Failures</u></a></li>
+<li><a href="https://windows11.techidaily.com/reversing-the-no-script-decree-in-windows-4-pathways-to-execution-enablement/"><u>Reversing the No-Script Decree in Windows: 4 Pathways to Execution Enablement</u></a></li>
 </ul></div>
 

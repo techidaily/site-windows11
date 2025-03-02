@@ -1,7 +1,7 @@
 ---
 title: "Optimize Your Workspace: Dragging Tabs, Window Explorer Ways"
-date: 2025-02-05T20:15:40.398Z
-updated: 2025-02-10T21:50:04.149Z
+date: 2025-02-23T00:21:46.808Z
+updated: 2025-03-02T09:52:04.932Z
 tags:
   - windows10
   - windows11
@@ -31,17 +31,9 @@ thumbnail: https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521fee
 
 ![Dragging out tabs in Chrome Browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dragging-out-tabs-in-chrome-browser.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  So, you can have two file locations open in two separate tabs in File Explorer. But if you have to stack them side by side, there is no such option. You will have to close one tab (if you like) and open another instance of File Explorer and then use the split-screen layout.
 
  Thankfully, the latest Insider build 25290 has a hidden feature that makes it possible to drag out tabs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Enable the Drag-Out Feature in File Explorer
 
@@ -52,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521fee
  To update to the latest insider build, head over to the Settings page and[check for Windows updates](https://www.makeuseof.com/tag/update-windows-software-guide/) . After that, install the latest 25920 build or newer on your system. You will have to restart your system for the changes to take effect.
 
  If you haven’t enrolled in the Windows Insider program and still want to try out this new feature, take the help of UUP Dump. You can easily[download the latest Windows Insider builds using UUP Dump](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/) . Install the build and then proceed to the next step.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Enable the Feature Using ViveTool
 
@@ -69,18 +57,10 @@ thumbnail: https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521fee
 ![Enabling Tabs Dragging Feature In File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enabling-tabs-dragging-feature-in-file-explorer.jpg)
 6. **Exit** the command prompt window after the ViveTool command executes successfully.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Restart your system to apply the changes.
 8. Log into Windows and press**Win + E** to launch File Explorer. Now, open two tabs and click and hold on any of the open tabs.  
 ![Tabs Dragging Feature in Action in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/tabs-dragging-feature-in-action-in-file-explorer.jpg)
 9. Try to drag the tabs out of File Explorer. It will open in a second window. You can stack them on each side if you like.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Can You Restore the Tab to the File Explorer Window?
 
@@ -107,21 +87,22 @@ thumbnail: https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521fee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-unveiling-the-best-cinematic-love-top-8-premium-wedding-videos-online/"><u>[New] 2024 Approved Unveiling the Best Cinematic Love Top 8 Premium Wedding Videos Online</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-allstream-worldwide-selective-local-channel-selection/"><u>[New] AllStream Worldwide Selective Local Channel Selection</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-efficiency-upgrade-uncover-the-8-premier-facebook-timetables-for-2024/"><u>[New] Efficiency Upgrade Uncover the 8 Premier Facebook Timetables for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-the-key-to-successful-multi-view-facebook-streaming/"><u>[Updated] In 2024, The Key to Successful Multi-View Facebook Streaming</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-architecting-top-quality-canon-chrono-films/"><u>2024 Approved Architecting Top Quality Canon Chrono Films</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/can-several-individuals-use-one-spotify-account-at-the-same-moment/"><u>Can Several Individuals Use One Spotify Account At The Same Moment?</u></a></li>
-<li><a href="https://windows11.techidaily.com/command-prompt-mastery-inserting-directories-into-windows-11-menu/"><u>Command Prompt Mastery: Inserting Directories Into Window's 11 Menu</u></a></li>
-<li><a href="https://windows11.techidaily.com/detailed-guide-to-installing-ms-work-on-windows-11/"><u>Detailed Guide to Installing MS Work on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-guide-to-office-works-setup-on-win-11/"><u>Essential Guide to Office Works Setup on Win 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-regain-missing-router-interface-on-pc/"><u>How to Regain Missing Router Interface on PC</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-behind-the-scenes-of-successful-onestream-livestreams/"><u>In 2024, Behind-the-Scenes of Successful OneStream Livestreams</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-complete-guide-to-camstudio-screencap-mastery/"><u>In 2024, Complete Guide to CamStudio Screencap Mastery</u></a></li>
-<li><a href="https://windows11.techidaily.com/swift-strategy-become-system-admin-now/"><u>Swift Strategy: Become System Admin Now</u></a></li>
-<li><a href="https://windows11.techidaily.com/tactics-for-overcoming-license-expiration-notice-in-win11/"><u>Tactics for Overcoming License Expiration Notice in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/tactics-to-bypass-admin-access-denied-message-on-pc/"><u>Tactics to Bypass 'Admin Access Denied' Message on PC</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/understanding-the-dynamics-behind-youtubes-investment-in-shorts-for-2024/"><u>Understanding the Dynamics Behind YouTube's Investment in Shorts for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-ideal-fps-levels-in-slow-motion-cinema/"><u>[New] 2024 Approved Ideal FPS Levels in Slow Motion Cinema</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-become-a-social-media-sensation-top-9-tips-for-instagram-stardom-for-2024/"><u>[New] Become a Social Media Sensation Top 9 Tips for Instagram Stardom for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-converting-your-cinematics-from-standard-definition-to-dynamic-range-dynamism/"><u>[New] Converting Your Cinematics From Standard Definition to Dynamic Range Dynamism</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-fps-dilemma-picking-between-30-and-60-hertz-in-video-recording/"><u>[Updated] In 2024, FPS Dilemma Picking Between 30 and 60 Hertz in Video Recording</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-seamless-rotation-a-cameras-360-journey/"><u>2024 Approved Seamless Rotation A Camera's 360 Journey</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/boost-your-broadcast-game-mastering-obs-plus-streamlabs-mac/"><u>Boost Your Broadcast Game Mastering OBS + Streamlabs, Mac</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/brand-synergy-in-the-age-of-digital-partnerships-for-2024/"><u>Brand Synergy in the Age of Digital Partnerships for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-management-issues-5-approaches-with-windows-11-focus/"><u>Fixing Management Issues: 5 Approaches with Windows 11 Focus</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-audio-error-0xc00d36b4-in-windows-11-and-11/"><u>How to Fix the Audio Error 0Xc00d36b4 in Windows 11 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-0xc00000f-on-pc-a-step-by-step-guide/"><u>Overcoming 0Xc00000f on PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfect-taskbar-alignment-with-win-11-tips/"><u>Perfect Taskbar Alignment with Win 11 Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/retrace-to-original-directory-view-in-windows-11/"><u>Retrace to Original Directory View in Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/say-goodbye-to-pixelated-playback/"><u>Say Goodbye to Pixelated Playback</u></a></li>
+<li><a href="https://windows11.techidaily.com/stay-fixed-no-change-in-your-windows-wallpaper/"><u>Stay Fixed: No Change in Your Windows Wallpaper</u></a></li>
+<li><a href="https://some-skills.techidaily.com/techniques-for-accelerating-playback-on-spotify-for-2024/"><u>Techniques for Accelerating Playback on Spotify for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-and-resolving-0x8007007e-windows-error/"><u>Understanding and Resolving 0X8007007E Windows Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-your-music-library-tackling-w10w11-errors/"><u>Unlocking Your Music Library: Tackling W10/W11 Errors</u></a></li>
 </ul></div>
 

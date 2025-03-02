@@ -1,7 +1,7 @@
 ---
 title: Conquering Failed Office Activation on PCs and Laptops
-date: 2024-08-15T15:38:07.506Z
-updated: 2024-08-16T15:38:07.506Z
+date: 2025-02-23T10:16:14.425Z
+updated: 2025-03-02T08:06:37.470Z
 tags:
   - windows10
   - windows11
@@ -44,26 +44,16 @@ First, perform the following preliminary checks:
 
 * Run the Office application as an administrator. Type the app name in Windows Search, right-click its icon, and click**Run as administrator** .  
 ![Running the Microsoft Word App As an Administrator From Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/1-running-the-microsoft-word-app-as-an-administrator-from-windows-search.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 * Ensure Microsoft Word, Microsoft Excel, or any other app you're using is up-to-date. For that, open the app, navigate to the**File** tab, and select**Account** on the left sidebar. Then, click on the**Update Options** dropdown and select**Update Now** .
 
 If the above steps don't help, try applying the remaining fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### 2\. Don't Use a Cracked Version of Microsoft Office Apps
 
  To activate Microsoft Office apps legally, you should always purchase the subscription from Microsoft's website or its trusted partners. If you have used a crack or third-party activator to activate these apps and encountered this issue after a few days, Microsoft is likely to have detected this unauthorized activation and blocked it.
 
  Therefore, if you have chosen an illegitimate path, purchase the Microsoft 365 subscription, and this error will be resolved. If you want to get a better deal, check out our article covering [different ways to get cheap Microsoft Office and Microsoft Word licenses](https://www.makeuseof.com/tag/microsoft-office-cheap/) .
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### 3\. Don't Use a Pirated Copy of Windows
 
  Just as you should avoid activating Office apps through unauthorized means, you shouldn't use unauthorized gateways to activate Windows. If Microsoft detects that you are using a copy of Windows that is not legitimate, it may block your access to certain apps and features.
@@ -72,10 +62,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  However, if you are already subscribed to Microsoft 365 and Windows is registered, ensure it hasn't expired.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ### 4\. Ensure Your Subscription Hasn't Expired
 
  Check the email account you used to purchase the subscription to see if you have recently received an email from Microsoft. If you find an email regarding subscription expiration, log in to your Microsoft 365 account to confirm.
@@ -104,10 +90,6 @@ To ensure that's not the case, follow the below steps:
 
  If you want to reset the app but aren't familiar with the process, check out our guide on [how to reset any Windows app](https://www.makeuseof.com/windows-reset-app/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### 8\. Run the OSPREARM.exe File
 
  If you have not been successful in fixing this error, you can try running a .exe file named OSPREARM. This is an activation verifier which is known to fix most activation errors. Here's how to access and run this file:
@@ -118,9 +100,6 @@ C:\Program Files\Microsoft Office\Office16
 3. Locate the**OSPREARM.EXE** file.
 4. Right-click on it and hit**Run as administrator** .  
 ![Running the OSPREARM Executable File as an Administrator in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/4-running-the-osprearm-executable-file-as-an-administrator-in-windows-file-explorer.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  It is important to note that the name of the Office folder in the path above may differ depending on which version of Office you are using. Therefore, if you use a different version than Office16, change the last part of the above path accordingly.
 
@@ -128,14 +107,11 @@ C:\Program Files\Microsoft Office\Office16
 
  Running into the "Product Activation Failed" error and finding most of the features of Office apps restricted isn't a great experience. Hopefully, the solutions covered above will help you resolve the issue. In case they don't work, try the workaround. If that does not work as well, reinstall the Office application.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -144,8 +120,17 @@ C:\Program Files\Microsoft Office\Office16
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-navigating-youtubes-rules-the-safe-way-for-2024/"><u>[Updated] Navigating YouTube's Rules The Safe Way for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/1-uncontrollable-mouse-movements-effective-solutions-to-regain-control/"><u>1. Uncontrollable Mouse Movements: Effective Solutions to Regain Control</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/risk-and-revelation-10-roguelike-game-selection/"><u>Risk and Revelation #10 Roguelike Game Selection</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-tutorial-on-locking-your-system-via-the-windows-11-command-line/"><u>Step-by-Step Tutorial on Locking Your System via the Windows 11 Command Line</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/tailored-guide-to-youtube-trailer-production-with-filmora-for-2024/"><u>Tailored Guide to YouTube Trailer Production with Filmora for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/toggle-onoff-managing-your-gaming-experience-with-windows-10s-xbox-game-bar-feature/"><u>Toggle On/Off: Managing Your Gaming Experience with Windows 10'S Xbox Game Bar Feature</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-messy-script-into-neat-text-with-microsoft-onenotes-new-feature/"><u>Transform Messy Script Into Neat Text with Microsoft OneNote's New Feature!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/ultimate-speed-loading-windows-photo-displayer-for-2024/"><u>Ultimate Speed-Loading Windows Photo Displayer for 2024</u></a></li>
+</ul></div>
 

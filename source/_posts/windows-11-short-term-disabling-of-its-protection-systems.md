@@ -1,7 +1,7 @@
 ---
 title: "Windows 11: Short-Term Disabling of Its Protection Systems"
-date: 2024-11-22T20:34:58.985Z
-updated: 2024-11-25T02:43:09.810Z
+date: 2025-02-23T21:58:07.656Z
+updated: 2025-03-01T18:42:27.434Z
 tags:
   - windows10
   - windows11
@@ -60,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/f47c079fa1fce90a8221b9c2c003a393b4231e2fb
 5. In the**Select User or Group window** , click the**Advanced** button.  
 ![Advanced option in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/advanced-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Click the**Find Now** button and then select the admin account.  
 ![Find Now option in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/find-now.jpg)
 2. Click**OK** \>**OK** to save the changes.
@@ -76,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/f47c079fa1fce90a8221b9c2c003a393b4231e2fb
 ![Full control box in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/full-control-box.jpg)
 6. Click**Apply** \>**OK.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Right-click on the blank space in the right pane, and create three**DWORD (32-bit) Value** with the following names:  
 `DisableAntiVirus  
 
@@ -89,10 +81,6 @@ ServiceStartStates`
 8. Double-click on each value, type**1** in**Value data,** and click**OK.**
 
 Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Temporarily Disable Windows Security Using the Local Group Policy Editor
 
@@ -108,10 +96,6 @@ Restart your computer for the changes to take effect.
 
  Once your work is done, you can enable Windows Security by choosing**Disabled** for the Turn off Microsoft Defender Antivirus policy.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Temporarily Disable Windows Security Using Autoruns
 
  Autoruns is a Windows utility using which you can turn off the service responsible for starting Windows Security at startup. Before you use Autoruns, disable Tamper Protection by following the steps in method 2.
@@ -125,24 +109,12 @@ Restart your computer for the changes to take effect.
 ![Run option for Autoruns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-option.jpg)
 5. Click**Agree** in the**Autoruns Licence Agreement window** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. In the Autoruns window, click**Options** and uncheck**Hide Windows Entries.**  
 ![Hide Microsoft Entries option in Autoruns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/hide-microsoft-enteries.jpg)
 7. Click**Services.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Uncheck the**WinDefend** box and then close the Autoruns window.  
 ![Disabling WinDefend in Autoruns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windefend.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now, to boot in normal mode, open the**System Configuration** window, select**Normal startup,** and then**OK.**
 
@@ -165,18 +137,22 @@ Restart your computer for the changes to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-facetunes-potential-photo-editing-like-never-before/"><u>[New] Unveiling Facetune's Potential Photo Editing Like Never Before</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-navigating-snapchat-for-twitter-vids-distribution/"><u>[Updated] 2024 Approved Navigating Snapchat for Twitter Vids Distribution</u></a></li>
-<li><a href="https://windows11.techidaily.com/deciphering-the-role-of-copilot-key-in-your-windows-11-pc/"><u>Deciphering the Role of Copilot Key in Your Windows 11 PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/enrich-your-windows-setup-with-personal-menus/"><u>Enrich Your Windows Setup with Personal Menus</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-social-networks-an-in-depth-look-at-facebook-twitter-instagram-and-youtube-strategies/"><u>Mastering Social Networks: An In-Depth Look at Facebook, Twitter, Instagram & Youtube Strategies</u></a></li>
-<li><a href="https://win-updates.techidaily.com/moving-your-iphones-content-onto-a-desktop-computer-discover-these-6-proven-strategies-with-fonebackup/"><u>Moving Your iPhone's Content Onto a Desktop Computer – Discover These 6 Proven Strategies with FoneBackup</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-windows-1011-a-workshop-for-custom-pattern-crafting/"><u>Navigating Windows 10/11: A Workshop for Custom Pattern Crafting</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigational-aid-embracing-apple-maps-in-windows-systems/"><u>Navigational Aid: Embracing Apple Maps in Windows Systems</u></a></li>
-<li><a href="https://article-tips.techidaily.com/savvy-buyers-guide-to-cloud-savings-2024/"><u>Savvy Buyer's Guide to Cloud Savings 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/seamlessly-convert-opus-audio-to-ogg-a-cost-free-solution-online/"><u>Seamlessly Convert Opus Audio to OGG - A Cost-Free Solution Online</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-fixing-hp-officejet-pro-n-series-drivers/"><u>Troubleshooting and Fixing HP OfficeJet Pro N Series Drivers</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-your-ctrl-commands-full-potential-on-windows-11/"><u>Unlocking Your Ctrl Command's Full Potential on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-smart-unlock-hacked-is-it-safe-to-use/"><u>Windows Smart Unlock Hacked – Is It Safe to Use?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-crafting-visual-stories-insights-into-the-vida-app/"><u>[New] Crafting Visual Stories Insights Into the Vida App</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-immersive-gameplay-capturing-with-camrecorder-pro/"><u>[New] Immersive Gameplay Capturing with CamRecorder Pro</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-elite-picks-a-list-mac-video-capture-tools/"><u>[New] In 2024, Elite Picks A-List Mac Video Capture Tools</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-the-future-of-fitness-in-virtual-reality-walkers-for-2024/"><u>[New] The Future of Fitness in Virtual Reality Walkers for 2024</u></a></li>
+<li><a href="https://win-studio.techidaily.com/determining-installed-ram-variants-on-your-pc-expert-tips-and-tricks-cyberninjatech-support/"><u>Determining Installed RAM Variants on Your PC: Expert Tips and Tricks – CyberNinjaTech Support</u></a></li>
+<li><a href="https://windows11.techidaily.com/did-rav-antivirus-suddenly-appear-on-your-windows-pc-heres-where-it-came-from-and-how-to-uninstall-it/"><u>Did RAV Antivirus Suddenly Appear on Your Windows PC? Here's Where It Came From & How to Uninstall It</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-reminders-in-every-window-of-your-pc/"><u>Efficient Reminders in Every Window of Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/identifying-legitimate-and-false-positive-login-attempts-on-pcs/"><u>Identifying Legitimate and False-Positive Login Attempts on PCs</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-itel-a60s-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Itel A60s PC | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-from-sketch-to-screen-top-cartoon-video-maker-apps-for-android-and-ios-for-2024/"><u>New From Sketch to Screen Top Cartoon Video Maker Apps for Android and iOS for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-credentials-error-loop/"><u>Overcoming Windows Credentials Error Loop</u></a></li>
+<li><a href="https://windows11.techidaily.com/rectifying-thx-not-working-in-windows-setup/"><u>Rectifying THX Not Working in Windows Setup</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-directx-download-problems-in-os/"><u>Remedying DirectX Download Problems in OS</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/techs-picks-the-ultimate-screenshot-list/"><u>Tech's Picks The Ultimate Screenshot List</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-your-word-docs-seamlessly-into-pdfs-using-windows-11/"><u>Transform Your Word Docs Seamlessly Into PDFs Using Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unblocking-your-windowed-discord-interface-in-windows/"><u>Unblocking Your Windowed Discord Interface in Windows</u></a></li>
 </ul></div>
 

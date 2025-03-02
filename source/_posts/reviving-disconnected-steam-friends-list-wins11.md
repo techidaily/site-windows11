@@ -1,7 +1,7 @@
 ---
 title: Reviving Disconnected Steam Friends List (Wins11)
-date: 2025-02-03T19:08:15.296Z
-updated: 2025-02-10T23:52:19.534Z
+date: 2025-03-01T06:27:40.997Z
+updated: 2025-03-02T06:08:28.154Z
 tags:
   - windows10
   - windows11
@@ -47,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 
 ![Steam friends and chat settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/friends-chat-settings-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Opt Out of Steam’s Beta Participation
 
  Signing up for the Steam Client Beta program allows you to use Steam’s latest features before they’re officially released. However, the Beta version might make the [Steam Client unstable](https://www.makeuseof.com/steam-client-crashing-troubleshooting/), leading to the error. Follow these steps to disable the Steam Beta Client:
@@ -69,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 
  Click **Apply** and **OK** to save the new settings and restart Steam.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Delete the Steam Appdata Folder
 
  Similar to any software that you’ve installed, Steam stores temporary files on your computer to speed up loading times and improve the user experience. However, if the stored data gets corrupted, it will negatively impact Steam’s features and functionality.
@@ -82,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 ![Deleting the IconCache File by Right-clicking on the File in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/4-deleting-the-iconcache-file-by-right-clicking-on-the-file-in-windows-file-explorer.jpg)
 
  If you can’t find it, you should change File Explorer settings, so you can [view hidden files and folders on Windows](https://www.makeuseof.com/windows-11-show-hidden-files-folders/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Delete Steam's Web Data
 
@@ -100,14 +88,6 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 7. Close the game, restart Steam, and check if the issue is now solved.
 
 ![Delete Steam web cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/delete-steam-cache-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get Back to Playing With Your Friends
 
@@ -125,22 +105,17 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-10-top-ranked-no-cost-image-format-switchers-jpg-to-gif-for-2024/"><u>[New] 10 Top-Ranked No-Cost Image Format Switchers (JPG to GIF) for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-unifying-visual-experience-in-iphone-recording/"><u>[New] 2024 Approved Unifying Visual Experience in iPhone Recording</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-fix-your-fb-account-post-hack-recovery-guide/"><u>[Updated] In 2024, Fix Your FB Account Post-Hack Recovery Guide</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-insta-editing-secrets-mastering-high-resolution-footage-in-fcpx-for-2024/"><u>[Updated] Insta-Editing Secrets Mastering High-Resolution Footage in FCPX for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/13-ways-to-open-the-windows-system-settings/"><u>13 Ways to Open the Windows System Settings</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-windows-disk-errors-with-ease-and-expertise/"><u>Addressing Windows Disk Errors with Ease and Expertise</u></a></li>
-<li><a href="https://windows11.techidaily.com/beat-nvidias-windows-scanner-errors-today/"><u>Beat Nvidia's Windows Scanner Errors Today</u></a></li>
-<li><a href="https://windows11.techidaily.com/beginner-friendly-steps-to-install-chrome-on-windows-11/"><u>Beginner-Friendly Steps to Install Chrome on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/breathing-life-into-your-dormant-windows-mouse/"><u>Breathing Life Into Your Dormant Windows Mouse</u></a></li>
-<li><a href="https://windows11.techidaily.com/cut-down-complications-opt-for-simplicity-in-win11/"><u>Cut Down Complications: Opt for Simplicity in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/desktop-dynamics-shifted-key-changes-from-windows-10-to-11/"><u>Desktop Dynamics Shifted: Key Changes From Windows 10 to 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-most-important-characteristics-for-a-superior-ai-chatbot-service-top-7/"><u>Discover the Most Important Characteristics for a Superior AI Chatbot Service (Top 7)</u></a></li>
-<li><a href="https://windows11.techidaily.com/dissecting-and-resolving-0x80072af9-hitches/"><u>Dissecting and Resolving 0X80072AF9 Hitches</u></a></li>
-<li><a href="https://change-location.techidaily.com/honor-magic-5-lite-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor Magic 5 Lite Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-drivers-with-windows-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>How to identify missing drivers with Windows Device Manager on Windows 11 & 10 & 7</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-move-custom-ringtones-from-apple-iphone-13-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Move Custom Ringtones from Apple iPhone 13 Pro Max to Android? | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-vn-video-editor-for-mac-a-comprehensive-guide-and-alternative-options/"><u>New 2024 Approved VN Video Editor for Mac A Comprehensive Guide and Alternative Options</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-hitpaw-screen-recorder-review-and-alternative/"><u>[New] 2024 Approved HitPaw Screen Recorder Review and Alternative</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-insights-into-the-world-of-touch-and-movement-detection/"><u>[New] 2024 Approved Insights Into the World of Touch and Movement Detection</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-redefine-gaming-radeons-latest-release/"><u>[New] In 2024, Redefine Gaming Radeon's Latest Release</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-revert-customized-windows-settings-after-reboot/"><u>How to Revert Customized Windows Settings After Reboot</u></a></li>
+<li><a href="https://windows11.techidaily.com/ideal-weather-utilities-for-w10w11/"><u>Ideal Weather Utilities for W10/W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/improving-asana-load-times-on-your-pc/"><u>Improving Asana Load Times on Your PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/keep-your-data-safe-exclusive-steps-for-disconnecting-from-chatgpt-services/"><u>Keep Your Data Safe! Exclusive Steps for Disconnecting From ChatGPT Services</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/konvertierung-von-mkv-zu-mp4-mithilfe-von-handbrake-kostenlose-qualitatsbewahrungssichere-methoden/"><u>Konvertierung Von MKV Zu MP4 Mithilfe Von HandBrake: Kostenlose, Qualitätsbewahrungssichere Methoden</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/post-prime-day-bargain-get-the-new-iphone-12-at-only-349-on-amazon-today/"><u>Post-Prime Day Bargain: Get the New iPhone 12 at Only $349 on Amazon – Today!</u></a></li>
+<li><a href="https://windows11.techidaily.com/rethinking-your-pc-critical-changes-in-windows-11s-explore/"><u>Rethinking Your PC: Critical Changes in Windows 11'S Explore</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamlessly-integrate-ubuntu-in-your-macos-workflow-a-simple-trick-for-developers/"><u>Seamlessly Integrate Ubuntu in Your MacOS Workflow - A Simple Trick for Developers</u></a></li>
+<li><a href="https://windows11.techidaily.com/smarter-batch-jobs-utilizing-windows-task-scheduler/"><u>Smarter Batch Jobs: Utilizing Windows Task Scheduler</u></a></li>
 </ul></div>
 

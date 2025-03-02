@@ -1,7 +1,7 @@
 ---
 title: "Navigating New Horizons: The Efficient Path for Windows 11, In-Place Update"
-date: 2025-01-20T18:32:11.452Z
-updated: 2025-01-22T18:26:39.733Z
+date: 2025-02-26T00:15:15.065Z
+updated: 2025-03-01T17:04:06.092Z
 tags:
   - windows10
   - windows11
@@ -38,17 +38,9 @@ thumbnail: https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b
 * Remove all external peripherals.
 * Ensure fast internet connectivity.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Perform an In-Place Upgrade on Windows 11
 
  To perform an in-place upgrade, you need to do two things. Firstly, you need to download the latest Windows 11 ISO file. Then, you need to run the setup from the ISO file, pick the appropriate in-place upgrade option, and proceed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Download the Windows 11 ISO Image File
 
@@ -72,22 +64,10 @@ thumbnail: https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b
 ![Windows 11 Installation Phase](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-11-installation-phase.jpg)
 3. After the setup finishes installing updates, it will redirect you to the login screen.**Input** your password and press the**Enter** key to continue.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Installing Updates in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/installing-updates-in-windows-11.jpg)
 4. Wait for the setup to prepare your system for the first boot. You will automatically enter the desktop.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Check your installed apps list, personal files, and settings. Everything will pretty much be the same.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Don’t Reset Windows 11 Before Trying an In-Place Upgrade
 
@@ -108,17 +88,21 @@ thumbnail: https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-blueprints-for-breaking-ground-in-edu-video-production-on-youtube-channels/"><u>[New] In 2024, Blueprints for Breaking Ground in Edu-Video Production on YouTube Channels</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-decoding-canvas-best-kept-secrets-for-stunning-images/"><u>[Updated] Decoding Canva's Best-Kept Secrets for Stunning Images</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-explore-the-top-10-websites-for-no-fee-images-for-2024/"><u>[Updated] Explore the Top 10 Websites for No-Fee Images for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-pureimages-backdrop-refinement-feature/"><u>[Updated] In 2024, PureImage's Backdrop Refinement Feature</u></a></li>
-<li><a href="https://some-tips.techidaily.com/download-e-instalacao-do-capcut-para-windows-guia-passo-a-passo/"><u>Download E Instalação Do CapCut Para Windows - Guia Passo a Passo</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-xiaomi-civi-3-disney-100th-anniversary-edition-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Xiaomi Civi 3 Disney 100th Anniversary Edition Phone Hassle-Free</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-multiview-tech-with-windows/"><u>Mastering Multiview Tech with Windows</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/navigating-the-new-era-of-streaming-with-chromecast-and-google-tv/"><u>Navigating the New Era of Streaming with Chromecast and Google TV</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-the-no-script-zone-essential-4-steps-for-ps-execution-restoration/"><u>Navigating the No-Script Zone: Essential 4 Steps for PS Execution Restoration</u></a></li>
-<li><a href="https://windows11.techidaily.com/reverting-lost-presets-for-win-11-sleep-mode/"><u>Reverting Lost Presets for Win 11 Sleep Mode</u></a></li>
-<li><a href="https://windows11.techidaily.com/scripting-changes-to-fn-key-settings-in-win-1011/"><u>Scripting Changes to FN Key Settings in Win 10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/win-11s-error-740-a-strategic-plan-for-correction-and-compensation/"><u>Win 11’S Error 740: A Strategic Plan for Correction and Compensation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-full-analysis-of-t5-eyes-exceptional-action-recording/"><u>[New] Full Analysis of T5 Eye's Exceptional Action Recording</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-youtube-conversion-pros-10-best-practices-unveiled/"><u>[Updated] YouTube Conversion Pros 10 Best Practices Unveiled</u></a></li>
+<li><a href="https://discover-best.techidaily.com/comment-piratage-sans-frais-copier-un-dvd-de-la-region-pal-ou-de-la-region-2-avec-les-formats-de-video-contemporains/"><u>Comment Piratage Sans Frais : Copier Un DVD De La Région PAL Ou De La Région 2 Avec Les Formats De Vidéo Contemporains</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-rectify-windows-error-0x80070522-client-permissions/"><u>Guide to Rectify Windows' Error 0X80070522: Client Permissions</u></a></li>
+<li><a href="https://windows11.techidaily.com/harnessing-the-power-windows-11-and-high-dynamic-range-explained/"><u>Harnessing the Power: Windows 11 and High Dynamic Range Explained</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-downgrade-iphone-11-pro-max-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 11 Pro Max to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722176238567-how-to-seamlessly-integrate-chatgpt-into-your-windows-experience/"><u>How To Seamlessly Integrate ChatGPT Into Your Windows Experience!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2020-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-to-file-explorer-through-onedrive-in-windows/"><u>Navigate to File Explorer Through OneDrive in Windows</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-take-your-videos-to-the-next-level-adding-effects-in-fcp-x-3-steps/"><u>New Take Your Videos to the Next Level Adding Effects in FCP X (3 Steps)</u></a></li>
+<li><a href="https://windows11.techidaily.com/prevent-spontaneous-shutdowns-on-windows-11-devices/"><u>Prevent Spontaneous Shutdowns on Windows 11 Devices</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/redesigning-with-ease-integrating-projects-into-the-flip-program-platform/"><u>Redesigning with Ease: Integrating Projects Into the Flip Program Platform</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/step-by-step-producing-square-videos-in-imovie-for-instagram-for-2024/"><u>Step-by-Step Producing Square Videos in iMovie for Instagram for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-windows-11s-search-bar-efficacy/"><u>Streamline Windows 11'S Search Bar Efficacy</u></a></li>
+<li><a href="https://windows11.techidaily.com/tick-the-box-quick-windows-fixes-to-modify-file-dates/"><u>Tick the Box: Quick Windows Fixes to Modify File Dates</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-wizards-infuse-ui-with-divine-duties/"><u>Windows Wizards: Infuse UI with Divine Duties</u></a></li>
 </ul></div>
 

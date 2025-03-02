@@ -1,7 +1,7 @@
 ---
 title: Resolving Backward Typing Glitches on Windows
-date: 2025-02-07T06:59:04.212Z
-updated: 2025-02-11T04:53:49.408Z
+date: 2025-02-24T03:58:57.252Z
+updated: 2025-03-02T04:19:46.850Z
 tags:
   - windows10
   - windows11
@@ -25,19 +25,11 @@ thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Use the CTRL + Left Shift Keyboard Shortcut to Change the Typing Direction
 
  Some Windows computers have macros that can change the typing direction from left to right. This is one of the most common reasons why your keyboard may start typing from right to left on Windows. If this is the case, simply press **Ctrl + Right Shift** on your keyboard to change the typing direction back to left to right.
 
  Several users on a [Microsoft Community post](https://answers.microsoft.com/en-us/windows/forum/all/how-to-stop-keyboard-from-typing-in-reverse/a766f453-0ef3-4aaa-8690-76ee9e86729c)reported fixing the problem with this trick. Note that if you accidentally press the **Ctrl + Left Shift** key, Windows will start typing in reverse again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Check Region Settings
 
@@ -71,15 +63,7 @@ thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547
 4. Click **Next** to run the troubleshooter.  
 ![Hardware and Devices Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hardware-and-devices-troubleshooter-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Allow the troubleshooter to find and fix any problems, and check if the issue still occurs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Update or Reinstall Your Keyboard Drivers
 
@@ -94,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547
  It's possible that the left arrow key on your keyboard is stuck, which is why Windows is typing in reverse. Try using the left arrow key in another program to see if the issue persists. If it does, you may need to clean the key or remove and reinsert it.
 
  Alternatively, you can also try using a different keyboard if one is available.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bring Backward Typing to a Full Stop on Windows
 
@@ -115,24 +95,24 @@ thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-enhanced-photoshoot-with-online-backdrop-swap/"><u>[New] 2024 Approved Enhanced Photoshoot with Online Backdrop Swap</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-streaming-mastery-record-hulu-playback-on-multiple-systems/"><u>[New] In 2024, Streaming Mastery Record Hulu Playback on Multiple Systems</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/outube-conversion-guide-top-8-picks-for-avi-enthusiasts-for-2024/"><u>[New] YouTube Conversion Guide Top 8 Picks for AVI Enthusiasts for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/accessing-stealthed-elements-in-windows-11-ui/"><u>Accessing Stealthed Elements in Windows 11 UI</u></a></li>
-<li><a href="https://windows11.techidaily.com/advance-windows-11-task-manager-refresh-speeds/"><u>Advance Windows 11 Task Manager Refresh Speeds</u></a></li>
-<li><a href="https://windows11.techidaily.com/briskly-engage-bings-ai-assistant-in-windows-11-search-field/"><u>Briskly Engage Bing's AI Assistant in Windows 11 Search Field</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-wacatacbml-barriers-a-guide-for-safe-windows-navigation/"><u>Bypassing Wacatac.B!ml Barriers - A Guide for Safe Windows Navigation</u></a></li>
-<li><a href="https://windows11.techidaily.com/clearing-up-high-dpi-display-issues-in-windows/"><u>Clearing Up High DPI Display Issues in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/counteracting-the-issue-of-unsaved-nvidia-settings-in-windows-11/"><u>Counteracting the Issue of Unsaved NVidia Settings in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/customizing-quick-access-to-start-from-onedrive/"><u>Customizing Quick Access to Start From OneDrive</u></a></li>
-<li><a href="https://windows11.techidaily.com/discover-quick-ways-to-adjust-your-computers-sound-output-in-windows-11/"><u>Discover Quick Ways to Adjust Your Computer's Sound Output in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/dissecting-windows-build-numbers-and-updates/"><u>Dissecting Windows Build Numbers & Updates</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-advice-restoring-your-surface-pros-ability-to-connect-to-wireless-networks/"><u>Expert Advice: Restoring Your Surface Pro’s Ability to Connect to Wireless Networks</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-12-mini-without-apple-id-password-by-drfone-ios/"><u>How To Erase an iPhone 12 mini Without Apple ID Password?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-nokia-c22-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Nokia C22</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/techniques-for-storing-live-video-calls/"><u>Techniques for Storing Live Video Calls</u></a></li>
-<li><a href="https://win-popular.techidaily.com/transferir-datos-desde-hdd-a-un-nuevo-ssd-facilmente-con-guia-de-video/"><u>Transferir Datos Desde HDD a Un Nuevo SSD Fácilmente Con Guía De Vídeo</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-reduce-file-size-not-quality-5-top-free-video-compression-apps/"><u>Updated 2024 Approved Reduce File Size, Not Quality 5 Top Free Video Compression Apps</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-best-budget-friendly-mp3-mesh-merger-software-2023s-guide/"><u>Updated Best Budget-Friendly MP3 Mesh Merger Software 2023S Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/roven-pc-strategies-elevating-video-quality-and-engagement-on-youtube/"><u>[New] Proven PC Strategies Elevating Video Quality and Engagement on YouTube</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ho-rules-the-realm-of-youtube-for-2024/"><u>[New] Who Rules the Realm of YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-high-definition-hardware-unveiled-by-gamers-for-2024/"><u>[Updated] High-Definition Hardware Unveiled by Gamers for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/audience-grade-sound-recording-with-audacity-for-2024/"><u>Audience-Grade Sound Recording with Audacity for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/easy-tutorial-on-how-to-install-the-phone-manager-app-on-android-devices-via-apk/"><u>Easy Tutorial on How to Install the Phone Manager App on Android Devices via APK</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-frequent-fails-in-windows-11/"><u>Fixing Frequent Fails in WINDOWS 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/flawless-shopping-experience-eradicating-error-x80072f30-on-pc/"><u>Flawless Shopping Experience: Eradicating Error X80072F30 on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/guidelines-for-stable-windows-volume-mixer-operation/"><u>Guidelines for Stable Windows Volume Mixer Operation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-the-art-of-srt-postings-a-guide-for-platform-specific-strategies/"><u>In 2024, Mastering the Art of SRT Postings A Guide for Platform-Specific Strategies</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-smart-strategies-for-entrepreneurial-video-marketing/"><u>In 2024, SMART Strategies for Entrepreneurial Video Marketing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-step-by-step-guide-for-vintage-photo-conversion-and-storage/"><u>In 2024, The Step-by-Step Guide for Vintage Photo Conversion & Storage</u></a></li>
+<li><a href="https://windows11.techidaily.com/instructional-path-to-windows-11-safe-hardware-dialog/"><u>Instructional Path to Windows 11 Safe Hardware Dialog</u></a></li>
+<li><a href="https://windows11.techidaily.com/introducing-cli-to-taskmanager-for-enhanced-computing-experience/"><u>Introducing CLI to TaskManager for Enhanced Computing Experience</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-moments-of-fame-do-youtubes-shorts-or-tiktoks-get-the-edge/"><u>Micro-Moments of Fame Do YouTubes Shorts or TikToks Get the Edge?</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-asking-too-many-hands-on-windows-systems/"><u>Overcome Asking Too Many Hands on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-blackwhite-display-issues-in-store-app/"><u>Overcoming Black/White Display Issues in Store App</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-to-bypass-winos-gpu-scheduler-features/"><u>Techniques to Bypass WinOS GPU Scheduler Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-tackling-printer-error-xfffee/"><u>The Ultimate Guide to Tackling Printer Error XFFFEE</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/ultimate-1920x1080-dragon-background-graphics-set-professional-images-photos-and-pictures-from-yl-software/"><u>Ultimate 1920X1080 Dragon Background Graphics Set – Professional Images, Photos & Pictures From YL Software</u></a></li>
 </ul></div>
 
